@@ -48,44 +48,50 @@ from tika import parser
 ### TOOLS ###
 #############
 
+named_conversion_tools = dict()
+ext_name_tool = dict()
 
 ## Functions taking a list of objects as first argument
 ## TODO Class to specify source/target extension
 print('Tools converting in the following extensions:')
 
 ## pdf<>png
-def pdf2img(doc_objects):
+def pdf2img(pdf_filepath):
     
     compression = 'zip' # either "zip", "lzw", "group4"
 
     zoom = 2 # to increase the resolution
     mat = fitz.Matrix(zoom, zoom)
+    doc = fitz.open(pdf_filepath)
     image_list = []
-
-    for doc_object in doc_objects:   
-        for page in doc_object:
-            pix = page.get_pixmap(matrix = mat)
-            img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
-            image_list.append(img)
+  
+    for page in doc:
+        pix = page.get_pixmap(matrix = mat)
+        img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
+        image_list.append(img)
     return image_list
 
 pdf2img.extensions = ('pdf', 'png')
+ext_name_tool[('pdf', 'png')] = {}
 print(pdf2img.extensions)
 
 ## >txt
 
-def pytesseract_ocr(doc_objects):
+def pytesseract_ocr(pdf_filepath):
+    doc_objects = pdf2img(pdf_filepath)
     for doc_object in doc_objects:
         extracted_text = ''
         extracted_text += (pytesseract.image_to_string(doc_object)+'\n')
     return extracted_text
 
 pytesseract_ocr.extensions = ('png', 'txt')
+ext_name_tool[('png', 'txt')] = {}
 print(pytesseract_ocr.extensions)
 
 
-def PyPDF4_ocr(doc_object):
-    
+def PyPDF4_ocr(pdf_filepath):
+    doc_object = open(pdf_filepath, 'rb')
+
     pdfReader = PyPDF4.PdfFileReader(doc_object) # creating a pdf reader object
     
     print(pdfReader.numPages) # printing number of pages in pdf file
@@ -96,31 +102,48 @@ def PyPDF4_ocr(doc_object):
     return text
 
 PyPDF4_ocr.extensions = ('pdf', 'txt')
+ext_name_tool[('pdf', 'txt')] = {}
 print(PyPDF4_ocr.extensions)
+
+
+def pdfminer_ocr(pdf_filepath):
+    return extract_text(pdf_filepath)
+
+pdfminer_ocr.extensions = ('pdf', 'txt')
+ext_name_tool[('pdf', 'txt')] = {}
+print(pdfminer_ocr.extensions)
+
+def tika_ocr(pdf_filepath):
+    raw = parser.from_file(pdf_filepath)
+    text = raw['content']
+    return text
+    
+tika_ocr.extensions = ('pdf', 'txt')
+ext_name_tool[('pdf', 'txt')] = {}
+print(tika_ocr.extensions)
 
 #####################
 ### DICT OF TOOLS ###
 #####################
 
+named_conversion_tools = {}
 local_functions = dict(locals())
 
-named_conversion_tools = dict()
 for key, value in local_functions.items():
     if "function" in str(value) and 'builtins' not in str(key):
         #print(locals()[key])
         named_conversion_tools[key] = locals()[key]
 
-ext_name_tool = dict()
+
+logs = []
+
 for name, tool in named_conversion_tools.items():
-    
-    print('Tools available:')
     try:
         ext = tool.extensions
-        ext_name_tool[ext] = dict()
         ext_name_tool[ext][name]=tool
+        logs.append([ext,ext_name_tool])
     except AttributeError:
         continue
-    
 
 tools = ext_name_tool
 
