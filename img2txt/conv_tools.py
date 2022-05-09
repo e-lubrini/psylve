@@ -122,6 +122,31 @@ tika_ocr.extensions = ('pdf', 'txt')
 ext_name_tool[('pdf', 'txt')] = {}
 print(tika_ocr.extensions)
 
+
+##########################
+### CONV AND SAVE TOOL ###
+##########################
+
+def conv_ad_save(dir_path,
+                doc_object,
+                converter,
+                tool_names,
+                OKCYAN = '\033[96m',
+                ENDC = '\033[0m'):
+    print(OKCYAN + 'Converting:', dir_path + ENDC)
+      
+    # convert to jpg/pdf
+    doc_object.to_target_format('png')
+    doc_object.to_target_format('pdf')
+    print(doc_object.data['pdf'])
+    
+    # convert to txt with all tools
+    converter.convert_to_txt(doc_object, tool_names=tool_names)
+
+    # save all
+    doc_object.save_all_txt_conversions(dir_path)
+    return
+
 #####################
 ### DICT OF TOOLS ###
 #####################
