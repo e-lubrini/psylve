@@ -8,35 +8,58 @@
 # by using the to_target_format method, the document can be converted
 # and stored in another format.
 
+from importlib.metadata import metadata
 import os
 from PIL import Image
 import string
 from tqdm import tqdm
-from tools.conv_tools import tools as ctools
-from tools.conv_tools import ter
+from tools.conversion.conv_tools import tools as ctools
+from tools.conversion.conv_tools import ter
+from tools.utils import *
 
 class Doc:
 
-   def __init__(self, input_filepaths, tools):
+   def __init__(self, input_filepaths, meta_name, tools):
       self.tools = tools
 
       # input_filepath is a LIST of filepaths (in case more files belong to the same document)
       self.input_filepaths = input_filepaths
       self.main_input_filepath = input_filepaths[0] # only used to detect filename and extension
-      
+
       self.input_extension = os.path.splitext(self.main_input_filepath)[-1].lower().translate(str.maketrans('', '', string.punctuation))
       self.input_filename = os.path.basename(self.main_input_filepath).lower()
       
       self.txt_conversions = dict() # dict of {tool-name: converted-text} pairs
 
       self.data = dict() # dict of {target_format: {tool-name: converted-text}} e.g. {'jpg': {'pdf2txt': <jpg-object>}}
+      self.meta_name = meta_name
+      self.metadata = dict()
+
+   def get_metadata(self, text):
+      doc_dirpath = get_parent_dir(self.main_input_filepath)
+      meta_path = os.path.join(doc_dirpath,self.meta_name)
+      metadata_exists_Q = os.path.isfile(meta_path)
+      if metadata_exists_Q:
+         print('Reading existing metadata for {0}.'.format(self.input_filename))
+         with open(meta_path) as f:
+            metadata = json.load(f)
+         dbg(metadata)
+         return metadata
+      else:
+         print('Generating metadata.')
+         prep_text,_ = prep_and_tokenise(self.data['txt']['pytesseract_ocr'])
+         self.metadata['lang_codes'] = get_langs(prep_text)
+         self.metadata['emb_txt'] = get_emb_txt(prep_text)
+         lang_codes = self.metadata['lang_codes']
+         emb_txt = self.metadata['emb_txt']
+         return dict(lang_codes=lang_codes,
+                  emb_txt=emb_txt)
 
    ## doc conversion img<>pdf
    def to_target_format(self, target_format, tool_name = None):
       """target_format can be pdf, png"""
       #selected_tool_name = tool_name
       global selected_tool_name
-      
       data_selection = self.data.get(target_format)      
       if data_selection:                           # if at least an instance of (converted/original) data is already stored for given target_format...
          if not tool_name:
@@ -155,7 +178,6 @@ class TxtConverter:
    def __init__(self, tools):
       #self.available_functions = {str(f):f for f in globals().values() if type(f) == types.FunctionType}
       self.tools = tools
-      
    # select tool and convert
    def convert_to_txt(self,
                      doc,

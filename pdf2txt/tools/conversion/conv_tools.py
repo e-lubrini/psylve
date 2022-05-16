@@ -22,31 +22,26 @@ from fpdf import FPDF
 
 # pytesseract
 import pytesseract
-import shutil
 import os
-import random
-#try:
 from PIL import Image
-#except ImportError:
-#import Image
 
 # PyPDF4
 import PyPDF4
 
 # pdfminer.six
-import pdfminer
 from pdfminer.high_level import extract_text
 
 # PyPDF4 txt + info
 import PyPDF4
-from PyPDF4 import PdfFileReader
 
 # TIKA
 from tika import parser
 
 # pdfreader
-from pdfreader import PDFDocument, SimplePDFViewer
+from pdfreader import SimplePDFViewer
 
+# grobid
+from tools.conversion.grobid import grobid
 
 #############
 ### TOOLS ###
@@ -57,7 +52,7 @@ ext_name_tool = dict()
 
 ## Functions taking a list of objects as first argument
 ## TODO Class to specify source/target extension
-print('Tools converting in the following extensions:')
+##print('Tools converting in the following extensions:')
 
 ## pdf<>png
 def pdf2img(pdf_filepath):
@@ -77,18 +72,22 @@ def pdf2img(pdf_filepath):
 
 pdf2img.extensions = ('pdf', 'png')
 ext_name_tool[('pdf', 'png')] = {}
-print(pdf2img.extensions)
+#print(pdf2img.extensions)
 
-def img2pdf(img_filepaths):
+def img2pdf(paths):
     pdf = FPDF()
-    for img_filepath in img_filepaths:
+    for path in paths:
         pdf.add_page()
-        pdf.image(img_filepath)
-    pdf.output(os.path.split(img_filepath)[-2], "F")
+        try:
+            pdf.image(path)
+        except:
+            print(path)
+            print('Warning: "{0}" extension not supported for conversion to pdf'.format(path[:-4]))
+    pdf.output(os.path.split(path)[-2], "F")
 
 img2pdf.extensions = ('[img]', 'pdf')
 ext_name_tool[('[img]', 'pdf')] = {}
-print(img2pdf.extensions)
+#print(img2pdf.extensions)
 
 ## >txt
 
@@ -101,7 +100,7 @@ def pytesseract_ocr(pdf_filepath):
 
 pytesseract_ocr.extensions = ('png', 'txt')
 ext_name_tool[('png', 'txt')] = {}
-print(pytesseract_ocr.extensions)
+#print(pytesseract_ocr.extensions)
 
 
 def PyPDF4_ocr(pdf_filepath):
@@ -109,7 +108,7 @@ def PyPDF4_ocr(pdf_filepath):
 
     pdfReader = PyPDF4.PdfFileReader(doc_object) # creating a pdf reader object
     
-    n_pages = pdfReader.numPages # printing number of pages in pdf file
+    n_pages = pdfReader.numPages # #printing number of pages in pdf file
     text = ''
 
     for n in range(n_pages):
@@ -119,7 +118,7 @@ def PyPDF4_ocr(pdf_filepath):
 
 PyPDF4_ocr.extensions = ('pdf', 'txt')
 ext_name_tool[('pdf', 'txt')] = {}
-print(PyPDF4_ocr.extensions)
+#print(PyPDF4_ocr.extensions)
 
 
 def pdfminer_ocr(pdf_filepath):
@@ -127,7 +126,7 @@ def pdfminer_ocr(pdf_filepath):
 
 pdfminer_ocr.extensions = ('pdf', 'txt')
 ext_name_tool[('pdf', 'txt')] = {}
-print(pdfminer_ocr.extensions)
+#print(pdfminer_ocr.extensions)
 
 def tika_ocr(pdf_filepath):
     raw = parser.from_file(pdf_filepath)
@@ -136,7 +135,7 @@ def tika_ocr(pdf_filepath):
     
 tika_ocr.extensions = ('pdf', 'txt')
 ext_name_tool[('pdf', 'txt')] = {}
-print(tika_ocr.extensions)
+#print(tika_ocr.extensions)
 
 def pdfreader_ocr(pdf_file_name):
     # get raw document
@@ -146,13 +145,22 @@ def pdfreader_ocr(pdf_file_name):
     try:
         viewer.render()
         content = viewer.canvas.text_content
+        return content
     except ValueError:
-        print('Value Error')
-    return content
+        #print('Value Error')
+        return ''
 
 pdfreader_ocr.extensions = ('pdf', 'txt')
 ext_name_tool[('pdf', 'txt')] = {}
-print(pdfreader_ocr.extensions)
+#print(pdfreader_ocr.extensions)
+
+
+def grobid_extr(pdf_filepath):
+    return grobid.extract_emb_txt(pdf_filepath)
+
+grobid_extr.extensions = ('pdf', 'txt')
+ext_name_tool[('pdf', 'txt')] = {}
+#print(grobid_extr.extensions)
 
 ##########################
 ### CONV AND SAVE TOOL ###
@@ -163,14 +171,12 @@ def conv_ad_save(dir_path,
                 converter,
                 tool_names,
                 overwrite = False,
-                OKCYAN = '\033[96m',
-                ENDC = '\033[0m'):
-    print(OKCYAN + 'Converting:', dir_path + ENDC)
+                ):
       
     # convert to jpg/pdf
     doc_object.to_target_format('png')
     doc_object.to_target_format('pdf')
-    print(doc_object.data['pdf'])
+    #print(doc_object.data['pdf'])
     
     # convert to txt with all tools
     converter.convert_to_txt(doc_object, tool_names=tool_names)
@@ -188,7 +194,7 @@ local_functions = dict(locals())
 
 for key, value in local_functions.items():
     if "function" in str(value) and 'builtins' not in str(key):
-        #print(locals()[key])
+        ##print(locals()[key])
         named_conversion_tools[key] = locals()[key]
 
 
