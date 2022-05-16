@@ -23,7 +23,6 @@ from urllib3 import Retry
 #nltk.download('words')
 
 from deep_translator import GoogleTranslator
-from googletrans import Translator
 
 import subprocess
 import inspect
@@ -43,8 +42,8 @@ def get_var_name(var):
         var = [var_name for var_name, var_val in callers_local_vars if var_val is var][0] 
     return str(var)
 
-def dbg(mess):
-    subprocess.Popen(['echo', str('\033[32m'+ str(get_var_name(mess)+': '+'\033[0m'+str(mess)))])
+def dbg(mess, title=''):
+    subprocess.Popen(['echo', str('\033[35m'+ str(title)+'\033[32m'+ str(get_var_name(mess)+': '+'\033[0m'+str(mess)))])
     return
 
 #############
@@ -72,6 +71,8 @@ def list_ext(path,
             invert=False): # return files WITHOUT such extensions instead
     path_list = list()
     for ext in exts:
+        if type(ext) == list:
+            ext = ext[0]
         for filename in os.listdir(path):
             filepath = os.path.join(path,filename)
             ends_ext = filepath.endswith(ext)
@@ -87,8 +88,7 @@ def list_ext(path,
 
 # creates a folder with the document's name and moves the document in it
 def mv_to_custom_dir(doc_path):
-    split_path = os.path.split(doc_path)  
-    dbg(doc_path)
+    split_path = os.path.split(doc_path)
     ext = os.path.splitext(doc_path)[-1]
     new_dir_name = split_path[-1][:-len(ext)] # same as filename, without the extension
     filename = split_path[-1]
@@ -234,15 +234,14 @@ def pdf2txt(doc_dir_path,
         tools[n] = t
     for tool_name in tool_names:
         output_dir_path = os.path.join(doc_dir_path,tool_name)
-        os.mkdir(output_path)
+        if not os.path.exists(output_dir_path):
+            os.mkdir(output_dir_path)
         tool = tools[tool_name]
-        dbg(tool)
         pdf_filepath = get_child_ext_path(doc_dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
         extracted_texts[tool_name]= tool(pdf_filepath)  # pass it to tool
         output_path = os.path.join(output_dir_path,tool_name+'.txt')
-        with open(output_path) as f:
+        with open(output_path, 'w+') as f:
                 f.write(extracted_texts[tool_name])
-    dbg(extracted_texts)
     
 def pdf2xml(dir_path):
     pdf_filepath = get_child_ext_path(dir_path, ['pdf'])
@@ -252,8 +251,6 @@ def pdf2xml(dir_path):
     output_path = os.path.join(output_dir_path,'grobid.txt')
     with open(output_path, 'w') as f:
             f.write(extracted_xml)
-
-
 
 ########################
 ## LANGUAGE DETECTION ##
@@ -283,7 +280,6 @@ def in_lang_sc(w, lang_code, max_error_count = 0):
 # (c) ...based on translation
 def translate_wl(lang_code, data_path=None):
     lang_wordlist = set()
-    translator = Translator(lang_code)
     for en_w in tqdm(words.words()):
         translation = (GoogleTranslator('en',lang_code).translate(en_w))
         lang_wordlist.add(translation)
