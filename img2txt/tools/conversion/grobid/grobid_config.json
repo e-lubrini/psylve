@@ -1,0 +1,6 @@
+{
+"grobid_inst_path":"../grobid",
+"config_path":"/home/lubrini/GitHub/grobid_client_python/config.json",
+"GROBID_URL" : "https://cloud.science-miner.com/grobid/",
+"url" : "%s/api/processHeaderDocument' % GROBID_URL"
+}
