@@ -28,7 +28,7 @@ import subprocess
 import inspect
 import functools
 
-from tools.conversion.conv_tools import grobid_extr
+from tools.conversion.conv_funs import grobid_extr
 
 ###########
 ## DEBUG ##
@@ -41,14 +41,21 @@ def get_var_name(var):
         callers_local_vars = inspect.currentframe().f_back.f_locals.items()
         var = [var_name for var_name, var_val in callers_local_vars if var_val is var][0] 
     return str(var)
-
 def dbg(mess, title=''):
-    subprocess.Popen(['echo', str('\033[35m'+ str(title)+'\033[32m'+ str(get_var_name(mess)+': '+'\033[0m'+str(mess)))])
+    #subprocess.Popen(['echo', str('\033[35m'+ str(title)+'\033[32m'+ str(get_var_name(mess)+': '+'\033[0m'+str(mess)))])
+    print(str('\033[35m'+ str(title)+'\033[32m'+ str(get_var_name(mess)+': '+'\033[0m'+str(mess))))
     return
 
 #############
 ## GENERIC ##
 #############
+def get_funs_from_module(module):
+    funs_raw = getmembers(module,isfunction)
+    funs = dict()
+    for n,t in funs_raw:
+        funs[n] = t
+    return funs
+
 def true_counter(funcQ, elems, **kwargs):
     #print('FUNC:', func)
     #print('ELEMS:', elems)
@@ -86,6 +93,11 @@ def list_ext(path,
                 path_list.append(filepath)
     return path_list
 
+# get one child with requested extension
+def get_child_ext_path(dir_path, ext):
+    child = list_ext(path=dir_path,exts=[ext])[0]
+    return child
+
 # creates a folder with the document's name and moves the document in it
 def mv_to_custom_dir(doc_path):
     split_path = os.path.split(doc_path)
@@ -113,10 +125,6 @@ def get_child_dir_paths(dir_path):
     child_paths = [os.path.join(dir_path,child_name) for child_name in child_names]
     dir_paths = [child_path for child_path in child_paths if os.path.isdir(child_path)]
     return dir_paths
-
-def get_child_ext_path(dir_path, ext):
-    child,*_ = list_ext(path=dir_path,exts=[ext])
-    return child
 
 ###############
 ## PDF TOOLS ##
@@ -147,34 +155,38 @@ def get_langs(prep_text,     # text whose language is to be detected
     prediction = (model.predict(prep_text, k=lang_n))[0] # tuple of language codes and respective probabilities
     lang_codes = [label[-2:] for label in prediction]
     return lang_codes    # list of language code(s) detected
-def get_metadata(filepath, metadata_lab, meta_name):
+
+def get_metadata(filepath):
     doc_dirpath = get_parent_dir(filepath)
-    meta_path = os.path.join(doc_dirpath,meta_name)
-    metadata_exists_Q = os.path.isfile(meta_path)
-    if metadata_exists_Q:
+    try:
+        meta_path = get_child_ext_path(doc_dirpath, ['.json'])
         print('Reading existing metadata for {0}.'.format(filepath))
         with open(meta_path) as f:
             metadata = json.load(f)
-        return metadata
-    else:
+    except ValueError:
         print('Generating metadata.')
         emb_txt = get_emb_txt(filepath)
+        dbg(emb_txt)
         prep_txt,_ = prep_and_tokenise(emb_txt)
         lang_codes = get_langs(prep_txt)
-        return dict(lang_codes=lang_codes,
+        metadata = dict(lang_codes=lang_codes,
                 emb_txt=emb_txt)
+    return metadata
 
-def write_pdf_metadata(path, metadata_lab, meta_name):
+def write_pdf_metadata(path):
     if os.path.isfile(path):
         dir_path = get_parent_dir(path)
         filepath = path
-    else:
+    elif os.path.isdir(path):
         dir_path = path
         filepath = get_child_ext_path(dir_path=dir_path, ext='pdf')
+    else:
+        print('enter an existing path')
     # info to be stored
-    metadata = get_metadata(filepath, metadata_lab, meta_name=meta_name)
+    metadata = get_metadata(filepath)
+    dbg(metadata.keys(), 'WRITE ')
     # write metadata file
-    meta_path = os.path.join(dir_path,meta_name)
+    meta_path = os.path.join(dir_path, 'metadata.json')
     with open(meta_path, 'w') as f:
         json.dump(metadata, f, indent = 4)
     return metadata
@@ -224,14 +236,12 @@ def emb_text_is_usable(doc_path,
         return False
 
 def pdf2txt(doc_dir_path,
-            converter,
             tool_names,
-            overwrite=False):
+            tools,
+            overwrite=False,
+            ):
     
     extracted_texts = dict()
-    tools = dict()
-    for n,t in getmembers(converter.tools, isfunction):
-        tools[n] = t
     for tool_name in tool_names:
         output_dir_path = os.path.join(doc_dir_path,tool_name)
         if not os.path.exists(output_dir_path):
@@ -240,11 +250,13 @@ def pdf2txt(doc_dir_path,
         pdf_filepath = get_child_ext_path(doc_dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
         extracted_texts[tool_name]= tool(pdf_filepath)  # pass it to tool
         output_path = os.path.join(output_dir_path,tool_name+'.txt')
-        with open(output_path, 'w+') as f:
-                f.write(extracted_texts[tool_name])
-    
+        if overwrite==True or not os.path.exists(output_path):
+            with open(output_path, 'w+') as f:
+                    f.write(extracted_texts[tool_name])
+    return extracted_texts
+
 def pdf2xml(dir_path):
-    pdf_filepath = get_child_ext_path(dir_path, ['pdf'])
+    pdf_filepath = get_child_ext_path(dir_path, 'pdf')
     extracted_xml = grobid_extr(pdf_filepath)
     output_dir_path = os.path.join(dir_path,'grobid')
     os.mkdir(output_path)
