@@ -29,7 +29,7 @@ import subprocess
 import inspect
 import functools
 
-from psylloidea_ontology.img2txt.tools.conversion.conv_tools import grobid_extr
+from tools.conversion.conv_tools import grobid_extr
 
 ###########
 ## DEBUG ##
