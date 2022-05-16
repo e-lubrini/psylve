@@ -30,8 +30,12 @@ done
 ## CHECK THERE ARE AT LEAST TWO ARGUMENTS
 if (( $# < 2 )); then
     echo "The script requires at least two arguments. To check the expected syntax, use -h to print Help."
-    exit 1        
+    #exit 1         # TODO: uncomment
 fi
+
+# TODO: delete
+DIR='data/docs_for_conv/'
+GROBID_DIR='../../grobid'
 
 
 while getopts d:f:g: flag
@@ -42,6 +46,10 @@ do
         g) grobid_dir=${OPTARG};;
     esac
 done
+
+#echo "directory: $DIR"
+#echo "filepath: $FILE"
+#echo "gradlew path: $GROBID_DIR"
 
 # start grobid server
 bash './tools/conversion/grobid/grobid_server_start.sh' $GROBID_DIR &

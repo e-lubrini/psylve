@@ -13,8 +13,6 @@ import os
 from PIL import Image
 import string
 from tqdm import tqdm
-from tools.conversion.conv_tools import tools as ctools
-from tools.conversion.conv_tools import ter
 from tools.utils import *
 
 class Doc:

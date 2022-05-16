@@ -3,15 +3,13 @@
 #############
 ## IMPORTS ##
 #############
-from importlib.metadata import metadata
+import functools
 import subprocess
 import sys
 
-from numpy import full
 from tools.utils import *
-from tools.conversion import conv_tools as ctools
+from tools.conversion import conv_funs as ctools
 from tools.conversion.conv_classes import TxtConverter
-import functools
 
 ##############
 ## PIPELINE ##
@@ -21,19 +19,19 @@ subprocess.Popen(['echo', 'conversion starting...'])
 input_dir_path = sys.argv[1]
 dbg(sys.argv[1])
 
-# img to pdf
+# if there are any imgs, convert them to pdf
 not_pdf_filepaths = list_ext(input_dir_path,    # files to be converted to pdf
                             exts=['pdf'],
                             invert=True)
-map(functools.partial(ctools.img2pdf,
+map(functools.partial(ctools.img2pdf,           # convert to pdf
                     input_dir_path_path=input_dir_path),
-    not_pdf_filepaths)      # convert to pdf
+    not_pdf_filepaths)      
 
 pdf_filepaths = list_ext(input_dir_path,        # all pdf files
                         exts=['pdf'],
                         invert=False)
 
-# rearrange file structure
+# rearrange folder structure
 for pdf_filepath in pdf_filepaths:
     mv_to_custom_dir(pdf_filepath)
 
@@ -44,11 +42,11 @@ for dir_path in get_child_dir_paths(input_dir_path):
                                             'lang_codes'],
                                 meta_name='metadata.json',
                                 )
-# if has embedded file, extract it with grobid...
+# if file has embedded text, extract it with grobid...
     if metadata['emb_txt']:
         pdf2xml(dir_path)
 
-# ...else convert file with ocr
+# ...else convert file to text with ocr
     else:
         converter = TxtConverter(tools=ctools)
         pdf2txt(dir_path,

@@ -71,7 +71,6 @@ def pdf2img(pdf_filepath):
     return image_list
 
 pdf2img.extensions = ('pdf', 'png')
-ext_name_tool[('pdf', 'png')] = {}
 #print(pdf2img.extensions)
 
 def img2pdf(paths):
@@ -86,7 +85,6 @@ def img2pdf(paths):
     pdf.output(os.path.split(path)[-2], "F")
 
 img2pdf.extensions = ('[img]', 'pdf')
-ext_name_tool[('[img]', 'pdf')] = {}
 #print(img2pdf.extensions)
 
 ## >txt
@@ -99,7 +97,6 @@ def pytesseract_ocr(pdf_filepath):
     return extracted_text
 
 pytesseract_ocr.extensions = ('png', 'txt')
-ext_name_tool[('png', 'txt')] = {}
 #print(pytesseract_ocr.extensions)
 
 
@@ -117,7 +114,6 @@ def PyPDF4_ocr(pdf_filepath):
     return text
 
 PyPDF4_ocr.extensions = ('pdf', 'txt')
-ext_name_tool[('pdf', 'txt')] = {}
 #print(PyPDF4_ocr.extensions)
 
 
@@ -125,7 +121,6 @@ def pdfminer_ocr(pdf_filepath):
     return extract_text(pdf_filepath)
 
 pdfminer_ocr.extensions = ('pdf', 'txt')
-ext_name_tool[('pdf', 'txt')] = {}
 #print(pdfminer_ocr.extensions)
 
 def tika_ocr(pdf_filepath):
@@ -134,7 +129,6 @@ def tika_ocr(pdf_filepath):
     return text
     
 tika_ocr.extensions = ('pdf', 'txt')
-ext_name_tool[('pdf', 'txt')] = {}
 #print(tika_ocr.extensions)
 
 def pdfreader_ocr(pdf_file_name):
@@ -151,7 +145,6 @@ def pdfreader_ocr(pdf_file_name):
         return ''
 
 pdfreader_ocr.extensions = ('pdf', 'txt')
-ext_name_tool[('pdf', 'txt')] = {}
 #print(pdfreader_ocr.extensions)
 
 
@@ -159,65 +152,4 @@ def grobid_extr(pdf_filepath):
     return grobid.extract_emb_txt(pdf_filepath)
 
 grobid_extr.extensions = ('pdf', 'txt')
-ext_name_tool[('pdf', 'txt')] = {}
 #print(grobid_extr.extensions)
-
-##########################
-### CONV AND SAVE TOOL ###
-##########################
-
-def conv_ad_save(dir_path,
-                doc_object,
-                converter,
-                tool_names,
-                overwrite = False,
-                ):
-      
-    # convert to jpg/pdf
-    doc_object.to_target_format('png')
-    doc_object.to_target_format('pdf')
-    #print(doc_object.data['pdf'])
-    
-    # convert to txt with all tools
-    converter.convert_to_txt(doc_object, tool_names=tool_names)
-    
-    # save all
-    doc_object.save_all_txt_conversions(dir_path, overwrite)
-    return
-
-#####################
-### DICT OF TOOLS ###
-#####################
-
-named_conversion_tools = {}
-local_functions = dict(locals())
-
-for key, value in local_functions.items():
-    if "function" in str(value) and 'builtins' not in str(key):
-        ##print(locals()[key])
-        named_conversion_tools[key] = locals()[key]
-
-
-logs = []
-
-for name, tool in named_conversion_tools.items():
-    try:
-        ext = tool.extensions
-        ext_name_tool[ext][name]=tool
-        logs.append([ext,ext_name_tool])
-    except AttributeError:
-        continue
-
-tools = ext_name_tool
-
-#####################################
-### DICT OF TOOL EXT REQUIREMENTS ###
-#####################################
-
-tool_ext_req = dict()
-
-for (input_ext,_),tooldict in tools.items():
-    for tool_name in tooldict.keys():
-        tool_ext_req[tool_name] = input_ext
-
-ter = tool_ext_req
