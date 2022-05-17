@@ -28,8 +28,6 @@ import subprocess
 import inspect
 import functools
 
-from tools.conversion.conv_funs import grobid_extr
-
 ###########
 ## DEBUG ##
 ###########
@@ -87,10 +85,12 @@ def list_ext(path,
             has_ext = ends_ext and is_file
             if not invert:
                 ret_ext = has_ext 
-            else:
+                if ret_ext:
+                    path_list.append(filepath)
+            elif is_file:
                 ret_ext = not has_ext
-            if ret_ext:
-                path_list.append(filepath)
+                if ret_ext:
+                    path_list.append(filepath)
     return path_list
 
 # get one child with requested extension
@@ -163,10 +163,9 @@ def get_metadata(filepath):
         print('Reading existing metadata for {0}.'.format(filepath))
         with open(meta_path) as f:
             metadata = json.load(f)
-    except ValueError:
+    except (ValueError, IndexError):
         print('Generating metadata.')
         emb_txt = get_emb_txt(filepath)
-        dbg(emb_txt)
         prep_txt,_ = prep_and_tokenise(emb_txt)
         lang_codes = get_langs(prep_txt)
         metadata = dict(lang_codes=lang_codes,
@@ -184,7 +183,6 @@ def write_pdf_metadata(path):
         print('enter an existing path')
     # info to be stored
     metadata = get_metadata(filepath)
-    dbg(metadata.keys(), 'WRITE ')
     # write metadata file
     meta_path = os.path.join(dir_path, 'metadata.json')
     with open(meta_path, 'w') as f:
@@ -234,35 +232,6 @@ def emb_text_is_usable(doc_path,
         return multilang_score >= lang_threshold # if not enough words are part of the language...
     else:
         return False
-
-def pdf2txt(doc_dir_path,
-            tool_names,
-            tools,
-            overwrite=False,
-            ):
-    
-    extracted_texts = dict()
-    for tool_name in tool_names:
-        output_dir_path = os.path.join(doc_dir_path,tool_name)
-        if not os.path.exists(output_dir_path):
-            os.mkdir(output_dir_path)
-        tool = tools[tool_name]
-        pdf_filepath = get_child_ext_path(doc_dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
-        extracted_texts[tool_name]= tool(pdf_filepath)  # pass it to tool
-        output_path = os.path.join(output_dir_path,tool_name+'.txt')
-        if overwrite==True or not os.path.exists(output_path):
-            with open(output_path, 'w+') as f:
-                    f.write(extracted_texts[tool_name])
-    return extracted_texts
-
-def pdf2xml(dir_path):
-    pdf_filepath = get_child_ext_path(dir_path, 'pdf')
-    extracted_xml = grobid_extr(pdf_filepath)
-    output_dir_path = os.path.join(dir_path,'grobid')
-    os.mkdir(output_path)
-    output_path = os.path.join(output_dir_path,'grobid.txt')
-    with open(output_path, 'w') as f:
-            f.write(extracted_xml)
 
 ########################
 ## LANGUAGE DETECTION ##

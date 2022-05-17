@@ -1,9 +1,7 @@
 import os
-from inspect import getmembers, isfunction
-from tools import eval_tools
 from tools.utils import *
 from enchant.checker import SpellChecker
-import tqdm
+from tqdm import tqdm
 
 #######################
 ## SCORING FUNCTIONS ##

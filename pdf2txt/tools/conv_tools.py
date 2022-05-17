@@ -13,6 +13,7 @@
 from distutils import extension
 import os
 from matplotlib import image
+from tools.utils import *
 
 # pdf<>png
 import os
@@ -41,7 +42,7 @@ from tika import parser
 from pdfreader import SimplePDFViewer
 
 # grobid
-from tools.conversion.grobid import grobid
+from tools.grobid import grobid
 
 #############
 ### TOOLS ###
@@ -82,7 +83,7 @@ def img2pdf(paths):
         except:
             print(path)
             print('Warning: "{0}" extension not supported for conversion to pdf'.format(path[:-4]))
-    pdf.output(os.path.split(path)[-2], "F")
+    pdf.output(path[:-4]+'.pdf', "F")
 
 img2pdf.extensions = ('[img]', 'pdf')
 #print(img2pdf.extensions)
@@ -153,3 +154,33 @@ def grobid_extr(pdf_filepath):
 
 grobid_extr.extensions = ('pdf', 'txt')
 #print(grobid_extr.extensions)
+
+def pdf2txt(doc_dir_path,
+            tool_names,
+            tools,
+            overwrite=False,
+            ):
+    extracted_texts = dict()
+    for tool_name in tool_names:
+        output_dir_path = os.path.join(doc_dir_path,tool_name)
+        if not os.path.exists(output_dir_path):
+            os.mkdir(output_dir_path)
+        tool = tools[tool_name]
+        pdf_filepath = get_child_ext_path(doc_dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
+        dbg(tool)
+        dbg(pdf_filepath[-5:])
+        extracted_texts[tool_name]= tool(pdf_filepath)  # pass it to tool
+        output_filepath = os.path.join(output_dir_path,tool_name+'.txt')
+        if overwrite==True or not os.path.exists(output_filepath):
+            with open(output_filepath, 'w+') as f:
+                    f.write(extracted_texts[tool_name])
+    return extracted_texts
+
+def pdf2xml(dir_path):
+    pdf_filepath = get_child_ext_path(dir_path, 'pdf')
+    extracted_xml = grobid_extr(pdf_filepath)
+    output_dir_path = os.path.join(dir_path,'grobid')
+    os.mkdir(output_filpath)
+    output_filpath = os.path.join(output_dir_path,'grobid.txt')
+    with open(output_filpath, 'w') as f:
+            f.write(extracted_xml)
