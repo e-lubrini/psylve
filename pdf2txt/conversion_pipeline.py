@@ -42,18 +42,21 @@ for dir_path in get_child_dir_paths(input_dir_path):
     metadata = write_pdf_metadata(path=dir_path,
                                 metadata_lab=['emb_txt',
                                             'lang_codes'],
-                                meta_name='metadata.json',
                                 )
-# if file has embedded text, extract it with grobid...
+# if file has embedded text, extract it with grobid
     if metadata['emb_txt']:
-        pdf2xml(dir_path)
+        #pdf2xml(dir_path)
+        pass
+# convert file to text with ocr
+    pdf2txt(dir_path,
+            tool_names=['pytesseract_ocr'],
+            tools=get_funs_from_module(ctools),
+            save_in_dir=True,
+            overwrite=True,
+            )
 
-# ...else convert file to text with ocr
-    else:
-        pdf2txt(dir_path,
-                tool_names=['pytesseract_ocr'],
-                tools=get_funs_from_module(ctools),
-                overwrite=True,
-                )
+# translate text to English
+for dir_path in get_child_dir_paths(input_dir_path):
+    translate_doc(dir_path)
 
 subprocess.Popen(['echo', 'conversion successful!'])

@@ -52,8 +52,8 @@ done
 #echo "gradlew path: $GROBID_DIR"
 
 # start grobid server
-bash './tools/conversion/grobid/grobid_server_start.sh' $GROBID_DIR &
-GRO_PID=$! &
+#bash './tools/grobid/grobid_server_start.sh' $GROBID_DIR &
+#GRO_PID=$! &
 
 # start conversion
-(sleep 100; echo 'SLEPT'; python3 'conversion_pipeline.py' $DIR $FILE; pkill -9 $GRO_PID; echo 'KILLED $GRO_PID')
+(sleep 1; echo 'SLEPT'; python3 'conversion_pipeline.py' $DIR $FILE; pkill -9 $GRO_PID; echo 'KILLED $GRO_PID')

@@ -71,9 +71,6 @@ def pdf2img(pdf_filepath):
         image_list.append(img)
     return image_list
 
-pdf2img.extensions = ('pdf', 'png')
-#print(pdf2img.extensions)
-
 def img2pdf(paths):
     pdf = FPDF()
     for path in paths:
@@ -85,9 +82,6 @@ def img2pdf(paths):
             print('Warning: "{0}" extension not supported for conversion to pdf'.format(path[:-4]))
     pdf.output(path[:-4]+'.pdf', "F")
 
-img2pdf.extensions = ('[img]', 'pdf')
-#print(img2pdf.extensions)
-
 ## >txt
 
 def pytesseract_ocr(pdf_filepath):
@@ -96,10 +90,6 @@ def pytesseract_ocr(pdf_filepath):
     for doc_object in doc_objects:
         extracted_text += (pytesseract.image_to_string(doc_object)+'\n')
     return extracted_text
-
-pytesseract_ocr.extensions = ('png', 'txt')
-#print(pytesseract_ocr.extensions)
-
 
 def PyPDF4_ocr(pdf_filepath):
     doc_object = open(pdf_filepath, 'rb')
@@ -114,24 +104,14 @@ def PyPDF4_ocr(pdf_filepath):
         text += pageObj.extractText() # extracting text from page
     return text
 
-PyPDF4_ocr.extensions = ('pdf', 'txt')
-#print(PyPDF4_ocr.extensions)
-
-
 def pdfminer_ocr(pdf_filepath):
     return extract_text(pdf_filepath)
-
-pdfminer_ocr.extensions = ('pdf', 'txt')
-#print(pdfminer_ocr.extensions)
 
 def tika_ocr(pdf_filepath):
     raw = parser.from_file(pdf_filepath)
     text = raw['content']
     return text
     
-tika_ocr.extensions = ('pdf', 'txt')
-#print(tika_ocr.extensions)
-
 def pdfreader_ocr(pdf_file_name):
     # get raw document
     with open(pdf_file_name, "rb") as f:
@@ -148,19 +128,18 @@ def pdfreader_ocr(pdf_file_name):
         #print('Value Error')
         return ''
 
-pdfreader_ocr.extensions = ('pdf', 'txt')
-#print(pdfreader_ocr.extensions)
-
-
 def grobid_extr(pdf_filepath):
     return grobid.extract_emb_txt(pdf_filepath)
 
-grobid_extr.extensions = ('pdf', 'txt')
-#print(grobid_extr.extensions)
+
+#############
+### CONVS ###
+#############
 
 def pdf2txt(doc_dir_path,
             tool_names,
             tools,
+            save_in_dir=True,
             overwrite=False,
             ):
     extracted_texts = dict()
@@ -172,16 +151,19 @@ def pdf2txt(doc_dir_path,
         pdf_filepath = get_child_ext_path(doc_dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
         extracted_texts[tool_name]= str(tool(pdf_filepath))  # pass it to tool
         output_filepath = os.path.join(output_dir_path,tool_name+'.txt')
-        if overwrite==True or not os.path.exists(output_filepath):
+        if save_in_dir==True and (overwrite==True or not os.path.exists(output_filepath)):
             with open(output_filepath, 'w+') as f:
                     f.write(extracted_texts[tool_name])
     return extracted_texts
 
-def pdf2xml(dir_path):
+def pdf2xml(dir_path,
+            save_in_dir=False,
+            overwrite=True,):
     pdf_filepath = get_child_ext_path(dir_path, 'pdf')
     extracted_xml = grobid_extr(pdf_filepath)
     output_dir_path = os.path.join(dir_path,'grobid')
-    os.mkdir(output_filpath)
-    output_filpath = os.path.join(output_dir_path,'grobid.txt')
-    with open(output_filpath, 'w') as f:
+    os.mkdir(output_filepath)
+    output_filepath = os.path.join(output_dir_path,'grobid.txt')
+    if save_in_dir==True and (overwrite==True or not os.path.exists(output_filepath)):
+        with open(output_filepath, 'w') as f:
             f.write(extracted_xml)
