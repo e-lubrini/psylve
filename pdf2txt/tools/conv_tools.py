@@ -134,8 +134,11 @@ tika_ocr.extensions = ('pdf', 'txt')
 
 def pdfreader_ocr(pdf_file_name):
     # get raw document
-    fd = open(pdf_file_name, "rb")
+    with open(pdf_file_name, "rb") as f:
+        fd = f.read()
+    dbg(fd[-10:])
     viewer = SimplePDFViewer(fd)
+
     metadata = viewer.metadata
     try:
         viewer.render()
@@ -167,9 +170,7 @@ def pdf2txt(doc_dir_path,
             os.mkdir(output_dir_path)
         tool = tools[tool_name]
         pdf_filepath = get_child_ext_path(doc_dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
-        dbg(tool)
-        dbg(pdf_filepath[-5:])
-        extracted_texts[tool_name]= tool(pdf_filepath)  # pass it to tool
+        extracted_texts[tool_name]= str(tool(pdf_filepath))  # pass it to tool
         output_filepath = os.path.join(output_dir_path,tool_name+'.txt')
         if overwrite==True or not os.path.exists(output_filepath):
             with open(output_filepath, 'w+') as f:
