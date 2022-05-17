@@ -18,13 +18,15 @@ from enchant.errors import DictNotFoundError, DefaultLanguageNotFoundError
 from tqdm import tqdm
 
 from nltk.corpus import words
+from nltk.tokenize import sent_tokenize
+
 import nltk
 from urllib3 import Retry
 #nltk.download('words')
 
 from deep_translator import GoogleTranslator
 
-import subprocess
+from time import sleep
 import inspect
 import functools
 
@@ -172,7 +174,7 @@ def get_metadata(filepath):
                 emb_txt=emb_txt)
     return metadata
 
-def write_pdf_metadata(path):
+def write_pdf_metadata(path, metadata_lab):
     if os.path.isfile(path):
         dir_path = get_parent_dir(path)
         filepath = path
@@ -189,7 +191,7 @@ def write_pdf_metadata(path):
         json.dump(metadata, f, indent = 4)
     return metadata
 
-def read_doc_metadata(path, path_type='doc'):
+def get_meta_path(path, path_type):
     path_types = ['doc', # the document being treated
                 'meta', # the metadata file
                 'dir'] # the directory where the metadata is stored
@@ -198,15 +200,31 @@ def read_doc_metadata(path, path_type='doc'):
     match path_type:
         case 'doc': 
             dir_path = os.path.split(path)[-2]
-            meta_path = (meta_path for meta_path in os.listdir(dir_path) if meta_path.startswith('metadata'))
+            meta_path = get_child_ext_path(dir_path, '.json')
         case 'meta':
             meta_path = path
         case 'dir':
-            meta_path = (meta_path for meta_path in os.listdir(path) if meta_path.startswith('metadata'))
+            dir_path = path
+            meta_path = get_child_ext_path(dir_path, '.json')
+    return meta_path
+
+def read_doc_metadata(path, path_type):
+    meta_path = get_meta_path(path, path_type=path_type)
     with open(meta_path) as f:
         metadata = json.load(f)
     return metadata
-        
+
+# add metadata entry
+def add_metadata_entry(dir_path,
+                        entry_name,
+                        entry_cont,
+                        ):
+    metadata = read_doc_metadata(dir_path, path_type='dir')
+    meta_path = get_meta_path(dir_path, path_type='dir')
+    metadata[entry_name] = entry_cont
+    with open(meta_path, 'w') as f:
+        json.dump(metadata, f, indent = 4)
+
 # is emb text usable
 def emb_text_is_usable(doc_path, 
                     lang_threshold,
@@ -233,9 +251,9 @@ def emb_text_is_usable(doc_path,
     else:
         return False
 
-########################
-## LANGUAGE DETECTION ##
-########################
+####################
+## LANGUAGE TOOLS ##
+####################
 ## functions to check if a word is in a language...
 # (a) ...by loading a wordlist
 def in_lang_wl(w, lang_code, lang_wordlist_path='', lang_wordlist=[]):
@@ -324,3 +342,58 @@ def words_in_langs_ratio(doc_wordlist,
                                     sample_size=sample_size)
         multilang_ratio += single_lang_ratio
     return multilang_ratio
+
+def translate(txt,
+            source_lang_code,
+            targ_lang_code,
+            ):
+    sents = sent_tokenize(txt)
+    trans_sents = list()
+    for sent in sents:
+        trans_sent = (GoogleTranslator(source_lang_code,targ_lang_code).translate(sent))
+        trans_sents.append(trans_sent)
+        translation = ' '.join(trans_sents)
+    return translation
+
+# translate conversions to English
+def translate_conv(tool_dir_path,
+                    output_filename,
+                    source_lang_code,
+                    targ_lang_code,
+                    ):
+    dbg(tool_dir_path)
+    conv_path = get_child_ext_path(tool_dir_path, '.txt')
+    with open(conv_path, 'r') as f:
+        conv_txt = f.read()
+    trans_txt = translate(conv_txt, source_lang_code, targ_lang_code)
+    trans_path = os.path.join(tool_dir_path, output_filename+'.txt')
+    with open(trans_path, 'w+') as f:
+        f.write(trans_txt)
+    return trans_txt
+
+def translate_meta(dir_path,
+                    source_lang_code,
+                    targ_lang_code,
+                    ):
+    metadata = read_doc_metadata(dir_path, path_type='dir')
+    emb_txt_trans = translate(metadata['emb_txt'], source_lang_code, targ_lang_code)
+    add_metadata_entry(dir_path,
+                        'emb_txt_trans',
+                        emb_txt_trans,
+                        )
+    return emb_txt_trans
+
+def translate_doc(dir_path,
+                    targ_lang_code='en',
+                    output_filename='translation',
+                    ):
+    # translate conversions to English
+    source_lang_code = read_doc_metadata(dir_path, path_type='dir')['lang_codes'][0]
+    for tool_dir_path in get_child_dir_paths(dir_path):
+        translate_conv(tool_dir_path,
+                    output_filename=output_filename,
+                    source_lang_code=source_lang_code,
+                    targ_lang_code=targ_lang_code,
+                    )
+    translate_meta(dir_path, source_lang_code, targ_lang_code)
+    return
