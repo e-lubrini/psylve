@@ -1,13 +1,9 @@
 import json
 import os
 import subprocess
-
 import requests
 
-import subprocess
-
-
-conv_config_path = os.path.join('tools','conversion','grobid','grobid_config.json')
+conv_config_path = os.path.join('tools','grobid','grobid_config.json')
 with open(conv_config_path, 'r') as config_file:
     config = json.load(config_file)
 
