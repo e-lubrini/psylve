@@ -8,8 +8,8 @@ import subprocess
 import sys
 
 from tools.utils import *
-from tools.conversion import conv_funs as ctools
-from tools.conversion.conv_classes import TxtConverter
+from tools.conv_tools import *
+from tools import conv_tools as ctools
 
 ##############
 ## PIPELINE ##
@@ -22,14 +22,16 @@ dbg(sys.argv[1])
 # if there are any imgs, convert them to pdf
 not_pdf_filepaths = list_ext(input_dir_path,    # files to be converted to pdf
                             exts=['pdf'],
-                            invert=True)
+                            invert=True,
+                            )
 map(functools.partial(ctools.img2pdf,           # convert to pdf
                     input_dir_path_path=input_dir_path),
     not_pdf_filepaths)      
 
 pdf_filepaths = list_ext(input_dir_path,        # all pdf files
                         exts=['pdf'],
-                        invert=False)
+                        invert=False,
+                        )
 
 # rearrange folder structure
 for pdf_filepath in pdf_filepaths:
@@ -48,10 +50,10 @@ for dir_path in get_child_dir_paths(input_dir_path):
 
 # ...else convert file to text with ocr
     else:
-        converter = TxtConverter(tools=ctools)
         pdf2txt(dir_path,
-                converter=converter,
                 tool_names=['pytesseract_ocr'],
-                overwrite=True)
+                tools=get_funs_from_module(ctools),
+                overwrite=True,
+                )
 
 subprocess.Popen(['echo', 'conversion successful!'])
