@@ -7,12 +7,11 @@ Help()
    # Display Help
    echo "This script starts the conversion pipeline."
    echo
-   echo "Syntax: bash script_path [-d|f] [-g]"
+   echo "Syntax: bash [path to this script] -c [path to conf]"
    echo
    echo "options:"
-   echo "d     Data directory where documents are stored."
-   echo "f     A single file to be converted."
-   echo "g     Path to the grobid installation."
+   echo "c     Path to the config file."
+   echo "f     [OPT] Print additional messages."
    echo
    echo "h     Print this Help."
    echo
@@ -29,31 +28,23 @@ done
 
 ## CHECK THERE ARE AT LEAST TWO ARGUMENTS
 if (( $# < 2 )); then
-    echo "The script requires at least two arguments. To check the expected syntax, use -h to print Help."
-    #exit 1         # TODO: uncomment
+    echo -e "\033[0;31m The script requires at least one argument. To check the expected syntax, use -h to print Help.\033[0m"
+    exit 1
 fi
-
-# TODO: delete
-DIR='data/docs_for_conv/'
-GROBID_DIR='../../grobid'
-
 
 while getopts d:f:g: flag
 do
     case "${flag}" in
-        d) DIR=${OPTARG};;
-        f) FILE=${OPTARG};;
-        g) grobid_dir=${OPTARG};;
+        c) CONF_FILE=${OPTARG};;
+        v) VERBOSE=${OPTARG};;
     esac
 done
 
-#echo "directory: $DIR"
-#echo "filepath: $FILE"
-#echo "gradlew path: $GROBID_DIR"
-
 # start grobid server
+databasename=`jq '.grobid_path' $CONF_FILE`
+echo '$CONF_FILE'
 #bash './tools/grobid/grobid_server_start.sh' $GROBID_DIR &
 #GRO_PID=$! &
 
 # start conversion
-(sleep 1; echo 'SLEPT'; python3 'conversion_pipeline.py' $DIR $FILE; pkill -9 $GRO_PID; echo 'KILLED $GRO_PID')
+(sleep 1; echo 'SLEPT'; python3 'conversion_pipeline.py' $CONF_FILE; pkill -9 $GRO_PID; echo 'KILLED $GRO_PID')

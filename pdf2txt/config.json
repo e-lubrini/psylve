@@ -1,0 +1,7 @@
+{
+    "grobid" : {
+        "installation_dir_path":"../../grobid",
+        "custom_config_file_path":"tools/grobid/config.json"
+    }
+    
+}

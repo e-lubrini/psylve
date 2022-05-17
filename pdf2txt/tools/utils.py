@@ -29,6 +29,7 @@ from deep_translator import GoogleTranslator
 from time import sleep
 import inspect
 import functools
+from conversion_pipeline import verbose
 
 ###########
 ## DEBUG ##
@@ -41,9 +42,28 @@ def get_var_name(var):
         callers_local_vars = inspect.currentframe().f_back.f_locals.items()
         var = [var_name for var_name, var_val in callers_local_vars if var_val is var][0] 
     return str(var)
+
 def dbg(mess, title=''):
     #subprocess.Popen(['echo', str('\033[35m'+ str(title)+'\033[32m'+ str(get_var_name(mess)+': '+'\033[0m'+str(mess)))])
     print(str('\033[35m'+ str(title)+'\033[32m'+ str(get_var_name(mess)+': '+'\033[0m'+str(mess))))
+    return
+
+def verbose_mess(mess, verbose=verbose):
+    if verbose:
+        print(mess)
+
+class colors:
+    black = "30m"
+    red = "31m"
+    green = "32m"
+    yellow = "33m"
+    blue = "34m"
+    magenta = "35m"
+    cyan = "36m"
+    white = "37m"
+
+def mess_col(mess,col):
+    print('\033[0;{0} {1}. \033[0m'.format(col, mess))
     return
 
 #############
@@ -162,11 +182,11 @@ def get_metadata(filepath):
     doc_dirpath = get_parent_dir(filepath)
     try:
         meta_path = get_child_ext_path(doc_dirpath, ['.json'])
-        print('Reading existing metadata for {0}.'.format(filepath))
+        #print('Reading existing metadata for {0}.'.format(filepath))
         with open(meta_path) as f:
             metadata = json.load(f)
     except (ValueError, IndexError):
-        print('Generating metadata.')
+        #print('Generating metadata.')
         emb_txt = get_emb_txt(filepath)
         prep_txt,_ = prep_and_tokenise(emb_txt)
         lang_codes = get_langs(prep_txt)
@@ -326,7 +346,7 @@ def words_in_lang_ratio(doc_wordlist, lang_code, lang_wordlist, lang_wordlist_pa
         ratio = 0
     return  ratio
 
-
+# ratio of words in a list that belong to at least one of listed languages
 def words_in_langs_ratio(doc_wordlist,
                         lang_codes,
                         sample_size,
@@ -350,9 +370,9 @@ def translate(txt,
     sents = sent_tokenize(txt)
     trans_sents = list()
     for sent in sents:
-        trans_sent = (GoogleTranslator(source_lang_code,targ_lang_code).translate(sent))
+        trans_sent = (GoogleTranslator(source_lang_code,targ_lang_code).translate(str(sent)))
         trans_sents.append(trans_sent)
-        translation = ' '.join(trans_sents)
+    translation = ' '.join(trans_sents)
     return translation
 
 # translate conversions to English
@@ -361,7 +381,6 @@ def translate_conv(tool_dir_path,
                     source_lang_code,
                     targ_lang_code,
                     ):
-    dbg(tool_dir_path)
     conv_path = get_child_ext_path(tool_dir_path, '.txt')
     with open(conv_path, 'r') as f:
         conv_txt = f.read()
