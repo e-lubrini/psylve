@@ -42,7 +42,8 @@ from tika import parser
 from pdfreader import SimplePDFViewer
 
 # grobid
-from tools.grobid import grobid
+import subprocess
+import requests
 
 #############
 ### TOOLS ###
@@ -57,14 +58,11 @@ ext_name_tool = dict()
 
 ## pdf<>png
 def pdf2img(pdf_filepath):
-    
     compression = 'zip' # either "zip", "lzw", "group4"
-
     zoom = 2 # to increase the resolution
     mat = fitz.Matrix(zoom, zoom)
     doc = fitz.open(pdf_filepath)
     image_list = []
-  
     for page in doc:
         pix = page.get_pixmap(matrix = mat)
         img = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
@@ -128,8 +126,15 @@ def pdfreader_ocr(pdf_file_name):
         #print('Value Error')
         return ''
 
-def grobid_extr(pdf_filepath):
-    return grobid.extract_emb_txt(pdf_filepath)
+def grobid_extr(pdf_filepath,
+                grobid_inst_path,
+                config_path,
+                GROBID_URL,
+                url,
+                ):
+    subprocess.run(['bash',grobid_inst_path+'/gradlew run'])
+    xml = requests.post(url, files={'input': open(pdf_filepath, 'rb')})
+    return xml.text
 
 
 #############
@@ -157,13 +162,17 @@ def pdf2txt(doc_dir_path,
     return extracted_texts
 
 def pdf2xml(dir_path,
+            grobid_config,
+            store_in_meta=True,
             save_in_dir=False,
             overwrite=True,):
     pdf_filepath = get_child_ext_path(dir_path, 'pdf')
-    extracted_xml = grobid_extr(pdf_filepath)
-    output_dir_path = os.path.join(dir_path,'grobid')
-    os.mkdir(output_filepath)
-    output_filepath = os.path.join(output_dir_path,'grobid.txt')
+    extracted_xml = grobid_extr(pdf_filepath, **grobid_config)
+    if store_in_meta:
+        add_metadata_entry(dir_path,'emb_xml', extracted_xml)
     if save_in_dir==True and (overwrite==True or not os.path.exists(output_filepath)):
+        output_dir_path = os.path.join(dir_path,'grobid')
+        os.mkdir(output_filepath)
+        output_filepath = os.path.join(output_dir_path,'grobid.txt')
         with open(output_filepath, 'w') as f:
             f.write(extracted_xml)

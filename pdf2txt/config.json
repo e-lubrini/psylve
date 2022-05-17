@@ -1,7 +1,16 @@
 {
+    "dataset" : {
+        "path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/docs_for_conv"  
+    },
+
+    "conversion" : {
+        "tool_names" : ["pytesseract_ocr"]
+    },
+
     "grobid" : {
-        "installation_dir_path":"../../grobid",
-        "custom_config_file_path":"tools/grobid/config.json"
+        "grobid_inst_path":"../../grobid",
+        "config_path":"/home/lubrini/GitHub/grobid_client_python/config.json",
+        "GROBID_URL" : "https://cloud.science-miner.com/grobid/",
+        "url" : "%s/api/processHeaderDocument' % GROBID_URL"
     }
-    
 }

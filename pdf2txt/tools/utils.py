@@ -1,6 +1,5 @@
 
 from inspect import getmembers, isfunction
-from email import message
 import functools
 import os
 from sys import meta_path
@@ -29,7 +28,6 @@ from deep_translator import GoogleTranslator
 from time import sleep
 import inspect
 import functools
-from conversion_pipeline import verbose
 
 ###########
 ## DEBUG ##
@@ -48,11 +46,11 @@ def dbg(mess, title=''):
     print(str('\033[35m'+ str(title)+'\033[32m'+ str(get_var_name(mess)+': '+'\033[0m'+str(mess))))
     return
 
-def verbose_mess(mess, verbose=verbose):
+def verbose_mess(mess, verbose):
     if verbose:
         print(mess)
 
-class colors:
+class colours:
     black = "30m"
     red = "31m"
     green = "32m"
@@ -77,8 +75,6 @@ def get_funs_from_module(module):
     return funs
 
 def true_counter(funcQ, elems, **kwargs):
-    #print('FUNC:', func)
-    #print('ELEMS:', elems)
     c = sum([funcQ(e,**kwargs) for e in elems])
     return c
 
