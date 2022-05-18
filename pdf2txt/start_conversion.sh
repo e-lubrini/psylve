@@ -16,7 +16,7 @@ Help()
 }
 
 
-## CHECK THERE IS AT LEAST ONE ARGUMENT
+## COMMAND IS VALID
 if (( $# < 1 )); then
     echo -e "\033[0;31m The script requires at least one argument. To check the expected syntax, use -h to print Help.\033[0m"
     exit 1
@@ -27,7 +27,7 @@ fi
 while getopts 'hc:v' flag
     do
         case "${flag}" in
-            h) # display Help
+            h)  # display Help
                 Help
                 exit
                 ;;
@@ -42,11 +42,26 @@ while getopts 'hc:v' flag
         esac
     done
 
+
+## FUNCTIONS
+KillGrobid()
+{   # Kill all grobid processes 
+    for p in `ps -aux | grep grobid | awk -F ' ' '{print $2}' `; do
+        echo 'KILLING' $p '...'
+        kill -9 $p
+    done
+}
+
+
+## PIPELINE
 # start grobid server
-#bash './tools/grobid/grobid_server_start.sh' $CONF_FILE_PATH $VERBOSE &
-#GRO_PID=$! &
+GPATH=($(jq -r '.grobid.grobid_inst_path' $CONF_FILE_PATH))
+(cd $GPATH;
+bash ./gradlew run > /dev/null) & 
 # start conversion
-(sleep 1;
-echo 'SLEPT'; python3 'conversion_pipeline.py' $CONF_FILE_PATH $VERBOSE;
-pkill -9 $GRO_PID;
-echo 'KILLED $GRO_PID')
+    (sleep 1;
+    python 'conversion_pipeline.py' $CONF_FILE_PATH $VERBOSE;
+    KillGrobid;
+    echo 'Pipeline exited successfully.';
+    exit
+    )

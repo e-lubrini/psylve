@@ -212,7 +212,7 @@ def get_meta_path(path, path_type):
                 'meta', # the metadata file
                 'dir'] # the directory where the metadata is stored
     if path_type not in path_types:
-        raise ValueError("Invalid path_type. Expected one of: %s" % path_types) 
+        raise ValueError("Invalid path_type. Expected one of: {0}".format(path_types)) 
     match path_type:
         case 'doc': 
             dir_path = os.path.split(path)[-2]

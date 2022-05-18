@@ -34,7 +34,7 @@ conv_tool_names = configs['conversion']['tool_names']
 grobid_config = dict(grobid_inst_path=configs['grobid']['grobid_inst_path'],
                     config_path=configs['grobid']['config_path'],
                     GROBID_URL=configs['grobid']['GROBID_URL'],
-                    url=configs['grobid']['url'],
+                    url=configs['grobid']['GROBID_URL']+configs['grobid']['end_url'],
                     )
 
 ##############
