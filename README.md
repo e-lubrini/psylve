@@ -3,19 +3,20 @@
 Ontology Learning project @ CIRAD, and INRAE for an ontology of superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
 
 ## Repository Structure
-├── text_extraction/
-    ├── data/
-    ├── evaluation_results/
-    ├── models/
-    ├── tools/
-    |   ├── grobid_client_python/
-    |   ├── conv_tools.py
-    |   ├── eval_tools.py
-    |   └── utils.py
-    ├── config.json
-    ├── conversion_pipeline.py
-    ├── evaluation_pipeine.ipynb
-    └── start_conversion.sh
+
+    text_extraction/
+        ├── data/
+        ├── evaluation_results/
+        ├── models/
+        ├── tools/
+        |   ├── grobid_client_python/
+        |   ├── conv_tools.py
+        |   ├── eval_tools.py
+        |   └── utils.py
+        ├── config.json
+        ├── conversion_pipeline.py
+        ├── evaluation_pipeine.ipynb
+        └── start_conversion.sh
 
 ## Text Extraction
 ### Requirements
@@ -45,13 +46,14 @@ python3 setup.py install
 The chosen folder for the data input will be populated with a directory for each document, containing: the inputted document, a metadata file, a folder for each OCR tool (containing txt files of both the extracted text and the translation to english of such text). 
 
 #### Converted data path structure
-├── /data/docs_for_conv/
-    ├── DocumentName1/
-    |   ├── OCRToolName/
-    |   |   ├── conversion.txt
-    |   |   └── translation.txt
-    |   ├── OriginalDocument.pdf
-    |   └── metadata.json
-    |
-    └── DocumentName2/
-        ├── ...
+
+    /data/docs_for_conv/
+        ├── DocumentName1/
+        |   ├── OCRToolName/
+        |   |   ├── conversion.txt
+        |   |   └── translation.txt
+        |   ├── OriginalDocument.pdf
+        |   └── metadata.json
+        |
+        └── DocumentName2/
+            ├── ...
