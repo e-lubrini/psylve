@@ -132,8 +132,8 @@ def grobid_extr(pdf_filepath,
                 GROBID_URL,
                 url,
                 ):
-    subprocess.run(['bash',grobid_inst_path+'/gradlew run'])
-    xml = requests.post(url, files={'input': open(pdf_filepath, 'rb')})
+    #subprocess.Popen(['bash','./gradlew run'], cwd=grobid_inst_path)
+    xml = requests.put(url, files={'input': open(pdf_filepath, 'rb')})
     return xml.text
 
 

@@ -23,6 +23,7 @@ Cython==0.29.28
 debugpy==1.6.0
 decorator==5.1.1
 deep-translator==1.8.3
+deepl-translate==1.2.0
 defusedxml==0.7.1
 entrypoints==0.4
 etelemetry==0.3.0
