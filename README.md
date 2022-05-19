@@ -1,4 +1,4 @@
-<h1 align="center">Psylloidea Ontology (WIP)</h1>
+<h1 align="center">Psyllid Ontology (WIP)</h1>
 ## ontology in progress of construction...
 Ontology Learning project @ CIRAD, and INRAE for an ontology of superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
 
