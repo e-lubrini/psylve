@@ -19,3 +19,6 @@ Ontology Learning project @ CIRAD, and INRAE for an ontology of superfamily Psyl
         ├── evaluation_pipeine.ipynb
         └── start_conversion.sh
 
+
+## Modules
+- Text extraction [README](https://github.com/e-lubrini/PsylVe/blob/main/pdf2txt/README.md)
