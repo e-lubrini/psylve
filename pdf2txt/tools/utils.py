@@ -2,13 +2,13 @@
 from inspect import getmembers, isfunction
 import functools
 import os
-from sys import meta_path
+import string
 
 import json
 
 import fitz
-import string
 import fasttext
+fasttext.FastText.eprint = lambda x: None
 
 import enchant
 from enchant.checker import SpellChecker
@@ -18,9 +18,7 @@ from tqdm import tqdm
 
 from nltk.corpus import words
 from nltk.tokenize import sent_tokenize
-
 import nltk
-from urllib3 import Retry
 #nltk.download('words')
 
 from deep_translator import GoogleTranslator
@@ -48,24 +46,24 @@ def dbg(mess, title=''):
 
 def verbose_mess(mess, verbose):
     if verbose:
-        print(mess)
+        mess_col(mess, verbose)
 
-class colours:
-    black = "30m"
-    red = "31m"
-    green = "32m"
-    yellow = "33m"
-    blue = "34m"
-    magenta = "35m"
-    cyan = "36m"
-    white = "37m"
+colours = dict(black = "30m",
+                red = "31m",
+                green = "32m",
+                yellow = "33m",
+                blue = "34m",
+                magenta = "35m",
+                cyan = "36m",
+                white = "37m",
+                )
 
 def mess_col(mess,col):
     print('\033[0;{0} {1}. \033[0m'.format(col, mess))
     return
 
 #############
-## GENERIC ##
+## GENERAL ##
 #############
 def get_funs_from_module(module):
     funs_raw = getmembers(module,isfunction)
@@ -174,7 +172,7 @@ def get_langs(prep_text,     # text whose language is to be detected
     lang_codes = [label[-2:] for label in prediction]
     return lang_codes    # list of language code(s) detected
 
-def get_metadata(filepath):
+def get_metadata(filepath, overwrite_keys):
     doc_dirpath = get_parent_dir(filepath)
     try:
         meta_path = get_child_ext_path(doc_dirpath, ['.json'])
@@ -183,14 +181,17 @@ def get_metadata(filepath):
             metadata = json.load(f)
     except (ValueError, IndexError):
         #print('Generating metadata.')
-        emb_txt = get_emb_txt(filepath)
-        prep_txt,_ = prep_and_tokenise(emb_txt)
-        lang_codes = get_langs(prep_txt)
-        metadata = dict(lang_codes=lang_codes,
-                emb_txt=emb_txt)
+        metadata = dict()
+    # keys to be overwritten or not in metadata yet
+    if 'emb_txt' in overwrite_keys or 'emb_txt' not in metadata.keys():
+        metadata['emb_txt'] = get_emb_txt(filepath)
+    if 'lang_codes' in overwrite_keys or 'lang_codes' not in metadata.keys():
+        prep_txt,_ = prep_and_tokenise(metadata['emb_txt'])
+        metadata['lang_codes'] = get_langs(prep_txt)
+    
     return metadata
 
-def write_pdf_metadata(path, metadata_lab):
+def write_pdf_metadata(path, overwrite_keys):
     if os.path.isfile(path):
         dir_path = get_parent_dir(path)
         filepath = path
@@ -200,7 +201,7 @@ def write_pdf_metadata(path, metadata_lab):
     else:
         print('enter an existing path')
     # info to be stored
-    metadata = get_metadata(filepath)
+    metadata = get_metadata(filepath, overwrite_keys)
     # write metadata file
     meta_path = os.path.join(dir_path, 'metadata.json')
     with open(meta_path, 'w') as f:

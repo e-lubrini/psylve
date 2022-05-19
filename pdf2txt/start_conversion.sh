@@ -54,14 +54,15 @@ KillGrobid()
 
 
 ## PIPELINE
-# start grobid server
 GPATH=($(jq -r '.grobid.grobid_inst_path' $CONF_FILE_PATH))
-(cd $GPATH;
-bash ./gradlew run > /dev/null) & 
-# start conversion
-    (sleep 1;
+(   # start grobid server
+    cd $GPATH;
+    bash ./gradlew run > /dev/null
+) & 
+(   # start conversion
+    sleep 1;
     python 'conversion_pipeline.py' $CONF_FILE_PATH $VERBOSE;
     KillGrobid;
     echo 'Pipeline exited successfully.';
     exit
-    )
+)

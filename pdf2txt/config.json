@@ -1,4 +1,16 @@
-{
+{   
+    "general" : {
+        "overwrite" : {
+            "lang_codes": false,
+            "emb_txt": false,
+            "emb_trans": false,
+            "emb_xml": true,
+            "emb_xml_trans": true,
+            "tools": []
+        },
+        "store_output"
+    },
+
     "dataset" : {
         "path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/docs_for_conv"  
     },
@@ -12,5 +24,12 @@
         "config_path":"/home/lubrini/GitHub/grobid_client_python/config.json",
         "GROBID_URL" : "https://cloud.science-miner.com/grobid/",
         "end_url" : "api/processHeaderDocument"
+    },
+
+    "appearance": {
+        "message_colours": {"start":"blue",
+                            "end":"blue",
+                            "stages":"cyan",
+                            "verbose":"grey"}
     }
 }
