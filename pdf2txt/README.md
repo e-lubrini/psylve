@@ -19,14 +19,14 @@
 
 ## Requirements
 
-- **Install Python packages.**
+- **Install Python packages - **
 ```pip install -r pip_requirements.txt```
 This pipeline requires a Python version of at least 3.10.
 
-- **Install APT packages.**
+- **Install APT packages - **
 ```sed 's/#.*//' apt_requirements.txt | xargs sudo apt-get install```
 
-- **Clone required GitHub repositories.**
+- **Clone required GitHub repositories - **
 `cd tools` (or a different path, then changing the relative _.grobid.config_path_ value within the config.json file) and install _grobid_client_python_ by following the [instructions](https://github.com/kermitt2/grobid_client_python)
 ```
 git clone https://github.com/kermitt2/grobid_client_python
