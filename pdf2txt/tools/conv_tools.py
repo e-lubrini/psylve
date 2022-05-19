@@ -9,10 +9,7 @@
 #############
 ## IMPORTS ##
 #############
-
-from distutils import extension
 import os
-from matplotlib import image
 from tools.utils import *
 
 # pdf<>png
@@ -42,7 +39,6 @@ from tika import parser
 from pdfreader import SimplePDFViewer
 
 # grobid
-import subprocess
 import requests
 
 #############
