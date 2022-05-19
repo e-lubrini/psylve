@@ -19,21 +19,19 @@
 ## Requirements
 This pipeline requires a Python version of at least 3.10.
 
-Install Python packages.
+#### Install Python packages.
 ```pip install -r pip_requirements.txt```
-Install APT packages.
+#### Install APT packages.
 ```sed 's/#.*//' apt_requirements.txt | xargs sudo apt-get install```
-[//]: # (comm -12 <(apt-mark showmanual | sort) <(grep " install " /var/log/dpkg.log | cut -d " " -sf4 | grep -o "^[^:]*" | sort) > path_to/apt_requirements.txt)
-Clone required GitHub repositories.
-
-`cd [path_to]/tools` (or a different path, then changing the relative _.grobid.config_path_ value within the config.json file) and install _grobid_client_python_ by following the [instructions](https://github.com/kermitt2/grobid_client_python)
+#### Clone required GitHub repositories.
+`cd tools` (or a different path, then changing the relative _.grobid.config_path_ value within the config.json file) and install _grobid_client_python_ by following the [instructions](https://github.com/kermitt2/grobid_client_python)
 ```
 git clone https://github.com/kermitt2/grobid_client_python
 cd grobid_client_python
 python3 setup.py install
 ```
 ## Configuration
-
+Configuration settings can be changed via a config.json file which path is then passed to the bash script when starting the conversion (see §Usage).
 
 ## Usage
 `mkdir /data/docs_for_conv` (or a different path, then changing the relative _.dataset.path_ value within the config.json file) and add the documents to be converted to the folder. 
