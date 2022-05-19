@@ -40,8 +40,6 @@ grobid_config = dict(grobid_inst_path=configs['grobid']['grobid_inst_path'],
 ##############
 ## PIPELINE ##
 ##############
-verbose_mess('HELLOOOOOO', verbose=verbose)
-
 mess_col('Conversion started!',title_col)
 
 mess_col('Converting images to pdf documents...',header_col)
