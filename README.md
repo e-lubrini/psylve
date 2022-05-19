@@ -1,5 +1,6 @@
-<h1 align="center">Psyllid Ontology (WIP)</h1>
-## ontology in progress of construction...
+<h1 align="center">PsylVe</h1>
+<h2 align="center">An Ontology of Psyllid as Vectors of Phytoplasma</h2>
+
 Ontology Learning project @ CIRAD, and INRAE for an ontology of superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
 
 ## Repository Structure
