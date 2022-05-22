@@ -1,5 +1,6 @@
 
 from curses import meta
+from gettext import translation
 from importlib.metadata import metadata
 from inspect import getmembers, isfunction
 import functools
@@ -62,8 +63,8 @@ colours = dict(black = "30m",
                 grey = "38m",
                 )
 
-def mess_col(mess,col):
-    print('\033[0;{0} {1}. \033[0m'.format(col, mess))
+def mess_col(mess, col_tag, colours=colours):
+    print('\033[0;{0} {1}. \033[0m'.format(col_tag, mess))
     return
 
 #############
@@ -80,6 +81,17 @@ def true_counter(funcQ, elems, **kwargs):
     c = sum([funcQ(e,**kwargs) for e in elems])
     return c
 
+def try_read(path, ext=None):
+    try:
+        if ext is None:
+            filepath = path
+        else:
+            filepath = get_child_ext_path(path, ext)
+        with open(filepath) as f:
+            content = f.read()
+    except (IndexError, FileNotFoundError):
+        content = ''
+    return content
 
 def store_data(storage,
                 data,
@@ -104,6 +116,7 @@ def store_data(storage,
     else:
         data_path = ''
     return data_path
+
 
 #######################
 ## PATH MANIPULATION ##
@@ -422,16 +435,39 @@ def words_in_langs_ratio(doc_wordlist,
         multilang_ratio += single_lang_ratio
     return multilang_ratio
 
-def translate(txt,
-            source_lang_code,
-            targ_lang_code,
-            ):
+def translate_to_lang(txt,
+                source_lang_code,
+                targ_lang_code,
+                ):
     sents = sent_tokenize(txt)
     trans_sents = list()
     for sent in sents:
         trans_sent = (GoogleTranslator(source_lang_code,targ_lang_code).translate(str(sent)))
         trans_sents.append(trans_sent)
     translation = ' '.join(trans_sents)
+    return translation
+
+
+
+# get translation if needed
+def get_translation(tool_dir_path,
+                    source_text,
+                    storage_opts,
+                    overwrite_opts,
+                    source_lang_code,
+                    targ_lang_code,
+                    ):
+    src_ext = get_var_name(source_text)
+    
+    translation = try_read(tool_dir_path, src_ext)
+
+    needs_trans = storage_opts['emb_'+src_ext+'_trans'] and (overwrite_opts['emb_'+src_ext+'_trans'] or not translation)
+    
+    if needs_trans:
+        translation = translate_to_lang(source_text,
+                            source_lang_code,
+                            targ_lang_code,
+                            )
     return translation
 
 # translate conversions to English
@@ -475,3 +511,4 @@ def translate_doc(dir_path,
                     )
     translate_meta(dir_path, source_lang_code, targ_lang_code)
     return
+

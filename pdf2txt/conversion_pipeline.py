@@ -6,6 +6,8 @@
 import functools
 import sys
 
+from executing import Source
+
 from tools.utils import colours
 from tools.utils import *
 from tools.conv_tools import *
@@ -25,7 +27,6 @@ col_config = dict(title_col = colours[mess_cols['start']],
                     header_col = colours[mess_cols['stages']],
                     end_col = colours[mess_cols['end']],
                     )
-
 
 mess_col('Loading onfigurations...',col_config['title_col'])
 
@@ -104,7 +105,7 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                 dir_path=dir_path,
                 name='metadata',
                 )
-    dbg('stored')
+    mess_col('stored: '+str(bool(metadata.keys())), colours['yellow'])
 
 # extract embedded xml and translate to English
     xml = get_xml(dir_path,
@@ -119,26 +120,50 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                 dir_path=dir_path,
                 name='grobid',
                 )
-    dbg('stored')
+    mess_col('stored: '+str(bool(xml)), colours['yellow'])
 
-    xml_trans = translate_doc(dir_path)
+    xml_trans = get_translation(tool_dir_path=os.path.join(dir_path,'grobid'),
+                            source_text=xml,
+                            storage_opts=storage_keys,
+                            overwrite_opts=overwrite_keys,
+                            source_lang_code=metadata['lang_codes'][0],
+                            targ_lang_code='en',
+                            )
 
+    dbg(xml_trans[:25], 'trans: ')
     store_data(storage='dir',
-                data=xml_trans)
+                data=xml,
+                dir_path=dir_path,
+                name='grobid',
+                )
+    mess_col('stored: '+str(bool(xml_trans)), colours['yellow'])
 
 # convert file to text with ocr
     #verbose_mess('Getting txt: '+dir_path, verbose)
     txt = get_txt(dir_path,
                 tool_names=conv_tool_names,
                 tools=get_funs_from_module(ctools),
+                storage_opts=storage_keys,
+                overwrite_opts=overwrite_keys,
                 )
-    
-    store_data(storage='dir',
-                data=txt,
-                )
-    txt_trans = translate_doc(xml)
+    dbg(txt[:25], 'txt: ')
 
     store_data(storage='dir',
-                data=txt_trans)
+                data=txt,
+                dir_path=dir_path,
+                name='',
+                )
+    mess_col('stored: '+str(bool(txt)), colours['yellow'])
+    
+    txt_trans = translate_doc(xml)
+    dbg(txt_trans[:25], 'txt_trans: ')
+
+    store_data(storage='dir',
+                data=xml,
+                dir_path=dir_path,
+                name='grobid',
+                )
+    mess_col('stored: '+str(bool(txt_trans)), colours['yellow'])
+    
                 
 mess_col('Conversion successful!',col_config['end_col'])

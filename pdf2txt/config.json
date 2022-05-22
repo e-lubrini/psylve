@@ -5,16 +5,16 @@
             "emb_txt": false,
             "emb_txt_trans": false,
             "emb_xml": true,
-            "emb_xml_trans": true,
+            "emb_xml_trans": false,
             "conv_txt": true,
             "conv_txt_trans": true
         },
         "store_output": {
             "lang_codes": true,
             "emb_txt": true,
-            "emb_txt_trans": true,
+            "emb_txt_trans": false,
             "emb_xml": true,
-            "emb_xml_trans": true,
+            "emb_xml_trans": false,
             "conv_txt": true,
             "conv_txt_trans": true
         }

@@ -161,18 +161,35 @@ def pdf2txt(doc_dir_path,
                     f.write(extracted_texts[tool_name])
     return extracted_texts
 
+def get_txt(dir_path,
+            tool_names,
+            tools,
+            storage_opts,
+            overwrite_opts,
+            ):
+    extracted_txts = dict()
+    for tool_name in tool_names:
+        tool_txt_path = os.path.join(dir_path,tool_name,'ocr_text.txt')
+        extracted_txt = try_read(tool_txt_path)
+        
+        needs_txt = storage_opts['conv_txt'] and (overwrite_opts['conv_txt'] or not extracted_txt)
+        needs_txt_trans = storage_opts['conv_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_txt)
+        
+        if needs_txt or needs_txt_trans:
+            dbg('', "TXT NEEDED")
+            tool = tools[tool_name] 
+            pdf_filepath = get_child_ext_path(dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
+            extracted_txts[tool_name]= str(tool(pdf_filepath))  # pass it to tool
+        
+    return extracted_txt
+
 
 def get_xml(dir_path,
             storage_opts,
             overwrite_opts,
             grobid_config,
             ):
-    try:
-        xml_path = get_child_ext_path(dir_path, ext='.xml')
-        with open(xml_path) as f:
-            extracted_xml = read(f)
-    except (IndexError, FileNotFoundError):
-        extracted_xml = ''
+    extracted_xml = try_read(dir_path, ext='.xml')
     
     needs_xml = storage_opts['emb_xml'] and (overwrite_opts['emb_xml'] or not extracted_xml)
     needs_xml_trans = storage_opts['emb_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_xml)
