@@ -106,15 +106,20 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                 )
     dbg('stored')
 
-# extract embedded xml
+# extract embedded xml and translate to English
     xml = get_xml(dir_path,
                 storage_opts=storage_keys,
                 overwrite_opts=overwrite_keys,
                 grobid_config=grobid_config,
                 )
-    dbg(xml[:25])
+    dbg(xml[:25], 'xml: ')
+
     store_data(storage='dir',
-                data=xml)
+                data=xml,
+                dir_path=dir_path,
+                name='grobid',
+                )
+    dbg('stored')
 
     xml_trans = translate_doc(dir_path)
 
