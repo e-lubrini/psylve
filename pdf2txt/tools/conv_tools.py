@@ -151,7 +151,7 @@ def get_txt(dir_path,
         extracted_txt_trans = False # TODO check if exists
 
         needs_txt = storage_opts['ocr_txt'] and (overwrite_opts['ocr_txt'] or not extracted_txt)
-        needs_txt_trans = storage_opts['ocr_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_txt_trans)
+        needs_txt_trans = storage_opts['ocr_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_txt)
         
         if needs_txt or needs_txt_trans:
             tool = tools[tool_name] 
@@ -170,7 +170,7 @@ def get_xml(dir_path,
     extracted_xml_trans = False # TODO check if exists
 
     needs_xml = storage_opts['emb_xml'] and (overwrite_opts['emb_xml'] or not extracted_xml)
-    needs_xml_trans = storage_opts['emb_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_xml_trans)
+    needs_xml_trans = storage_opts['emb_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_xml)
     
     if needs_xml or needs_xml_trans:
         pdf_filepath = get_child_ext_path(dir_path, 'pdf')
