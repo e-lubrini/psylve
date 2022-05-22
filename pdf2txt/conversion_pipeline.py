@@ -94,6 +94,7 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
 
 # compile metadata for each file
     # TODO verbose need metadata, etc.
+    verbose_mess('getting metadata', verbose)
     metadata = get_metadata(dir_path,
                             storage_opts=storage_keys,
                             overwrite_opts=overwrite_keys,
@@ -106,6 +107,7 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                 )
 
 # extract embedded xml and translate to English
+    verbose_mess('getting emb_xml', verbose)
     emb_xml = get_xml(dir_path,
                 storage_opts=storage_keys,
                 overwrite_opts=overwrite_keys,
@@ -133,7 +135,7 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                 )
 
 # convert file to text with ocr
-    #verbose_mess('Getting txt: '+dir_path, verbose)
+    verbose_mess('getting ocr txt', verbose)
     tool_txts = get_txt(dir_path,
                 tool_names=conv_tool_names,
                 tools=get_funs_from_module(ctools),
@@ -147,6 +149,7 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                 name='ocr_extraction',
                 )
     
+    verbose_mess('getting ocr txt translation', verbose)
     txt_trans = dict()
     for tool, ocr_txt in tool_txts.items():
         txt_trans[tool] = get_translation(tool_dir_path=os.path.join(dir_path,tool),
