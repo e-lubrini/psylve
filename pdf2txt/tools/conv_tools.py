@@ -140,8 +140,8 @@ def grobid_extr(pdf_filepath,
 def pdf2txt(doc_dir_path,
             tool_names,
             tools,
-            save_in_dir=True,
-            overwrite=False,
+            storage_configs,
+            overwrite_metadata_keys,
             ):
     extracted_texts = dict()
     for tool_name in tool_names:
@@ -152,6 +152,8 @@ def pdf2txt(doc_dir_path,
         pdf_filepath = get_child_ext_path(doc_dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
         extracted_texts[tool_name]= str(tool(pdf_filepath))  # pass it to tool
         output_filepath = os.path.join(output_dir_path,tool_name+'.txt')
+        if tool_conv_txt_dir in storage_configs:
+            save_in_dir = True
         if save_in_dir==True and (overwrite==True or not os.path.exists(output_filepath)):
             with open(output_filepath, 'w+') as f:
                     f.write(extracted_texts[tool_name])
@@ -159,9 +161,9 @@ def pdf2txt(doc_dir_path,
 
 def pdf2xml(dir_path,
             grobid_config,
-            store_in_meta=True,
-            save_in_dir=False,
-            overwrite=True,):
+            storage_configs,
+            overwrite_metadata_keys,
+            ):
     pdf_filepath = get_child_ext_path(dir_path, 'pdf')
     extracted_xml = grobid_extr(pdf_filepath, **grobid_config)
     if store_in_meta:
