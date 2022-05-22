@@ -98,6 +98,7 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                             overwrite_opts=overwrite_keys,
                             )
     dbg(metadata.keys())
+
     store_data(storage='meta',
                 data=metadata,
                 dir_path=dir_path,
@@ -106,9 +107,12 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
     dbg('stored')
 
 # extract embedded xml
-    xml = get_xml(dir_path=dir_path,
+    xml = get_xml(dir_path,
+                storage_opts=storage_keys,
+                overwrite_opts=overwrite_keys,
                 grobid_config=grobid_config,
                 )
+    dbg(xml[:25])
     store_data(storage='dir',
                 data=xml)
 

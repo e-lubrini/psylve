@@ -80,9 +80,45 @@ def true_counter(funcQ, elems, **kwargs):
     c = sum([funcQ(e,**kwargs) for e in elems])
     return c
 
+
+def store_data(storage,
+                data,
+                dir_path,
+                name):
+    storage_types = ['meta', # the metadata file
+                    'dir'] # a new subdirectory where the document is stored
+    if storage not in storage_types:
+        raise ValueError("Invalid path_type. Expected one of: {0}".format(path_types)) 
+    
+    if data:
+        match storage:
+            case 'meta':
+                data_path = os.path.join(dir_path,name+'.json')
+                with open(data_path, 'w+') as f:
+                    json.dump(data, f)
+            case 'dir':
+                new_dir = mkdir_no_over(os.path.join(dir_path,name))
+                data_path = os.path.join(new_dir, get_var_name(data))
+                with open(data_path) as f:
+                    json.dump(data, f)
+    else:
+        data_path = ''
+    return data_path
+
 #######################
 ## PATH MANIPULATION ##
 #######################
+def get_dir_and_doc_paths(path):
+    if os.path.isfile(path):
+        dir_path = get_parent_dir(path)
+        filepath = path
+    elif os.path.isdir(path):
+        dir_path = path
+        filepath = get_child_ext_path(dir_path=dir_path, ext='pdf')
+    else:
+        print('enter an existing path')
+    return dir_path, filepath
+
 def join_parentpath_childnames(parentpath,childnames):
     fullpaths = map(functools.partial(os.path.join,
                         parentpath),
@@ -198,38 +234,6 @@ def get_langs(prep_text,     # text whose language is to be detected
     lang_codes = [label[-2:] for label in prediction]
     return lang_codes    # list of language code(s) detected
 
-def get_dir_and_doc_paths(path):
-    if os.path.isfile(path):
-        dir_path = get_parent_dir(path)
-        filepath = path
-    elif os.path.isdir(path):
-        dir_path = path
-        filepath = get_child_ext_path(dir_path=dir_path, ext='pdf')
-    else:
-        print('enter an existing path')
-    return dir_path, filepath
-
-def store_data(storage,
-                data,
-                dir_path,
-                name):
-    storage_types = ['meta', # the metadata file
-                    'dir'] # a new subdirectory where the document is stored
-    if storage not in storage_types:
-        raise ValueError("Invalid path_type. Expected one of: {0}".format(path_types)) 
-    
-    match storage:
-        case 'meta':
-            data_path = os.path.join(dir_path,name+'.json')
-            with open(data_path, 'w+') as f:
-                json.dump(data, f)
-        case 'dir':
-            new_dir = mkdir_no_over(os.path.join(dir_path,name))
-            data_path = os.path.join(new_dir, get_var_name(data))
-            with open(data_path) as f:
-                json.dump(data, f)
-    return data_path
-
                 
 ##############
 ## METADATA ##
@@ -267,7 +271,10 @@ def read_doc_metadata(path, path_type):
         metadata = json.load(f)
     return metadata
 
-def get_metadata(dir_path, storage_opts, overwrite_opts):
+def get_metadata(dir_path,
+                storage_opts,
+                overwrite_opts
+                ):
     try:
         meta_path = get_meta_path(dir_path, path_type='dir')
         with open(meta_path) as f:
