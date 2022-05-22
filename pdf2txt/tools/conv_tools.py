@@ -10,6 +10,8 @@
 ## IMPORTS ##
 #############
 import os
+
+from nbformat import read
 from tools.utils import *
 
 # pdf<>png
@@ -159,18 +161,24 @@ def pdf2txt(doc_dir_path,
                     f.write(extracted_texts[tool_name])
     return extracted_texts
 
-def pdf2xml(dir_path,
+
+def get_xml(dir_path,
+            storage_opts,
+            overwrite_opts,
             grobid_config,
-            storage_configs,
-            overwrite_metadata_keys,
             ):
-    pdf_filepath = get_child_ext_path(dir_path, 'pdf')
-    extracted_xml = grobid_extr(pdf_filepath, **grobid_config)
-    if store_in_meta:
-        add_metadata_entry(dir_path,'emb_xml', extracted_xml)
-    if save_in_dir==True and (overwrite==True or not os.path.exists(output_filepath)):
-        output_dir_path = os.path.join(dir_path,'grobid')
-        os.mkdir(output_filepath)
-        output_filepath = os.path.join(output_dir_path,'grobid.txt')
-        with open(output_filepath, 'w') as f:
-            f.write(extracted_xml)
+    try:
+        xml_path = get_child_ext_path(dir_path, ext='.xml')
+        with open(xml_path) as f:
+            extracted_xml = read(f)
+    except (IndexError, FileNotFoundError):
+        extracted_xml = ''
+    
+    needs_xml = storage_opts['emb_xml'] and (overwrite_opts['emb_xml'] or not extracted_xml)
+    needs_xml_trans = storage_opts['emb_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_xml)
+
+    if needs_xml or needs_xml_trans:
+        pdf_filepath = get_child_ext_path(dir_path, 'pdf')
+        extracted_xml = grobid_extr(pdf_filepath, **grobid_config)
+
+    return extracted_xml
