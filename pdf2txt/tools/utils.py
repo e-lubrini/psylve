@@ -1,4 +1,5 @@
 
+from importlib.metadata import metadata
 from inspect import getmembers, isfunction
 import functools
 import os
@@ -56,6 +57,7 @@ colours = dict(black = "30m",
                 magenta = "35m",
                 cyan = "36m",
                 white = "37m",
+                grey = "38m",
                 )
 
 def mess_col(mess,col):
@@ -142,11 +144,32 @@ def get_child_dir_paths(dir_path):
     dir_paths = [child_path for child_path in child_paths if os.path.isdir(child_path)]
     return dir_paths
 
+# make directory if it doesn't exist
+def mkdir_no_over(dir_name):
+    if not os.path.exists(dir_name):
+        os.mkdir(dir_name)
+
+def save_file(filepath, data):
+    with open(filepath, 'w+') as f:
+        f.write(data)
+
+def save_data(doc_dir,
+                dir_name,
+                file_name,
+                content,
+                ):
+    dirpath = os.path.join(doc_dir,dir_name)
+    mkdir_no_over(dir_name)
+    filepath = os.path.join(dirpath,file_name)
+    save_data(filepath, content)
+    
+
 ###############
 ## PDF TOOLS ##
 ###############
 # extract embedded text
-def get_emb_txt(doc_path):
+def get_emb_txt(path):
+    _, doc_path = get_dir_and_doc_paths(path)
     try:
         metadata = read_doc_metadata(path=doc_path, path_type='doc')
         text = metadata['emb_text']
@@ -172,26 +195,7 @@ def get_langs(prep_text,     # text whose language is to be detected
     lang_codes = [label[-2:] for label in prediction]
     return lang_codes    # list of language code(s) detected
 
-def get_metadata(filepath, overwrite_keys):
-    doc_dirpath = get_parent_dir(filepath)
-    try:
-        meta_path = get_child_ext_path(doc_dirpath, ['.json'])
-        #print('Reading existing metadata for {0}.'.format(filepath))
-        with open(meta_path) as f:
-            metadata = json.load(f)
-    except (ValueError, IndexError):
-        #print('Generating metadata.')
-        metadata = dict()
-    # keys to be overwritten or not in metadata yet
-    if 'emb_txt' in overwrite_keys or 'emb_txt' not in metadata.keys():
-        metadata['emb_txt'] = get_emb_txt(filepath)
-    if 'lang_codes' in overwrite_keys or 'lang_codes' not in metadata.keys():
-        prep_txt,_ = prep_and_tokenise(metadata['emb_txt'])
-        metadata['lang_codes'] = get_langs(prep_txt)
-    
-    return metadata
-
-def write_pdf_metadata(path, overwrite_keys):
+def get_dir_and_doc_paths(path):
     if os.path.isfile(path):
         dir_path = get_parent_dir(path)
         filepath = path
@@ -200,6 +204,10 @@ def write_pdf_metadata(path, overwrite_keys):
         filepath = get_child_ext_path(dir_path=dir_path, ext='pdf')
     else:
         print('enter an existing path')
+    return dir_path, filepath
+
+def write_pdf_metadata(path, overwrite_keys):
+    dir_path, filepath = get_dir_and_doc_paths(path)
     # info to be stored
     metadata = get_metadata(filepath, overwrite_keys)
     # write metadata file
@@ -230,6 +238,25 @@ def read_doc_metadata(path, path_type):
     with open(meta_path) as f:
         metadata = json.load(f)
     return metadata
+
+def get_metadata(dir_path, storage_opts, overwrite_opts):
+    try:
+        meta_path = get_meta_path(dir_path, path_type='dir')
+        with open(meta_path) as f:
+            metadata = json.load(f)
+    except (IndexError, FileNotFoundError):
+        metadata = dict()
+
+    metadata['emb_txt'] = get_emb_txt(dir_path)
+    if storage_opts['lang_codes'] and (overwrite_opts['lang_codes'] or not ('lang_codes' in metadata.keys())):
+        prep_txt,_ = prep_and_tokenise(metadata['emb_txt'])
+        metadata['lang_codes'] = get_langs(prep_txt)
+    
+    for k in metadata.keys():
+        metadata[k].pop(k, None) if k not in storage_opts.keys() else None
+    
+    return metadata
+    
 
 # add metadata entry
 def add_metadata_entry(dir_path,

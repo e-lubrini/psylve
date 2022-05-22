@@ -1,18 +1,28 @@
 {   
     "general" : {
         "overwrite" : {
-            "lang_codes": false,
+            "lang_codes": true,
             "emb_txt": false,
-            "emb_trans": false,
+            "emb_txt_trans": false,
             "emb_xml": true,
             "emb_xml_trans": true,
-            "tools": []
+            "conv_txt": true,
+            "conv_txt_trans": true
         },
-        "store_output"
+        "store_output": {
+            "lang_codes": true,
+            "emb_txt": true,
+            "emb_txt_trans": true,
+            "emb_xml": true,
+            "emb_xml_trans": true,
+            "conv_txt": true,
+            "conv_txt_trans": true
+        }
     },
 
     "dataset" : {
-        "path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/docs_for_conv"  
+        "path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/test",
+        ".path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/docs_for_conv"  
     },
 
     "conversion" : {

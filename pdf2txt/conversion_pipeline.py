@@ -26,37 +26,47 @@ col_config = dict(title_col = colours[mess_cols['start']],
                     end_col = colours[mess_cols['end']],
                     )
 
+
+mess_col('Loading onfigurations...',col_config['title_col'])
+
 # verbose
 try:
     sys.argv[2]
     verbose = colours[mess_cols['verbose']]
 except IndexError:
     verbose = False
+dbg(bool(verbose))
 
 # general
 input_dir_path = configs['dataset']['path']
+dbg(input_dir_path)
 conv_tool_names = configs['conversion']['tool_names']
+dbg(conv_tool_names)
 
-# metadata
-overwrite_metadata_keys = []
-for k,v in configs['general']['overwrite']:
-    overwrite_metadata_keys.append(k) if v else None
+# storage
+storage_keys = configs['general']['store_output']
+dbg(storage_keys)
+
+# overwrite
+overwrite_keys = configs['general']['overwrite']
+dbg(overwrite_keys)
 
 # grobid
 grobid_configs = configs['grobid']
-grobid_config = dict(grobid_inst_path=['grobid_inst_path'],
+grobid_config = dict(grobid_inst_path=grobid_configs['grobid_inst_path'],
                     config_path=grobid_configs['config_path'],
                     GROBID_URL=grobid_configs['GROBID_URL'],
                     url=grobid_configs['GROBID_URL']+configs['grobid']['end_url'],
                     )
+dbg(grobid_config['grobid_inst_path'])
 
 ##############
 ## PIPELINE ##
 ##############
-mess_col('Conversion started!',col_config.title_col)
+mess_col('Conversion started!',col_config['title_col'])
 
-mess_col('Converting images to pdf documents...',col_config.header_col)
-# if there are any imgs, convert them to pdf
+## CONVERT IMAGES TO PDFS
+mess_col('Converting images to pdf documents...',col_config['header_col'])
 not_pdf_filepaths = list_ext(input_dir_path,    # files to be converted to pdf
                             exts=['pdf'],
                             invert=True,
@@ -65,44 +75,57 @@ map(functools.partial(ctools.img2pdf,           # convert to pdf
                     input_dir_path_path=input_dir_path),
     not_pdf_filepaths)      
 
-pdf_filepaths = list_ext(input_dir_path,        # all pdf files
+
+
+## REARRANGE FOLDER STRUCTURE
+mess_col('Rearranging folder structure...',col_config['header_col'])
+pdf_filepaths = list_ext(input_dir_path,
                         exts=['pdf'],
                         invert=False,
                         )
-mess_col('Rearranging folder structure...',col_config.header_col)
-# rearrange folder structure
 for pdf_filepath in pdf_filepaths:
     mv_to_custom_dir(pdf_filepath)
 
-mess_col('Extracting text...',col_config.header_col)
-# compile metadata for each file
+
+## START EXTRACTING DATA
+mess_col('Extracting text...',col_config['header_col'])
 for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
     verbose_mess('Processing: '+dir_path, verbose)
-    metadata = write_pdf_metadata(path=dir_path,
-                                overwrite_keys=overwrite_metadata_keys,
-                                )
 
-# if file has embedded text, extract it with grobid
-    if metadata['emb_txt'] and '' not in metadata.keys():
-        pdf2xml(dir_path=dir_path,
+# compile metadata for each file
+    metadata = get_metadata(dir_path,
+                            storage_opts=storage_keys,
+                            overwrite_opts=overwrite_keys,
+                            )
+    dbg(metadata)
+    store_data(storage='meta',
+                data=metadata)
+
+# extract embedded xml
+    xml = get_xml(dir_path=dir_path,
                 grobid_config=grobid_config,
-                store_in_meta=True,
-                save_in_dir=False,
-                overwrite=True,
                 )
+    store_data(storage='dir',
+                data=xml)
+
+    xml_trans = translate_doc(dir_path)
+
+    store_data(storage='dir',
+                data=xml_trans)
 
 # convert file to text with ocr
-    pdf2txt(dir_path,
-            tool_names=conv_tool_names,
-            tools=get_funs_from_module(ctools),
-            save_in_dir=True,
-            overwrite=True,
-            )
+    #verbose_mess('Getting txt: '+dir_path, verbose)
+    txt = get_txt(dir_path,
+                tool_names=conv_tool_names,
+                tools=get_funs_from_module(ctools),
+                )
+    
+    store_data(storage='dir',
+                data=txt,
+                )
+    txt_trans = translate_doc(xml)
 
-# translate text to English
-mess_col('Translating documents...',col_config.header_col)
-for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
-    verbose_mess('Processing: '+dir_path, verbose)
-    translate_doc(dir_path)
-
-mess_col('Conversion successful!',col_config.title_col)
+    store_data(storage='dir',
+                data=txt_trans)
+                
+mess_col('Conversion successful!',col_config['end_col'])
