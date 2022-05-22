@@ -109,10 +109,18 @@ def store_data(storage,
                 with open(data_path, 'w+') as f:
                     json.dump(data, f)
             case 'dir':
-                new_dir = mkdir_no_over(os.path.join(dir_path,name))
-                data_path = os.path.join(new_dir, get_var_name(data)+'.txt')
-                with open(data_path, 'w+') as f:
-                    json.dump(data, f)
+                if type(data) == dict:
+                    for k,v in data.items():
+                        
+                        new_dir = mkdir_no_over(os.path.join(dir_path,k))
+                        data_path = os.path.join(new_dir, name+'.txt')
+                        with open(data_path, 'w+') as f:
+                            f.write(v)   
+                else:
+                    new_dir = mkdir_no_over(os.path.join(dir_path,name))
+                    data_path = os.path.join(new_dir, get_var_name(data)+'.txt')
+                    with open(data_path, 'w+') as f:
+                        f.write(data)
     else:
         data_path = ''
     return data_path
@@ -452,22 +460,22 @@ def translate_to_lang(txt,
 # get translation if needed
 def get_translation(tool_dir_path,
                     source_text,
-                    storage_opts,
-                    overwrite_opts,
                     source_lang_code,
                     targ_lang_code,
+                    storage_opts,
+                    overwrite_opts,
                     ):
-    src_ext = get_var_name(source_text)
+    src_type = get_var_name(source_text)
     
-    translation = try_read(tool_dir_path, src_ext)
+    translation = try_read(os.path.join(tool_dir_path, 'translation.txt'))
 
-    needs_trans = storage_opts['emb_'+src_ext+'_trans'] and (overwrite_opts['emb_'+src_ext+'_trans'] or not translation)
+    needs_trans = storage_opts[src_type+'_trans'] and (overwrite_opts[src_type+'_trans'] or not translation)
     
     if needs_trans:
         translation = translate_to_lang(source_text,
-                            source_lang_code,
-                            targ_lang_code,
-                            )
+                                        source_lang_code=source_lang_code,
+                                        targ_lang_code=targ_lang_code,
+                                        )
     return translation
 
 # translate conversions to English

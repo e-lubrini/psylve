@@ -112,7 +112,6 @@ def pdfreader_ocr(pdf_file_name):
     # get raw document
     with open(pdf_file_name, "rb") as f:
         fd = f.read()
-    dbg(fd[-10:])
     viewer = SimplePDFViewer(fd)
 
     metadata = viewer.metadata
@@ -139,28 +138,6 @@ def grobid_extr(pdf_filepath,
 ### CONVS ###
 #############
 
-def pdf2txt(doc_dir_path,
-            tool_names,
-            tools,
-            storage_configs,
-            overwrite_metadata_keys,
-            ):
-    extracted_texts = dict()
-    for tool_name in tool_names:
-        output_dir_path = os.path.join(doc_dir_path,tool_name)
-        if not os.path.exists(output_dir_path):
-            os.mkdir(output_dir_path)
-        tool = tools[tool_name]
-        pdf_filepath = get_child_ext_path(doc_dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
-        extracted_texts[tool_name]= str(tool(pdf_filepath))  # pass it to tool
-        output_filepath = os.path.join(output_dir_path,tool_name+'.txt')
-        if tool_conv_txt_dir in storage_configs:
-            save_in_dir = True
-        if save_in_dir==True and (overwrite==True or not os.path.exists(output_filepath)):
-            with open(output_filepath, 'w+') as f:
-                    f.write(extracted_texts[tool_name])
-    return extracted_texts
-
 def get_txt(dir_path,
             tool_names,
             tools,
@@ -169,19 +146,19 @@ def get_txt(dir_path,
             ):
     extracted_txts = dict()
     for tool_name in tool_names:
-        tool_txt_path = os.path.join(dir_path,tool_name,'ocr_text.txt')
+        tool_txt_path = os.path.join(dir_path,tool_name,'ocr_extraction.txt')
         extracted_txt = try_read(tool_txt_path)
-        
-        needs_txt = storage_opts['conv_txt'] and (overwrite_opts['conv_txt'] or not extracted_txt)
-        needs_txt_trans = storage_opts['conv_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_txt)
+        extracted_txt_trans = False # TODO check if exists
+
+        needs_txt = storage_opts['ocr_txt'] and (overwrite_opts['ocr_txt'] or not extracted_txt)
+        needs_txt_trans = storage_opts['ocr_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_txt_trans)
         
         if needs_txt or needs_txt_trans:
-            dbg('', "TXT NEEDED")
             tool = tools[tool_name] 
             pdf_filepath = get_child_ext_path(dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
             extracted_txts[tool_name]= str(tool(pdf_filepath))  # pass it to tool
-        
-    return extracted_txt
+
+    return extracted_txts
 
 
 def get_xml(dir_path,
@@ -190,10 +167,11 @@ def get_xml(dir_path,
             grobid_config,
             ):
     extracted_xml = try_read(dir_path, ext='.xml')
-    
-    needs_xml = storage_opts['emb_xml'] and (overwrite_opts['emb_xml'] or not extracted_xml)
-    needs_xml_trans = storage_opts['emb_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_xml)
+    extracted_xml_trans = False # TODO check if exists
 
+    needs_xml = storage_opts['emb_xml'] and (overwrite_opts['emb_xml'] or not extracted_xml)
+    needs_xml_trans = storage_opts['emb_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_xml_trans)
+    
     if needs_xml or needs_xml_trans:
         pdf_filepath = get_child_ext_path(dir_path, 'pdf')
         extracted_xml = grobid_extr(pdf_filepath, **grobid_config)
