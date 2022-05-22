@@ -6,8 +6,8 @@
             "emb_txt_trans": false,
             "emb_xml": true,
             "emb_xml_trans": false,
-            "conv_txt": true,
-            "conv_txt_trans": true
+            "ocr_txt": false,
+            "ocr_txt_trans": true
         },
         "store_output": {
             "lang_codes": true,
@@ -15,14 +15,14 @@
             "emb_txt_trans": false,
             "emb_xml": true,
             "emb_xml_trans": false,
-            "conv_txt": true,
-            "conv_txt_trans": true
+            "ocr_txt": true,
+            "ocr_txt_trans": true
         }
     },
 
     "dataset" : {
-        "path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/test",
-        ".path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/docs_for_conv"  
+        "path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/docs_for_conv",  
+        ".path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/test"    
     },
 
     "conversion" : {
@@ -40,6 +40,6 @@
         "message_colours": {"start":"blue",
                             "end":"blue",
                             "stages":"cyan",
-                            "verbose":"grey"}
+                            "verbose":"yellow"}
     }
 }

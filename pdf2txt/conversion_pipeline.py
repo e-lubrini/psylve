@@ -77,7 +77,6 @@ map(functools.partial(ctools.img2pdf,           # convert to pdf
     not_pdf_filepaths)      
 
 
-
 ## REARRANGE FOLDER STRUCTURE
 mess_col('Rearranging folder structure...',col_config['header_col'])
 pdf_filepaths = list_ext(input_dir_path,
@@ -94,76 +93,74 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
     verbose_mess('Processing: '+dir_path, verbose)
 
 # compile metadata for each file
+    # TODO verbose need metadata, etc.
     metadata = get_metadata(dir_path,
                             storage_opts=storage_keys,
                             overwrite_opts=overwrite_keys,
                             )
-    dbg(metadata.keys())
 
     store_data(storage='meta',
                 data=metadata,
                 dir_path=dir_path,
                 name='metadata',
                 )
-    mess_col('stored: '+str(bool(metadata.keys())), colours['yellow'])
 
 # extract embedded xml and translate to English
-    xml = get_xml(dir_path,
+    emb_xml = get_xml(dir_path,
                 storage_opts=storage_keys,
                 overwrite_opts=overwrite_keys,
                 grobid_config=grobid_config,
                 )
-    dbg(xml[:25], 'xml: ')
 
     store_data(storage='dir',
-                data=xml,
+                data=emb_xml,
                 dir_path=dir_path,
                 name='grobid',
                 )
-    mess_col('stored: '+str(bool(xml)), colours['yellow'])
 
-    xml_trans = get_translation(tool_dir_path=os.path.join(dir_path,'grobid'),
-                            source_text=xml,
+    emb_xml_trans = get_translation(tool_dir_path=os.path.join(dir_path,'grobid'),
+                            source_text=emb_xml,
                             storage_opts=storage_keys,
                             overwrite_opts=overwrite_keys,
                             source_lang_code=metadata['lang_codes'][0],
                             targ_lang_code='en',
                             )
 
-    dbg(xml_trans[:25], 'trans: ')
     store_data(storage='dir',
-                data=xml,
+                data=emb_xml,
                 dir_path=dir_path,
                 name='grobid',
                 )
-    mess_col('stored: '+str(bool(xml_trans)), colours['yellow'])
 
 # convert file to text with ocr
     #verbose_mess('Getting txt: '+dir_path, verbose)
-    txt = get_txt(dir_path,
+    tool_txts = get_txt(dir_path,
                 tool_names=conv_tool_names,
                 tools=get_funs_from_module(ctools),
                 storage_opts=storage_keys,
                 overwrite_opts=overwrite_keys,
                 )
-    dbg(txt[:25], 'txt: ')
 
     store_data(storage='dir',
-                data=txt,
+                data=tool_txts,
                 dir_path=dir_path,
-                name='',
+                name='ocr_extraction',
                 )
-    mess_col('stored: '+str(bool(txt)), colours['yellow'])
     
-    txt_trans = translate_doc(xml)
-    dbg(txt_trans[:25], 'txt_trans: ')
+    txt_trans = dict()
+    for tool, ocr_txt in tool_txts.items():
+        txt_trans[tool] = get_translation(tool_dir_path=os.path.join(dir_path,tool),
+                                source_text=ocr_txt,
+                                source_lang_code=metadata['lang_codes'][0],
+                                targ_lang_code='en',
+                                storage_opts=storage_keys,
+                                overwrite_opts=overwrite_keys,
+                                )
 
     store_data(storage='dir',
-                data=xml,
+                data=txt_trans,
                 dir_path=dir_path,
-                name='grobid',
-                )
-    mess_col('stored: '+str(bool(txt_trans)), colours['yellow'])
-    
+                name='translation',
+                ) 
                 
 mess_col('Conversion successful!',col_config['end_col'])
