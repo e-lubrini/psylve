@@ -98,8 +98,8 @@ def store_data(storage,
                     json.dump(data, f)
             case 'dir':
                 new_dir = mkdir_no_over(os.path.join(dir_path,name))
-                data_path = os.path.join(new_dir, get_var_name(data))
-                with open(data_path) as f:
+                data_path = os.path.join(new_dir, get_var_name(data)+'.txt')
+                with open(data_path, 'w+') as f:
                     json.dump(data, f)
     else:
         data_path = ''
