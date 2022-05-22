@@ -1,7 +1,9 @@
 
+from curses import meta
 from importlib.metadata import metadata
 from inspect import getmembers, isfunction
 import functools
+from nis import match
 import os
 import string
 
@@ -148,7 +150,8 @@ def get_child_dir_paths(dir_path):
 def mkdir_no_over(dir_name):
     if not os.path.exists(dir_name):
         os.mkdir(dir_name)
-
+    return dir_name
+    
 def save_file(filepath, data):
     with open(filepath, 'w+') as f:
         f.write(data)
@@ -206,6 +209,31 @@ def get_dir_and_doc_paths(path):
         print('enter an existing path')
     return dir_path, filepath
 
+def store_data(storage,
+                data,
+                dir_path,
+                name):
+    storage_types = ['meta', # the metadata file
+                    'dir'] # a new subdirectory where the document is stored
+    if storage not in storage_types:
+        raise ValueError("Invalid path_type. Expected one of: {0}".format(path_types)) 
+    
+    match storage:
+        case 'meta':
+            data_path = os.path.join(dir_path,name+'.json')
+            with open(data_path, 'w+') as f:
+                json.dump(data, f)
+        case 'dir':
+            new_dir = mkdir_no_over(os.path.join(dir_path,name))
+            data_path = os.path.join(new_dir, get_var_name(data))
+            with open(data_path) as f:
+                json.dump(data, f)
+    return data_path
+
+                
+##############
+## METADATA ##
+##############
 def write_pdf_metadata(path, overwrite_keys):
     dir_path, filepath = get_dir_and_doc_paths(path)
     # info to be stored

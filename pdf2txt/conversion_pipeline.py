@@ -97,9 +97,13 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                             storage_opts=storage_keys,
                             overwrite_opts=overwrite_keys,
                             )
-    dbg(metadata)
+    dbg(metadata.keys())
     store_data(storage='meta',
-                data=metadata)
+                data=metadata,
+                dir_path=dir_path,
+                name='metadata',
+                )
+    dbg('stored')
 
 # extract embedded xml
     xml = get_xml(dir_path=dir_path,
