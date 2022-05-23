@@ -64,10 +64,17 @@ dbg(grobid_config['grobid_inst_path'])
 ##############
 ## PIPELINE ##
 ##############
+<<<<<<< HEAD
 mess_col('Conversion started!',col_config['title_col'])
 
 ## CONVERT IMAGES TO PDFS
 mess_col('Converting images to pdf documents...',col_config['header_col'])
+=======
+mess_col('Conversion started!',title_col)
+
+mess_col('Converting images to pdf documents...',header_col)
+# if there are any imgs, convert them to pdf
+>>>>>>> f8de973c07538ea33ff17a6e0e2a61ac28790927
 not_pdf_filepaths = list_ext(input_dir_path,    # files to be converted to pdf
                             exts=['pdf'],
                             invert=True,
@@ -132,6 +139,7 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path), desc='processed docume
                 )
 
 # convert file to text with ocr
+<<<<<<< HEAD
     verbose_mess('getting ocr txt', verbose)
     tool_txts = get_txt(dir_path,
                         tool_names=conv_tool_names,
@@ -162,3 +170,18 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path), desc='processed docume
                 ) 
                 
 mess_col('Conversion successful!',col_config['end_col'])
+=======
+    pdf2txt(dir_path,
+            tool_names=conv_tool_names,
+            tools=get_funs_from_module(ctools),
+            save_in_dir=True,
+            overwrite=True,
+            )
+
+# translate text to English
+mess_col('Translating documents...',header_col)
+for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
+    translate_doc(dir_path)
+
+mess_col('Conversion successful!',title_col)
+>>>>>>> f8de973c07538ea33ff17a6e0e2a61ac28790927

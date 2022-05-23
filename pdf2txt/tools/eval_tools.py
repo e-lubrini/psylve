@@ -52,6 +52,7 @@ def eval_tools_scores(db_dir_path,
                         max_words_per_doc=None,
                         ):
     mkdir_no_over(store_path)
+    dbg(max_words_per_doc)
     scores_filepath = os.path.join(store_path,'scores.json')
     scores_by_tool = try_read(scores_filepath, alt={})
     for dir_path in tqdm(get_child_dir_paths(db_dir_path)):
@@ -71,7 +72,6 @@ def eval_tools_scores(db_dir_path,
                         scores_by_tool[score_name][tool_name] += score
                     except KeyError:
                         scores_by_tool[score_name][tool_name] = score
-                    dbg('','about to dump')
                     with open(scores_filepath, 'w+') as f:
                         json.dump(scores_by_tool, f)
     return scores_by_tool
