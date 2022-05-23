@@ -83,7 +83,7 @@ def img2pdf(paths):
 def pytesseract_ocr(pdf_filepath):
     doc_objects = pdf2img(pdf_filepath)
     extracted_text = ''
-    for doc_object in tqdm(doc_objects):
+    for doc_object in tqdm(doc_objects, desc='pages processed by ocr', leave=False):
         extracted_text += (pytesseract.image_to_string(doc_object)+'\n')
     return extracted_text
 
@@ -145,7 +145,7 @@ def get_txt(dir_path,
             overwrite_opts,
             ):
     extracted_txts = dict()
-    for tool_name in tool_names:
+    for tool_name in tqdm(tool_names, desc='tools: ', leave=False):
         tool_txt_path = os.path.join(dir_path,tool_name,'ocr_extraction.txt')
         extracted_txts[tool_name] = try_read(tool_txt_path)
         extracted_txt_trans = False # TODO check if exists

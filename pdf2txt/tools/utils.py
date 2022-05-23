@@ -183,8 +183,8 @@ def mv_to_custom_dir(doc_path):
     filename = split_path[-1]
     input_dir_path = split_path[-2]
 
-    new_dir_path = os.path.join(input_dir_path,new_dir_name)
-    new_doc_path = os.path.join(new_dir_path,filename)
+    new_dir_path = os.path.join(input_dir_path,new_dir_name.replace(" ", "_"))
+    new_doc_path = os.path.join(new_dir_path,filename.replace(" ", "_"))
 
     if not os.path.exists(new_dir_path):
         os.mkdir(new_dir_path)
@@ -308,8 +308,11 @@ def get_metadata(dir_path,
         prep_txt,_ = prep_and_tokenise(metadata['emb_txt'])
         metadata['lang_codes'] = get_langs(prep_txt)
     
+    pop_keys = set()
     for k in metadata.keys():
-        metadata[k].pop(k, None) if k not in storage_opts.keys() else None
+        pop_keys.add if k not in storage_opts.keys() else None
+    for k in pop_keys:
+        metadata.pop(k, None)
     
     return metadata
     
@@ -449,7 +452,7 @@ def translate_to_lang(txt,
                 ):
     sents = sent_tokenize(txt)
     trans_sents = list()
-    for sent in tqdm(sents):
+    for sent in tqdm(sents, desc='translated sentences', leave=False):
         try:
             trans_sent = str((GoogleTranslator(source_lang_code,targ_lang_code).translate(str(sent))))
         except:
