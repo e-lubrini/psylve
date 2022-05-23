@@ -1,5 +1,6 @@
 import os
 from tools.utils import *
+import random
 from enchant.checker import SpellChecker
 from tqdm import tqdm
 
@@ -19,11 +20,15 @@ def word_is_correct_Q(w,
         return True
     else:
         return False
-def spellcheck_score(conv_txt_path, meta_path):
+def spellcheck_score(conv_txt_path, meta_path, max_words_per_doc):
     # get list of words in the document
     with open(conv_txt_path, 'r') as f:
         conv_txt = f.read()
     _,doc_wordlist = prep_and_tokenise(conv_txt)
+    if max_words_per_doc:
+        doc_wordlist
+        for _ in range(max_words_per_doc):
+            doc_wordlist.append(random.choice(doc_wordlist))
     # get lang code for spell checker
     metadata = read_doc_metadata(meta_path, path_type='meta')
     lang_codes = metadata['lang_codes']
@@ -43,23 +48,31 @@ def eval_tools_scores(db_dir_path,
                         conv_tool_names, # tools to be evaluated
                         score_names,
                         scoring_funs,
+                        store_path,
+                        max_words_per_doc=None,
                         ):
-    scores_by_tool = dict()
+    mkdir_no_over(store_path)
+    scores_filepath = os.path.join(store_path,'scores.json')
+    scores_by_tool = try_read(scores_filepath, alt={})
     for dir_path in tqdm(get_child_dir_paths(db_dir_path)):
-        for tool_name in conv_tool_names:
+        for tool_name in tqdm(conv_tool_names):
             conv_txt_path = get_child_ext_path(os.path.join(dir_path,tool_name), ['.txt']) 
             meta_path = get_child_ext_path(dir_path, ['.json'])
             for score_name in score_names:
-                try:
-                    scores_by_tool[score_name]
-                except KeyError:
-                    scores_by_tool[score_name] = dict()
+                if (score_name not in scores_by_tool.keys()) or (tool_name not in scores_by_tool[score_name].keys()):
+                    try:
+                        scores_by_tool[score_name]
+                    except KeyError:
+                        scores_by_tool[score_name] = dict()
+                    scoring_fun = scoring_funs[score_name]
+                    score = scoring_fun(conv_txt_path, meta_path, max_words_per_doc)
                     
-                scoring_fun = scoring_funs[score_name]
-                score = scoring_fun(conv_txt_path, meta_path)
-                try:
-                    scores_by_tool[score_name][tool_name] += score
-                except KeyError:
-                    scores_by_tool[score_name][tool_name] = score
+                    try:
+                        scores_by_tool[score_name][tool_name] += score
+                    except KeyError:
+                        scores_by_tool[score_name][tool_name] = score
+                    dbg('','about to dump')
+                    with open(scores_filepath, 'w+') as f:
+                        json.dump(scores_by_tool, f)
     return scores_by_tool
 

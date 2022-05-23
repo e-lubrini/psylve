@@ -157,7 +157,6 @@ def get_txt(dir_path,
             tool = tools[tool_name] 
             pdf_filepath = get_child_ext_path(dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
             extracted_txts[tool_name]= str(tool(pdf_filepath))  # pass it to tool
-
     return extracted_txts
 
 
