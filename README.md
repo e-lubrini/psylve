@@ -1,7 +1,7 @@
 <h1 align="center">PsylVe</h1>
 <h2 align="center">An Ontology of Psyllids as Vectors of Phytoplasma</h2>
 
-Ontology Creation project @ CIRAD, and INRAE for an ontology of superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
+Ontology Development project @ CIRAD, and INRAE for an ontology of superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
 
 ## Repository Structure
 
