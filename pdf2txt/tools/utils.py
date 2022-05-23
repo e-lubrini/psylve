@@ -449,33 +449,13 @@ def translate_to_lang(txt,
                 ):
     sents = sent_tokenize(txt)
     trans_sents = list()
-    for sent in sents:
-        trans_sent = (GoogleTranslator(source_lang_code,targ_lang_code).translate(str(sent)))
-        trans_sents.append(trans_sent)
+    for sent in tqdm(sents):
+        try:
+            trans_sent = str((GoogleTranslator(source_lang_code,targ_lang_code).translate(str(sent))))
+        except:
+            trans_sent = str(sent)
+            trans_sents.append(trans_sent)
     translation = ' '.join(trans_sents)
-    return translation
-
-
-
-# get translation if needed
-def get_translation(tool_dir_path,
-                    source_text,
-                    source_lang_code,
-                    targ_lang_code,
-                    storage_opts,
-                    overwrite_opts,
-                    ):
-    src_type = get_var_name(source_text)
-    
-    translation = try_read(os.path.join(tool_dir_path, 'translation.txt'))
-
-    needs_trans = storage_opts[src_type+'_trans'] and (overwrite_opts[src_type+'_trans'] or not translation)
-    
-    if needs_trans:
-        translation = translate_to_lang(source_text,
-                                        source_lang_code=source_lang_code,
-                                        targ_lang_code=targ_lang_code,
-                                        )
     return translation
 
 # translate conversions to English
@@ -487,7 +467,7 @@ def translate_conv(tool_dir_path,
     conv_path = get_child_ext_path(tool_dir_path, '.txt')
     with open(conv_path, 'r') as f:
         conv_txt = f.read()
-    trans_txt = translate(conv_txt, source_lang_code, targ_lang_code)
+    trans_txt = translate_to_lang(conv_txt, source_lang_code, targ_lang_code)
     trans_path = os.path.join(tool_dir_path, output_filename+'.txt')
     with open(trans_path, 'w+') as f:
         f.write(trans_txt)
@@ -498,7 +478,7 @@ def translate_meta(dir_path,
                     targ_lang_code,
                     ):
     metadata = read_doc_metadata(dir_path, path_type='dir')
-    emb_txt_trans = translate(metadata['emb_txt'], source_lang_code, targ_lang_code)
+    emb_txt_trans = translate_to_lang(metadata['emb_txt'], source_lang_code, targ_lang_code)
     add_metadata_entry(dir_path,
                         'emb_txt_trans',
                         emb_txt_trans,
@@ -520,3 +500,20 @@ def translate_doc(dir_path,
     translate_meta(dir_path, source_lang_code, targ_lang_code)
     return
 
+# get translation if needed
+def get_translation(tool_dir_path,
+                    source_text,
+                    source_lang_code,
+                    targ_lang_code,
+                    storage_opts,
+                    overwrite_opts,
+                    ):
+    src_type = get_var_name(source_text)
+    translation = try_read(os.path.join(tool_dir_path, 'translation.txt'))
+    needs_trans = storage_opts[src_type+'_trans'] and (overwrite_opts[src_type+'_trans'] or not translation)
+    if needs_trans:
+        translation = translate_to_lang(source_text,
+                                        source_lang_code=source_lang_code,
+                                        targ_lang_code=targ_lang_code,
+                                        )
+    return translation

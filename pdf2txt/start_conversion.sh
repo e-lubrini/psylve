@@ -37,7 +37,6 @@ while getopts 'hc:v' flag
                 ;;
             v)
                 VERBOSE='verbose'
-                echo 'verbose is' $VERBOSE
                 ;;
         esac
     done
