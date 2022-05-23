@@ -72,6 +72,14 @@ def mess_col(mess, col_tag, colours=colours):
 #############
 ## GENERAL ##
 #############
+# human readable size
+def hr_size(num, suffix="B"):
+    for unit in ["", "Ki", "Mi", "Gi", "Ti", "Pi", "Ei", "Zi"]:
+        if abs(num) < 1024.0:
+            return f"{num:3.1f}{unit}{suffix}"
+        num /= 1024.0
+    return f"{num:.1f}Yi{suffix}"
+
 def get_funs_from_module(module):
     funs_raw = getmembers(module,isfunction)
     funs = dict()

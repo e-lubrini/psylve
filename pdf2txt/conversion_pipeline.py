@@ -86,15 +86,20 @@ pdf_filepaths = list_ext(input_dir_path,
 for pdf_filepath in pdf_filepaths:
     mv_to_custom_dir(pdf_filepath)
 
+# list files by size
+sorted_dirs = sorted(get_child_dir_paths(input_dir_path),
+                        key =  lambda x: os.stat(get_child_ext_path(x, '.pdf')).st_size)
 
 ## START EXTRACTING DATA
 mess_col('Extracting text...',col_config['header_col'])
-for dir_path in tqdm(get_child_dir_paths(input_dir_path), desc='processed documents: '):
-    verbose_mess('Processing: '+dir_path, verbose)
+for dir_path in tqdm(sorted_dirs, desc='processed documents: '):
+    size = os.stat(get_child_ext_path(dir_path, '.pdf')).st_size
+    verbose_mess('Processing:\n\tsize {0};\n\tpath {1}'.format(hr_size(size),dir_path),
+                verbose)
 
 # compile metadata for each file
     # TODO verbose need metadata, etc.
-    verbose_mess('getting metadata', verbose)
+    verbose_mess('Getting metadata', verbose)
     metadata = get_metadata(dir_path,
                             storage_opts=storage_keys,
                             overwrite_opts=overwrite_keys,
@@ -106,7 +111,7 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path), desc='processed docume
                 )
 
 # extract embedded xml and translate to English
-    verbose_mess('getting emb xml', verbose)
+    verbose_mess('Getting emb xml', verbose)
     emb_xml = get_xml(dir_path,
                 storage_opts=storage_keys,
                 overwrite_opts=overwrite_keys,
@@ -132,7 +137,7 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path), desc='processed docume
                 )
 
 # convert file to text with ocr
-    verbose_mess('getting ocr txt', verbose)
+    verbose_mess('Getting ocr txt', verbose)
     tool_txts = get_txt(dir_path,
                         tool_names=conv_tool_names,
                         tools=get_funs_from_module(ctools),
@@ -145,7 +150,7 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path), desc='processed docume
                 name='ocr_extraction',
                 )
     
-    verbose_mess('getting ocr txt translation', verbose)
+    verbose_mess('Getting ocr txt translation', verbose)
     txt_trans = dict()
     for tool, ocr_txt in tool_txts.items():
         txt_trans[tool] = get_translation(tool_dir_path=os.path.join(dir_path,tool),
