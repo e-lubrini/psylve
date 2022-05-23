@@ -102,7 +102,7 @@ def store_data(storage,
     storage_types = ['meta', # the metadata file
                     'dir'] # a new subdirectory where the document is stored
     if storage not in storage_types:
-        raise ValueError("Invalid path_type. Expected one of: {0}".format(path_types)) 
+        raise ValueError("Invalid path_type. Expected one of: {0}".format(storage_types)) 
     
     if data:
         match storage:
