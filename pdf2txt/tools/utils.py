@@ -31,6 +31,8 @@ from time import sleep
 import inspect
 import functools
 
+import subprocess
+
 ###########
 ## DEBUG ##
 ###########
@@ -78,10 +80,10 @@ def get_funs_from_module(module):
     return funs
 
 def true_counter(funcQ, elems, **kwargs):
-    c = sum([funcQ(e,**kwargs) for e in elems])
+    c = sum([funcQ(e,**kwargs) for e in tqdm(elems, get_var_name(elems))])
     return c
 
-def try_read(path, ext=None):
+def try_read(path, ext=None, alt=''):
     try:
         if ext is None:
             filepath = path
@@ -90,7 +92,7 @@ def try_read(path, ext=None):
         with open(filepath) as f:
             content = f.read()
     except (IndexError, FileNotFoundError):
-        content = ''
+        content = alt
     return content
 
 def store_data(storage,
@@ -328,124 +330,9 @@ def add_metadata_entry(dir_path,
     with open(meta_path, 'w') as f:
         json.dump(metadata, f, indent = 4)
 
-# is emb text usable
-def emb_text_is_usable(doc_path, 
-                    lang_threshold,
-                    lang_wordlist_paths='',
-                    sample_size=200,
-                    print_score=False,
-                    save_emb_text=True):
-    text = get_emb_txt(doc_path)
-    if text != '':
-        
-        prep_text, doc_wordlist = prep_and_tokenise(text) # tokenise and preprocess text
-
-        # get language of text
-        lang_codes = get_langs(prep_text)
-
-        multilang_score = words_in_langs_ratio(doc_wordlist=doc_wordlist,
-                            lang_codes=lang_codes,
-                            sample_size=sample_size,
-                            lang_wordlist_paths=lang_wordlist_paths
-                            )
-        if print_score:
-            print(multilang_score)
-        return multilang_score >= lang_threshold # if not enough words are part of the language...
-    else:
-        return False
-
 ####################
 ## LANGUAGE TOOLS ##
 ####################
-## functions to check if a word is in a language...
-# (a) ...by loading a wordlist
-def in_lang_wl(w, lang_code, lang_wordlist_path='', lang_wordlist=[]):
-    if not lang_wordlist:
-        with open(lang_wordlist_path, 'rU') as f:
-            lang_wordlist = set(line.strip() for line in f)
-    if w in lang_wordlist:
-        return True
-    else:
-        return False
-
-# (b) ...based on spellcheck
-def in_lang_sc(w, lang_code, max_error_count = 0):
-    d = SpellChecker(lang_code)
-    d.set_text(w)
-    errors = [err.word for err in d]
-    if (len(errors) <= max_error_count):
-        return True
-    else:
-        return False
-
-
-# (c) ...based on translation
-def translate_wl(lang_code, data_path=None):
-    lang_wordlist = set()
-    for en_w in tqdm(words.words()):
-        translation = (GoogleTranslator('en',lang_code).translate(en_w))
-        lang_wordlist.add(translation)
-
-        if data_path:       # if path was specified, save language wordlist
-            textfile = open(os.path.join(data_path,'wordlists',(lang_code+'.txt')), "w")
-            for w in lang_wordlist:
-                textfile.write(w + "\n")
-            textfile.close()
-        return lang_wordlist
-
-# check words are part of a certain language using one of three methods:
-def words_in_lang_ratio(doc_wordlist, lang_code, lang_wordlist, lang_wordlist_path, max_n_words):
-    # <(a) wordlist, (b) spellcheck, (c) translation>
-    if not enchant.request_dict(lang_code): # show a warning if a dictionary is not installed
-        print('WARNING: Install the required dictionary!\ne.g. sudo apt-get install hunspell-{0}'.format(lang_code))
-    
-    doc_wordlist = doc_wordlist[-max_n_words:]
-    ## (a) WORDLIST
-    # get wordlist from file ('en.txt' for english, 'fr.txt' for french, etc.)...
-    if os.path.exists(lang_wordlist_path):
-        # count how many words are also found in the language wordlist
-        c = true_counter(func=in_lang_wl, elems=doc_wordlist, lang_wordlist_path=lang_wordlist_path)
-        print('COUNT (loaded wordlist):',c)      
-    ## (b) SPELLCHECK
-    else:       # if there is no wordlist,
-        try:    # use spellcheck*
-            # count how many words are correct according to language-specific spellcheck
-            c = true_counter(func=in_lang_sc, elems=doc_wordlist, lang_code=lang_code)
-            print('COUNT (spellchecker):',c)
-        except (DictNotFoundError, DefaultLanguageNotFoundError):
-            raise Exception('Install the required dictionary!\ne.g. sudo apt-get install hunspell-{0}'.format(lang_code))
-
-    ## (c) TRANSLATE
-        # ...if other two methods fail, translate an english wordlist
-        # (takes too long; download a list or solve issues with spellchecker, if possible!)
-        except AttributeError:
-            lang_wordlist = translate_wl(lang_code) # translate an English wordlist to document's language # TODO: support multiple lang_codes per document
-            # count how many words are found in the translated language wordlist
-            c = true_counter(func=in_lang_wl, elems=doc_wordlist, lang_wordlist=lang_wordlist)
-            print('COUNT (translated wordlist):',c)
-    try:
-        ratio = c/len(doc_wordlist)
-    except ZeroDivisionError:
-        ratio = 0
-    return  ratio
-
-# ratio of words in a list that belong to at least one of listed languages
-def words_in_langs_ratio(doc_wordlist,
-                        lang_codes,
-                        sample_size,
-                        lang_wordlist=None,
-                        lang_wordlist_paths=None):
-    multilang_ratio = 0
-    for lang_code in tqdm(lang_codes):
-        # calculate the percentage of words recognised by the language
-        single_lang_ratio = words_in_lang_ratio(doc_wordlist=doc_wordlist,
-                                    lang_code=lang_code,
-                                    lang_wordlist=lang_wordlist,
-                                    lang_wordlist_path=lang_wordlist_paths[lang_code],
-                                    sample_size=sample_size)
-        multilang_ratio += single_lang_ratio
-    return multilang_ratio
-
 def translate_to_lang(txt,
                 source_lang_code,
                 targ_lang_code,
@@ -457,51 +344,9 @@ def translate_to_lang(txt,
             trans_sent = str((GoogleTranslator(source_lang_code,targ_lang_code).translate(str(sent))))
         except:
             trans_sent = str(sent)
-            trans_sents.append(trans_sent)
+        trans_sents.append(trans_sent)
     translation = ' '.join(trans_sents)
     return translation
-
-# translate conversions to English
-def translate_conv(tool_dir_path,
-                    output_filename,
-                    source_lang_code,
-                    targ_lang_code,
-                    ):
-    conv_path = get_child_ext_path(tool_dir_path, '.txt')
-    with open(conv_path, 'r') as f:
-        conv_txt = f.read()
-    trans_txt = translate_to_lang(conv_txt, source_lang_code, targ_lang_code)
-    trans_path = os.path.join(tool_dir_path, output_filename+'.txt')
-    with open(trans_path, 'w+') as f:
-        f.write(trans_txt)
-    return trans_txt
-
-def translate_meta(dir_path,
-                    source_lang_code,
-                    targ_lang_code,
-                    ):
-    metadata = read_doc_metadata(dir_path, path_type='dir')
-    emb_txt_trans = translate_to_lang(metadata['emb_txt'], source_lang_code, targ_lang_code)
-    add_metadata_entry(dir_path,
-                        'emb_txt_trans',
-                        emb_txt_trans,
-                        )
-    return emb_txt_trans
-
-def translate_doc(dir_path,
-                    targ_lang_code='en',
-                    output_filename='translation',
-                    ):
-    # translate conversions to English
-    source_lang_code = read_doc_metadata(dir_path, path_type='dir')['lang_codes'][0]
-    for tool_dir_path in get_child_dir_paths(dir_path):
-        translate_conv(tool_dir_path,
-                    output_filename=output_filename,
-                    source_lang_code=source_lang_code,
-                    targ_lang_code=targ_lang_code,
-                    )
-    translate_meta(dir_path, source_lang_code, targ_lang_code)
-    return
 
 # get translation if needed
 def get_translation(tool_dir_path,

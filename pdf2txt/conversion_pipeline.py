@@ -89,7 +89,7 @@ for pdf_filepath in pdf_filepaths:
 
 ## START EXTRACTING DATA
 mess_col('Extracting text...',col_config['header_col'])
-for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
+for dir_path in tqdm(get_child_dir_paths(input_dir_path), desc='processed documents: '):
     verbose_mess('Processing: '+dir_path, verbose)
 
 # compile metadata for each file
@@ -148,7 +148,6 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
     verbose_mess('getting ocr txt translation', verbose)
     txt_trans = dict()
     for tool, ocr_txt in tool_txts.items():
-        dbg(tool, 'TOOL')
         txt_trans[tool] = get_translation(tool_dir_path=os.path.join(dir_path,tool),
                                 source_text=ocr_txt,
                                 source_lang_code=metadata['lang_codes'][0],
