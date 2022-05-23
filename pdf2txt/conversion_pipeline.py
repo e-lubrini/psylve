@@ -64,17 +64,10 @@ dbg(grobid_config['grobid_inst_path'])
 ##############
 ## PIPELINE ##
 ##############
-<<<<<<< HEAD
 mess_col('Conversion started!',col_config['title_col'])
 
 ## CONVERT IMAGES TO PDFS
 mess_col('Converting images to pdf documents...',col_config['header_col'])
-=======
-mess_col('Conversion started!',title_col)
-
-mess_col('Converting images to pdf documents...',header_col)
-# if there are any imgs, convert them to pdf
->>>>>>> f8de973c07538ea33ff17a6e0e2a61ac28790927
 not_pdf_filepaths = list_ext(input_dir_path,    # files to be converted to pdf
                             exts=['pdf'],
                             invert=True,
