@@ -99,7 +99,6 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                             storage_opts=storage_keys,
                             overwrite_opts=overwrite_keys,
                             )
-
     store_data(storage='meta',
                 data=metadata,
                 dir_path=dir_path,
@@ -107,13 +106,12 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                 )
 
 # extract embedded xml and translate to English
-    verbose_mess('getting emb_xml', verbose)
+    verbose_mess('getting emb xml', verbose)
     emb_xml = get_xml(dir_path,
                 storage_opts=storage_keys,
                 overwrite_opts=overwrite_keys,
                 grobid_config=grobid_config,
                 )
-
     store_data(storage='dir',
                 data=emb_xml,
                 dir_path=dir_path,
@@ -127,7 +125,6 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                             source_lang_code=metadata['lang_codes'][0],
                             targ_lang_code='en',
                             )
-
     store_data(storage='dir',
                 data=emb_xml,
                 dir_path=dir_path,
@@ -137,12 +134,11 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
 # convert file to text with ocr
     verbose_mess('getting ocr txt', verbose)
     tool_txts = get_txt(dir_path,
-                tool_names=conv_tool_names,
-                tools=get_funs_from_module(ctools),
-                storage_opts=storage_keys,
-                overwrite_opts=overwrite_keys,
-                )
-
+                        tool_names=conv_tool_names,
+                        tools=get_funs_from_module(ctools),
+                        storage_opts=storage_keys,
+                        overwrite_opts=overwrite_keys,
+                        )
     store_data(storage='dir',
                 data=tool_txts,
                 dir_path=dir_path,
@@ -152,6 +148,7 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
     verbose_mess('getting ocr txt translation', verbose)
     txt_trans = dict()
     for tool, ocr_txt in tool_txts.items():
+        dbg(tool, 'TOOL')
         txt_trans[tool] = get_translation(tool_dir_path=os.path.join(dir_path,tool),
                                 source_text=ocr_txt,
                                 source_lang_code=metadata['lang_codes'][0],
@@ -159,7 +156,6 @@ for dir_path in tqdm(get_child_dir_paths(input_dir_path)):
                                 storage_opts=storage_keys,
                                 overwrite_opts=overwrite_keys,
                                 )
-
     store_data(storage='dir',
                 data=txt_trans,
                 dir_path=dir_path,

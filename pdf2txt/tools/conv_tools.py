@@ -83,7 +83,7 @@ def img2pdf(paths):
 def pytesseract_ocr(pdf_filepath):
     doc_objects = pdf2img(pdf_filepath)
     extracted_text = ''
-    for doc_object in doc_objects:
+    for doc_object in tqdm(doc_objects):
         extracted_text += (pytesseract.image_to_string(doc_object)+'\n')
     return extracted_text
 
@@ -147,11 +147,11 @@ def get_txt(dir_path,
     extracted_txts = dict()
     for tool_name in tool_names:
         tool_txt_path = os.path.join(dir_path,tool_name,'ocr_extraction.txt')
-        extracted_txt = try_read(tool_txt_path)
+        extracted_txts[tool_name] = try_read(tool_txt_path)
         extracted_txt_trans = False # TODO check if exists
 
-        needs_txt = storage_opts['ocr_txt'] and (overwrite_opts['ocr_txt'] or not extracted_txt)
-        needs_txt_trans = storage_opts['ocr_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_txt)
+        needs_txt = storage_opts['ocr_txt'] and (overwrite_opts['ocr_txt'] or not extracted_txts[tool_name])
+        needs_txt_trans = storage_opts['ocr_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_txts[tool_name])
         
         if needs_txt or needs_txt_trans:
             tool = tools[tool_name] 
