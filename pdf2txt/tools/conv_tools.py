@@ -9,10 +9,9 @@
 #############
 ## IMPORTS ##
 #############
-
-from distutils import extension
 import os
-from matplotlib import image
+
+from nbformat import read
 from tools.utils import *
 
 # pdf<>png
@@ -42,7 +41,6 @@ from tika import parser
 from pdfreader import SimplePDFViewer
 
 # grobid
-import subprocess
 import requests
 
 #############
@@ -85,7 +83,7 @@ def img2pdf(paths):
 def pytesseract_ocr(pdf_filepath):
     doc_objects = pdf2img(pdf_filepath)
     extracted_text = ''
-    for doc_object in doc_objects:
+    for doc_object in tqdm(doc_objects, desc='pages processed by ocr', leave=False):
         extracted_text += (pytesseract.image_to_string(doc_object)+'\n')
     return extracted_text
 
@@ -114,7 +112,6 @@ def pdfreader_ocr(pdf_file_name):
     # get raw document
     with open(pdf_file_name, "rb") as f:
         fd = f.read()
-    dbg(fd[-10:])
     viewer = SimplePDFViewer(fd)
 
     metadata = viewer.metadata
@@ -141,38 +138,41 @@ def grobid_extr(pdf_filepath,
 ### CONVS ###
 #############
 
-def pdf2txt(doc_dir_path,
+def get_txt(dir_path,
             tool_names,
             tools,
-            save_in_dir=True,
-            overwrite=False,
+            storage_opts,
+            overwrite_opts,
             ):
-    extracted_texts = dict()
-    for tool_name in tool_names:
-        output_dir_path = os.path.join(doc_dir_path,tool_name)
-        if not os.path.exists(output_dir_path):
-            os.mkdir(output_dir_path)
-        tool = tools[tool_name]
-        pdf_filepath = get_child_ext_path(doc_dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
-        extracted_texts[tool_name]= str(tool(pdf_filepath))  # pass it to tool
-        output_filepath = os.path.join(output_dir_path,tool_name+'.txt')
-        if save_in_dir==True and (overwrite==True or not os.path.exists(output_filepath)):
-            with open(output_filepath, 'w+') as f:
-                    f.write(extracted_texts[tool_name])
-    return extracted_texts
+    extracted_txts = dict()
+    for tool_name in tqdm(tool_names, desc='tools: ', leave=False):
+        tool_txt_path = os.path.join(dir_path,tool_name,'ocr_extraction.txt')
+        extracted_txts[tool_name] = try_read(tool_txt_path)
+        extracted_txt_trans = False # TODO check if exists
 
-def pdf2xml(dir_path,
+        needs_txt = storage_opts['ocr_txt'] and (overwrite_opts['ocr_txt'] or not extracted_txts[tool_name])
+        needs_txt_trans = storage_opts['ocr_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_txts[tool_name])
+        
+        if needs_txt or needs_txt_trans:
+            tool = tools[tool_name] 
+            pdf_filepath = get_child_ext_path(dir_path, 'pdf')      # get path from doc # TODO: trat multiple pdfs per document
+            extracted_txts[tool_name]= str(tool(pdf_filepath))  # pass it to tool
+    return extracted_txts
+
+
+def get_xml(dir_path,
+            storage_opts,
+            overwrite_opts,
             grobid_config,
-            store_in_meta=True,
-            save_in_dir=False,
-            overwrite=True,):
-    pdf_filepath = get_child_ext_path(dir_path, 'pdf')
-    extracted_xml = grobid_extr(pdf_filepath, **grobid_config)
-    if store_in_meta:
-        add_metadata_entry(dir_path,'emb_xml', extracted_xml)
-    if save_in_dir==True and (overwrite==True or not os.path.exists(output_filepath)):
-        output_dir_path = os.path.join(dir_path,'grobid')
-        os.mkdir(output_filepath)
-        output_filepath = os.path.join(output_dir_path,'grobid.txt')
-        with open(output_filepath, 'w') as f:
-            f.write(extracted_xml)
+            ):
+    extracted_xml = try_read(dir_path, ext='.xml')
+    extracted_xml_trans = False # TODO check if exists
+
+    needs_xml = storage_opts['emb_xml'] and (overwrite_opts['emb_xml'] or not extracted_xml)
+    needs_xml_trans = storage_opts['emb_txt_trans'] and (overwrite_opts['emb_txt_trans'] or not extracted_xml)
+    
+    if needs_xml or needs_xml_trans:
+        pdf_filepath = get_child_ext_path(dir_path, 'pdf')
+        extracted_xml = grobid_extr(pdf_filepath, **grobid_config)
+
+    return extracted_xml

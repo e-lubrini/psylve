@@ -1,6 +1,28 @@
-{
+{   
+    "general" : {
+        "overwrite" : {
+            "lang_codes": true,
+            "emb_txt": false,
+            "emb_txt_trans": false,
+            "emb_xml": true,
+            "emb_xml_trans": false,
+            "ocr_txt": false,
+            "ocr_txt_trans": true
+        },
+        "store_output": {
+            "lang_codes": true,
+            "emb_txt": true,
+            "emb_txt_trans": false,
+            "emb_xml": true,
+            "emb_xml_trans": false,
+            "ocr_txt": true,
+            "ocr_txt_trans": true
+        }
+    },
+
     "dataset" : {
-        "path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/docs_for_conv"  
+        "path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/docs_for_conv",  
+        ".path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/test"    
     },
 
     "conversion" : {
@@ -12,5 +34,12 @@
         "config_path":"/home/lubrini/GitHub/grobid_client_python/config.json",
         "GROBID_URL" : "https://cloud.science-miner.com/grobid/",
         "end_url" : "api/processHeaderDocument"
+    },
+
+    "appearance": {
+        "message_colours": {"start":"blue",
+                            "end":"blue",
+                            "stages":"cyan",
+                            "verbose":"yellow"}
     }
 }

@@ -37,13 +37,18 @@ while getopts 'hc:v' flag
                 ;;
             v)
                 VERBOSE='verbose'
-                echo 'verbose is' $VERBOSE
                 ;;
         esac
     done
 
 
 ## FUNCTIONS
+StartGrobidServer()
+{   # Start grobid server
+    cd $GPATH;
+    bash ./gradlew run > /dev/null
+}
+
 KillGrobid()
 {   # Kill all grobid processes 
     for p in `ps -aux | grep grobid | awk -F ' ' '{print $2}' `; do
@@ -54,14 +59,12 @@ KillGrobid()
 
 
 ## PIPELINE
-# start grobid server
 GPATH=($(jq -r '.grobid.grobid_inst_path' $CONF_FILE_PATH))
-(cd $GPATH;
-bash ./gradlew run > /dev/null) & 
-# start conversion
-    (sleep 1;
+#StartGrobidServer & 
+(   # start conversion
+    sleep 1;
     python 'conversion_pipeline.py' $CONF_FILE_PATH $VERBOSE;
     KillGrobid;
     echo 'Pipeline exited successfully.';
     exit
-    )
+)
