@@ -160,10 +160,11 @@ for dir_path in tqdm(sorted_dirs, desc='processed documents: '):
                                 storage_opts=storage_keys,
                                 overwrite_opts=overwrite_keys,
                                 )
+    trans_name = 'translation'
     store_data(storage='dir',
                 data=txt_trans,
                 dir_path=dir_path,
-                name='translation',
+                name=trans_name,
                 ) 
                 
 mess_col('Conversion successful!',col_config['end_col'])
