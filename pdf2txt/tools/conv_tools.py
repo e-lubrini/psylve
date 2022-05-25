@@ -27,6 +27,7 @@ from PIL import Image
 
 # PyPDF4
 import PyPDF4
+import pikepdf
 
 # pdfminer.six
 from pdfminer.high_level import extract_text
@@ -89,14 +90,18 @@ def pytesseract_ocr(pdf_filepath):
 
 def PyPDF4_ocr(pdf_filepath):
     doc_object = open(pdf_filepath, 'rb')
-
-    pdfReader = PyPDF4.PdfFileReader(doc_object) # creating a pdf reader object
+    reader = PyPDF4.PdfFileReader(pdf_filepath)
+    if reader.isEncrypted:
+        pdf = pikepdf.open(pdf_filepath, allow_overwriting_input=True)
+        pdf.save(pdf_filepath)
     
-    n_pages = pdfReader.numPages # #printing number of pages in pdf file
+    reader = PyPDF4.PdfFileReader(doc_object) # creating a pdf reader object
+        
+    n_pages = reader.numPages # #printing number of pages in pdf file
     text = ''
 
     for n in range(n_pages):
-        pageObj = pdfReader.getPage(n) # creating a page object
+        pageObj = reader.getPage(n) # creating a page object
         text += pageObj.extractText() # extracting text from page
     return text
 
