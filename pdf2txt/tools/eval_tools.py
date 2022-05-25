@@ -54,7 +54,9 @@ def eval_tools_scores(db_dir_path,
     mkdir_no_over(store_path)
     dbg(max_words_per_doc)
     scores_filepath = os.path.join(store_path,'scores.json')
-    scores_by_tool = json.loads(try_read(scores_filepath, alt={}))
+    scores_by_tool = try_read(scores_filepath, alt={})
+    if type(scores_by_tool) == str:
+        scores_by_tool = json.loads(scores_by_tool)
     for dir_path in tqdm(get_child_dir_paths(db_dir_path)):
         for tool_name in conv_tool_names:
             conv_txt_path = get_child_ext_path(os.path.join(dir_path,tool_name), ['.txt']) 

@@ -113,7 +113,7 @@ def tika_ocr(pdf_filepath):
     text = raw['content']
     return text
     
-def pdfreader_ocr(pdf_file_name):
+def pdfreader_extr(pdf_file_name):
     # get raw document
     with open(pdf_file_name, "rb") as f:
         fd = f.read()
