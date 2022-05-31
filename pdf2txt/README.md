@@ -20,7 +20,7 @@
 ## Requirements
 
 - **Install Python packages —**
-```pip install -r pip_requirements.txt```
+```cat pip_requirements.txt | xargs -n 1 pip install```
 This pipeline requires a Python version of at least 3.10.
 
 - **Install APT packages —**
