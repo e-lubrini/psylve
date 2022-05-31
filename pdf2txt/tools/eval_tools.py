@@ -44,8 +44,9 @@ def spellcheck_score(conv_txt_path, meta_path, max_words_per_doc):
 ############################
 ## EVALUATE TOOLS ON DATA ##
 ############################
-def eval_tools_scores(db_dir_path,
-                        conv_tool_names, # tools to be evaluated
+def eval_tools_scores(dir_paths,
+                        text, # either pass the text to be evaluated here...
+                        conv_tool_names, # ... or provide the name of the tools to be evaluated
                         score_names,
                         scoring_funs,
                         store_path,
@@ -57,10 +58,28 @@ def eval_tools_scores(db_dir_path,
     scores_by_tool = try_read(scores_filepath, alt={})
     if type(scores_by_tool) == str:
         scores_by_tool = json.loads(scores_by_tool)
-    for dir_path in tqdm(get_child_dir_paths(db_dir_path)):
-        for tool_name in conv_tool_names:
-            conv_txt_path = get_child_ext_path(os.path.join(dir_path,tool_name), ['.txt']) 
-            meta_path = get_child_ext_path(dir_path, ['.json'])
+    for dir_path in tqdm(dir_paths):
+        if conv_tool_names:
+            for tool_name in conv_tool_names:
+                conv_txt_path = get_child_ext_path(os.path.join(dir_path,tool_name), ['.txt']) 
+                meta_path = get_child_ext_path(dir_path, ['.json'])
+                for score_name in score_names:
+                    if (score_name not in scores_by_tool.keys()) or (tool_name not in scores_by_tool[score_name].keys()):
+                        try:
+                            scores_by_tool[score_name]
+                        except KeyError:
+                            scores_by_tool[score_name] = dict()
+                        scoring_fun = scoring_funs[score_name]
+                        score = scoring_fun(conv_txt_path, meta_path, max_words_per_doc)
+                        
+                        try:
+                            scores_by_tool[score_name][tool_name] += score
+                        except KeyError:
+                            scores_by_tool[score_name][tool_name] = score
+                        with open(scores_filepath, 'w+') as f:
+                            json.dump(scores_by_tool, f)
+            return scores_by_tool
+        elif text:
             for score_name in score_names:
                 if (score_name not in scores_by_tool.keys()) or (tool_name not in scores_by_tool[score_name].keys()):
                     try:
@@ -74,7 +93,7 @@ def eval_tools_scores(db_dir_path,
                         scores_by_tool[score_name][tool_name] += score
                     except KeyError:
                         scores_by_tool[score_name][tool_name] = score
-                    with open(scores_filepath, 'w+') as f:
-                        json.dump(scores_by_tool, f)
-    return scores_by_tool
+            return scores_by_tool
+
+    
 

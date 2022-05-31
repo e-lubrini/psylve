@@ -1,3 +1,4 @@
+#!/usr/bin/python3.10
 
 from curses import meta
 from gettext import translation
@@ -32,6 +33,9 @@ import inspect
 import functools
 
 import subprocess
+
+import tools.eval_tools as etools
+from tools.eval_tools import eval_tools_scores
 
 ###########
 ## DEBUG ##
@@ -304,7 +308,8 @@ def read_doc_metadata(path, path_type):
 
 def get_metadata(dir_path,
                 storage_opts,
-                overwrite_opts
+                overwrite_opts,
+                threshold,
                 ):
     try:
         meta_path = get_meta_path(dir_path, path_type='dir')
@@ -323,7 +328,16 @@ def get_metadata(dir_path,
         pop_keys.add if k not in storage_opts.keys() else None
     for k in pop_keys:
         metadata.pop(k, None)
-    
+
+    # check if emb text is usable
+    if storage_opts['emb_txt_ok'] and (overwrite_opts['emb_txt_ok'] or not ('emb_txt_ok' in metadata.keys())):
+        metadata['score'] = eval_tools_scores(db_dir_path=dir_path,
+                                                text=metadata['emb_txt'], # tools to be evaluated
+                                                score_names=['spellcheck_score'],
+                                                scoring_funs= get_funs_from_module(etools),
+                                                )['spellcheck_score']
+        metadata['emb_txt_ok'] = metadata['score'] >= threshold
+
     return metadata
     
 

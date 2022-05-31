@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env python3.10
 
 #############
 ## IMPORTS ##
@@ -6,7 +6,7 @@
 import functools
 import sys
 
-from executing import Source
+#from executing import Source
 
 from tools.utils import colours
 from tools.utils import *
@@ -43,6 +43,9 @@ input_dir_path = configs['dataset']['path']
 dbg(input_dir_path)
 conv_tool_names = configs['conversion']['tool_names']
 dbg(conv_tool_names)
+
+# metadata
+threshold = configs['conversion']['emb_txt_ok_threshold']
 
 # storage
 storage_keys = configs['general']['store_output']
@@ -103,6 +106,7 @@ for dir_path in tqdm(sorted_dirs, desc='processed documents: '):
     metadata = get_metadata(dir_path,
                             storage_opts=storage_keys,
                             overwrite_opts=overwrite_keys,
+                            threshold=threshold
                             )
     store_data(storage='meta',
                 data=metadata,
@@ -124,12 +128,12 @@ for dir_path in tqdm(sorted_dirs, desc='processed documents: '):
                 )
 
     emb_xml_trans = get_translation(tool_dir_path=os.path.join(dir_path,'grobid'),
-                            source_text=emb_xml,
-                            storage_opts=storage_keys,
-                            overwrite_opts=overwrite_keys,
-                            source_lang_code=metadata['lang_codes'][0],
-                            targ_lang_code='en',
-                            )
+                                source_text=emb_xml,
+                                storage_opts=storage_keys,
+                                overwrite_opts=overwrite_keys,
+                                source_lang_code=metadata['lang_codes'][0],
+                                targ_lang_code='en',
+                                )
     store_data(storage='dir',
                 data=emb_xml,
                 dir_path=dir_path,

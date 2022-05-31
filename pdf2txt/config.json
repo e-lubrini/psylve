@@ -1,13 +1,14 @@
 {   
     "general" : {
         "overwrite" : {
-            "lang_codes": true,
+            "lang_codes": false,
             "emb_txt": false,
             "emb_txt_trans": false,
-            "emb_xml": true,
+            "emb_xml": false,
             "emb_xml_trans": false,
             "ocr_txt": false,
-            "ocr_txt_trans": true
+            "ocr_txt_trans": false,
+            "emb_txt_ok": true
         },
         "store_output": {
             "lang_codes": true,
@@ -16,7 +17,8 @@
             "emb_xml": true,
             "emb_xml_trans": false,
             "ocr_txt": true,
-            "ocr_txt_trans": true
+            "ocr_txt_trans": true,
+            "emb_txt_ok": true
         }
     },
 
@@ -26,7 +28,9 @@
     },
 
     "conversion" : {
-        "tool_names" : ["pytesseract_ocr"]
+        "tool_names" : ["pytesseract_ocr"],
+        "convert_if_emb_txt_ok" : true,
+        "emb_txt_ok_threshold" : 0.90
     },
 
     "grobid" : {
