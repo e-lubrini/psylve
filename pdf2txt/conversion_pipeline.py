@@ -1,5 +1,3 @@
-#!/usr/bin/env python3.10
-
 #############
 ## IMPORTS ##
 #############
@@ -12,6 +10,10 @@ from tools.utils import colours
 from tools.utils import *
 from tools.conv_tools import *
 from tools import conv_tools as ctools
+
+import tools.eval_tools as etools
+from tools.eval_tools import *
+from tools.pdf_tools import *
 
 #############
 ## CONFIGS ##

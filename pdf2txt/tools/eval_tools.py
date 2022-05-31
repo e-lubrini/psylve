@@ -45,11 +45,11 @@ def spellcheck_score(conv_txt_path, meta_path, max_words_per_doc):
 ## EVALUATE TOOLS ON DATA ##
 ############################
 def eval_tools_scores(dir_paths,
-                        text, # either pass the text to be evaluated here...
-                        conv_tool_names, # ... or provide the name of the tools to be evaluated
                         score_names,
                         scoring_funs,
-                        store_path,
+                        text='', # either pass the text to be evaluated here...
+                        conv_tool_names=[], # ... or provide the name of the tools to be evaluated
+                        store_path='',
                         max_words_per_doc=None,
                         ):
     mkdir_no_over(store_path)
@@ -59,7 +59,7 @@ def eval_tools_scores(dir_paths,
     if type(scores_by_tool) == str:
         scores_by_tool = json.loads(scores_by_tool)
     for dir_path in tqdm(dir_paths):
-        if conv_tool_names:
+        if store_path:
             for tool_name in conv_tool_names:
                 conv_txt_path = get_child_ext_path(os.path.join(dir_path,tool_name), ['.txt']) 
                 meta_path = get_child_ext_path(dir_path, ['.json'])

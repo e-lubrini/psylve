@@ -23,8 +23,8 @@
     },
 
     "dataset" : {
-        "path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/docs_for_conv",  
-        ".path": "/home/elubrini/GitHub/psylloidea_ontology/pdf2txt/data/test"    
+        "path": "/home/elubrini/GitHub/psylve/pdf2txt/data/docs_for_conv",  
+        ".path": "/home/elubrini/GitHub/psylve/pdf2txt/data/test"    
     },
 
     "conversion" : {
