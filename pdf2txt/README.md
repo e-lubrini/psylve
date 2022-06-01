@@ -64,3 +64,43 @@ ments, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pip
 - New **tools for conversion** can be easily added to ``tools/conv_tools.py`` by importing the required packages and defining a new function. The function name will then need to be added to the config file, in order for it to be used for conversion, or to the config section in the ``evaluation_pipeline.ipynb`` notebook, in order to evaluate it.
 
 - More **scores for evaluation** can also be added, by creating a new function in ``tools/eval_tools.py`` and adding it to the congiguration section in the ``evaluation_pipeline.ipynb`` notebook.
+
+## Configuration Options
+#### general
+- overwrite:
+    - lang_codes": false,
+    - emb_txt": false,
+    - emb_txt_trans": false,
+    - emb_xml": false,
+    - emb_xml_trans": false,
+    - ocr_txt": false,
+    - ocr_txt_trans": false,
+    - emb_txt_ok": false
+    
+- store_output
+    - lang_codes": true,
+    - emb_txt": true,
+    - emb_txt_trans": false,
+    - emb_xml": true,
+    - emb_xml_trans": false,
+    - ocr_txt": true,
+    - ocr_txt_trans": true,
+    - emb_txt_ok": true
+
+#### dataset
+- path: /home/elubrini/GitHub/psylve/pdf2txt/data/docs_for_conv
+- path: /home/elubrini/GitHub/psylve/pdf2txt/data/test
+
+#### conversion
+- tool_names
+- convert_if_emb_txt_ok
+- emb_txt_ok_threshold 
+    
+#### grobid
+- grobid_inst_path
+- config_path
+- GROBID_URL
+- end_url
+
+#### appearance
+- message_colours
