@@ -1,8 +1,13 @@
-from tools.eval_tools import *
+import imp
+from tools.utils import try_read, get_funs_from_module, get_dir_and_doc_paths, get_child_ext_path
 import tools.eval_tools as etools
-from tools.eval_tools import eval_tools_scores
 
-from tools.utils import *
+import json 
+import fitz
+import fasttext
+import os
+import string
+
 
 ###############
 ## PDF TOOLS ##
@@ -17,7 +22,7 @@ def get_emb_txt(path):
         text = ""
         doc = fitz.open(doc_path)
         for page in doc:
-            text += page.get_text()
+            text += page.get_text().replace('\n',' ')
     return text
 
 # tokenise and preprocess text
@@ -97,11 +102,11 @@ def get_metadata(dir_path,
 
     # check if emb text is usable
     if storage_opts['emb_txt_ok'] and (overwrite_opts['emb_txt_ok'] or not ('emb_txt_ok' in metadata.keys())):
-        metadata['score'] = eval_tools_scores(dir_paths=dir_path,
-                                                text=metadata['emb_txt'], # tools to be evaluated
-                                                score_names=['spellcheck_score'],
-                                                scoring_funs= get_funs_from_module(etools),
-                                                )['spellcheck_score']
+        metadata['score'] = eval_txt(dir_path=dir_path,
+                                    text=metadata['emb_txt'], # tools to be evaluated
+                                    score_names=['spellcheck_score'],
+                                    scoring_funs= get_funs_from_module(etools),
+                                    )['spellcheck_score']
         metadata['emb_txt_ok'] = metadata['score'] >= threshold
 
     return metadata
@@ -118,38 +123,25 @@ def add_metadata_entry(dir_path,
     with open(meta_path, 'w') as f:
         json.dump(metadata, f, indent = 4)
 
-####################
-## LANGUAGE TOOLS ##
-####################
-def translate_to_lang(txt,
-                source_lang_code,
-                targ_lang_code,
-                ):
-    sents = sent_tokenize(txt)
-    trans_sents = list()
-    for sent in tqdm(sents, desc='translated sentences', leave=False):
-        try:
-            trans_sent = str((GoogleTranslator(source_lang_code,targ_lang_code).translate(str(sent))))
-        except:
-            trans_sent = str(sent)
-        trans_sents.append(trans_sent)
-    translation = ' '.join(trans_sents)
-    return translation
-
-# get translation if needed
-def get_translation(tool_dir_path,
-                    source_text,
-                    source_lang_code,
-                    targ_lang_code,
-                    storage_opts,
-                    overwrite_opts,
-                    ):
-    src_type = get_var_name(source_text)
-    translation = try_read(os.path.join(tool_dir_path, 'translation.txt'))
-    needs_trans = storage_opts[src_type+'_trans'] and (overwrite_opts[src_type+'_trans'] or not translation)
-    if needs_trans:
-        translation = translate_to_lang(source_text,
-                                        source_lang_code=source_lang_code,
-                                        targ_lang_code=targ_lang_code,
-                                        )
-    return translation
+# evaluate text
+def eval_txt(dir_path,
+            score_names,
+            scoring_funs,
+            text='',
+            max_words_per_doc=None,
+            ):
+    scores_filepath = os.path.join(dir_path,'scores.json')
+    scores_by_tool = try_read(scores_filepath, alt={})
+    if type(scores_by_tool) == str:
+        scores_by_tool = json.loads(scores_by_tool)
+    meta_path = get_child_ext_path(dir_path, ['.json'])
+    for score_name in score_names:
+        if score_name not in scores_by_tool.keys():
+            try:
+                scores_by_tool[score_name]
+            except KeyError:
+                scores_by_tool[score_name] = 0
+            scoring_fun = scoring_funs[score_name]
+            score = scoring_fun(text, meta_path, max_words_per_doc)
+            scores_by_tool[score_name] += score
+    return scores_by_tool

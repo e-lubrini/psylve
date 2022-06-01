@@ -10,9 +10,8 @@
 ## IMPORTS ##
 #############
 import os
-
-from nbformat import read
-from tools.utils import *
+from tqdm import tqdm
+from tools.utils import get_child_ext_path, try_read
 
 # pdf<>png
 import os

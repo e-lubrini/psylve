@@ -233,3 +233,38 @@ def save_data(doc_dir,
     save_data(filepath, content)
     
 
+####################
+## LANGUAGE TOOLS ##
+####################
+def translate_to_lang(txt,
+                source_lang_code,
+                targ_lang_code,
+                ):
+    sents = sent_tokenize(txt)
+    trans_sents = list()
+    for sent in tqdm(sents, desc='translated sentences', leave=False):
+        try:
+            trans_sent = str((GoogleTranslator(source_lang_code,targ_lang_code).translate(str(sent))))
+        except:
+            trans_sent = str(sent)
+        trans_sents.append(trans_sent)
+    translation = ' '.join(trans_sents)
+    return translation
+
+# get translation if needed
+def get_translation(tool_dir_path,
+                    source_text,
+                    source_lang_code,
+                    targ_lang_code,
+                    storage_opts,
+                    overwrite_opts,
+                    ):
+    src_type = get_var_name(source_text)
+    translation = try_read(os.path.join(tool_dir_path, 'translation.txt'))
+    needs_trans = storage_opts[src_type+'_trans'] and (overwrite_opts[src_type+'_trans'] or not translation)
+    if needs_trans:
+        translation = translate_to_lang(source_text,
+                                        source_lang_code=source_lang_code,
+                                        targ_lang_code=targ_lang_code,
+                                        )
+    return translation
