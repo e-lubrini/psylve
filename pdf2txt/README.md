@@ -69,44 +69,33 @@ ments, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pip
 
 #### general
 
-- overwrite:
-    - lang_codes": false,
-    - emb_txt": false,
-    - emb_txt_trans": false,
-    - emb_xml": false,
-    - emb_xml_trans": false,
-    - ocr_txt": false,
-    - ocr_txt_trans": false,
-    - emb_txt_ok": false
-    
-- store_output
-    - lang_codes": true,
-    - emb_txt": true,
-    - emb_txt_trans": false,
-    - emb_xml": true,
-    - emb_xml_trans": false,
-    - ocr_txt": true,
-    - ocr_txt_trans": true,
-    - emb_txt_ok": true
+- overwrite / store_output — true/false values; whether to store the following data and overwrite it if existing 
+    - lang_codes — (metadata) the 2-letter code of the language of the document
+    - emb_txt — (metadata) the text embedded in the document
+    - emb_txt_trans — (metadata) the translation of the embedded text to English
+    - emb_xml — (directory) the embedded text in xml form, outlining the document layout
+    - emb_xml_trans — (directory) the translation of the xml to English
+    - ocr_txt — (directory) text extracted with the selected OCR tool
+    - ocr_txt_trans — (directory) the translation of text extracted with the selected OCR tool to English
+    - emb_txt_ok — (metadata) whether the embedded text has good quality, depending on a threshold - set below
 
 #### dataset
 
-- path: /home/elubrini/GitHub/psylve/pdf2txt/data/docs_for_conv
-- path: /home/elubrini/GitHub/psylve/pdf2txt/data/test
+- path — the path of the directory containing the documents to be processed
 
 #### conversion
 
-- tool_names
-- convert_if_emb_txt_ok
-- emb_txt_ok_threshold 
+- tool_names — the names of the tools to be used for conversion (can be chosen based on results in the evaluation pipeline notebook)
+- convert_if_emb_txt_ok — convert even if the embedded text has good quality
+- emb_txt_ok_threshold — threshold to label embedded text as good quality
     
 #### grobid
 
-- grobid_inst_path
-- config_path
-- GROBID_URL
-- end_url
+- grobid_inst_path — 
+- config_path — 
+- GROBID_URL — 
+- end_url — 
 
 #### appearance
 
-- message_colours
+- message_colours — colours of the messages to be displayed
