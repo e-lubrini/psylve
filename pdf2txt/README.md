@@ -66,7 +66,9 @@ ments, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pip
 - More **scores for evaluation** can also be added, by creating a new function in ``tools/eval_tools.py`` and adding it to the congiguration section in the ``evaluation_pipeline.ipynb`` notebook.
 
 ## Configuration Options
+
 #### general
+
 - overwrite:
     - lang_codes": false,
     - emb_txt": false,
@@ -88,19 +90,23 @@ ments, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pip
     - emb_txt_ok": true
 
 #### dataset
+
 - path: /home/elubrini/GitHub/psylve/pdf2txt/data/docs_for_conv
 - path: /home/elubrini/GitHub/psylve/pdf2txt/data/test
 
 #### conversion
+
 - tool_names
 - convert_if_emb_txt_ok
 - emb_txt_ok_threshold 
     
 #### grobid
+
 - grobid_inst_path
 - config_path
 - GROBID_URL
 - end_url
 
 #### appearance
+
 - message_colours
