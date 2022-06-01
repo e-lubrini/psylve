@@ -87,7 +87,7 @@ def get_funs_from_module(module):
     return funs
 
 def true_counter(funcQ, elems, **kwargs):
-    c = sum([funcQ(e,**kwargs) for e in tqdm(elems, get_var_name(elems))])
+    c = sum([funcQ(e,**kwargs) for e in tqdm(elems, get_var_name(elems), leave=False)])
     return c
 
 def try_read(path, ext=None, alt=''):

@@ -8,7 +8,7 @@
             "emb_xml_trans": false,
             "ocr_txt": false,
             "ocr_txt_trans": false,
-            "emb_txt_ok": true
+            "emb_txt_ok": false
         },
         "store_output": {
             "lang_codes": true,
@@ -30,7 +30,7 @@
     "conversion" : {
         "tool_names" : ["pytesseract_ocr"],
         "convert_if_emb_txt_ok" : true,
-        "emb_txt_ok_threshold" : 0.90
+        "emb_txt_ok_threshold" : 0.65
     },
 
     "grobid" : {
