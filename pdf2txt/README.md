@@ -65,9 +65,9 @@ ments, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pip
 
 - More **scores for evaluation** can also be added, by creating a new function in ``tools/eval_tools.py`` and adding it to the congiguration section in the ``evaluation_pipeline.ipynb`` notebook.
 
-## Configuration Options
+## Legend: Configuration Options 
 
-#### general
+<h4>general</h4>
 
 - overwrite / store_output — true/false values; whether to store the following data and overwrite it if existing 
     - lang_codes — (metadata) the 2-letter code of the language of the document
@@ -79,23 +79,23 @@ ments, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pip
     - ocr_txt_trans — (directory) the translation of text extracted with the selected OCR tool to English
     - emb_txt_ok — (metadata) whether the embedded text has good quality, depending on a threshold - set below
 
-#### dataset
+<h4>dataset</h4>
 
 - path — the path of the directory containing the documents to be processed
 
-#### conversion
+<h4>conversion</h4>
 
 - tool_names — the names of the tools to be used for conversion (can be chosen based on results in the evaluation pipeline notebook)
 - convert_if_emb_txt_ok — convert even if the embedded text has good quality
 - emb_txt_ok_threshold — threshold to label embedded text as good quality
     
-#### grobid
+<h4>grobid</h4>
 
 - grobid_inst_path — 
 - config_path — 
 - GROBID_URL — 
 - end_url — 
 
-#### appearance
+<h4>appearance</h4>
 
 - message_colours — colours of the messages to be displayed
