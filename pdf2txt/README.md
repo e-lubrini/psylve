@@ -64,3 +64,38 @@ ments, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pip
 - New **tools for conversion** can be easily added to ``tools/conv_tools.py`` by importing the required packages and defining a new function. The function name will then need to be added to the config file, in order for it to be used for conversion, or to the config section in the ``evaluation_pipeline.ipynb`` notebook, in order to evaluate it.
 
 - More **scores for evaluation** can also be added, by creating a new function in ``tools/eval_tools.py`` and adding it to the congiguration section in the ``evaluation_pipeline.ipynb`` notebook.
+
+## Legend: Configuration Options 
+
+<h4>general</h4>
+
+- overwrite / store_output — true/false values; whether to store the following data and overwrite it if existing 
+    - lang_codes — (metadata) the 2-letter code of the language of the document
+    - emb_txt — (metadata) the text embedded in the document
+    - emb_txt_trans — (metadata) the translation of the embedded text to English
+    - emb_xml — (directory) the embedded text in xml form, outlining the document layout
+    - emb_xml_trans — (directory) the translation of the xml to English
+    - ocr_txt — (directory) text extracted with the selected OCR tool
+    - ocr_txt_trans — (directory) the translation of text extracted with the selected OCR tool to English
+    - emb_txt_ok — (metadata) whether the embedded text has good quality, depending on a threshold - set below
+
+<h4>dataset</h4>
+
+- path — the path of the directory containing the documents to be processed
+
+<h4>conversion</h4>
+
+- tool_names — the names of the tools to be used for conversion (can be chosen based on results in the evaluation pipeline notebook)
+- convert_if_emb_txt_ok — convert even if the embedded text has good quality
+- emb_txt_ok_threshold — threshold to label embedded text as good quality
+    
+<h4>grobid</h4>
+
+- grobid_inst_path — 
+- config_path — 
+- GROBID_URL — 
+- end_url — 
+
+<h4>appearance</h4>
+
+- message_colours — colours of the messages to be displayed
