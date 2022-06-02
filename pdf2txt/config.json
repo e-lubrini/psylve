@@ -6,8 +6,8 @@
             "emb_txt_trans": false,
             "emb_xml": false,
             "emb_xml_trans": false,
-            "ocr_txt": false,
-            "ocr_txt_trans": false,
+            "ocr_txt": true,
+            "ocr_txt_trans": true,
             "emb_txt_ok": false
         },
         "store_output": {
@@ -28,7 +28,7 @@
     },
 
     "conversion" : {
-        "tool_names" : ["tika_ocr"],
+        "tool_names" : ["tika_ocr", "pytesseract_ocr"],
         "convert_if_emb_txt_ok" : true,
         "emb_txt_ok_threshold" : 0.65
     },

@@ -1,5 +1,5 @@
 import os
-from tools.utils import try_read, true_counter, mkdir_no_over, get_child_ext_path
+from tools.utils import get_parent_dir, try_read, true_counter, mkdir_no_over, get_child_ext_path
 from tools.pdf_tools import prep_and_tokenise, read_doc_metadata
 import random
 import json
@@ -22,8 +22,9 @@ def word_is_correct_Q(w,
         return True
     else:
         return False
+        
 
-def spellcheck_score(conv_txt, meta_path, max_words_per_doc):
+def spellcheck_score(conv_txt, lang_codes, max_words_per_doc):
     # get list of words in the document
     _,doc_wordlist = prep_and_tokenise(conv_txt)
     if max_words_per_doc:
@@ -32,16 +33,16 @@ def spellcheck_score(conv_txt, meta_path, max_words_per_doc):
             doc_wordlist_sample.append(random.choice(doc_wordlist))
         doc_wordlist = doc_wordlist_sample
     # get lang code for spell checker
-    metadata = read_doc_metadata(meta_path, path_type='meta')
-    lang_codes = metadata['lang_codes']
+    score = 0
     for lang_code in lang_codes:
         try:
             cc = true_counter(funcQ=word_is_correct_Q, elems=doc_wordlist, lang_code=lang_code)
             tc = len(doc_wordlist)
+            score = score + cc/(tc+1)
         except:
             print('Warning: dictionary for {0} not installed. install it via aspell/hunspell/myspell.'.format(lang_code))
             print('e.g. sudo apt install aspell-{0}'.format(lang_code))
-    return cc/(tc+1)
+    return score
 
      
 ############################
@@ -50,18 +51,21 @@ def spellcheck_score(conv_txt, meta_path, max_words_per_doc):
 def eval_tools_scores(dir_paths,
                         score_names,
                         scoring_funs,
+                        lang_codes='',
                         conv_tool_names=[],
                         store_path='',
+                        filename='',
                         max_words_per_doc=None,
                         ):
-    scores_filepath = os.path.join(store_path,'scores.json')
+    scores_dir_path = get_parent_dir(store_path)
+    scores_filepath = store_path
     scores_by_tool = try_read(scores_filepath, alt={})
     if type(scores_by_tool) == str:
         scores_by_tool = json.loads(scores_by_tool)
-    mkdir_no_over(store_path)
+    mkdir_no_over(scores_dir_path)
     for dir_path in tqdm(dir_paths):
         for tool_name in conv_tool_names:
-            conv_txt_path = get_child_ext_path(os.path.join(dir_path,tool_name), ['.txt']) 
+            conv_txt_path = get_child_ext_path(os.path.join(dir_path,tool_name), [filename]) 
             with open(conv_txt_path, 'r') as f:
                 conv_txt = f.read()
             meta_path = get_child_ext_path(dir_path, ['.json'])
@@ -72,7 +76,10 @@ def eval_tools_scores(dir_paths,
                     except KeyError:
                         scores_by_tool[score_name] = dict()
                     scoring_fun = scoring_funs[score_name]
-                    score = scoring_fun(conv_txt, meta_path, max_words_per_doc)
+                    if not lang_codes:
+                        metadata = read_doc_metadata(meta_path, path_type='meta')
+                        lang_codes = metadata['lang_codes']
+                    score = scoring_fun(conv_txt, lang_codes, max_words_per_doc)
                     
                     try:
                         scores_by_tool[score_name][tool_name] *= score

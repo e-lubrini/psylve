@@ -8,6 +8,7 @@ import os
 import string
 
 import json
+from types import NoneType
 
 import fitz
 import fasttext
@@ -120,11 +121,10 @@ def store_data(storage,
             case 'dir':
                 if type(data) == dict:
                     for k,v in data.items():
-                        
                         new_dir = mkdir_no_over(os.path.join(dir_path,k))
                         data_path = os.path.join(new_dir, name+'.txt')
                         with open(data_path, 'w+') as f:
-                            f.write(v)   
+                            f.write(v)  
                 else:
                     new_dir = mkdir_no_over(os.path.join(dir_path,name))
                     data_path = os.path.join(new_dir, get_var_name(data)+'.txt')
@@ -263,8 +263,44 @@ def get_translation(tool_dir_path,
     translation = try_read(os.path.join(tool_dir_path, 'translation.txt'))
     needs_trans = storage_opts[src_type+'_trans'] and (overwrite_opts[src_type+'_trans'] or not translation)
     if needs_trans:
-        translation = translate_to_lang(source_text,
+        fixed_txt = fix_ocr(source_text)
+        translation = translate_to_lang(fixed_txt,
                                         source_lang_code=source_lang_code,
                                         targ_lang_code=targ_lang_code,
                                         )
-    return translation
+        return translation
+
+#############
+### FIXES ###
+#############
+import spacy
+import re
+
+def fix_ocr(txt):
+    txt = fix_new_line(txt)
+    txt = fix_new_line_hyphenation(txt)
+    return txt
+
+def fix_new_line_hyphenation(txt):
+    fixed_tokens = []
+    skip = False
+    tokens = txt.split()+['<eos>']
+    sp = spacy.load('en_core_web_sm')
+    for i in tqdm(range(len(tokens)-1), desc="fixing tokens", leave=False):
+        w1 = tokens[i]
+        w2 = tokens[i+1]
+        if not skip:    # if last word wasn't annexed to the previous one
+            if w1.endswith('-') and not sp(w2)[0].pos_ == 'CCONJ': # if word is hyphenated and is not followed by a conjunction
+                fixed_tokens.append(w1[:-1]+w2) # join words
+                skip = True
+            else:
+                fixed_tokens.append(w1)
+        else:
+            skip = False
+    return ' '.join(fixed_tokens)
+
+def fix_new_line(txt):
+    txt = re.sub(r'(\s)*(\n)(\s)*(\n)(\s)*(\n)(\s)*', r'new_line_here', txt)
+    txt = re.sub(r'(\s)*(\n)(\s)*', ' ', txt)
+    txt = re.sub(r'new_line_here', '.\n', txt)
+    return txt

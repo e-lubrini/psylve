@@ -93,22 +93,23 @@ def get_metadata(dir_path,
     if storage_opts['lang_codes'] and (overwrite_opts['lang_codes'] or not ('lang_codes' in metadata.keys())):
         prep_txt,_ = prep_and_tokenise(metadata['emb_txt'])
         metadata['lang_codes'] = get_langs(prep_txt)
-    
+
+
+    # check if emb text is usable
+    if 'emb_txt_ok' in storage_opts.keys():
+        if (storage_opts['emb_txt_ok'] and (overwrite_opts['emb_txt_ok'] or not ('emb_txt_ok' in metadata.keys()))):
+            metadata['score'] = eval_txt(dir_path=dir_path,
+                                        text=metadata['emb_txt'], # tools to be evaluated
+                                        score_names=['spellcheck_score'],
+                                        scoring_funs= get_funs_from_module(etools),
+                                        )['spellcheck_score']
+            metadata['emb_txt_ok'] = metadata['score'] >= threshold
+
     pop_keys = set()
     for k in metadata.keys():
         pop_keys.add if k not in storage_opts.keys() else None
     for k in pop_keys:
         metadata.pop(k, None)
-
-    # check if emb text is usable
-
-    if 'emb_txt_ok' not in storage_opts.keys() or (storage_opts['emb_txt_ok'] and (overwrite_opts['emb_txt_ok'] or not ('emb_txt_ok' in metadata.keys()))):
-        metadata['score'] = eval_txt(dir_path=dir_path,
-                                    text=metadata['emb_txt'], # tools to be evaluated
-                                    score_names=['spellcheck_score'],
-                                    scoring_funs= get_funs_from_module(etools),
-                                    )['spellcheck_score']
-        metadata['emb_txt_ok'] = metadata['score'] >= threshold
 
     return metadata
     
