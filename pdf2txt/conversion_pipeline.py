@@ -15,6 +15,8 @@ import tools.eval_tools as etools
 from tools.eval_tools import *
 from tools.pdf_tools import *
 
+from tqdm import tqdm
+
 #############
 ## CONFIGS ##
 #############
@@ -97,7 +99,7 @@ sorted_dirs = sorted(get_child_dir_paths(input_dir_path),
 
 ## START EXTRACTING DATA
 mess_col('Extracting text...',col_config['header_col'])
-for dir_path in tqdm(sorted_dirs, desc='processed documents: '):
+for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed documents: ', leave=True, mininterval=0, miniters=1):
     size = os.stat(get_child_ext_path(dir_path, '.pdf')).st_size
     verbose_mess('Processing:\n\tsize {0};\n\tpath {1}'.format(hr_size(size),dir_path),
                 verbose)
@@ -119,10 +121,10 @@ for dir_path in tqdm(sorted_dirs, desc='processed documents: '):
 # extract embedded xml and translate to English
     verbose_mess('Getting emb xml', verbose)
     emb_xml = get_xml(dir_path,
-                storage_opts=storage_keys,
-                overwrite_opts=overwrite_keys,
-                grobid_config=grobid_config,
-                )
+                    storage_opts=storage_keys,
+                    overwrite_opts=overwrite_keys,
+                    grobid_config=grobid_config,
+                    )
     store_data(storage='dir',
                 data=emb_xml,
                 dir_path=dir_path,
@@ -130,12 +132,12 @@ for dir_path in tqdm(sorted_dirs, desc='processed documents: '):
                 )
 
     emb_xml_trans = get_translation(tool_dir_path=os.path.join(dir_path,'grobid'),
-                                source_text=emb_xml,
-                                storage_opts=storage_keys,
-                                overwrite_opts=overwrite_keys,
-                                source_lang_code=metadata['lang_codes'][0],
-                                targ_lang_code='en',
-                                )
+                                    source_text=emb_xml,
+                                    storage_opts=storage_keys,
+                                    overwrite_opts=overwrite_keys,
+                                    source_lang_code=metadata['lang_codes'][0],
+                                    targ_lang_code='en',
+                                    )
     store_data(storage='dir',
                 data=emb_xml,
                 dir_path=dir_path,
@@ -160,12 +162,12 @@ for dir_path in tqdm(sorted_dirs, desc='processed documents: '):
     txt_trans = dict()
     for tool, ocr_txt in tool_txts.items():
         txt_trans[tool] = get_translation(tool_dir_path=os.path.join(dir_path,tool),
-                                source_text=ocr_txt,
-                                source_lang_code=metadata['lang_codes'][0],
-                                targ_lang_code='en',
-                                storage_opts=storage_keys,
-                                overwrite_opts=overwrite_keys,
-                                )
+                                        source_text=ocr_txt,
+                                        source_lang_code=metadata['lang_codes'][0],
+                                        targ_lang_code='en',
+                                        storage_opts=storage_keys,
+                                        overwrite_opts=overwrite_keys,
+                                        )
     trans_name = 'translation'
     store_data(storage='dir',
                 data=txt_trans,

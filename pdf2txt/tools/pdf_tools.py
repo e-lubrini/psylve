@@ -101,7 +101,8 @@ def get_metadata(dir_path,
         metadata.pop(k, None)
 
     # check if emb text is usable
-    if storage_opts['emb_txt_ok'] and (overwrite_opts['emb_txt_ok'] or not ('emb_txt_ok' in metadata.keys())):
+
+    if 'emb_txt_ok' not in storage_opts.keys() or (storage_opts['emb_txt_ok'] and (overwrite_opts['emb_txt_ok'] or not ('emb_txt_ok' in metadata.keys()))):
         metadata['score'] = eval_txt(dir_path=dir_path,
                                     text=metadata['emb_txt'], # tools to be evaluated
                                     score_names=['spellcheck_score'],

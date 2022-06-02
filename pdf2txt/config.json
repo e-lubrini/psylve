@@ -28,7 +28,7 @@
     },
 
     "conversion" : {
-        "tool_names" : ["pytesseract_ocr"],
+        "tool_names" : ["tika_ocr"],
         "convert_if_emb_txt_ok" : true,
         "emb_txt_ok_threshold" : 0.65
     },
