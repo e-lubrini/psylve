@@ -133,3 +133,4 @@ venv/
 data/
 grobid_client_python/
 .gradle/
+draft.ipynb

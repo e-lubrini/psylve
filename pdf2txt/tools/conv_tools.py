@@ -12,6 +12,7 @@
 import os
 from tqdm import tqdm
 from tools.utils import get_child_ext_path, try_read
+from tools.eval_tools import word_is_correct_Q
 
 # pdf<>png
 import os
@@ -136,6 +137,30 @@ def grobid_extr(pdf_filepath,
     #subprocess.Popen(['bash','./gradlew run'], cwd=grobid_inst_path)
     xml = requests.put(url, files={'input': open(pdf_filepath, 'rb')})
     return xml.text
+
+#############
+### FIXES ###
+#############
+import spacy
+
+def fix_new_line_hyphenation(txt, lang_code):
+    fixed_tokens = []
+    skip = False
+    tokens = txt.split()+['<eos>']
+    sp = spacy.load('en_core_web_sm')
+    for i in range(len(tokens)-1):
+        w1 = tokens[i]
+        w2 = tokens[i+1]
+        if not skip:    # if last word wasn't annexed to the previous one
+            if w1.endswith('-') and not sp(w2)[0].pos_ == 'CCONJ': # if word is hyphenated and is not followed by a conjunction
+                print (sp(w2)[0].pos_)
+                fixed_tokens.append(w1[:-1]+w2) # join words
+                skip = True
+            else:
+                fixed_tokens.append(w1)
+        else:
+            skip = False
+    return ' '.join(fixed_tokens)
 
 
 #############
