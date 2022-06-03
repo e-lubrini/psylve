@@ -178,7 +178,6 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
                 dir_path=dir_path,
                 name='ocr_extraction',
                 )
-    
     verbose_mess('Getting ocr txt translation', verbose)
     txt_trans = dict()
     for tool, ocr_txt in tool_txts.items():
@@ -197,11 +196,9 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
                 ) 
     
     runtime = time.time() - start_time
-    dbg(hr_time(runtime))
     size_done += size
-    processing_rate = runtime/size_done
-    dbg(hr_time(processing_rate))
+    processing_rate = size_done/runtime
+    verbose_mess(('Processing rate: {0}/s'.format(hr_size(processing_rate))), time_verb)
     size_left -= size
-    dbg(hr_size(size_left))
-    verbose_mess((' Estimated time left:', hr_time(size_left*processing_rate)), time_verb)
+    verbose_mess('Estimated time left: {0}'.format(hr_time(size_left/processing_rate)), time_verb)
 mess_col('Conversion successful!',col_config['end_col'])

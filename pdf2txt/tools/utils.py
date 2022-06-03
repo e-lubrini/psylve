@@ -272,7 +272,7 @@ def get_translation(tool_dir_path,
                                         source_lang_code=source_lang_code,
                                         targ_lang_code=targ_lang_code,
                                         )
-        return translation
+    return translation
 
 #############
 ### FIXES ###

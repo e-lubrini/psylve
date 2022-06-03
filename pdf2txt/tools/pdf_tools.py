@@ -99,7 +99,8 @@ def get_metadata(dir_path,
     if 'emb_txt_ok' in storage_opts.keys():
         if (storage_opts['emb_txt_ok'] and (overwrite_opts['emb_txt_ok'] or not ('emb_txt_ok' in metadata.keys()))):
             metadata['score'] = eval_txt(dir_path=dir_path,
-                                        text=metadata['emb_txt'], # tools to be evaluated
+                                        text=metadata['emb_txt'], # text to be evaluated
+                                        lang_code=metadata['lang_codes'],
                                         score_names=['spellcheck_score'],
                                         scoring_funs= get_funs_from_module(etools),
                                         )['spellcheck_score']
@@ -129,6 +130,7 @@ def add_metadata_entry(dir_path,
 def eval_txt(dir_path,
             score_names,
             scoring_funs,
+            lang_code,
             text='',
             max_words_per_doc=None,
             ):
@@ -136,7 +138,6 @@ def eval_txt(dir_path,
     scores_by_tool = try_read(scores_filepath, alt={})
     if type(scores_by_tool) == str:
         scores_by_tool = json.loads(scores_by_tool)
-    meta_path = get_child_ext_path(dir_path, ['.json'])
     for score_name in score_names:
         if score_name not in scores_by_tool.keys():
             try:
@@ -144,6 +145,6 @@ def eval_txt(dir_path,
             except KeyError:
                 scores_by_tool[score_name] = 0
             scoring_fun = scoring_funs[score_name]
-            score = scoring_fun(text, meta_path, max_words_per_doc)
+            score = scoring_fun(text, lang_code, max_words_per_doc)
             scores_by_tool[score_name] += score
     return scores_by_tool

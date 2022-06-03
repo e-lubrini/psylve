@@ -3,17 +3,17 @@
         "overwrite" : {
             "lang_codes": false,
             "emb_txt": false,
-            "emb_txt_trans": false,
+            "emb_txt_trans": true,
             "emb_xml": false,
             "emb_xml_trans": false,
             "ocr_txt": true,
             "ocr_txt_trans": true,
-            "emb_txt_ok": false
+            "emb_txt_ok": true
         },
         "store_output": {
             "lang_codes": true,
             "emb_txt": true,
-            "emb_txt_trans": false,
+            "emb_txt_trans": true,
             "emb_xml": true,
             "emb_xml_trans": false,
             "ocr_txt": true,
