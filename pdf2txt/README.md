@@ -52,8 +52,13 @@ ments, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pip
         |
         ├── DocumentName1/
         |   ├── OCRToolName/
-        |   |   ├── conversion.txt
+        |   |   ├── ocr_extraction.txt
         |   |   └── translation.txt
+        |   |
+        |   ├── grobid/
+        |   |   ├── emb_xml.txt
+        |   |   └── translation.txt
+        |   |
         |   ├── OriginalDocument.pdf
         |   └── metadata.json
         |
@@ -91,8 +96,8 @@ ments, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pip
     
 <h4>grobid</h4>
 
-- grobid_inst_path — 
-- config_path — 
+- grobid_inst_path — path to the grobid installation
+- config_path — path to the configuration file for grobid
 - GROBID_URL — 
 - end_url — 
 
