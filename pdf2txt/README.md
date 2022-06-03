@@ -75,7 +75,7 @@ python3 setup.py install
     ```python
         def toolname_ocr(pdf_filepath: str):
             ...
-            return text
+            return text         # string
     ```
 
 - More **scores for evaluation** can also be added, by creating a new function in ``tools/eval_tools.py`` and adding it to the congiguration section in the ``evaluation_pipeline.ipynb`` notebook.
@@ -88,7 +88,7 @@ python3 setup.py install
                             max_words_per_doc: int,  # max number of words to be used for evaluation
                             ): 
             ...
-            return score_percentage
+            return score    # int; 0 ≤ score ≤ 1
     ```
 
 ## Legend: Configuration Options 
