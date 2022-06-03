@@ -1,19 +1,16 @@
 #############
 ## IMPORTS ##
 #############
-from ast import arg
 import functools
-import sys
-
-#from executing import Source
 
 from tools.utils import colours
 from tools.utils import *
+
 from tools.conv_tools import *
 from tools import conv_tools as ctools
 
-import tools.eval_tools as etools
 from tools.eval_tools import *
+
 from tools.pdf_tools import *
 
 from tqdm import tqdm
@@ -195,10 +192,14 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
                 name=trans_name,
                 ) 
     
-    runtime = time.time() - start_time
+    runtime_sec = time.time() - start_time
     size_done += size
-    processing_rate = size_done/runtime
-    verbose_mess(('Processing rate: {0}/s'.format(hr_size(processing_rate))), time_verb)
     size_left -= size
-    verbose_mess('Estimated time left: {0}'.format(hr_time(size_left/processing_rate)), time_verb)
+    processing_rate = size_done/runtime_sec
+    if processing_rate > 5000: # if rate is too high, documents so far don't need processing, so timing for estimation is reset until first processable document
+        size_done = 0
+        start_time = time.time()
+    else:
+        verbose_mess(('Processing rate: {0}/h'.format(hr_size(processing_rate*3600))), time_verb)
+        verbose_mess('Estimated time left: {0}'.format(hr_time(size_left/processing_rate)), time_verb)
 mess_col('Conversion successful!',col_config['end_col'])

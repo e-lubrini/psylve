@@ -65,7 +65,7 @@ colours = dict(black = "30m",
                 grey = "38m",
                 )
 
-def mess_col(mess, col_tag, colours=colours):
+def mess_col(mess, col_tag):
     print('\033[0;{0} {1}. \033[0m'.format(col_tag, mess))
     return
 
