@@ -1,6 +1,7 @@
 #############
 ## IMPORTS ##
 #############
+from ast import arg
 import functools
 import sys
 
@@ -16,12 +17,23 @@ from tools.eval_tools import *
 from tools.pdf_tools import *
 
 from tqdm import tqdm
+import time
+
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('-c')
+parser.add_argument('-v', action='store_true')
+parser.add_argument('-t', action='store_true')
+args = parser.parse_args()
+
+arguments = {'c': args.c, 'v': args.v, 't': args.t}
 
 #############
 ## CONFIGS ##
 #############
 # open configuration file from path
-config_file_path = sys.argv[1]
+config_file_path = args.c
 with open(config_file_path, 'r') as f:
     configs = json.load(f)
 
@@ -35,12 +47,14 @@ col_config = dict(title_col = colours[mess_cols['start']],
 mess_col('Loading onfigurations...',col_config['title_col'])
 
 # verbose
-try:
-    sys.argv[2]
+if args.v:
     verbose = colours[mess_cols['verbose']]
-except IndexError:
+else:
     verbose = False
-dbg(bool(verbose))
+if args.t:
+    time_verb = colours[mess_cols['time_verb']]
+else:
+    time_verb = False
 
 # general
 input_dir_path = configs['dataset']['path']
@@ -97,8 +111,15 @@ for pdf_filepath in pdf_filepaths:
 sorted_dirs = sorted(get_child_dir_paths(input_dir_path),
                         key =  lambda x: os.stat(get_child_ext_path(x, '.pdf')).st_size)
 
+tot_size = sum(list(map(lambda x: os.stat(get_child_ext_path(x, '.pdf')).st_size, get_child_dir_paths(input_dir_path))))
+verbose_mess('Total dataset size: {0}'.format(hr_size(tot_size)),
+                verbose)
+
 ## START EXTRACTING DATA
 mess_col('Extracting text...',col_config['header_col'])
+start_time = time.time()
+size_left = tot_size
+size_done = 0
 for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed documents: ', leave=True, mininterval=0, miniters=1):
     size = os.stat(get_child_ext_path(dir_path, '.pdf')).st_size
     verbose_mess('Processing:\n\tsize {0};\n\tpath {1}'.format(hr_size(size),dir_path),
@@ -174,5 +195,13 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
                 dir_path=dir_path,
                 name=trans_name,
                 ) 
-                
+    
+    runtime = time.time() - start_time
+    dbg(hr_time(runtime))
+    size_done += size
+    processing_rate = runtime/size_done
+    dbg(hr_time(processing_rate))
+    size_left -= size
+    dbg(hr_size(size_left))
+    verbose_mess((' Estimated time left:', hr_time(size_left*processing_rate)), time_verb)
 mess_col('Conversion successful!',col_config['end_col'])

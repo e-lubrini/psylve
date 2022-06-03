@@ -44,6 +44,7 @@
         "message_colours": {"start":"blue",
                             "end":"blue",
                             "stages":"cyan",
-                            "verbose":"yellow"}
+                            "verbose":"yellow",
+                            "time_verb":"green"}
     }
 }

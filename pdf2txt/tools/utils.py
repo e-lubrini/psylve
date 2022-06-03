@@ -8,7 +8,6 @@ import os
 import string
 
 import json
-from types import NoneType
 
 import fitz
 import fasttext
@@ -19,6 +18,7 @@ from enchant.checker import SpellChecker
 from enchant.errors import DictNotFoundError, DefaultLanguageNotFoundError
 
 from tqdm import tqdm
+from humanfriendly import format_timespan
 
 from nltk.corpus import words
 from nltk.tokenize import sent_tokenize
@@ -79,6 +79,10 @@ def hr_size(num, suffix="B"):
             return f"{num:3.1f}{unit}{suffix}"
         num /= 1024.0
     return f"{num:.1f}Yi{suffix}"
+
+def hr_time(num):
+    value = format_timespan(num)
+    return value
 
 def get_funs_from_module(module):
     funs_raw = getmembers(module,isfunction)

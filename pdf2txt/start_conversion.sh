@@ -5,11 +5,12 @@ Help()
 {  # Display Help
    echo "This script starts the conversion pipeline."
    echo
-   echo "Syntax: bash $(basename \$0) [-v] [-c]"
+   echo "Syntax: bash $(basename \$0) [-c] [-v] [-t]"
    echo
    echo "options:"
    echo "c     Path to the config file."
    echo "v     [OPT] Print additional messages."
+   echo "t     [OPT] Print time messages."
    echo
    echo "h     Print this Help."
    echo
@@ -24,7 +25,7 @@ fi
 
 
 ## ARGUMENTS
-while getopts 'hc:v' flag
+while getopts 'hc:vt' flag
     do
         case "${flag}" in
             h)  # display Help
@@ -36,7 +37,10 @@ while getopts 'hc:v' flag
                 echo 'conf file is' $CONF_FILE_PATH
                 ;;
             v)
-                VERBOSE='verbose'
+                VERBOSE='-v'
+                ;;
+            t)
+                TIME_VERB='-t'
                 ;;
         esac
     done
@@ -63,7 +67,7 @@ GPATH=($(jq -r '.grobid.grobid_inst_path' $CONF_FILE_PATH))
 StartGrobidServer & 
 (   # start conversion
     sleep 1;
-    python 'conversion_pipeline.py' $CONF_FILE_PATH $VERBOSE;
+    python 'conversion_pipeline.py' -c $CONF_FILE_PATH $VERBOSE $TIME_VERB;
     KillGrobid;
     echo 'Pipeline exited successfully.';
     exit
