@@ -17,7 +17,7 @@
         ├── evaluation_pipeine.ipynb
         └── start_conversion.sh
 
-## Requirements
+## Setup
 
 - **Install Python packages —**
 ```cat pip_requirements.txt | xargs -n 1 pip install```
@@ -36,15 +36,17 @@ python3 setup.py install
 ## Configuration and Tool Selection
 - Configuration settings can be changed via a ``config.json`` file which path is then passed to the ``start_conversion.sh`` bash script when launching the conversion (see § Usage).
 
-- The configuration file allows you to choose a list of tools for text extraction. For more information on which tools work best for your chosen docun
-ments, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pipeline.ipynb`` notebook, and run it to see a visual representation of each tool's performance. More tools and evaluation scores can be easily added (see § Adding More Features)
+- The configuration file allows you to choose a list of tools for text extraction. For more information on which tools work best for your chosen documents, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pipeline.ipynb`` notebook, and run it to see a visual representation of each tool's performance. More tools and evaluation scores can be easily added (see § Adding More Features)
 
 ## Usage
 - `mkdir /data/docs_for_conv` (or a different path, then changing the relative _.dataset.path_ value within the ``config.json`` file) and add the documents to be converted to the folder. 
 
 - ```bash start_conversion.sh -c config.json``` or run the script with the `-h` flag to get help with the possible commands.
 
-- The chosen folder for the data input will be populated with a directory for each document, containing: the inputted document, a metadata file, a folder for each OCR tool (containing txt files of both the extracted text and the translation to english of such text). 
+- The chosen folder for the data input will be populated with a directory for each document, containing:
+    - the inputted document,
+    - a metadata file,
+    - a folder for each OCR tool (containing `txt` files of both the extracted text and the translation to english of such text). 
 
 #### Converted data path structure
 
@@ -68,39 +70,47 @@ ments, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pip
 ## Adding More Features
 - New **tools for conversion** can be easily added to ``tools/conv_tools.py`` by importing the required packages and defining a new function. The function name will then need to be added to the config file, in order for it to be used for conversion, or to the config section in the ``evaluation_pipeline.ipynb`` notebook, in order to evaluate it.
 
+<h4>general</h4>
+def toolname_ocr():
+    return 
+
 - More **scores for evaluation** can also be added, by creating a new function in ``tools/eval_tools.py`` and adding it to the congiguration section in the ``evaluation_pipeline.ipynb`` notebook.
+
+<h4>general</h4>
+def evaluation_name():
+    return 
 
 ## Legend: Configuration Options 
 
 <h4>general</h4>
 
-- overwrite / store_output — true/false values; whether to store the following data and overwrite it if existing 
-    - lang_codes — (metadata) the 2-letter code of the language of the document
-    - emb_txt — (metadata) the text embedded in the document
-    - emb_txt_trans — (metadata) the translation of the embedded text to English
-    - emb_xml — (directory) the embedded text in xml form, outlining the document layout
-    - emb_xml_trans — (directory) the translation of the xml to English
-    - ocr_txt — (directory) text extracted with the selected OCR tool
-    - ocr_txt_trans — (directory) the translation of text extracted with the selected OCR tool to English
-    - emb_txt_ok — (metadata) whether the embedded text has good quality, depending on a threshold - set below
+- `overwrite` / `store_output` — true/false values; whether to store the following data and overwrite it if existing 
+    - `lang_codes` — (metadata) the 2-letter code of the language of the document
+    - `emb_txt` — (metadata) the text embedded in the document
+    - `emb_txt_trans` — (metadata) the translation of the embedded text to English
+    - `emb_xml` — (directory) the embedded text in xml form, outlining the document layout
+    - `emb_xml_trans` — (directory) the translation of the xml to English
+    - `ocr_txt` — (directory) text extracted with the selected OCR tool
+    - `ocr_txt_trans` — (directory) the translation of text extracted with the selected OCR tool to English
+    - `emb_txt_ok` — (metadata) whether the embedded text has good quality, depending on a threshold - set below
 
 <h4>dataset</h4>
 
-- path — the path of the directory containing the documents to be processed
+- `path` — the path of the directory containing the documents to be processed
 
 <h4>conversion</h4>
 
-- tool_names — the names of the tools to be used for conversion (can be chosen based on results in the evaluation pipeline notebook)
-- convert_if_emb_txt_ok — convert even if the embedded text has good quality
-- emb_txt_ok_threshold — threshold to label embedded text as good quality
+- `tool_names` — the names of the tools to be used for conversion (can be chosen based on results in the evaluation pipeline notebook)
+- `convert_if_emb_txt_ok` — convert even if the embedded text has good quality
+- `emb_txt_ok_threshold` — threshold to label embedded text as good quality
     
 <h4>grobid</h4>
 
-- grobid_inst_path — path to the grobid installation
-- config_path — path to the configuration file for grobid
-- GROBID_URL — 
-- end_url — 
+- `grobid_inst_path` — path to the grobid installation
+- `config_path` — path to the configuration file for grobid
+- `GROBID_URL` — 
+- `end_url` — 
 
 <h4>appearance</h4>
 
-- message_colours — colours of the messages to be displayed
+- `message_colours` — colours of the messages to be displayed
