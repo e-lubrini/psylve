@@ -71,6 +71,7 @@ python3 setup.py install
 - New **tools for conversion** can be easily added to ``tools/conv_tools.py`` by importing the required packages and defining a new function. The function name will then need to be added to the config file, in order for it to be used for conversion, or to the config section in the ``evaluation_pipeline.ipynb`` notebook, in order to evaluate it.
 
 <h4>format</h4>
+
 ```
     def toolname_ocr(pdf_filepath):
         ...
@@ -80,6 +81,7 @@ python3 setup.py install
 - More **scores for evaluation** can also be added, by creating a new function in ``tools/eval_tools.py`` and adding it to the congiguration section in the ``evaluation_pipeline.ipynb`` notebook.
 
 <h4>format</h4>
+
 ```
     def evaluation_name(conv_txt,           # converted text to be evaluated
                         lang_codes,         # two-letter code representing language of the original documant
