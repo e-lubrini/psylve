@@ -34,9 +34,9 @@ cd grobid_client_python
 python3 setup.py install
 ```
 ## Configuration and Tool Selection
-- Configuration settings can be changed via a ``config.json`` file which path is then passed to the ``start_conversion.sh`` bash script when launching the conversion (see § Usage).
+- Configuration settings can be changed via a ``config.json`` file which path is then passed to the ``start_conversion.sh`` bash script when launching the conversion (see [§ Usage](#usage)).
 
-- The configuration file allows you to choose a list of tools for text extraction. For more information on which tools work best for your chosen documents, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pipeline.ipynb`` notebook, and run it to see a visual representation of each tool's performance. More tools and evaluation scores can be easily added (see § Adding More Features)
+- The configuration file allows you to choose a list of tools for text extraction. For more information on which tools work best for your chosen documents, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pipeline.ipynb`` notebook, and run it to see a visual representation of each tool's performance. More tools and evaluation scores can be easily added (see [§ Adding More Features](adding-more-features))
 
 ## Usage
 - `mkdir /data/docs_for_conv` (or a different path, then changing the relative _.dataset.path_ value within the ``config.json`` file) and add the documents to be converted to the folder. 
