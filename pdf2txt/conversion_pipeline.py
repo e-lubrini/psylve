@@ -90,11 +90,13 @@ not_pdf_filepaths = list_ext(input_dir_path,    # files to be converted to pdf
                             exts=['pdf'],
                             invert=True,
                             )
-map(functools.partial(ctools.img2pdf,           # convert to pdf
-                    input_dir_path_path=input_dir_path),
-    not_pdf_filepaths)      
 
-
+img2pdf_paths = [p for p in list(map(ctools.img2pdf, not_pdf_filepaths)) if p is not None] # convert to pdf
+dbg(img2pdf_paths)
+dbg(str(*img2pdf_paths), 'FLATTENED')
+verbose_mess('Images to be converted:\n{0}'.format(str((' \n'.join(*img2pdf_paths)))),
+                verbose)
+                
 ## REARRANGE FOLDER STRUCTURE
 mess_col('Rearranging folder structure...',col_config['header_col'])
 pdf_filepaths = list_ext(input_dir_path,
@@ -200,6 +202,6 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
         size_done = 0
         start_time = time.time()
     else:
-        verbose_mess(('Processing rate: {0}/h'.format(hr_size(processing_rate*3600))), time_verb)
+        verbose_mess(('Processing rate: {0}/h\t {1}/{2} left'.format(hr_size(processing_rate*3600), int(list(filter(str.isdigit, hr_size(size_left)))), hr_size(tot_size))), time_verb)
         verbose_mess('Estimated time left: {0}'.format(hr_time(size_left/processing_rate)), time_verb)
 mess_col('Conversion successful!',col_config['end_col'])

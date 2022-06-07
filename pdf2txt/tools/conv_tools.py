@@ -69,7 +69,10 @@ def pdf2img(pdf_filepath):
     return image_list
 
 def img2pdf(paths):
+    pdf_paths = []
     pdf = FPDF()
+    if type(paths) == str:
+        paths = [paths]
     for path in paths:
         pdf.add_page()
         try:
@@ -77,7 +80,11 @@ def img2pdf(paths):
         except:
             print(path)
             print('Warning: "{0}" extension not supported for conversion to pdf'.format(path[:-4]))
-    pdf.output(path[:-4]+'.pdf', "F")
+            return
+    pdf_path = path[:-4]+'.pdf'
+    pdf_paths.append(pdf_path)
+    pdf.output(pdf_path, "F")
+    return pdf_paths
 
 ## >txt
 
