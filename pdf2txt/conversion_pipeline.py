@@ -1,7 +1,6 @@
 #############
 ## IMPORTS ##
 #############
-import functools
 
 from tools.utils import colours
 from tools.utils import *
@@ -10,8 +9,10 @@ from tools.conv_tools import *
 from tools import conv_tools as ctools
 
 from tools.eval_tools import *
-
 from tools.pdf_tools import *
+
+import csv
+from statistics import mean
 
 from tqdm import tqdm
 import time
@@ -56,15 +57,23 @@ else:
 #preferences
 ocr_if_emb_txt_ok = configs['extraction']['ocr_if_emb_txt_ok'] # still extract with ocr, even if the embedded text is good
 
+# names
+name_configs = configs['naming']
+final_name = name_configs['files']['final_name']
+embedded_text_quality = name_configs['metadata']['embedded_text_quality_score']
+meta_name = name_configs['files']['metadata']
+
 # paths and tools
 input_dir_path = configs['dataset_paths']['docs_for_extraction']
 dbg(input_dir_path)
 conv_tool_names = configs['extraction']['tool_names']
 dbg(conv_tool_names)
 target_folder = configs['dataset_paths']['target_folder']
+meta_filepath = target_folder+meta_name+'.csv'
 
 # metadata
-threshold = configs['extraction']['emb_txt_ok_threshold']
+threshold = int(configs['extraction']['emb_txt_ok_threshold'])
+meta_keys = configs['naming']['metadata'].values()
 
 # storage
 storage_keys = configs['general']['store_output']
@@ -83,10 +92,12 @@ grobid_config = dict(grobid_inst_path=grobid_configs['grobid_inst_path'],
                     )
 dbg(grobid_config['grobid_inst_path'])
 
-# names
-name_configs = configs['naming']
-final_name = name_configs['files']['final_name']
-embedded_text_quality_score = name_configs['metadata']['embedded_text_quality_score']
+# setup
+max_embedded_text_quality = 0
+avg_embedded_text_quality = 0
+with open(meta_filepath,'w') as f: # create summary metadata
+    writer = csv.DictWriter(f, fieldnames=meta_keys)
+    writer.writeheader() 
 
 ##############
 ## PIPELINE ##
@@ -146,9 +157,11 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
                 dir_path=dir_path,
                 name='metadata',
                 )
-    verbose_mess('Embedded text quality score: {0}%'.format(metadata[embedded_text_quality_score]*100), verbose)
-
-    if embedded_text_quality_score >= threshold or ocr_if_emb_txt_ok:
+    verbose_mess('\tEmbedded text quality score: {0}%\n\t\tcurrent highest: {1}\n\t\tcurrent average: {2})'.format(metadata[embedded_text_quality]*100, max_embedded_text_quality,avg_embedded_text_quality), verbose)
+    
+    max_embedded_text_quality = max([metadata[embedded_text_quality],max_embedded_text_quality])
+    avg_embedded_text_quality = mean([avg_embedded_text_quality,metadata[embedded_text_quality]])
+    if metadata[embedded_text_quality] >= threshold or ocr_if_emb_txt_ok:
     # extract embedded xml and translate to English
         verbose_mess('Getting emb xml', verbose)
         emb_xml = get_xml(dir_path,
@@ -216,6 +229,10 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
         verbose_mess(('Processing rate: {0}/h\t {1}/{2} left'.format(hr_size(processing_rate*3600), int(list(filter(str.isdigit, hr_size(size_left)))[0]), hr_size(tot_size))), time_verb)
         verbose_mess('Estimated time left: {0}'.format(hr_time(size_left/processing_rate)), time_verb)
 
+    # UPDATE SUMMARY METADATA
+    with open(meta_filepath,'a') as f:
+        writer = csv.DictWriter(f, fieldnames=metadata.keys())
+        writer.writerow(metadata)
 
 ## STORING DATA
 mess_col('Storing final files...',col_config['header_col'])

@@ -28,15 +28,17 @@
             "translation_name": "translation.txt",
             "ocr_extraction_name": "extraction_ocr",
             "xml_extraction_name": "xml_extraction",
-            "metadata": "metadata.json",
+            "metadata": "metadata",
             "scores": "scores.json"
         },
 
         "metadata": {
+            "document_name": "document_name" ,
             "embedded_text": "emb_txt",
             "language_codes": "lang_codes",
             "embedded_text_quality_score": "score",
             "accept_embedded_text": "emb_txt_ok"
+            
         }
     },
 
