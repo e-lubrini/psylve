@@ -2,7 +2,7 @@
     "general" : {
         "overwrite" : {
             "lang_codes": false,
-            "document_name": true,
+            "document_name": false,
             "emb_txt": false,
             "emb_txt_trans": false,
             "emb_xml": false,
@@ -53,7 +53,7 @@
     "extraction" : {
         "tool_names" : ["tika_ocr"],
         "ocr_if_emb_txt_ok" : true,
-        "emb_txt_ok_threshold" : 0.65
+        "emb_txt_ok_threshold" : 0.95
     },
 
     "grobid" : {

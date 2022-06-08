@@ -36,7 +36,7 @@ python3 setup.py install
 ## Configuration and Tool Selection
 - Configuration settings can be changed via a ``config.json`` file which path is then passed to the ``start_conversion.sh`` bash script when launching the conversion (see [§ Usage](#usage)).
 
-- The configuration file allows you to choose a list of tools for text extraction. For more information on which tools work best for your chosen documents, place them in a ``/data/docs_for_conv`` folder, open the ``evaluation_pipeline.ipynb`` notebook, and run it to see a visual representation of each tool's performance. More tools and evaluation scores can be easily added (see [§ Adding More Features](adding-more-features))
+- The configuration file allows you to choose a list of tools for text extraction. For more information on which tools work best for your chosen documents, place them in a ``/data/docs_for_extr`` folder, open the ``evaluation_pipeline.ipynb`` notebook, and run it to see a visual representation of each tool's performance. More tools and evaluation scores can be easily added (see [§ Adding More Features](adding-more-features))
 
 ## Usage
 - `mkdir /data/docs_for_conv` (or a different path, then changing the relative _.dataset.path_ value within the ``config.json`` file) and add the documents to be converted to the folder. 
@@ -50,7 +50,7 @@ python3 setup.py install
 
 #### Converted data path structure
 
-    /data/docs_for_conv/
+    /data/docs_for_extr/
         |
         ├── DocumentName1/
         |   ├── OCRToolName/
@@ -66,6 +66,15 @@ python3 setup.py install
         |
         └── DocumentName2/
             ├── ...
+    
+    
+    /data/final_files/
+        |
+        ├── DocumentName1.txt
+        ├── DocumentName1.txt
+        |   ...
+        |
+        └── metadata.csv
 
 ## Adding More Features
 - New **tools for conversion** can be easily added to ``tools/conv_tools.py`` by importing the required packages and defining a new function. The function name will then need to be added to the config file, in order for it to be used for conversion, or to the config section in the ``evaluation_pipeline.ipynb`` notebook, in order to evaluate it.

@@ -229,7 +229,7 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
         verbose_mess(('Processing rate: {0}/h\t {1}/{2} left'.format(hr_size(processing_rate*3600), ''.join(list(filter(lambda x: not x.isalpha(), hr_size(size_left)))), hr_size(tot_size))), time_verb)
         verbose_mess('Estimated time left: {0}'.format(hr_time(size_left/processing_rate)), time_verb)
 
-    # UPDATE SUMMARY METADATA
+# update summary metadata
     with open(meta_filepath,'a') as f:
         writer = csv.DictWriter(f, fieldnames=meta_keys)
         writer.writerow(metadata)
