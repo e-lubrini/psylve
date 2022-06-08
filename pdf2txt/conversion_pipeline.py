@@ -226,7 +226,7 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
         size_done = 0
         start_time = time.time()
     else:
-        verbose_mess(('Processing rate: {0}/h\t {1}/{2} left'.format(hr_size(processing_rate*3600), int(list(filter(str.isdigit, hr_size(size_left)))[0]), hr_size(tot_size))), time_verb)
+        verbose_mess(('Processing rate: {0}/h\t {1}/{2} left'.format(hr_size(processing_rate*3600), ''.join(list(filter(lambda x: not x.isalpha(), hr_size(size_left)))), hr_size(tot_size))), time_verb)
         verbose_mess('Estimated time left: {0}'.format(hr_time(size_left/processing_rate)), time_verb)
 
     # UPDATE SUMMARY METADATA
