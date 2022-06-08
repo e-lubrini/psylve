@@ -22,14 +22,33 @@
         }
     },
 
-    "dataset" : {
-        "path": "/home/elubrini/GitHub/psylve/pdf2txt/data/docs_for_conv",  
-        ".path": "/home/elubrini/GitHub/psylve/pdf2txt/data/test"    
+    "naming" : {
+        "files" : {
+            "final_name": "translation.txt",
+            "translation_name": "translation.txt",
+            "ocr_extraction_name": "extraction_ocr",
+            "xml_extraction_name": "xml_extraction",
+            "metadata": "metadata.json",
+            "scores": "scores.json"
+        },
+
+        "metadata": {
+            "embedded_text": "emb_txt",
+            "language_codes": "lang_codes",
+            "embedded_text_quality_score": "score",
+            "accept_embedded_text": "emb_txt_ok"
+        }
     },
 
-    "conversion" : {
+    "dataset_paths" : {
+        "docs_for_extraction": "/home/elubrini/GitHub/psylve/pdf2txt/data/docs_for_extr",  
+        ".path": "/home/elubrini/GitHub/psylve/pdf2txt/data/test", 
+        "target_folder" : "/home/elubrini/GitHub/psylve/pdf2txt/data/final/"
+    },
+
+    "extraction" : {
         "tool_names" : ["tika_ocr"],
-        "convert_if_emb_txt_ok" : true,
+        "ocr_if_emb_txt_ok" : true,
         "emb_txt_ok_threshold" : 0.65
     },
 

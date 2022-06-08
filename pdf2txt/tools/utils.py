@@ -31,6 +31,9 @@ from time import sleep
 import inspect
 import functools
 
+import fnmatch
+import shutil
+
 import subprocess
 
 ###########
@@ -219,7 +222,7 @@ def get_child_dir_paths(dir_path):
 # make directory if it doesn't exist
 def mkdir_no_over(dir_name):
     if not os.path.exists(dir_name):
-        os.mkdir(dir_name)
+        os.makedirs(dir_name)
     return dir_name
     
 def save_file(filepath, data):
@@ -236,6 +239,23 @@ def save_data(doc_dir,
     filepath = os.path.join(dirpath,file_name)
     save_data(filepath, content)
     
+def get_final_files(treeroot, pattern):
+    results = []
+    for base, dirs, files in os.walk(treeroot):
+        goodfiles = fnmatch.filter(files, pattern)
+        results.extend(os.path.join(base, f) for f in goodfiles)
+    print('{0} FILES FOUND'.format(len(results)))
+    return results
+
+def store_final_files(final_name, data_path, target_folder):
+    final_files = get_final_files(data_path, final_name)
+    for t in tqdm(final_files, desc='files stored', leave=False):
+        path = os.path.normpath(t)
+        path_sects = path.split(os.sep)
+        target_name = path_sects[-3]+'_'+final_name
+        target_path = os.path.join(target_folder,target_name)
+        shutil.copyfile(t, target_path)
+
 
 ####################
 ## LANGUAGE TOOLS ##

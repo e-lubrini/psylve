@@ -53,14 +53,18 @@ if args.t:
 else:
     time_verb = False
 
-# general
-input_dir_path = configs['dataset']['path']
+#preferences
+ocr_if_emb_txt_ok = configs['extraction']['ocr_if_emb_txt_ok'] # still extract with ocr, even if the embedded text is good
+
+# paths and tools
+input_dir_path = configs['dataset_paths']['docs_for_extraction']
 dbg(input_dir_path)
-conv_tool_names = configs['conversion']['tool_names']
+conv_tool_names = configs['extraction']['tool_names']
 dbg(conv_tool_names)
+target_folder = configs['dataset_paths']['target_folder']
 
 # metadata
-threshold = configs['conversion']['emb_txt_ok_threshold']
+threshold = configs['extraction']['emb_txt_ok_threshold']
 
 # storage
 storage_keys = configs['general']['store_output']
@@ -78,6 +82,11 @@ grobid_config = dict(grobid_inst_path=grobid_configs['grobid_inst_path'],
                     url=grobid_configs['GROBID_URL']+configs['grobid']['end_url'],
                     )
 dbg(grobid_config['grobid_inst_path'])
+
+# names
+name_configs = configs['naming']
+final_name = name_configs['files']['final_name']
+embedded_text_quality_score = name_configs['metadata']['embedded_text_quality_score']
 
 ##############
 ## PIPELINE ##
@@ -137,34 +146,36 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
                 dir_path=dir_path,
                 name='metadata',
                 )
+    verbose_mess('Embedded text quality score: {0}%'.format(metadata[embedded_text_quality_score]*100), verbose)
 
-# extract embedded xml and translate to English
-    verbose_mess('Getting emb xml', verbose)
-    emb_xml = get_xml(dir_path,
-                    storage_opts=storage_keys,
-                    overwrite_opts=overwrite_keys,
-                    grobid_config=grobid_config,
+    if embedded_text_quality_score >= threshold or ocr_if_emb_txt_ok
+    # extract embedded xml and translate to English
+        verbose_mess('Getting emb xml', verbose)
+        emb_xml = get_xml(dir_path,
+                        storage_opts=storage_keys,
+                        overwrite_opts=overwrite_keys,
+                        grobid_config=grobid_config,
+                        )
+        store_data(storage='dir',
+                    data=emb_xml,
+                    dir_path=dir_path,
+                    name='grobid',
                     )
-    store_data(storage='dir',
-                data=emb_xml,
-                dir_path=dir_path,
-                name='grobid',
-                )
 
-    emb_xml_trans = get_translation(tool_dir_path=os.path.join(dir_path,'grobid'),
-                                    source_text=emb_xml,
-                                    storage_opts=storage_keys,
-                                    overwrite_opts=overwrite_keys,
-                                    source_lang_code=metadata['lang_codes'][0],
-                                    targ_lang_code='en',
-                                    )
-    store_data(storage='dir',
-                data=emb_xml,
-                dir_path=dir_path,
-                name='grobid',
-                )
+        emb_xml_trans = get_translation(tool_dir_path=os.path.join(dir_path,'grobid'),
+                                        source_text=emb_xml,
+                                        storage_opts=storage_keys,
+                                        overwrite_opts=overwrite_keys,
+                                        source_lang_code=metadata['lang_codes'][0],
+                                        targ_lang_code='en',
+                                        )
+        store_data(storage='dir',
+                    data=emb_xml,
+                    dir_path=dir_path,
+                    name='grobid',
+                    )
 
-# convert file to text with ocr
+# extract text from file with ocr
     verbose_mess('Getting ocr txt', verbose)
     tool_txts = get_txt(dir_path,
                         tool_names=conv_tool_names,
@@ -198,10 +209,17 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
     size_done += size
     size_left -= size
     processing_rate = size_done/runtime_sec
-    if processing_rate > 5000: # if rate is too high, documents so far don't need processing, so timing for estimation is reset until first processable document
+    if processing_rate > 5000: # if rate is too high, documents so far haven't needed any processing, so timing for estimation is reset until first processable document
         size_done = 0
         start_time = time.time()
     else:
-        verbose_mess(('Processing rate: {0}/h\t {1}/{2} left'.format(hr_size(processing_rate*3600), int(list(filter(str.isdigit, hr_size(size_left)))), hr_size(tot_size))), time_verb)
+        verbose_mess(('Processing rate: {0}/h\t {1}/{2} left'.format(hr_size(processing_rate*3600), int(list(filter(str.isdigit, hr_size(size_left)))[0]), hr_size(tot_size))), time_verb)
         verbose_mess('Estimated time left: {0}'.format(hr_time(size_left/processing_rate)), time_verb)
-mess_col('Conversion successful!',col_config['end_col'])
+
+
+## STORING DATA
+mess_col('Storing final files...',col_config['header_col'])
+mkdir_no_over(target_folder)
+store_final_files(final_name, data_path, target_folder)
+
+mess_col('Extraction successful!',col_config['end_col'])
