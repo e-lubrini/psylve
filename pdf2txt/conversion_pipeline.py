@@ -231,7 +231,7 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
 
     # UPDATE SUMMARY METADATA
     with open(meta_filepath,'a') as f:
-        writer = csv.DictWriter(f, fieldnames=metadata.keys())
+        writer = csv.DictWriter(f, fieldnames=meta_keys)
         writer.writerow(metadata)
 
 ## STORING DATA

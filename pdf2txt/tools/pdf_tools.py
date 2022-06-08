@@ -89,8 +89,8 @@ def get_metadata(dir_path,
     except (IndexError, FileNotFoundError):
         metadata = dict()
     
-    
-    metadata['document_name'] = os.path.basename(dir_path)
+    if storage_opts['document_name'] and (overwrite_opts['document_name'] or not ('document_name' in metadata.keys())):
+        metadata['document_name'] = os.path.basename(dir_path)
     metadata['emb_txt'] = get_emb_txt(dir_path)
     if storage_opts['lang_codes'] and (overwrite_opts['lang_codes'] or not ('lang_codes' in metadata.keys())):
         prep_txt,_ = prep_and_tokenise(metadata['emb_txt'])

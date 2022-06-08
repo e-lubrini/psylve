@@ -2,6 +2,7 @@
     "general" : {
         "overwrite" : {
             "lang_codes": false,
+            "document_name": true,
             "emb_txt": false,
             "emb_txt_trans": false,
             "emb_xml": false,
@@ -12,6 +13,7 @@
         },
         "store_output": {
             "lang_codes": true,
+            "document_name": true,
             "emb_txt": true,
             "emb_txt_trans": true,
             "emb_xml": true,
