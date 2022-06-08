@@ -148,7 +148,7 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
                 )
     verbose_mess('Embedded text quality score: {0}%'.format(metadata[embedded_text_quality_score]*100), verbose)
 
-    if embedded_text_quality_score >= threshold or ocr_if_emb_txt_ok
+    if embedded_text_quality_score >= threshold or ocr_if_emb_txt_ok:
     # extract embedded xml and translate to English
         verbose_mess('Getting emb xml', verbose)
         emb_xml = get_xml(dir_path,
@@ -220,6 +220,6 @@ for dir_path in tqdm(sorted_dirs, total=len(sorted_dirs), desc='processed docume
 ## STORING DATA
 mess_col('Storing final files...',col_config['header_col'])
 mkdir_no_over(target_folder)
-store_final_files(final_name, data_path, target_folder)
+store_final_files(final_name, input_dir_path, target_folder)
 
 mess_col('Extraction successful!',col_config['end_col'])
