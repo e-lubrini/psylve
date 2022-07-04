@@ -1,10 +1,22 @@
 import pandas as pd
 import numpy as np
-from regex import X
+from regex import P, X
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn import cross_decomposition
 
+def sort_legend(col, cols_to_be_sorted, data, other_values={}):
+    if ((col in data.columns) and (col in cols_to_be_sorted)):
+        indexed_names = enumerate((set(data[col])))
+        sorted_names_indices = sorted((name,index) for index,name in indexed_names)
+        alpha_order = [n for n,_ in sorted_names_indices]
+        if col in other_values.keys():
+            alpha_order.remove(other_values[col])
+            alpha_order.append(other_values[col])
+        legend_order=alpha_order
+    else:
+        legend_order = None
+    return legend_order
 
 def plot(data,
         x=None,
@@ -25,7 +37,7 @@ def plot(data,
         xlabel='',
         ylabel='',
         huelabel='',
-        sort=None,
+        sort_alpha=[],
 
         vlines='',
         figsize=(5,5),
@@ -55,13 +67,18 @@ def plot(data,
             data = data[data[k].isin(top)]
 
     if split:
+        other_values = {}
         for k,v in split.items():
             other_slice = pd.value_counts(data[k]).iloc[v-1:].index
-            data.loc[data[k].isin(other_slice), k] = 'other {0}'.format(['('+str(n)+')' if n>1 else '' for n in [len(other_slice)]][0])
+            other_value = 'other {0}'.format(['('+str(n)+')' if n>1 else '' for n in [len(other_slice)]][0])
+            data.loc[data[k].isin(other_slice), k] = other_value
+            other_values[k] = other_value
+    else: 
+        other_values = {}
 
-    if sort:
+    if sort_alpha:
         sorted_idxs = dict()
-        for v in sort:
+        for v in sort_alpha:
             sorted_idxs[v] = pd.value_counts(data[v]).index
 
     #data = data.sort_values([sorting_value]).reset_index(drop=True)
@@ -71,6 +88,7 @@ def plot(data,
 
     if type == 'violin':
         split = len(set(data[hue]))==2
+        hue_order = sort_legend(hue, sort_alpha, data, other_values)
         ax = sns.violinplot(data=data,
                     x=x,
                     y=y,
@@ -81,10 +99,7 @@ def plot(data,
                     cut=0,
                     )
     elif type == 'dist':
-        try:
-            hue_order = pd.value_counts(data[k]).index
-        except:
-            hue_order = False
+        hue_order = sort_legend(hue, sort_alpha, data, other_values)
         ax = sns.displot(data=data,
                     x=x,
                     y=y,
@@ -96,6 +111,7 @@ def plot(data,
                     hue_order=hue_order,
                     )
     elif type == 'hist':
+        hue_order = sort_legend(hue, sort_alpha, data, other_values)
         ax = sns.histplot(data=data,
                     x=x,
                     y=y,
@@ -103,8 +119,12 @@ def plot(data,
                     bins=bins,      
                     legend=True,
                     palette=palette,
+                    hue_order=hue_order,
                     )
     elif type == 'scatter':
+        hue_order = sort_legend(hue, sort_alpha, data, other_values)
+        size_order = sort_legend(size, sort_alpha, data, other_values)
+        style_order = sort_legend(style, sort_alpha, data, other_values)
         ax = sns.scatterplot(data=data,
                     x=x,
                     y=y,
@@ -113,6 +133,9 @@ def plot(data,
                     style=style,
                     legend=True,
                     palette=palette,
+                    hue_order=hue_order,
+                    size_order=size_order,
+                    style_order=style_order,
                     )
     elif type == 'count':
         ax = sns.countplot(data=data,
@@ -159,11 +182,6 @@ def plot(data,
 
     plt.ylabel(ylabel)
     plt.xlabel(xlabel)
-    
-    try:
-        plt.legend([handles[idx] for idx in sorted_idxs[hue]],[labels[idx] for idx in sorted_idxs[hue]]) 
-    except:
-        pass
      
     try:
         labels = [len(str(x)) for x in ax.get_xticklabels()]
