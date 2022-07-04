@@ -232,8 +232,8 @@ def plot(data,
     plt.title(title)
 
     if save_dir:
-        filename = '_'.join(title.split(' ')) +'.png'
-        save_path = os.path.join(os.getcwd(),filename)
+        filename = '_'.join(title.lower().split(' ')) +'.png'
+        save_path = os.path.join(save_dir,filename)
         plt.savefig(save_path)
     elif save_path:
         plt.savefig(save_path)
