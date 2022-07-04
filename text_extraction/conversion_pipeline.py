@@ -113,7 +113,6 @@ not_pdf_filepaths = list_ext(input_dir_path,    # files to be converted to pdf
 
 img2pdf_paths = [p for p in list(map(ctools.img2pdf, not_pdf_filepaths)) if p is not None] # convert to pdf
 dbg(img2pdf_paths)
-dbg(str(*img2pdf_paths), 'FLATTENED')
 verbose_mess('Images to be converted:\n{0}'.format(str((' \n'.join(*img2pdf_paths)))),
                 verbose)
                 

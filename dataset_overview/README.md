@@ -1,23 +1,18 @@
-<h1 align="center">Text Extraction</h1>
-<div style="text-align:center" align="center"><img width="450" src=https://github.com/e-lubrini/psylloidea_ontology/blob/main/text_extraction.drawio.png /></div>
+<h1 align="center">Dataset Overview</h1>
+This module analyses the composition of the dataset and the relationships between attributes.
 
 ## Directory Tree
 
-    text_extraction/
-        ├── data/
-        ├── evaluation_results/
-        ├── models/
+    dataset_overview/
+        ├── imgs/
         ├── tools/
-        |   ├── grobid_client_python/
-        |   ├── conv_tools.py
-        |   ├── eval_tools.py
-        |   └── utils.py
-        ├── config.json
-        ├── conversion_pipeline.py
-        ├── evaluation_pipeine.ipynb
-        └── start_conversion.sh
+        ├── dataset_metadata.csv
+        ├── fca.ipynb
+        └── dataset_visualisations.ipynb
+        
 
-## Setup
+## Formal Concept Analysis (FCA)
+The first notebook in this module, a formal concept analysis (FCA) was carried out in order to find the attributes within the dataset that showed the highest correlation.
 
 - **Install Python packages —**
 ```cat pip_requirements.txt | xargs -n 1 pip install```

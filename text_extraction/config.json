@@ -45,9 +45,9 @@
     },
 
     "dataset_paths" : {
-        "docs_for_extraction": "/home/elubrini/GitHub/psylve/pdf2txt/data/docs_for_extr",  
-        ".path": "/home/elubrini/GitHub/psylve/pdf2txt/data/test", 
-        "target_folder" : "/home/elubrini/GitHub/psylve/pdf2txt/data/final/"
+        "docs_for_extraction": "/home/elubrini/GitHub/psylve/text_extraction/data/docs_for_extr",  
+        ".path": "/home/elubrini/GitHub/psylve/text_extraction/data/test", 
+        "target_folder" : "/home/elubrini/GitHub/psylve/text_extraction/data/final/"
     },
 
     "extraction" : {
