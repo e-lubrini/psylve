@@ -5,6 +5,13 @@ Ontology Development project @ CIRAD, and INRAE for an ontology of superfamily P
 
 ## Repository Structure
 
+    dataset_overview/
+        ├── imgs/
+        ├── tools/
+        ├── dataset_metadata.csv
+        ├── fca.ipynb
+        └── dataset_visualisations.ipynb
+        
     text_extraction/
         ├── data/
         ├── evaluation_results/
