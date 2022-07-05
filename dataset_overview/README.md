@@ -14,6 +14,8 @@ This module analyses the composition of the dataset and the relationships betwee
 ## Formal Concept Analysis (FCA)
 The first notebook in this module, a formal concept analysis (FCA) was carried out in order to find the attributes within the dataset that showed the highest correlation.
 
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
 - **Install Python packages —**
 ```cat pip_requirements.txt | xargs -n 1 pip install```
 This pipeline requires a Python version of at least 3.10.
