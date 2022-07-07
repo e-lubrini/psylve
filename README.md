@@ -1,7 +1,7 @@
 <h1 align="center">PsylVe</h1>
 <h2 align="center">An Ontology of Psyllids as Vectors of Phytoplasma</h2>
 
-Ontology Development project @ CIRAD, and INRAE for an ontology of superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
+Ontology Development project @ INRAE for an ontology of superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
 
 ## Repository Structure
 
@@ -25,7 +25,15 @@ Ontology Development project @ CIRAD, and INRAE for an ontology of superfamily P
         ├── conversion_pipeline.py
         ├── evaluation_pipeine.ipynb
         └── start_conversion.sh
-
+        
+    ner_correction/
+        ├── tools/
+        ├── analysis/
+        |   ├── data/
+        |   └── ner_correction_overview.ipynb
+        └── correction_modules/
 
 ## Modules
-- Text extraction [README](https://github.com/e-lubrini/PsylVe/blob/main/pdf2txt/README.md)
+- Dataset Overview [README](https://github.com/e-lubrini/PsylVe/blob/main/dataset_overview/README.md)
+- Text Extraction [README](https://github.com/e-lubrini/PsylVe/blob/main/text_extraction/README.md)
+- Ner Correction [README](https://github.com/e-lubrini/PsylVe/blob/main/ner_correction/README.md)
