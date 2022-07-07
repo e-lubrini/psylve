@@ -45,6 +45,7 @@ def plot(data,
         palette='tab10',
         
         type='dist',
+        swarm=False,
         bins=25,
         
         save_dir='',
@@ -99,7 +100,12 @@ def plot(data,
                     split=split,
                     palette=palette,
                     cut=0,
+                    inner=None,
                     )
+        if swarm:
+            plt.setp(ax.collections, alpha=.25)
+            ax = sns.swarmplot(x=x, y=y, data=data, size=3, hue=hue, palette=palette, edgecolor='grey', dodge=True)
+        
     elif type == 'dist':
         hue_order = sort_legend(hue, sort_alpha, data, other_values)
         ax = sns.displot(data=data,
