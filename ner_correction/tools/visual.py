@@ -233,8 +233,8 @@ def plot(data,
     if save_dir:
         filename = '_'.join(title.lower().split(' ')) +'.png'
         save_path = os.path.join(save_dir,filename)
-        plt.savefig(save_path)
+        plt.savefig(save_path, bbox_inches='tight')
     elif save_path:
-        plt.savefig(save_path)
+        plt.savefig(save_path, bbox_inches='tight')
     plt.show()
     

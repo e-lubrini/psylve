@@ -41,7 +41,7 @@ def plot(data,
         sort_alpha=[],
 
         vlines='',
-        figsize=(5,5),
+        figsize=(), # 2 value tuple
         palette='tab10',
         
         type='dist',
@@ -168,9 +168,9 @@ def plot(data,
         ax.set(ylabel=None)
         if not x:
             ax.set(xlabel=None)
-        
 
-    sns.set(rc={'figure.figsize':figsize})
+    if figsize:
+        sns.set(rc={'figure.figsize':figsize})
 
     if yscale:
         plt.yscale(yscale)
@@ -234,8 +234,8 @@ def plot(data,
     if save_dir:
         filename = '_'.join(title.lower().split(' ')) +'.png'
         save_path = os.path.join(save_dir,filename)
-        plt.savefig(save_path)
+        plt.savefig(save_path, bbox_inches='tight')
     elif save_path:
-        plt.savefig(save_path)
+        plt.savefig(save_path, bbox_inches='tight')
     plt.show()
     
