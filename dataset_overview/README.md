@@ -14,6 +14,9 @@ This module analyses the composition of the dataset and the relationships betwee
 ## Formal Concept Analysis (FCA)
 The first notebook in this module, a formal concept analysis (FCA) was carried out in order to find the attributes within the dataset that showed the highest correlation.
 
+
+<div style="text-align:center" align="center"><img width="450" src=path /></div>
+
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
 - **Install Python packages —**
