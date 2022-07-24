@@ -1,5 +1,7 @@
 
-<div style="text-align:center"><img width="450" src=https://github.com/e-lubrini/psylve/blob/main/img/logos/logo_g.png /></div>
+<p align="center">
+  <img src="http://some_place.com/image.png](https://github.com/e-lubrini/psylve/blob/main/img/logos/logo_g.png" />
+</p>
 
 <h2 align="center">An Ontology of Psyllids as Vectors of Phytoplasma</h2>
 
