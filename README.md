@@ -1,4 +1,6 @@
-<h1 align="center">PsylVe</h1>
+
+<div style="text-align:center"><img width="450" src=https://github.com/e-lubrini/psylve/blob/main/img/logos/logo_g.png /></div>
+
 <h2 align="center">An Ontology of Psyllids as Vectors of Phytoplasma</h2>
 
 Ontology Development project @ INRAE for an ontology of superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
