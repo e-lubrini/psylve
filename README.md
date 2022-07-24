@@ -3,6 +3,11 @@
 
 Ontology Development project @ INRAE for an ontology of superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
 
+## Modules
+- Dataset Overview [README](https://github.com/e-lubrini/PsylVe/blob/main/dataset_overview/README.md)
+- Text Extraction [README](https://github.com/e-lubrini/PsylVe/blob/main/text_extraction/README.md)
+- Ner Correction [README](https://github.com/e-lubrini/PsylVe/blob/main/ner_correction/README.md)
+
 ## Repository Structure
 
     dataset_overview/
@@ -32,8 +37,3 @@ Ontology Development project @ INRAE for an ontology of superfamily Psylloidea w
         |   ├── data/
         |   └── ner_correction_overview.ipynb
         └── correction_modules/
-
-## Modules
-- Dataset Overview [README](https://github.com/e-lubrini/PsylVe/blob/main/dataset_overview/README.md)
-- Text Extraction [README](https://github.com/e-lubrini/PsylVe/blob/main/text_extraction/README.md)
-- Ner Correction [README](https://github.com/e-lubrini/PsylVe/blob/main/ner_correction/README.md)
