@@ -16,17 +16,17 @@ The first notebook in this module, a formal concept analysis (FCA) was carried o
 
 Here is an automatically generated example plotting one of the most correlated combinations:
 
-**date vs language grouped by availability**
+<h4 align="center">**date vs language grouped by availability**</h4>
 
 <div style="text-align:center" align="center"><img width="450" src=https://github.com/e-lubrini/psylve/blob/main/dataset_overview/imgs/fca/dateidentified_vs_language_grouped_by_availability.png /></div>
 
 The first FCA Analysis helped navigating the most interesting correlation, from which more plots were manually generated. Following are a few examples:
 
-**date vs database grouped by language**
+<h4 align="center">**date vs database grouped by language**</h4>
 
 <div style="text-align:center" align="center"><img width="450" src=https://github.com/e-lubrini/psylve/blob/main/dataset_overview/imgs/date_vs_database_grouped_by_language.png /></div>
 
-**date vs accessibility grouped by language**
+<h4 align="center">**date vs accessibility grouped by language**</h4>
 
 <div style="text-align:center" align="center"><img width="450" src=https://github.com/e-lubrini/psylve/blob/main/dataset_overview/imgs/date_vs_accessibility_grouped_by_language.png /></div>
 
