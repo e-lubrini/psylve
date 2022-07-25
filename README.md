@@ -11,6 +11,7 @@ Ontology Development project @ INRAE for an ontology of superfamily Psylloidea w
 - Dataset Overview [README](https://github.com/e-lubrini/PsylVe/blob/main/dataset_overview/README.md)
 - Text Extraction [README](https://github.com/e-lubrini/PsylVe/blob/main/text_extraction/README.md)
 - Ner Correction [README](https://github.com/e-lubrini/PsylVe/blob/main/ner_correction/README.md)
+- Ontology [README](https://github.com/e-lubrini/psylve/tree/main/onto/README.md)
 
 ## Repository Structure
 
