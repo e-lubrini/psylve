@@ -14,11 +14,25 @@ This module analyses the composition of the dataset and the relationships betwee
 ## Formal Concept Analysis (FCA)
 The first notebook in this module, a formal concept analysis (FCA) was carried out in order to find the attributes within the dataset that showed the highest correlation. Visualisations are produced automatically mapping each couple of highly correlated attributes (y axis and colour code) onto the only ordinal attribute, i.e. date of the document (x axis).
 
-Here is an automatically generated example plotting one of the most correlated combinations: date vs language grouped by database:
+Here is an automatically generated example plotting one of the most correlated combinations:
 
+**date vs language grouped by availability**
 
 <div style="text-align:center" align="center"><img width="450" src=https://github.com/e-lubrini/psylve/blob/main/dataset_overview/imgs/fca/dateidentified_vs_language_grouped_by_availability.png /></div>
 
+The first FCA Analysis helped navigating the most interesting correlation, from which more plots were manually generated. Following are a few examples:
+
+**date vs database grouped by language**
+
+<div style="text-align:center" align="center"><img width="450" src=https://github.com/e-lubrini/psylve/blob/main/dataset_overview/imgs/date_vs_database_grouped_by_language.png /></div>
+
+**date vs accessibility grouped by language**
+
+<div style="text-align:center" align="center"><img width="450" src=https://github.com/e-lubrini/psylve/blob/main/dataset_overview/imgs/date_vs_accessibility_grouped_by_language.png /></div>
+
+
+
+all the plots can be found in the [imgs](https://github.com/e-lubrini/psylve/blob/main/dataset_overview/imgs) folder, and the code in the respective nottebooks [dataset_visualisation.ipynb](https://github.com/e-lubrini/psylve/blob/main/dataset_overview/dataset_visualisation.ipynb) and [fca.ipynb](https://github.com/e-lubrini/psylve/blob/main/dataset_overview/fca.ipynb).
 
 
 #### [◄ Back to main README](https://github.com/e-lubrini/PsylVe/blob/main/README.md)
