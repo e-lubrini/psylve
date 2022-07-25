@@ -3,7 +3,9 @@
   <img src="https://github.com/e-lubrini/psylve/blob/main/img/logos/logo_g.png" width="250" />
 </p>
 
-<h2 align="center">An Ontology of Psyllids as Vectors of Phytoplasma</h2>
+<h2 align="center">A Text-to-Ontology Information
+Extraction Tool for the Occurrence
+Distribution of Plant Pathogen Vectors</h2>
 
 Ontology Development project @ INRAE for an ontology of superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
 
