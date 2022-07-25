@@ -17,7 +17,7 @@ The first notebook in this module, a formal concept analysis (FCA) was carried o
 Here is an automatically generated example plotting one of the most correlated combinations: date vs language grouped by database:
 
 
-<div style="text-align:center" align="center"><img width="450" src=https://github.com/e-lubrini/psylve/blob/main/dataset_overview/img/fca/database_language.png /></div>
+<div style="text-align:center" align="center"><img width="450" src=https://github.com/e-lubrini/psylve/blob/main/dataset_overview/imgs/fca/dateidentified_vs_language_grouped_by_availability.png /></div>
 
 
 
