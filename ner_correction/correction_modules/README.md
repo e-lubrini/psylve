@@ -2,18 +2,12 @@
 
 ## Directory Structure
 
-    ner_correction/
-        ├── tools/
-        ├── analysis/
-        |   ├── data/
-        |   └── ner_correction_overview.ipynb
-        └── correction_modules/
+    correction_modules/
+        ├── latin_endings/
+        └── regex/
 
 
 ## Modules
-
-- Taxon autocorrector
-- Nomeclature variation rules
 - ...
 
 
