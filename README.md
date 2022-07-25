@@ -15,7 +15,7 @@ Ontology Development project @ INRAE for an ontology of superfamily Psylloidea w
 
 ## Repository Structure
 
-    dataset_overview/
+    [dataset_overview/](https://github.com/e-lubrini/PsylVe/blob/main/dataset_overview)
         ├── imgs/
         ├── tools/
         ├── dataset_metadata.csv
