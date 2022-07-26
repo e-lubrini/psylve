@@ -7,7 +7,7 @@
 Extraction Tool<br>for the Occurrence
 Distribution of Plant Pathogen Vectors</h2>
 
-Ontology Development project @ INRAE for an ontology of superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
+Ontology and Text Mining project @ INRAE optimised on data concerning the taxonomic superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
 
 ## Modules
 - Dataset Overview [README](https://github.com/e-lubrini/PsylVe/blob/main/dataset_overview/README.md)
