@@ -14,6 +14,7 @@ Ontology and Text Mining project @ INRAE optimised on data concerning the taxono
 - Text Extraction [README](https://github.com/e-lubrini/PsylVe/blob/main/text_extraction/README.md)
 - Ner Correction [README](https://github.com/e-lubrini/PsylVe/blob/main/ner_correction/README.md)
 - Ontology [README](https://github.com/e-lubrini/psylve/tree/main/onto/README.md)
+- Evaluation [README](https://github.com/e-lubrini/psylve/tree/main/evaluation/README.md)
 
 ## Repository Structure
 
