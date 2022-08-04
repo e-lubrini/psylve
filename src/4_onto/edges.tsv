@@ -1,0 +1,3 @@
+source	target	type
+organism	physical_entity	is
+inanimate_entity	physical_entity	is

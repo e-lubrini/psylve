@@ -1,0 +1,383 @@
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix : <http://inrae.fr/psylve/ontology/> .
+
+## Base Classes
+
+:InanimateEntity 
+    a   owl:Class ;
+    rdfs:label "inanimate entity" ;
+    rdfs:subClassOf :PhysicalEntity ;
+    owl:complementOf :Organism.
+
+:Organism 
+    a   owl:Class ;
+    rdfs:label "organism" ;
+    rdfs:subClassOf :PhysicalEntity ;
+    owl:complementOf :InanimateEntity ;
+    owl:disjointUnionOf (:LivingOrganism :NonLivingOrganism).
+
+:LivingOrganism 
+    a   owl:Class ;
+    rdfs:label "living organism" ;
+    rdfs:subClassOf :Organism ;
+    owl:disjointWith :NonLivingOrganism.
+
+:NonLivingOrganism 
+    a   owl:Class ;
+    rdfs:label "non living organism" ;
+    rdfs:subClassOf :Organism ;
+    owl:disjointWith :LivingOrganism.
+
+:BiologicalCommunity
+    a owl:Class ;
+    rdf:label "biological community" ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:onProperty :has_components ;
+                owl:someValuesFrom :PhysicalEntity
+              ] .
+:Pathogen
+    a   owl:Class ;
+    rdfs:label "pathogen" ;
+    rdfs:subClassOf :Pest ;
+    owl:disjointUnionOf (ncbi:bacterium ncbi:virus ncbi:fungus).
+
+:InfectedOrganism
+    a   owl:Class ;
+    rdfs:label "infected organism" ;
+    rdfs:subClassOf :Organism ;
+    owl:equivalentClass [ owl:intersectionOf (:Organism :PathogenHost) ] .
+
+
+:SymptomaticInfectedOrganism
+    a   owl:Class ;
+    rdfs:label "symptomatic infected organism" ;
+    rdfs:subClassOf :InfectedOrganism ;
+    owl:disjointWith :NonSymptomaticInfectedOrganism.
+
+:NonSymptomaticInfectedOrganism
+    a   owl:Class ;
+    rdfs:label "non symptomatic infected organism" ;
+    rdfs:subClassOf :InfectedOrganism ;
+    owl:disjointWith :SymptomaticInfectedOrganism.
+
+:PathogenHost
+    a   owl:Class ;
+    rdfs:label "pathogen host" ;
+    rdfs:subClassOf :Habitat .
+
+:PathogenCarrier
+    a   owl:Class ;
+    rdfs:label "pathogen carrier" ;
+    rdfs:subClassOf :Habitat.
+
+
+:VectingCarrier
+    a   owl:Class ;
+    rdfs:label "vecting carrier" ;
+    rdfs:subClassOf :PathogenCarrier ;
+    owl:disjointWith :NonVectingCarrier.
+
+:NonVectingCarrier
+    a   owl:Class ;
+    rdfs:label "non vecting carrier" ;
+    rdfs:subClassOf :PathogenCarrier ;
+    owl:disjointWith :VectingCarrier.
+
+    
+
+:Pest
+    a   owl:Class ;
+    rdfs:label "pest" ;
+    owl:subClassOf (:Organism :).
+
+    
+
+:Interaction
+    a   owl:Class ;
+    rdfs:label "interaction" ;
+    owl:disjointWith :.
+
+:BiologicalInteraction
+    a   owl:Class ;
+    rdfs:label "biological interaction" ;
+    rdfs:subClassOf :Interaction.
+
+
+:TrophicInteraction
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf :BiologicalInteraction ;
+    owl:disjointWith :NonTrophicInteraction.
+
+    
+
+:NonTrophicInteraction
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf :BiologicalInteraction ;
+    owl:disjointWith :TrophicInteraction.
+
+    
+
+:ShortTermInteraction
+    a   owl:Class ;
+    rdfs:label "short term interaction" ;
+    rdfs:subClassOf :TrophicInteraction.
+
+    
+:Phytopagy
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf :ShortTermInteraction.
+:Carnivory
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf :ShortTermInteraction.
+# ...    
+
+:LongTermInteraction
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf :TrophicInteraction ;
+    owl:disjointWith :ShortTermInteraction.
+
+a:Parasitism
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf :LongTermInteraction.
+a:Commensalism
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf :LongTermInteraction.
+a:Mutualism
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf :LongTermInteraction.
+
+
+a:Monophagous
+    a   owl:Class ;
+    rdfs:label "monophagous" ;
+    rdfs:subClassOf ncbi:insect ;
+    owl:disjointWith (:Polyphagous :Oligophagous).
+a:Polyphagous
+    a   owl:Class ;
+    rdfs:label "polyphagous" ;
+    rdfs:subClassOf ncbi:insect ;
+    owl:disjointWith (:Monophagous :Oligophagous).
+a:Oligophagous
+    a   owl:Class ;
+    rdfs:label "oligoophagous" ;
+    rdfs:subClassOf ncbi:insect ;
+    owl:disjointWith (:Polyphagous :Monophagous).
+
+
+############################
+# For n-ary relationships ##
+############################
+
+:PathogenTransmissionRelation # ternary relationship vector-pathogen-receiver
+    a owl:Class ;
+    rdfs:subClassOf
+         [ a owl:Restriction ;
+             owl:cardinality "1";
+             owl:onProperty :has_vector
+         ] ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:onProperty :has_vector ;   
+                owl:someValuesFrom :PhysicalEntity
+              ] ;
+    rdfs:subClassOf
+         [ a owl:Restriction ;
+             owl:cardinality "1";
+             owl:onProperty :has_pathogen
+         ] ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:onProperty :has_pathogen ;   
+                owl:someValuesFrom :Pathogen
+              ] ;
+    rdfs:subClassOf
+         [ a owl:Restriction ;
+             owl:cardinality "1";
+             owl:onProperty :has_receiver
+         ] ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:onProperty :has_receiver ;      
+                owl:someValuesFrom :Organism
+              ] .
+
+# :ObservedOrganismHabitat
+#     a   owl:Class ;
+#     rdfs:label "observed organism in its habitat" ;
+#     rdfs:subClassOf :Observation ; # TODO define Observation class or retrieve from external resource
+
+# :ObservedInsectHabitat
+#     a   owl:Class ;
+#     rdfs:label "observed insect in its habitat" ;
+#     rdfs:subClassOf :ObservedOrganismHabitat ;
+#     :observed_organism :insect;
+#     :observed_habitat :habitat.    
+
+
+:SymbioticRelationship
+    a owl:Class ;
+    rdfs:label "symbiotic relationship" ;
+    rdfs:subClassOf :BiologicalInteraction ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:cardinality 2 ;
+                owl:onProperty :has_participants
+              ] ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:onProperty :has_participants ;
+                owl:someValuesFrom :Organism
+              ] ;
+    rdfs:equivalentClass :LongTermInteraction . # synonyms
+
+:HabitatAndInhabitantRelationship
+    a   owl:Class ;
+    rdfs:label "habitat-inhabitant relationship" ;
+    rdfs:subClassOf :BiologicalInteraction ;
+              [ a       owl:Restriction ;
+                owl:cardinality 1 ;
+                owl:onProperty :has_inhabitant
+              ] ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:onProperty :has_inhabitant ;   
+                owl:someValuesFrom :Organism
+              ] ;
+    rdfs:subClassOf :BiologicalInteraction ;
+              [ a       owl:Restriction ;
+                owl:cardinality 1 ;
+                owl:onProperty :has_habitat
+              ] ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:onProperty :has_habitat ;      
+                owl:someValuesFrom (:PhysicalEntity :BiologicalCommunity)
+              ] .
+
+# when the binary SymbioticRelationship and HabitatAndInhabitantRelationship
+# are both linking the same 2 organisms
+# ( in other words a HabitatAndInhabitantRelationship
+# where the habitat is an organism ),
+# it becomes a host-guest relationship
+# where the habitat is now called "host"
+# and the inhabitant is called a "guest":
+
+:HostAndGuestRelationship # ?1 has_inabitant is equal to has_participanr in parent class
+    a   owl:Class ;
+    rdfs:label "host-guest relationship" ;
+    rdfs:subClassOf :SymbioticRelationship ;
+    rdfs:subClassOf :HabitatAndInhabitantRelationship ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:onProperty :has_inhabitant ;   
+                owl:someValuesFrom :Organism
+              ] ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:onProperty :has_habitat ;      
+                owl:someValuesFrom (:PhysicalEntity :BiologicalCommunity)
+              ] .
+
+
+# host plant, food plant, and shelter plant are "hosts"
+# (they have a HostAndGuestRelationship) wrt an insect
+# casual plants are NOT "hosts" wrt insects
+
+:InsectAndHostPlantRelationship
+    a   owl:Class ;
+    rdfs:label "relationship between insect and host plant" ;
+    rdfs:subClassOf :HostAndGuestRelationship ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:onProperty :has_inhabitant ;   
+                owl:someValuesFrom ncbi:Insect
+              ] ;
+    rdfs:subClassOf
+              [ a       owl:Restriction ;
+                owl:onProperty :has_habitat ;      
+                owl:someValuesFrom ncbi:Plant
+              ] .
+
+:InsectAndFoodPlantRelationship # TODO same as above
+    a   owl:Class .
+    
+:InsectAndShelterPlantRelationship # TODO same as above
+    a   owl:Class .
+
+:InsectAndCasualPlantRelationship # TODO complete
+    a   owl:Class ;
+    owl:disjointWith :BiologicalInteraction.
+
+    
+
+PiercingSuckingMouthParts
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf : ;
+    owl:disjointWith :.
+
+    
+InsectMouthParts
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf : ;
+    owl:disjointWith :.
+
+    
+MouthParts
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf : ;
+    owl:disjointWith :.
+
+    
+
+
+PathogenVector
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf : ;
+    owl:disjointWith :.
+
+    
+LivingOrganism
+    a   owl:Class ;
+    rdfs:label "" ;
+    rdfs:subClassOf : ;
+    owl:disjointWith :.
+
+    
+
+## Derived Classes
+
+:IllOrganism
+    a   owl:Class ;
+    owl:equivalentClass [ owl:intersectionOf (:InfectedOrganism :HasSymptoms) ] .
+
+:InanimateCarrier
+    a   owl:Class ;
+    owl:equivalentClass [ owl:intersectionOf (:InfectedOrganism :HasSymptoms) ] .
+
+## Properties
+
+Carry
+
+:partOf a owl:ObjectProperty ; rdfs:label "hasPart".
+
+
+## TODO (example):
+:is_buyer_for
+      a       owl:ObjectProperty ;
+      owl:inverseOf :has_buyer .

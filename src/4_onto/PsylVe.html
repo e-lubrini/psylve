@@ -23,6 +23,12 @@
         
 
         
+        #config {
+            float: left;
+            width: 400px;
+            height: 600px;
+        }
+        
 
         
 </style>
@@ -32,6 +38,8 @@
 <body>
 <div id = "mynetwork"></div>
 
+
+<div id = "config"></div>
 
 <script type="text/javascript">
 
@@ -50,15 +58,18 @@
         
 
         // parsing and collecting nodes and edges from the python
-        nodes = new vis.DataSet([{"id": "hi", "label": "hi", "shape": "dot", "size": 10}, {"id": "hola", "label": "hola", "shape": "dot", "size": 10}, {"id": "salut", "label": "salut", "shape": "dot", "size": 10}, {"id": "ciao", "label": "ciao", "shape": "dot", "size": 10}]);
-        edges = new vis.DataSet([{"arrows": "to", "from": "hi", "label": 1, "to": "hola", "weight": 1}, {"arrows": "to", "from": "hola", "label": 1, "to": "salut", "weight": 1}, {"arrows": "to", "from": "salut", "label": 1, "to": "ciao", "weight": 1}]);
+        nodes = new vis.DataSet([{"id": "organism", "label": "organism", "shape": "dot"}, {"id": "physical_entity", "label": "physical_entity", "shape": "dot"}, {"id": "inanimate_entity", "label": "inanimate_entity", "shape": "dot"}]);
+        edges = new vis.DataSet([{"arrows": "to", "from": "organism", "label": "is", "to": "physical_entity"}, {"arrows": "to", "from": "inanimate_entity", "label": "is", "to": "physical_entity"}]);
 
         // adding nodes and edges to the graph
         data = {nodes: nodes, edges: edges};
 
         var options = {
     "configure": {
-        "enabled": false
+        "enabled": true,
+        "filter": [
+            "physics"
+        ]
     },
     "edges": {
         "color": {
@@ -88,6 +99,10 @@
         
         
 
+        
+        // if this network requires displaying the configure window,
+        // put it in its div
+        options.configure["container"] = document.getElementById("config");
         
 
         network = new vis.Network(container, data, options);
