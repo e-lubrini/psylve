@@ -58,8 +58,8 @@
         
 
         // parsing and collecting nodes and edges from the python
-        nodes = new vis.DataSet([{"id": "organism", "label": "organism", "shape": "dot"}, {"id": "physical_entity", "label": "physical_entity", "shape": "dot"}, {"id": "inanimate_entity", "label": "inanimate_entity", "shape": "dot"}]);
-        edges = new vis.DataSet([{"arrows": "to", "from": "organism", "label": "is", "to": "physical_entity"}, {"arrows": "to", "from": "inanimate_entity", "label": "is", "to": "physical_entity"}]);
+        nodes = new vis.DataSet([{"id": "http://inrae.fr/psylve/ontology/PhysicalEntity", "label": "http://inrae.fr/psylve/ontology/PhysicalEntity", "shape": "dot", "size": 10}, {"id": "http://www.w3.org/2002/07/owl#Thing", "label": "http://www.w3.org/2002/07/owl#Thing", "shape": "dot", "size": 10}, {"id": "http://www.w3.org/2002/07/owl#Class", "label": "http://www.w3.org/2002/07/owl#Class", "shape": "dot", "size": 10}, {"id": "physical entity", "label": "physical entity", "shape": "dot", "size": 10}]);
+        edges = new vis.DataSet([{"arrows": "to", "from": "http://inrae.fr/psylve/ontology/PhysicalEntity", "label": 1, "to": "http://www.w3.org/2002/07/owl#Thing", "weight": 1}, {"arrows": "to", "from": "http://inrae.fr/psylve/ontology/PhysicalEntity", "label": 1, "to": "http://www.w3.org/2002/07/owl#Class", "weight": 1}, {"arrows": "to", "from": "http://inrae.fr/psylve/ontology/PhysicalEntity", "label": 1, "to": "physical entity", "weight": 1}]);
 
         // adding nodes and edges to the graph
         data = {nodes: nodes, edges: edges};
