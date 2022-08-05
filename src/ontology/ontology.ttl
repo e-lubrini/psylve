@@ -29,7 +29,7 @@
     rdfs:subClassOf :PhysicalEntity ;
     owl:complementOf :InanimateEntity ;
     owl:disjointUnionOf (:AliveOrganism :NotAliveOrganism);
-    owl:equivalentClass (ncbi:131567 ncbi:10239). # NCBI: cellular organisms and viruses
+    owl:equivalentClass (:Organism :Virus). # NCBI: cellular organisms and viruses
 
 :Organism
     a   owl:Class ;
@@ -57,6 +57,25 @@
                 owl:someValuesFrom :PhysicalEntity
               ] .
 
+# plants; NCBI : viruses, bacteria, fungi
+:Plant
+    a   owl:Class ;
+    rdfs:label "plant" .
+
+:Bacterium
+    a   owl:Class ;
+    rdfs:label "bacterium" ;
+    owl:equivalentClass ncbi:2 .
+
+:Fungus
+    a   owl:Class ;
+    rdfs:label "fungus" ;
+    owl:equivalentClass ncbi:4751.
+
+:Virus
+    a   owl:Class ;
+    rdfs:label "virus" ;
+    owl:equivalentClass ncbi:10239.
 
 
 #############################
@@ -67,7 +86,7 @@
     a   owl:Class ;
     rdfs:label "pathogen" ;
     rdfs:subClassOf :Pest ;
-    owl:disjointUnionOf (ncbi:2 ncbi:10239 ncbi:4751). # NCBI: bacteria, viruses, fungi
+    owl:disjointUnionOf (:Bacterium :Virus :Fungus). # NCBI: bacteria, viruses, fungi
 
 :InfectedOrganism
     a   owl:Class ;
@@ -105,11 +124,11 @@
 :PathogenCarrier
     a   owl:Class ;
     rdfs:label "pathogen carrier" ;
-    rdfs:subClassOf :Habitat ; # TODO import from ontobiotope
+    rdfs:subClassOf :Habitat ; # (Habitat is a superclass of Ontobiotope's "microbial habitat" class)
     rdfs:subClassOf
               [ a       owl:Restriction ;
-                owl:onProperty :carrier_in_transmission_relation ; # TODO carrier_in_transmission_relation inv. has_carrier
-                owl:someValuesFrom :PathogenTransmissionRelation # TODO PathogenTransmissionRelation has_carrier some value from PathogenCarrier
+                owl:onProperty :is_carrier ; 
+                owl:someValuesFrom :PathogenTransmissionRelation 
               ] ;
     owl:disjointUnionOf (:VectingCarrier :NonVectingCarrier).
 
@@ -163,8 +182,14 @@
     rdfs:label "short term interaction" ;
     rdfs:subClassOf :TrophicInteraction ;
     owl:complementOf :LongTermInteraction.
-    
-# TODO list of pairwise disjoint elements
+
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :PhytopagyInteraction
+                :CarnivoryInteraction
+              )
+] .
+# TODO define meaning
 :PhytopagyInteraction
     a   owl:Class ;
     rdfs:label "phytophagy interaction" ;
@@ -176,22 +201,29 @@
 # ...    
 
 
-# TODO list of pairwise disjoint elements
 :LongTermInteraction
     a   owl:Class ;
     rdfs:label "long term interaction" ;
     rdfs:subClassOf :TrophicInteraction ;
     owl:complementOf :ShortTermInteraction.
 
-:Parasitism
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( :ParasitismInteraction
+                :CommensalismInteraction
+                :MutualismInteraction
+              )
+] .
+# TODO define meaning
+:ParasitismInteraction
     a   owl:Class ;
     rdfs:label "parasitism" ;
     rdfs:subClassOf :LongTermInteraction.
-:Commensalism
+:CommensalismInteraction
     a   owl:Class ;
     rdfs:label "commensalism" ;
     rdfs:subClassOf :LongTermInteraction.
-:Mutualism
+:MutualismInteraction
     a   owl:Class ;
     rdfs:label "mutualism" ;
     rdfs:subClassOf :LongTermInteraction.
@@ -225,15 +257,15 @@
     rdfs:subClassOf owl:Thing ;
     rdfs:subClassOf
               [ a       owl:Restriction ;
-                owl:onProperty :needs ; # TODO needs subpredicate of depends_on
+                owl:onProperty :needs ; 
                 owl:someValuesFrom :ResourceForHumanActivity
               ] .
 
 :Agriculture
     a   owl:Class ;
     rdfs:label "agriculture" ;
-    rdfs:subClassOf owl:HumanActivities ;
-    :depends_on (:Plant).  # TODO ncbi plant, virus, bacteria, fungi
+    rdfs:subClassOf owl:HumanActivity ;
+    :depends_on (:Plant).
 
 # TODO add subsectors, such as Viticulture, Arboriculture, ...
 # TODO add techniques, such as indoor farming, organic farming, ...
@@ -261,52 +293,39 @@
 
 :PathogenTransmissionRelation # ternary relationship vector-pathogen-receiver
     a owl:Class ;
-    # has_carrier
+    # has_carrier_in_transmission
     rdfs:subClassOf
          [ a owl:Restriction ;
              owl:cardinality "1" ;
-             owl:onProperty :has_carrier
+             owl:onProperty :has_carrier_in_transmission
          ] ;
     rdfs:subClassOf
               [ a       owl:Restriction ;
-                owl:onProperty :has_carrier ;   
+                owl:onProperty :has_carrier_in_transmission ;   
                 owl:someValuesFrom :PhysicalEntity
               ] ;
-    # has_pathogen
+    # has_pathogen_in_transmission
     rdfs:subClassOf
          [ a owl:Restriction ;
              owl:cardinality "1";
-             owl:onProperty :has_pathogen
+             owl:onProperty :has_pathogen_in_transmission
          ] ;
     rdfs:subClassOf
               [ a       owl:Restriction ;
-                owl:onProperty :has_pathogen ;   
+                owl:onProperty :has_pathogen_in_transmission ;   
                 owl:someValuesFrom :Pathogen
               ] ;
-    # has_receiver
+    # is_receiver_in_transmission
     rdfs:subClassOf
          [ a owl:Restriction ;
              owl:cardinality "1";
-             owl:onProperty :has_receiver
+             owl:onProperty :is_receiver_in_transmission
          ] ;
     rdfs:subClassOf
               [ a       owl:Restriction ;
-                owl:onProperty :has_receiver ;      
+                owl:onProperty :is_receiver_in_transmission ;      
                 owl:someValuesFrom :GenomeBearingEntity
               ] .
-
-# :ObservedOrganismHabitat
-#     a   owl:Class ;
-#     rdfs:label "observed organism in its habitat" ;
-#     rdfs:subClassOf :Observation ; # TODO define Observation class or retrieve from external resource
-
-# :ObservedInsectHabitat
-#     a   owl:Class ;
-#     rdfs:label "observed insect in its habitat" ;
-#     rdfs:subClassOf :ObservedOrganismHabitat ;
-#     :observed_organism :insect;
-#     :observed_habitat :habitat.    
-
 
 :SymbioticRelationship
     a owl:Class ;
@@ -425,18 +444,21 @@
     rdfs:domain :BiologicalInteraction ;
     rdfs:range :GenomeBearingEntity .  
 
-:has_carrier
+:has_carrier_in_transmission
     a owl:ObjectProperty , owl:FunctionalProperty ;
     rdfs:domain :PathogenTransmissionRelation ;
-    rdfs:range :PathogenCarrier . 
-:has_pathogen
+    rdfs:range :PathogenCarrier ;
+    owl:inverseOf :is_carrier_in_transmission .
+:has_pathogen_in_transmission
     a owl:ObjectProperty , owl:FunctionalProperty ;
     rdfs:domain :PathogenTransmissionRelation ;
-    rdfs:range :Pathogen . 
-:has_receiver
+    rdfs:range :Pathogen ;
+    owl:inverseOf :is_pathogen_in_transmission .
+:has_receiver_in_transmission
     a owl:ObjectProperty , owl:FunctionalProperty ;
     rdfs:domain :PathogenTransmissionRelation ;
-    rdfs:range :PathogenHost.    
+    rdfs:range :PathogenHost;
+    owl:inverseOf :is_receiver_in_transmission .  
  
 :has_inhabitant
     a owl:ObjectProperty , owl:FunctionalProperty ;
@@ -446,3 +468,14 @@
     a owl:ObjectProperty , owl:FunctionalProperty ;
     rdfs:domain :HabitatAndInhabitantRelationship ;
     rdfs:range :Habitat .  
+
+:depends_on
+    a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:domain :HumanActivity ;
+    rdfs:range owl:Thing .  
+
+:needs
+    a owl:ObjectProperty , owl:FunctionalProperty ;
+    rdfs:domain :HumanActivity ;
+    rdfs:subPropertyOf :depends_on ;
+    rdfs:range owl:Thing .  
