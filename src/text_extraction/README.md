@@ -134,3 +134,5 @@ python3 setup.py install
 <h4>appearance</h4>
 
 - `message_colours` — colours of the messages to be displayed
+
+#### [◄ Back to main README](https://github.com/e-lubrini/PsylVe/blob/main/README.md)
