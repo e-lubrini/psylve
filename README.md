@@ -16,32 +16,11 @@ Ontology and Text Mining project @ INRAE optimised on data concerning the taxono
 - Ontology [README](https://github.com/e-lubrini/psylve/tree/main/src/ontology/README.md)
 - Evaluation [README](https://github.com/e-lubrini/psylve/tree/main//srcevaluation/README.md)
 
-## Repository Structure
-
-    dataset_overview/
-        ├── imgs/
-        ├── tools/
-        ├── dataset_metadata.csv
-        ├── fca.ipynb
-        └── dataset_visualisations.ipynb
-        
-    text_extraction/
-        ├── data/
-        ├── evaluation_results/
-        ├── models/
-        ├── tools/
-        |   ├── grobid_client_python/
-        |   ├── conv_tools.py
-        |   ├── eval_tools.py
-        |   └── utils.py
-        ├── config.json
-        ├── conversion_pipeline.py
-        ├── evaluation_pipeine.ipynb
-        └── start_conversion.sh
-        
-    ner_correction/
-        ├── tools/
-        ├── analysis/
-        |   ├── data/
-        |   └── ner_correction_overview.ipynb
-        └── correction_modules/
+## Code Structure
+  
+    src/
+    ├── dataset_overview/
+    ├── text_extraction/
+    ├── ontology/
+    ├── ner_correction/
+    └── evaluation/
