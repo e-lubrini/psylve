@@ -15,7 +15,7 @@
         ├── config.json
         ├── conversion_pipeline.py
         ├── evaluation_pipeine.ipynb
-        └── start_conversion.sh
+        └── launch_extraction.sh
 
 ## Setup
 
@@ -34,14 +34,14 @@ cd grobid_client_python
 python3 setup.py install
 ```
 ## Configuration and Tool Selection
-- Configuration settings can be changed via a ``config.json`` file which path is then passed to the ``start_conversion.sh`` bash script when launching the conversion (see [§ Usage](#usage)).
+- Configuration settings can be changed via a ``config.json`` file which path is then passed to the ``launch_extraction.sh`` bash script when launching the conversion (see [§ Usage](#usage)).
 
 - The configuration file allows you to choose a list of tools for text extraction. For more information on which tools work best for your chosen documents, place them in a ``/data/docs_for_extr`` folder, open the ``evaluation_pipeline.ipynb`` notebook, and run it to see a visual representation of each tool's performance. More tools and evaluation scores can be easily added (see [§ Adding More Features](adding-more-features))
 
 ## Usage
 - `mkdir /data/docs_for_conv` (or a different path, then changing the relative _.dataset.path_ value within the ``config.json`` file) and add the documents to be converted to the folder. 
 
-- ```bash start_conversion.sh -c config.json``` or run the script with the `-h` flag to get help with the possible commands.
+- ```bash launch_extraction.sh -c config.json``` or run the script with the `-h` flag to get help with the possible commands.
 
 - The chosen folder for the data input will be populated with a directory for each document, containing:
     - the inputted document,
