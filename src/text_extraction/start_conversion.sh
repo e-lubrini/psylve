@@ -12,7 +12,7 @@ Help()
    echo "v     [OPT] Print additional messages."
    echo "t     [OPT] Print time messages."
    echo
-   echo "h     Print this Help."
+   echo "h     Print this Help message."
    echo
 }
 
