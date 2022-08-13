@@ -8,7 +8,7 @@ Help()
    echo "Syntax: bash $(basename \$0) [-c] [-v] [-t]"
    echo
    echo "options:"
-   echo "p     Path to the document database."
+   echo "d    Path to the document database."
    echo "v     [OPT] Print additional messages."
    echo "t     [OPT] Print time messages."
    echo
@@ -18,15 +18,15 @@ Help()
 
 
 ## ARGUMENTS
-while getopts 'hc:vt' flag
+while getopts 'hd:vt' flag
     do
         case "${flag}" in
             h)  # display Help
                 Help
                 exit
                 ;;
-            p)  
-                DB_FILE_PATH=${OPTARG}
+            d)  
+                DB_PATH=${OPTARG}
                 echo 'database path is' $DB_PATH
                 ;;
             v)
@@ -38,11 +38,11 @@ while getopts 'hc:vt' flag
         esac
     done
 
-# remember current directory before switchign to
-EVAL_DIR=$PWD
-
 #python $EVAL_DIR"/compare_label-prediction.py" $EVAL_DIR"/"$LABEL_FILE #$PREDICTION_FILE
 #python $EVAL_DIR"/scores_and_visuals.py"
 
+EVAL_DIR=data/output/
+REL_PWD=../../../../psylve/src/ner_extraction/
+echo "$REL_PWD$EVAL_DIR"
 cd ../../../text-mining-workflow/
-bash batch-process.sh -p $DB_PATH
+bash batch-process.sh "$REL_PWD$DB_PATH"

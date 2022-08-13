@@ -9,7 +9,6 @@ from sklearn.metrics import confusion_matrix, classification_report, make_scorer
 sys.stdout.write('COMPUTING SCORES\n')
 
 
-
 ####################
 ## Subdirectories ##
 ####################
