@@ -271,6 +271,8 @@ for dir,files in pred_filepaths.items():
     ent_evals[c] = ent_eval
     c+=1
 
-ent_evals
+with open('data/comparison.json', 'w+') as f:
+    json.dump(ent_evals, f, indent=4)
+
 
 #json.dump(ent_eval, sys.stdout, indent=4)

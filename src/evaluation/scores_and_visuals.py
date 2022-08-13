@@ -1,5 +1,6 @@
 import sys
 import json
+from types import NoneType
 import pandas as pd
 import seaborn as sns
 import math
@@ -42,7 +43,6 @@ for dirpath in get_child_dir_paths(pred_dir_path):
 #  1: [('data/pred/1/extracted_psyllid_entities.txt',
 #    'data/pred/1/extracted_psyllid_relations.txt')]}
 
-
 save_dir = 'data/evaluation_results/'
 
 
@@ -51,39 +51,60 @@ save_dir = 'data/evaluation_results/'
 ##### to dataframe ####
 #######################
 
+
+ref_df = dict(docname=[], entname=[], dir_n=[])
+pred_df = dict(docname=[], entname=[], dir_n=[])
+
+with open('data/comparison.json', 'r') as f:
+    ent_evals = json.load(f)
+    
 for dir_n,comp_filepath in comp_filepaths.items():
+
+    #open each json comparison.json file
     print (comp_filepath)
     with open(comp_filepath[0], 'r') as f:
-            ent_evals = json.load(f)
-    len(ent_evals.items())
+            ent_eval = json.load(f)
+    len(ent_eval.items())
+    if 'global' in ent_eval.keys():
+        ent_eval.pop('global')
 
-
-    ref_df = dict(docname=[],entname=[])
-    pred_df = dict(docname=[],entname=[])
-
-    for docname,entities in ent_evals.items():
-        ref_df['docname'].append(docname)
-        pred_df['docname'].append(docname)
-        
+    for docname,entities in ent_eval.items():
+        if docname == 'global':
+            continue 
         for entname,pairs_n_scores in entities.items():
-            pred_df['entname'].append(entname)
-            ref_df['entname'].append(entname)
-            try:
+            if pairs_n_scores is NoneType:
+                print('none')
+                continue
+            else:
+                print('not none')
                 for pair in pairs_n_scores['pairs']:
+                    #print((pair.keys())) # = 'ref', 'pred', 'sim', 'cat'
+                    
                     try:
-                        for a,v in pair['ref'].items():
-                            if a not in ref_df.keys():
-                                ref_df[a] = []
-                            ref_df[a].append(v)
+                        pair['ref'].items()
+                        pair['pred'].items()
                     except AttributeError:
-                        pass
-                    try:
-                        for a,v in pair['pred'].items():
-                            if a not in ref_df.keys():
-                                pred_df[a] = []
-                            pred_df[a].append(v)
-                    except AttributeError:
-                        pass
+                        continue
+                    for a,v in pair['ref'].items(): # attribute and value of entity
+                        if a not in ref_df.keys():
+                            ref_df[a] = []
+                        ref_df[a].append(v)
+
+                    for a,v in pair['pred'].items():
+                        if a not in ref_df.keys():
+                            pred_df[a] = []
+                        pred_df[a].append(v)
+
+                    ref_df['dir_n'].append(dir_n)
+                    pred_df['dir_n'].append(dir_n)
+
+                    ref_df['docname'].append(docname)
+                    pred_df['docname'].append(docname)
+                    
+                    pred_df['entname'].append(entname)
+                    ref_df['entname'].append(entname)
+
+                    
                     sizes = []
                     for k in ref_df.keys():
                         sizes.append(len(ref_df[k]))
@@ -96,13 +117,11 @@ for dir_n,comp_filepath in comp_filepaths.items():
                     for k in pred_df.keys():
                         if len(pred_df[k]) < max(sizes):
                             pred_df[k].extend([math.nan]*(max(sizes) - len(pred_df[k])))
-                    
-            except:
-                pass
+            
 
-    ref_df = pd.DataFrame(ref_df)
-    pred_df = pd.DataFrame(pred_df)
-    print(pred_df.head())
+ref_df = pd.DataFrame(ref_df)
+pred_df = pd.DataFrame(pred_df)
+print(pred_df.head())
 
 ################
 ## DUMMY DATA ##
@@ -139,8 +158,6 @@ for k,ent_eval in ent_evals.items():
     dummies_df[k] = create_dummy(ent_eval)
 
 ## dummies_df.keys() are numbers of folders
-print('DUMMIES DF KEYS')
-print(dummies_df.keys())
 
 for k,dummy_df in dummies_df.items():
     ref_dummy, pred_dummy = dummy_df['ref'], dummy_df['pred']
