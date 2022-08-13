@@ -7,7 +7,7 @@ This module contains:
 ## Directory Structure
 
     onto/
-        ├── protege/
+        ├── ontology.ttl/
         └── .../
 
-#### [◄ Back to main README](https://github.com/e-lubrini/PsylVe/blob/main/README.md)
+#### [◄ Back to main README](https://github.com/e-lubrini/psylve#a-text-to-ontology-informationextraction-toolfor-the-occurrencedistribution-of-plant-pathogen-vectors)
