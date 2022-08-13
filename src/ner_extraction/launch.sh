@@ -38,6 +38,11 @@ while getopts 'hc:vt' flag
         esac
     done
 
+# remember current directory before switchign to
+EVAL_DIR=$PWD
+
+#python $EVAL_DIR"/compare_label-prediction.py" $EVAL_DIR"/"$LABEL_FILE #$PREDICTION_FILE
+#python $EVAL_DIR"/scores_and_visuals.py"
 
 cd ../../../text-mining-workflow/
 bash batch-process.sh -p $DB_PATH
