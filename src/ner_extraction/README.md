@@ -1,4 +1,4 @@
-<h1 align="center">Ontology</h1>
+<h1 align="center">Named Entity Recognition (NER) Extraction</h1>
 
 This module contains:
 - The `launch.sh` file for launching the module;
