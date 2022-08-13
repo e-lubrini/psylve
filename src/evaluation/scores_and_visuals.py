@@ -57,11 +57,10 @@ pred_df = dict(docname=[], entname=[], dir_n=[])
 
 with open('data/comparison.json', 'r') as f:
     ent_evals = json.load(f)
-    
+
 for dir_n,comp_filepath in comp_filepaths.items():
 
     #open each json comparison.json file
-    print (comp_filepath)
     with open(comp_filepath[0], 'r') as f:
             ent_eval = json.load(f)
     len(ent_eval.items())
@@ -73,10 +72,8 @@ for dir_n,comp_filepath in comp_filepaths.items():
             continue 
         for entname,pairs_n_scores in entities.items():
             if pairs_n_scores is NoneType:
-                print('none')
                 continue
             else:
-                print('not none')
                 for pair in pairs_n_scores['pairs']:
                     #print((pair.keys())) # = 'ref', 'pred', 'sim', 'cat'
                     
@@ -121,7 +118,6 @@ for dir_n,comp_filepath in comp_filepaths.items():
 
 ref_df = pd.DataFrame(ref_df)
 pred_df = pd.DataFrame(pred_df)
-print(pred_df.head())
 
 ################
 ## DUMMY DATA ##
@@ -186,9 +182,9 @@ counts =dict()
 
 for k,dummy_df in dummies_df.items():
     counts[k] = dict(Counter(dummy_df))
-counts
+print(counts)
 
-df = pd.DataFrame([count.values() for count in counts.values()],columns=[dummies_inv[k] for k in counts[0].keys()])
+df = pd.DataFrame([count.values() for count in counts.values()],columns=[dummies_inv[k] for k in counts['0'].keys()])
 #df = df.reset_index()
 df
 
