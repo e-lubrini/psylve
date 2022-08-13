@@ -20,7 +20,15 @@ Ontology and Text Mining project @ INRAE optimised on data concerning the taxono
   
     src/
     ├── dataset_overview/
+    |   ├── dataset_metadata.csv  # metadata of documents composing the dataset
+    |   └── dataset_visualisation.ipynb 
     ├── text_extraction/
+    |   ├── data/  # documents composing the dataset
+    |   └── launch.sh
     ├── ontology/
     ├── ner_correction/
+    |   ├── data/  # preprocessed documents (text extracted and translated)
+    |   └── launch.sh
     └── evaluation/
+         ├── data/  # labels and predictions          
+         └── launch.sh
