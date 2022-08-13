@@ -18,20 +18,20 @@ Help()
 
 
 ## ARGUMENTS
-while getopts 'hc:vt' flag
+while getopts 'hpl:vt' flag
     do
         case "${flag}" in
             h)  # display Help
                 Help
                 exit
                 ;;
+            p)  
+                EVAL_PATH=${OPTARG}
+                echo 'database path is' $PREDICTION_FILE
+                ;;
             l)  
                 LABEL_FILE=${OPTARG}
-                echo 'database path is' $LABEL_FILE
-                ;;
-            p)  
-                PREDICTION_FILE=${OPTARG}
-                echo 'database path is' $PREDICTION_FILE
+                echo 'label path is' $LABEL_FILE
                 ;;
             v)
                 VERBOSE='-v'
@@ -43,5 +43,5 @@ while getopts 'hc:vt' flag
     done
 
 
-cd ../../../text-mining-workflow/
-python compare_label-prediction.py.sh $LABEL_FILE $PREDICTION_FILE
+python compare_label-prediction.py $LABEL_FILE #$PREDICTION_FILE
+python scores_and_visuals.py
