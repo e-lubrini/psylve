@@ -12,8 +12,8 @@ Ontology and Text Mining project @ INRAE optimised on data concerning the taxono
 ## Pipeline Modules
 - Dataset Overview [README](https://github.com/e-lubrini/psylve/tree/main/src/dataset_overview#dataset-overview)
 - Text Extraction [README](https://github.com/e-lubrini/psylve/tree/main/src/text_extraction#text-extraction)
-- NER Extraction [README](https://github.com/e-lubrini/psylve/tree/main/src/ner_extraction#named-entity-recognition-ner-extraction)
 - Ontology [README](https://github.com/e-lubrini/psylve/tree/main/src/ontology#ontology)
+- NER Extraction [README](https://github.com/e-lubrini/psylve/tree/main/src/ner_extraction#named-entity-recognition-ner-extraction)
 - Evaluation [README](https://github.com/e-lubrini/psylve/tree/main/src/dataset_overview#dataset-overview)
 
 ## Code Structure Overview
