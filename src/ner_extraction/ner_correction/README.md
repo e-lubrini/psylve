@@ -33,10 +33,10 @@ This module contains:
         ...
 
 #### command
-    ```bash
-    cd psylve/src/ner_extraction
-    bash launch.sh -d ../text_extraction/data/
-    ```
+```bash
+cd psylve/src/ner_extraction
+bash launch.sh -d ../text_extraction/data/
+```
 ## Modules
 - Correction Modules [README](https://github.com/e-lubrini/PsylVe/blob/main/dataset_overview/README.md)
 
