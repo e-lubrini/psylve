@@ -13,7 +13,7 @@ Ontology and Text Mining project @ INRAE optimised on data concerning the taxono
 - Dataset Overview [README](https://github.com/e-lubrini/psylve/tree/main/src/dataset_overview#dataset-overview)
 - Text Extraction [README](https://github.com/e-lubrini/psylve/tree/main/src/text_extraction#text-extraction)
 - NER Extraction [README](https://github.com/e-lubrini/psylve/tree/main/src/ner_extraction#named-entity-recognition-ner-extraction)
-- Ontology [README](https://github.com/e-lubrini/psylve/tree/main/src/ner_extraction)
+- Ontology [README](https://github.com/e-lubrini/psylve/tree/main/src/ontology#ontology)
 - Evaluation [README](https://github.com/e-lubrini/psylve/tree/main/src/dataset_overview#dataset-overview)
 
 ## Code Structure Overview
@@ -29,7 +29,8 @@ Main files in the pipeline. To see the directory tree in more detail, check the 
     |   └── launch.sh
     |
     ├── ontology/
-    |   └── psylve.ttl
+    |   ├── ontology.ipynb
+    |   └── ontology.ttl
     |
     ├── ner_correction/
     |   ├── data/  # preprocessed documents (text extracted and translated)
@@ -38,5 +39,8 @@ Main files in the pipeline. To see the directory tree in more detail, check the 
     └── evaluation/
          ├── data/  # labels and predictions          
          └── launch.sh
+
+## Usage
+The `dataset_overview` module includes a notebook with an overview of the dataset. The modules `text_extraction`, `ner_correction`, and `evaluation` have each their own bash script that can be run via `cd src/[NAME_OF_MODULE]; bash launch.sh [ARGUMENTS]`. The `ontology` module contains a `.ttl` ontology and a Python notebook for its visualisation.
 
 #### [▲ Back to top](https://github.com/e-lubrini/psylve#a-text-to-ontology-informationextraction-toolfor-the-occurrencedistribution-of-plant-pathogen-vectors)

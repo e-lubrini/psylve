@@ -1,0 +1,51 @@
+\def\arraystretch{2}
+\begin{table}[]
+    \centering
+\begin{tabular}{c|cc}
+    %\multicolumn{4}{c}{\textbf{Project stages}}\\
+    %\cline{2-4} 
+    \hline
+    \textbf{Module} & \textbf{Task} & \textbf{Main Parameters} \\
+    \hline
+    \multirow{
+         \makecell{Database Overview}}
+         & \makecell{\gls{fca}\\} &  \makecell{selection criteria:\\ \gls{lift}, \gls{quality}\\result set size: 20\\depth: 50\\measure: \code{WRAccQF},\\
+         }\\
+         \hline {}  
+         \makecell{Text\\Extraction}
+         & Image to pdf & \\
+         \cline{2-3} 
+         & pdf to image & \makecell{
+           }\\
+         \cline{2-3}
+         & \makecell{\gls{ocr}\\} text extraction & \makecell{
+            }\\
+         \cline{2-3} 
+         & Embedded text extraction &
+            \makecell{
+            }\\
+         \cline{2-3} 
+         & Language Recognition &
+            \makecell{
+            }\\
+         \cline{2-3} 
+         & Translation to English &
+            \makecell{
+            }\\
+         \cline{2-3} 
+         & Spellcheck &
+            \makecell{
+            }\\
+        \hline {}  
+    \multirow{
+         \makecell{Ontology\\Deveopment}} & &\\
+        \hline {}
+    \multirow{
+         \makecell{Information\\Extraction}} & &\\
+        \hline {}
+    \hline
+\end{tabular}
+\def\arraystretch{1}
+\caption{Parameters used for each task}
+    \label{tab:parameters}
+\end{table}
