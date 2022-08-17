@@ -37,12 +37,11 @@ while getopts 'hd:vt' flag
                 ;;
         esac
     done
+    
 
-#python $EVAL_DIR"/compare_label-prediction.py" $EVAL_DIR"/"$LABEL_FILE #$PREDICTION_FILE
-#python $EVAL_DIR"/scores_and_visuals.py"
-
-EVAL_DIR=data/output/
-REL_PWD=../../../../psylve/src/ner_extraction/
-echo "$REL_PWD$EVAL_DIR"
-cd ../../../text-mining-workflow/
-bash batch-process.sh "$REL_PWD$DB_PATH"
+WF_PATH="../../../text-mining-workflow/"
+REL_PWD="../../../../psylve/src/ner_extraction/"
+cd $WF_PATH
+FULL_DB_PATH="$REL_PWD$DB_PATH"
+echo "hi $FULL_DB_PATH"
+bash batch-process.sh $FULL_DB_PATH
