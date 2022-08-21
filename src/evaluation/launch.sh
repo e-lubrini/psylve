@@ -27,7 +27,7 @@ while getopts 'hpl:vt' flag
                 ;;
             p)  
                 EVAL_PATH=${OPTARG}
-                echo 'database path is' $PREDICTION_FILE
+                echo 'database path is' $EVAL_PATH
                 ;;
             l)  
                 LABEL_FILE=${OPTARG}
