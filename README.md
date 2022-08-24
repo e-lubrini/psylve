@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">A Text-to-Ontology Information
-Extraction Tool<br>for the Occurrence
+Extraction Framework<br>for the Occurrence
 Distribution of Plant Pathogen Vectors</h2>
 
 Ontology and Text Mining project @ INRAE optimised on data concerning the taxonomic superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
