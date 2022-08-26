@@ -134,7 +134,19 @@ def plot(data,
                     palette=palette,
                     cut=0,
                     hue_order=hue_order,
+                    multiple="dodge"
                     )
+    elif plot_type == 'bar':
+        ax = sns.barplot(data=data,
+                    x=x,
+                    y=y,
+                    hue=hue,      
+                    #kind='kde',
+                    #legend=True,
+                    palette=palette,
+                    #cut=0,
+                    #hue_order=hue_order,
+                    dodge=True)
     elif plot_type == 'stack':
         ax = data.set_index(x).plot(kind='bar', stacked=True, color=sns.color_palette(palette))
 

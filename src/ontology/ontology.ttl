@@ -6,7 +6,6 @@
 @prefix : <http://inrae.fr/psylve/ontology/> .
 
 
-
 ####################
 ## Entity Classes ##
 ####################
@@ -28,13 +27,13 @@
     rdfs:label "genome bearing entity" ;
     rdfs:subClassOf :PhysicalEntity ;
     owl:complementOf :InanimateEntity ;
-    owl:disjointUnionOf (:AliveOrganism :NotAliveOrganism);
-    owl:equivalentClass (:Organism :Virus). # NCBI: cellular organisms and viruses
+    owl:disjointUnionOf (:Organism :Virus) # NCBI: cellular organisms and viruses
 
 :Organism
     a   owl:Class ;
     rdfs:label "organism" ;
     owl:equivalentClass ncbi:131567. # NCBI: cellular organisms 
+    owl:disjointUnionOf (:AliveOrganism :NotAliveOrganism).
 
 :AliveOrganism 
     a   owl:Class ;
@@ -53,8 +52,9 @@
     rdf:label "biological community" ;
     rdfs:subClassOf
               [ a       owl:Restriction ;
+                owl:minCardinality 
                 owl:onProperty :has_component ;
-                owl:someValuesFrom :PhysicalEntity
+                owl:someValuesFrom :Organism
               ] .
 
 # plants; NCBI : viruses, bacteria, fungi
@@ -91,8 +91,7 @@
 :InfectedOrganism
     a   owl:Class ;
     rdfs:label "infected organism" ;
-    rdfs:subClassOf :GenomeBearingEntity ;
-    owl:equivalentClass [ owl:intersectionOf (:GenomeBearingEntity :PathogenHost) ] .
+    owl:intersectionOf (:GenomeBearingEntity :PathogenHost).
 
 :SymptomaticInfectedOrganism
     a   owl:Class ;
@@ -109,12 +108,12 @@
 :PathogenHost
     a   owl:Class ;
     rdfs:label "pathogen host" ;
-    rdfs:subClassOf :Habitat ;
+    rdfs:subClassOf :Habitat.
     rdfs:subClassOf
-              [ a       owl:Restriction ;
-                owl:onProperty :hosts_pathogen ;      
-                owl:someValuesFrom :GenomeBearingEntity
-              ] .
+         [ a owl:Restriction ;
+             owl:minCardinality "1" ;
+             owl:onProperty :hosts_pathogen
+         ] .
 
 
 ##################################
@@ -127,8 +126,8 @@
     rdfs:subClassOf :Habitat ; # (Habitat is a superclass of Ontobiotope's "microbial habitat" class)
     rdfs:subClassOf
               [ a       owl:Restriction ;
-                owl:onProperty :is_carrier ; 
-                owl:someValuesFrom :PathogenTransmissionRelation 
+                owl:onProperty :is_carrier_in_transmission  ; 
+                owl:someValuesFrom :PathogenTransmissionEvent  
               ] ;
     owl:disjointUnionOf (:VectingCarrier :NonVectingCarrier).
 
@@ -136,7 +135,7 @@
 :VectingCarrier # Carriers that actively inoculate the disease in the receiving organism
     a   owl:Class ;
     rdfs:label "vecting carrier" ;
-    rdfs:subClassOf (:PathogenCarrier :Organism) ;
+    rdfs:subClassOf :PathogenCarrier, :Organism ;
     owl:disjointWith :NonVectingCarrier.
 
 :NonVectingCarrier
@@ -177,7 +176,7 @@
 
     
 
-:ShortTermIn186teraction
+:ShortTermInteraction
     a   owl:Class ;
     rdfs:label "short term interaction" ;
     rdfs:subClassOf :TrophicInteraction ;
@@ -194,6 +193,7 @@
     a   owl:Class ;
     rdfs:label "phytophagy interaction" ;
     rdfs:subClassOf :ShortTermInteraction.
+
 :CarnivoryInteraction
     a   owl:Class ;
     rdfs:label "carnivory interaction" ;
@@ -206,14 +206,12 @@
     rdfs:label "long term interaction" ;
     rdfs:subClassOf :TrophicInteraction ;
     owl:complementOf :ShortTermInteraction.
-
-
-[ rdf:type owl:AllDisjointClasses ;
-  owl:members ( :ParasitismInteraction
-                :CommensalismInteraction
-                :MutualismInteraction
-              )
-] .
+    [ rdf:type owl:AllDisjointClasses ;
+    owl:members ( :ParasitismInteraction
+                    :CommensalismInteraction
+                    :MutualismInteraction
+                )
+    ] .
 # TODO define meaning
 :ParasitismInteraction
     a   owl:Class ;
@@ -234,17 +232,20 @@
     a   owl:Class ;
     rdfs:label "monophagous" ;
     rdfs:subClassOf ncbi:insect ;
-    owl:disjointWith (:Polyphagous :Oligophagous).
+    [ rdf:type owl:AllDisjointClasses ;
+    owl:members ( :PolyphagousInsect
+                :OligophagousInsect
+                :MonophagousInsect
+                )
+    ] .
 :PolyphagousInsect
     a   owl:Class ;
     rdfs:label "polyphagous" ;
-    rdfs:subClassOf ncbi:insect ;
-    owl:disjointWith (:Monophagous :Oligophagous).
+    rdfs:subClassOf ncbi:insect .
 :OligophagousInsect
     a   owl:Class ;
-    rdfs:label "oligoophagous" ;
-    rdfs:subClassOf ncbi:insect ;
-    owl:disjointWith (:Polyphagous :Monophagous).
+    rdfs:label "oligophagous" ;
+    rdfs:subClassOf ncbi:insect .
 
 
 ##############################
@@ -254,7 +255,6 @@
 :HumanActivity
     a   owl:Class ;
     rdfs:label "human activity" ;
-    rdfs:subClassOf owl:Thing ;
     rdfs:subClassOf
               [ a       owl:Restriction ;
                 owl:onProperty :needs ; 
@@ -272,8 +272,7 @@
 
 :ResourceForHumanActivity
     a   owl:Class ;
-    rdfs:label "human activity" ;
-    rdfs:subClassOf owl:Thing .
+    rdfs:label "human activity" .
 
 
 :Pest
@@ -291,41 +290,22 @@
 ## To be instantiated for n-ary relations ##
 ############################################
 
-:PathogenTransmissionRelation # ternary relationship vector-pathogen-receiver
+:PathogenTransmissionEvent  # ternary relationship vector-pathogen-receiver
     a owl:Class ;
-    # has_carrier_in_transmission
-    rdfs:subClassOf
-         [ a owl:Restriction ;
-             owl:cardinality "1" ;
-             owl:onProperty :has_carrier_in_transmission
-         ] ;
-    rdfs:subClassOf
-              [ a       owl:Restriction ;
-                owl:onProperty :has_carrier_in_transmission ;   
-                owl:someValuesFrom :PhysicalEntity
-              ] ;
-    # has_pathogen_in_transmission
-    rdfs:subClassOf
-         [ a owl:Restriction ;
-             owl:cardinality "1";
-             owl:onProperty :has_pathogen_in_transmission
-         ] ;
-    rdfs:subClassOf
-              [ a       owl:Restriction ;
-                owl:onProperty :has_pathogen_in_transmission ;   
-                owl:someValuesFrom :Pathogen
-              ] ;
-    # is_receiver_in_transmission
-    rdfs:subClassOf
-         [ a owl:Restriction ;
-             owl:cardinality "1";
-             owl:onProperty :is_receiver_in_transmission
-         ] ;
-    rdfs:subClassOf
-              [ a       owl:Restriction ;
-                owl:onProperty :is_receiver_in_transmission ;      
-                owl:someValuesFrom :GenomeBearingEntity
-              ] .
+    rdfs:intersectionOf(
+        [ a owl:Restriction ;
+        owl:cardinality "1" ;
+        owl:onProperty :has_carrier_in_transmission
+        ] 
+        [ a owl:Restriction ;
+        owl:cardinality "1";
+        owl:onProperty :has_pathogen_in_transmission
+        ] 
+        [ a owl:Restriction ;
+        owl:cardinality "1";
+        owl:onProperty :is_receiver_in_transmission
+        ]
+        ).
 
 :SymbioticRelationship
     a owl:Class ;
@@ -430,7 +410,7 @@
 ###############
 
 :has_component
-    a owl:ObjectProperty , owl:FunctionalProperty ;
+    a owl:ObjectProperty ;
     rdfs:domain :BiologicalCommunity ;
     rdfs:range :GenomeBearingEntity .
 
@@ -446,17 +426,19 @@
 
 :has_carrier_in_transmission
     a owl:ObjectProperty , owl:FunctionalProperty ;
-    rdfs:domain :PathogenTransmissionRelation ;
+    rdfs:domain :PathogenTransmissionEvent  ;
     rdfs:range :PathogenCarrier ;
     owl:inverseOf :is_carrier_in_transmission .
+
 :has_pathogen_in_transmission
     a owl:ObjectProperty , owl:FunctionalProperty ;
-    rdfs:domain :PathogenTransmissionRelation ;
+    rdfs:domain :PathogenTransmissionEvent  ;
     rdfs:range :Pathogen ;
     owl:inverseOf :is_pathogen_in_transmission .
+
 :has_receiver_in_transmission
     a owl:ObjectProperty , owl:FunctionalProperty ;
-    rdfs:domain :PathogenTransmissionRelation ;
+    rdfs:domain :PathogenTransmissionEvent  ;
     rdfs:range :PathogenHost;
     owl:inverseOf :is_receiver_in_transmission .  
  
@@ -479,3 +461,6 @@
     rdfs:domain :HumanActivity ;
     rdfs:subPropertyOf :depends_on ;
     rdfs:range owl:Thing .  
+
+
+    
