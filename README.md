@@ -10,11 +10,11 @@ Distribution of Plant Pathogen Vectors</h2>
 Ontology and Text Mining project @ INRAE optimised on data concerning the taxonomic superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
 
 ## Pipeline Modules
-- Dataset Overview [README](https://github.com/e-lubrini/psylve/tree/main/src/dataset_overview#dataset-overview)
-- Text Extraction [README](https://github.com/e-lubrini/psylve/tree/main/src/text_extraction#text-extraction)
-- Ontology [README](https://github.com/e-lubrini/psylve/tree/main/src/ontology#ontology)
-- NER Extraction [README](https://github.com/e-lubrini/psylve/tree/main/src/ner_extraction#named-entity-recognition-ner-extraction)
-- Evaluation [README](https://github.com/e-lubrini/psylve/tree/main/src/dataset_overview#dataset-overview)
+- Dataset Overview [README](https://github.com/e-lubrini/psylve/edit/internship/src/dataset_overview#dataset-overview)
+- Text Extraction [README](https://github.com/e-lubrini/psylve/edit/internship/src/text_extraction#text-extraction)
+- Ontology [README](https://github.com/e-lubrini/psylve/edit/internship/src/ontology#ontology)
+- NER [README](https://github.com/e-lubrini/psylve/edit/internship/ner#named-entity-recognition-ner-extraction)
+- Evaluation [README](https://github.com/e-lubrini/psylve/edit/internship/dataset_overview#dataset-overview)
 
 ## Code Structure Overview
 Main files in the pipeline. To see the directory tree in more detail, check the README of the modules above.
@@ -32,7 +32,7 @@ Main files in the pipeline. To see the directory tree in more detail, check the 
     |   ├── ontology.ipynb
     |   └── ontology.ttl
     |
-    ├── ner_correction/
+    ├── ner/
     |   ├── data/  # preprocessed documents (text extracted and translated)
     |   └── launch.sh
     |
