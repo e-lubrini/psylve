@@ -7,7 +7,7 @@ This module contains:
 ## Directory Structure
     
     ner 
-    └── psylve_addon_for_omnicrobe/         # to be copied in the reference pipeline (in this case, [Omnicrobe](https://forgemia.inra.fr/omnicrobe/text-mining-workflow/))
+    └── psylve_addon_for_omnicrobe/         # to be copied in the reference pipeline (in this case, Omnicrobe)
     |   ├── psylve_versions/
     |   |       ├── psylve1.plan
     |   |       ├── psylve2.plan
@@ -25,7 +25,7 @@ This module contains:
 
 ## Usage
 
-Move the content of the `psylve_addon_for_omnicrobe` to the `plan` directory in the omnicrobe pipeline.
+Move the content of the `psylve_addon_for_omnicrobe` to the `plan` directory in the [Omnicrobe](https://forgemia.inra.fr/omnicrobe/text-mining-workflow/) pipeline (`text-mining-workflow`).
 
 `cd` to `psylve/src/ner_extraction/` directory and run the `launch.sh` script followed by a `-d` flag with the path to the text database for named entities to be extracted. The text documents must be in a child folder called `txt`.
 
