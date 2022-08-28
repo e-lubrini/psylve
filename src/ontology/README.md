@@ -11,4 +11,4 @@ This module contains:
         ├── ontology.html
         └── visualisation.ipynb
 
-#### [◄ Back to main README](https://github.com/e-lubrini/psylve/tree/internship/README.md)
+#### [◄ Back to main README](https://github.com/e-lubrini/psylve/tree/internship)
