@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alvisnlp-plan id="psylve_host_plant">
+
+    <host_plantPattern class="PatternMatcher">
+      <layerName>words</layerName>
+      <pattern>
+    	(host_plant:
+    	[@form =~ "Prunus"]       
+    	)
+      </pattern>
+      <actions>
+    	  <createAnnotation features="taxid=group:host_plant.@taxid,canonical-name=group:host_plant.@canonical-name,path=group:host_plant.@path,rank=group:host_plant.@rank" layer="psylve_host_plant"/>
+      </actions>
+    </host_plantPattern>
+
+ </alvisnlp-plan>

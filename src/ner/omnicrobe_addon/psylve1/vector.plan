@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<alvisnlp-plan id="psylve_vector">
+
+  <psylve_vector>
+    
+    
+    <vector-mapping class="FileMapper">
+       <target> documents.sections.layer:words
+      </target> 
+      <form>@form</form>
+      <mappingFile>ancillaries/psylve/vector.txt</mappingFile>
+      <targetFeatures>vector</targetFeatures>
+    </vector-mapping>
+
+    <vectorPattern class="PatternMatcher">
+      <layerName>words</layerName>
+      <pattern>
+    	(vector:
+    	[@vector]       
+    	)
+      </pattern>
+      <actions>
+    	  <createAnnotation features="taxid=group:vector.@taxid,canonical-name=group:vector.@canonical-name,path=group:vector.@path,rank=group:vector.@rank" layer="psylve_vector"/>
+      </actions>
+    </vectorPattern>
+
+
+    
+  </psylve_vector>
+</alvisnlp-plan>
+
+

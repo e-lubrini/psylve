@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alvisnlp-plan id="psylve_country">
+  <countries>
+    
+    
+    <country-mapping class="FileMapper">
+       <target> documents.sections.layer:words
+      </target> 
+      <form>@form</form>
+      <mappingFile>ancillaries/psylve/country.txt</mappingFile>
+      <targetFeatures>country</targetFeatures>
+    </country-mapping>
+
+    <countryPattern class="PatternMatcher">
+      <layerName>words</layerName>
+      <pattern>
+    	(country:
+    	[@country]       
+    	)
+      </pattern>
+      <actions>
+    	  <createAnnotation features="taxid=group:country.@taxid,canonical-name=group:country.@canonical-name,path=group:country.@path,rank=group:country.@rank" layer="psylve_country"/>
+      </actions>
+    </countryPattern>
+  </countries>
+
+</alvisnlp-plan>

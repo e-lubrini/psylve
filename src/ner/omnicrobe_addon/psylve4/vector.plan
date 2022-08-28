@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alvisnlp-plan id="psylve_vector">
+    <vectorPattern class="PatternMatcher">
+      <layerName>words</layerName>
+      <pattern>
+    	(vector:
+    	[@form =~ "pruni"]       
+    	)
+      </pattern>
+      <actions>
+    	  <createAnnotation features="taxid=group:vector.@taxid,canonical-name=group:vector.@canonical-name,path=group:vector.@path,rank=group:vector.@rank" layer="psylve_vector"/>
+      </actions>
+    </vectorPattern>
+</alvisnlp-plan>
