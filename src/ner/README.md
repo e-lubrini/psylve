@@ -36,25 +36,25 @@ Move the content of the `psylve_addon_for_omnicrobe` to the `plan` directory in 
         |        
         └── psylve/
             └── src/
-                ├── text_extraction/
-                |   └── data/
-                |       └── txt/
-                |           ├── doc_1.txt
-                |           ├── doc_2.txt
-                |           ├── doc_3.txt
-                |           └── ...
-                |
-                ├── ner_correction/
+                ├── ner/
+                |   ├── data/
+                |   |   └── documents/
+                |   |       └── txt/
+                |   |           ├── doc_1.txt
+                |   |           ├── doc_2.txt
+                |   |           ├── doc_3.txt
+                |   |           └── ...
+                |   |
                 |   └── launch.sh
                 ...
 
 #### command
 ```bash
-cd psylve/src/ner_extraction
-bash launch.sh -d ../text_extraction/data/
+cd psylve/src/ner
+bash launch.sh -d data/documents/
 ```
 ## Modules
-- Correction Modules [README](https://github.com/e-lubrini/PsylVe/blob/internship/dataset_overview/README.md)
+- Correction Modules [README](https://github.com/e-lubrini/PsylVe/tree/internship/dataset_overview/README.md)
 
 
-#### [◄ Back to main README](https://github.com/e-lubrini/PsylVe/blob/internship/README.md)
+#### [◄ Back to main README](https://github.com/e-lubrini/PsylVe/tree/internship/README.md)
