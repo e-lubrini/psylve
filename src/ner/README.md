@@ -54,7 +54,7 @@ cd psylve/src/ner_extraction
 bash launch.sh -d ../text_extraction/data/
 ```
 ## Modules
-- Correction Modules [README](https://github.com/e-lubrini/PsylVe/blob/main/dataset_overview/README.md)
+- Correction Modules [README](https://github.com/e-lubrini/PsylVe/blob/internship/dataset_overview/README.md)
 
 
-#### [◄ Back to main README](https://github.com/e-lubrini/PsylVe/blob/main/README.md)
+#### [◄ Back to main README](https://github.com/e-lubrini/PsylVe/blob/internship/README.md)
