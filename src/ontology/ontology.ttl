@@ -22,7 +22,7 @@
     rdfs:subClassOf :PhysicalEntity ;
     owl:complementOf :GenomeBearingEntity.
 
-:GenomeBearingEntity   # in this definition includes organisms and viruses
+:GenomeBearingEntity   # This definition includes organisms and viruses
     a   owl:Class ;
     rdfs:label "genome bearing entity" ;
     rdfs:subClassOf :PhysicalEntity ;
