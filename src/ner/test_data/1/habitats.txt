@@ -1,0 +1,460 @@
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	179-189	plant-lice	plant - lice	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	179-184	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	191-200	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	202-212	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	560-570	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	618-636	Livia crefeldensis	Livia_crefeldensis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	689-709	Rhodochlanis bicolor	Rhodochlanis bicolor	OBT:004144	milo	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001135/OBT:004143/OBT:004144	Sorghum bicolor	bicolor	0.3333333333333333
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	711-733	Euphyllura pakistanica	Euphyllura_pakistanica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	735-748	Camarotoscena	Camarotoscena	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	756-765	Syntomoza	Syntomoza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	800-811	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	850-861	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	886-899	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	901-912	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1022-1030	psyllids	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1056-1067	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1086-1094	Psyllids	Psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1106-1116	plant-lice	plant - lice	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1106-1111	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1121-1143	phloem-feeding insects	phloem - feeding insect	OBT:001453	blood-feeding insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453	blood - feeding insect	insects	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1121-1127	phloem	phloem	OBT:001713	phloem	/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000816/OBT:001370/OBT:001713			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1178-1185	cicadas	cicada	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1243-1249	larvae	larva	OBT:001609	larvae	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001609			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1303-1308	pests	pest	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pests	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1323-1329	plants	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1466-1471	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1492-1496	pear	pear	OBT:003012	pear	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003012,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003012			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1498-1503	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1505-1509	plum	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1511-1517	potato	potato	OBT:002561	potato as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001126/OBT:001747/OBT:002197/OBT:002561			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1523-1529	tomato	tomato	OBT:003030	tomato	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003030,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003030			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1549-1572	Several psyllid species	Several psyllid specie	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllid	1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1681-1701	eucalypt plantations	eucalypt plantation	OBT:004180	plantation	/OBT:000001/OBT:000004/OBT:000067/OBT:004180	plantation	plantations	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1730-1738	honeydew	honeydew	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1791-1805	olive psyllids	olive psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllid	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1791-1796	olive	olive	OBT:003008	olive	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003008,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003008			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1807-1817	Euphyllura	Euphyllura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	1991-1996	olive	olive	OBT:003008	olive	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003008,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003008			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	2118-2126	psyllids	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	2286-2293	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	2701-2705	pest	p	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	2869-2885	Turkish psyllids	Turkish psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllid	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	3401-3411	plant-lice	plant - lice	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	3401-3406	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	3463-3481	Livia crefeldensis	Livia_crefeldensis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	3572-3592	Rhodochlanis bicolor	Rhodochlanis bicolor	OBT:004144	milo	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001135/OBT:004143/OBT:004144	Sorghum bicolor	bicolor	0.3333333333333333
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	3594-3616	Euphyllura pakistanica	Euphyllura_pakistanica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	3618-3631	Camarotoscena	Camarotoscena	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	3639-3648	Syntomoza	Syntomoza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	3659-3665	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	3680-3691	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	3912-3923	Colposcenia	Colposcenia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	4091-4106	Turkish psyllid	Turkish psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllid	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	4271-4288	herbaceous plants	herbaceous plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plant	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	4353-4364	Aphalaridae	Aphalaridae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	4379-4387	Aphalara	Aphalara	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	4642-4652	Morus alba	Morus_alba	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	4654-4657	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	4794-4805	Colposcenia	Colposcenia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	5086-5097	Colposcenia	Colposcenia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	5253-5264	Colposcenia	Colposcenia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	5635-5648	Craspedolepta	Craspedolepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	5714-5727	Craspedolepta	Craspedolepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	5918-5931	Craspedolepta	Craspedolepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	6009-6022	Craspedolepta	Craspedolepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	6240-6253	Craspedolepta	Craspedolepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	6351-6364	Craspedolepta	Craspedolepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	6490-6503	Craspedolepta	Craspedolepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	6589-6602	Craspedolepta	Craspedolepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	6701-6717	material at hand	material at hand	OBT:001589	hand	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000723/OBT:001268/OBT:001589	hand	hand	1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	6987-6992	cells	cell	OBT:000061	cell	/OBT:000001/OBT:000014/OBT:000061			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	6996-7001	males	male	OBT:001192	male animal	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:001192			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	7249-7259	Astragalus	Astragalus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	7311-7322	C. dimorpha	C._dimorpha	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	7450-7470	Rhodochlanis bicolor	Rhodochlanis bicolor	OBT:004144	milo	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001135/OBT:004143/OBT:004144	Sorghum bicolor	bicolor	0.3333333333333333
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	7602-7613	Aphalaridae	Aphalaridae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	7629-7639	Agonoscena	Agonoscena	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	7813-7833	Agonoscena pistaciae	Agonoscena_pistaciae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	8233-8239	larvae	larva	OBT:001609	larvae	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001609			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	8287-8300	Pistacia vera	Pistacia_vera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	8302-8305	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	8355-8365	Agonoscena	Agonoscena	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	8739-8749	Agonoscena	Agonoscena	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	9185-9196	Aphalaridae	Aphalaridae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	9217-9242	Blastopsylla occidentalis	Blastopsylla_occidentalis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	9293-9304	Calophyidae	Calophyidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	9375-9386	Homotomidae	Homotomidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	9388-9402	Homotoma ficus	Homotoma_ficus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	9594-9599	Bursa	Bursa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	9781-9787	Cedrus	Cedrus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	9793-9805	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	9923-9935	cedar
+forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10040-10050	oak forest	oak forest	OBT:003911	oak forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119/OBT:003864/OBT:003911			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10040-10043	oak	oak	OBT:001666	oak	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360/OBT:001666			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10137-10149	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10265-10277	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10406-10418	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10519-10524	Abies	Aby	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10621-10633	Ficus carica	Ficus_carica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10635-10638	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10743-10756	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10758-10762	Rosa	Rosa	OBT:004170	rose	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:004170			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10771-10774	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10879-10891	Ficus carica	Ficus_carica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	10893-10896	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11102-11114	Ficus carica	Ficus_carica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11116-11126	Morus alba	Morus_alba	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11128-11144	Prunus armeniaca	Prunus_armeniaca	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11146-11161	Punica granatum	Punica_granatum	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11163-11177	Pyrus communis	Pyrus_communis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11179-11190	Quercus sp.	Quercus_sp.	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11192-11195	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11245-11253	Liviidae	Liviidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11270-11280	Diaphorina	Diaphorina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11582-11592	E. olivina	E._olivina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11698-11703	adult	adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11712-11719	abdomen	abdoman	OBT:000175	abdomen	/OBT:000001/OBT:000014/OBT:000039/OBT:000175			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11822-11835	Olea europaea	Olea_europaea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	11837-11840	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	12312-12316	Olea	Olea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	12327-12347	Crataegus oxyacantha	Crataegus_oxyacantha	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	12349-12361	Ficus carica	Ficus_carica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	12363-12366	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	12673-12681	Fraxinus	Fraxinus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	13003-13011	Fraxinus	Fraxinus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	13017-13020	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	13054-13062	Liviidae	Liviidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	13391-13403	Paurocephala	Paurocephala	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	13649-13661	Populus alba	Populus_alba	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	13663-13666	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	13994-14007	Camarotoscena	Camarotoscena	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	14312-14327	L. mediterranea	L._mediterranea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	14359-14370	Livia junci	Livia_junci	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	14586-14595	Syntomoza	Syntomoza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	14772-14781	Psyllidae	Psyllidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	14783-14792	Psyllinae	Psyllinae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	14794-14812	Arytainilla cytisi	Arytainilla_cytisi	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	14896-14904	Arytaina	Arytaina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	14958-14976	Baeopelma colorata	Baeopelma_colorata	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	15109-15121	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	15239-15251	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	15349-15361	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	15600-15606	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	15730-15735	Alnus	Alnus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	15907-15912	Alnus	Alnus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	15988-15996	Platanus	Platanus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	16158-16163	Bursa	Bursa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	16376-16381	males	male	OBT:001192	male animal	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:001192			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	16740-16749	Crataegus	Crataegus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	16762-16766	tree	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	16768-16771	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	16907-16917	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	16979-16989	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	17170-17180	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	17509-17521	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	17587-17596	Salix sp.	Salix_sp.	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	17674-17694	Hippophae rhamnoides	Hippophae_rhamnoide	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	17696-17699	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	17815-17828	various trees	various tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360	tree	trees	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	17830-17833	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	17883-17893	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	18041-18047	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	18228-18239	C. alaterni	C._alaterni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	18398-18410	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	18527-18539	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	18664-18670	Cedrus	Cedrus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	18676-18688	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	18829-18840	C. pyricola	C._pyricola	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	18958-18978	Cacopsylla peregrina	Cacopsylla_peregrina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	19305-19314	Crataegus	Crataegus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	19399-19408	Crataegus	Crataegus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	19475-19484	Crataegus	Crataegus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	19510-19520	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	19832-19841	Crataegus	Crataegus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	19854-19858	tree	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	19860-19863	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	20034-20044	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	20095-20105	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	20178-20183	Bursa	Bursa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	20333-20348	Medicago
+sativa	Medicago sativa	OBT:003312	Alfalfa	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:002780/OBT:003277/OBT:003312,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001247/OBT:003277/OBT:003312,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:002780/OBT:003277/OBT:003312			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	20350-20362	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	20384-20394	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	20647-20652	Abies	Aby	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	20658-20670	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	20786-20798	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	20918-20930	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	21047-21059	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	21186-21198	cedar
+forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	21302-21307	Abies	Aby	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	21534-21539	Bursa	Bursa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	21784-21793	Malus sp.	Malus_sp.	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	22209-22215	Cedrus	Cedrus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	22360-22375	Malus domestica	Malus_domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	22479-22498	Cacopsylla saliceti	Cacopsylla_saliceti	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	22556-22566	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	22651-22661	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	22883-22892	Elaeagnus	Elaeagnus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	22974-22983	Salix sp.	Salix_sp.	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	23016-23032	material at hand	material at hand	OBT:001589	hand	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000723/OBT:001268/OBT:001589	hand	hand	1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	23134-23139	Males	Male	OBT:001192	male animal	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:001192			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	23221-23231	Cyamophila	Cyamophila	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	23320-23330	Cyamophila	Cyamophila	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	23402-23408	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	23439-23442	Mus	Mus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	23489-23499	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	23560-23570	Cyamophila	Cyamophila	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	23906-23914	Fabaceae	Fabaceae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	23984-23995	Glycyrrhiza	Glycyrrhiza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	24145-24163	Glycyrrhiza glabra	Glycyrrhiza_glabra	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	24165-24175	Morus alba	Morus_alba	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	24177-24180	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	24305-24317	Triticum sp.	Triticum_sp.	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	24319-24328	Crataegus	Crataegus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	24341-24344	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	24470-24488	Glycyrrhiza glabra	Glycyrrhiza_glabra	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	24490-24493	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	24543-24553	Cyamophila	Cyamophila	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	24720-24727	Livilla	Livilla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	24854-24870	Livilla horvathi	Livilla_horvathi	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	25074-25093	Livilla spectabilis	Livilla_spectabilis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	25229-25236	Genista	Genista	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	25305-25310	grass	grass	OBT:001135	grass plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001135			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	25524-25535	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	25603-25614	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	25892-25905	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	25907-25910	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26047-26067	Hippophae rhamnoides	Hippophae_rhamnoide	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26069-26074	trees	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26076-26079	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26243-26256	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26258-26270	Ficus carica	Ficus_carica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26272-26290	Glycyrrhiza glabra	Glycyrrhiza_glabra	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26292-26295	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26389-26402	Olea europaea	Olea_europaea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26404-26407	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26505-26511	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26520-26523	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26622-26635	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26637-26640	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26749-26769	Crataegus oxyacantha	Crataegus_oxyacantha	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26771-26784	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26786-26789	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26924-26937	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	26939-26942	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	27039-27052	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	27054-27057	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	27116-27127	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	27306-27310	male	male	OBT:001192	male animal	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:001192			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	27492-27498	apices	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apices	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	27506-27511	veins	vein	OBT:001835	vein	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001175/OBT:001835			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	27750-27756	apices	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apices	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	27764-27769	veins	vein	OBT:001835	vein	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001175/OBT:001835			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	27884-27897	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	27899-27907	Rosaceae	Rosaceae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	27951-27962	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	28103-28116	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	28168-28179	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	28464-28468	head	head	OBT:001142	head	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001142			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	28520-28533	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	28579-28590	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	28612-28625	Prunus dulcis	Prunus_dulcis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	28738-28744	apices	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apices	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	28752-28757	veins	vein	OBT:001835	vein	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001175/OBT:001835			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	28940-28946	apices	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apices	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	28954-28959	veins	vein	OBT:001835	vein	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001175/OBT:001835			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	29063-29067	vein	vein	OBT:001835	vein	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001175/OBT:001835			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	29281-29285	vein	vein	OBT:001835	vein	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001175/OBT:001835			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	29416-29425	Triozidae	Triozidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	29427-29450	Bactericera albiventris	Bactericera_albiventris	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	29511-29517	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	29605-29611	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	29666-29677	Bactericera	Bactericera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	29748-29754	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	29943-29949	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	29998-30019	Bactericera brassicae	Bactericera brassicae	OBT:004114	cabbage aphid	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:001428/OBT:004114	Brevicoryne brassicae	brassicae	0.3333333333333333
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	30092-30098	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	30163-30174	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	30263-30267	head	head	OBT:001142	head	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001142			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	30470-30476	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	30576-30587	Allium cepa	Allium_cepa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	30589-30592	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	30687-30698	Allium cepa	Allium_cepa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	30700-30703	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	30816-30822	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	30824-30835	Bactericera	Bactericera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	30890-30896	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	31092-31104	Phylloplecta	Phylloplecta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	31175-31181	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	31195-31201	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	31273-31287	Trioza alacris	Trioza_alacris	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	31368-31380	Heterotrioza	Heterotrioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	31540-31552	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	31675-31687	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	31809-31821	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	31935-31947	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	32045-32057	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	32148-32153	Abies	Aby	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	32299-32311	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	32523-32529	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	32704-32710	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	32787-32793	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	32886-32892	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	32965-32971	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33059-33071	Heterotrioza	Heterotrioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33250-33259	Elaeagnus	Elaeagnus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33329-33338	Verbascum	Verbascum	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33412-33426	Vitis vinifera	Vitis_vinifera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33428-33431	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33525-33545	Hippophae rhamnoides	Hippophae_rhamnoide	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33547-33550	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33683-33703	Hippophae rhamnoides	Hippophae_rhamnoides	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33705-33716	Rosa canina	Rosa_canina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33718-33722	tree	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33724-33727	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33777-33783	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	33897-33909	Heterotrioza	Heterotrioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	34158-34178	Hippophae rhamnoides	Hippophae_rhamnoides	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	34292-34312	Hippophae rhamnoides	Hippophae_rhamnoides	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	34344-34357	damaged adult	damaged adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.3333333333333333
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	34433-34453	Hippophae rhamnoides	Hippophae_rhamnoide	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	34455-34458	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	34579-34599	Hippophae rhamnoides	Hippophae_rhamnoide	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	34601-34604	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	34708-34728	Hippophae rhamnoides	Hippophae_rhamnoide	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	34730-34733	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	34832-34850	Glycyrrhiza glabra	Glycyrrhiza_glabra	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	34852-34855	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35133-35143	Morus alba	Morus_alba	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35145-35148	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35300-35309	Crataegus	Crataegus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35322-35325	leg	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35445-35451	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35525-35537	Heterotrioza	Heterotrioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35553-35567	Trioza urticae	Trioza_urticae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35783-35788	grass	grass	OBT:001135	grass plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001135			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35808-35814	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35937-35951	olive psyllids	olive psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllid	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35937-35942	olive	olive	OBT:003008	olive	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003008,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003008			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35961-35970	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	35972-35982	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36161-36183	Euphyllura pakistanica	Euphyllura_pakistanica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36192-36197	olive	olive	OBT:003008	olive	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003008,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003008			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36288-36300	Blastopsylla	Blastopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36315-36324	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36326-36335	Psyllidae	Psyllidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36340-36367	new pest of Eucalyptus
+spp.	new pest of Eucalyptus spp.	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pest	0.2
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36407-36412	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36548-36557	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36559-36569	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36697-36706	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36708-36718	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36801-36806	pests	pest	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pests	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36824-36840	subtropical
+crop	subtropical crop	OBT:000246	crop	/OBT:000001/OBT:000004/OBT:000034/OBT:000246	crop	crop	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36845-36862	ornamental plants	ornamental plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plant	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36864-36873	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	36875-36885	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37013-37038	Palaearctic pear psyllids	Palaearctic pear psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllid	0.3333333333333333
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37025-37029	pear	pear	OBT:003012	pear	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003012,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003012			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37040-37049	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37051-37060	Psyllidae	Psyllidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37171-37180	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37182-37192	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37264-37272	psyllids	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37274-37283	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37285-37295	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37313-37318	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37323-37335	stone fruits	stone fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37449-37467	Turkish plant-lice	Turkish plant - lice	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.3333333333333333
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37457-37462	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37469-37478	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37480-37490	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37595-37605	plant-lice	plant - lice	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37595-37600	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37607-37616	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37618-37628	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37765-37777	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37874-37886	cedar forest	cedar forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37934-37938	hand	hand	OBT:001589	hand	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000723/OBT:001268/OBT:001589			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	37948-37954	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	38118-38123	Bursa	Bursa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	38345-38355	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	38800-38808	Homotoma	Homotoma	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	38819-38828	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	38830-38841	Homotomidae	Homotomidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	38846-38850	Pest	Pest	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pests	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	38919-38929	plant-lice	plant - lice	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	38919-38924	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	38931-38940	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	38942-38952	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39058-39076	jumping plant lice	jumping_plant_lice	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39078-39085	Insecta	Insecta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39087-39096	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39098-39108	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39182-39200	jumping plant lice	jumping_plant_lice	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39204-39212	psyllids	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39214-39223	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39375-39395	plant lice of Turkey	plant lice of Turkey	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.3333333333333333
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39375-39380	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39397-39406	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39408-39418	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39533-39553	plant
+lice of Turkey	plant lice of Turkey	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.3333333333333333
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39533-39538	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39555-39564	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39566-39576	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39681-39691	plant lice	plant lice	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39681-39686	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39693-39702	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39704-39714	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39801-39807	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39880-39889	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39891-39901	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	39904-39909	Folia	Folia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40009-40019	Agonoscena	Agonoscena	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40029-40038	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40040-40050	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40052-40063	Aphalaridae	Aphalaridae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40261-40271	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40273-40284	Aphalaridae	Aphalaridae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40386-40394	Psyllids	Psyllids	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40396-40405	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40724-40742	jumping plant lice	jumping_plant_lice	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40752-40761	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40763-40773	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	40959-40994	adults of
+Agonescena pistaciae Burc	adult of Agonescena pistaciae Burc	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.2
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41007-41016	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41018-41027	Psyllidae	Psyllidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41049-41058	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41199-41209	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41211-41220	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41276-41285	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41409-41413	pest	p	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pest	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41428-41445	eucalypt psyllids	eucalypt psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllid	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41447-41454	Insecta	Insecta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41456-41465	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41467-41477	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41532-41536	Pest	Pest	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pests	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41552-41556	Pest	Pest	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pests	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41740-41760	Euphyllura straminea	Euphyllura_straminea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41771-41780	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41782-41791	Psyllidae	Psyllidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41936-41949	olive psyllid	olive psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllid	0.5
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41936-41941	olive	olive	OBT:003008	olive	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003008,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003008			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41951-41980	Euphyllura straminea Loginova	Euphyllura_straminea_Loginova	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41982-41991	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	41993-42002	Psyllidae	Psyllidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	42008-42013	olive	olive	OBT:003008	olive	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003008,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003008			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	42211-42222	fruit trees	fruit tree	OBT:001567	fruit tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	42211-42216	fruit	fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	42273-42278	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	42411-42427	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	42613-42622	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	42628-42637	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2014_Drohojowska_&_Burckhardt_The_jumping_plan_translation	abstract	42664-42667	Mus	Mus	OBT:000010	living organism	/OBT:000001/OBT:000010			

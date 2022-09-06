@@ -1,5 +1,5 @@
 <h1 align="center">Text Extraction</h1>
-<div style="text-align:center" align="center"><img width="450" src=https://github.com/e-lubrini/psylloidea_ontology/blob/main/text_extraction.drawio.png /></div>
+<div style="text-align:center" align="center"><img width="450" src=https://github.com/e-lubrini/psylloidea_ontology/blob/main/img/te_flowchart.png /></div>
 
 ## Directory Tree
 

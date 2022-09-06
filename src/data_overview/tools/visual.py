@@ -238,10 +238,18 @@ def plot(data,
     plt.title(title)
 
     if save_dir:
+        try:
+            os.makedirs(save_dir)
+        except FileExistsError:
+            pass
         filename = '_'.join(title.lower().split(' ')) +'.png'
         save_path = os.path.join(save_dir,filename)
         plt.savefig(save_path, bbox_inches='tight')
     elif save_path:
+        try:
+            os.makedirs(save_path)
+        except FileExistsError:
+            pass
         plt.savefig(save_path, bbox_inches='tight')
     plt.show()
     

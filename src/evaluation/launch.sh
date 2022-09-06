@@ -43,5 +43,5 @@ while getopts 'hpl:vt' flag
     done
 
 
-python compare_label-prediction.py $LABEL_FILE #$PREDICTION_FILE
-python scores_and_visuals.py
+python tools/compare_label-prediction.py $LABEL_FILE #$PREDICTION_FILE
+python tools/scores_and_visuals.py

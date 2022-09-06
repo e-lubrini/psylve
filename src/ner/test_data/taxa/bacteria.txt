@@ -1,0 +1,110 @@
+	psyllid_taxa	abstract	503-508	Maroc	Maroc	ncbi:2133	Spiroplasma citri	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:544448/ncbi:31969/ncbi:186328/ncbi:2131/ncbi:2132/ncbi:2133	species
+	psyllid_taxa	abstract	1281-1283	KR	KR	ncbi:1852309	Calorithrix insularis	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1930617/ncbi:1930613/ncbi:1852309	species
+	psyllid_taxa	abstract	2072-2074	PG	PG	bd:12962	Pseudomonas vancouverensis DSM 8368	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:135621/ncbi:286/ncbi:95300/bd:12962	strain
+	psyllid_taxa	abstract	3957-3963	Arabia	Arabia	ncbi:2005386	Arabiibacter	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:84998/ncbi:1643822/ncbi:1643826/ncbi:2005386	genus
+	psyllid_taxa	abstract	4104-4110	Syrien	Syrien	bd:12862	Pseudomonas marginalis DSM 7527	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:135621/ncbi:286/ncbi:136843/ncbi:298/bd:12862	strain
+	psyllid_taxa	abstract	4358-4361	SRL	SRL	bd:15751	Streptomyces sp. DSM 40852	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1760/ncbi:85011/ncbi:2062/ncbi:1883/ncbi:2593676/ncbi:1931/bd:15751	strain
+	psyllid_taxa	abstract	5209-5211	WF	WF	bd:12661	Propionicimonas paludicola DSM 15598	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1760/ncbi:85009/ncbi:85015/ncbi:236052/ncbi:185243/bd:12661	strain
+	psyllid_taxa	abstract	7019-7021	AK	AK	ncbi:1423764	Lentilactobacillus kefiri DSM 20587 = JCM 5818	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:186826/ncbi:33958/ncbi:2767893/ncbi:33962/ncbi:1423764	strain
+	psyllid_taxa	abstract	7413-7415	DE	DE	ncbi:1774373	Alteromonas mediterranea DE	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:135622/ncbi:72275/ncbi:2903219/ncbi:226/ncbi:314275/ncbi:1774373	strain
+	psyllid_taxa	abstract	9304-9307	SYR	SYR	ncbi:1123282	Sporobacter termitidis DSM 10068	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:216572/ncbi:44748/ncbi:44749/ncbi:1123282	strain
+	psyllid_taxa	abstract	11679-11681	SC	SC	ncbi:404941	Mycobacteroides salmoniphilum	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1760/ncbi:85007/ncbi:1762/ncbi:670516/ncbi:404941	species
+	psyllid_taxa	abstract	12035-12042	Formosa	Formosa	ncbi:225842	Formosa	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783270/ncbi:68336/ncbi:976/ncbi:117743/ncbi:200644/ncbi:49546/ncbi:225842	genus
+	psyllid_taxa	abstract	15946-15948	NI	NI	ncbi:81932	Methylotuvimicrobium japanense	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:135618/ncbi:403/ncbi:2822410/ncbi:81932	species
+	psyllid_taxa	abstract	16208-16217	Antarctic	Antarctic	bd:23372	Pleomorphochaeta sp. DSM 6211	/ncbi:1/ncbi:131567/ncbi:2/ncbi:203691/ncbi:203692/ncbi:136/ncbi:2791015/ncbi:1920504/bd:23372	strain
+	psyllid_taxa	abstract	16547-16549	JL	JL	ncbi:224999	Tepidanaerobacter syntrophicus	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:2770089/ncbi:2770092/ncbi:499228/ncbi:224999	species
+	psyllid_taxa	abstract	18312-18314	ID	ID	bd:2750	Pseudoclostridium thermosuccinogenes DSM 5808	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:216572/ncbi:2304693/ncbi:84032/bd:2750	strain
+	psyllid_taxa	abstract	19362-19364	BT	BT	ncbi:68035	Sporotomaculum hydroxybenzoicum	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:2867375/ncbi:68034/ncbi:68035	species
+	psyllid_taxa	abstract	19362-19364	BT	BT	ncbi:309798	Coprothermobacter proteolyticus DSM 5265	/ncbi:1/ncbi:131567/ncbi:2/ncbi:2138240/ncbi:2138243/ncbi:2138246/ncbi:2138247/ncbi:68335/ncbi:35786/ncbi:309798	strain
+	psyllid_taxa	abstract	23076-23078	IV	IV	bd:685	Bacillus licheniformis DSM 394	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186817/ncbi:1386/ncbi:653685/ncbi:1402/bd:685	strain
+	psyllid_taxa	abstract	25503-25505	NC	NC	ncbi:37931	Paenarthrobacter ureafaciens	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1760/ncbi:85006/ncbi:1268/ncbi:1742992/ncbi:37931	species
+	psyllid_taxa	abstract	27356-27359	CTM	CTM	ncbi:558152	Chryseobacterium piperi	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783270/ncbi:68336/ncbi:976/ncbi:117743/ncbi:200644/ncbi:2762318/ncbi:2782232/ncbi:59732/ncbi:558152	species
+	psyllid_taxa	abstract	27861-27864	NTA	NTA	bd:11859	Aminobacter aminovorans DSM 14059	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28211/ncbi:356/ncbi:69277/ncbi:31988/ncbi:83263/bd:11859	strain
+	psyllid_taxa	abstract	28605-28607	JM	JM	ncbi:391606	Caldanaerobacter subterraneus subsp. pacificus DSM 12653	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:68295/ncbi:186814/ncbi:249529/ncbi:911092/ncbi:109807/ncbi:391606	strain
+	psyllid_taxa	abstract	28977-28980	NAL	NAL	ncbi:679936	Sulfobacillus acidophilus DSM 10332	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:538999/ncbi:539000/ncbi:28033/ncbi:53633/ncbi:679936	strain
+	psyllid_taxa	abstract	29763-29765	CG	CG	ncbi:1121331	Hathewaya proteolytica DSM 3090	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:31979/ncbi:1769729/ncbi:29365/ncbi:1121331	strain
+	psyllid_taxa	abstract	29930-29932	LT	LT	ncbi:744406	Sphaerotilus hippei	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28216/ncbi:80840/ncbi:224471/ncbi:34102/ncbi:744406	species
+	psyllid_taxa	abstract	30257-30259	DB	DB	ncbi:29527	Syntrophobacter wolinii	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:68525/ncbi:28221/ncbi:213462/ncbi:213465/ncbi:29526/ncbi:29527	species
+	psyllid_taxa	abstract	30733-30735	FO	FO	bd:4108	Desulfovibrio vulgaris DSM 6617	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:68525/ncbi:28221/ncbi:213115/ncbi:194924/ncbi:872/ncbi:881/bd:4108	strain
+	psyllid_taxa	abstract	30972-30975	Buc	Buc	ncbi:1552750	Zoogloea oleivorans	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28216/ncbi:206389/ncbi:2008794/ncbi:349/ncbi:1552750	species
+	psyllid_taxa	abstract	31019-31021	SG	SG	ncbi:279208	Paenibacillus hodogayensis	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186822/ncbi:44249/ncbi:279208	species
+	psyllid_taxa	abstract	31087-31089	SB	SB	ncbi:56780	Syntrophus aciditrophicus SB	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:68525/ncbi:28221/ncbi:2914038/ncbi:213468/ncbi:43773/ncbi:316277/ncbi:56780	strain
+	psyllid_taxa	abstract	31087-31089	SB	SB	bd:130947	Enterococcus hirae DSM 28619	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:186826/ncbi:81852/ncbi:1350/ncbi:1354/bd:130947	strain
+	psyllid_taxa	abstract	31979-31981	CI	CI	ncbi:572480	Arcobacter nitrofigilis DSM 7299	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:68525/ncbi:29547/ncbi:213849/ncbi:2808963/ncbi:28196/ncbi:28199/ncbi:572480	strain
+	psyllid_taxa	abstract	33689-33691	VI	VI	bd:10888	Rhodococcus fascians DSM 44425	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1760/ncbi:85007/ncbi:85025/ncbi:1827/ncbi:1828/bd:10888	strain
+	psyllid_taxa	abstract	33689-33691	VI	VI	bd:12750	Azotobacter vinelandii DSM 2290	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:135621/ncbi:351/ncbi:352/ncbi:354/bd:12750	strain
+	psyllid_taxa	abstract	33816-33818	IV	IV	bd:685	Bacillus licheniformis DSM 394	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186817/ncbi:1386/ncbi:653685/ncbi:1402/bd:685	strain
+	psyllid_taxa	abstract	34354-34356	HM	HM	ncbi:1652145	Rectinema cohabitans	/ncbi:1/ncbi:131567/ncbi:2/ncbi:203691/ncbi:203692/ncbi:136/ncbi:2845253/ncbi:1937016/ncbi:1652145	species
+	psyllid_taxa	abstract	34849-34851	BM	BM	ncbi:745119	Brassicibacter mesophilus	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:2848916/ncbi:1433991/ncbi:745119	species
+	psyllid_taxa	abstract	34849-34851	BM	BM	ncbi:1117955	Pseudomonas extremaustralis 14-3	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:135621/ncbi:286/ncbi:359110/ncbi:1117955	strain
+	psyllid_taxa	abstract	35657-35659	MH	MH	ncbi:1219045	Sphingobium herbicidovorans NBRC 16415	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28211/ncbi:204457/ncbi:41297/ncbi:165695/ncbi:76947/ncbi:1219045	strain
+	psyllid_taxa	abstract	35657-35659	MH	MH	ncbi:1675036	Megasphaera hexanoica	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:909932/ncbi:1843489/ncbi:31977/ncbi:906/ncbi:1675036	species
+	psyllid_taxa	abstract	38877-38880	DMA	DMA	bd:23377	unclassified bacterium DSM 8827	/ncbi:1/ncbi:131567/ncbi:2/ncbi:49928/ncbi:1869227/bd:23377	strain
+	psyllid_taxa	abstract	38951-38953	MC	MC	ncbi:650508	Caldithrix palaeochoryensis	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1930617/ncbi:1962850/ncbi:1962852/ncbi:1962854/ncbi:187144/ncbi:650508	species
+	psyllid_taxa	abstract	38951-38953	MC	MC	ncbi:1068975	Acetobacterium dehalogenans DSM 11527	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:186806/ncbi:33951/ncbi:82116/ncbi:1068975	strain
+	psyllid_taxa	abstract	39403-39405	CR	CR	ncbi:217041	Caminibacter profundus	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:68525/ncbi:29547/ncbi:235899/ncbi:224467/ncbi:191301/ncbi:217041	species
+	psyllid_taxa	abstract	41749-41752	NIC	NIC	bd:12890	Pseudomonas putida DSM 4477	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:135621/ncbi:286/ncbi:136845/ncbi:303/bd:12890	strain
+	psyllid_taxa	abstract	46600-46602	II	II	ncbi:31910	Halovibrio variabilis	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:135619/ncbi:28256/ncbi:576341/ncbi:31910	species
+	psyllid_taxa	abstract	46600-46602	II	II	bd:11482	Paenibacillus polymyxa DSM 365	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186822/ncbi:44249/ncbi:1406/bd:11482	strain
+	psyllid_taxa	abstract	46833-46835	SZ	SZ	ncbi:398767	Trichlorobacter lovleyi SZ	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:68525/ncbi:28221/ncbi:69541/ncbi:213422/ncbi:115782/ncbi:313985/ncbi:398767	strain
+	psyllid_taxa	abstract	47292-47294	AI	AI	bd:4850	Escherichia coli DSM 10793	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:91347/ncbi:543/ncbi:561/ncbi:562/bd:4850	strain
+	psyllid_taxa	abstract	47820-47822	Br	Br	ncbi:1380763	Paenibacillus darwinianus	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186822/ncbi:44249/ncbi:1380763	species
+	psyllid_taxa	abstract	47823-47825	BG	BG	bd:11410	Brevibacillus parabrevis DSM 362	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186822/ncbi:55080/ncbi:54914/bd:11410	strain
+	psyllid_taxa	abstract	49413-49422	Wisconsin	Wisconsin	ncbi:2020671	Ehrlichia muris subsp. eauclairensis	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28211/ncbi:766/ncbi:942/ncbi:943/ncbi:106178/ncbi:35795/ncbi:2020671	subspecies
+	psyllid_taxa	abstract	50323-50325	LK	LK	bd:13533	Agrobacterium sp. DSM 11401	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28211/ncbi:356/ncbi:82115/ncbi:227290/ncbi:357/ncbi:2632611/ncbi:361/bd:13533	strain
+	psyllid_taxa	abstract	51325-51328	CAB	CAB	bd:476	Marinobacter sp. DSM 11874	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:2887365/ncbi:2742/ncbi:83889/ncbi:50741/bd:476	strain
+	psyllid_taxa	abstract	51635-51637	WS	WS	ncbi:329406	Thiorhodococcus mannitoliphagus	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:135613/ncbi:1046/ncbi:57488/ncbi:329406	species
+	psyllid_taxa	abstract	51635-51637	WS	WS	bd:139868	Spirochaeta sp. DSM 17736	/ncbi:1/ncbi:131567/ncbi:2/ncbi:203691/ncbi:203692/ncbi:136/ncbi:137/ncbi:146/ncbi:95645/ncbi:28185/bd:139868	strain
+	psyllid_taxa	abstract	52156-52158	PW	PW	ncbi:1346	Streptococcus iniae	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:186826/ncbi:1300/ncbi:1301/ncbi:1346	species
+	psyllid_taxa	abstract	52156-52158	PW	PW	bd:334	Alcaligenes sp. DSM 8375	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28216/ncbi:80840/ncbi:506/ncbi:507/ncbi:259357/ncbi:512/bd:334	strain
+	psyllid_taxa	abstract	52502-52504	VI	VI	bd:10888	Rhodococcus fascians DSM 44425	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1760/ncbi:85007/ncbi:85025/ncbi:1827/ncbi:1828/bd:10888	strain
+	psyllid_taxa	abstract	52502-52504	VI	VI	bd:12750	Azotobacter vinelandii DSM 2290	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:135621/ncbi:351/ncbi:352/ncbi:354/bd:12750	strain
+	psyllid_taxa	abstract	52535-52537	SI	SI	ncbi:370438	Pelotomaculum thermopropionicum SI	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:186807/ncbi:191373/ncbi:110500/ncbi:370438	strain
+	psyllid_taxa	abstract	53509-53511	VI	VI	bd:10888	Rhodococcus fascians DSM 44425	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1760/ncbi:85007/ncbi:85025/ncbi:1827/ncbi:1828/bd:10888	strain
+	psyllid_taxa	abstract	53509-53511	VI	VI	bd:12750	Azotobacter vinelandii DSM 2290	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:135621/ncbi:351/ncbi:352/ncbi:354/bd:12750	strain
+	psyllid_taxa	abstract	54474-54476	ID	ID	bd:2750	Pseudoclostridium thermosuccinogenes DSM 5808	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:216572/ncbi:2304693/ncbi:84032/bd:2750	strain
+	psyllid_taxa	abstract	54827-54829	YT	YT	ncbi:135719	Sphingobium amiense	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28211/ncbi:204457/ncbi:41297/ncbi:165695/ncbi:135719	species
+	psyllid_taxa	abstract	55542-55544	VI	VI	bd:10888	Rhodococcus fascians DSM 44425	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1760/ncbi:85007/ncbi:85025/ncbi:1827/ncbi:1828/bd:10888	strain
+	psyllid_taxa	abstract	55542-55544	VI	VI	bd:12750	Azotobacter vinelandii DSM 2290	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:135621/ncbi:351/ncbi:352/ncbi:354/bd:12750	strain
+	psyllid_taxa	abstract	57078-57080	Rd	Rd	ncbi:71421	Haemophilus influenzae Rd KW20	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:135625/ncbi:712/ncbi:724/ncbi:727/ncbi:71421	strain
+	psyllid_taxa	abstract	59642-59645	SCA	SCA	ncbi:312168	Anaerovirgula multivorans	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:538999/ncbi:561442/ncbi:312168	species
+	psyllid_taxa	abstract	60356-60358	Rd	Rd	ncbi:71421	Haemophilus influenzae Rd KW20	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:135625/ncbi:712/ncbi:724/ncbi:727/ncbi:71421	strain
+	psyllid_taxa	abstract	60437-60439	LA	LA	bd:12858	Pseudomonas fluorescens DSM 50415	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:135621/ncbi:286/ncbi:136843/ncbi:294/bd:12858	strain
+	psyllid_taxa	abstract	63909-63912	MAI	MAI	ncbi:55883	Mycobacterium avium-intracellulare	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1760/ncbi:85007/ncbi:1762/ncbi:1763/ncbi:120793/ncbi:55883	species
+	psyllid_taxa	abstract	66350-66353	PUE	PUE	ncbi:1120952	Aerococcus urinaeequi DSM 20341 = CCUG 28094	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:186826/ncbi:186827/ncbi:1375/ncbi:51665/ncbi:1120952	strain
+	psyllid_taxa	abstract	66413-66415	TR	TR	ncbi:947034	Vulcanithermus mediatlanticus DSM 14978	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1297/ncbi:188787/ncbi:68933/ncbi:188786/ncbi:206044/ncbi:206045/ncbi:947034	strain
+	psyllid_taxa	abstract	70481-70483	PE	PE	bd:130929	Clostridium tepidum DSM 18688	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:31979/ncbi:1485/ncbi:1962263/bd:130929	strain
+	psyllid_taxa	abstract	71355-71357	MK	MK	ncbi:536	Chromobacterium violaceum	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28216/ncbi:206351/ncbi:1499392/ncbi:90153/ncbi:535/ncbi:536	species
+	psyllid_taxa	abstract	72448-72450	MT	MT	ncbi:313369	Methylophilus quaylei	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28216/ncbi:32003/ncbi:32011/ncbi:16/ncbi:313369	species
+	psyllid_taxa	abstract	73218-73220	SD	SD	ncbi:1705717	Patulibacter brassicae	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1497346/ncbi:588673/ncbi:361606/ncbi:361607/ncbi:1705717	species
+	psyllid_taxa	abstract	73944-73947	NGA	NGA	ncbi:891968	Acetomicrobium mobile DSM 13181	/ncbi:1/ncbi:131567/ncbi:2/ncbi:508458/ncbi:649775/ncbi:649776/ncbi:649777/ncbi:49894/ncbi:97477/ncbi:891968	strain
+	psyllid_taxa	abstract	74059-74061	OM	OM	ncbi:66199	Syntrophomonas sapovorans	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:68298/ncbi:862/ncbi:66199	species
+	psyllid_taxa	abstract	75840-75842	KM	KM	ncbi:558151	Chryseobacterium angstadtii	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783270/ncbi:68336/ncbi:976/ncbi:117743/ncbi:200644/ncbi:2762318/ncbi:2782232/ncbi:59732/ncbi:558151	species
+	psyllid_taxa	abstract	75840-75842	KM	KM	ncbi:1122946	Pelobacter seleniigenes DSM 18267	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:68525/ncbi:28221/ncbi:69541/ncbi:213421/ncbi:18/ncbi:407188/ncbi:1122946	strain
+	psyllid_taxa	abstract	77835-77837	TH	TH	bd:139913	Oceanobacillus sp. DSM 15766	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186817/ncbi:182709/ncbi:2630292/ncbi:1871622/bd:139913	strain
+	psyllid_taxa	abstract	79512-79515	FLA	FLA	bd:16013	Streptomyces sp. DSM 41951	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1760/ncbi:85011/ncbi:2062/ncbi:1883/ncbi:2593676/ncbi:1931/bd:16013	strain
+	psyllid_taxa	abstract	83319-83321	Br	Br	ncbi:1380763	Paenibacillus darwinianus	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186822/ncbi:44249/ncbi:1380763	species
+	psyllid_taxa	abstract	85285-85288	CHI	CHI	bd:140223	Coleofasciculus chtonoplastes DSM 104232	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1798711/ncbi:1117/ncbi:1301283/ncbi:1150/ncbi:1892251/ncbi:669368/bd:140223	strain
+	psyllid_taxa	abstract	85811-85813	MP	MP	ncbi:1026882	Methylophaga aminisulfidivorans MP	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72273/ncbi:135616/ncbi:40222/ncbi:230105/ncbi:1026882	strain
+	psyllid_taxa	abstract	87632-87634	Br	Br	ncbi:1380763	Paenibacillus darwinianus	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186822/ncbi:44249/ncbi:1380763	species
+	psyllid_taxa	abstract	87662-87664	GW	GW	ncbi:1123007	Proteiniborus ethanoligenes DSM 21650	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:186802/ncbi:538999/ncbi:415014/ncbi:415015/ncbi:1123007	strain
+	psyllid_taxa	abstract	87938-87940	VG	VG	bd:17292	Vibrio ruber DSM 14379	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:135623/ncbi:641/ncbi:662/ncbi:184755/bd:17292	strain
+	psyllid_taxa	abstract	88626-88628	CN	CN	bd:5141	Serratia marcescens DSM 12483	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:91347/ncbi:1903411/ncbi:613/ncbi:615/bd:5141	strain
+	psyllid_taxa	abstract	90500-90502	TC	TC	bd:11414	Brevibacillus parabrevis DSM 5618	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186822/ncbi:55080/ncbi:54914/bd:11414	strain
+	psyllid_taxa	abstract	96962-96964	SH	SH	bd:16663	Syntrophus buswellii DSM 102360	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:68525/ncbi:28221/ncbi:2914038/ncbi:213468/ncbi:43773/ncbi:43774/bd:16663	strain
+	psyllid_taxa	abstract	97520-97526	Walter	Walter	bd:24354	Pseudomonas aeruginosa DSM 12055	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:135621/ncbi:286/ncbi:136841/ncbi:287/bd:24354	strain
+	psyllid_taxa	abstract	99929-99931	SJ	SJ	ncbi:862908	Halobacteriovorax marinus SJ	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1553900/ncbi:2024979/ncbi:1652132/ncbi:1652133/ncbi:97084/ncbi:862908	strain
+	psyllid_taxa	abstract	101017-101020	Ash	Ash	ncbi:2107	Mycoplasmopsis pulmonis	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:544448/ncbi:31969/ncbi:2085/ncbi:2092/ncbi:2767358/ncbi:2107	species
+	psyllid_taxa	abstract	104337-104341	Kala	Kala	bd:16033	Streptomyces tanashiensis DSM 731	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:201174/ncbi:1760/ncbi:85011/ncbi:2062/ncbi:1883/ncbi:67367/bd:16033	strain
+	psyllid_taxa	abstract	104378-104380	AQ	AQ	bd:1575	Halobacteriovorax marinus DSM 15411	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1553900/ncbi:2024979/ncbi:1652132/ncbi:1652133/ncbi:97084/bd:1575	strain
+	psyllid_taxa	abstract	104485-104487	BF	BF	ncbi:491915	Anoxybacillus flavithermus WK1	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186817/ncbi:150247/ncbi:33934/ncbi:491915	strain
+	psyllid_taxa	abstract	104560-104562	ST	ST	bd:17939	Sphaerotilus montanus DSM 565	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28216/ncbi:80840/ncbi:224471/ncbi:34102/ncbi:522889/bd:17939	strain
+	psyllid_taxa	abstract	104560-104562	ST	ST	bd:12830	Pseudomonas fluorescens DSM 6290	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:72274/ncbi:135621/ncbi:286/ncbi:136843/ncbi:294/bd:12830	strain
+	psyllid_taxa	abstract	104652-104655	NAT	NAT	bd:2946	Delftia acidovorans DSM 17854	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28216/ncbi:80840/ncbi:80864/ncbi:80865/ncbi:80866/bd:2946	strain
+	psyllid_taxa	abstract	105243-105245	SR	SR	ncbi:444093	Ammonifex thiophilus	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:186801/ncbi:68295/ncbi:186814/ncbi:42857/ncbi:42837/ncbi:444093	species
+	psyllid_taxa	abstract	105243-105245	SR	SR	bd:1803	Bradyrhizobium japonicum DSM 1756	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28211/ncbi:356/ncbi:41294/ncbi:374/ncbi:375/bd:1803	strain
+	psyllid_taxa	abstract	105837-105840	LBY	LBY	ncbi:479474	Paenibacillus konsidensis	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:1239/ncbi:91061/ncbi:1385/ncbi:186822/ncbi:44249/ncbi:479474	species
+	psyllid_taxa	abstract	110297-110299	Ac	Ac	bd:17531	Stenotrophomonas maltophilia DSM 14322	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:1236/ncbi:135614/ncbi:32033/ncbi:40323/ncbi:995085/ncbi:40324/bd:17531	strain
+	psyllid_taxa	abstract	111555-111558	SGP	SGP	ncbi:97135	Strawberry green petal phytoplasma	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1783272/ncbi:544448/ncbi:31969/ncbi:186329/ncbi:2146/ncbi:33926/ncbi:85632/ncbi:97135	species
+	psyllid_taxa	abstract	111795-111797	BV	BV	ncbi:184077	Methylovorus mays	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28216/ncbi:32003/ncbi:32011/ncbi:81682/ncbi:184077	species
+	psyllid_taxa	abstract	114600-114610	Khabarovsk	Khabarovsk	bd:134245	Rickettsia raoultii Khabarovsk	/ncbi:1/ncbi:131567/ncbi:2/ncbi:1224/ncbi:28211/ncbi:766/ncbi:775/ncbi:33988/ncbi:780/bd:134245	strain

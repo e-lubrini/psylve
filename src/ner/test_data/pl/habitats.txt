@@ -1,0 +1,6 @@
+	mix	abstract	29-35	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	mix	abstract	91-101	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	mix	abstract	139-145	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	mix	abstract	221-247	Cacopsylla pruni (Scopoli)	Cacopsylla_pruni_(Scopoli)	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	mix	abstract	342-352	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	mix	abstract	390-398	Rosaceae	Rosaceae	OBT:000010	living organism	/OBT:000001/OBT:000010			

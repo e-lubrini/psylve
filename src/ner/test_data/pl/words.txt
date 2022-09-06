@@ -1,0 +1,57 @@
+mix	Chermes
+mix	pruni
+mix	Scopoli
+mix	,
+mix	1763
+mix	Psylla
+mix	pruni
+mix	(
+mix	Scopoli
+mix	,
+mix	1763
+mix	)
+mix	Cacopsylla pruni (Scopoli, 1763)
+mix	Cacopsylla
+mix	(
+mix	Thamnopsylla
+mix	)
+mix	pruni
+mix	(
+mix	Scopoli
+mix	,
+mix	1763
+mix	)
+mix	Psylla
+mix	pruni
+mix	(
+mix	Scopoli
+mix	,
+mix	1763
+mix	)
+mix	Cacopsylla pruni (Scopoli, 1763)
+mix	Use(s)
+mix	(
+mix	chresonymy
+mix	)
+mix	Cacopsylla pruni (Scopoli)
+mix	Cacopsylla pruni (Scopoli, 1763)
+mix	Chermes
+mix	pruni
+mix	Scopoli
+mix	,
+mix	1763
+mix	Cacopsylla pruni (Scopoli, 1763)
+mix	Cacopsylla
+mix	(
+mix	Thamnopsylla
+mix	)
+mix	pruni
+mix	(
+mix	Scopoli
+mix	,
+mix	1763
+mix	)
+mix	Rosaceae
+mix	Turkey
+Italy
+France
