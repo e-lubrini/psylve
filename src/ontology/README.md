@@ -2,12 +2,13 @@
 
 This module contains:
 - The encoded ontology;
-- ...
+- a notebook for the visualisation of the ontology.
 
 ## Directory Structure
 
     onto/
-        ├── ontology.ttl/
-        └── .../
+        ├── ontology.ttl
+        ├── ontology.html
+        └── visualisation.ipynb
 
-#### [◄ Back to main README](https://github.com/e-lubrini/psylve#a-text-to-ontology-informationextraction-toolfor-the-occurrencedistribution-of-plant-pathogen-vectors)
+#### [◄ Back to main README](https://github.com/e-lubrini/psylve/tree/internship)

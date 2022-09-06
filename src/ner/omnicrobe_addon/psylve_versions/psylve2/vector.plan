@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alvisnlp-plan id="psylve_vector">
+  <vector>
+
+ <psyllid>
+  <active>true</active>
+    <psyllid-subph class="Action">
+      <target>documents.sections.layer:taxa[@path ?= "ncbi:394530/"]</target>
+      <action>add:psylve_vector</action>
+      <addToLayer/>
+    </psyllid-subph>
+    
+    <psyllid-exact class="Action">
+      <target>documents.sections.layer:taxa[@path =^ "ncbi:394530"]</target>
+      <action>add:psylve_vector</action>
+      <addToLayer/>
+    </psyllid-exact>
+
+    <psyllid-ne-type class="Action">
+      <target>documents.sections.layer:psylve_vector</target>
+      <action>set:feat:psyllid("psyllid")</action>
+      <setFeatures/>
+    </psyllid-ne-type>
+  </psyllid>
+  </vector>
+</alvisnlp-plan>

@@ -1,0 +1,545 @@
+	psyllid_taxa	abstract	261-267	Jordan	Jordan
+	psyllid_taxa	abstract	317-321	Tula	Tula
+	psyllid_taxa	abstract	839-845	Centro	Centro
+	psyllid_taxa	abstract	1154-1162	Tanzania	Tanzania
+	psyllid_taxa	abstract	1232-1241	Swaziland	Swaziland
+	psyllid_taxa	abstract	1261-1270	Buryatiya	Buryatiya
+	psyllid_taxa	abstract	2063-2071	Dominica	Dominica
+	psyllid_taxa	abstract	2299-2303	Iran	Iran
+	psyllid_taxa	abstract	2521-2528	Chatham	Chatham
+	psyllid_taxa	abstract	3117-3120	Pau	Pau
+	psyllid_taxa	abstract	3322-3337	Finland
+Navidad	Finland_Navidad
+	psyllid_taxa	abstract	3360-3366	Angola	Angola
+	psyllid_taxa	abstract	3652-3661	Lithuania	Lithuania
+	psyllid_taxa	abstract	3814-3831	Mississippi
+Duzee	Mississippi_Duzee
+	psyllid_taxa	abstract	4505-4527	Malaysia
+Hungria
+INDYA	Malaysia_Hungria_INDYA
+	psyllid_taxa	abstract	5223-5239	Beardsley
+Sahara	Beardsley_Sahara
+	psyllid_taxa	abstract	5481-5488	Anguila	Anguila
+	psyllid_taxa	abstract	6215-6220	Bihar	Bihar
+	psyllid_taxa	abstract	6513-6531	Bangladesch
+Tierra	Bangladesch_Tierra
+	psyllid_taxa	abstract	6668-6672	Tuva	Tuva
+	psyllid_taxa	abstract	6876-6884	Delaware	Delaware
+	psyllid_taxa	abstract	6955-6975	osmanica
+Netherlands	osmanica_Netherland
+	psyllid_taxa	abstract	7995-8006	Tadjikistan	Tadjikistan
+	psyllid_taxa	abstract	8056-8074	Bak
+Libéria
+García	Bak_Libéria_García
+	psyllid_taxa	abstract	8155-8160	Jujuy	Jujuy
+	psyllid_taxa	abstract	8543-8563	Connecticut
+Belgorod	Connecticut_Belgorod
+	psyllid_taxa	abstract	8671-8680	Luxemburg	Luxemburg
+	psyllid_taxa	abstract	8798-8805	Algeria	Algeria
+	psyllid_taxa	abstract	9170-9182	SOLSO
+Guinea	SOLSO_Guinea
+	psyllid_taxa	abstract	9256-9263	Bonaire	Bonaire
+	psyllid_taxa	abstract	9716-9726	Mauritania	Mauritania
+	psyllid_taxa	abstract	9758-9764	Azores	Azores
+	psyllid_taxa	abstract	9876-9883	Indiana	Indiana
+	psyllid_taxa	abstract	10495-10502	Rumania	Rumania
+	psyllid_taxa	abstract	10971-10978	Antigua	Antigua
+	psyllid_taxa	abstract	10979-10986	Barbuda	Barbuda
+	psyllid_taxa	abstract	11130-11137	Romania	Romania
+	psyllid_taxa	abstract	11188-11195	Madeira	Madeira
+	psyllid_taxa	abstract	11450-11457	Tokelau	Tokelau
+	psyllid_taxa	abstract	11545-11552	Ontario	Ontario
+	psyllid_taxa	abstract	11780-11788	Zanzibar	Zanzibar
+	psyllid_taxa	abstract	11916-11939	Missouri
+Kermadec
+Sinop	Missouri_Kermadec_Sinop
+	psyllid_taxa	abstract	12162-12180	Uzbekistan
+Pacific	Uzbekistan_Pacific
+	psyllid_taxa	abstract	12217-12226	Guatemala	Guatemala
+	psyllid_taxa	abstract	12372-12379	Senegal	Senegal
+	psyllid_taxa	abstract	12788-12796	Keningau	Keningau
+	psyllid_taxa	abstract	12905-12911	Jersey	Jersey
+	psyllid_taxa	abstract	12926-12939	Jiangsu
+HUNOO	Jiangsu_HUNOO
+	psyllid_taxa	abstract	13589-13594	India	India
+	psyllid_taxa	abstract	14453-14459	Belize	Belize
+	psyllid_taxa	abstract	14736-14744	Oklahoma	Oklahoma
+	psyllid_taxa	abstract	15130-15138	Equateur	Equateur
+	psyllid_taxa	abstract	15546-15553	Estonia	Estonia
+	psyllid_taxa	abstract	16150-16157	Sumatra	Sumatra
+	psyllid_taxa	abstract	16954-16966	Pennsylvania	Pennsylvania
+	psyllid_taxa	abstract	17019-17027	Liaoning	Liaoning
+	psyllid_taxa	abstract	17416-17423	Alagoas	Alagoas
+	psyllid_taxa	abstract	17559-17574	Brunswick
+Bioko	Brunswick_Bioko
+	psyllid_taxa	abstract	17693-17707	Yakutiya
+Aires	Yakutiya_Aires
+	psyllid_taxa	abstract	18002-18007	Japan	Japan
+	psyllid_taxa	abstract	18115-18120	Ghana	Ghana
+	psyllid_taxa	abstract	18223-18228	Yemen	Yemen
+	psyllid_taxa	abstract	18786-18794	Nouvelle	Nouvelle
+	psyllid_taxa	abstract	18890-18905	Coahuila
+Puebla	Coahuila_Puebla
+	psyllid_taxa	abstract	19310-19319	Amsterdam	Amsterdam
+	psyllid_taxa	abstract	19341-19348	Britain	Britain
+	psyllid_taxa	abstract	19504-19511	Nayarit	Nayarit
+	psyllid_taxa	abstract	19664-19676	Korea
+Sainte	Korea_Sainte
+	psyllid_taxa	abstract	20492-20496	Komi	Komi
+	psyllid_taxa	abstract	20752-20756	Tver	Tver
+	psyllid_taxa	abstract	21026-21031	Kaala	Kaala
+	psyllid_taxa	abstract	21064-21080	Luxembourg
+North	Luxembourg_North
+	psyllid_taxa	abstract	21156-21162	Taiwan	Taiwan
+	psyllid_taxa	abstract	21221-21227	Bhutan	Bhutan
+	psyllid_taxa	abstract	21303-21307	L.A.	L.A.
+	psyllid_taxa	abstract	21366-21376	Madagascar	Madagascar
+	psyllid_taxa	abstract	22052-22056	Togo	Togo
+	psyllid_taxa	abstract	22495-22502	Tucuman	Tucuman
+	psyllid_taxa	abstract	22545-22562	Shandong
+Michigan	Shandong_Michigan
+	psyllid_taxa	abstract	22664-22670	Bengal	Bengal
+	psyllid_taxa	abstract	22773-22780	Bolivia	Bolivia
+	psyllid_taxa	abstract	23405-23411	Malawi	Malawi
+	psyllid_taxa	abstract	23842-23850	Kiribati	Kiribati
+	psyllid_taxa	abstract	23946-23950	Asia	Asia
+	psyllid_taxa	abstract	24083-24092	Neuguinea	Neuguinea
+	psyllid_taxa	abstract	24102-24107	Casca	Casca
+	psyllid_taxa	abstract	24298-24308	Bangladesh	Bangladesh
+	psyllid_taxa	abstract	24378-24392	Huasco
+florida	Huasco_florida
+	psyllid_taxa	abstract	24480-24488	Carolina	Carolina
+	psyllid_taxa	abstract	24648-24662	Hills
+Sakhalin	Hills_Sakhalin
+	psyllid_taxa	abstract	24672-24679	Makawao	Makawao
+	psyllid_taxa	abstract	25389-25396	Zealand	Zealand
+	psyllid_taxa	abstract	25555-25563	Alemania	Alemania
+	psyllid_taxa	abstract	25574-25582	Botswana	Botswana
+	psyllid_taxa	abstract	25735-25741	Kansas	Kansas
+	psyllid_taxa	abstract	25766-25771	Jammu	Jammu
+	psyllid_taxa	abstract	25772-25779	Kashmir	Kashmir
+	psyllid_taxa	abstract	26133-26140	Tokelau	Tokelau
+	psyllid_taxa	abstract	26364-26372	Slovenia	Slovenia
+	psyllid_taxa	abstract	26497-26501	Utah	Utah
+	psyllid_taxa	abstract	26753-26760	Tunisia	Tunisia
+	psyllid_taxa	abstract	26842-26880	Gauteng
+GRL
+Macedónia
+Kuba
+Paläozoikum	Gauteng_GRL_Macedónia_Kuba_Paläozoikum
+	psyllid_taxa	abstract	26892-26899	Burundi	Burundi
+	psyllid_taxa	abstract	27608-27619	Nakhichevan	Nakhichevan
+	psyllid_taxa	abstract	27822-27830	Cambodia	Cambodia
+	psyllid_taxa	abstract	27914-27925	Herzegovina	Herzegovina
+	psyllid_taxa	abstract	28177-28184	Iceland	Iceland
+	psyllid_taxa	abstract	28908-28915	Antigua	Antigua
+	psyllid_taxa	abstract	28919-28926	Barbuda	et-Barbuda
+	psyllid_taxa	abstract	29322-29341	Haveli
+Fort
+Capener	Haveli_Fort_Capener
+	psyllid_taxa	abstract	29678-29688	Guadeloupe	Guadeloupe
+	psyllid_taxa	abstract	29697-29701	Loew	Loew
+	psyllid_taxa	abstract	30006-30012	Tuvalu	Tuvalu
+	psyllid_taxa	abstract	30402-30409	Sarawak	Sarawak
+	psyllid_taxa	abstract	30573-30580	Ireland	Ireland
+	psyllid_taxa	abstract	30784-30791	Mizoram	Mizoram
+	psyllid_taxa	abstract	31043-31055	Libyen
+Sumba	Libyen_Sumba
+	psyllid_taxa	abstract	31204-31209	Samoa	Samoa
+	psyllid_taxa	abstract	31517-31524	Vermont	Vermont
+	psyllid_taxa	abstract	31712-31718	Europe	Europe
+	psyllid_taxa	abstract	32297-32304	Somalia	Somalia
+	psyllid_taxa	abstract	32437-32447	Micronesia	Micronesia
+	psyllid_taxa	abstract	32972-32989	Norfolk
+Swasiland	Norfolk_Swasiland
+	psyllid_taxa	abstract	33304-33312	Mindanao	Mindanao
+	psyllid_taxa	abstract	33378-33384	Borneo	Borneo
+	psyllid_taxa	abstract	33636-33655	Laguna
+PUEOO
+Miozän	Laguna_PUEOO_Miozän
+	psyllid_taxa	abstract	33828-33836	Maldives	Maldive
+	psyllid_taxa	abstract	33973-33986	Leyte
+Hungary	Leyte_Hungary
+	psyllid_taxa	abstract	34130-34140	San
+Aptium	San_Aptium
+	psyllid_taxa	abstract	35011-35019	Moldavia	Moldavia
+	psyllid_taxa	abstract	35535-35544	Chiangmai	Chiangmai
+	psyllid_taxa	abstract	35898-35904	Latvia	Latvia
+	psyllid_taxa	abstract	35959-35972	Vassil
+Zambia	Vassil_Zambia
+	psyllid_taxa	abstract	36460-36470	Morro
+Asia	Morro_Asia
+	psyllid_taxa	abstract	36746-36755	Zacatecas	Zacatecas
+	psyllid_taxa	abstract	36984-36988	Jolo	Jolo
+	psyllid_taxa	abstract	37136-37144	Mongolia	Mongolia
+	psyllid_taxa	abstract	37212-37232	Tobago
+Liechtenstein	et-Tobago_Liechtenstein
+	psyllid_taxa	abstract	37599-37627	Terra
+Ordovician
+Krasnoyarsk	Terra_Ordovician_Krasnoyarsk
+	psyllid_taxa	abstract	37748-37764	Heilongjiang
+Sud	Heilongjiang_Sud
+	psyllid_taxa	abstract	37790-37796	Loudon	Loudon
+	psyllid_taxa	abstract	37821-37830	Manchuria	Manchuria
+	psyllid_taxa	abstract	37855-37861	Sweden	Sweden
+	psyllid_taxa	abstract	38632-38639	Myanmar	Myanmar
+	psyllid_taxa	abstract	38656-38664	Manitoba	Manitoba
+	psyllid_taxa	abstract	38944-38950	France	France
+	psyllid_taxa	abstract	39164-39179	Granada
+Namdong	Granada_Namdong-gu
+	psyllid_taxa	abstract	39365-39373	Dagestan	Dagestan
+	psyllid_taxa	abstract	39478-39482	Oahu	Oahu
+	psyllid_taxa	abstract	39666-39676	Azerbaijan	Azerbaijan
+	psyllid_taxa	abstract	39865-39870	Anhui	Anhui
+	psyllid_taxa	abstract	40311-40318	Biliran	Biliran
+	psyllid_taxa	abstract	40548-40564	Ouest
+Queensland	Ouest_Queensland
+	psyllid_taxa	abstract	41302-41312	Antarctica	Antarctica
+	psyllid_taxa	abstract	42274-42279	Gabon	Gabon
+	psyllid_taxa	abstract	42990-42996	Panama	Panama
+	psyllid_taxa	abstract	43043-43057	TAIWAN
+Antigua	TAIWAN_Antigua
+	psyllid_taxa	abstract	43077-43083	Mexico	Mexico
+	psyllid_taxa	abstract	43526-43543	Bromhead
+Rhodesia	Bromhead_Rhodesia
+	psyllid_taxa	abstract	43785-43827	Idaho
+pallidula
+Brasilien
+anglica
+amphibia	Idaho_pallidula_Brasilien_anglica_amphibia
+	psyllid_taxa	abstract	44011-44018	Nigeria	Nigeria
+	psyllid_taxa	abstract	44081-44087	Norway	Norway
+	psyllid_taxa	abstract	44108-44113	Macau	Macau
+	psyllid_taxa	abstract	45093-45114	Guadalupe
+Australasia	Guadalupe_Australasia
+	psyllid_taxa	abstract	45128-45137	Peru
+Fiji	Peru_Fiji
+	psyllid_taxa	abstract	45400-45405	Kenya	Kenya
+	psyllid_taxa	abstract	45648-45658	Beltsville	Beltsville
+	psyllid_taxa	abstract	46174-46181	Bahrain	Bahrain
+	psyllid_taxa	abstract	46697-46743	Rumicita
+St.
+MNG
+jambolana
+Bordage
+mira
+Uganda	Rumicita_St._MNG_jambolana_Bordage_mira_Uganda
+	psyllid_taxa	abstract	46788-46794	Pahang	Pahang
+	psyllid_taxa	abstract	46928-46936	Bulgaria	Bulgaria
+	psyllid_taxa	abstract	47295-47319	Russia
+Ostenf
+EAIOO
+West	Russia_Ostenf_EAIOO_West
+	psyllid_taxa	abstract	47320-47329	Neuguinea	Neuguinea
+	psyllid_taxa	abstract	47843-47856	Catarina
+Laos	Catarina_Laos
+	psyllid_taxa	abstract	47880-47887	Incheon	Incheon-si
+	psyllid_taxa	abstract	47896-47901	Benin	Benin
+	psyllid_taxa	abstract	47935-47949	Niger
+Zimbabwe	Niger_Zimbabwe
+	psyllid_taxa	abstract	47986-47990	Zett	Zett
+	psyllid_taxa	abstract	48565-48572	Molokai	Molokai
+	psyllid_taxa	abstract	49036-49045	Ogasawara	Ogasawara
+	psyllid_taxa	abstract	49213-49220	Siberia	Siberia
+	psyllid_taxa	abstract	49868-49873	CHINA	CHINA
+	psyllid_taxa	abstract	50076-50085	Louisiana	Louisiana
+	psyllid_taxa	abstract	50100-50128	Ukraine
+Neck
+Pezzini
+Navassa	Ukraine_Neck_Pezzini_Navassa
+	psyllid_taxa	abstract	50377-50385	Portugal	Portugal
+	psyllid_taxa	abstract	50642-50651	Udmurtiya	Udmurtiya
+	psyllid_taxa	abstract	50726-50733	Qinghai	Qinghai
+	psyllid_taxa	abstract	51790-51799	Indonesia	Indonesia
+	psyllid_taxa	abstract	51948-51956	Auckland	Auckland
+	psyllid_taxa	abstract	51964-51975	Maharashtra	Maharashtra
+	psyllid_taxa	abstract	52072-52079	Sibuyan	Sibuyan
+	psyllid_taxa	abstract	52205-52230	Santo
+aucuparia
+Chihuahua	Santo_aucuparia_Chihuahua
+	psyllid_taxa	abstract	52288-52296	Chechnya	Chechnya
+	psyllid_taxa	abstract	52982-52988	Morong	Morong
+	psyllid_taxa	abstract	53317-53331	Czechoslovakia	Czechoslovakia
+	psyllid_taxa	abstract	53442-53454	Newfoundland	Newfoundland
+	psyllid_taxa	abstract	53513-53521	Campeche	Campeche
+	psyllid_taxa	abstract	53786-53795	Macedonia	Macedonia
+	psyllid_taxa	abstract	54059-54069	Keay
+Tonga	Keay_Tonga
+	psyllid_taxa	abstract	54079-54088	Ulyanovsk	Ulyanovsk
+	psyllid_taxa	abstract	54457-54462	Devon	Devon
+	psyllid_taxa	abstract	54884-54894	Yugoslavia	Yugoslavia
+	psyllid_taxa	abstract	54952-54958	Brunei	Brunei
+	psyllid_taxa	abstract	55090-55098	Honduras	Honduras
+	psyllid_taxa	abstract	55174-55180	Oregon	Oregon
+	psyllid_taxa	abstract	55242-55247	Tibet	Tibet
+	psyllid_taxa	abstract	55350-55364	United
+Florida	United_Florida
+	psyllid_taxa	abstract	55455-55462	Polillo	Polillo
+	psyllid_taxa	abstract	55577-55586	Australia	Australia
+	psyllid_taxa	abstract	55916-55932	Scopoli
+Nyingchi	Scopoli_Nyingchi
+	psyllid_taxa	abstract	56414-56420	Oamaru	Oamaru
+	psyllid_taxa	abstract	57057-57063	Fujian	Fujian
+	psyllid_taxa	abstract	57116-57121	Haiti	Haiti
+	psyllid_taxa	abstract	57318-57331	Massachusetts	Massachusetts
+	psyllid_taxa	abstract	57619-57626	Vanuatu	Vanuatu
+	psyllid_taxa	abstract	57750-57758	Islandia	Islandia
+	psyllid_taxa	abstract	57954-57959	Macao	Macao
+	psyllid_taxa	abstract	58519-58530	Kaliningrad	Kaliningrad
+	psyllid_taxa	abstract	58828-58837	Simojovel	Simojovel
+	psyllid_taxa	abstract	59009-59015	Honshu	Honshu
+	psyllid_taxa	abstract	59062-59067	Kauai	Kauai
+	psyllid_taxa	abstract	59191-59196	Nepal	Nepal
+	psyllid_taxa	abstract	59691-59701	Montserrat	Montserrat
+	psyllid_taxa	abstract	60366-60387	yangi
+Ridge
+Myricales	yangi_Ridge_Myricales
+	psyllid_taxa	abstract	60423-60429	Tubuai	Tubuai
+	psyllid_taxa	abstract	60756-60767	Switzerland	Switzerland
+	psyllid_taxa	abstract	61143-61150	Tuamotu	Tuamotu
+	psyllid_taxa	abstract	61215-61234	Mpumalanga
+Paraguai	Mpumalanga_Paraguai
+	psyllid_taxa	abstract	61271-61297	Salvador
+europaea
+Pingtung	Salvador_europaea_Pingtung
+	psyllid_taxa	abstract	61308-61315	Surinam	Surinam
+	psyllid_taxa	abstract	62036-62043	Belgium	Belgium
+	psyllid_taxa	abstract	62078-62087	Nicaragua	Nicaragua
+	psyllid_taxa	abstract	62156-62162	Yunnan	Yunnan
+	psyllid_taxa	abstract	62385-62390	Chile	Chile
+	psyllid_taxa	abstract	62420-62453	pacifica
+SUMOO
+leucotaenia
+Brasil	pacifica_SUMOO_leucotaenia_Brasil
+	psyllid_taxa	abstract	62528-62535	Croatia	Croatia
+	psyllid_taxa	abstract	62577-62583	Wallis	Wallis
+	psyllid_taxa	abstract	62813-62836	Transcaucasus
+Kabardino	Transcaucasus_Kabardino
+	psyllid_taxa	abstract	62837-62853	Balkariya
+Andhra	Balkariya_Andhra
+	psyllid_taxa	abstract	62913-62920	Qingdao	Qingdao
+	psyllid_taxa	abstract	63805-63812	Liberia	Liberia
+	psyllid_taxa	abstract	63974-64004	U.S.A
+Sebert
+biwa
+Kuril
+Chagos	U.S.A_Sebert_biwa_Kuril_Chagos
+	psyllid_taxa	abstract	64719-64726	Manipur	Manipur
+	psyllid_taxa	abstract	64908-64914	Samara	Samara
+	psyllid_taxa	abstract	65351-65356	Aruba	Aruba
+	psyllid_taxa	abstract	66178-66187	Transvaal	Transvaal
+	psyllid_taxa	abstract	66245-66252	Lesotho	Lesotho
+	psyllid_taxa	abstract	66494-66501	Bahrein	Bahrein
+	psyllid_taxa	abstract	66741-66749	Colombia	Colombia
+	psyllid_taxa	abstract	67520-67526	Cyprus	Cyprus
+	psyllid_taxa	abstract	67837-67851	Zimbabue
+Timor	Zimbabue_Timor
+	psyllid_taxa	abstract	68113-68124	Philippines	Philippines
+	psyllid_taxa	abstract	69019-69025	Canada	Canada
+	psyllid_taxa	abstract	69316-69352	Baccharopelma
+BOR
+INDDI
+Puton
+Tobago	Baccharopelma_BOR_INDDI_Puton_Tobago
+	psyllid_taxa	abstract	69364-69370	Greece	Greece
+	psyllid_taxa	abstract	69436-69445	Caledonia	Caledonia
+	psyllid_taxa	abstract	69462-69470	Barbados	Barbados
+	psyllid_taxa	abstract	69724-69730	Israel	Israel
+	psyllid_taxa	abstract	69891-69903	Tadzhikistan	Tadzhikistan
+	psyllid_taxa	abstract	70140-70154	Kosovo
+Belarus	Kosovo_Belarus
+	psyllid_taxa	abstract	70243-70256	Atlantic
+Alto	Atlantic_Alto
+	psyllid_taxa	abstract	70320-70341	Perm
+Pachypsylloidini	Perm_Pachypsylloidini
+	psyllid_taxa	abstract	70634-70654	Egeirotrioza
+ZEALAND	Egeirotrioza_ZEALAND
+	psyllid_taxa	abstract	70740-70790	Schema
+Pampulha
+Coniotrioza
+daedala
+Virgin
+Kashmir	Schema_Pampulha_Coniotrioza_daedala_Virgin_Kashmir
+	psyllid_taxa	abstract	70880-70887	Lebanon	Lebanon
+	psyllid_taxa	abstract	70888-70893	Syria	Syria
+	psyllid_taxa	abstract	70992-70999	Chatham	Chatham
+	psyllid_taxa	abstract	71054-71059	Spain	Spain
+	psyllid_taxa	abstract	71438-71453	Calama
+Nebraska	Calama_Nebraska
+	psyllid_taxa	abstract	71712-71720	Xinjiang	Xinjiang
+	psyllid_taxa	abstract	72605-72611	Turkey	Turkey
+	psyllid_taxa	abstract	73171-73180	Minnesota	Minnesota
+	psyllid_taxa	abstract	73281-73289	Kentucky	Kentucky
+	psyllid_taxa	abstract	73579-73585	Rwanda	Rwanda
+	psyllid_taxa	abstract	73686-73693	Denmark	Denmark
+	psyllid_taxa	abstract	73805-73821	Guangdong
+Europa	Guangdong_Europa
+	psyllid_taxa	abstract	74216-74222	Kahuku	Kahuku
+	psyllid_taxa	abstract	74706-74713	Austria	Austria
+	psyllid_taxa	abstract	74883-74890	Georgia	Georgia
+	psyllid_taxa	abstract	75226-75230	Ohio	Ohio
+	psyllid_taxa	abstract	75330-75338	Pakistan	Pakistan
+	psyllid_taxa	abstract	76055-76061	Lindau	Lindau
+	psyllid_taxa	abstract	76203-76209	Madang	Madang
+	psyllid_taxa	abstract	76591-76596	South	South
+	psyllid_taxa	abstract	76745-76755	Montenegro	Montenegro
+	psyllid_taxa	abstract	76913-76922	AUSTRALIA	AUSTRALIA
+	psyllid_taxa	abstract	77418-77435	Sacken
+Brasileira	Sacken_Brasileira
+	psyllid_taxa	abstract	77671-77680	Kerguelen	Kerguelen
+	psyllid_taxa	abstract	78486-78493	Namibia	Namibia
+	psyllid_taxa	abstract	78789-78797	Tasmania	Tasmania
+	psyllid_taxa	abstract	78969-78979	Irkutsk
+IL	Irkutsk_IL
+	psyllid_taxa	abstract	79808-79815	Armenia	Armenia
+	psyllid_taxa	abstract	80172-80202	Kuwait
+Symphyomyrtus
+MCS
+Timor	Kuwait_Symphyomyrtus_MCS_Timor
+	psyllid_taxa	abstract	80524-80530	Koolau	Koolau
+	psyllid_taxa	abstract	81475-81481	Guiana	Guiana
+	psyllid_taxa	abstract	81630-81635	INDIA	INDIA
+	psyllid_taxa	abstract	81924-81931	Equador	Equador
+	psyllid_taxa	abstract	81970-81976	Bosnia	Bosnia
+	psyllid_taxa	abstract	82286-82292	BRAZIL	BRAZIL
+	psyllid_taxa	abstract	82300-82313	USA
+Euryconus	USA_Euryconus
+	psyllid_taxa	abstract	82717-82734	Schrad
+Guanajuato	Schrad_Guanajuato
+	psyllid_taxa	abstract	82749-82766	Bryansk
+Oberdevon	Bryansk_Oberdevon
+	psyllid_taxa	abstract	82885-82898	Kerman
+Bosnia	Kerman_Bosnia
+	psyllid_taxa	abstract	82899-82910	Herzegovina	Herzegovina
+	psyllid_taxa	abstract	82938-82946	Orenburg	Orenburg
+	psyllid_taxa	abstract	83092-83099	Sichuan	Sichuan
+	psyllid_taxa	abstract	83158-83164	Africa	Africa
+	psyllid_taxa	abstract	83289-83297	Trinidad	Trinidad
+	psyllid_taxa	abstract	83298-83304	Tobago	Tobago
+	psyllid_taxa	abstract	83363-83372	Chongqing	Chongqing
+	psyllid_taxa	abstract	83606-83610	Mali	Mali
+	psyllid_taxa	abstract	83735-83757	Karabakh
+Comarotoscena	Karabakh_Comarotoscena
+	psyllid_taxa	abstract	83889-83897	Veracruz	Veracruz
+	psyllid_taxa	abstract	84118-84125	Sergipe	Sergipe
+	psyllid_taxa	abstract	84415-84423	Cameroon	Cameroon
+	psyllid_taxa	abstract	84465-84471	Moscow	Moscow
+	psyllid_taxa	abstract	84822-84827	Congo	Congo
+	psyllid_taxa	abstract	84913-84917	mali	mali
+	psyllid_taxa	abstract	85092-85096	Iowa	Iowa
+	psyllid_taxa	abstract	85266-85273	Chiapas	Chiapas
+	psyllid_taxa	abstract	85382-85389	Tuamotu	Tuamotu
+	psyllid_taxa	abstract	85570-85576	Alaska	Alaska
+	psyllid_taxa	abstract	85848-85853	Nauru	Nauru
+	psyllid_taxa	abstract	86152-86162	California	California
+	psyllid_taxa	abstract	86172-86176	Asia	Asia
+	psyllid_taxa	abstract	86319-86327	Brazilia	Brazilia
+	psyllid_taxa	abstract	86416-86421	Nevis	Nevis
+	psyllid_taxa	abstract	86593-86601	Tlaxcala	Tlaxcala
+	psyllid_taxa	abstract	86650-86655	Malta	Malta
+	psyllid_taxa	abstract	87056-87061	Jilin	Jilin
+	psyllid_taxa	abstract	87532-87539	Wyoming	hi-
+wyoming
+	psyllid_taxa	abstract	87953-87990	Amsterdam
+Reinw
+Wigg
+jaculatoria
+Iraq	Amsterdam_Reinw_Wigg_jaculatoria_Iraq
+	psyllid_taxa	abstract	88031-88071	Primorye
+Guinea
+Brouss
+Lange
+CHS
+Pridoli	Primorye_Guinea_Brouss_Lange_CHS_Pridoli
+	psyllid_taxa	abstract	88680-88689	Mauritius	Mauritius
+	psyllid_taxa	abstract	89153-89160	Beijing	Beijing
+	psyllid_taxa	abstract	89355-89362	Basilan	Basilan
+	psyllid_taxa	abstract	90120-90130	Tamaulipas	Tamaulipas
+	psyllid_taxa	abstract	90489-90499	Mozambique	Mozambique
+	psyllid_taxa	abstract	91174-91182	Trinidad	Trinidad
+	psyllid_taxa	abstract	91654-91676	Hubei
+CHNTJ
+Petersburg	Hubei_CHNTJ_Petersburg
+	psyllid_taxa	abstract	91761-91768	Moldova	Moldova
+	psyllid_taxa	abstract	92367-92375	Nagaland	Nagaland
+	psyllid_taxa	abstract	92560-92568	Ethiopia	Ethiopia
+	psyllid_taxa	abstract	92602-92612	Washington	Washington
+	psyllid_taxa	abstract	92651-92660	Peninsula	Peninsula
+	psyllid_taxa	abstract	93335-93341	Gambia	Gambia
+	psyllid_taxa	abstract	93498-93503	North	North
+	psyllid_taxa	abstract	93672-93677	China	China
+	psyllid_taxa	abstract	93754-93760	Oaxaca	Oaxaca
+	psyllid_taxa	abstract	93791-93799	Paraguay	Paraguay
+	psyllid_taxa	abstract	93912-93919	Andorra	Andorra
+	psyllid_taxa	abstract	94081-94089	Slovakia	Slovakia
+	psyllid_taxa	abstract	94594-94609	Amur
+Kazakhstan	Amur_Kazakhstan
+	psyllid_taxa	abstract	95563-95599	Berg
+koenigii
+Sandwith
+Stigmaphalara	Berg_koenigii_Sandwith_Stigmaphalara
+	psyllid_taxa	abstract	95669-95681	Caprivi
+Oman	Caprivi_Oman
+	psyllid_taxa	abstract	95688-95698	Kyrgyzstan	Kyrgyzstan
+	psyllid_taxa	abstract	96116-96122	Rostov	Rostov
+	psyllid_taxa	abstract	96178-96196	Aethiopien
+Zealand	Aethiopien_Zealand
+	psyllid_taxa	abstract	96388-96411	Microceropsylla
+America	Microceropsylla_America
+	psyllid_taxa	abstract	96551-96560	Kamchatka	Kamchatka
+	psyllid_taxa	abstract	97483-97490	Germany	Germany
+	psyllid_taxa	abstract	97736-97745	Greenland	Greenland
+	psyllid_taxa	abstract	97870-97877	Mindoro	Mindoro
+	psyllid_taxa	abstract	98698-98711	Colima
+Pequim	Colima_Pequim
+	psyllid_taxa	abstract	99493-99501	Thailand	Thailand
+	psyllid_taxa	abstract	99677-99683	Guyana	Guyana
+	psyllid_taxa	abstract	99690-99699	Tennessee	Tennessee
+	psyllid_taxa	abstract	99706-99715	Caribbean	Caribbean
+	psyllid_taxa	abstract	99849-99856	Bermuda	Bermuda
+	psyllid_taxa	abstract	99967-99974	Uruguay	Uruguay
+	psyllid_taxa	abstract	100439-100444	Nevis	et-Nevis
+	psyllid_taxa	abstract	100783-100792	Meghalaya	Meghalaya
+	psyllid_taxa	abstract	101590-101598	THAILAND	THAILAND
+	psyllid_taxa	abstract	102008-102016	Bismarck	Bismarck
+	psyllid_taxa	abstract	102050-102060	Seychelles	Seychelles
+	psyllid_taxa	abstract	102088-102097	Volgograd	Volgograd
+	psyllid_taxa	abstract	102237-102244	Georgia	Georgia
+	psyllid_taxa	abstract	102460-102466	Baehni	Baehni
+	psyllid_taxa	abstract	102546-102551	Maine	Maine
+	psyllid_taxa	abstract	103279-103284	Gansu	Gansu
+	psyllid_taxa	abstract	104120-104125	Nevis	Nevis
+	psyllid_taxa	abstract	104351-104358	Gujarat	Gujarat
+	psyllid_taxa	abstract	104625-104633	Bretagne	Bretagne
+	psyllid_taxa	abstract	104691-104698	Hamakua	Hamakua
+	psyllid_taxa	abstract	105621-105626	Libya	Libya
+	psyllid_taxa	abstract	106006-106018	Smith
+Turkey	Smith_Turkey-in
+	psyllid_taxa	abstract	106022-106028	Europe	Europe
+	psyllid_taxa	abstract	106118-106123	Sudan	Sudan
+	psyllid_taxa	abstract	106292-106299	Shaanxi	Shaanxi
+	psyllid_taxa	abstract	106785-106793	Suriname	Suriname
+	psyllid_taxa	abstract	106909-106921	Turkmenistan	Turkmenistan
+	psyllid_taxa	abstract	106997-107007	US
+Yakutia	US_Yakutia
+	psyllid_taxa	abstract	107157-107162	Syria	Syria
+	psyllid_taxa	abstract	108448-108466	Kenia
+Polónia
+Isle	Kenia_Polónia_Isle
+	psyllid_taxa	abstract	108768-108774	Tonkin	Tonkin
+	psyllid_taxa	abstract	108835-108845	Pernambuco	Pernambuco
+	psyllid_taxa	abstract	109804-109812	Coquimbo	Coquimbo
+	psyllid_taxa	abstract	110422-110429	Vologda	Vologda
+	psyllid_taxa	abstract	110742-110751	Singapore	Singapore
+	psyllid_taxa	abstract	111015-111043	New
+Asie
+Neuschottland
+Kursk	New_Asie_Neuschottland_Kursk
+	psyllid_taxa	abstract	111199-111217	IND
+gourlayi
+Ocean	IND_gourlayi_Ocean
+	psyllid_taxa	abstract	113509-113515	Brazil	Brazil
+	psyllid_taxa	abstract	114131-114137	Serbia	Serbia
+	psyllid_taxa	abstract	114442-114449	Eritrea	Eritrea
+	psyllid_taxa	abstract	114659-114666	Tianjin	Tianjin
+	vector	abstract	43-50	Scopoli	Scopoli

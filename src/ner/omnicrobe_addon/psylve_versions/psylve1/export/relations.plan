@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alvisnlp-plan id="vector-relations">
+
+  <param name="outDir">
+   <alias module="output.vector-relations" param="outDir"/>
+  </param>
+  
+<vector-relations>
+    <create-relation class="Action">
+      <target>documents.sections</target>
+      <action>new:relation:vector-relation</action>
+      <createRelations/>
+    </create-relation>
+
+<!--————————————-->
+<!--vector-to-X-->
+<!--————————————-->
+
+    <vector-location class="Action">
+      <target>documents.sections.layer:psylve_vector</target>
+      <action>
+	section.layer:psylve_country as loc.
+	section.relations:vector-relation.new:tuple.(
+	set:arg:left(target) | set:arg:right(loc) | set:feat:left_type("vector") | set:feat:right_type("location")
+	)
+      </action>
+      <createTuples/>
+      <setArguments/>
+      <setFeatures/>
+    </vector-location>
+
+    <vector-host class="Action">
+      <target>documents.sections.layer:psylve_vector</target>
+      <action>
+	section.layer:psylve_host_plant as host.
+	section.relations:vector-relation.new:tuple.(
+	set:arg:left(target) | set:arg:right(host) | set:feat:left_type("vector") | set:feat:right_type("host")
+	)
+      </action>
+      <createTuples/>
+      <setArguments/>
+      <setFeatures/>
+    </vector-host>
+
+    <vector-year class="Action">
+      <target>documents.sections.layer:psylve_vector</target>
+      <action>
+	section.layer:psylve_year as year.
+	section.relations:vector-relation.new:tuple.(
+	set:arg:left(target) | set:arg:right(year) | set:feat:left_type("vector") | set:feat:right_type("year")
+	)
+      </action>
+      <createTuples/>
+      <setArguments/>
+      <setFeatures/>
+    </vector-year>
+
+  
+<!--—————————————————-->
+<!-- Loc, Host, year -->
+<!--—————————————————-->
+
+    <host-year class="Action">
+      <target>documents.sections.layer:psylve_host_plant</target>
+      <action>
+	section.layer:psylve_year as year.
+	section.relations:vector-relation.new:tuple.(
+	set:arg:left(target) | set:arg:right(year) | set:feat:left_type("host") | set:feat:right_type("year")
+	)
+      </action>
+      <createTuples/>
+      <setArguments/>
+      <setFeatures/>
+    </host-year>
+
+    <location-host class="Action">
+      <target>documents.sections.layer:psylve_country</target>
+      <action>
+	section.layer:psylve_host_plant as host.
+	section.relations:vector-relation.new:tuple.(
+	set:arg:left(target) | set:arg:right(host) | set:feat:left_type("location") | set:feat:right_type("host")
+	)
+      </action>
+      <createTuples/>
+      <setArguments/>
+      <setFeatures/>
+    </location-host>
+
+    <location-year class="Action">
+      <target>documents.sections.layer:psylve_country</target>
+      <action>
+	section.layer:psylve_year as year.
+	section.relations:vector-relation.new:tuple.(
+	set:arg:left(target) | set:arg:right(year) | set:feat:left_type("location") | set:feat:right_type("year")
+	)
+      </action>
+      <createTuples/>
+      <setArguments/>
+      <setFeatures/>
+    </location-year>
+  </vector-relations>
+
+  
+  <output>
+
+      <vector-relations class="TabularExport">
+      <files>$</files>
+      <fileName>"extracted_relations.txt"</fileName>
+      <lines>documents.sections.relations:vector-relation.tuples</lines>
+      <columns separator=";">
+	relation.section.document.@id;
+  @left_type;
+  @right_type;
+	args:left.@form;
+	args:right.@form
+      </columns>
+      <headers>
+	"DOC",
+  "LEFT_TYPE",
+  "RIGHT_TYPE",
+	"LEFT",
+	"RIGHT"
+      </headers>
+    </vector-relations>
+
+</output>
+</alvisnlp-plan>

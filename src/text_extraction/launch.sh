@@ -67,7 +67,7 @@ GPATH=($(jq -r '.grobid.grobid_inst_path' $CONF_FILE_PATH))
 StartGrobidServer & 
 (   # start conversion
     sleep 1;
-    python 'conversion_pipeline.py' -c $CONF_FILE_PATH $VERBOSE $TIME_VERB;
+    python 'tools/conversion_pipeline.py' -c $CONF_FILE_PATH $VERBOSE $TIME_VERB;
     KillGrobid;
     echo 'Pipeline exited successfully.';
     exit

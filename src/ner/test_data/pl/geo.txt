@@ -1,0 +1,5 @@
+	mix	abstract	43-50	Scopoli	Scopoli
+	mix	abstract	375-382	Scopoli	Scopoli
+	mix	abstract	399-418	Turkey
+Italy
+France	Turkey_Italy_France

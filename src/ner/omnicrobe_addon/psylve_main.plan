@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<alvisnlp-plan id="psylve_main">
+    <psylve>
+
+        <psylve_year file="plans/psylve/year.plan"/>
+        <psylve_country file="plans/psylve/country.plan"/> 
+        
+        <version_1>
+            <active>false</active>
+            <!-- psyl'list --> 
+            <psylve_host_plant file="plans/psylve1/host_plant_proj.plan"/> 
+            <psylve_vector file="plans/psylve1/vector_proj.plan"/>
+        </version_1>
+        
+        <version_2>
+            <active>false</active>
+            <!-- ncbi --> 
+            <psylve_host_plant file="plans/psylve2/host_plant.plan"/>
+            <psylve_vector file="plans/psylve2/vector.plan"/>
+        </version_2>
+
+        <version_3>
+            <active>false</active>
+            <!-- ncbi --> 
+            <psylve_host_plant file="plans/psylve3/host_plant.plan"/>
+            <psylve_vector file="plans/psylve3/vector.plan"/>
+        </version_3>
+
+        <version_4>
+            <active>true</active>
+            <!-- token --> 
+            <psylve_host_plant file="plans/psylve4/host_plant.plan"/>
+            <psylve_vector file="plans/psylve4/vector.plan"/>
+        </version_4>
+
+    </psylve>
+</alvisnlp-plan>
+

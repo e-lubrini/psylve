@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alvisnlp-plan id="psyllid-entities">
+
+  <param name="outDir">
+   <alias module="output.psyllid-vector" param="outDir"/>
+   <alias module="output.psyllid-rosaceae" param="outDir"/>
+   <alias module="output.psyllid-date" param="outDir"/>
+   <alias module="output.psyllid-location" param="outDir"/>
+  </param>
+  
+  <output>
+
+
+  <psyllid-vector class="TabularExport">
+      <files>$</files>
+      <fileName>"extracted_entities.txt"</fileName>
+      <lines>documents.sections.layer:psylve_vector</lines>
+      <columns separator=";">
+	document.@id;
+  "vector";
+  @form;
+  @form
+  </columns>
+    <headers>
+    "DOC",
+    "TYPE",
+    "FORM",
+    "CANONICAL"  
+    </headers>
+  </psyllid-vector>
+
+
+    <psyllid-rosaceae class="TabularExport">
+      <files>$</files>
+      <fileName>"extracted_entities.txt"</fileName>
+      <append/>
+      <lines>documents.sections.layer:psylve_host_plant</lines>
+      <columns separator=";">
+	document.@id;
+  "host";
+  @form;
+  @canonical-name
+  </columns>
+  </psyllid-rosaceae>
+
+  <psyllid-date class="TabularExport">
+      <files>$</files>
+      <fileName>"extracted_entities.txt"</fileName>
+      <append/>
+      <lines>documents.sections.layer:psylve_year</lines>
+      <columns separator=";">
+	document.@id;
+  "date";
+  @form;
+  @form
+  </columns>
+  </psyllid-date>
+
+  <psyllid-location class="TabularExport">
+      <files>$</files>
+      <fileName>"extracted_entities.txt"</fileName>
+      <append/>
+      <lines>documents.sections.layer:psylve_country</lines>
+      <columns separator=";">
+	document.@id;
+  "location";
+  @form;
+  @form
+  </columns>
+  </psyllid-location>
+
+</output>
+</alvisnlp-plan>

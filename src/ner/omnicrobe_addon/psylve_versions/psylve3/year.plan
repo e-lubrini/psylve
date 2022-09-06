@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alvisnlp-plan id="psylve_year">
+  <date>
+    
+    <year class="PatternMatcher">
+        <layerName>words</layerName>
+        <pattern>
+    	(year:
+    	  [@form=~"^[0-9]{4}$"]
+    	)
+        </pattern>
+        <actions>
+    	  <createAnnotation features="taxid=group:year.@taxid,canonical-name=group:year.@canonical-name,path=group:year.@path,rank=group:year.@rank" layer="psylve_year"/>
+        </actions>
+    </year>
+  </date>
+</alvisnlp-plan>
