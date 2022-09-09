@@ -1,0 +1,457 @@
+
+ BT
+/F1 1 Tf
+7.92 0 0 7.92 79.441 798.499 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+[(Proc. XIXth IS on Fruit Tree Virus Diseases, G. Llàcer \(eds\), Acta ) 20.3 (Hort. 657, ISHS 2004, p 465-470)] TJ
+/F2 1 Tf
+13.92 0 0 13.92 79.441 752.419 Tm
+0.0011 Tc
+0.0106 Tw
+(Data on the Life Cycle of ) Tj
+/F3 1 Tf
+10.9784 0 TD
+0.0023 Tc
+0.0228 Tw
+(Cacopsylla pruni) Tj
+/F2 1 Tf
+7.088 0 TD
+0.0011 Tc
+0.0118 Tw
+[(, Psyllidae ) 16.5 (Vector of European)] TJ
+-18.0664 -1.1552 TD
+0 Tc
+0 Tw
+(Stone Fruit Yellows \(ESFY\) Phytoplasma, in France.) Tj
+/F4 1 Tf
+12 0 0 12 79.441 710.419 Tm
+[(G. Labonne) -14819.3 (J. Lichou)] TJ
+0 -1.14 TD
+(INRA, UMR BGPI 2 place Viala,) Tj
+0 -1.16 TD
+(34060, Montpellier cedex 1 France) Tj
+19.54 1.16 TD
+(CTIFL, Centre de Balandran, BP 32,) Tj
+0 -1.16 TD
+(30127 Bellegarde, France) Tj
+/F2 1 Tf
+-19.54 -2.3 TD
+(Keywords) Tj
+/F4 1 Tf
+4.34 0 TD
+0.013 Tc
+0.1269 Tw
+[( ) 125.6 (: ) -17.8 (European ) -17.8 (stone ) -17.8 (fruit ) -8.4 (yellows, ) -8.9 (Cacopsylla ) 26.1 (pruni, Prunus, host plants, life)] TJ
+-4.34 -1.14 TD
+0 Tc
+0 Tw
+(cycle) Tj
+/F2 1 Tf
+0 -2.3 TD
+(Abstract ) Tj
+0 -1.14 TD
+0.014 Tc
+0.148 Tw
+[(A network was created in France to ) 26.7 (obtain data on the seasonal ) 64 (activity ) 22.3 (of ) 22.3 (the)] TJ
+0 -1.16 TD
+0.0072 Tc
+0 Tw
+(psyllid ) Tj
+/F3 1 Tf
+3.2147 0 TD
+0.0118 Tc
+0.1183 Tw
+(Cacopsylla pruni) Tj
+/F2 1 Tf
+7.3053 0 TD
+0.0193 Tc
+0 Tw
+(, ) Tj
+0.72 0 TD
+0.0133 Tc
+0.1329 Tw
+(vector of European stone ) Tj
+11.8071 0 TD
+0.0112 Tc
+0.1213 Tw
+[(fruit yellows ) 15.5 (phytoplasma. )] TJ
+/F3 1 Tf
+12.1729 0 TD
+0 Tc
+0 Tw
+(C.) Tj
+-35.22 -1.14 TD
+(pruni) Tj
+/F2 1 Tf
+2.28 0 TD
+( ) Tj
+0.28 0 TD
+0.0011 Tc
+0.0136 Tw
+[(was collected ) -7 (on )] TJ
+/F3 1 Tf
+7.18 0 TD
+0 Tc
+0 Tw
+(Prunus) Tj
+/F2 1 Tf
+3.06 0 TD
+( ) Tj
+0.2642 0 TD
+0.001 Tc
+0.0128 Tw
+[(plants by ) -8.9 (beating trays. The insect was ) 11.9 (found in ) -8.5 (every)] TJ
+-13.0642 -1.16 TD
+0.0061 Tc
+0.0614 Tw
+[(prospected area. The reimmigrants \(adults that have ) 12.3 (overwintered\) ) 5.8 (were ) 16 (found ) -5.5 (o) 6.1 (n)] TJ
+/F3 1 Tf
+0 -1.14 TD
+0 Tc
+0 Tw
+(Prunus) Tj
+/F2 1 Tf
+3.06 0 TD
+( ) Tj
+0.34 0 TD
+0.0053 Tc
+0.0525 Tw
+[(from February to May and the new generation from May to ) 15.4 (June. Not a) 5.3 (n) 5.3 (y)] TJ
+/F3 1 Tf
+-3.4 -1.16 TD
+0.0095 Tc
+0.095 Tw
+(C. pruni) Tj
+/F2 1 Tf
+3.6 0 TD
+0 Tc
+0 Tw
+( ) Tj
+0.42 0 TD
+0.0111 Tc
+0.1114 Tw
+[(was found ) 7 (o) 7.4 (n) 7.4 ( )] TJ
+/F3 1 Tf
+6.2945 0 TD
+0.0226 Tc
+0 Tw
+(Prunus) Tj
+/F2 1 Tf
+3.1655 0 TD
+0 Tc
+( ) Tj
+0.44 0 TD
+0.0064 Tc
+0.0635 Tw
+(after July. ) Tj
+/F3 1 Tf
+4.8411 0 TD
+0.0122 Tc
+0.1224 Tw
+(Prunus spinosa) Tj
+/F2 1 Tf
+6.6989 0 TD
+0 Tc
+0 Tw
+( ) Tj
+0.42 0 TD
+0.0101 Tc
+0.101 Tw
+(appeared the ) Tj
+6.16 0 TD
+0 Tc
+0 Tw
+(preferred) Tj
+-32.04 -1.14 TD
+0.015 Tc
+0.1584 Tw
+[(host plant compared to the ) 8.1 (other ) 22.8 (monitored )] TJ
+/F3 1 Tf
+20.6 0 TD
+0 Tc
+0 Tw
+(Prunus) Tj
+/F2 1 Tf
+3.06 0 TD
+0.0178 Tc
+0.1775 Tw
+(. The data ) Tj
+5.284 0 TD
+0.013 Tc
+0.172 Tw
+[(are discussed ) 59.5 (in)] TJ
+-28.944 -1.16 TD
+0 Tc
+0.0001 Tw
+[(relation to the control of the phytoplasma ) -8.4 (disease.)] TJ
+0 -2.3 TD
+0 Tw
+(INTRODUCTION) Tj
+/F4 1 Tf
+2.96 -1.14 TD
+0.0125 Tc
+0.1126 Tw
+[(European ) -13.8 (stone ) -13.8 (fruit ) -15.9 (yellows ) -31.8 (\(ESFY\) ) -31.8 (is ) -31.8 (a ) -22.9 (disease of increasing importance in)] TJ
+-2.96 -1.16 TD
+0.005 Tc
+0.0504 Tw
+(France in apricot and Japanese plum orchards. ) Tj
+19.3551 0 TD
+0.0053 Tc
+0.0499 Tw
+(The causal agent is ) Tj
+8.2103 0 TD
+0.0031 Tc
+0.0709 Tw
+[(a phytoplasma. ) 28.8 (After)] TJ
+-27.5653 -1.14 TD
+0.0006 Tc
+0.0065 Tw
+(the discovery of ) Tj
+/F5 1 Tf
+6.7226 0 TD
+0.0012 Tc
+0.0121 Tw
+(Cacopsylla pruni) Tj
+/F4 1 Tf
+6.9478 0 TD
+0.0007 Tc
+0.0074 Tw
+[( ) 5.2 (as ) 14.9 (vector of ESFY \() -5.4 (Carraro et al., 1998\), it appears ) 17.7 (that)] TJ
+-13.6704 -1.16 TD
+0.0016 Tc
+0.0155 Tw
+[(there were ) 9.8 (very few data on the distribution and life cycle of ) -10 (this insect in France. ) -16.3 (Only 2)] TJ
+0 -1.14 TD
+0.0005 Tc
+0.0061 Tw
+[(publications ) -9.5 (reported the ) -6 (species in France \() 20.6 (Lambertie, 1910 ) 6.1 (; Malenovsky, 1999\). ) 5.9 (Thus ) -20.4 (a)] TJ
+0 -1.16 TD
+0.0001 Tc
+0.0006 Tw
+[(network joining several French research and/or ) 10.4 (development institutes was established. Its)] TJ
+0 -1.14 TD
+0.0206 Tc
+0.1911 Tw
+[(general objective ) 18.7 (was ) -53.8 (to )] TJ
+11.3048 0 TD
+0.0255 Tc
+0.2583 Tw
+[(produce ) 18.3 (data ) 45.9 (which ) 36.3 (can ) -25.4 (be ) -25.4 (a ) 16.2 (basis to  propose a )] TJ
+23.2152 0 TD
+0 Tc
+0 Tw
+(pest) Tj
+-34.52 -1.16 TD
+0.0009 Tc
+0.0095 Tw
+[(management strategy ) -7.5 (against the insect in order to stop or to ) -11.6 (decrease the incidence of the)] TJ
+0 -1.14 TD
+0.0014 Tc
+0.0138 Tw
+(disease. The first objectives of the network were 1\) to confirm the presence of ) Tj
+/F5 1 Tf
+31.76 0 TD
+0.0018 Tc
+0.0179 Tw
+(C. pruni) Tj
+/F4 1 Tf
+3.3663 0 TD
+0 Tc
+0 Tw
+( ) Tj
+0.2591 0 TD
+0.0008 Tc
+(in) Tj
+-35.3854 -1.16 TD
+0.0065 Tc
+0.0729 Tw
+[(the ) -4.8 (different ) 21.3 (geographic ) 24.2 (areas where the ESFY had )] TJ
+21.5762 0 TD
+0.0072 Tc
+(been ) Tj
+2.2438 0 TD
+0 Tc
+(detected) Tj
+3.34 0 TD
+0.0071 Tc
+0.0862 Tw
+[(, 2\) to ) -6.9 (make ) 23.6 (clear ) 23.6 (the)] TJ
+-27.16 -1.14 TD
+0.0725 Tw
+[(periods of ) 3.8 (presence of )] TJ
+/F5 1 Tf
+9.56 0 TD
+0.0092 Tc
+0 Tw
+(C. ) Tj
+1.28 0 TD
+0.0198 Tc
+(pruni) Tj
+/F4 1 Tf
+2.2659 0 TD
+0 Tc
+( ) Tj
+0.2814 0 TD
+0.0029 Tc
+(on ) Tj
+/F5 1 Tf
+1.2871 0 TD
+0.022 Tc
+(Prunus) Tj
+/F4 1 Tf
+3.0209 0 TD
+0 Tc
+( ) Tj
+0.3215 0 TD
+0.0065 Tc
+0.065 Tw
+(plants and 3\) to determine the prefered host) Tj
+-18.0168 -1.16 TD
+0 Tc
+0 Tw
+(plants.) Tj
+/F2 1 Tf
+0 -2.3 TD
+(MATERIALS AND METHODS) Tj
+0 -1.14 TD
+[(The network and the location of the ) -7.8 (collecting sites)] TJ
+/F4 1 Tf
+2.96 -1.16 TD
+0.0105 Tc
+0.1204 Tw
+[(Several people of different ) 29.9 (institutes ) 29.9 (\()] TJ
+16.06 0 TD
+0.0096 Tc
+0.1401 Tw
+[(see acknowledgments\) ) 53.4 (joined ) 71.5 (together ) 46.2 (to)] TJ
+-19.02 -1.14 TD
+0 Tc
+0.0002 Tw
+(obtain a coverage of the most important stone fruit production areas in France \(fig 1\).) Tj
+2.96 -1.16 TD
+0.0006 Tc
+0.0044 Tw
+(The seasonal evolution of the abundance of ) Tj
+/F5 1 Tf
+17.6798 0 TD
+0.0009 Tc
+0.0094 Tw
+(C. pruni) Tj
+/F4 1 Tf
+3.3509 0 TD
+0.0005 Tc
+[( ) 10.7 (was recorded at ) -17.3 (each) -8 ( ) 6.2 (location)] TJ
+-23.9907 -1.14 TD
+0.002 Tc
+0.0265 Tw
+[(by ) -14.5 (regular) -6.5 ( ) -21.5 (sampling on host plants \(one sample) 13.9 ( ) -7.2 (per ) -7.2 (week ) -20.8 (during) -7.2 ( the period ) -21.5 (from ) -5.6 (January)] TJ
+0 -1.16 TD
+0.0118 Tc
+0.1175 Tw
+[(to July ) 117.5 (; one )] TJ
+5.68 0 TD
+0 Tc
+0 Tw
+[(sample) -7.5 ( )] TJ
+3.2445 0 TD
+0.0135 Tc
+0.1331 Tw
+(per two ) Tj
+3.6355 0 TD
+0.0001 Tc
+0.1699 Tw
+[(weeks during) -9.1 ( )] TJ
+5.9445 0 TD
+0.014 Tc
+0 Tw
+(the ) Tj
+1.6555 0 TD
+0.0018 Tc
+0.1882 Tw
+[(remaining period\) )] TJ
+7.762 0 TD
+0.0099 Tc
+0.106 Tw
+[(during) 12.3 ( 3) -0.6 ( )] TJ
+3.9003 0 TD
+0.0105 Tc
+0 Tw
+(successive) Tj
+-31.8223 -1.14 TD
+0.0021 Tc
+0.0212 Tw
+(years \(2000 - 2002\). Several ) Tj
+/F5 1 Tf
+11.7747 0 TD
+0.0069 Tc
+0 Tw
+(Prunus) Tj
+/F4 1 Tf
+2.9308 0 TD
+0 Tc
+( ) Tj
+0.2345 0 TD
+0.0021 Tc
+0.0241 Tw
+[(species were sampled ) 10.3 (with at least one sample ) 17.8 (taken)] TJ
+-14.94 -1.16 TD
+0 Tc
+0 Tw
+(from ) Tj
+/F5 1 Tf
+2.2 0 TD
+0.0008 Tw
+(Prunus spinosa ) Tj
+/F4 1 Tf
+6.4462 0 TD
+0 Tw
+[(to be able to compare the data ) 10.8 (between locations.)] TJ
+/F2 1 Tf
+-8.6462 -2.3 TD
+0.0005 Tw
+(Standardised protocol to count ) Tj
+/F3 1 Tf
+13.4469 0 TD
+0 Tw
+(C. pruni) Tj
+/F2 1 Tf
+3.4331 0 TD
+(:) Tj
+/F4 1 Tf
+-13.92 -1.14 TD
+0.0026 Tc
+0.0243 Tw
+[(As ) -5.6 (many ) -9.8 (different people were implied in the )] TJ
+18.7671 0 TD
+0.002 Tc
+0.0279 Tw
+[(project, the data had to be ) 5.7 (collected)] TJ
+-21.7271 -1.16 TD
+0.0035 Tc
+0.035 Tw
+[(with a same and simple ) -14.1 (protocol to be ) -18.7 (compared. The sample unit was ) 33.2 (defined as a serie)] TJ
+0 -1.14 TD
+0.0038 Tc
+0.0378 Tw
+[(of 20 branches  beaten upon a 0.5 m_ beating ) -6.1 (tray. The )] TJ
+/F5 1 Tf
+22.9413 0 TD
+0.0031 Tc
+0 Tw
+(C. ) Tj
+1.1987 0 TD
+0.0117 Tc
+(pruni) Tj
+/F4 1 Tf
+2.2255 0 TD
+0 Tc
+( ) Tj
+0.2824 0 TD
+0.0024 Tc
+0.03 Tw
+[(falling on the tray ) 11.2 (were)] TJ
+ ET

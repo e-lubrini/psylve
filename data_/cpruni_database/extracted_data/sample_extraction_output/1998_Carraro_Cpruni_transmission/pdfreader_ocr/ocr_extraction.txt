@@ -1,0 +1,473 @@
+
+1 g
+ BX
+/GS1 gs
+ EX
+0 842 m
+0 842 l
+ f
+ q
+1 i
+27 805 541 -767 re
+0 842 m
+ W
+ n
+0 842.04 594.96 -842.04 re
+ W
+ n
+ BX
+/GS2 gs
+ EX
+57.87 611.24 480 -523.78 re
+0 842 m
+ f*
+ BT
+/F2 1 Tf
+9 0 0 9 58.875 603.334 Tm
+0 g
+0 Tc
+(SUMMARY) Tj
+/F8 1 Tf
+10 0 0 10 70.875 579.334 Tm
+0.007 Tc
+0.118 Tw
+(Experimental transmission of European stone fruit) Tj
+-1.2 -1.2 TD
+0 Tc
+0.098 Tw
+(yellows phytoplasma to Japanese plum cv. ‘Ozark Pre-) Tj
+ T*
+0.011 Tw
+(mier’ was achieved using ) Tj
+/F6 1 Tf
+10.467 0 TD
+(Cacopsylla pruni) Tj
+/F8 1 Tf
+6.646 0 TD
+(, caught in the) Tj
+-17.113 -1.2 TD
+0.062 Tw
+(field or raised on infected plants under controlled con-) Tj
+ T*
+0.024 Tc
+0.101 Tw
+(ditions. Using different groups of infectious psyllas,) Tj
+ T*
+0.002 Tc
+0.123 Tw
+(89% of the inoculated test plants were infected. Both) Tj
+ T*
+0.01 Tc
+0.115 Tw
+(nymphs and adults were able to transmit. Insects ex-) Tj
+ T*
+0 Tc
+0.056 Tw
+(posed to test plants immediately after capture or raised) Tj
+ T*
+0.001 Tw
+(in cages transmitted the disease. After an incubation pe-) Tj
+ T*
+0.124 Tw
+(riod of 4-5 months the first test plants showed typical) Tj
+ T*
+0.038 Tw
+(symptoms. Sources of inoculum, test plants and vectors) Tj
+ T*
+0.107 Tw
+(were examined by PCR for the presence of phytoplas-) Tj
+ T*
+0.093 Tw
+(mas. Following digestion of the amplification products) Tj
+ T*
+0.011 Tc
+0.114 Tw
+(with restriction enzymes, isolates from plants and in-) Tj
+ T*
+0 Tc
+0.022 Tw
+(sects showed the same restriction profiles. Interestingly,) Tj
+ T*
+0.01 Tc
+0.115 Tw
+(pear decline and European stone fruit yellows, mem-) Tj
+ T*
+0.004 Tc
+0.121 Tw
+(bers of the apple proliferation cluster, are both trans-) Tj
+ T*
+0 Tc
+0 Tw
+(mitted by ) Tj
+/F6 1 Tf
+4.185 0 TD
+(Cacopsylla) Tj
+/F8 1 Tf
+4.469 0 TD
+(spp.) Tj
+/F2 1 Tf
+9 0 0 9 58.875 339.334 Tm
+(RIASSUNTO) Tj
+10 0 0 10 70.875 315.334 Tm
+(T) Tj
+7.5 0 0 7.5 77.528 315.334 Tm
+-0.002 Tc
+[(RASMISSIONE) -496 (DEL) -496 (FITOPLASMA) -496 (ASSOCIATO) -496 (AL) -496 (GIAL)] TJ
+10 0 0 10 286.098 315.334 Tm
+(-) Tj
+7.5 0 0 7.5 58.875 303.334 Tm
+0.027 Tc
+[(LUME) -497 (EUROPEO) -497 (DELLE) -497 (DRUPACEE) -497 (A) -497 (MEZZO) -497 (DI)] TJ
+/F4 1 Tf
+8.62 0 0 8.62 260.52 303.334 Tm
+0.028 Tc
+(CACO) Tj
+11.5 0 0 11.5 284.478 303.334 Tm
+(-) Tj
+8.62 0 0 8.62 58.875 291.334 Tm
+0.006 Tc
+[(PSYLLA) -507 (PRUNI)] TJ
+/F2 1 Tf
+10 0 0 10 118.958 291.334 Tm
+0.005 Tc
+(. ) Tj
+/F8 1 Tf
+0.627 0 TD
+0.118 Tw
+(Si riferisce su una serie di esperimenti) Tj
+-6.635 -1.2 TD
+-0.003 Tc
+0.038 Tw
+(condotti in ambiente controllato al fine di individuare il) Tj
+ T*
+0.014 Tc
+0.108 Tw
+(vettore del giallume europeo delle drupacee \(ESFY\).) Tj
+ T*
+0.002 Tc
+0.12 Tw
+(Attraverso una serie di esperienze condotte in passato) Tj
+ T*
+0.01 Tc
+0.112 Tw
+(ed utilizzando varie tecniche di trasmissione, non era) Tj
+ T*
+-0.003 Tc
+0.075 Tw
+(stato possibile trasmettere la malattia con nessuna delle) Tj
+ T*
+0.048 Tw
+(numerose specie di insetti, principalmente cicaline, pre-) Tj
+ T*
+0.038 Tw
+(se in considerazione. Anche mediante tecniche di biolo-) Tj
+ T*
+0.042 Tw
+(gia molecolare \(PCR\) non era stata messa in evidenza la) Tj
+ T*
+0.046 Tw
+(presenza del fitoplasma in insetti catturati in zone infet-) Tj
+ T*
+0.05 Tw
+(te. In seguito, in una zona del nord-est Italia ove si pra-) Tj
+ T*
+0.029 Tw
+(tica l’agricoltura biologica, si è potuta osservare, a inizio) Tj
+ T*
+0.013 Tw
+(di primavera, la presenza di ) Tj
+/F6 1 Tf
+11.56 0 TD
+(Cacopsylla pruni) Tj
+/F8 1 Tf
+6.867 0 TD
+(su impianti) Tj
+ ET
+0 G
+0 J
+0 j
+0.5 w
+10 M
+[] 0 d
+58.87 122.58 m
+288.87 122.58 l
+ S
+ BT
+/F6 1 Tf
+8 0 0 8 58.875 114.334 Tm
+0 Tc
+0 Tw
+(Corresponding author: ) Tj
+/F8 1 Tf
+9.247 0 TD
+(R. Osler) Tj
+-9.247 -1.125 TD
+(Fax: +39.0432.558501) Tj
+ T*
+(E-mail: osler@pldef.uniud.it) Tj
+10 0 0 10 306.875 602.566 Tm
+0.023 Tc
+0.099 Tw
+(di susino giapponese con evidenti sintomi di ESFY.) Tj
+0 -1.2 TD
+-0.003 Tc
+0.042 Tw
+(Nelle prove di trasmissione successivamente condotte si) Tj
+ T*
+0.006 Tw
+(è potuto dimostrare che tale specie di psilla è vettore del) Tj
+ T*
+0.07 Tw
+(fitoplasma associato a ESFY. Oltre agli adulti svernanti) Tj
+ T*
+0.003 Tw
+(ed alle ninfe e adulti della nuova generazione raccolti di-) Tj
+ T*
+0.095 Tw
+(rettamente in frutteti infetti, anche ninfe ed adulti alle-) Tj
+ T*
+-0.001 Tc
+0.123 Tw
+(vati in cattività hanno trasmesso il patogeno in studio.) Tj
+ T*
+-0.003 Tc
+0.027 Tw
+(Dopo inoculazioni multiple, 89% delle piante test \(susi-) Tj
+ T*
+0.01 Tw
+(no cv. ‘Ozark Premier’\) sottoposte ad analisi mediante il) Tj
+ T*
+0.019 Tc
+0.103 Tw
+(test DAPI e PCR-RFLP è risultato infetto. Le stesse) Tj
+ T*
+0.001 Tc
+0.121 Tw
+(piante hanno anche manifestato dopo 4-5 mesi i tipici) Tj
+ T*
+-0.003 Tc
+0.066 Tw
+(sintomi della malattia, fatta eccezione per la necrosi del) Tj
+ T*
+0.002 Tc
+0.12 Tw
+(floema. Sottoponendo a digestione enzimatica il DNA) Tj
+ T*
+-0.003 Tc
+0.103 Tw
+(amplificato di fitoplasmi ottenuto dalle piante sorgente) Tj
+ T*
+-0.001 Tc
+0.123 Tw
+(di inoculo, dalle piante test e dai vettori animali, sono) Tj
+ T*
+-0.003 Tc
+0.057 Tw
+(stati ottenuti costantemente gli stessi profili di restrizio-) Tj
+ T*
+0.042 Tw
+(ne. Sulla base dei dati finora a disposizione, emerge che) Tj
+ T*
+0.005 Tc
+0.117 Tw
+(i fitoplasmi inclusi nel gruppo genetico degli scopazzi) Tj
+ T*
+0.118 Tw
+(del melo \(es. moria del pero e giallume europeo delle) Tj
+ T*
+-0.003 Tc
+0 Tw
+(drupacee\) sono trasmessi da psille.) Tj
+/F6 1 Tf
+1.2 -2.4 TD
+0.012 Tc
+0.113 Tw
+(Key words) Tj
+/F8 1 Tf
+4.433 0 TD
+(: psyllids, phytoplasmas, Japanese plum,) Tj
+-5.633 -1.2 TD
+0 Tc
+0 Tw
+(PCR, detection.) Tj
+/F2 1 Tf
+9 0 0 9 306.875 299.566 Tm
+(INTRODUCTION) Tj
+/F8 1 Tf
+10 0 0 10 318.875 275.566 Tm
+0.058 Tw
+(Phytoplasmas are considered to be the causal agents) Tj
+-1.2 -1.2 TD
+0.024 Tc
+0.101 Tw
+(of several stone fruit disorders, including plum lep-) Tj
+ T*
+0 Tc
+0.052 Tw
+(tonecrosis, decline of European plums, apricot chlorot-) Tj
+ T*
+0.07 Tw
+(ic leaf roll, Molière’s disease and other yellows and de-) Tj
+ T*
+0.006 Tc
+0.119 Tw
+(cline diseases of stone fruit trees \(Sanchez-Capuchino) Tj
+ T*
+0.034 Tc
+0.091 Tw
+(and Forner, 1973; Morvan, 1977; Giunchedi ) Tj
+/F6 1 Tf
+20.491 0 TD
+(et al.,) Tj
+/F8 1 Tf
+-20.491 -1.2 TD
+0 Tc
+0.095 Tw
+(1982; Rumbos and Bosalidis, 1985; Dosba ) Tj
+/F6 1 Tf
+18.098 0 TD
+(et al.,) Tj
+/F8 1 Tf
+2.652 0 TD
+(1990;) Tj
+-20.75 -1.2 TD
+0.109 Tw
+(Poggi Pollini ) Tj
+/F6 1 Tf
+5.777 0 TD
+(et al.,) Tj
+/F8 1 Tf
+2.681 0 TD
+(1993; Lee ) Tj
+/F6 1 Tf
+4.486 0 TD
+(et al.,) Tj
+/F8 1 Tf
+2.681 0 TD
+(1995; Marcone ) Tj
+/F6 1 Tf
+6.634 0 TD
+(et) Tj
+-22.259 -1.2 TD
+(al.,) Tj
+/F8 1 Tf
+1.49 0 TD
+0.018 Tw
+(1996; Carraro ) Tj
+/F6 1 Tf
+5.987 0 TD
+(et al.,) Tj
+/F8 1 Tf
+2.498 0 TD
+(1998b\). According to Lorenz ) Tj
+/F6 1 Tf
+12.285 0 TD
+(et) Tj
+-22.259 -1.2 TD
+(al.,) Tj
+/F8 1 Tf
+1.571 0 TD
+0.099 Tw
+(\(1994\) such European stone fruit phytoplasma dis-) Tj
+-1.571 -1.2 TD
+0.022 Tc
+0.103 Tw
+(eases are believed to have a common aetiology. The) Tj
+ T*
+0.051 Tc
+0.074 Tw
+(name ‘European stone fruit yellows phytoplasma’) Tj
+ T*
+0 Tc
+0.059 Tw
+(\(ESFY-P\) has been proposed for the pathogen. On the) Tj
+ T*
+0.078 Tw
+(basis of sequence and restriction fragment length poly-) Tj
+ T*
+0.056 Tc
+0.069 Tw
+(morphism \(RFLP\) analysis of PCR-amplified 16S) Tj
+ T*
+0.01 Tc
+0.115 Tw
+(rDNA, the agent of ESFY is placed within the apple) Tj
+ ET
+1 g
+57.87 761.48 480 -16 re
+536.972 95.566 m
+ f*
+ BT
+10 0 0 10 58.875 752.802 Tm
+0 g
+0 Tc
+0 Tw
+(Journal of Plant Pathology \(1998\), ) Tj
+/F2 1 Tf
+14.334 0 TD
+(80) Tj
+/F8 1 Tf
+1.25 0 TD
+(\(3\), 233-239) Tj
+/F6 1 Tf
+7.216 0 TD
+(Edizioni ETS Pisa, 1998) Tj
+/F8 1 Tf
+23.5 0 TD
+(233) Tj
+ ET
+1 g
+57.87 727.46 480 -111.7 re
+536.875 752.802 m
+ f*
+ BT
+/F2 1 Tf
+12 0 0 12 82.84 717.251 Tm
+0 g
+(TRANSMISSION OF EUROPEAN STONE FRUIT YELLOWS PHYTOPLASMA) Tj
+11.781 -1.083 TD
+(BY ) Tj
+/F4 1 Tf
+13.5 0 0 13.5 243.879 704.251 Tm
+(CACOPSYLLA PRUNI) Tj
+/F2 1 Tf
+10 0 0 10 180.761 689.251 Tm
+(L. Carraro, R. Osler, N. Loi, P. Ermacora and E. Refatti) Tj
+/F6 1 Tf
+9 0 0 9 133.005 667.251 Tm
+(Dipartimento di Biologia Applicata alla Difesa delle Piante, Università degli Studi di Udine,) Tj
+9.746 -1.222 TD
+(Via delle Scienze 208, I-33100 Udine, Italy) Tj
+ ET
+ Q
+ q
+1 i
+285.3 759.48 m
+285.3 755.34 282.612 751.98 279.3 751.98 c
+275.988 751.98 273.3 755.34 273.3 759.48 c
+273.3 763.62 275.988 766.98 279.3 766.98 c
+282.612 766.98 285.3 763.62 285.3 759.48 c
+ h
+375.027 656.251 m
+ W*
+ n
+27 805 541 -767 re
+0 842 m
+ W
+ n
+0 842.04 594.96 -842.04 re
+ W
+ n
+0 g
+ BX
+/GS2 gs
+ EX
+ q
+8.6688 0 0 12.0959 275.25 752.3841 cm
+BI
+/W 43 /H 60 /BPC 1 /IM true /Filter [ /ASCII85Decode  /None ]
+ID
+|NnqL|KR`p00;lz|L}j||KR`Q|M-94|HuFSKj8l#|NkH0{y+c!kKq1)|NqC}{Qv*|=ivDN*#Gn3@%{jR0pRoe0C)l5<KO^54B+SB0002s$Mi4&0ASBQ0001B%pU*%0U($h0009Zm>2*610b9j000Moz6byS4}dxV000kw2mk;84}byy001Ar0l)wNKfnOt004i$001BW55OP*000lbFaRI`2f#285HJJ4xcC6^1Aw{s5OD*5oBjYX1Aw3K05JoApWp-$!=T^b1`)#`&)^0T#~{z~0s+q;&-j7?&miZ70t5bF=YRko{$S?-0T2FQ^8f&k{NVEd2nYP&@pya({NVZie*^j8`Tu_d`QZHj{{!>j{D1!k^Wgq}{|D#b{y+Q&=ivW8`~c73|DX5)kKq50_yZr{|Hu44Kj8o4|NejA|MCC$|KR`l|MCCe|NI|=|KR`s01yA*~>
+EI
+ Q
+ Q

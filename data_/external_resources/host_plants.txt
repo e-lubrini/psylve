@@ -1,21 +1,39 @@
-
-Crataegus spp. (Rosales, Rosaceae)
-Oettl & Schlink (2015): 2176
-Malus domestica Borkh. (Rosales, Rosaceae)
-Oettl & Schlink (2015): 2176
-Picea sp. (Pinales, Pinaceae)
-Pinus sp. (Pinales, Pinaceae)
-Prunus L. (Rosales, Rosaceae)
-Prunus armeniaca L. (Rosales, Rosaceae)
-Prunus avium (L.) L. (Rosales, Rosaceae)
-Prunus cerasifera Ehrh. (Rosales, Rosaceae)
-Prunus domestica L. (Rosales, Rosaceae)
-Prunus domestica subsp. insititia (L.) C.K. Schneid. = Prunus insititia L. (Rosales, Rosaceae)
-Prunus insititia L. (Rosales, Rosaceae)
-Prunus padus L. (Rosales, Rosaceae)
-Prunus persica (L.) Stokes (Rosales, Rosaceae)
-Prunus salicina Lindl. (Rosales, Rosaceae)
-Prunus spinosa L. (Rosales, Rosaceae)
-Abies alba Mill. (Pinales, Pinaceae)
-Jarausch & Jarausch (2016): 115
-Picea abies (L.) H. Karst. (Pinales, Pinaceae)
+Crataegus spp.
+Oettl & Schlink
+Oettl & Schlink (2015)
+Malus domestica
+Malus domestica Borkh.
+Oettl & Schlink
+Oettl & Schlink (2015)
+Picea sp.
+Pinus sp.
+Prunus
+Prunus L.
+Prunus armeniaca
+Prunus armeniaca L.
+Prunus avium
+Prunus avium (L.)
+Prunus avium (L.) L.
+Prunus cerasifera
+Prunus cerasifera Ehrh.
+Prunus domestica
+Prunus domestica L.
+Prunus domestica subsp. insititia
+Prunus domestica subsp. insititia (L.)
+Prunus domestica subsp. insititia (L.) C.K. Schneid.
+Prunus insititia
+Prunus insititia L.
+Prunus padus
+Prunus padus L.
+Prunus persica
+Prunus persica (L.)
+Prunus persica (L.) Stokes
+Prunus salicina
+Prunus salicina Lindl.
+Prunus spinosa
+Prunus spinosa L.
+Abies alba
+Abies alba Mill.
+Picea abies
+Picea abies (L.)
+Picea abies (L.) H. Karst.

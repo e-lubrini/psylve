@@ -1,0 +1,243 @@
+Bulletin of Insectology 60 (2): 183-184, 2007
+ISSN 1721-8861
+
+“Candidatus Phytoplasma prunorum’: the phytoplasma
+infection of Cacopsylla pruni from apricot orchards and from
+overwintering habitats in Moravia (Czech Republic)
+
+Renata FIALovA’, Milan NAVRATIL', Pavel LAUTERER’, Veronika NAVRKALOVA’
+"Department of Cell Biology and Genetics, Faculty of Science, Palack University, Olomouc, Czech Republic
+?Department of Entomology, Moravian Museum, Brno, Czech Republic
+
+Abstract
+
+The incidence of individuals of Cacopsylla pruni infected with ‘Candidatus Phytoplasma prunorum’ was analysed by PCR/RFLP
+in single insects captured during a growing season in selected apricot plantations in southern Moravia (Czech Republic). A por-
+tion of adults of both overwintering and new generation of the psyllid was determined as positive for the phytoplasma presence. It
+was found that conifers growing in the investigated hilly sites of middle Moravia harbour C. pruni during the winter season. The
+presence of the phytoplasma positive individuals of the species was determined in 3 of 4 batches of specimens from overwintering
+
+   
+
+sites,
+
+Key words: conifers, psyllid, vector.
+
+Introduction
+
+‘Candidatus Phytoplasma prunorum’ (formerly Euro-
+pean stone fruit yellows phytoplasma) is one of the most
+important fruit tree phytoplasmas causing serious dam-
+ages in cultivated Prunus species in Europe. In the
+Czech Republic the pathogen occurs in warmer habitats
+in southern Moravia (Navratil er a/., 1998) that consti-
+tutes a considerable apricot and peach production area
+within the country.
+
+The psyllid Cacopsylla pruni Scopoli was described
+as vector of ‘Candidatus Phytoplasma prunorum’ by
+Carraro et al. (1998, 2001). The species is abundant and
+widely distributed over the Moravian region. C. pruni is
+narrowly oligophagous on Prunus species, whereas wild
+Prunus plants, mainly blackthorn (P. spinosa), are its
+preferred host plants (Lauterer, 1999). The psyllid is
+monovoltine and hibernates at adult stage on shelter
+plants, mainly conifers.
+
+The aim of the work was to determine the occurrence
+of C. pruni inside selected apricot plantations and the
+incidence of individuals positive for “Ca. P. prunorum’.
+A further objective was to assess the presence and the
+phytoplasma infection of the psyllids from overwinter-
+ing habitats.
+
+Materials and methods
+
+Insects were caught using sweep-netting during vegeta-
+tion season of 2006 every two weeks between beginning
+of April and mid-July in apricot trees in three sites lo-
+cated in the southern Moravia region: in two experimen-
+tal apricot plantations (designated as L-g and L-m) in
+Lednice location (altitude 176 m a.s.l.) and in a com-
+mercial apricot orchard in Velké Néméice (VN) location
+(altitude 184 m a.s.1.). The sample collection unit is de-
+fined as number of individuals of a species obtained by
+
+sweep-netting of 45 trees. After identification, adults of
+C. pruni were stored in absolute ethanol (-20°C) until
+tested for determining phytoplasma presence. Other
+captures of hemipteran insects were performed during
+the winter season monthly from November 2006 to Feb-
+ruary 2007 in middle Moravia region on conifers
+(Picea) in hilly sites of Drahanska vrchovina Highland
+(altitude between 480 and 530 maz.s.l.). The adults of C.
+pruni were stored in absolute ethanol (—20°C) until
+tested.
+
+The extracts of total DNA from single psyllid indi-
+viduals were obtained using a commercial kit (Wizard
+Genomic DNA Purification Kit, Promega, USA). The
+detection of phytoplasmas in single individuals of C.
+pruni was performed using nested-PCR with universal
+primers R16F1/RO and R16F2/R2 (Lee et al., 1995) de-
+rived from 16S rDNA. Amplification products obtained
+with primers R16F2/R2 were subjected to digestion
+with Rsal, Bfml, and Alu (Fermentas, Lithuania) re-
+striction endonucleases.
+
+Results
+
+The species C. pruni occurred in observed apricot or-
+chards from the beginning of April till the end of June
+2006. The numbers of psyllids caught on apricots during
+the growing season 2006 are reported in table 1. The
+psyllids were more abundant inside both apricot planta-
+tions in Lednice location, with the peak in the numbers
+of captured individuals from mid-April to beginning of
+May. As regards with the new generation of C. pruni
+inside the location, maximal numbers were collected at
+the end of June. Very low numbers of C. pruni were
+collected in the apricot orchard in Velké Néméice loca-
+tion. The results of phytoplasma detection in the indi-
+viduals of C. pruni captured in apricot trees during the
+growing season are shown in table 1.
+
+Table 1. Results of detection of ‘Ca. P. prunorum’ in C.
+pruni caught on apricots during the growing season
+2006 (number of phytoplasma positive individu-
+als/number of captured individuals).
+
+Location
+Caught date VN Ls Lim
+April 3 0/1 (0.0%) 0 4/12 (33.3%)
+April 18 0/7 (0.0%) 14/64 (22.9%) 9/22 (26.3%)
+May 2 0/4 (0.0%) 10/38 (26.3%) 6/22 (27.3%)
+May 16 0 0/4 (0.0%) 0
+May 29 0 1/3 (33.3%) 0/3 (0.0%)
+June 13 0 0 O/L1 (0.0%)
+June 26 O/1* (0.0%) 1/13 (7.7%) 20/67* (29.9%)
+
+July 11 0 0 0
+* new generation
+
+Table 2. Detection of ‘Ca. P. prunorum’ in C. pruni
+caught on conifers during the winter season.
+
+. Phytoplasma
+Collection date ositive (%) Tested
+
+November 25, 2006 4 (10.0) 40
+December 26, 2006 4 (13.3) 30
+January 7, 2007 0 (0.0) 10
+February 10, 2007 1 03 40
+
+Individuals of C. pruni were regularly collected on
+conifers at the investigated hilly sites from November
+2006 to February 2007. The presence of ‘Ca. P. prun-
+orum’ positive individuals of C. pruni was found in 3
+out of 4 batches tested (see table 2).
+
+Discussion
+
+In France, Yvon et al. (2004) reported detection of two
+ESFY phytoplasma positive individuals of C. pruni
+from natural populations overwintering on conifers. We
+found phytoplasma positive individuals of C. pruni
+among adults captured in the winter season on Picea
+trees growing in elevations of the Drahanska vrchovina
+Highland. In view of the relatively high numbers of C.
+pruni adults and other members of the genus collected
+during the winter period from the sites, we can consider
+the location as an important overwintering site for psyl-
+lids in the Czech Republic conditions. It must be men-
+tioned that the location is situated far (several tens of
+kilometres) from the main area of stone fruit tree pro-
+duction. However, it is proposed that psyllids can mi-
+grate for a long distance. Concordantly, overwintering
+sites of C. pruni have been referred to be located in
+mountainous sites far away from the area with Prunus
+orchards (Yvon et al., 2004). The authors still remarked
+that C. pruni has not been found to overwinter on coni-
+fers in the lower altitude area with a blackthorn hedge.
+Likewise, Poggi Pollini et al. (2004) in Italy collected
+no specimens of the species during the winter captures
+on conifers surrounding the areas where the disease has
+been found in recent years.
+
+184
+
+Concerning phytoplasma infection of the species cap-
+tured in the studied apricot plantations, our results show
+that individuals of C. pruni positive for ‘Ca. P. prun-
+orum’ are present in the overwintering as well as in the
+new generation. These results fit with the findings of
+other studies that both generations are infected but some
+authors (Thébaud et a/., 2007) considered the overwin-
+tering generation as more important in the phytoplasma
+transmission.
+
+In conclusion, our findings indicate that in the Czech
+conditions the psyllid C. pruni can act as a reservoir of
+"Ca. P. prunorum’ during the growing season as well as
+during the winter.
+
+Acknowledgements
+
+The work was supported by the Ministry of Education,
+Youth and Sports of the Czech Republic within
+EUREKA project No. OE 180. We thank Vaclav Cer-
+mak for winter captures of psyllids.
+
+References
+
+CARRARO L., LOIN., ERMACORA P., 2001.- Transmission char-
+acteristics of the European stone fruit yellows phytoplasma
+and its vector Cacopsylla pruni.- European Journal of Plant
+Pathology, 107: 695-700.
+
+CaRRARO L., OSLER R., Lot N., ERMACORA P., REFATTI E.,
+1998.- Transmission of European stone fruit yellows phyto-
+plasma by Cacopsylla pruni~ Journal of Plant Pathology,
+80: 233-239.
+
+LAUTERER P., 1999.- Results of investigations on Hemiptera in
+Moravia, made by Moravian Museum (Psylloidea 2).- Acta
+Musei Moraviae, Scientae Biologicae (Brno), 84: 71-151.
+
+Lee I.-M., BERTACCINI A., VIBIO M., GUNDERSEN D. E., 1995.-
+Detection of multiple phytoplasmas in perennial fruit trees
+with decline symptoms in Italy.- Phytopathology, 85: 728-
+735.
+
+NavratIL M., VALOVA P., FIALOVA R., FRANOVA J., VORACK-
+OVA Z., KARESOVA R., 1998.- Occurrence of fruit tree phy-
+toplasmas in the Czech Republic.- Acta Horticulturae, 472:
+649-654.
+
+PoGGI POLLINI C., BIssANI R., Drab D., Mort N., VISIGALLI
+T., 2004. - Detection of European stone fruit yellows phyto-
+plasma (ESFYP) in Homoptera insects and in wild stone
+fruit trees collected in peach orchards in northern Italy.-
+Acta Horticulturae, 657: 513-518.
+
+THEBAUD G., YVON, M., LABONNE G., 2007.- European stone
+fruit yellows: Epidemiological consequences of the multipli-
+cation of the phytoplasma during the complete life cycle of
+its vector.- Acta Horticulturae, in press.
+
+YVON M., LABONNE G., THEBAUD G., 2004.- Survival of Euro-
+pean stone fruit yellows phytoplasma outside fruit crop pro-
+duction areas: a case study in southeastern France.- Acta
+Horticulturae, 657: 477-481.
+
+ 
+
+  
+
+ 
+
+Corresponding author: Renata  FIALOVA (e-mail:
+renata.fialova@upol.cz), Department of Cell Biology and
+Genetics, Faculty of Science, Palacky University, Slechtitelu
+11, 783 71, Olomouc, Czech Republic.
+

@@ -1,0 +1,1238 @@
+
+/CS52 cs
+0 0 0 scn
+1 i
+/RelativeColorimetric ri
+/GS52 gs
+ BT
+/TT182 1 Tf
+-0.0012 Tc
+-0.0012 Tw
+10.02 0 0 10.02 331.0213 796.7003 Tm
+(Bulletin of ) Tj
+0.0038 Tc
+(I) Tj
+0.0008 Tc
+(n) Tj
+0.0028 Tc
+(s) Tj
+-0.0052 Tc
+(e) Tj
+0.0028 Tc
+(c) Tj
+-0.0012 Tc
+[(t) 1 (ology)] TJ
+0.0095 Tw
+( ) Tj
+/TT183 1 Tf
+-0.0053 Tc
+0 Tw
+(61) Tj
+/TT182 1 Tf
+-0.0006 Tc
+0.0046 Tw
+11.101 0 Td
+( ) Tj
+-0.0018 Tw
+0.2756 0 Td
+(\(1\): ) Tj
+/T1_36 1 Tf
+(143) Tj
+/TT182 1 Tf
+(-) Tj
+/T1_36 1 Tf
+(144) Tj
+/TT182 1 Tf
+10.02 0 0 10.02 264.96 796.7003 Tm
+23.4076 0 Td
+(, 2008 ) Tj
+/TT184 1 Tf
+-0.0004 Tc
+-0.002 Tw
+-4.6052 -1.1437 Td
+[(ISSN 1721-8) 5 (861)] TJ
+/TT182 1 Tf
+0 Tc
+0 Tw
+7.3832 0 Td
+( ) Tj
+/TT185 1 Tf
+-46.6826 -1.1377 Td
+( ) Tj
+/TT186 1 Tf
+-0.0007 Tc
+16.02 0 0 16.02 126.42 756.1403 Tm
+(Hawthorn psyllid fauna in northwestern Italy ) Tj
+/TT185 1 Tf
+0 Tc
+10.02 0 0 10.02 59.58 743.5403 Tm
+( ) Tj
+/TT186 1 Tf
+0 -1.1617 TD
+[(Rosem) 9 (arie)] TJ
+7.98 0 0 7.98 110.76 731.9003 Tm
+( ) Tj
+10.02 0 0 10.02 112.98 731.9003 Tm
+(T) Tj
+0.0007 Tc
+7.98 0 0 7.98 119.04 731.9003 Tm
+(EDESCHI) Tj
+0 Tc
+6.48 0 0 6.48 154.56 736.8803 Tm
+(1) Tj
+10.02 0 0 10.02 158.16 731.9003 Tm
+(,) Tj
+7.98 0 0 7.98 160.92 731.9003 Tm
+( ) Tj
+-0.0023 Tc
+10.02 0 0 10.02 163.14 731.9003 Tm
+[(Pa) -9 (v) 9 (e) -9 (l)] TJ
+0 Tc
+7.98 0 0 7.98 189.3 731.9003 Tm
+( ) Tj
+10.02 0 0 10.02 191.52 731.9003 Tm
+(L) Tj
+-0.0229 Tc
+7.98 0 0 7.98 197.76 731.9003 Tm
+[(AU) -30 (T) -21 (E) -33 (R) -22 (E) -25 (R)] TJ
+0 Tc
+6.48 0 0 6.48 236.34 736.8803 Tm
+(2) Tj
+10.02 0 0 10.02 239.94 731.9003 Tm
+(,) Tj
+7.98 0 0 7.98 242.7 731.9003 Tm
+( ) Tj
+0.0002 Tc
+10.02 0 0 10.02 244.92 731.9003 Tm
+(Luca) Tj
+0 Tc
+7.98 0 0 7.98 268.32 731.9003 Tm
+( ) Tj
+10.02 0 0 10.02 270.54 731.9003 Tm
+(B) Tj
+-0.0025 Tc
+7.98 0 0 7.98 277.8 731.9003 Tm
+[(E) -5 (R) -2 (TIGN) -10 (ON) -10 (O)] TJ
+0 Tc
+6.48 0 0 6.48 326.16 736.8803 Tm
+(3) Tj
+10.02 0 0 10.02 329.76 731.9003 Tm
+(,) Tj
+7.98 0 0 7.98 332.52 731.9003 Tm
+( ) Tj
+0.0005 Tc
+10.02 0 0 10.02 334.74 731.9003 Tm
+(Alberto) Tj
+0 Tc
+7.98 0 0 7.98 369.84 731.9003 Tm
+( ) Tj
+10.02 0 0 10.02 372.06 731.9003 Tm
+(A) Tj
+-0.0018 Tc
+7.98 0 0 7.98 379.32 731.9003 Tm
+[(LM) -11 (A)] TJ
+0 Tc
+6.48 0 0 6.48 396.48 736.8803 Tm
+(1) Tj
+10.02 0 0 10.02 400.14 731.9003 Tm
+( ) Tj
+/TT187 1 Tf
+6.48 0 0 6.48 59.58 725.0003 Tm
+(1) Tj
+0.0014 Tc
+0.0001 Tw
+10.02 0 0 10.02 62.82 720.5003 Tm
+[(Di) 4 (.Va) 4 (.P.R) 7 (.A.) 6 (, ) 6 (Ent) 4 (o) 4 (m) 5 (o) -2 (l) 4 (o) 4 (gi) 4 (a e) 8 ( ) 6 (Zo) 4 (ol) 4 (o) 4 (g) -2 (i) 4 (a) -2 ( ) 6 (a) 4 (ppl) 4 (i) 10 (c) 2 (at) 4 (e al) 4 (l) 4 (’) 5 (Am) 5 (bi) 4 (e) 8 (n) -2 (t) 4 (e) 2 ( “C) 4 (.) 6 ( Vi) 4 (d) 4 (a) -2 (n) 4 (o) 4 (”) 1 (, ) 6 (Uni) 4 (versi) 4 (t) 4 (à) 4 ( d) 4 (i) 4 ( Tori) 10 (no) 4 (, ) 6 (Gru) 4 (g) -2 (l) 10 (i) 4 (asco) 4 (, It) 10 (al) 4 (y )] TJ
+0 Tc
+0 Tw
+6.48 0 0 6.48 59.58 713.5403 Tm
+(2) Tj
+0.0013 Tc
+0.0002 Tw
+10.02 0 0 10.02 62.82 709.0403 Tm
+[(Dep) 4 (a) -2 (rt) 4 (me) 8 (nt) 4 ( ) 6 (of) 4 ( Ent) 10 (o) -2 (m) 5 (o) -2 (l) 4 (o) 4 (gy,) 6 ( ) 6 (Mor) 7 (a) -2 (vi) 4 (a) 4 (n) -2 ( M) 8 (u) -2 (s) 7 (e) 2 (um) 5 (, Br) 7 (n) 4 (o) -2 (, C) 4 (z) 7 (ech Re) 8 (p) 4 (ubl) 4 (i) 4 (c) 2 ( )] TJ
+0 Tc
+0 Tw
+6.48 0 0 6.48 59.58 702.0203 Tm
+(3) Tj
+-0.0019 Tc
+0.0034 Tw
+10.02 0 0 10.02 62.82 697.5203 Tm
+[(In) -5 (stitu) -5 (te Ag) -5 (rico) -5 (le Rég) -5 (i) 1 (on) -5 (a) -5 (l) 1 (, ) 6 (Ao) -5 (sta, ) 6 (Ita) -5 (l) 1 (y )] TJ
+/TT185 1 Tf
+0 Tc
+0 Tw
+-0.3234 -1.1497 Td
+( ) Tj
+9 0 0 9 59.58 675.5603 Tm
+( ) Tj
+0 -1.1533 TD
+( ) Tj
+/TT186 1 Tf
+-0.0053 Tc
+10.02 0 0 10.02 59.58 653.7203 Tm
+[(A) -8 (b) -5 (st) -8 (r) -5 (a) -6 (ct) -8 ( )] TJ
+/TT185 1 Tf
+0 Tc
+9 0 0 9 59.58 643.3403 Tm
+( ) Tj
+0.0002 Tc
+0.0098 Tw
+0 -1.1467 TD
+[(Hawthorn is one of the natural h) 7 (osts of )] TJ
+/TT187 1 Tf
+0.0005 Tc
+0.0095 Tw
+15.9067 0 Td
+(Cacopsylla melanoneura) Tj
+/TT185 1 Tf
+0.0004 Tc
+0.0096 Tw
+10.0467 0 Td
+[( ) 7 (\(Förster\), the main vector of ‘)] TJ
+/TT187 1 Tf
+0.0001 Tc
+0 Tw
+12.1933 0 Td
+[(Ca) 7 (ndidatus )] TJ
+/TT185 1 Tf
+0.0007 Tc
+0.0093 Tw
+4.8667 0 Td
+[(Ph) 7 (y) -13 (t) -1 (op) 7 (l) 5 (a) -2 (sm) 5 (a m) 5 (a) -2 (li’, th) 7 (e) -9 ( )] TJ
+0.0013 Tc
+0.0954 Tw
+-43.0133 -1.1533 Td
+[(caus) 4 (a) -1 (l) 6 ( ag) 8 (ent of) 8 ( ) 7 (apple) 5 ( prolif) 8 (era) 5 (t) -1 (i) 6 (on \(AP) 4 (\)) 1 ( dis) 4 (eas) 4 (e) 5 (,) 5 ( a s) 4 (e) -1 (r) 8 (i) -1 (ous) 4 ( and) 8 ( )] TJ
+0 Tc
+0.0967 Tw
+25.9 0 Td
+[(g) 7 (rowing problem) 11 ( for app) 7 (l) -2 (e produ) 7 (ction) 7 ( in ) 7 (Europe, particularly) -7 ( ) 7 (i) -9 (n)] TJ
+0 Tw
+26.3867 0 Td
+( ) Tj
+0.0004 Tc
+0.0029 Tw
+-52.2867 -1.1467 Td
+[(northern I) 7 (t) -2 (aly) -6 (.) 4 ( )] TJ
+0.0006 Tc
+0.0027 Tw
+0.7867 -1.1533 Td
+[(Other ps) 10 (y) -13 (l) 5 (lid sp) 7 (ecies are ackno) 7 (wledged as hawthorn feeders) 10 (,) -3 ( but)] TJ
+0.0011 Tc
+0.0022 Tw
+25.9333 0 Td
+[( no data ar) 7 (e av) 8 (ailable on their )] TJ
+-0.0043 Tw
+12.1067 0 Td
+[(presence ) -7 (and abund) 8 (ance in ) -7 (north) -6 (-)] TJ
+0.009 Tw
+-38.8267 -1.1467 Td
+[(western Ital) 6 (y. Sa) 5 (m) 6 (p) 1 (lings with yel) 6 (l) -1 (ow stick) 8 (y) -12 ( tr) 7 (aps and beat tr) 7 (a) 5 (y)] TJ
+0.0016 Tc
+0.0084 Tw
+25.2867 0 Td
+[(s) 4 ( were carr) 8 (i) -1 (ed out i) 6 (n) 2 ( two s) 4 (ites) 4 ( locat) 6 (ed in the Aos) 4 (t) -1 (a Valle) 5 (y, ) 7 (con)] TJ
+0.0017 Tc
+0 Tw
+25.1667 0 Td
+[(ta) 6 (in-)] TJ
+0.0006 Tc
+0.0827 Tw
+-50.4533 -1.1533 Td
+(ing wild ) Tj
+/TT187 1 Tf
+0 Tc
+0.0833 Tw
+3.7267 0 Td
+(Crataegus monogyna) Tj
+/TT185 1 Tf
+0.0003 Tc
+0.083 Tw
+8.6667 0 Td
+[( Jacquin plants an) 7 (d surrounded by) -6 ( meadows, wa)] TJ
+0.0005 Tc
+0.0828 Tw
+19.9267 0 Td
+[(st) -8 (elands, and vin) 7 (e) 4 (y) -6 (a) -2 (rds) 10 (,) -3 ( in the neighbourhood of) -6 ( )] TJ
+0.0012 Tc
+0.0755 Tw
+-32.32 -1.1467 Td
+[(apple or) 8 (chards)] TJ
+/TT187 1 Tf
+0.0007 Tc
+0.0693 Tw
+5.9333 0 Td
+[(. C. ) -7 (melanon) 7 (eura)] TJ
+/TT185 1 Tf
+0 Tc
+0.0767 Tw
+7.0933 0 Td
+[( was the pr) 6 (edominant species followed b) 7 (y) -7 ( )] TJ
+/TT187 1 Tf
+-0.0001 Tc
+0.0768 Tw
+17.5533 0 Td
+[(C. per) 9 (e) -3 (grina )] TJ
+/TT185 1 Tf
+0.0003 Tc
+0.0697 Tw
+5.5067 0 Td
+(\(Förster\) and ) Tj
+/TT187 1 Tf
+0.0014 Tc
+0.0753 Tw
+5.5933 0 Td
+[(C. a) 8 (ffin) 8 (is )] TJ
+/TT185 1 Tf
+-0.0004 Tc
+0.0771 Tw
+4.0667 0 Td
+(\(Löw\), while ) Tj
+/TT187 1 Tf
+0.0015 Tc
+0 Tw
+5.62 0 Td
+(C. ) Tj
+0.0007 Tc
+-51.3667 -1.1533 Td
+(crataegi) Tj
+/TT185 1 Tf
+0 Tc
+0.0033 Tw
+3.3333 0 Td
+[( \(Schran) 7 (k\) was sampled ) 7 (spor)] TJ
+-0.0017 Tc
+0.005 Tw
+11.5533 0 Td
+[(a) -4 (d) -2 (ic) -4 (ally) -8 (. Othe) -4 (r six spec) -4 (ie) -4 (s )] TJ
+0.0005 Tc
+0.0028 Tw
+10.7533 0 Td
+[(are only) -6 ( ) 7 (occasion) 7 (a) -2 (l migran) 7 (ts. )] TJ
+0.0003 Tc
+0.003 Tw
+-24.8533 -1.1467 Td
+[(The popu) 7 (lation ) 7 (d) 7 (y) -13 (namics of ) 7 (the ) 7 (two most abund) 7 (ant species) 10 (,) -3 ( )] TJ
+/TT187 1 Tf
+0.0006 Tc
+0.0027 Tw
+24.2267 0 Td
+[(C) 8 (.) -3 ( m) 9 (e) -2 (lanoneura)] TJ
+/TT185 1 Tf
+-0.0001 Tc
+-0.0032 Tw
+6.44 0 Td
+( and ) Tj
+/TT187 1 Tf
+0.0008 Tc
+0.0025 Tw
+1.94 0 Td
+(C. peregrina) Tj
+/TT185 1 Tf
+0.0014 Tc
+0.0019 Tw
+5.1133 0 Td
+[( we) 5 (re inv) 8 (e) -1 (stiga) 5 (t) -1 (ed) 8 (. )] TJ
+0 Tc
+0 Tw
+-38.5067 -1.1533 Td
+( ) Tj
+/TT186 1 Tf
+-0.0017 Tc
+-0.0028 Tw
+0 -1.1533 TD
+[(Ke) -5 (y) 8 ( w) -24 (o) 3 (rds:)] TJ
+/TT185 1 Tf
+0 Tc
+0 Tw
+5.3933 0 Td
+( ) Tj
+/TT187 1 Tf
+0.0033 Tw
+0.2533 0 Td
+[(Cr) 9 (ataegus monogyna)] TJ
+/TT185 1 Tf
+0.0033 Tc
+0 Tw
+8.5733 0 Td
+(, ) Tj
+/TT187 1 Tf
+0.0001 Tc
+-0.0034 Tw
+0.5067 0 Td
+[(Cacopsylla) 7 ( melanoneura)] TJ
+/TT185 1 Tf
+-0.0033 Tc
+0 Tw
+10.02 0 Td
+(, ) Tj
+/TT187 1 Tf
+0.0009 Tc
+0.0024 Tw
+0.5 0 Td
+[(Cacopsylla) 8 ( affinis)] TJ
+/TT185 1 Tf
+0.0033 Tc
+0 Tw
+7.2467 0 Td
+(, ) Tj
+/TT187 1 Tf
+0.0005 Tc
+0.0028 Tw
+0.5067 0 Td
+[(Cacopsylla) 7 (. p) 7 (e) 4 (regrina)] TJ
+/TT185 1 Tf
+0.0033 Tc
+0 Tw
+8.9333 0 Td
+(, ) Tj
+/TT187 1 Tf
+0.0012 Tc
+0.0021 Tw
+0.5067 0 Td
+[(Cacops) 10 (ylla) 8 ( crataeg) 8 (i)] TJ
+/TT185 1 Tf
+0.0033 Tc
+0 Tw
+8.08 0 Td
+(. ) Tj
+0 Tc
+-50.52 -1.1467 Td
+( ) Tj
+10.02 0 0 10.02 59.58 507.7403 Tm
+( ) Tj
+/TT186 1 Tf
+-0.0001 Tc
+0 -1.1557 TD
+[(Introduc) 5 (tion) 6 ( )] TJ
+/TT185 1 Tf
+0 Tc
+0 -1.1377 TD
+( ) Tj
+0.0011 Tc
+0.192 Tw
+0 -1.1497 TD
+[(Hawt) 10 (ho) 4 (r) 5 (n) -2 ( has) 7 ( alway) 4 (s) 1 ( been )] TJ
+-0.0002 Tc
+0.1933 Tw
+11.7605 0 Td
+[(considere) 7 (d) -3 ( as the prim) 11 (ary )] TJ
+0.0023 Tc
+0.3106 Tw
+-11.7605 -1.1437 Td
+[(host) 5 ( of )] TJ
+/TT187 1 Tf
+-0.0019 Tc
+0.3208 Tw
+3.6407 0 Td
+[(Ca) -5 (cop) -5 (s) -2 (ylla) -5 ( mel) 7 (a) -5 (non) -5 (eura)] TJ
+/TT185 1 Tf
+-0.0004 Tc
+0.3193 Tw
+10.3293 0 Td
+[( \(Förster\), the m) 11 (ain )] TJ
+0.2713 Tw
+-13.9701 -1.1497 Td
+[(vector of ) -6 (‘)] TJ
+/TT187 1 Tf
+0.003 Tc
+0 Tw
+4.7126 0 Td
+[(C) 11 (a) 6 (ndi) 11 (dat) 11 (us)] TJ
+/TT185 1 Tf
+-0.0017 Tc
+0.2786 Tw
+4.5988 0 Td
+[( ) 6 (Ph) -5 (yt) 7 (o) -5 (p) -5 (l) 1 (asm) 10 (a) -1 ( ) -6 (m) 10 (a) -1 (li’) -10 (, th) -5 (e causal )] TJ
+0.123 Tw
+-9.3114 -1.1497 Td
+[(ag) -5 (en) -5 (t ) 6 (of th) -5 (e Ap) -5 (p) -5 (l) 1 (e ) 6 (pro) -5 (lifera)] TJ
+-0.0008 Tc
+0.1221 Tw
+11.5689 0 Td
+[(tion \(AP\) ) 6 (diseas) 5 (e in ) 6 (north-)] TJ
+-0.0003 Tc
+0.4389 Tw
+-11.5689 -1.1437 Td
+[(western Italy) 9 ( \(Conci )] TJ
+/TT187 1 Tf
+-0.0021 Tc
+0.4347 Tw
+9.7126 0 Td
+(et al.) Tj
+/TT185 1 Tf
+-0.0016 Tc
+0.4402 Tw
+2.4251 0 Td
+[(, 199) -5 (3) -5 (;) 1 ( Lauter) -4 (er) -4 (, ) 6 (19) -5 (99) -5 (; )] TJ
+0.001 Tc
+0 Tw
+-12.1377 -1.1497 Td
+[(Tedesc) 8 (hi) 3 ( )] TJ
+/TT187 1 Tf
+0.0007 Tc
+0.1385 Tw
+3.994 0 Td
+(et al) Tj
+/TT185 1 Tf
+0.0016 Tc
+0.1376 Tw
+1.8862 0 Td
+[(.) 6 (, 2) 5 (0) -1 (0) 5 (2) -1 (;) 4 ( Tede) 8 (sc) 8 (hi) 4 ( an) 5 (d Al) 4 (m) 13 (a) 2 (, ) -6 (20) 5 (0) 5 (4) -1 (\)) 5 (. The) 8 ( )] TJ
+0.0019 Tc
+0.1134 Tw
+-5.8802 -1.1497 Td
+[(di) 4 (ff) 6 (usi) 10 (on ) 6 (of t) 10 (h) 5 (e pl) 4 (ant) 4 ( i) 4 (n) -1 ( t) 10 (h) -1 (e ) 6 (nei) 4 (g) 5 (hb) 5 (o) 5 (rh) 5 (o) 5 (od ) 6 (of a) 9 (p) 5 (pl) 4 (e o) 5 (r-)] TJ
+-0.0018 Tc
+0.2069 Tw
+0 -1.1437 TD
+[(ch) -5 (ard) -5 (s) -2 ( i) 7 (n) -5 (du) -5 (ced) -5 ( ) 6 (u) -5 (s) -2 ( to inv) -5 (e) -1 (st) 7 (ig) -5 (ate th) -5 (e ) 6 (h) -5 (a) -1 (wt) 7 (h) -5 (o) 1 (rn) -5 ( psyllid) -5 ( )] TJ
+0.0012 Tc
+0.3057 Tw
+0 -1.1497 TD
+[(fau) 4 (n) -2 (a t) 4 (o) -2 ( ) 6 (u) 4 (nde) 8 (rst) 4 (a) 2 (n) 4 (d) -2 ( bet) 4 (t) 4 (e) 2 (r t) 10 (h) -2 (e rel) 4 (a) 2 (t) 4 (i) 4 (o) 4 (nshi) 10 (ps bet) 10 (w) -1 (ee) 8 (n) 4 ( )] TJ
+0.0015 Tc
+0.1078 Tw
+ T*
+[(t) 4 (hose i) 4 (n) -1 (sect) 4 (s a) 8 (nd ) 6 (hawt) 10 (ho) 5 (rn ) 6 (p) 5 (l) 4 (ant) 4 (s) 1 ( and t) 4 (h) -1 (e ) 6 (pos) 7 (si) 4 (bl) 4 (e im) 13 (-)] TJ
+-0.0001 Tc
+0.0016 Tw
+0 -1.1437 TD
+[(plications i) 8 (n) -3 ( s) 6 (p) 3 (readi) 8 (n) -3 (g the ) 6 (dis) 6 (ease. )] TJ
+0 Tc
+0 Tw
+0 -1.1497 TD
+( ) Tj
+ T*
+( ) Tj
+/TT186 1 Tf
+-0.0024 Tw
+0 -1.1557 TD
+[(Materials a) 5 (n) 6 (d methods )] TJ
+/TT185 1 Tf
+0 Tw
+0 -1.1377 TD
+( ) Tj
+-0.0018 Tc
+0.0093 Tw
+0 -1.1497 TD
+[(Th) -5 (e research) -5 ( ) 6 (was carried) -5 ( ou) -5 (t fro) -5 (m) 10 ( 2) -5 (0) 1 (0) -5 (3) -5 ( ) 6 (un) -5 (til 2) -5 (005) -5 (. Two) -5 ( )] TJ
+-0.001 Tc
+0.1402 Tw
+0 -1.1437 TD
+[(sites with) -4 ( wild p) -4 (l) 1 (an) -4 (ts of )] TJ
+/TT187 1 Tf
+-0.0025 Tc
+0.1417 Tw
+10.491 0 Td
+[(Crata) -5 (e) -2 (gu) -5 (s mon) -5 (ogyn) -5 (a)] TJ
+/TT185 1 Tf
+-0.0011 Tc
+0.1403 Tw
+8.7066 0 Td
+[( Ja) 6 (cquin )] TJ
+0.0015 Tc
+0.1377 Tw
+-19.1976 -1.1497 Td
+[(sur) 5 (r) -1 (o) 5 (u) 5 (n) -1 (d) 5 (e) 2 (d by) 11 ( ) -12 (m) 13 (eadow) 5 (s, wa) 8 (st) 4 (el) 4 (ands, vi) 4 (n) 5 (e) 2 (y) 5 (a) 2 (rds) 7 (, ) -6 (i) 4 (n) -1 ( ) -6 (t) 10 (h) -1 (e )] TJ
+-0.0044 Tc
+0.3472 Tw
+ T*
+[(nei) 4 (ghb) 5 (or) 5 (ho) 5 (od ) 6 (of appl) 4 (e orc) 8 (h) 5 (ards were ch) 5 (osen i) 4 (n) -1 ( t) 4 (h) -1 (e )] TJ
+-0.0015 Tc
+0.003 Tw
+0 -1.1497 TD
+[(Aost) 7 (a ) 6 (Valley ) 6 (\() 8 (n) -4 (orthwestern) -4 ( ) 6 (Italy\), at an altit) -5 (u) -4 (d) -4 (e) 5 ( b) -4 (e) -1 (t) 7 (w) -4 (een) 8 ( ) 6 ( )] TJ
+0 Tc
+0 Tw
+ T*
+( ) Tj
+0 -1.1437 TD
+( ) Tj
+/TT188 1 Tf
+-0.0013 Tc
+0.1226 Tw
+0 -1.1497 TD
+[(Ta) -4 (ble 1) -4 (.)] TJ
+/TT185 1 Tf
+-0.0008 Tc
+0.1161 Tw
+3.5689 0 Td
+[( Psyllid) -4 ( ) -6 (sp) -4 (ecies ) -6 (caug) -4 (h) -4 (t) 2 ( o) -4 (n) -4 ( h) -4 (awt) 8 (h) -4 (o) 2 (rn) -4 ( p) -4 (l) 2 (an) -4 (ts ) -6 (b) -4 (y) 8 ( )] TJ
+-0.0012 Tc
+0.0266 Tw
+-2.8623 -1.1497 Td
+[(mean) -4 (s o) -4 (f) -3 ( yellow stick) -4 (y) 2 ( trap) -4 (s ) 6 (in) -4 ( 2) -4 (003) -4 (. To) -4 (tal n) -4 (u) -4 (m) 10 (b) -4 (er of )] TJ
+-0.0001 Tc
+0.0016 Tw
+0 -1.1437 TD
+[(adults c) 7 (o) -3 (llected. )] TJ
+0 Tc
+0 Tw
+4.98 0 0 4.98 59.58 190.4603 Tm
+( ) Tj
+0.0001 Tc
+10.2828 Tw
+10.02 0 0 10.02 59.46 179.0003 Tm
+[(Species No ) 9240 (Proportion ) 10287 (\(%) 7 (\) )] TJ
+ ET
+59.52 189.2 226.44 -0.96 re
+ f
+ q
+58.8 176.48 m
+58.8 153.44 l
+187.68 153.44 l
+187.68 176.48 l
+187.62 176.48 l
+187.62 153.5 l
+59.46 153.5 l
+59.46 176.48 l
+ W*
+ n
+0.902 0.902 0.902 scn
+58.8 176.48 128.88 -23.04 re
+ f
+ Q
+0.902 0.902 0.902 scn
+59.46 176.48 128.16 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT187 1 Tf
+-0.0022 Tc
+0.0037 Tw
+10.02 0 0 10.02 59.46 167.3003 Tm
+[(C. m) -5 (e) -1 (l) 6 (a) -5 (non) -5 (eu) -5 (ra)] TJ
+/TT185 1 Tf
+0 Tc
+0 Tw
+6.4371 0 Td
+(-) Tj
+/TT187 1 Tf
+-0.0022 Tc
+0.0037 Tw
+0.3353 0 Td
+[(C. a) -5 (ffin) -5 (is)] TJ
+/TT185 1 Tf
+0 Tc
+0 Tw
+3.6587 0 Td
+( ) Tj
+ ET
+0.902 0.902 0.902 scn
+59.46 164.96 128.16 -11.46 re
+ f
+0 0 0 scn
+ BT
+/TT185 1 Tf
+-0.0002 Tc
+10.02 0 0 10.02 59.46 155.7803 Tm
+[(com) 11 (p) -3 (lex)] TJ
+/TT187 1 Tf
+0 Tc
+3.4371 0 Td
+( ) Tj
+ ET
+ q
+186.96 176.48 m
+186.96 153.44 l
+215.88 153.44 l
+215.88 159.26 l
+187.68 159.26 l
+187.68 170.78 l
+215.88 170.78 l
+215.88 176.48 l
+ W*
+ n
+0.902 0.902 0.902 scn
+186.96 176.48 28.92 -23.04 re
+ f
+ Q
+0.902 0.902 0.902 scn
+187.68 170.78 28.2 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT185 1 Tf
+-0.003 Tc
+10.02 0 0 10.02 191.76 161.6003 Tm
+[(3) -6 (669) -6 ( )] TJ
+ ET
+ q
+215.16 176.48 m
+215.16 153.44 l
+286.32 153.44 l
+286.32 159.26 l
+215.88 159.26 l
+215.88 170.78 l
+286.32 170.78 l
+286.32 176.48 l
+ W*
+ n
+0.902 0.902 0.902 scn
+215.16 176.48 71.16 -23.04 re
+ f
+ Q
+0.902 0.902 0.902 scn
+215.88 170.78 70.44 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT185 1 Tf
+0.0025 Tc
+10.02 0 0 10.02 239.82 161.6003 Tm
+[(70) 6 (.2) 6 (4 )] TJ
+ ET
+59.52 176.72 226.44 -0.24 re
+ f
+ BT
+/TT187 1 Tf
+0.0011 Tc
+-0.0056 Tw
+10.02 0 0 10.02 59.46 144.2603 Tm
+[(C) 3 (a) -2 (co) 4 (psyl) 4 (l) 4 (a) -2 ( per) 7 (e) 2 (gri) 4 (n) 4 (a )] TJ
+/TT185 1 Tf
+0.0021 Tc
+2.5443 Tw
+8.9281 0 Td
+[(\(F) 7 (örst) 5 (e) 9 (r) 6 (\)) -785 (1) -1 (5) 5 (2) 5 (6) -1 ( 29) 5 (.2) 5 (2 )] TJ
+ ET
+ q
+58.8 130.46 0.66 11.52 re
+187.62 141.98 m
+187.62 130.46 l
+187.68 141.98 l
+ W*
+ n
+0.902 0.902 0.902 scn
+58.8 141.98 128.88 -11.52 re
+ f
+ Q
+0.902 0.902 0.902 scn
+59.46 141.98 128.16 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT187 1 Tf
+0.0011 Tc
+0.0004 Tw
+10.02 0 0 10.02 59.46 132.8004 Tm
+[(C) 3 (a) -2 (co) 4 (psyl) 4 (l) 4 (a) -2 ( c) 8 (r) 1 (a) 4 (t) 4 (aegi) 4 ( )] TJ
+/TT185 1 Tf
+0.0023 Tc
+0 Tw
+8.3174 0 Td
+[(\(Sc) 9 (h) -1 (ra) 9 (nk) 5 (\) )] TJ
+ ET
+0.902 0.902 0.902 scn
+186.96 141.98 28.92 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT185 1 Tf
+0.003 Tc
+10.02 0 0 10.02 196.74 132.8004 Tm
+(20 ) Tj
+ ET
+0.902 0.902 0.902 scn
+215.16 141.98 71.16 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT185 1 Tf
+10.02 0 0 10.02 242.28 132.8004 Tm
+[(0.) 8 (38 )] TJ
+/TT187 1 Tf
+-0.0023 Tc
+-0.0022 Tw
+-18.2455 -1.1497 Td
+[(Ca) -5 (cop) -5 (s) -2 (ylla) -5 ( pu) -5 (lch) -5 (e) -2 (lla) -5 ( )] TJ
+/TT185 1 Tf
+0.0025 Tc
+2.496 Tw
+8.7066 0 Td
+[(\(Lö) 6 (w) 6 (\) 2 ) -1042 (0.) 7 (04 )] TJ
+ ET
+ q
+58.8 107.48 0.66 11.46 re
+187.62 118.94 m
+187.62 107.48 l
+187.68 118.94 l
+ W*
+ n
+0.902 0.902 0.902 scn
+58.8 118.94 128.88 -11.46 re
+ f
+ Q
+0.902 0.902 0.902 scn
+59.46 118.94 128.16 -11.46 re
+ f
+0 0 0 scn
+ BT
+/TT187 1 Tf
+-0.0024 Tc
+-0.0021 Tw
+10.02 0 0 10.02 59.46 109.7603 Tm
+[(Ca) -5 (cop) -5 (s) -2 (ylla) -5 ( p) -5 (r) 4 (un) -5 (i )] TJ
+/TT185 1 Tf
+-0.0022 Tc
+0 Tw
+7.1557 0 Td
+[(\(Scopo) -5 (li\))] TJ
+/TT187 1 Tf
+0 Tc
+3.7126 0 Td
+( ) Tj
+ ET
+0.902 0.902 0.902 scn
+186.96 118.94 28.92 -11.46 re
+ f
+0 0 0 scn
+ BT
+/TT185 1 Tf
+0.003 Tc
+10.02 0 0 10.02 199.26 109.7603 Tm
+(2 ) Tj
+ ET
+0.902 0.902 0.902 scn
+215.16 118.94 71.16 -11.46 re
+ f
+0 0 0 scn
+ BT
+/TT185 1 Tf
+10.02 0 0 10.02 242.28 109.7603 Tm
+[(0.) 8 (04 )] TJ
+/TT187 1 Tf
+0.0007 Tc
+-0.0052 Tw
+-18.2455 -1.1437 Td
+[(C) 3 (a) -2 (co) 4 (psyl) 3 (l) 3 (a) -2 ( pyr) 7 (i) 3 (sug) 4 (a) -2 ( )] TJ
+/TT185 1 Tf
+0.0024 Tc
+1.7236 Tw
+8.485 0 Td
+[(\(F) 8 (örst) 5 (e) 9 (r\)) 6 ( 1 ) -1814 (0.) 7 (02 )] TJ
+ ET
+ q
+58.8 84.44 0.66 11.52 re
+187.62 95.96 m
+187.62 84.44 l
+187.68 95.96 l
+ W*
+ n
+0.902 0.902 0.902 scn
+58.8 95.96 128.88 -11.52 re
+ f
+ Q
+0.902 0.902 0.902 scn
+59.46 95.96 128.16 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT187 1 Tf
+-0.0021 Tc
+0.0036 Tw
+10.02 0 0 10.02 59.46 86.7803 Tm
+[(Ba) -5 (eo) -5 (p) -5 (e) -1 (l) 6 (m) -4 (a fo) -5 (ersteri )] TJ
+/TT185 1 Tf
+0.0007 Tc
+0 Tw
+8.3713 0 Td
+[(\(Flo) 4 (r\) )] TJ
+ ET
+0.902 0.902 0.902 scn
+186.96 95.96 28.92 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT185 1 Tf
+0.003 Tc
+10.02 0 0 10.02 199.26 86.7803 Tm
+(1 ) Tj
+ ET
+0.902 0.902 0.902 scn
+215.16 95.96 71.16 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT185 1 Tf
+10.02 0 0 10.02 242.28 86.7803 Tm
+[(0.) 8 (02 )] TJ
+/TT187 1 Tf
+-0.0017 Tc
+0.0032 Tw
+-18.2455 -1.1497 Td
+[(Psyllo) -5 (p) -5 (s) -2 (is fra) -5 (x) 5 (in) -5 (i )] TJ
+/TT185 1 Tf
+0.0011 Tc
+0 Tw
+7.2096 0 Td
+[(\(L.) 6 (\))] TJ
+/TT187 1 Tf
+0 Tc
+1.5269 0 Td
+( ) Tj
+/TT185 1 Tf
+0.003 Tc
+3.5374 Tw
+5.2156 0 Td
+[(1 0.) 8 (02 )] TJ
+ ET
+ q
+58.8 61.46 0.66 11.52 re
+187.62 72.98 m
+187.62 61.46 l
+187.68 72.98 l
+ W*
+ n
+0.902 0.902 0.902 scn
+58.8 72.98 128.88 -11.52 re
+ f
+ Q
+0.902 0.902 0.902 scn
+59.46 72.98 128.16 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT187 1 Tf
+-0.0044 Tc
+0.0059 Tw
+10.02 0 0 10.02 59.46 63.8003 Tm
+[(T) -5 (r) -4 (io) -7 (za) -7 ( rh) -7 (amn) -7 (i) -2 ( )] TJ
+/TT185 1 Tf
+0.0023 Tc
+0 Tw
+5.988 0 Td
+[(\(Sc) 9 (h) -1 (ra) 9 (nk) 5 (\) )] TJ
+ ET
+0.902 0.902 0.902 scn
+186.96 72.98 28.92 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT185 1 Tf
+0.003 Tc
+10.02 0 0 10.02 199.26 63.8003 Tm
+(1 ) Tj
+ ET
+0.902 0.902 0.902 scn
+215.16 72.98 71.16 -11.52 re
+ f
+0 0 0 scn
+ BT
+/TT185 1 Tf
+10.02 0 0 10.02 242.28 63.8003 Tm
+[(0.) 8 (02 )] TJ
+ ET
+58.8 61.46 128.88 -0.96 re
+ f
+186.96 61.46 28.92 -0.96 re
+ f
+215.16 61.46 71.16 -0.96 re
+ f
+ BT
+/TT185 1 Tf
+-0.0014 Tc
+0.1945 Tw
+10.02 0 0 10.02 303.3 496.2803 Tm
+[(4) -4 (8) 2 (0) -4 ( and) -4 ( 580) -4 ( ) 6 (m) 10 ( a.s.l. Yello) -4 (w stick) -4 (y) 2 ( trap) -4 (s were firstly) 8 ( )] TJ
+-0.0024 Tc
+0.0099 Tw
+0 -1.1497 TD
+[(u) -5 (s) -2 (ed) -5 ( to) -5 ( id) -5 (en) -5 (tify an) -5 (d) -5 ( q) -5 (u) -5 (a) 4 (n) -5 (tify th) -5 (e p) -5 (s) -2 (yllid) -5 ( faun) -5 (a, and) -5 ( th) -5 (en) -5 (, )] TJ
+-0.0016 Tc
+0.1049 Tw
+ T*
+[(in) -5 ( ad) -5 (d) -5 (ition) -5 ( with) -5 ( b) -5 (eat trays, to) -5 ( stu) -5 (d) -5 (y) 1 ( th) -5 (e pop) -5 (u) -5 (l) 1 (ation) -5 ( d) -5 (y) 1 (-)] TJ
+0.0007 Tc
+0.0008 Tw
+0 -1.1437 TD
+[(nam) 12 (i) 3 (cs of the ) -6 (m) 12 (o) -2 (st abunda) 7 (nt species. In eac) 7 (h site 3 traps) 7 ( )] TJ
+-0.0023 Tc
+0.0816 Tw
+0 -1.1497 TD
+[(\(150) -5 (x80) -5 ( mm) 9 ( ) -6 (Reb) -5 (e) -2 (ll®g) -5 (iallo) -5 (, An) -5 (d) -5 (e) 4 (rm) 9 (att B) -6 (i) -6 (o) -5 (c) -2 (on) -5 (tro) -5 (l ) 6 (AG, )] TJ
+-0.0024 Tc
+0.1835 Tw
+ T*
+[(Sw) -5 (itzer) -5 (land) -5 (\) ) 6 (w) -5 (e) -2 (r) -5 (e) -2 ( ) 6 (hu) -5 (ng) -5 ( i) 6 (n) -5 ( ) 6 (th) -5 (e h) -5 (a) 4 (w) -5 (tho) -5 (rn) -5 ( ) 6 (can) -5 (op) -5 (y fro) -5 (m )] TJ
+0.0016 Tc
+0.1256 Tw
+0 -1.1437 TD
+[(m) 7 (i) 4 (d Febru) 5 (a) 2 (ry) 5 ( t) 4 (o) -1 ( end ) 6 (Oct) 4 (o) 5 (be) 8 (r. The t) 4 (r) -1 (a) 8 (p) -1 (s w) 5 (e) 2 (re cha) 8 (nge) 8 (d) 5 ( )] TJ
+-0.0004 Tc
+0.1935 Tw
+0 -1.1497 TD
+[(weekly. Beat t) 8 (r) -3 (ay sam) 11 (p) -3 (lings )] TJ
+-0.0002 Tc
+0.1873 Tw
+12.3293 0 Td
+[(were) 7 ( ) -6 (carried out only ) -6 (in )] TJ
+-0.0017 Tc
+0.2547 Tw
+-12.3293 -1.1497 Td
+[(2) -5 (004) -5 ( and) -5 ( 2005) -5 (, w) -4 (e) 5 (ek) -5 (ly, dur) -4 (ing) -5 ( th) -5 (e sam) 10 (e) -7 ( p) -5 (e) -1 (r) -4 (i) 1 (od) -5 (. To )] TJ
+-0.0013 Tc
+0.3561 Tw
+0 -1.1437 TD
+[(id) -4 (en) -4 (tify p) -4 (s) -1 (yllid) -4 (s, sam) 10 (p) -4 (les were classified) -4 ( ex) -4 (am) 10 (in) -4 (in) -4 (g) -4 ( )] TJ
+0.0027 Tw
+0 -1.1497 TD
+[(male an) -4 (d) -4 ( ) 6 (fem) 10 (a) -6 (le termin) -4 (alia \(Ossiann) -4 (ilsson) -4 (,) 3 ( ) 6 (1) -4 (992) -4 (\). )] TJ
+0 Tc
+0 Tw
+ T*
+( ) Tj
+0 -1.1437 TD
+( ) Tj
+/TT186 1 Tf
+0.0009 Tc
+0 -1.1617 TD
+[(Resul) 9 (t) -1 (s )] TJ
+/TT185 1 Tf
+0 Tc
+0 -1.1377 TD
+( ) Tj
+-0.0005 Tc
+0.1996 Tw
+0 -1.1437 TD
+[(During the ) 6 (preliminary trap)] TJ
+0.0015 Tc
+0.1976 Tw
+11.6048 0 Td
+[( sam) 13 (p) -1 (l) 4 (i) 4 (ngs, t) 4 (e) 8 (n speci) 4 (es ) 6 (of) 11 ( )] TJ
+-0.0015 Tc
+0.003 Tw
+-11.6048 -1.1497 Td
+[(p) -4 (s) -2 (yllid) -4 (s were i) 7 (d) -4 (en) -4 (tified) -4 ( \(tab) -4 (le 1\). )] TJ
+/TT187 1 Tf
+0.0023 Tc
+0.3046 Tw
+0.7066 -1.1497 Td
+[(C) 5 (.) 1 ( mel) 5 (a) 5 (no) 5 (ne) 9 (u) 5 (r) 2 (a)] TJ
+/TT185 1 Tf
+-0.0001 Tc
+0.307 Tw
+6.7425 0 Td
+[( was the ) 6 (predom) 11 (inant species, fol-)] TJ
+0.0028 Tc
+0.0586 Tw
+-7.4491 -1.1437 Td
+[(l) 5 (owe) 10 (d by) 6 ( )] TJ
+/TT187 1 Tf
+0.0017 Tc
+0.0597 Tw
+4.0659 0 Td
+[(C) 4 (a) 5 (c) 8 (ops) 8 (yl) 4 (l) 4 (a) -1 ( pere) 8 (gr) 8 (i) 4 (n) -1 (a)] TJ
+/TT185 1 Tf
+0.0002 Tc
+0.0552 Tw
+8.7365 0 Td
+[( \(Fö) 3 (r) -2 (ster) 4 (\), while )] TJ
+/TT187 1 Tf
+-0.0036 Tc
+0 Tw
+6.8922 0 Td
+[(Ca) -7 (cop) -7 (-)] TJ
+0.0013 Tc
+0.3954 Tw
+-19.6946 -1.1497 Td
+[(syl) 4 (l) 4 (a) -2 ( crat) 10 (aegi)] TJ
+/TT185 1 Tf
+0.0003 Tc
+0.3964 Tw
+5.8563 0 Td
+[( \(Sc) 7 (h) -3 (ra) 7 (n) 3 (k) -3 (\), ) 6 (was sam) 12 (p) -3 (led) 3 ( sp) 3 (ora) 7 (d) -3 (ically) 3 (. )] TJ
+-0.0015 Tc
+0.2904 Tw
+-5.8563 -1.1437 Td
+[(Oth) -4 (e) 5 (r 6) -4 ( p) -4 (s) -2 (yllid) -4 ( ) -6 (sp) -4 (ecies on) -4 ( th) -4 (e ) -6 (tab) -4 (l) 1 (e b) -4 (e) 5 (g) -4 (i) 7 (n) -4 (n) -4 (i) 7 (n) -4 (g) 2 ( ) -6 (wit) 7 (h) -4 ( )] TJ
+/TT187 1 Tf
+-0.01 Tc
+0.0333 Tw
+0 -1.1497 TD
+(Cac) Tj
+/T1_37 1 Tf
+(o) Tj
+/TT187 1 Tf
+(psylla) Tj
+0.0382 Tw
+( ) Tj
+0.0333 Tw
+(pulchella) Tj
+/TT185 1 Tf
+0.0428 Tw
+( ) Tj
+0.0376 Tw
+(\(Löw\) are only occasional migrants) Tj
+0.0319 Tw
+( ) Tj
+-0.002 Tc
+0.1053 Tw
+ T*
+[(liv) -5 (in) -5 (g) -5 ( ) 6 (on) -5 ( ) 6 (o) -5 (th) -5 (e) 5 (r trees. ) 6 (In-d) -5 (ep) -5 (t) 6 (h) -5 ( ex) -5 (am) 9 (in) -5 (atio) -5 (n) -5 (s) -2 ( of th) -5 (e ap) -5 (i-)] TJ
+0.0002 Tc
+0.0672 Tw
+0 -1.1437 TD
+[(cal part ) 6 (of t) 9 (h) -3 (e ) 6 (aedeagus) 6 (, of t) 9 (h) -3 (e s) 6 (h) -3 (ape ) 6 (of the param) 12 (e) 1 (r as )] TJ
+0.0013 Tc
+0.3355 Tw
+0 -1.1497 TD
+[(wel) 4 (l) 4 ( as of) 5 ( t) 4 (h) 4 (e fo) 4 (rewi) 10 (ng ) 6 (o) 4 (n) -2 ( 3) 4 (,7) 4 (0) 4 (0) -2 ( s) 7 (p) -2 (eci) 4 (m) 7 (e) 2 (ns of )] TJ
+/TT187 1 Tf
+-0.0064 Tc
+0 Tw
+21.7246 0 Td
+(C. ) Tj
+0.0025 Tc
+-21.7246 -1.1497 Td
+[(mel) 5 (a) 6 (no) 6 (ne) 9 (ur) 8 (a)] TJ
+/TT185 1 Tf
+-0.0002 Tc
+0.5586 Tw
+5.2695 0 Td
+[(, re) 7 (vealed t) 8 (h) 3 (at, on ) 6 (hawt) 8 (horn, the )] TJ
+/TT187 1 Tf
+-0.0034 Tc
+0 Tw
+16.4491 0 Td
+(C. ) Tj
+0.0026 Tc
+-21.7186 -1.1437 Td
+[(mel) 5 (a) 6 (no) 6 (ne) 9 (ur) 9 (a )] TJ
+/TT185 1 Tf
+-0.0016 Tc
+0.1169 Tw
+5.6347 0 Td
+[(p) -5 (opu) -5 (latio) -5 (n) -5 (s) -2 ( i) 7 (n) 1 ( th) -5 (e Aosta Val) 7 (l) 1 (ey is ) -6 (mix) -5 (e) -1 (d) -5 ( )] TJ
+-0.0002 Tc
+0.1574 Tw
+-5.6347 -1.1497 Td
+(with the congeneric ) Tj
+/TT187 1 Tf
+-0.0031 Tc
+0.1603 Tw
+8.6048 0 Td
+[(Ca) -6 (co) -6 (psylla) -6 ( a) -6 (ffin) -6 (is)] TJ
+/TT185 1 Tf
+0.0012 Tc
+0.156 Tw
+7.3892 0 Td
+[( \(Löw) 5 (\). T) 7 (h) -2 (e re-)] TJ
+-0.0012 Tc
+0.2003 Tw
+-15.994 -1.1497 Td
+[(sem) 10 (b) -4 (lan) -4 (ce to) -4 ( )] TJ
+/TT187 1 Tf
+-0.0017 Tc
+0.2008 Tw
+5.8862 0 Td
+[(C. m) -4 (e) -1 (lano) -5 (n) -5 (e) 5 (ura)] TJ
+/TT185 1 Tf
+-0.0027 Tc
+0.2018 Tw
+6.6347 0 Td
+[( is so) -6 ( clo) -6 (s) 3 (e th) -6 (at th) -6 (e fe-)] TJ
+-0.0024 Tc
+0.3392 Tw
+-12.521 -1.1437 Td
+[(males o) -5 (f) -5 ( t) 6 (h) -5 (e two sp) -5 (ecies canno) -5 (t b) -5 (e) 4 ( reliab) -5 (ly d) -5 (istin) -5 (-)] TJ
+-0.002 Tc
+0.255 Tw
+ T*
+[(g) -5 (u) -5 (ish) -5 (ed) -5 (. ) 6 (For ) 6 (reliab) -5 (le d) -5 (a) -1 (ta, t) 6 (h) -5 (e ) 6 (p) -5 (r) 2 (op) -5 (ortion of th) -5 (e two) -5 ( )] TJ
+0.0007 Tc
+0.2224 Tw
+ T*
+[(speci) 3 (es wa) 7 (s a) 7 (ssessed ) 6 (o) 4 (n) -2 (l) 3 (y) 4 ( wi) 3 (t) 3 (h) -2 ( t) 3 (h) -2 (e m) 12 (a) 1 (l) 3 (e) -5 (s am) 12 (ong t) 3 (h) -2 (e) 7 ( )] TJ
+-0.0001 Tc
+0.0136 Tw
+0 -1.1437 TD
+[(3,700 s) 6 (p) -3 (ecim) 11 (e) -5 (ns analyzed. )] TJ
+/TT187 1 Tf
+-0.0027 Tc
+0.0162 Tw
+10.994 0 Td
+[(C. a) -6 (ffin) -6 (is)] TJ
+/TT185 1 Tf
+0.0018 Tc
+0.0117 Tw
+3.6707 0 Td
+[( ) -6 (m) 13 (a) 3 (kes up t) 4 (o) -1 ( ) 6 (2) 5 (1) -1 (.) 6 (6) -1 (% )] TJ
+0.0019 Tc
+0.3589 Tw
+-14.6647 -1.1497 Td
+[(of) 6 ( t) 4 (h) -1 (e) 9 ( o) 5 (v) -1 (er) 6 (wi) 10 (nt) 4 (ere) 9 (d) -1 ( ) 6 (po) 5 (p) 5 (u) -1 (l) 4 (a) 3 (t) 4 (i) 4 (o) -1 (n) 5 ( an) 5 (d ) 6 (6.) 6 (9%) 9 ( o) 5 (f ) 6 (newl) 4 (y) 11 ( )] TJ
+-0.0019 Tc
+0.1172 Tw
+0 -1.1497 TD
+[(e) -7 (m) 10 (er) -4 (g) -5 (e) -1 (d adu) -5 (l) 1 (t) 7 (s) -2 ( of) -4 ( ) 6 (bo) -5 (th sp) -5 (ec)] TJ
+-0.0016 Tc
+0.1169 Tw
+11.6467 0 Td
+[(ies. Su) -5 (b) -5 (s) 4 (equ) -5 (e) 5 (ntly th) -5 (e ) 6 (sa) -7 (m) 10 (-)] TJ
+0.0015 Tc
+0.1617 Tw
+-11.6467 -1.1437 Td
+[(pl) 4 (i) 4 (n) -1 (g) 5 (s) 1 ( ) 6 (were) 8 ( f) 5 (o) 5 (cuse) 8 (d ) 6 (on) 5 ( t) 4 (h) -1 (e) 8 ( ) 6 (m) 13 (o) -1 (st) 4 ( abun) 5 (da) 8 (nt) 4 ( speci) 4 (es) 7 (, )] TJ
+/TT187 1 Tf
+-0.0034 Tc
+0 Tw
+21.7186 0 Td
+(C. ) Tj
+0.0025 Tc
+-21.7186 -1.1497 Td
+[(mel) 5 (a) 6 (no) 6 (ne) 9 (ur) 8 (a)] TJ
+/TT185 1 Tf
+0 Tc
+5.2695 0 Td
+(-) Tj
+/TT187 1 Tf
+-0.0019 Tc
+0.0992 Tw
+0.3293 0 Td
+[(C. a) -5 (ffin) -5 (is)] TJ
+/TT185 1 Tf
+0.0025 Tc
+0.0948 Tw
+3.7605 0 Td
+[( com) 8 (pl) 5 (e) 3 (x a) 9 (nd )] TJ
+/TT187 1 Tf
+0.0014 Tc
+0.0899 Tw
+5.9281 0 Td
+[(C) 4 (. pe) 8 (regri) 4 (n) 4 (a)] TJ
+/TT185 1 Tf
+0.0015 Tc
+0.0958 Tw
+5.1976 0 Td
+[(. T) 8 (h) -1 (e) 8 ( )] TJ
+-0.0022 Tc
+0.6803 Tw
+-20.485 -1.1497 Td
+[(p) -5 (opu) -5 (latio) -5 (n) -5 ( dyn) -5 (amics ) -6 (o) -5 (f) -4 ( )] TJ
+/TT187 1 Tf
+0.0021 Tc
+0.682 Tw
+11.7305 0 Td
+[(C) 4 (.) 1 ( mel) 5 (a) 5 (no) 5 (ne) 9 (ura)] TJ
+/TT185 1 Tf
+-0.003 Tc
+0.6811 Tw
+7.1257 0 Td
+[( on) -6 ( )] TJ
+/TT187 1 Tf
+-0.0034 Tc
+0 Tw
+2.8623 0 Td
+(C. ) Tj
+-0.003 Tc
+-21.7186 -1.1437 Td
+[(m) -5 (ono) -6 (g) -6 (y) 4 (na)] TJ
+/TT185 1 Tf
+-0.0014 Tc
+0.2664 Tw
+4.1617 0 Td
+[( is ) 6 (si) -5 (m) 10 (ilar to) -4 ( th) -4 (at o) -4 (b) 2 (serv) -4 (ed on ap) -4 (p) -4 (l) 1 (e trees )] TJ
+ ET

@@ -1,0 +1,831 @@
+
+/CS14 cs
+0 0 0 scn
+1 i
+/RelativeColorimetric ri
+/GS14 gs
+ BT
+/TT42 1 Tf
+-0.0022 Tw
+10.02 0 0 10.02 331.0736 796.2 Tm
+(Bulletin of Insecto) Tj
+-0.007 Tc
+(l) Tj
+0 Tc
+(o) Tj
+-0.006 Tc
+(g) Tj
+0 Tc
+0.0004 Tw
+(y ) Tj
+/TT43 1 Tf
+0.0005 Tc
+0 Tw
+(60) Tj
+/TT42 1 Tf
+-0.0006 Tc
+-0.0016 Tw
+11.1018 0 Td
+( \() Tj
+-0.0055 Tc
+(2) Tj
+-0.0006 Tc
+(\): ) Tj
+/T1_28 1 Tf
+(163) Tj
+/TT42 1 Tf
+(-) Tj
+/T1_28 1 Tf
+(164) Tj
+/TT42 1 Tf
+10.02 0 0 10.02 457.2908 796.2 Tm
+4.2144 0 Td
+(, 20) Tj
+-0.0055 Tc
+(0) Tj
+-0.0006 Tc
+(7 ) Tj
+/TT44 1 Tf
+-0.0009 Tc
+-0.0013 Tw
+10.02 0 0 10.02 195.54 796.2 Tm
+25.7307 -1.1437 Td
+(ISSN 1721-8861) Tj
+/TT45 1 Tf
+-0.0005 Tc
+0.0005 Tw
+16.02 0 0 16.02 125.52 755.64 Tm
+(Detection of different types of phytoplasmas ) Tj
+0 Tw
+1.3589 -1.1461 Td
+(in stone fruit orchards in ) Tj
+/T1_29 1 Tf
+0 Tc
+12.0433 0 Td
+(n) Tj
+/TT45 1 Tf
+-0.0005 Tc
+0.6105 0 Td
+(orthern Italy ) Tj
+-0.0003 Tc
+-0.0019 Tw
+10.02 0 0 10.02 59.58 712.98 Tm
+(Fabio L) Tj
+-0.0006 Tc
+0 Tw
+7.98 0 0 7.98 95.28 712.98 Tm
+[(A) 23 (NDI)] TJ
+0 Tc
+6.48 0 0 6.48 114.66 717.96 Tm
+(1) Tj
+-0.0022 Tw
+10.02 0 0 10.02 118.32 712.98 Tm
+(, Andrea P) Tj
+-0.0003 Tc
+0 Tw
+7.98 0 0 7.98 167.82 712.98 Tm
+[(R) -15 (A) 15 (NDINI)] TJ
+0 Tc
+6.48 0 0 6.48 201.06 717.96 Tm
+(1) Tj
+0.0012 Tc
+-0.0034 Tw
+10.02 0 0 10.02 204.66 712.98 Tm
+[(, Sam) 5 (a) -5 (nta P)] TJ
+-0.0003 Tc
+0 Tw
+7.98 0 0 7.98 261.6 712.98 Tm
+[(A) 23 (L) -6 (TRINIE) -10 (RI)] TJ
+0 Tc
+6.48 0 0 6.48 306.3 717.96 Tm
+(1) Tj
+-0.001 Tc
+-0.0012 Tw
+10.02 0 0 10.02 309.9 712.98 Tm
+(, Nicola M) Tj
+-0.0019 Tc
+0 Tw
+7.98 0 0 7.98 356.58 712.98 Tm
+(ORI) Tj
+0 Tc
+6.48 0 0 6.48 370.74 717.96 Tm
+(2) Tj
+-0.0004 Tc
+-0.0018 Tw
+10.02 0 0 10.02 374.4 712.98 Tm
+(, Assunta B) Tj
+0.0013 Tc
+0 Tw
+7.98 0 0 7.98 429.48 712.98 Tm
+[(ERT) -12 (A) 24 (CCINI)] TJ
+0 Tc
+6.48 0 0 6.48 472.98 717.96 Tm
+(1) Tj
+/TT46 1 Tf
+-63.7963 -1.8241 Td
+(1) Tj
+0.0005 Tc
+0.001 Tw
+10.02 0 0 10.02 62.82 701.64 Tm
+[(Dipartiment) 9 (o) -2 ( ) 6 (di Scie) 7 (nze e) 7 ( Te) 7 (cnol) 9 (ogie ) 6 (Agr) 7 (o) 4 (am) 4 (bient) 9 (a) -2 (li, P) 7 (a) 4 (to)] TJ
+0.0006 Tc
+0.0009 Tw
+23.9245 0 Td
+[(logi) 9 (a ve) 7 (getal) 9 (e) 1 (, U) 4 (n) -2 (iversity of) 9 ( Bol) 9 (o) -2 (gna, B) 7 (o) -2 (logna,) 5 ( It) 9 (aly )] TJ
+0 Tc
+0 Tw
+6.48 0 0 6.48 59.58 694.62 Tm
+(2) Tj
+0.0002 Tc
+0.0013 Tw
+10.02 0 0 10.02 62.82 690.12 Tm
+[(AGREA) 6 ( Centr) 7 (o ) 6 (Studi, Ver) 7 (ona, ) 6 (Italy )] TJ
+/TT45 1 Tf
+-0.0038 Tc
+0 Tw
+-0.3234 -4.5988 Td
+[(A) -6 (b) -4 (st) -6 (ra) -4 (ct) -6 ( )] TJ
+/TT47 1 Tf
+0.0002 Tc
+0.0431 Tw
+9 0 0 9 59.58 623.281 Tm
+[(Ph) 7 (y) -13 (t) -2 (oplasmas belonging to ) 7 (the ribosomal subgroup 16SrIII-A \(X disease and) 7 ( related ph) 7 (y) -6 (t) -2 (op) 7 (lasmas\) were iden) 7 (tified in two plan) 7 (ts )] TJ
+0.001 Tc
+0.0022 Tw
+0 -1.1468 TD
+[(of declin) 8 (ing cher) 7 (r) 7 (y) -12 ( during the monitoring of two experimental ) 11 (plu) 8 (m) 5 ( orchards. The same phy) -6 (toplasmas were identif) 7 (ied also in )] TJ
+/TT46 1 Tf
+0.0018 Tc
+0 Tw
+50.5667 0 Td
+(Phi-) Tj
+-0.0005 Tc
+0.0305 Tw
+-50.5667 -1.1533 Td
+(laenus spumarius ) Tj
+/TT47 1 Tf
+0.001 Tc
+0.029 Tw
+7.3333 0 Td
+[(sam) 6 (p) 1 (les collec) 5 (t) -1 (ed in ) 7 (ye) 5 (llow sti) 6 (c) -2 (k) 8 (y) -12 ( ) 7 (traps loc) 5 (a) -2 (t) 6 (e) 5 (d inside the p) 8 (l) -1 (u) 8 (m) 6 ( orchards)] TJ
+/TT46 1 Tf
+0 Tc
+0 Tw
+29.46 0 Td
+(.) Tj
+/TT47 1 Tf
+0.5332 0 Td
+(‘) Tj
+/TT46 1 Tf
+0.0004 Tc
+0.3333 0 Td
+(Candidatus) Tj
+/TT47 1 Tf
+0 Tc
+0.03 Tw
+4.6133 0 Td
+[( Ph) 7 (y) -13 (t) -2 (op) 7 (lasma prunorum’) -7 ( )] TJ
+0.0007 Tc
+0.056 Tw
+-42.2733 -1.1467 Td
+[(was detected in one declining ch) 7 (err) 7 (y) -13 ( plant and in) 7 ( samples of )] TJ
+/TT46 1 Tf
+0.0015 Tc
+0.0552 Tw
+25.0533 0 Td
+[(Fieberiella f) 6 (l) -1 (orii. )] TJ
+/TT47 1 Tf
+0.0002 Tc
+0.0565 Tw
+7.3267 0 Td
+[(A) 9 (m) 5 (ong the insect species tested for ph) 7 (y) -13 (t) -2 (oplasma) -9 ( )] TJ
+0.0012 Tc
+0 Tw
+-32.38 -1.1533 Td
+[(presence) 5 ( )] TJ
+/TT46 1 Tf
+0.0011 Tc
+0.0022 Tw
+3.7533 0 Td
+[(Cacops) 10 (ylla) 8 ( pruni )] TJ
+/TT47 1 Tf
+0.0006 Tc
+0.0027 Tw
+7.1667 0 Td
+[(was o) 8 (nly) -6 ( captured) 8 ( once, ) 7 (and ) 7 (the sample re) -6 (sulted) 7 ( negative to) 7 ( th) 7 (e molecu) 7 (lar ) 7 (tests. )] TJ
+/TT45 1 Tf
+-0.0018 Tc
+-0.0025 Tw
+-10.92 -2.3067 Td
+[(Ke) -5 (y) 8 ( w) -24 (o) 3 (rds:)] TJ
+/TT47 1 Tf
+0.0021 Tc
+0.0012 Tw
+5.3933 0 Td
+[( Ch) 9 (err) 8 (y) -5 ( de) 6 (cl) 7 (ine, P) 5 (C) 9 (R/RF) 5 (LP) 5 ( anal) 7 (ys) 11 (e) 6 (s) 5 (, ins) 5 (e) -1 (c) 6 (ts) 5 (,) -1 ( ) 7 (epid) 9 (e) 6 (m) 7 (iolog) 9 (y) -11 (. )] TJ
+/TT45 1 Tf
+0 Tc
+0 Tw
+10.02 0 0 10.02 59.58 526.68 Tm
+[(Introduc) 5 (tion) 6 ( )] TJ
+/TT47 1 Tf
+0.0009 Tc
+0.1263 Tw
+0 -2.2814 TD
+[(Vignola is ) 6 (one) 8 ( of t) 10 (h) -2 (e m) 13 (o) -2 (st )] TJ
+0.0012 Tc
+0.126 Tw
+11.5772 0 Td
+[(im) 13 (portant plum) 13 ( and c) 8 (h) -2 (e) 8 (rry) 10 ( )] TJ
+0.0031 Tc
+0 Tw
+-11.5772 -1.1497 Td
+[(growing) -337 (areas) -327 (in)] TJ
+/T1_30 1 Tf
+0 Tc
+7.2075 0 Td
+(n) Tj
+/TT47 1 Tf
+0.0031 Tc
+0.0799 Tw
+0.503 0 Td
+[(orthern) -331 (Italy. From) -322 (the early thirties )] TJ
+-0.004 Tc
+0.1807 Tw
+-7.7105 -1.1437 Td
+(a disease called ) Tj
+/T1_31 1 Tf
+(“) Tj
+/TT47 1 Tf
+(leptonecrosis) Tj
+/T1_31 1 Tf
+(”) Tj
+/TT47 1 Tf
+( affecting plum, cherry ) Tj
+0.0004 Tc
+0.025 Tw
+0 -1.1497 TD
+[(and a) 7 (p) 3 (ricot \() 4 (G) 5 (oida) 7 (nich, ) 6 (1933; )] TJ
+0.0009 Tc
+0.0245 Tw
+12.3243 0 Td
+[(1934\) ) 6 (was re) 8 (ported i) 10 (n) -2 ( the) 8 ( )] TJ
+-0.0006 Tc
+0.062 Tw
+-12.3243 -1.1437 Td
+[(area. T) 6 (h) -3 (is ) 6 (disease now nam) 11 (e) -4 (d European ) 6 (stone fruit yel-)] TJ
+-0.0001 Tc
+0.3309 Tw
+ T*
+[(lows \(E) 6 (SFY\) is associated with ‘)] TJ
+/TT46 1 Tf
+0.0023 Tc
+0 Tw
+14.7844 0 Td
+[(Can) 5 (d) -1 (i) 10 (dat) 10 (us)] TJ
+/TT47 1 Tf
+-0.0009 Tc
+0.3317 Tw
+4.6048 0 Td
+( Phyto-) Tj
+0.0004 Tc
+0.3304 Tw
+-19.3892 -1.1437 Td
+[(plasm) 12 (a) 1 ( prunorum) 12 (’) -1 ( \(Seem) 12 (üller and ) 6 (Schnei) 9 (der, 2004\).) 5 ( )] TJ
+0.0006 Tc
+0.0906 Tw
+ T*
+[(Seve) 7 (re ) 6 (out) 9 (brea) 7 (k) -1 (s ) 6 (were) 7 ( ) 6 (obse) 7 (r) 4 (ved ove) 7 (r) -2 ( the) 7 ( years, m) 12 (a) 1 (inly )] TJ
+-0.0004 Tc
+0.1576 Tw
+0 -1.1437 TD
+[(after Japane) 6 (se plum) 11 ( varieties were introduced int) 8 (o) -4 ( the )] TJ
+0.0001 Tc
+0.1331 Tw
+0 -1.1497 TD
+[(area. Rece) 7 (ntly, two expe) 7 (rim) 12 (e) -5 (ntal plum) 12 ( orc) 7 (hards) 6 ( whe) 7 (re )] TJ
+-0.0016 Tc
+0.3324 Tw
+0 -1.1437 TD
+[(to) -5 (leran) -5 (ce/resistan) -5 (ce to ESFY ) 6 (p) -5 (h) -5 (y) 1 (top) -5 (l) 1 (asma is stud) -5 (ied )] TJ
+0.0006 Tc
+0.1207 Tw
+0 -1.1497 TD
+[(were m) 12 (onitore) 7 (d. ) 6 (Surveys ) 6 (we) 7 (re exte) 7 (nde) 7 (d t) 9 (o) 3 ( veri) 9 (fy phy-)] TJ
+0.001 Tc
+0.0244 Tw
+0 -1.1437 TD
+[(toplasm) 12 (a) 1 ( prese) 7 (nce also i) 9 (n) -1 ( ch)] TJ
+-0.0004 Tc
+0.0258 Tw
+11.5363 0 Td
+[(e) 6 (rry pla) 6 (n) -3 (ts growing nea) 6 (r) 3 (by.) 4 ( )] TJ
+-0.0008 Tc
+0.0203 Tw
+-11.5363 -1.1497 Td
+[(Sym) 11 (p) -4 (tom) 11 (a) -6 (tic c) -6 (h) -4 (erry plants, abou)] TJ
+-0.0005 Tc
+0.02 Tw
+13.262 0 Td
+[(t 10 year’s ) 6 (old, showed )] TJ
+-0.0002 Tc
+0.0256 Tw
+-13.262 -1.1437 Td
+[(poor vegetation, re) 7 (duce) 7 (d) -3 ( ) -6 (leaf )] TJ
+0.0002 Tc
+0.0312 Tw
+12.007 0 Td
+[(size, ) 6 (upwar) 4 (d) -3 ( c) 7 (u) -3 (rle) 7 (d) -3 ( leaves) 12 ( )] TJ
+0.0005 Tc
+0.1028 Tw
+-12.007 -1.1497 Td
+[(w) 3 (ith di) 3 (s) 3 (c) 2 (ol) 3 (orations ) 6 (ranging )] TJ
+-0.001 Tc
+0.1043 Tw
+11.4878 0 Td
+[(from) 11 ( ye) -6 (llow to red. Insects )] TJ
+-0.0004 Tc
+0.1636 Tw
+-11.4878 -1.1437 Td
+[(collected on yellow sticky t) 8 (r) 6 (aps l) 8 (o) -3 (cated i) 8 (n) 3 ( the e) 6 (x) 3 (peri-)] TJ
+0.0008 Tc
+0.0306 Tw
+0 -1.1497 TD
+[(m) 6 (e) 1 (ntal plum) 12 ( orcha) 7 (rds ) 6 (were) 7 ( a) 7 (l) 3 (so)] TJ
+-0.0008 Tc
+0.0322 Tw
+12.8706 0 Td
+[( tested in ) 6 (order to ) 6 (verify )] TJ
+0.0007 Tc
+0.0008 Tw
+-12.8706 -1.1437 Td
+[(phytoplasm) 12 (a) 1 ( presence) 7 ( in t) 9 (h) -2 (e ) 6 (envi) 9 (ronm) 12 (ent. )] TJ
+/TT45 1 Tf
+0 Tc
+-0.0022 Tw
+0 -3.4551 TD
+[(Materials a) 5 (n) 6 (d methods )] TJ
+/TT47 1 Tf
+-0.0001 Tc
+0.0794 Tw
+0 -2.2814 TD
+[(Leaf a) 7 (n) -3 (d sm) 11 (all bra) 7 (n) -3 (c) 7 (h) -3 ( sam) 11 (p) -3 (les we) 7 (re c) 7 (o) -3 (llected from) 11 ( six) -9 ( )] TJ
+-0.0008 Tc
+0.0562 Tw
+0 -1.1497 TD
+[(cherry plants ) 6 (\(3 sym) 10 (p) -3 (tom) 10 (a) -6 (tic)] TJ
+0.0005 Tc
+0.0549 Tw
+11.8292 0 Td
+[( and ) 6 (3 asym) 12 (ptom) 12 (atic\) nea) 7 (r) -2 ( )] TJ
+0.2646 Tw
+-11.8292 -1.1497 Td
+[(the expe) 7 (rim) 12 (e) 1 (ntal plu) -8 (m) 12 ( field) -8 (s. A total of 12 sam) 12 (p) -2 (les )] TJ
+0.0003 Tc
+0.0491 Tw
+0 -1.1437 TD
+[(were em) 11 (ploy) 3 (ed for ) 6 (nucleic acid extraction ) 6 (using a chl) 8 (o) -3 (-)] TJ
+0.0007 Tc
+-0.0052 Tw
+0 -1.1497 TD
+[(roform) 12 (/phenol m) 6 (e) 1 (thod \(P) 7 (rince) 7 ( )] TJ
+/TT46 1 Tf
+0.0011 Tc
+0.0004 Tw
+12.3892 0 Td
+(et al) Tj
+/TT47 1 Tf
+-0.0006 Tc
+0.0021 Tw
+1.7485 0 Td
+(., 1993\). ) Tj
+-0.0009 Tc
+0.1521 Tw
+-13.4311 -1.1497 Td
+[(During 2005-2006 insect m) 10 (o)] TJ
+0.0001 Tc
+0.1451 Tw
+11.959 0 Td
+[(nitori) 8 (ng was ) -6 (carried out )] TJ
+-0.0005 Tc
+0.0858 Tw
+-12.6656 -1.1437 Td
+[(from) 11 ( March to the end ) 6 (of July with yellow ) 6 (sticky traps) 11 ( )] TJ
+0.0008 Tc
+0.1205 Tw
+ T*
+[(random) 12 (l) -3 (y distr) -7 (i) 3 (buted in the two e) 8 (xpe) 8 (rim) 12 (e) 2 (ntal plum) 6 ( or-)] TJ
+-0.0007 Tc
+0.086 Tw
+ T*
+[(chards. ) -6 (Insects) 5 ( ) -6 (collected from) 6 ( ) -12 (traps were maintained ) -6 (in )] TJ
+-0.0059 Tc
+0.0676 Tw
+0 -1.1437 TD
+[(alcohol 100%) -306 (at 4) -311 (°C for classification; nucleic acid ex-)] TJ
+-0.0004 Tc
+0.2115 Tw
+0 -1.1497 TD
+[(traction from) 11 ( ) -6 (interesting ) 6 (species was then carried ) 6 (out )] TJ
+0.0004 Tc
+0.2167 Tw
+ T*
+[(with a rapi) 9 (d CTAB-base) 7 (d)] TJ
+-0.0014 Tc
+0.2185 Tw
+10.9471 0 Td
+[( proced) -5 (ure \(Ang) -5 (elin) -5 (i )] TJ
+/TT46 1 Tf
+0.0008 Tc
+0.2163 Tw
+9.2206 0 Td
+(et al) Tj
+/TT47 1 Tf
+0.0015 Tc
+0 Tw
+1.9641 0 Td
+[(.,) 6 ( )] TJ
+-0.0009 Tc
+0.0024 Tw
+-22.1317 -1.1437 Td
+[(2001\) on ) 6 (batches of ) 6 (3 insects ) 6 (per species. )] TJ
+-0.0006 Tc
+0.05 Tw
+0.7066 -1.1497 Td
+[(Direct PCR ) 6 (wi) 8 (th P1/P7 prim) 11 (e) -6 (r pair ) 6 (\(Deng and Hi) 8 (ruki, )] TJ
+-0.0005 Tc
+0.1397 Tw
+-0.7066 -1.1437 Td
+(1991; Schneider ) Tj
+/TT46 1 Tf
+7.0479 0 Td
+(et al.) Tj
+/TT47 1 Tf
+-0.0021 Tc
+0.1413 Tw
+2.1376 0 Td
+[(, ) 6 (1) -5 (995\) and) -5 ( n) -5 (e) -2 (sted) -5 ( am) 9 (p) -5 (l) -6 (ificatio) -5 (n) -5 ( )] TJ
+0.0001 Tc
+0.2529 Tw
+-9.1855 -1.1497 Td
+[(with ) 6 (prim) 11 (e) -2 (rs R16F) 6 (2/R2 and/or R) 8 (1) -3 (6\(X\)F) 6 (1/) 8 (R1 \(Lee )] TJ
+/TT46 1 Tf
+-0.0006 Tc
+0 Tw
+21.9162 0 Td
+[(et) 8 ( )] TJ
+0.003 Tc
+2.4072 45.8862 Td
+(al) Tj
+/TT47 1 Tf
+0.001 Tc
+0.0185 Tw
+0.7784 0 Td
+[(., 1995\) were) 8 ( ) -6 (pe) 8 (rf) 5 (orm) 12 (ed on bot) 9 (h plant ) -6 (a) 8 (n) 4 (d insect ) -6 (sam) 12 (-)] TJ
+0.0004 Tc
+0.0011 Tw
+-0.7784 -1.1497 Td
+[(ples ) -6 (following a ) -6 (desc) 7 (ribe) 7 (d protocol \(Sc) 7 (h) -2 (aff )] TJ
+/TT46 1 Tf
+-0.0045 Tc
+0.012 Tw
+17.557 0 Td
+[(et a) -8 (l) -2 (.) -6 (, )] TJ
+/TT47 1 Tf
+-0.0035 Tc
+0 Tw
+2.503 0 Td
+[(199) -6 (2\). )] TJ
+0.0005 Tc
+0.1148 Tw
+-20.06 -1.1437 Td
+[(Refere) 7 (nce ) 6 (phy) 9 (toplasm) 12 (a) 1 ( strains ) 6 (were) 7 ( em) 12 (ployed as ) 6 (posi-)] TJ
+-0.0005 Tc
+0.1637 Tw
+ T*
+[(tive controls. ) 6 (Am) 11 (plicons ob)] TJ
+0 Tc
+0.1632 Tw
+11.5798 0 Td
+[(t) 9 (a) 1 (ined ) 6 (with R16F2/R2 and )] TJ
+-0.0016 Tc
+0.3564 Tw
+-11.5798 -1.1497 Td
+[(R1) -5 (6\(X\)F1) -5 (/R1 prim) 10 (er p) -5 (a) -1 (irs )] TJ
+-0.0023 Tc
+0.3571 Tw
+11.9569 0 Td
+[(were su) -6 (bj) -6 (ect) 6 (ed) -6 ( to RFLP )] TJ
+-0.0002 Tc
+0.0197 Tw
+-11.9569 -1.1437 Td
+(analyses with ) Tj
+/TT46 1 Tf
+0.0002 Tc
+0 Tw
+5.6946 0 Td
+(Tru) Tj
+/TT47 1 Tf
+0.0019 Tc
+1.4431 0 Td
+(I,) Tj
+/TT46 1 Tf
+0 Tc
+0.8563 0 Td
+[(Rs) 6 (a)] TJ
+/TT47 1 Tf
+0.0027 Tc
+0.0168 Tw
+1.491 0 Td
+[(I a) 9 (nd )] TJ
+/TT46 1 Tf
+0.0015 Tc
+0 Tw
+2.3114 0 Td
+(Ssp) Tj
+/TT47 1 Tf
+-0.0005 Tc
+0.02 Tw
+1.3892 0 Td
+[(I ) 6 (restriction enzym) 10 (e) 1 (s to )] TJ
+-0.0003 Tc
+-0.0042 Tw
+-13.1856 -1.1497 Td
+[(verify phytoplasm) 11 (a ) -6 (identity. )] TJ
+/TT45 1 Tf
+0.0002 Tc
+-0.0024 Tw
+0 -3.4551 TD
+[(Resul) 9 (t) -2 (s and ) 6 (discussion )] TJ
+/TT47 1 Tf
+0.0009 Tc
+0.2341 Tw
+0 -2.2814 TD
+[(Only sam) 12 (p) -2 (les from) 12 ( both ) 6 (phloem) 12 ( and leaf m) 6 (i) 3 (dribs of) 5 ( )] TJ
+-0.0006 Tc
+0.4452 Tw
+0 -1.1497 TD
+[(sym) 11 (p) -4 (tom) 11 (a) -6 (tic cherry ) 12 (plants )] TJ
+-0.001 Tc
+0.4396 Tw
+12.1503 0 Td
+[(gave ) 6 (positive results in )] TJ
+-0.0001 Tc
+0.0974 Tw
+-12.1503 -1.1437 Td
+[(nested PCR a) 7 (m) 11 (plifications. ) 6 (RFLP analyses) 6 ( indicate the )] TJ
+0.0006 Tc
+0.0308 Tw
+ T*
+[(prese) 7 (nce) 7 ( of ) 6 (‘)] TJ
+/TT46 1 Tf
+-0.0083 Tc
+0 Tw
+5.2157 0 Td
+[(Ca) -11 (.)] TJ
+/TT47 1 Tf
+-0.0029 Tc
+0.0343 Tw
+1.4132 0 Td
+[( ) 6 (P. pruno) -6 (ru) -6 (m’ in on) -6 (e of th) -6 (e ) 6 (trees an) -6 (d of )] TJ
+0.0002 Tc
+0.0432 Tw
+-6.6287 -1.1497 Td
+[(phytoplasm) 11 (a) 1 (s belongi) 8 (ng to )] TJ
+0.0005 Tc
+0.0429 Tw
+11.1371 0 Td
+[(ri) 8 (bos) 7 (om) 11 (al subgr) 5 (o) -2 (up 16S) 6 (r) -1 (I) 5 (I) -1 (I) 5 (-)] TJ
+0.0002 Tc
+0.0013 Tw
+-11.1371 -1.1437 Td
+[(A in the ) 6 (othe) 6 (r t) 8 (w) -2 (o sym) 11 (p) -2 (to) -8 (m) 11 (atic cherry pla) 6 (n) -2 (t) 8 (s) 1 ( \(fi) 8 (gure ) 6 (1\). )] TJ
+-0.0002 Tc
+0.0137 Tw
+0.7067 -1.1497 Td
+[(Seve) 6 (ral potenti) 8 (ally phytoplasm) 5 (a vectors ) 6 (were capt) 8 (u) -4 (re) 6 (d )] TJ
+-0.0003 Tc
+0.1216 Tw
+-0.7067 -1.1497 Td
+[(in yellow sticky traps \(table ) 6 (1\). )] TJ
+/TT46 1 Tf
+0.0002 Tc
+0.1211 Tw
+13.4012 0 Td
+[(Cac) 7 (opsylla pruni)] TJ
+/TT47 1 Tf
+0.0019 Tc
+0.1194 Tw
+7.0299 0 Td
+[( Sc) 9 (o-)] TJ
+0.0011 Tc
+0.0723 Tw
+-20.4311 -1.1437 Td
+[(poli, ) -6 (ve) 8 (ctor of ‘)] TJ
+/TT46 1 Tf
+-0.0023 Tc
+0 Tw
+6.4551 0 Td
+(Ca) Tj
+/TT47 1 Tf
+-0.0005 Tc
+0.0798 Tw
+1.1678 0 Td
+[(. P. prunorum) 11 (’) -2 ( \(Carraro )] TJ
+/TT46 1 Tf
+-0.0045 Tc
+0.0838 Tw
+10.024 0 Td
+[(et a) -8 (l)] TJ
+/TT47 1 Tf
+-0.0006 Tc
+0.0799 Tw
+1.8205 0 Td
+(., 1998\) ) Tj
+-0.0005 Tc
+0.1038 Tw
+-19.4672 -1.1497 Td
+[(was only captured once and was negati) 8 (ve to ) -6 (m) 11 (o) -3 (lecular )] TJ
+0.1876 Tw
+ T*
+[(tests. ) -6 (Nested PCR ) -6 (am) 11 (plifica) -6 (tion detected phytoplasm) 11 (a )] TJ
+0 Tc
+0.0314 Tw
+0 -1.1437 TD
+[(prese) 7 (nce in ) 6 (4 ) 6 (out of the ) 6 (6 sp) 5 (e) 7 (c) 1 (ies tested. RFLP analyses )] TJ
+-0.0002 Tc
+0 Tw
+0 -1.1497 TD
+(with ) Tj
+/TT46 1 Tf
+0.0005 Tc
+2.2157 0 Td
+[(Tr) 7 (u)] TJ
+/TT47 1 Tf
+-0.0003 Tc
+0.1814 Tw
+1.4431 0 Td
+[(I ) -6 (showed ) -6 (restriction profiles of phytoplasm) 11 (as )] TJ
+-0.0008 Tc
+0.3256 Tw
+-3.6588 -1.1497 Td
+[(related to ri) 8 (bosom) 11 (al group 16SrV \(Elm) 11 ( yellows\) in )] TJ
+/TT46 1 Tf
+0 Tc
+0 Tw
+0 -1.1437 TD
+[(Anopl) 9 (otettix )] TJ
+/TT47 1 Tf
+0.0023 Tc
+-0.0008 Tw
+5.1257 0 Td
+[(spp. a) 9 (nd )] TJ
+/TT46 1 Tf
+0.0007 Tc
+0.0008 Tw
+3.5868 0 Td
+[(Metcalfa prui) 9 (nos) 7 (a )] TJ
+/TT47 1 Tf
+0.0005 Tc
+0.001 Tw
+7.6048 0 Td
+[(Say) 10 (.) -1 ( Ribos) 6 (om) 12 (al )] TJ
+-0.0024 Tc
+0.6446 Tw
+-16.3175 -1.1497 Td
+[(g) -5 (r) 2 (ou) -5 (p 16) -5 (SrX \(App) -5 (le ) 6 (p) -5 (r) 2 (o)] TJ
+-0.0019 Tc
+0.6441 Tw
+11.7054 0 Td
+[(liferatio) -5 (n\) and) -5 ( sub) -5 (g) 1 (roup )] TJ
+-0.0002 Tc
+0.0729 Tw
+-11.7054 -1.1497 Td
+[(16SrIII-A \(Pea) 6 (ch X disease) 6 (\)) -2 ( were) 7 ( ) -7 (res) 6 (p) -3 (ectively ) -7 (detected )] TJ
+0.0002 Tc
+0 Tw
+ T*
+(in ) Tj
+/TT46 1 Tf
+-0.0007 Tc
+0.104 Tw
+1.1377 0 Td
+(Fieberiella florii) Tj
+/TT47 1 Tf
+0.0001 Tc
+0.1092 Tw
+6.7844 0 Td
+( \(Stål\) and ) Tj
+/TT46 1 Tf
+0.0005 Tc
+0.1088 Tw
+4.7425 0 Td
+[(P) 6 (h) -2 (ilae) 7 (nus) 7 ( spum) 5 (arius)] TJ
+/TT47 1 Tf
+-0.0023 Tc
+0.1116 Tw
+8.509 0 Td
+[( L.) 8 (. )] TJ
+-0.0002 Tc
+0.4089 Tw
+-21.1737 -1.1497 Td
+[(Furt) 8 (her RFLP) 6 ( analyses ) 6 (on R16\(X\)F1/R) 8 (1 am) 11 (plicons) 6 ( )] TJ
+0.0027 Tc
+0 Tw
+0 -1.1497 TD
+[(fr) 6 (om) 14 ( )] TJ
+/TT46 1 Tf
+-0.0006 Tc
+0.1937 Tw
+2.3772 0 Td
+(F. florii) Tj
+/TT47 1 Tf
+-0.0002 Tc
+0.1933 Tw
+3.2994 0 Td
+( with ) Tj
+/TT46 1 Tf
+0 Tc
+0 Tw
+2.6647 0 Td
+[(Rs) 6 (a)] TJ
+/TT47 1 Tf
+-0.0029 Tc
+0.196 Tw
+1.497 0 Td
+(I and ) Tj
+/TT46 1 Tf
+0.003 Tc
+0 Tw
+2.6527 0 Td
+[(Ss) 9 (p)] TJ
+/TT47 1 Tf
+-0.0003 Tc
+0.1874 Tw
+1.3892 0 Td
+[(I restriction ) -6 (enzym) 11 (e) 1 (s )] TJ
+-0.0112 Tc
+0.0007 Tw
+-13.8802 -1.1437 Td
+[(allowed the ide) -4 (n) -2 (tifica) -4 (tion of ‘)] TJ
+/TT46 1 Tf
+-0.0118 Tc
+0 Tw
+11.5509 0 Td
+(Ca.) Tj
+/TT47 1 Tf
+-0.0108 Tc
+0.0003 Tw
+1.3832 0 Td
+[( P. prunorum) 7 (’) -1 ( \(table 1\). )] TJ
+-0.0003 Tc
+0.0557 Tw
+-12.2275 -1.1497 Td
+[(The ) 6 (finding of ‘)] TJ
+/TT46 1 Tf
+-0.0034 Tc
+0 Tw
+6.5151 0 Td
+[(Ca) -6 (. )] TJ
+/TT47 1 Tf
+-0.0007 Tc
+0.0561 Tw
+1.7186 0 Td
+[(P. ) 6 (prunorum) 10 (’) -3 ( in ch) -6 (erry trees indi-)] TJ
+0.0001 Tc
+0.181 Tw
+-8.9401 -1.1437 Td
+[(cates an e) 7 (p) -3 (ide) 7 (m) 6 (ic inside and around t) 9 (h) -3 (e ) 6 (expe) 7 (rim) 12 (e) 1 (ntal )] TJ
+-0.0001 Tc
+0.1094 Tw
+ T*
+[(plum) 11 ( orcha) 7 (rds. These ) 6 (phytoplas) -6 (m) 11 (as were ) 6 (detected also )] TJ
+0.0004 Tc
+0.0909 Tw
+ T*
+[(in a num) 12 (b) -2 (er ) 6 (of plum) 12 ( plants ) 6 (unde) 7 (r e) 7 (v) -2 (aluation for ES) 6 (FY) 4 ( )] TJ
+-0.0003 Tc
+0 Tw
+0 -1.1437 TD
+(resistance/tolerance.) Tj
+0.0014 Tc
+0.06 Tw
+0.7066 -1.1497 Td
+[(The fi) 9 (ndi) 9 (ng ) 6 (of) 5 ( 16S) 7 (rI) 5 (II) 5 (-) 5 (A phytoplasm) 12 (a) 2 (s in two ) 6 (declin-)] TJ
+-0.0025 Tc
+0.0639 Tw
+-0.7066 -1.1497 Td
+[(in) -6 (g) -6 ( ch) -6 (erry trees rep) -6 (r) -5 (esen) -6 (t th) -6 (e first ev) -6 (id) -6 (en) -6 (ce ) 6 (o) -6 (f) -5 ( t) 6 (h) -6 (is ) 6 (p) -6 (h) -6 (y-)] TJ
+0 Tc
+0.0314 Tw
+ T*
+[(toplasm) 11 (a presence in che) 6 (rry i) 8 (n) -1 ( Italy. Pre) 6 (v) -2 (ious re) 6 (ports of )] TJ
+0.0001 Tc
+0.0553 Tw
+0 -1.1497 TD
+[(16SrIII ) 6 (phytoplasm) 11 (a) 1 (s in che) 7 (r) 4 (ry)] TJ
+0.0008 Tc
+0.0546 Tw
+12.6034 0 Td
+[( only re) 7 (fers) 7 ( t) 9 (o) -2 ( ) 6 (ribosom) 12 (a) 1 (l )] TJ
+ ET
