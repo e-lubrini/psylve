@@ -1,0 +1,3551 @@
+Jalla 1:1-29, 2015. Check-list of Finnish Hemiptera 1
+
+JALLA
+
+Bulletin of the Finnish Expert Group on Hemiptera
+
+Vol. 1. Helsinki 2015 ISSN 2342-8031
+
+“Yt
+
+Check-list of Finnish Hemiptera
+Anders Albrecht, Veikko Rinne, Guy S6derman and Keijo Mattila
+
+Albrecht, A., Rinne, V., Séderman, G. & Mattila, K. Check-list of Finnish Hemiptera. — Jalla 1:1-29, 2015. The che ist is maintained by the members of the Finnish Expert Group and comprises all Hemiptera species recorded
+in Finland. The nomenclature follows Aukema & Rieger 1995, 1997, 1999, 2001, 2006 (Heteroptera), Séderman et al. 2009 (Fulgoromorpha et Cicadomorpha), Ossiannilsson 1992 (Psylloidea), Blackman & Eastop 2014 (Aphidoidea),
+Huldén 1986 & Gertsson 1987 (Aleyrodoidea), Gertsson 2005 (Coccoidea). Synonyms used in Finland have been listed. If a species only has been met with indoors or has been accidentally, or with purpose, introduced, the name has been
+marked by an asterisk following the description year. Taxonomically or otherwise unclear species have been marked
+with a question-mark before the name. Muscaphis drepanosiphoides (Bérner) is listed as a good species. Species added
+since the latest check-list (Albrecht & al. 2008) are denoted by an asterisk (*) before the species name. Authors! addresses: Anders Albrecht, Finnish Museum of Natural History; Veikko Rinne, Zoological Museum,
+University of Turku; Guy Séderman, Finnish Entomological Society and Keijo Mattila, Entomological Society of
+
+Tampere. http:/biolcoll.utu.fi/jalla/ — http://biolcoll.utu.fi/hemi/tyoryhma/tyoryhma_eng.htm
+
+ 
+
+HEMIPTERA
+STERNORRHYNCHA
+COCCOIDEA
+ORTHEZIIDAE
+
+Orthezia Bosc dAntic, 1784
+urticae (Linnaeus, 1758)
+Arctorthezia Cockerell, 1902
+cataphracta (Olafsen, 1772)
+Newsteadia Green, 1902
+floccosa (De Geer, 1778)
+
+MARGARODIDAE
+
+Matsucoccus Cockerell, 1909
+
+matsumurae (Kuwana, 1905)
+pini (Green, 1925)
+
+PSEUDOCOCCIDAE
+Atrococcus Goux, 1941
+*cracens Williams, 1962
+paludinus (Green, 1821)
+Pseudococcus Westwood
+adonidum (Linnaeus, 1767) *
+longispinus (Targioni, 1867)
+
+Planococcus Ferris, 1950
+citri (Risso, 1913) *
+vovae (Nassonov, 1908)
+Phenacoccus Cockerell, 1893
+aceris (Signoret, 1875)
+hordei (Lindeman, 1886)
+graminis E. Reuter, 1904
+piceae (Léw, 1883)
+Peliococcus Borchsenius, 1948
+calluneti (Lindinger, 1912)
+Coccura Sulc, 1908
+comari (Kiinow, 1880)
+Trionymus Berg, 1899
+perrisi (Signoret, 1875)
+Rhizoecus Kiinchel d Herculais, 1878
+cactitans (Hambleton, 1946) *
+Heliococcus Sulc
+bohemicus Sulc, 1912
+hystrix auct. nec (Barensprung, 1849)
+KERMESIDAE
+Kermes Boitard, 1828
+quercus (Linnaeus, 1758)
+
+ERIOCOCCIDAE
+Gossyparia Signoret, 1875
+spuria (Modeer, 1778)
+Acanthococcus Targioni, 1868
+baldonensis (Rasina, 1966)
+timidus (Huldén, 1985)
+*yvaeursi (Linnaeus, 1758)
+Pseudochermes Nitsche, 1895
+fraxini (Kaltenbach, 1860)
+Luzulaspis Ntargioni, 1868
+luzulae (Dufour, 1864)
+
+COCCIDAE
+Eriopeltis Signoret, 1872
+festucae (Boyer de Fonscolombe, 1834)
+lichtensteini Signoret, 1876
+Pulvinaria Targioni, 1868
+vitis (Linnaeus, 1758)
+
+betulae (Linnaeus, 1758)
+Coccus Linnaeus, 1758
+hesperidum (Linnaeus, 1758) “
+Saissetia Deplanche, 1859
+coffeae (Walker, 1852) *
+
+hemisphaerica (Targioni, 1867)
+oleae (Bernhard, 1782) *
+Parthenolecanium Sulc, 1908
+corni (Bouché, 1844)
+Eulecanium Cockerell, 1893
+douglasi (Sulc, 1894)
+franconium (Lindinger, 1908)
+tiliae (Linnaeus, 1758)
+Physokermes Targioni, 1868
+piceae (Schrank, 1801)
+
+abietis auct. nec (Linnaeus, 1758)
+hemicryphus (Dalman, 1825)
+
+DIASPIDIDAE
+Lepidosaphes Shimer, 1868
+beckii (Newman, 1869) *
+citricola Packard, 1870
+pinnaeformis auct. nec (Bouché, 1851)
+conchyformis (Gmelin, 1789) *
+ulmi (Linnaeus, 1758)
+Leucaspis Signoret, 1869
+lowi (Colvée, 1882)
+pini (Hartig, 1837)
+Chionaspis Signoret
+salicis (Linnaeus, 1758)
+Aulacaspis Cockerell, 1892
+rosae (Bouché, 1834)
+Pinnaspis Cockerell, 1892
+aspidistrae (Signoret, 1869) *
+Hemiberlesia Cockerell, 1897
+rapax (Comstock, 1881) *
+
+Dynaspidiotus Thiem & Gerneck, 1934
+hederae (Vallot, 1829) *
+
+Diaspidiotus Berlese, 1896
+
+bavaricus Lidinger, 1912
+ostreaeformis (Curtis, 1843)
+Aonidiella Berlese & Leonardi, 1895
+aurantii (Maskell, 1878) *
+
+ALEYRODOIDEA
+ALEYRODIDAE
+Trialeurodes Cockerell, 1902
+vaporariorum (Westwood, 1856) *
+Aleurolobus Quaintance & Baker, 1914
+wunni (Ryberg, 1938)
+Asterobemisia Trehan, 1940
+carpini (Koch, 1857)
+Bemisia Quaintance & Baker, 1914
+rosae (Korobitsin, 1967)
+tabaci (Gennadius, 1889) *
+Aleurotuberculatus Takahashi, 1938
+similis Takahashi, 1938
+ssp. europaeus Zahradnik, 1962
+Calluneyrodes Zahradnik, 1962
+callunae (Ossiannilsson, 1947)
+Pealius Quaintance & Baker, 1914
+quercus (Signoret, 1868)
+Aleurochiton Tullgren, 1907
+aceris (Modeer, 1778)
+
+complanatus (Barensprung, 1849)
+
+aceris (Geoffroy, 1762), trinomen
+Aleuroclava Singh, 1931
+chittendeni (Laing, 1928)
+Aleyrodes Latreille, 1796
+campanulae Saalas, 1942
+lonicerae Walker, 1852
+
+fragariae Walker, 1852
+
+rubi Signoret, 1868
+
+menthae Haupt, 1934
+proletella (Linnaeus, 1758)
+
+APHIDOIDEA
+ADELGIDAE
+ADELGINAE
+
+Adelges Vallot, 1836
+
+sg. Adelges s. str. lapponicus (Cholodkovsky, 1889)
+laricis Vallot, 1836
+
+tardus (Dreyfus, 1888)
+
+sg. Sacciphantes Curtis, 1844
+abietis (Linnaeus, 1758)
+viridis (Ratzeburg, 1843)
+
+sg. Aphrastasia Borner, 1909
+pectinatae (Cholodkovsky, 1888)
+
+sg. Gilletteella Borner, 1930
+cooleyi (Gillette, 1907)
+PINEINAE
+
+Pineus Shimer, 1869
+
+cembrae (Cholodkovsky, 1888)
+pineoides (Cholodkovsky, 1907)
+pini (Macquart, 1819)
+
+PHYLLOXERIDAE
+
+Acanthochermes Kollar, 1848
+
+quercus Kollar, 1848
+
+Phylloxera Boyer de Fonscolombe, 1834
+coccinea (von Heyden, 1837)
+
+APHIDIDAE
+MINDARINAE
+
+Mindarus Koch, 1857
+abietinus Koch, 1857
+
+obliquus (Cholodkovsky, 1896)
+
+THELAXINAE
+
+Thelaxes Westwood, 1840
+
+dryophila (Schrank, 1801)
+
+Glyphina Koch, 1856
+
+betulae (Linnaeus, 1758)
+
+jacutensis Mordvilko, 1931
+schrankiana Borner, 1950
+
+pseudoschrankiana Blackman, 1989
+
+HORMAPHIDINAE
+CERATAPHIDINI
+
+Cerataphis Lichtenstein, 1882
+orchidearum (Westwood, 1879) *
+
+HORMAPHIDINI
+Hamamelistes Shimer, 1867
+betulinus (Horvath, 1896)
+Hormaphis Osten-Sacken, 1861
+betulae (Mordvilko, 1901)
+
+ANOECIINAE
+Anoecia Koch, 1857
+corni (Fabricius, 1775)
+nemoralis Borner, 1950
+vagans (Koch, 1856)
+zirnitsi Mordvilko, 1931
+
+ERIOSOMATINAE
+ERIOSOMATINI
+Eriosoma Leach, 1818
+ulmi (Linnaeus, 1758)
+Colopha Monell, 1877
+compressa (Koch, 1856)
+
+Kaltenbachiella Schouteden, 1906
+pallida (Haliday, 1838)
+Tetraneura Hartig, 1841
+
+ulmi (Linnaeus, 1758)
+
+PEMPHIGINI
+Pachypappa Koch, 1856
+populi (Linnaeus, 1758)
+tremulae (Linnaeus, 1761)
+vesicalis Koch, 1856
+warshavensis (Nasonov, 1894)
+Gootiella Tullgren, 1925
+tremulae Tullgren, 1925
+Pachypappella Baker, 1920
+lactea (Tullgren, 1909)
+Prociphilus Koch, 1857
+
+sg. Prociphilus s. str. bumeliae (Schrank, 1801)
+sg. Stagona Koch, 1857
+pini (Burmeister, 1835)
+xylostei (deGeer, 1773)
+Thecabius Koch, 1857
+
+sg. Thecabius s. str. affinis (Kaltenbach, 1843)
+sg. Parathecabius Borner, 1950
+*lysimachiae Boérner, 1916
+Pemphigus Hartig, 1839
+bursarius (Linnaeus, 1758)
+borealis Tullgren, 1909
+fuscicornis (Koch, 1857)
+*immunis Buckton, 1896
+*passeki Borner, 1952
+populi Courchet, 1879
+populinigrae (Schrank, 1801)
+saliciradicis (Borner, 1950)
+spyrothecae Passerini, 1856
+
+FORDINI
+Baizongia Rondani, 1848
+pistaciae (Linnaeus, 1767)
+Geoica Hart, 1894
+setulosa (Passerini, 1860)
+utricularia (Passerini, 1856)
+eragrostidis (Passerini, 1860)
+Paracletus von Heyden, 1837
+cimiciformis von Heyden, 1837
+Forda von Heyden, 1837
+formicaria von Heyden, 1837
+marginata Koch, 1857
+Smynthurodes Westwood, 1849
+betae Westwood, 1849
+Melaphis Walsh, 1867
+*rhois (Fitch, 1866)
+
+DREPANOSIPHINAE
+Drepanosiphum Koch, 1855
+platanoidis (Schrank, 1801)
+MYZOCALLIDINAE
+CALAPHIDINI
+
+Symydobius Mordvilko, 1894
+oblongus (von Heyden, 1837)
+Clethrobius Mordvilko, 1928
+comes (Walker, 1848)
+Euceraphis Walker, 1870
+betulae (Koch, 1855)
+punctipennis (Zetterstedt, 1828)
+Callipterinella van der Goot, 1913
+calliptera (Hartig, 1841)
+minutissima (Stroyan, 1953)
+tuberculata (von Heyden, 1837)
+Calaphis Walsh, (1862) 1863
+arctica Hille Ris Lambers, 1952
+betulicola (Kaltenbach, 1843)
+flava Mordvilko, 1928
+Betulaphis Glendenning, 1926
+brevipilosa Borner, 1940
+
+pelei Hille Ris Lambers, 1952
+quadrituberculata (Kaltenbach, 1843)
+Monaphis Walker, 1870
+antennata (Kaltenbach, 1843)
+
+MYZOCALLIDINI
+
+Myzocallis Passerini, 1860
+
+sg. Myzocallis s. str. coryli (Goeze, 1778)
+
+sg. Agrioaphis Walker, 1870
+
+myricae (Kaltenbach, 1843)
+
+Tuberculatus Mordvilko, 1894
+
+sg. Tuberculatus s. str. querceus (Kaltenbach, 1843)
+
+sg. Tuberculoides van der Goot, 1915
+
+annulatus (Hartig, 1841)
+
+Pterocallis Passerini, 1860
+
+albidus Borner, 1940
+
+alni (deGeer, 1773)
+
+maculatus (von Heyden, 1837)
+
+Tinocallis Matsumura, 1919
+
+platani (Kaltenbach, 1843)
+
+nevskyi Remaudiére, Quednau & Heie, 1988
+
+Eucallipterus Schouteden, 1906
+
+tiliae (Linnaeus, 1758)
+
+Therioaphis Walker, 1870
+
+brachytricha Hille Ris Lambers & van den
+Bosch, 1964
+
+luteola (Borner, 1949)
+
+riehmi (Borner, 1949)
+
+subalba Borner, 1949
+
+tenera (Aizenberg, 1956)
+
+trifolii (Monell, 1882)
+
+PHYLLAPHIDINAE
+Phyllaphis Koch, 1856
+fagi (Linnaeus, 1767)
+
+SALTUSAPHIDINAE
+Thripsaphis Gillette, 1917
+sg. Thripsaphis s. str. caespitosae Ossiannilsson, 1954
+caricicola (Mordvilko, 1914)
+sg. Trichocallis Borner, 1930
+cyperi (Walker, 1848)
+producta Gillette, 1917
+
+caricis (Mordvilko, 1921)
+verrucosa Gillette, 1917
+sg. Larvaphis Ossiannilsson, 1953
+brevicornis (Ossiannilsson, 1953)
+Subsaltusaphis Quednau, 1953
+aquatilis (Ossiannilsson, 1959)
+flava (Hille Ris Lambers, 1939)
+lambersi (Quednau, 1954)
+pallida (Hille Ris Lambers, 1939)
+picta (Hille Ris Lambers, 1939)
+rossneri (Borner, 1940)
+Saltusaphis Theobald, 1915
+lasiocarpae (Ossiannilsson, 1953)
+Iziphya Nevsky, 1929
+austriaca Borner, 1950
+bufo (Walker, 1848)
+Juncobia Quednau, 1954
+leegei (Borner, 1940)
+
+CHAITOPHORINI
+
+Periphyllus van der Hoeven, 1863
+aceris (Linnaeus, 1761)
+
+coracinus (Koch, 1854)
+lyropictus (Kessler, 1886)
+testudinaceus (Fernie, 1852)
+Chaitophorus Koch, 1854
+furcatus Quednau, 1987
+lapponum Ossiannilsson, 1959
+leucomelas Koch, 1854
+nigricantis Pintera, 1987
+
+populeti (Panzer, 1801)
+populialbae (Boyer de Fonscolombe, 1841)
+ramicola (Borner, 1949)
+
+salicti (Schrank, 1801)
+
+tremulae Koch, 1854
+
+ATHEROIDINI
+Laingia Theobald, 1922
+psammae Theobald, 1922
+Atheroides Haliday, 1839
+hirtellus Haliday, 1839
+serrulatus Haliday, 1839
+
+Caricosipha Borner, 1939
+*paniculatae Borner, 1939
+Sipha Passerini, 1860
+
+sg. Sipha s. str. glyceriae (Kaltenbach, 1843)
+littoralis (Walker, 1848)
+
+sg. Rungsia Mimeur, 1933
+arenarii Mordvilko, 1921
+elegans del Guercio, 1905
+maydis Passerini, 1860
+Chaetosiphella Hille Ris Lambers, 1939
+berlesei (del Guercio, 1905)
+
+APHIDINAE
+
+APHIDINI
+
+Aphis Linnaeus, 1758
+
+sg. Aphis s. str. acetosae Linnaeus, 1761
+
+astragali Ossiannilsson, 1959
+
+brohmeri Borner, 1952
+
+brunellae Schouteden, 1903
+
+chloris Koch, 1854
+
+comari Prior & Stroyan, 1977
+
+confusa Walker, 1849
+
+coronillae Ferrari, 1872
+
+craccae Linnaeus, 1758
+
+craccivora Koch, 1854
+
+?cytisorum Hartig, 1841
+
+ssp. sarothamni Franssen, 1928
+
+etiolata Stroyan, 1952
+
+euphorbiae Kaltenbach, 1843
+
+fabae Scopoli, 1763
+
+ssp. fabae Scopoli, 1763
+
+ssp. cirsiiacanthoidis Scopoli, 1763
+
+farinosa Gmelin, 1790
+
+frangulae Kaltenbach, 1845
+
+ssp. frangulae Kaltenbach, 1845
+
+ssp. beccabungae Koch, 1855
+
+galiiscabri Schrank, 1801
+
+?genistae Scopoli, 1763
+
+gossypii Glover, 1877 *
+
+hieracii Schrank, 1801
+
+idaei van der Goot, 1912
+
+janischi (Borner, 1940)
+
+klimeschi (Borner, 1950)
+
+korshunovi Ivanovskaja, 1971
+pseudolysimachiae Heikinheimo, 1978
+
+leontodontis (Borner, 1950)
+
+longirostrata Hille Ris Lambers, 1966
+
+loti Kaltenbach, 1862
+
+lotiradicis Stroyan, 1972
+
+mammulata Ghimingham & Hille Ris
+Lambers, 1949
+
+mirifica (Borner, 1950)
+
+molluginis (Borner, 1950)
+
+nasturtii Kaltenbach, 1843
+nepetae Kaltenbach, 1843
+newtoni Theobald, 1927
+pilosellae (Borner, 1952)
+plantaginis Goeze, 1778
+podagrariae Schrank, 1801
+polygonata (Nevsky, 1929)
+pomi deGeer, 1773
+
+*praeterita Walker, 1849
+pseudocomosa Stroyan, 1972
+ruborum (Borner, 1932)
+rumicivora Heie, 1986
+
+rumicis Linnaeus, 1758
+salicariae Koch, 1855
+
+sambuci Linnaeus, 1758
+sanguisorbae Schrank, 1801
+sedi Kaltenbach, 1843
+
+selini (Borner, 1940)
+
+serpylli Koch, 1854
+spiraephaga Miiller, 1961
+subnitida (Borner, 1940)
+taraxacicola (Borner, 1940)
+thalictri (Koch, 1854)
+tormentillae Passerini, 1879
+triglochinis Theobald, 1926
+tripolii Laing, 1920
+
+ulmariae Schrank, 1801
+umbrella (Borner, 1950)
+urticata Gmelin, 1790
+uvaeursi Ossiannilsson, 1959
+vaccinii (B6rner, 1940)
+
+viburni Scopoli, 1763
+
+violae Schouteden, 1900
+
+sg. Bursaphis McVicar Baker, 1934
+epilobiaria Theobald, 1927
+epilobii Kaltenbach, 1843
+grossulariae Kaltenbach, 1843
+schneideri (Borner, 1940)
+
+sg. Protaphis Borner, 1952
+erigerontis Holman, 1966
+
+sg. Toxopterina Borner, 1940
+vandergooti (Borner, 1939)
+Cryptosiphum Buckton, (1875) 1879
+artemisiae Buckton, 1879
+Hyalopterus Koch, 1854
+
+pruni (Geoffroy, 1762)
+Rhopalosiphum Koch, 1854
+insertum (Walker, 1849)
+maidis (Fitch, 1856)
+nymphaeae (Linnaeus, 1761)
+padi (Linnaeus, 1758)
+rufiabdominale (Sasaki, 1899) *
+Melanaphis van der Goot, 1917
+elizabethae (Ossiannilsson, 1967)
+luzulella (Hille Ris Lambers, 1947)
+
+Schizaphis Borner, 1931
+sg. Schizaphis s. str. agrostis Hille Ris Lambers, 1947
+borealis Tambs-Lyche, 1959
+dubia Huculak, 1968
+jaroslavi (Mordvilko, 1921)
+longicaudata Hille Ris Lambers, 1939
+nigerrima (Hille Ris Lambers, 1931)
+phlei Orlob, 1961
+
+arrhenatheri Pettersson, 1971
+pilipes (Ossiannilsson, 1959)
+rufula (Walker, 1849)
+thunebergi Heie, 1986
+sg. Paraschizaphis Hille Ris Lambers, 1947
+caricis (Schouteden, 1906)
+scirpi (Passerini, 1874)
+
+MACROSIPHINI
+Pterocomma Buckton, 1879
+jacksoni Theobald, 1921
+
+konoi Hori, 1939
+
+populeum (Kaltenbach, 1843)
+rufipes (Hartig, 1841)
+
+salicis (Linnaeus, 1758)
+tremulae Borner, 1940
+Plocamaphis Oestlund, 1922
+amerinae (Hartig, 1841)
+flocculosa (Weed, 1891)
+Anuraphis del Guercio, 1907
+farfarae (Koch, 1854)
+subterranea (Walker, 1852)
+Nearctaphis Shaposhnikov, 1950
+vera (Shaposhnikov, 1964)
+Brachycaudus van der Goot, 1913
+sg. Brachycaudus s. str. helichrysi (Kaltenbach, 1843)
+spiraeae Borner, 1932
+
+sg. Acaudus van der Goot, 1913
+aconiti (Mordvilko, 1928)
+cardui (Linnaeus, 1758)
+klugkisti (Borner, 1942)
+
+linariae Stroyan, 1950
+
+lychnidis (Linnaeus, 1758)
+napelli (Schrank, 1801)
+
+persicae (Passerini, 1860)
+populi (del Guercio, 1911)
+
+sg. Appelia Borner, 1930
+tragopogonis (Kaltenbach, 1843)
+sg. Thuleaphis Hille Ris Lambers, 1960
+rumexicolens (Patch, 1917)
+Dysaphis Borner, 1931
+
+sg. Dysaphis Borner, 1931
+aizenbergi (Shaposhnikov, 1949)
+anthrisci Borner, 1950
+centaureae (Borner, 1950)
+
+hirsutissima (Borner, 1940)
+newskyi (Borner, 1940)
+ossiannilssoni Stroyan, 1961
+ranunculi (Kaltenbach, 1843)
+tulipae (Boyer de Fonscolombe, 1841) *
+sg. Pomaphis Bérner, 1939
+maritima (Hille Ris Lambers, 1955)
+plantaginea (Passerini, 1860)
+
+sorbi (Kaltenbach, 1843)
+Ceruraphis Borner, 1926
+
+eriophori (Walker, 1848)
+Hayhurstia de\ Guercio, 1917 nec Mordvilko, 1921
+atriplicis (Linnaeus, 1761)
+Brachycolus Buckton, 1879
+cucubali (Passerini, 1863)
+stellariae (Hardy, 1850)
+
+Diuraphis Aizenberg, 1935
+
+sg. Diuraphis s. str. muehlei (Borner, 1950)
+
+sg. Holcaphis Hille Ris Lambers, 1939
+calamagrostis (Ossiannilsson, 1959)
+frequens (Walker, 1848)
+Brevicoryne van der Goot, 1915
+brassicae (Linnaeus, 1758)
+Lipaphis Mordvilko, 1928
+alliariae Miiller, 1952
+
+erysimi (Kaltenbach, 1843)
+
+rossi Borner, 1939
+
+ssp. conringiae Bozhko, 1961
+turritella (Wahlgren, 1938)
+Hyadaphis Kirkaldy, 1904
+coriandri (Das, 1918)
+
+foeniculi (Passerini, 1860)
+passerinii (del Guercio, 1911)
+polonica Szelegiewicz, 1959
+Semiaphis van der Goot, 1913
+anthrisci (Kaltenbach, 1843)
+nolitangere Aizenberg, 1954
+pimpinellae (Kaltenbach, 1843)
+sphondylii (Koch, 1854)
+Hydaphias Borner, 1930
+
+hofmanni Borner, 1950
+
+mosana Hille Ris Lambers, 1956
+Staegeriella Hille Ris Lambers, 1947
+necopinata (Borner, 1939)
+Aspidaphis Gillette, 1917
+
+adjuvans (Walker, 1848)
+Coloradoa Wilson, 1910
+
+abrotani (Koch, 1854)
+
+absinthii (Lichtenstein, 1885)
+achilleae Hille Ris Lambers, 1939
+artemisiae (del Guercio, 1913)
+campestrella Ossiannilsson, 1959
+inodorella Ossiannilsson, 1959
+rufomaculata (Wilson, 1908) *
+
+tanacetina (Walker, 1850)
+Longicaudus van der Goot, 1913
+trirhodus (Walker, 1849)
+Myzaphis van der Goot, 1913
+rosarum (Kaltenbach, 1843)
+Ericaphis Borner, 1939
+latifrons (Borner, 1942)
+Elatobium Mordvilko, 1914
+abietinum (Walker, 1849)
+Liosomaphis Walker, 1868
+berberidis (Kaltenbach, 1843)
+Cavariella del Guercio, 1911
+sg. Cavariella s. str. aegopodii (Scopoli, 1763)
+archangelicae (Scopoli, 1763)
+cicutae (Koch, 1854)
+
+rutila Mamontova-Solukha, 1961
+intermedia Hille Ris Lambers, 1969
+konoi Takahashi, 1939
+Ppastinacae (Linnaeus, 1758)
+theobaldi (Gillette & Bragg, 1918)
+sg. Cavaraiellia Heinze, 1960
+aquatica (Gillette & Bragg, 1916)
+Ossiannilssonia Hille Ris Lambers, 1952
+oelandica Hille Ris Lambers, 1952
+Vesiculaphis del Guercio, 1911
+theobaldi Takahashi, 1930
+Trichosiphonaphis Takahashi, 1922
+corticis (Aizenberg, 1935)
+Muscaphis Borner, 1933
+sg. Aspidaphium Borner, 1939
+cuspidata (Stroyan, 1955)
+*escherichi (Borner, 1939)
+sg. Muscaphis s. str. drepanosiphoides (Borner, 1939)
+Pseudacaudella Borner, 1950
+rubida (Borner, 1939)
+Myzodium Borner, 1949
+modestum (Hottes, 1926)
+Decorosiphon Borner, 1939
+corynothrix Borner, 1939
+Ovatus van der Goot, 1913
+crataegarius (Walker, 1850)
+Phorodon Passerini, 1860
+humuli (Schrank, 1801)
+Myzus Passerini, 1860
+sg. Myzus s. str. alectorolophi Heinze, 1961
+borealis Ossiannilsson, 1959
+cerasi (F, 1775)
+lythri (Schrank, 1801)
+ornatus Laing, 1932°
+padellus Hille Ris Lambers & Rogerson, 1946
+sg. Galiobium Borner, 1933
+langei (Borner, 1933)
+
+sg. Nectarosiphon Schouteden, 1901
+ascalonicus Doncaster, 1946 *
+
+certus (Walker, 1849)
+
+*myosotidis (Borner, 1950)
+
+nicotianae Blackman, 1987
+
+persicae (Sulzer, 1776)
+
+Tubaphis Hille Ris Lambers, 1947
+ranunculina (Walker, 1852)
+Rhopalomyzus Mordvilko, 1921
+
+sg. Rhopalomyzus s. str. poae (Gillette, 1908)
+
+sg. Judenkoa Hille Ris Lambers, 1946
+lonicerae (Siebold, 1839)
+Rhopalosiphoninus Baker, 1920
+
+sg. Rhopalosiphoninus s. str. ribesinus (van der Goot, 1912)
+
+sg. Myzosiphon Hille Ris Lambers, 1946
+staphyleae (Koch, 1854) *
+
+ssp. tulipaellus (Theobald, 1916)
+
+sg. Pseudorhopalosiphoninus Heinze, 1961
+calthae (Koch, 1854)
+
+sg. Submegoura Hille Ris Lambers, 1953
+heikinheimoi (Borner, 1952)
+Nasonovia Mordvilko, 1914
+
+sg. Nasonovia s. str. compositellae Theobald, 1924
+
+ssp. nigra (Hille Ris Lambers, 1931)
+pilosellae (Borner, 1933)
+
+ribisnigri (Mosley, 1841)
+
+sg. Kakimia Gillette & Palmer, 1928
+vannesii Stenseth, 1968
+
+sg. Ranakimia Heie, 1979
+
+altaensis Stenseth, 1969
+Hyperomyzus Borner, 1933
+
+sg. Hyperomyzus s. str. lactucae (Linnaeus, 1758)
+
+lampsanae (Borner, 1932)
+
+pallidus Hille Ris Lambers, 1935
+
+sg. Hyperomyzella Hille Ris Lambers, 1949
+rhinanthi (Schouteden, 1903)
+
+sg. Neonasonovia Hille Ris Lambers, 1949
+zirnitsi Hille Ris Lambers, 1952
+Impatientinum Mordvilko, 1914
+asiaticum Nevsky, 1929
+
+balsamines (Kaltenbach, 1862)
+Hyalopteroides Theobald, 1916
+humilis (Walker, 1852)
+
+Chaetosiphon Mordvilko, 1914
+potentillae (Walker, 1850)
+tetrarhodum (Walker, 1849)
+Cryptomyzus Oestlund, 1922
+
+sg. Cryptomyzus s. str. galeopsidis (Kaltenbach, 1843)
+korschelti Borner, 1938
+
+ribis (Linnaeus, 1758)
+
+sg. Ampullosiphon Heikinheimo, 1955
+stachydis (Heikinheimo, 1955)
+Capitophorus van der Goot, 1913
+carduinus (Walker, 1850)
+hippophaes (Walker, 1852)
+
+horni Borner, 1931
+
+pakansus Hottes & Frison, 1931
+similis van der Goot, 1915
+Pleotrichophorus Borner, 1930
+duponti Hille Ris Lambers, 1935
+glandulosus (Kaltenbach, 1846)
+persimilis Borner, 1950
+
+Cryptaphis Hille Ris Lambers, 1947
+poae (Hardy, 1850)
+
+Acyrthosiphon Mordvilko, 1914
+
+sg. Acyrthosiphon s. str. auctum (Walker, 1849)
+
+boreale Hille Ris Lambers, 1952
+brachysiphon Hille Ris Lambers, 1952
+caraganae (Cholodkovsky, 1908)
+ignotum Mordvilko, 1914
+
+knechteli (Borner, 1950)
+
+malvae (Mosley, 1841)
+
+pisum (Harris, 1776)
+
+sg. Liporrhinus Borner, 1939
+chelidonii (Kaltenbach, 1843)
+Microlophium Mordvilko, 1914
+carnosum (Buckton, 1876)
+Anthracosiphon Hille Ris Lambers, 1947
+hertae Hille Ris Lambers, 1947
+Subacyrthosiphon Hille Ris Lambers, 1947
+cryptobium Hille Ris Lambers, 1947
+Linosiphon Borner, 1950
+galiophagum (Wimshurst, 1923)
+Aulacorthum Mordvilko, 1914
+*aegopodii Borner, 1939
+
+cylactis Borner, 1942
+
+flavum Miiller, 1958
+
+solani (Kaltenbach, 1843)
+
+speyeri Borner, 1939
+
+vaccinii Hille Ris Lambers, 1952
+Neomyzus van der Goot, 1915
+circumflexus (Buckton, 1876)“
+Rhodobium Hille Ris Lambers, 1947
+porosum (Sanderson, 1900)“
+Metopolophium Mordvilko, 1914
+dirhodum (Walker, 1849)
+
+festucae (Theobald, 1917)
+
+tenerum Hille Ris Lambers, 1947
+Sitobion Mordvilko, 1914
+
+sg. Sitobion s. str. avenae (Fabricius, 1775)
+
+fragariae (Walker, 1848)
+
+paludum Miiller, 1982
+
+sg. Metobion Heikinheimo, 1990
+brevirostre (Heikinheimo, 1978)
+graminearum (Mordvilko, 1919)
+Macrosiphum Passerini, 1860
+cholodkovskyi (Mordvilko, 1909)
+daphnidis Borner, 1950
+
+dryopteridis (Holman, 1959)
+equiseti (Holman, 1961)
+
+euphorbiae (Thomas, 1878)
+
+gei (Koch, 1855)
+
+hellebori Theobald & Walton, 1923 *
+lisae Heie, 1965
+
+melampyri Mordvilko, 1919
+nasonovi Mordvilko, 1918
+
+rosae (Linnaeus, 1758)
+
+rubiarctici Heikinheimo, 1946
+tinctum (Walker, 1849)
+
+trollii Borner, 1950
+
+weberi Borner, 1933
+
+Corylobium Mordvilko, 1914
+avellanae (Schrank, 1801)
+
+Illinoia Wilson, 1910
+
+azaleae (Mason, 1925) *
+Delphiniobum Mordvilko, 1914
+junackianum (Karsch, 1887)
+Macrosiphoniella del Guercio, 1911
+sg. Macrosiphoniella s. str. abrotani (Walker, 1852)
+
+absinthii (Linnaeus, 1758)
+artemisiae (Boyer de Fonscolombe, 1841)
+dimidiata Borner, 1942
+
+millefolii (deGeer, 1773)
+
+sanborni (Gillette, 1908) *
+
+sejuncta (Walker, 1848)
+
+tanacetaria (Kaltenbach, 1843)
+tapuskae (Hottes & Frison, 1931)
+usquertensis Hille Ris Lambers, 1935
+sg. Asterobium Hille Ris Lambers, 1938
+asteris (Walker, 1849)
+
+sg. Phalangomyzus Borner, 1939
+oblonga (Mordvilko, 1901)
+persequens (Walker, 1852)
+Titanosiphon Nevsky, 1928
+artemisiae (Koch, 1855)
+
+Uroleucon Mordvilko, 1914
+
+sg. Uroleucon s. str. achilleae (Koch, 1855)
+
+cichorii (Koch, 1855)
+
+cirsii (Linnaeus, 1758)
+
+cf. grossum (Hille Ris Lambers, 1939)
+hypochoeridis (Fabricius, 1779)
+inulicola (Hille Ris Lambers, 1939)
+Jaceicola (Hille Ris Lambers, 1939)
+cf. leontodontis (Hille Ris Lambers, 1939)
+
+murale (Buckton, 1876)
+
+obscurum (Koch, 1855)
+
+pilosellae (Borner, 1933)
+
+sonchi (Linnaeus, 1767)
+
+tanaceti (Linnaeus, 1758)
+tussilaginis (Walker, 1850)
+
+sg. Uromelan Mordvilko, 1914
+aeneum (Hille Ris Lambers, 1939)
+campanulae (Kaltenbach, 1843)
+jaceae (Linnaeus, 1758)
+nigrocampanulae (Theobald, 1928)
+rapunculoidis (Borner, 1939)
+riparium (Stroyan, 1955)
+
+simile (Hille Ris Lambers, 1935)
+solidaginis (Fabricius, 1779)
+taraxaci (Kaltenbach, 1843)
+
+sg. Lambersius Olive, 1965
+erigeronense (Thomas, 1878)
+Metopeurum Mordvilko, 1914
+fuscoviride Stroyan, 1950
+Amphorophora Buckton, 1876
+
+sg. Amphorophora s. str. ampullata Buckton, 1876
+
+gei (Borner, 1939)
+
+idaei (Borner, 1939)
+
+rubi (Kaltenbach, 1843)
+
+sg. Galiaphis Ossiannilsson, 1954
+annae (Ossiannilsson, 1954)
+Megoura Buckton, 1876
+
+litoralis Miiller, 1952
+
+viciae Buckton, 1876
+
+Megourella Hille Ris Lambers, 1949
+purpurea Hille Ris Lambers, 1949
+tribulis (Walker, 1849)
+Wahlgreniella Hille Ris Lambers, 1949
+ossiannilssoni Hille Ris Lambers, 1949
+vaccinii (Theobald, 1924)
+Neoamphorophora Mason, 1924
+ledi (Wahlgren, 1938)
+
+LACHNINAE
+
+LACHNINI
+
+Lachnus Burmeister, 1835
+roboris (Linnaeus, 1758)
+Tuberolachnus Mordvilko, 1909
+salignus (Gmelin, 1790)
+Maculolachnus Gaumont, 1920
+submacula (Walker, 1848)
+
+STOMAPHIDINI
+Stomaphis Walker, 1870
+*quercus (Linnaeus, 1758)
+
+TRAMINI
+
+Protrama Baker, 1920
+flavescens (Koch, 1856)
+ranunculi (del Guercio, 1909)
+Trama von Heyden, 1837
+
+sg. Trama von Heyden, 1837
+centaureae Borner, 1940
+rara Mordvilko, 1908
+troglodytes von Heyden, 1837
+sg. Neotrama Baker, 1920
+
+cf caudata del Guercio, 1909
+
+CINARINI
+
+Eulachnus de| Guercio, 1909
+
+agilis (Kaltenbach, 1843)
+
+brevipilosus Borner, 1940
+
+rileyi (Williams, 1911)
+
+Schizolachnus Mordvilko, 1909
+
+pineti (Fabricius, 1781)
+
+Cinara Curtis, 1835
+
+sg. Cinara s. str. confinis (Koch, 1856)
+
+costata (Zetterstedt, 1828)
+
+cuneomaculata (del Guercio, 1909)
+
+hyperophila (Koch, 1855)
+
+laricis (Hartig, 1839)
+
+*nigritergi Mamontova, 2000
+
+nuda Mordvilko, 1895
+
+piceae (Panzer, 1801)
+
+piceicola (Cholodkovsky, 1896)
+viridescens (Cholodkovsky, 1896)
+
+pilicornis (Hartig, 1841)
+
+pilosa (Zetterstedt, 1840)
+maculata Gavrilova, 1972
+
+pinea (Mordvilko, 1895)
+
+pini (Linnaeus, 1758)
+
+pinihabitans (Mordvilko, 1895)
+
+piniphila (Ratzeburg, 1844)
+
+pruinosa (Hartig, 1841)
+
+sg. Cupressobium Borner, 1940
+
+cupressi (Buckton, 1881)
+
+juniperi (deGeer, 1773)
+
+smolandiae Danielsson & Carter, 1993
+
+PSYLLOIDEA
+LIVIIDAE
+Livia Latreille, 1805
+sg. Livia s. str. junci Schrank, 1789
+juncorum (Latreille, 1798) auct. sg. Diraphia Waga, 1842
+crefeldensis (Mink, 1855)
+
+APHALARIDAE
+Strophingia Enderlein, 1914
+ericae (Curtis, 1835)
+Rhinocola Forster, 1848
+aceris (Linnaeus, 1758)
+
+Aphalara Forster, 1848
+affinis (Zetterstedt, 1828)
+avicularis Ossiannilsson, 1981
+borealis Heslop-Harrison, 1949
+calthae (Linnaeus, 1761)
+crispicola Ossiannilsson, 1987
+
+pauli Loginova, partim
+exilis (Weber & Mohr, 1804)
+freji Burckhardt & Lauterer, 1997
+
+polygoni auct. nec Forster, 1848
+longicaudata W. Wagner & Franz, 1961
+maculipennis Léw, 1887
+polygoni Forster, 1848
+
+rumicicola Klimaszewski, 1966
+ulicis Forster, 1848
+
+pauli Loginova, partim
+Craspedolepta Enderlein, 1921
+sg. Craspedolepta s. str. latior W. Wagner, 1944
+malachitica (Dahlbom, 1851)
+pilosa (Oshanin, 1870)
+
+campestrella auct nec Ossiannilsson, 1987
+sg. Magnaphalara Ramirez-Gomez, 1960
+nebulosa (Zetterstedt, 1828)
+nervosa (Forster, 1848)
+sonchi (Forster, 1848)
+Neocraspedolepta Conci & Tamanini, 1986
+subpunctata (Forster, 1848)
+Camarotoscena Haupt, 1935
+speciosa (Flor, 1861)
+
+PSYLLIDAE
+
+Psyllopsis Low, 1879
+
+discrepans (Flor, 1861)
+
+fraxini (Linnaeus, 1758)
+fraxinicola (Forster, 1848)
+
+Psylla Geoffroy, 1762
+
+alni (Linnaeus, 1758)
+
+betulae (Linnaeus, 1758)
+betulaenanae Ossiannilsson, 1970
+fusca (Zetterstedt, 1828)
+Asphagidella Enderlein, 1921
+buxi (Linnaeus, 1758)
+Baeopelma Enderlein, 1926
+foersteri (Flor, 1861)
+Chamaepsylla Ossiannilsson, 1970
+hartigii (Flor, 1861)
+
+Cacopsylla Ossiannilsson, 1970
+sg. Cacopsylla s. str. 10
+
+mali (Schmidberger, 1836)
+peregrina (Forster, 1848)
+sorbi (Linnaeus, 1767)
+ulmi (Forster, 1848)
+sg. Thamnopsylla Loginova, 1978
+affinis (Low, 1980)
+melanoneura (Forster, 1848)
+picta (Forster, 1848)
+
+costalis (Flor, 1861)
+pruni (Scopoli, 1763)
+pyricola (Forster, 1848)
+pyrisuga (Forster, 1848)
+rhamnicola (Scott, 1876)
+sg. Hepatopsylla Ossiannilsson, 1970
+abdominalis (Meyer-Diir, 1871)
+ambigua (Forster, 1848)
+brunneipennis (Edwards, 1896)
+
+klapaleki Sulc, 1909
+corcontum (Sulc, 1910)
+elegantula (Zetterstedt, 1838)
+hippophaes (Forster, 1848)
+ledi (Flor, 1861)
+moscovita (Andrianova, 1948)
+
+schaeferi (Vondrakcek, 1959)
+myrtilli (W. Wagner, 1947)
+nigrita (Zetterstedt, 1828)
+palmeni (Low, 1878)
+parvipennis (Léw, 1877)
+propinqua (Schafer, 1949)
+pulchra (Zetterstedt, 1838)
+pyri (Linnaeus, 1758)
+rhododendri (Puton, 1871)
+zaicevi (Sulc, 1915)
+
+sootryeni (Ossiannilsson, 1942)
+zetterstedti (Thomson, 1878)
+
+TRIOZIDAE
+
+Bactericera Puton, 1876
+acutipennis (Zetterstedt, 1828)
+albiventris (Forster, 1848)
+bohemica (Sulc, 1913)
+calcarata (Schifer, 1949)
+curvatinervis (Forster, 1848)
+femoralis (Forster, 1848)
+nigricornis (Forster, 1848)
+parastriola Conci, Ossiannilsson & Tamanini, 1988
+reuteri (Sulc, 1913)
+
+salicivora (Reuter, 1876)
+striola (Flor, 1861)
+
+substriola Ossiannilsson, 1992
+Trioza Forster, 1848
+abdominalis Flor, 1861
+agrophila Low, 1888
+
+alacris Flor, 1861 *
+
+anthrisci Burkhardt, 1986
+
+apicalis Forster, 1848
+cerastii (Linnaeus, 1758)
+chenopodii Reuter, 1876
+obliqua Thomson, 1877
+chrysanthemi Léw, 1878
+cirsii Low, 1881
+dispar Léw, 1878
+flavipennis Forster, 1848
+galii Forster, 1848
+remota Forster, 1848
+rhamni (Schrank, 1801)
+rotundata Flor, 1861
+*tatrensis Klimaszewski, 1965
+urticae (Linnaeus, 1758)
+viridula (Zetterstedt, 1828)
+
+FULGOROMORPHA
+CIXIIDAE
+
+Cixius Latreille, 1804
+
+sg. Cixius s. str. nervosus (Linnaeus, 1758)
+
+sg. Ceratocixius W. Wagner, 1939
+cunicularius (Linnaeus, 1758)
+sg. Paracixius W. Wagner, 1939
+distinguendus Kirschbaum, 1868
+sg. Acanthocixius W. Wagner, 1939
+cambricus China, 1935
+
+similis Kirschbaum, 1868
+Pentastiridius Kirschbaum, 1868
+leporinus (Linnaeus, 1761)
+DELPHACIDAE
+KELISIINAE
+
+Kelisia Fieber, 1866
+
+confusa (Linnavuori, 1957)
+guttula (Germar, 1818)
+monoceros Ribaut, 1934
+pallidula (Boheman, 1847)
+praecox Haupt, 1935
+
+ribauti W. Wagner, 1938
+sabulicola W. Wagner, 1952
+vittipennis (J. Sahlberg, 1868)
+Anakelisia W. Wagner, 1963
+perspicillata (Boheman, 1845)
+
+STENOCRANINAE
+Stenocranus Fieber, 1866
+fuscovittatus (Stal, 1858)
+major (Kirschbaum, 1868)
+minutus (Fabricius, 1787)
+
+DELPHACINAE
+Delphacinus Fieber, 1866
+mesomelas (Boheman, 1849)
+Eurysula Vilbaste, 1968
+lurida (Fieber, 1866)
+
+11
+
+laevifrons J. Sahlberg, 1871
+Eurybregma Scott, 1875
+*nigrolineata (Scott, 1875)
+porcus (Emeljanov, 1964)
+Stiroma Fieber, 1866
+affinis Fieber, 1866
+bicarinata (Herrich-Schiffer, 1835)
+Stiromoides Vilbaste, 1971
+maculiceps (Horvath, 1903)
+Achorotile Fieber, 1866
+albosignata (Dahlbom, 1845)
+longicornis (J. Sahlberg, 1871)
+Euconomelus Haupt, 1929
+lepidus (Boheman, 1847)
+Conomelus Fieber, 1866
+anceps (Germar, 1821)
+Delphax Fabricius, 1798
+crassicornis (Panzer, 1796)
+pulchellus (Curtis, 1833)
+
+minki auct. nec Fieber, 1866
+Euides Fieber, 1866
+basilinea (Germar, 1821)
+
+speciosa Boheman, 1852
+Chloriona Feiber, 1866
+chinai Ossiannilsson, 1946
+
+prasinula auct. nec Fieber, 1872
+glaucescens Fieber, 1866
+
+unicolor auct. nec Herrich-Schiffer, 1835
+smaragdula (Stal, 1853)
+
+smaragdula J. Sahlberg, 1871
+*stenoptera (Flor, 1861)
+*vasconica Ribaut, 1931
+Megamelus Fieber, 1866
+notula (Germar, 1830)
+
+brevifrons Reuter, 1880
+Unkanodes Fennah, 1963
+excisa (Melichar, 1898)
+Megadelphax W. Wagner, 1963
+sordidula (Stal, 1853)
+Ditropsis W. Wagner, 1963
+flavipes (Signoret, 1865) ">! ) Laodelphax Fennah, 1963
+striatella (Fallén, 1826)
+Paraliburnia Jensen-Haarup, 1917
+adela (Flor, 1861)
+clypealis (J. Sahlberg, 1871)
+Hyledelphax Vilbaste, 1968
+elegantula (Boheman, 1847)
+Calligypona J. Sahlberg, 1871
+reyi (Fieber, 1866)
+
+albicollis J. Sahlberg, 1871
+Delphacodes Fieber, 1866
+capnodes (Scott, 1870)
+venosus (Germar, 1830)
+
+curtula (J. Sahlberg, 1871)
+
+Gravesteiniella W. Wagner, 1963
+boldi (Scott, 1870)
+Muellerianella W. Wagner, 1963
+brevipennis (Boheman, 1847)
+extrusa (Scott, 1871)
+fairmairei (Perris, 1857)
+Muirodelphax W. Wagner, 1963
+aubei (Perris, 1857)
+obsoleta (J. Sahlberg, 1871)
+Acanthodelphax LeQuesne, 1964
+denticauda ((Boheman, 1847)
+spinosa ((Fieber, 1866)
+Nothodelphax Fennah, 1963
+Tyrphodelphax W. Wagner, 1963
+albocarinata (Stal, 1858)
+distincta (Flor, 1861)
+Dicranotropis Fieber, 1866
+hamata (Boheman, 1847)
+Florodelphax Vilbaste, 1971
+leptosoma (Flor, 1829) &P"!.) paryphasma (Flor, 1861)
+lucticolor (J. Sahlberg, 1871)
+Kosswigianella W. Wagner, 1963
+exigua (Boheman, 1847)
+Struebingianella W. Wagner, 1963
+lugubrina (Boheman, 1847)
+Xanthodelphax W. Wagner, 1963
+flaveola (Flor, 1861)
+straminea (Stal, 1858)
+xantha Vilbaste, 1965
+Paradelphacodes W. Wagner, 1963
+litoralis (Reuter, 1880)
+paludosua (Flor, 1861)
+Oncodelphax W. Wagner, 1963
+pullula (Boheman, 1852)
+Criomorphus Curtis, 1833
+albomarginatus (Curtis, 1833)
+borealis (J. Sahlberg, 1871)
+moestus (Boheman, 1847)
+Javesella Fennah, 1963
+sg. Javesella s. str. alpina (J. Sahlberg, 1871)
+bottnica Huldén, 1974
+discolor (Boheman, 1847)
+dubia (Kirschbaum, 1868)
+pargasensis (Reuter, 1880)
+forcipata (Boheman, 1847)
+obscurella (Boheman, 1847)
+pellucida (Fabricius, 1794)
+?marginata (Fabricius, 1794)
+simillima (Linnavuori, 1948)
+nitidipennis auct. nec (Kirschbaum, 1856),
+partim
+
+12
+sg. Haffnerianella W. Wagner, 1963
+stali (Metcalf, 1943)
+Ribautodelphax W. Wagner, 1963
+albostriata (Fieber, 1866)
+angulosa (Ribaut, 1953)
+collina (Boheman, 1847)
+pallens (Stal, 1854)
+vinealis Bieman, 1987
+ACHILIDAE
+Cixidia Fieber, 1866
+confinis (Zetterstedt, 1838)
+lapponica (Zetterstedt, 1838)
+
+CALISCELIDAE
+Ommatidiotus Spinola, 1839
+dissimilis (Fallén, 1806)
+inconspicuus Stal, 1863
+
+CICADOMORPHA
+TIBICINIDAE
+Cicadetta Kolenati, 1857
+montana (Scopoli, 1772)
+
+APHROPHORIDAE
+Aphrophora Germar, 1821
+alni (Fallén, 1805)
+pectoralis Matsumura, 1903
+forneri Haupt, 1919
+salicina auct. nec (Goeze, 1778)
+costalis Matsumura, 1903
+salicina (Goeze, 1778) &"Pt)
+Lepyronia Amyot & Serville, 1843
+coleoptrata (Linnaeus, 1758)
+Neophilaenus Haupt, 1935
+exclamationis (Thunberg, 1784)
+dilutus (J. Sahlberg, 1871)
+lineatus (Linnaeus, 1758)
+aterrimus (J. Sahlberg, 1871)
+pulchellus (J. Sahlberg, 1871)
+minor (Kirschbaum, 1868)
+*pallidus Haupt, 1917
+Peuceptyelus J. Sahlberg, 1871
+coriaceus (Fallén, 1826)
+Philaenus Stal, 1864
+spumarius (Linnaeus, 1758)
+
+MEMBRACIDAE
+Centrotus Fabricius, 1803
+cornutus (Linnaeus, 1758)
+
+ULOPIDAE
+Ulopa Fallén, 1814
+reticulata (Fabricius, 1794)
+
+CICADELLIDAE
+MEGOPHTHALMINAE
+Megophthalmus Curtis, 1833
+scanicus (Fallén, 1806)
+
+MACROPSINAE
+Oncopsis Burmeister, 1838
+alni (Schrank, 1801)
+appendiculata W. Wagner, 1944
+avellanae Edwards, 1920
+flavicollis (Linnaeus, 1761)
+planiscuta (Thomson, 1870)
+subangulata (J. Sahlberg, 1871)
+
+fortior W. Wagner, 1944
+tristis (Zetterstedt, 1838)
+Pediopsis Burmeister, 1838
+tiliae (Germar, 1831)
+Macropsis Lewis, 1834
+cerea (Germar, 1837)
+
+haupti auct. nec W. Wagner, 1941
+flavida Vilbaste, 1980 &Pt!) fuscinervis (Boheman, 1845)
+fuscula (Zetterstedt, 1828)
+gravesteini W. Wagmer, 1953 &"Pel.) impura (Boheman, 1847)
+infuscata (J. Sahlberg, 1871)
+
+cerea auct. nec Germar, 1837
+*notata (Prohaska, 1923)
+*ocellata Provancher, 1872
+
+albae Wagner, 1950
+*remanei Nickel, 1999
+scutellata (Boheman, 1845)
+Macropsidius Ribaut, 1952
+sahlbergi (Flor, 1861)
+Hephathus Ribaut, 1952
+achilleae Mityaev, 1967
+
+nanus auct. nec (Herrich-Schiffer, 1835)
+
+AGALLIINAE
+
+Agallia Curtis, 1833
+
+brachyptera (Boheman, 1847)
+Anaceratagallia Zachvatkin, 1946
+estonica Vilbaste, 1961
+
+lithuanica Vilbaste, 1974
+
+ribauti Ossiannilsson, 1938
+venosa (Fourcroy, 1785)
+
+IDIOCERINAE
+
+Idiocerus Lewis, 1834
+herrichii Kirschbaum, 1868
+lituratus (Fallén, 1806)
+stigmaticalis Lewis, 1834
+Acericerus Dlabola, 1974
+heydenii (Kirschbaum, 1868)
+
+13
+
+Metidiocerus Ossiannilsson, 1981
+crassipes (J. Sahlberg, 1871) “Pe! elegans (Flor, 1861)
+Populicerus Dlabola, 1974
+albicans (Kirschbaum, 1868)
+confusus (Flor, 1861)
+laminatus (Flor, 1861)
+nitidissimus (Herrich-Schaffer, 1835)
+
+fulgidus auct. nec (Fabricius, 1775)
+populi (linnaeus, 1761)
+Tremulicerus Dlabola, 1974
+distinguendus (Kirschbaum, 1868)
+tremulae (Estlund, 1796)
+Stenidiocerus Ossiannilsson, 1981
+poecilus (Herrich-Schaffer, 1835)
+Sahlbergotettix Zachvatkin, 1953
+salicicola (Flor, 1861)
+
+IASSINAE
+Tassus Fabricius, 1803
+lanio (Linnaeus, 1761)
+Batracomorphus Lewis, 1834
+allionii (Turton, 1802)
+prasina (Fabricius, 1794) nec (Pallas,
+1773)
+
+DORYCEPHALINAE
+Eupelix Germar, 1821
+cuspidata (Fabricius, 1775)
+
+APHRODINAE
+Aphrodes Curtis, 1829
+bicincta (Schrank, 1776) sensu Tishechkin
+1999
+makarovi Zachvatkin, 1948 sensu
+Ossiannilsson, 1981, partim
+diminuta Ribaut, 1952 sensu Tischechkin
+1999
+bicincta (Schrank, 1776) sensu
+Ossiannilsson 1981, partim
+centrorossica Zachvatkin, 1953
+makarovi Zachvatkin, 1948
+Planaphrodes Hamilton, 1975
+bifasciata (Linnaeus, 1758)
+trifasciata (Fourcroy, 1785)
+laeva (Rey, 1891)
+nigrita (Kirschbaum, 1868)
+Anoscopus Kirschbaum, 1858
+albifrons (Linnaeus, 1758)
+histrionicus (Fabricius, 1794)
+flavostriatus (Donovan, 1799)
+Stroggylocephalus Flor, 1861
+agrestis (Fallén, 1806)
+livens (Zetterstedt, 1838)
+
+CICADELLINAE
+
+Evacanthus Lepeletier & Serville, 1825
+acuminatus (Fabricius, 1794)
+interruptus (Linnaeus, 1758)
+Bathysmatophorus J. Sahlberg, 1871
+reuteri J. Sahlberg, 1871
+
+Cicadella Latreille, 1817
+
+lasiocarpae Ossiannilsson, 1981
+
+viridis (Linnaeus, 1758)
+
+TYPHLOCYBINAE
+ALEBRINI
+
+Alebra Fieber, 1872
+albostriella (Fallén, 1826)
+neglecta W. Wagner, 1940
+wahlbergi (Boheman, 1845)
+
+DIKRANEURINI
+Erythria Fieber, 1866
+aureola (Fallén, 1826)
+Emelyanoviana Anufriev, 1970
+mollicula (Boheman, 1845)
+Dikraneura Hardy, 1850
+aridella (J. Sahlberg, 1871)
+variata Hardy, 1850
+Micantulina Anufriev, 1970
+micantula (Zetterstedt, 1838)
+pseudomicantula (Knight, 1966)
+Wagneriala Anufriev, 1970
+minima (J. Sahlberg, 1871)
+Igutettix Matsumura, 1932
+Vilbasteana Anufriev, 1970
+oculatus (Lindberg, 1929)
+maculosa (Vilbaste, 1968)
+Forcipata DeLong & Caldwell, 1936
+citrinella (Zetterstedt, 1828)
+forcipata (Flor, 1861)
+Notus Fieber, 1866
+flavipennis (Zetterstedt, 1828)
+marginalis J. Sahlberg, 1871
+
+TYPHLOCYBINI
+Empoasca Walsh, 1862
+apicalis (Flor, 1861)
+kontkaneni (Ossiannilsson, 1949)
+ossiannilssoni (Nuorteva, 1948)
+pteridis (Dahlbom, 1850)
+solani (curtis, 1846) nom. dub. vitis (Géthe, 1875)
+flavescens (Flor, 1861) nec (Fabricius,
+1794)
+Kybos Fieber, 1866
+Empoasca partim
+abstrusus Linnavuori, 1949
+butleri Edwards, 1908
+
+14
+
+lindbergi Linnavuori, 1951
+betulicola W. Wagner, 1955
+
+*mucronatus (Ribaut, 1933)
+
+populi Edwards, 1908
+
+rufescens (Melichar, 1896)
+
+smaragdula (Fallén, 1806)
+
+sordidulus Ossiannilsson, 1941
+
+strigilifer Ossiannilsson, 1941
+
+virgator Ribaut, 1932
+
+volgensis (Vilbaste, 1961)
+
+Kyboasca Zachvatkin, 1953
+
+bipunctata (Oshanin, 1871)
+
+Chlorita Fieber, 1872
+
+sg. Chlorita s. str. , 1872
+
+paolii Ossiannilsson, 1939
+
+viridula (Fallén, 1806)
+
+sg. Xerochlorita Zachvatkin, 1953
+
+dumosa Ribaut, 1933
+
+Fagocyba Dlabola, 1958
+
+sg. Fagocyba s. str. cruenta (Herrich-Schiffer, 1838)
+douglasi (Edwards, 1878)
+
+sg. Dryocyba Vilbaste, 1968
+
+carri (Edwards, 1914)
+
+Edwardsiana Zachvatkin, 1929
+
+alnicola (Edwards, 1924)
+
+ampliata (W. Wagner, 1935)
+
+avellanae (Edwards, 1888)
+staminata (Ribaut, 1952)
+
+bergmani (Tullgren, 1916)
+
+candidula (Kirschbaum, 1868)
+
+crataegi (Douglas, 1876)
+australis (Froggatt, 1918) nec (Walsh,
+1862)
+
+frustrator (Edwards, 1908)
+
+geometrica (Schrank, 1801)
+
+gratiosa (Boheman, 1852)
+
+ishidai (Matsumura, 1932)
+lanternae auct. nec (W. Wagner, 1937)
+
+lanternae (W. Wagner, 1937)
+
+lethierryi (Edwards, 1881)
+
+menzbieri Zachvatkin, 1948
+
+plebeja (Edwards, 1914)
+
+plurispinosa (W. Wagner, 1935)
+hippocastani auct. nec (Edwards, 1888),
+partim
+
+prunicola (Edwards, 1914)
+barbata (Ribaut, 1931)
+
+rosae (Linnaeus, 1758)
+
+salicicola (Edwards, 1885)
+
+sociabilis (Ossiannilsson, 1936)
+
+soror (Linnavuori, 1950)
+
+stehliki Lauterer, 1958
+
+tersa (Edwards, 1914)
+
+ulmiphagus Wilson & Claridge, 1999
+
+hippocastani auct. nec (Edwards, 1888),
+
+partim
+Eupterycyba Dlabola, 1958
+jucunda (Herrich-Schiffer, 1837)
+Linnavuoriana Dibaola, 1958
+decempunctata (Fallén, 1806)
+
+decemguttata (Fallén, 1826)
+intercedens (Linnavuori, 1949)
+sexmaculata (Hardy, 1850)
+
+sexpunctata (Fallén, 1826), primary
+
+homonym
+Ribautiana Zachvatkin, 1947
+ulmi (Linnaeus, 1758)
+Typhlocyba Germar, 1833
+quercus (Fabricius, 1777)
+Zonocyba Dlabola, 1958
+bifasciata (Boheman, 1851)
+Eurhadina Haupt, 1929
+concinna (Germar, 1831)
+kirschbaumi W. Wagner, 1937
+pulchella (Fallén, 1806)
+ribauti W. Wagner, 1935
+Eupteryx Curtis, 1833
+atropunctata (Goetze, 1778)
+aurata (Linnaeus, 1758)
+calcarata Ossiannilsson, 1936
+collina (Flor, 1861)
+
+alticola Ribaut, 1936
+
+melissae auct. nec Curtis, 1836
+cyclops Matsumura, 1906
+
+urticae auct. nec (Fabricius, 1803)
+decemnotata Rey, 1891
+notata Curtis, 1837
+origani Zachvatkin, 1948
+signatipennis (Boheman, 1847)
+tenella (Fallén, 1806)
+stachydearum (Hardy, 1850)
+urticae (Fabricius, 1803)
+vittata (Linnaeus, 1758)
+Wagneripteryx Dlabola, 1958
+germari (Zetterstedt, 1838)
+Aguriahana Distant, 1918
+pictilis (Stal, 1853)
+stellulata (Burmeister, 1841)
+
+ERYTHRONEURINI
+Alnetoidia Dlabola, 1958
+alneti (Dahlbom, 1850)
+Hauptidia Dworakowska, 1970
+*distinguenda (Kirschbaum, 1868)
+Zyginidia Haupt, 1929
+pullula (Boheman, 1845)
+scutellaris auct. nec (Herrich-Schiffer,
+1835)
+
+15
+
+Zygina Fieber, 1866
+
+Erythroneura partim
+sg. Zygina s. str. angusta Lethierry, 1874
+flammigera (Fourcroy, 1785)
+nigritarsis Remane, 1959
+ordinaria (Ribaut, 1936)
+rosea (Flor, 1861)
+rosincola (Cerutti, 1939)
+rubrovittata (Lethierry, 1869)
+
+ericetorum (J. Sahlberg, 1871)
+schneideri (Giinthart, 1974)
+suavis (Rey, 1891)
+
+rhamnicola Horvath, 1903
+tiliae (Fallén, 1806)
+sg. Hypericella Dworakowska, 1970
+hyperici (Herrich-Schiffer, 1836)
+Arboridia Zachvatkin, 1946
+parvula (Boheman, 1845)
+
+DELTOCEPHALINAE
+GRYPOTINI
+
+Grypotes Fieber, 1866
+
+puncticollis (Herrich-Schaffer, 1834)
+
+OPSINI
+
+Circulifer Zachvatkin, 1953
+haematoceps (Mulsant & Rey, 1855
+Neoaliturus Distant, 1918
+*fenestratus (Herrich-Schiffer, 1834)
+
+MACROSTELINI
+Balclutha Kirkaldy, 1900
+arhenana Dlabola, 1967
+boica W. Wagner, 1950
+calamagrostis Ossiannilsson, 1961
+punctata (Fabricius, 1775)
+lineolata (Horvath, 1904)
+rhenana W. Wagner, 1939
+Corycephalus Puton, 1886
+gyllenhalii (Fallén, 1826)
+Macrosteles Fieber, 1866
+alpinus (Zetterstedt, 1828)
+fascifrons (Stal, 1858)
+cristatus (Ribaut, 1927)
+empetri (Ossiannilsson, 1935)
+fieberi (Edwards, 1889)
+frontalis (Scott, 1875)
+horvathi (W. Wagner, 1935)
+laevis (Ribaut, 1927)
+lividus (Edwards, 1894)
+nubilus (Ossiannilsson, 1936)
+mannerheimi (Kontkanen, 1937)
+oshanini Razvyazkina, 1957
+
+ossiannilssoni Lindberg, 1953
+quadripunctulatus (Kirschbaum, 1868)
+*sardus Ribaut, 1948
+septemnotatus (Fallén, 1806)
+sexnotatus (Fallén, 1806)
+sordidipennis (Stal, 1858)
+
+sexnotata ssp. salina (Reuter, 1886)
+variatus (Fallén, 1806)
+viridigriseus (Edwards, 1924)
+Erotettix Haupt, 1929
+cyane (Boheman, 1845)
+
+Sonronius Dorst, 1937
+dahlbomi (Zetterstedt, 1838)
+binotatus (J. Sahlberg, 1871)
+anderi (Ossiannilsson, 1948)
+Sagatus Ribaut, 1948
+punctifrons (Fallén, 1826)
+
+DELTOCEPHALINI
+Deltocephalus Burmeister, 1838
+pulicaris (Fallén, 1806)
+
+Endria Oman, 1949
+
+nebulosa (Ball, 1900)
+
+DORATURINI
+
+Doratura J. Sahlberg, 1871
+exilis (Horvath, 1903)
+homophyla (Flor, 1861)
+*impudica Horvath, 1897
+stylata (Boheman, 1847)
+
+EUSCELINI
+Platymetopius Burmeister, 1838
+undatus (De Geer, 1773)
+henribauti Dlabola, 1961
+Idiodonus Ball, 1936
+cruentatus (Panzer, 1799)
+Colladonus Ball, 1936
+torneellus (Zetterstedt, 1828)
+Lamprotettix Ribaut, 1942
+*nitidulus (Fabricius, 1787)
+Allygus Fieber, 1872
+mixtus (Fabricius, 1794)
+Allygidius Ribaut, 1948
+commutatus (Fieber, 1872)
+Graphocraerus Thomson, 1869
+ventralis (Fallén, 1806)
+Hardya Edwards, 1922
+tenuis (Germar, 1821)
+fulvopicta (J. Sahlberg, 1871)
+Rhopalopyx Ribaut, 1939
+adumbrata (C. R. Sahlberg, 1842)
+preyssleri (Herrich-Schaffer, 1838)
+vitripennis (Flor, 1861)
+
+16
+Paluda DeLong, 1936
+flaveola (Boheman, 1845)
+Elymana DeLong, 1936
+kozhevnikovi (Zachvatkin, 1938)
+ikumae auct. nec Matsumura, 1911
+sulphurella (Zetterstedt, 1828)
+Cicadula Zetterstedt, 1838
+sg. Cicadula s. str. albingensis W. Wagner, 1940
+flori (J. Sahlberg, 1871)
+nigricornis (J. Sahlberg, 1871)
+persimilis (Edwards, 1920)
+quadrinotata (Fabricius, 1794)
+quinquenotata (Boheman, 1845)
+ribauti (Kontkanen, 1937)
+rubroflava Linnavuori, 1952
+?longiventris (J. Sahlberg, 1871)
+saturata (Edwards, 1915)
+sg. Cyperana DeLong, 1936
+ciliata (Osborne, 1898)
+intermedia (Boheman, 1845)
+lunulifrons (J. Sahlberg, 1871)
+ornata (Melichar, 1900)
+ossiannilssoni Kontkanen, 1947
+sg. Henriana Emelyanov, 1964
+frontalis (Herrich-Schiffer, 1835)
+Speudotettix Ribaut, 1942
+subfusculus (Fallén, 1806)
+Hesium Ribaut, 1942
+domino (Reuter, 1880)
+biguttatum (Fallén, 1806) nec (Fabricius,
+1781)
+falleni Metcalf, 1955
+Thamnotettix Zetterstedt, 1838
+confinis (Zetterstedt, 1828)
+prominulus (Reuter, 1880)
+Pithyotettix Ribaut, 1942
+abietinus (Fallén, 1806)
+Perotettix Ribaut, 1942
+orientalis (Anufriev, 1971)
+pictus (Lethierry, 1880)
+Colobotettix Ribaut, 1948
+morbillosus (Melichar, 1896)
+Macustus Ribaut, 1942
+grisescens (Zetterstedt, 1828)
+Handianus Ribaut, 1942
+*flavovarius Herrich-Schaeffer 1835
+Doliotettix Ribaut, 1942
+lunulatus (Zetterstedt, 1838)
+pallens (Zetterstedt, 1828) nec (Gmelin,
+1790)
+Athysanus Burmeister, 1838
+argentarius Metcalf, 1955
+argentatus (Fabricius, 1794) nec (Olivier,
+1790)
+
+quadrum Boheman, 1845
+Stictocoris Thomson, 1869
+picturatus (C. R. Sahlberg, 1842)
+lineatus (Fabricius, 1787) nec (Linnaeus,
+1758)
+Scleroracus van Duzee, 1894
+corniculus (Marshall, 1866)
+intractibilis (Kontkanen, 1948)
+decumanus (Kontkanen, 1949)
+striatulus (Fallén, 1806) nec (Fabricius,
+1794)
+identicus Tishechkin, 2003
+plutonius sensu LeQuesne nec (Uhler,
+1877)
+Porichalceus (Thomson, 1869)
+russeolus (Fallén, 1826)
+striatulellus Edwards, 1894
+transversus (Fallén, 1826)
+Ophiolix Ribaut, 1942
+paludosa (Boheman, 1845)
+Limotettix J. Sahlberg, 1871
+atricapillus (Boheman, 1845)
+ochrifrons Vilbaste, 1973
+sphagneticus Emelyanov, 1964
+striola (Fallén, 1806)
+Laburrus Ribaut, 1942
+impictifrons (Boheman, 1852)
+Euscelidius Ribaut, 1942
+schenckii (Kirschbaum, 1858)
+Euscelis Brullé, 1832
+distinguendus (Kirschbaum, 1858)
+Ederranus Ribaut, 1942
+discolor (J. Sahlberg, 1871)
+nauta (J. Sahlberg, 1871)
+sachalinensis (Matsumura, 1911)
+lutea (C. R. Sahlberg, 1842) nec (Olivier,
+1790)
+Streptanus Ribaut, 1942
+aemulans (Kirschbaum, 1868)
+sahlbergi (Reuter, 1880)
+confinis (Reuter, 1880)
+marginatus (Kirschbaum, 1858)
+okaensis (Zachvatkin, 1948)
+sordidus (Zetterstedt, 1828)
+fraterculus (Reuter, 1880)
+
+FIEBERIELLINI
+Fieberiella Signoret, 1880
+*septentrionalis W. Wagner, 1963
+
+JASSARGINI
+
+Paramesus Fieber, 1866
+
+obtusifrons (Stal, 1853)
+nervosus (Fallén, 1826) nec (Linnaeus,
+1758)
+
+17
+Parapotes Emelyanov, 1964
+reticulatus (Horvath, 1897)
+Paralimnus Matsumura, 1902
+sg. Paralimnus s. str. Phragmitis (Boheman, 1847)
+lugens Horvath, 1897
+zachvatkini Emelyanov, 1964
+sg. Paragygrus Emelyanov, 1959
+rotundiceps (Lethierry, 1885)
+Metalimnus Ribaut, 1942
+formosus Boheman, 1845
+obtusus (Emelyanov, 1966)
+marmoratus (Flor, 1861)
+stali (J. Sahlberg, 1871)
+steini (Fieber, 1869)
+Arocephalus Ribaut, 1946
+sg. Arocephalus s. str. languidus (Flor, 1861)
+haupti (Lindberg, 1924)
+sg. Ariellus Ribaut, 1952
+punctum (Flor, 1861)
+paucinervis (J. Sahlberg, 1871)
+Psammotettix Haupt, 1929
+albomarginatus W. Wagner, 1941
+alienus (Dahlbom, 1851)
+cephalotes (Herrich-Schiffer, 1834)
+confinis (Dahlbom, 1851)
+dubius Ossiannilsson, 1974
+excisus (Matsumura, 1906)
+frigidus (Boheman, 1845)
+lapponicus (Ossiannilsson, 1936)
+nodosus (Ribaut, 1925)
+pallidinervis (Dahlbom, 1851)
+poecilus (Flor, 1861)
+sabulicola (Curtis, 1837)
+arenicola (J. Sahlberg, 1871)
+slovacus Dlabola, 1946
+Ebarrius Ribaut, 1947
+cognatus (Fieber, 1869)
+interstinctus auct. nec (Fieber, 1869)
+Adarrus Ribaut, 1947
+multinotatus (Boheman, 1857)
+Errastunus Ribaut, 1947
+ocellaris (Fallén, 1806)
+Turrutus Ribaut, 1947
+socialis (Flor, 1861)
+Mongolojassus Zachvatkin, 1953
+sibiricus (Horvath, 1901)
+bicuspidatus auct. nec (J. Sahlberg, 1871)
+Jassargus Zachvatkin, 1933
+sg. Arrailus Ribaut, 1952
+alpinus (Then, 1896)
+ssp. neglectus (Then, 1896)
+flori (Fieber, 1869)
+oculatus (J. Sahlberg, 1871)
+
+pseudocellaris auct. nec (Flor, 1861),
+partim
+falleni auct. nec (Fieber, 1869), partim
+sg. Sayetus Ribaut, 1952
+allobrogicus (Ribaut, 1936)
+pseudocellaris auct. nec (Flor, 1861),
+partim
+falleni auct. nec (Fieber, 1869), partim
+sursumflexus (Then, 1902)
+Pinumius Ribaut, 1947
+areatus (Stal, 1858)
+Diplocolenus Ribaut, 1947
+bohemanni (Zetterstedt, 1838)
+Verdanus Oman, 1949
+abdominalis (Fabricius, 1803)
+limbatellus (Zetterstedt, 1828)
+Arthaldeus Ribaut, 1947
+*arenarius Remane, 1960
+pascuellus (Fallén, 1826)
+striifrons (Kirschbaum, 1868)
+Rosenus Oman, 1949
+laciniatus (Then, 1896)
+cruciatus auct. nec (Osborne & Ball, 1898)
+abiskoensis (Lindberg, 1926)
+Sorhoanus Ribaut, 1947
+assimilis (Fallén, 1806)
+*schmidti (Wagner 1939)
+xanthoneurus (Fieber, 1869)
+Lebradea Remane, 1959
+flavovirens (Gillette & Baker, 1895)
+karafutonis (Matsumura, 1911)
+icarus Ossiannilsson, 1976
+Cosmotettix Ribaut, 1942
+sg. Cosmotettix s. str. caudatus (Flor, 1861)
+scriptifrons (J. Sahlberg, 1871)
+edwardsi (Lindberg, 1924)
+evanescens Ossiannilsson, 1976
+panzeri (Flor, 1861)
+concaviceps (Lindberg, 1924)
+sg. Airosus Ribaut, 1952
+costalis (Fallén, 1826)
+Calamotettix Emelyanov, 1964
+taeniatus (Horvath, 1911)
+Boreotettix Lindberg, 1952
+bidentatus DeLong & Davidson, 1935
+serricauda (Kontkanen, 1949)
+Henschia Lethierry, 1892
+collina (Boheman, 1850)
+lateralis (J. Sahlberg, 1871)
+Erzaleus Ribaut, 1952
+metrius (Flor, 1861)
+
+18
+
+HETEROPTERA
+DIPSOCOROMORPHA
+CERATOCOMBIDAE
+Ceratocombus Signoret, 1852
+sg. Ceratocombus s. str. coleoptratus (Zetterstedt, 1819)
+sg. Xylonannus Reuter, 1891
+brevipennis Poppius, 1910
+
+lusaticus Jordan, 1943
+
+Jjordani Linnavuori, 1951
+corticalis Reuter, 1889
+
+DIPSOCORIDAE
+
+Cryptostemma Herrich-Schaffer, 1835
+pusillimum (J. Sahlberg, 1870)
+
+waltli (Fieber, 1860)
+
+NEPOMORPHA
+
+NEPIDAE
+
+NEPINAE
+
+Nepa Linnaeus, 1758
+
+cinerea Linnaeus, 1758
+rubra Linnaeus, 1758
+
+RANATRINAE
+Ranatra Fabricius, 1790
+linearis (Linnaeus, 1758)
+
+CORIXIOIDEA
+CORIXIDAE
+MICRONECTINAE
+Micronecta Kirkaldy, 1897
+griseola Horvath, 1899
+minutissima (Linnaeus, 1758)
+poweri (Douglas & Scott, 1869)
+
+CYMATIAINAE
+
+Cymatia Flor, 1860
+
+bonsdorffi (C. R. Sahlberg, 1819)
+coleoptrata (Fabricius, 1777)
+
+CORIXINAE
+GLAENOCORISINI
+Glaenocorisa Thomson, 1869
+propinqua (Fieber, 1860)
+cavifrons (Thomson, 1869)
+
+CORIXINI
+
+Arctocorisa Wallengren, 1894
+carinata (C. R. Sahlberg, 1819)
+germari (Fieber, 1848)
+Callicorixa White, 1873
+praeusta (Fieber, 1848)
+
+producta (Reuter, 1880)
+
+wollastoni (Douglas & Scott, 1865)
+
+Corixa Geoffroy, 1762
+
+dentipes Thomson, 1869
+
+punctata (Illiger, 1807)
+
+Hesperocorixa Kirkaldy, 1908
+Sigara partim
+
+castanea (Thomson, 1869)
+
+linnaei (Fieber, 1848)
+
+sahlbergi (Fieber, 1848)
+
+Paracorixa Poisson, 1957
+Callicorixa partim
+
+concinna (Fieber, 1848)
+
+Sigara Fabricius, 1775
+
+sg. Sigara s. str. distincta (Fieber, 1848)
+
+falleni (Fieber, 1848)
+
+fallenoidea (Hungerford, 1926)
+
+fossarum (Leach, 1817)
+
+lateralis (Leach, 1817)
+
+longipalis (J. Sahlberg, 1878)
+
+striata (Linnaeus, 1758)
+
+sg. Microsigara Poisson, 1957
+
+hellensii (C. R. Sahlberg, 1819)
+
+sg. Pseudovermicorixa Jaczewski, 1962
+
+nigrolineata (Fieber, 1848)
+
+sg. Retrocorixa Walton, 1940
+
+semistriata (Fieber, 1848)
+
+limitata (Fieber, 1848)
+
+sg. Vermicorixa Walton, 1940
+
+lateralis (Leach, 1817)
+
+NAUCOROIDEA
+APHELOCHEIRIDAE
+Aphelocheirus Westwood, 1833
+aestivalis (Fabricius, 1794)
+
+NOTONECTOIDEA
+NOTONECTIDAE
+Notonecta Linnaeus, 1758
+glauca Linnaeus, 1758
+lutea Miiller, 1776
+
+reuteri Hungerford, 1928
+PLEIDAE
+
+Plea Leach, 1817
+*minutissima Leach, 1817
+
+GERROMORPHA
+MESOVELIOIDEA
+MESOVELIIDAE
+
+Mesovelia Mulsant & Rey, 1852
+furcata Mulsant & Rey, 1852
+
+19
+HEBROIDEA
+HEBRIDAE
+Hebrus Curtis, 1833
+pusillus (Fallén, 1807)
+ruficeps Thomson, 1871
+
+HYDROMETROIDEA
+HYDROMETRIDAE
+Hydrometra Latreille, 1796
+gracilenta Horvath, 1899
+
+GERROIDEA
+
+VELIIDAE
+
+MICROVELIINAE
+
+Microvelia Westwood, 1834
+
+buenoi Drake, 1920
+umbricola Wr6blewski
+
+reticulata (Burmeister, 1835)
+
+VELITINAE
+
+Velia Latreille, 1804
+*caprai Tamanini, 1947
+saulii Tamanini, 1947
+
+GERRIDAE
+Aquarius Schellenberg, 1800
+Gerris partim
+najas (De Geer, 1773)
+paludum (Fabricius, 1794)
+Gerris Fabricius, 1794
+sg. Gerris s. str. argentatus Schummel, 1832
+lacustris (Linnaeus, 1758)
+odontogaster (Zetterstedt, 1828)
+sphagnetorum Gaunitz, 1947
+thoracicus Schummel, 1832
+sg. Gerriselloides Hungerford & Matsuda,
+1958
+lateralis Schummel, 1832
+Limnoporus Stal, 1868
+Gerris partim
+rufoscutellatus (Latreille, 1807)
+
+LEPTOPODOMORPHA
+SALDOIDEA
+SALDIDAE
+CHILOXANTHINAE
+Chiloxanthus Reuter, 1891
+stellatus (Curtis, 1835)
+
+SALDINAE
+
+Chartoscirta Stal, 1868
+
+cincta (Herrich-Schaeffer, 1841)
+elegantula (Fallén, 1807)
+
+Halosalda Reuter, 1912
+lateralis (Fallén, 1807)
+Macrosaldula Leston & Southwood, 1964
+Saldula partim
+scotica (Curtis, 1835)
+Micracanthia Reuter, 1912
+fennica (Reuter, 1884)
+marginalis (Fallén, 1807)
+Saldula Van Duzee, 1914
+arenicola (Scholtz, 1847)
+fucicola (J. Sahlberg, 1870)
+opacula (Zetterstedt, 1839)
+orthochila (Fieber, 1859)
+pallipes (Fabricius, 1794)
+palustris (Douglas, 1874)
+pilosella (Thomson, 1871)
+saltatoria (Linnaeus, 1758)
+Salda Fabricius, 1803
+littoralis (Linnaeus, 1758)
+morio Zetterstedt, 1838
+muelleri (Gmelin, 1790)
+sahlbergi Reuter, 1875
+Teloleuca Reuter, 1912
+bifasciata (Thomson, 1871)
+pellucens (Fabricius, 1779)
+
+CIMICOMORPHA
+TINGOIDEA
+TINGIDAE
+Acalypta Westwood, 1840
+carinata (Panzer, 1806)
+gracilis (Fieber, 1844)
+marginata (Wolff, 1804)
+nigrina (Fallén, 1807)
+parvula (Fallén, 1807)
+platycheila (Fieber, 1844)
+Agramma Stephens, 1829
+femorale Thomson, 1871
+tropidopterum Flor, 1860
+Catoplatus Spinola, 1837
+fabricii (Stal, 1868)
+Derephysia Spinola, 1837
+foliacea (Fallén, 1807)
+Dictyla Stal, 1874
+convergens (Herrich-Schaeffer, 1835)
+?echii (Schrank, 1782)
+Galeatus Curtis, 1833
+affinis (Herrich-Schaeffer, 1835) *
+spinifrons (Fallén, 1807)
+Kalama Puton, 1876
+tricornis (Schrank, 1801)
+Physatocheila Fieber, 1844
+costata (Fabricius, 1794)
+quadrimaculata Wolff, 1804
+
+20
+Stephanitis Stal, 1873
+oberti (Kolenati, 1857)
+pyri (Fabricius, 1775) ©
+rhododendri Horvath, 1905
+Tingis Fabricius, 1803
+cardui (Linnaeus, 1758)
+
+MIROIDEA
+MICROPHYSIDAE
+Loricula Curtis, 1833
+elegantula (Barensprung, 1858)
+pselaphiformis Curtis, 1833
+Myrmedobia Birensprung, 1857
+coleoptrata (Fallén, 1807)
+distinguenda Reuter, 1884
+exilis (Fallén, 1807)
+
+tenella Zetterstedt, 1828
+MIRIDAE
+BRYOCORINAE
+BRYOCORINI
+Bryocoris Fallén, 1829
+pteridis (Fallén, 1807)
+Monalocoris Dahlbom, 1851
+filicis (Linnaeus, 1758)
+
+DICYPHINI
+Dicyphus Fieber, 1858
+sg. Brachyceroea Fieber, 1898
+globulifer (Fallén, 1829)
+sg. Dicyphus s. str. constrictus (Boheman, 1852)
+*epilobii Reuter, 1883
+*errans (Wolff, 1804)
+pallicornis (Fieber, 1861)
+Nesidiocoris Kirkaldy, 1902
+*tenuis (Reuter, 1895) *
+Campylonerura Fieber, 1875
+*yirgula (Herrich-Schiffer, 1837)
+Macrolophus Fieber, 1858
+pygmaeus (Rambur, 1839)
+nubilus auct. nec. (Herrich-Schaeffer,
+1835)
+melanotoma (A. Costa, 1853) *
+Tupiocoris China & Carvalho, 1952
+*rhododendri (Dolling, 1972)
+
+DERAECORINAE
+CLIVINEMATINI
+Bothynotus Fieber, 1864
+pilosus (Boheman, 1852)
+
+HYALOIDINI
+Stethoconus Flor, 1860
+cyrtopeltis (Flor, 1860)
+
+DERAECORINI
+Alloeotomus Fieber, 1858
+germanicus Wagner, 1939
+gothicus (Fallén, 1807)
+Deraeocoris Kirschbaum, 1855
+sg. Deraeocoris s.str. *morio (Boheman, 1852)
+*ruber (Linnaeus, 1758)
+scutellaris (Fabricius, 1794)
+sg.Camptobrochis Fieber, 1858
+*lutescens (Schilling, 1837)
+punctulatus (Fallén, 1807)
+
+MIRINAE
+STENODEMINI
+Myrmecoris Gorski, 1852
+gracilis (R. F. Sahlberg, 1848)
+Pithanus Fieber, 1858
+hrabei Stehlik, 1952
+maerkelii (Herrich-Schaeffer, 1838)
+Acetropis Fieber, 1858
+*gimmerthalii (Flor, 1860)
+Actinocoris Reuter, 1876
+signatus Reuter, 1878
+Leptopterna Fieber, 1858
+dolabrata (Linnaeus, 1758)
+ferrugata (Fallén, 1807)
+Megaloceroea Fieber, 1858
+recticornis (Geoffroy, 1785)
+Notostira Fieber, 1878
+elongata (Geoffroy, 1785)
+erratica (Linnaeus, 1758)
+Stenodema Laporte de Castelnau, 1832
+sg. Stenodema s. str. holsatum (Fabricius, 1787)
+laevigatum (Linnaeus, 1758)
+virens (Linnaeus, 1767)
+sg. Brachystira Fieber, 1858
+calcaratum (Fallén, 1807)
+trispinosum Reuter, 1904
+Teratocoris Fieber, 1858
+antennatus (Boheman, 1852)
+caricis Kirkaldy, 1909
+elegans Woodroffe, 1967
+paludum J. Sahlberg, 1870
+saundersi Douglas & Scott, 1869
+lineatus E. Wagner, 1952
+viridis Douglas & Scott, 1867
+Trigonotylus Fieber, 1858
+caelestialium (Kirkaldy, 1902)
+fuscitarsis Lammes, 1987
+ruficornis (Geoffroy, 1785)
+
+21
+MIRINI
+Pantilius Curtis, 1833
+tunicatus (Fabricius, 1781)
+Phytocoris Fallén, 1814
+sg. Phytocoris s. str. dimidiatus Kirschbaum, 1856
+intricatus Flor, 1861
+longipennis Flor, 1861
+pini Kirschbaum, 1856
+populi (Linnaeus, 1758)
+reuteri Saunders, 1876
+tiliae (Fabricius, 1776)
+sg. Ktenocoris Wagner, 1954
+insignis Reuter, 1876
+ulmi (Linnaeus, 1758)
+Megacoelum Fieber, 1858
+infusum (Herrich-Schaeffer, 1837)
+Adelphocoris Reuter, 1896
+lineolatus (Goeze, 1778)
+quadripunctatus (Fabricius, 1794)
+seticornis (Fabricius, 1775)
+Calocoris Fieber, 1858
+affinis (Herrich-Schaeffer, 1835)
+roseomaculatus (De Geer, 1773)
+Closterotomus Fieber, 1858
+Calocoris partim
+biclavatus (Herrich-Schaeffer, 1835)
+fulvomaculatus (De Geer, 1773)
+norwegicus (Gmelin, 1790)
+Grypocoris Douglas & Scott, 1868
+Calocoris partim
+sexguttatus (Fabricius, 1777)
+Rhabdomiris E. Wagner, 1968
+striatellus (Fabricius, 1794)
+Miris Fabricius, 1794
+striatus (Linnaeus, 1758)
+Stenotus Jakovlev, 1877
+binotatus (Fabricius, 1794)
+Dichrooscytus Fieber, 1858
+gustavi Josifov, 1981
+intermedius Reuter, 1885
+rufipennis (Fallén, 1807)
+*sp. nov.
+Lygocoris Reuter, 1875
+sg. Lygocoris s. str. pabulinus (Linnaeus, 1761)
+rugicollis (Fallén, 1807)
+sg. Neolygus Knight, 1917
+contaminatus (Fallén, 1807)
+viridis (Fallén, 1807)
+Apolygus China, 1941
+Lygocoris partim
+limbatus (Fallén, 1807)
+
+lucorum (Meyer-Diir, 1843)
+rhamnicola (Reuter, 1885)
+spinolae (Meyer-Diir, 1841)
+Lygus Hahn, 1833
+gemellatus (Herrich-Schaeffer, 1835)
+adspersus (Schilling, 1837) sensu
+Demchenko 2004
+pratensis (Linnaeus, 1758)
+punctatus (Zetterstedt, 1838)
+rugulipennis Poppius, 1911
+wagneri Remane, 1955
+Orthops Fieber, 1858
+basalis (Costa, 1853)
+campestris (Linnaeus, 1758)
+kalmii (Linnaeus, 1758)
+Pinalitus Kelton, 1955
+Orthops partim
+cervinus (Herrich-Schaeffer, 1841)
+rubricatus (Fallén, 1807)
+Agnocoris Reuter, 1875
+rubicundus (Fallén, 1807)
+Liocoris Fieber, 1858
+tripustulatus (Fabricius, 1781)
+Camptozygum Reuter, 1896
+aequale (Villers, 1789)
+pinastri (Fallén, 1896)
+Polymerus Hahn, 1831
+sg. Polymerus s. str. nigrita (Fallén, 1807)
+sg. Poeciloscytus Fieber, 1958
+cognatus (Fieber, 1858)
+lammesi Rinne, 1989
+microphthalmus (Wagner, 1951)
+palustris (Reuter, 1907)
+tepastus Rinne, 1989
+unifasciatus (Fabricius, 1794)
+vulneratus (Panzer, 1806)
+Charagochilus Fieber, 1858
+gyllenhali (Fallén, 1807)
+Capsus Fabricius, 1803
+ater (Linnaeus, 1758)
+wagneri Remane, 1950
+
+ORTHOTYLINAE
+HALTICINI
+
+Halticus Hahn, 1829
+
+apterus (Linnaeus, 1758)
+major Wagner, 1951
+Strongylocoris Blanchard, 1840
+leucocephalus (Linnaeus, 1758)
+niger (Herrich-Schaeffer, 1835)
+steganoides (J. Sahlberg, 1875)
+Pachytomella Reuter, 1891
+parallela (Meyer-Diir, 1843)
+
+22
+Orthocephalus Fieber, 1858
+brevis (Panzer, 1798)
+saltator (Hahn, 1835)
+vittipennis (Herrich-Schaeffer, 1835)
+Euryopicoris Reuter, 1875
+fennicus Wagner, 1954
+nitidus (Meyer-Diir, 1843)
+Labops Burmeister, 1835
+sahlbergii (Fallén, 1829)
+Myrmecophyes Fieber, 1879
+alboornatus (Stal, 1858)
+
+ORTHOTYLINI
+
+Malacocoris Fieber, 1858
+chlorizans (Panzer, 1794)
+Reuteria Puton, 1875
+
+*marqueti Puton, 1875
+Orthotylus Fieber, 1858
+
+sg. Orthotylus s. str. boreellus (Zetterstedt, 1828)
+flavinervis (Kirschbaum, 1856)
+marginalis Reuter, 1883
+nassatus (Fabricius, 1787)
+prasinus (Fallén, 1826)
+
+tenellus (Fallén, 1807)
+
+virens (Fallén, 1807)
+
+viridinervis (Kirschbaum, 1856)
+sg. Litocoris Fieber, 1860
+ericetorum (Fallén, 1807)
+
+sg. Melanotrichus Reuter, 1875
+flavosparsus (C. R. Sahlberg, 1841)
+sg. Pinocapsus Southwood, 1953
+fuscescens (Kirschbaum, 1856)
+sg. Pseudorthotylus Poppius, 1914
+bilineatus (Fallén, 1807)
+Pseudoloxops Kirkaldy, 1905
+coccineus (Meyer-Diir, 1843)
+Cyrtorhinus Fieber, 1858
+
+caricis (Fallén, 1807)
+Fieberocapsus Carvalho & Southwood, 1955
+flaveolus (Reuter, 1870)
+Mecomma Fieber, 1858
+
+sg. Mecomma s. str. ambulans (Fallén, 1807)
+
+sg. Globicellus Kiritshenko, 1951
+dispar (Boheman, 1852)
+Globiceps Lepeletier & Serville, 1825
+flavomaculatus (Fabricius, 1794)
+salicicola Reuter, 1880
+Blepharidopterus Kolenati, 1845
+angulatus (Fallén, 1807)
+diaphanus (Kirschbaum, 1856)
+Cyllecoris Hahn, 1834
+histrionius (Linnaeus, 1767)
+
+Dryophilocoris Reuter, 1875
+flavoquadrimaculatus (De Geer, 1773)
+
+PHYLINAE
+
+PILOPHORINI
+
+Pilophorus Hahn, 1826
+cinnamopterus (Kirschbaum, 1856)
+clavatus (Linnaeus, 1767)
+confusus (Kirschbaum, 1856)
+perplexus Douglas & Scott, 1875
+
+HALLODAPINI
+Cremnocephalus Fieber, 1861
+albolineatus Reuter, 1875
+Hallodapus Fieber, 1858
+rufescens (Burmeister, 1835)
+Systellonotus Fieber, 1858
+triguttatus (Linnaeus, 1767)
+
+PHYLINI
+Oncotylus Fieber, 1858
+punctipes Reuter, 1875
+Macrotylus Fieber, 1859
+cruciatus (R. F. Sahlberg, 1848)
+Plagiognathus Fieber, 1858
+arbustorum (Fabricius, 1794)
+chrysanthemi (Wolff, 1804)
+Europiella Reuter, 1909
+Plagiognathus partim
+Poliopterus E. Wagner, 1949
+albipennis (Fallén, 1829)
+artemisiae (Becker, 1864)
+albipennis auct. nec (Fallén, 1829), partim
+Parapsallus E. Wagner, 1952
+Plagiognathus partim
+vitellinus (Scholtz, 1847)
+Campylomma Reuter, 1878
+verbasci (Meyer-Diir, 1843)
+Monosynamma Scott, 1864
+bohemanni (Fallén, 1829)
+Chlamydatus Curtis, 1833
+sg. Chlamydatus s. str. opacus (Zetterstedt, 1838)
+saltitans (Fallén, 1807)
+sg. Euattus Kerzhner, 1962
+*drymophilus Vinokurov, 1982
+pulicarius (Fallén, 1807)
+pullus (Reuter, 1870)
+wilkinsoni (Douglas & Scott, 1866)
+Salicarus Kerzhner, 1962
+roseri (Herrich-Schaeffer, 1838)
+Sthenarus Fieber, 1858
+rotermundi (Scholtz, 1847)
+Criocoris Fieber, 1858
+crassicornis (Hahn, 1834)
+
+23
+quadrimaculatus (Fallén, 1807)
+Atractotomus Fieber, 1853
+kolenatii (Flor, 1860)
+magnicornis (Fallén, 1807)
+mali (Meyer-Diir, 1843)
+morio J. Sahlberg, 1883
+Psallus Fieber, 1858
+sg. Psallus s. str. falleni Reuter, 1883
+*flavellus Stichel, 1960
+haematodes (Gmelin, 1790)
+alni (Fabricius, 1794)
+roseus (Fabricius, 1777), preocc. lepidus Fieber, 1858
+mollis (Mulsant & Rey, 1852)
+masseei Woodroffe, 1957
+salicis (Kirschbaum, 1856)
+alnicola Douglas & Scott, 1871
+scholtzi Fieber, 1861
+varians (Herrich-Schaeffer, 1841)
+sg. Apocremnus Fieber, 1858
+aethiops (Zetterstedt, 1838)
+betuleti (Fallén, 1826)
+graminicola (Zetterstedt, 1828)
+*montanus Josifov, 1973
+sg. Hylopsallus Wagner, 1952
+perrisi (Mulsant & Rey, 1852)
+variabilis (Fallén, 1807)
+wagneri Ossiannilsson, 1953
+sg. Mesopsallus Wagner, 1970
+ambiguus (Fallén, 1807)
+sg. Phylidea Reuter, 1899
+quercus (Kirschbaum, 1856)
+sg. Pityopsallus Wagner, 1952
+lapponicus Reuter, 1874
+luridus Reuter, 1878
+*piceae (Reuter, 1879)
+Compsidolon Reuter, 1899
+salicellum (Herrich-Schaeffer, 1841)
+Phoenicocoris Reuter, 1875
+modestus (Meyer-Diir, 1843)
+obscurellus (Fallén, 1829)
+Orthonotus Stephens, 1829
+rufifrons (Fallén, 1807)
+Brachyarthrum Fieber, 1858
+limitatum Fieber, 1858
+Tytthus Fieber, 1864
+pubescens (Knight, 1931)
+pygmaeus (Zetterstedt, 1838)
+Plesiodema Reuter, 1875
+pinetellum (Zetterstedt, 1828)
+Phylus Hahn, 1831
+coryli (Linnaeus, 1758)
+melanocephalus (Linnaeus, 1767)
+
+Megalocoleus Reuter, 1890
+molliculus (Fallén, 1807)
+tanaceti (Fallén, 1807)
+pilosus (Schrank, 1801)
+Hoplomachus Fieber, 1858
+thunbergii (Fallén, 1807)
+Placochilus Fieber, 1858
+seladonicus (Fallén, 1807)
+Lopus Hahn, 1831
+decolor (Fallén, 1807)
+
+CIMICOIDEA
+
+NABIDAE
+
+Himacerus Wolff, 1811
+Nabis partim
+
+boops (Schiédte, 1870)
+
+Nabis Latreille, 1802
+
+sg. Nabis s. str. brevis Scholtz, 1847
+
+ericetorum Scholtz, 1847
+
+ferus (Linnaeus, 1758)
+
+pseudoferus Remane, 1949
+
+punctatus A. Costa, 1847
+feroides remane, 1953
+
+rugosus (Linnaeus, 1758)
+
+sg. Reduviolus Kirby, 1837
+
+inscriptus (Kirby, 1837)
+
+sg. Dolichonabis Reuter, 1908
+
+limbatus Dahlbom, 1851
+
+sg. Limnonabis Kerzhner, 1968
+
+lineatus Dahlbom, 1851
+
+sg. Nabicula Kirby, 1837
+
+flavomarginatus Scholtz, 1847
+
+ANTHOCORIDAE
+ANTHOCORINAE
+ANTHOCORINI
+Acompocoris Reuter, 1875
+alpinus Reuter, 1875
+pygmaeus (Fallén, 1807)
+Anthocoris Fallén, 1814
+confusus Reuter, 1884
+gallarumulmi (De Geer, 1773)
+limbatus Fieber, 1836
+nemoralis (Fabricius, 1794)
+nemorum (Linnaeus, 1761)
+pilosus (Jakovlev, 1877)
+
+sibiricus Reuter, 1875
+simulans Reuter, 1884
+
+minki auct. mec Dohrn, 1860
+Elatophilus Reuter, 1884
+nigrellus (Zetterstedt, 1838)
+nigricornis (Zetterstedt, 1838)
+stigmatellus (Zetterstedt, 1838)
+
+24
+Temnostethus Fieber, 1860
+gracilis Horvath, 1907
+pusillus (Herrich-Schaeffer, 1835)
+Tetraphleps Fieber, 1860
+aterrima (J. Sahlberg, 1878)
+bicuspis (Herrich-Schaeffer, 1835)
+
+ORIINI
+
+Orius Wolff, 1811
+
+sg. Orius s. str. laevigatus (Fieber, 1860) *
+
+niger (Wolff, 1811)
+compressicornis R. F. Sahlberg, 1848
+
+sg. Dimorphella Reuter, 1884
+
+agilis (Flor, 1860)
+
+sg. Heterorius Wagner, 1952
+
+horvathi (Reuter, 1884)
+
+laticollis (Reuter, 1884)
+
+majusculus (Reuter, 1879)
+
+vicinus (Ribaut, 1923)
+
+LYCTOCORIDAE
+LYCTOCORINI
+Amphiareus Distant, 1904
+obscuriceps (Poppius, 1909)
+Lyctocoris Hahn, 1836
+campestris (Fabricius, 1794)
+nidicola Wagner, 1955
+
+SCOLOPINI
+
+Scoloposcelis Fieber, 1838
+obscurella (Zetterstedt, 1838)
+pulchella (Zetterstedt, 1838)
+
+XYLOCORINI
+
+Xylocoris Dufour, 1831
+
+sg. Xylocoris s. str. cursitans (Fallén, 1807)
+formicetorum (Boheman, 1844)
+parvulus (Reuter, 1871)
+
+sg. Proxylocoris Carayon, 1972
+galactinus (Fieber, 1836)
+
+sg. Stictosynechia Reuter, 1884
+lativentris (J. Sahlberg, 1870)
+
+CIMICIDAE
+
+Cimex Linnaeus, 1758
+columbarius Jenyns, 1839
+lectularius Linnaeus, 1758
+Oeciacus Stal, 1873
+hirundinis (Lamarck, 1816)
+
+REDUVITDAE
+CENTROCNEMIDINAE
+Empicoris Wolff, 1811
+culiciformis (De Geer, 1773)
+vagabundus (Linnaeus, 1758)
+
+PHYMATINAE
+Phymata Latreille, 1802
+crassipes (Fabricius, 1775)
+
+STENOPODAINAE
+Pygolampis Germar, 1817
+bidentata (Goeze, 1778)
+
+HARPACTOCORINAE
+
+Coranus Curtis, 1833
+
+aethiops Jakovlev, 1893
+subapterus auct. nec (De Geer, 1773),
+partim
+
+subapterus (De Geer, 1773)
+
+Rhynocoris Hahn, 1833
+
+annulatus (Linnaeus, 1758)
+
+REDUVIINAE
+Reduvius Fabricius, 1775
+*personatus (Linnaeus, 1758)
+
+ARADIDAE
+ANEURINAE
+Aneurus Curtis, 1824
+avenius (Dufour, 1833)
+
+ARADINAE
+Aradus Fabricius, 1803
+angularis J. Sahlberg, 1886
+annulicornis Fabricius, 1803
+
+anisotomus Puton, 1879
+aterrimus Fieber, 1864
+betulae (Linnaeus, 1758)
+betulinus Fallén, 1829
+bimaculatus Reuter, 1872
+brevicollis Fallén, 1807
+cinnamomeus (Panzer, 1794)
+corticalis (Linnaeus, 1758)
+crenaticollis R. F. Sahlberg, 1848
+depressus (Fabricius, 1794)
+erosus Fallén, 1807
+laeviusculus Reuter, 1875
+lugubris Fallén, 1805
+montandoni Reuter, 1885
+obtectus Vasarhelyi, 1988
+
+pictus auct. nec Barensprung, 1859
+signaticornis R. F. Sahlberg, 1848
+truncatus Fieber, 1861
+LYGAEIDAE
+
+25
+LYGAEINAE
+Lygaeus Fabricius, 1794
+equestris (Linnaeus, 1758)
+
+ORSILLINAE
+
+NYSIINI
+
+Nithecus Horvath, 1890
+
+jacobaeae (Schilling, 1829)
+
+Nysius Dallas, 1852
+
+ericae (Schilling, 1829)
+groenlandicus (Zetterstedt, 1840)
+helveticus (Herrich-Schaeffer, 1850)
+thymi (Wolff, 1804)
+
+ORSILLINI
+Ortholomus Stal, 1872
+punctipennis (Herrich-Schaeffer, 1839)
+
+ISCHNORHYNCINAE
+Kleidocerys Stephens, 1829
+resedae (Panzer, 1797)
+
+CYMIDAE
+
+Cymus Hahn, 1832
+
+aurescens Distant, 1883
+obliquus Horvath, 1888
+
+claviculus (Fallén, 1807)
+
+glandicolor Hahn, 1832
+
+melanocephalus Fieber, 1861
+
+BLISSIDAE
+Ischnodemus Fieber, 1836
+sabuleti (Fallén, 1826)
+
+GEOCORIDAE
+
+Geocoris Fallén, 1814
+
+ater (Fabricius, 1787)
+dispar (Waga, 1839)
+grylloides (Linnaeus, 1758)
+lapponicus Zetterstedt, 1838
+
+ARTHENEIDAE
+Chilacis Fieber, 1864
+typhae (Perris, 1857)
+
+HETEROGASTRIDAE
+Heterogaster Schilling, 1829
+urticae (Fabricius, 1775)
+
+OXYCARENIDAE
+Macroplax Fieber, 1860
+preyssleri (Fieber, 1837)
+Oxycarenus Fieber, 1837
+modestus (Fallén, 1829)
+lavaterae (Fabricius, 1787) “
+
+Philomyrmex R. F. Sahlberg, 1848
+insignis R. F. Sahlberg, 1848
+Tropidophlebia Kerzhner, 1964
+costalis (Herrich-Schaffer, 1837)
+
+RHYPAROCHROMIDAE
+RHYPAROCHROMINAE
+ANTILLOCORINI
+Tropistethus Fieber, 1860
+holosericeus (Scholtz, 1846)
+
+DRYMINI
+
+Drymus Fieber, 1860
+
+pilicornis (Mulsant & Rey, 1852)
+brunneus (R. F. Sahlberg, 1848)
+ryei Douglas & Scott, 1865
+sylvaticus (Fabricius, 1775)
+Eremocoris Fieber, 1860
+abietis (Linnaeus, 1758)
+plebejus (Fallén, 1807)
+Gastrodes Westwood, 1840
+abietum Bergroth, 1914
+grossipes (De Geer, 1773)
+Lamproplax Douglas & Scott, 1868
+picea (Flor, 1860)
+Scolopostethus Fieber, 1860
+affinis (Schilling, 1829)
+decoratus (Hahn, 1833)
+
+pictus (Schilling, 1829)
+
+pilosus Reuter, 1874
+
+thomsoni Reuter, 1874
+Taphropeltus Stal, 1873
+hamulatus (Thomson, 1870)
+
+GONIANOTINI
+
+Aphanus Laporte de Castelnau, 1832
+rolandri (Linnaeus, 1758)
+Gonianotus Fieber, 1860
+marginepunctatus (Wolff, 1804)
+Macrodema Fieber, 1860
+micropterum (Curtis, 1836)
+Ischnocoris Fieber, 1860
+
+angustulus (Boheman, 1852)
+Pionosomus Fieber, 1860
+
+varius (Wolff, 1804)
+
+Pterotmetus Amyot & Audinet-Serville, 1843
+staphyliniformis (Schilling, 1829)
+Trapezonotus Fieber, 1860
+arenarius (Linnaeus, 1758)
+
+desertus Seidenstiicker, 1951
+
+anorus (Flor, 1860)
+
+MEGALONOTINI
+Megalonotus Fieber, 1860
+antennatus (Schilling, 1829)
+
+26
+chiragra (Fabricius, 1794)
+Sphragisticus Stal, 1872
+nebulosus (Fallén, 1807)
+
+RHYPAROCHROMINI
+Graptopeltus Stal, 1872
+lynceus (Fabricius, 1775)
+Peritrechus Fieber, 1860
+angusticollis (R. F. Sahlberg, 1848)
+convivus (Stal, 1858)
+
+distinguendus (Flor, 1860)
+geniculatus (Hahn, 1832)
+nubilus (Fallén, 1807)
+Rhyparochromus Hahn, 1826
+Phoeniceus (Rossi, 1794)
+pini (Linnaeus, 1758)
+
+MYODOCHINI
+Ligyrocoris Stal, 1872
+sylvestris (Linnaeus, 1758)
+Pachybrachius Hahn, 1826
+fracticollis (Schilling, 1829)
+luridus Hahn, 1826
+
+PLINTHISINAE
+PLINTHISINI
+
+Plinthisus Stephens, 1829
+brevipennis (Latreille, 1807)
+pusillus (Scholtz, 1847)
+
+STYGNOCORINI
+Acompus Fieber, 1860
+rufipes (Wolff, 1804)
+Stygnocoris Douglas & Scott, 1865
+cimbricus (Gredler, 1870)
+pygmaeus auct. nec (R. F. Sahlberg, 1848)
+fuligineus (Geoffroy, 1785)
+rusticus (Fallén, 1807)
+sabulosus (Schilling, 1829)
+pygmaeus (R. F. Sahlberg, 1848)
+
+PIESMATIDAE
+Parapiesma Pericart, 1974
+Piesma partim
+quadratum (Fieber, 1844)
+salsolae (Becker, 1867)
+Piesma Lepeletier & Audinet-Serville, 1825
+capitatum (Wolff, 1804)
+maculatum (Laporte, 1833)
+
+BERYTIDAE
+BERYTINAE
+
+Neides Latreille, 1804
+tipularius (Linnaeus, 1758)
+
+Berytinus Kirkaldy, 1900
+
+sg. Berytinus s. str. clavipes (Fabricius, 1775)
+
+minor (Herrich-Schaeffer, 1835)
+sg. Lizinus Mulsant & Rey, 1870
+crassipes (Herrich-Schaeffer, 1835)
+signoreti (Fieber, 1859)
+
+METACANTHINAE
+
+Metatropis Fieber, 1859
+
+rufescens (Herrich-Schaeffer, 1835)
+linnaeae (E. Wagner, 1950)
+
+PYRRHOCORIDAE
+Pyrrhocoris Fallén, 1814
+apterus (Linnaeus, 1758) *
+
+RHOPALIDAE
+
+RHOPALINAE
+
+RHOPALINI
+
+Brachycarenus Fieber, 1860
+
+tigrinus (Schilling, 1827)
+
+Corizus Fallén, 1814
+
+hyoscyami (Linnaeus, 1758)
+
+Liorhyssus Stal, 1870
+
+hyalinus (Fabricius, 1794)
+
+Rhopalus Schilling, 1827
+
+maculatus (Fieber, 1836)
+
+distinctus (Signoret, 1859)
+conspersus auct. nec (Fieber, 1836)
+
+parumpunctatus (Schilling, 1827)
+
+subrufus (Gmelin, 1790)
+
+Stictopleurus Stal, 1872
+
+abutilon (Rossi, 1790)
+
+crassicornis (Linnaeus, 1758)
+
+punctatonervosus (Goeze, 1778)
+
+CHOROSOMATINI
+Chorosoma Curtis, 1830
+schillingii (Schummel, 1827)
+Myrmus Hahn, 1832
+miriformis (Fallén, 1807)
+
+ALYDIDAE
+Alydus Fabricius, 1803
+calcaratus (Linnaeus, 1758)
+
+COREIDAE
+PSEUDOPHLOEINAE
+Bathysolen Fieber, 1860
+nubilus (Fallén, 1807)
+Coriomeris Westwood, 1842
+denticulatus (Scopoli, 1763)
+
+27
+scabricornis (Panzer, 1809)
+ssp. lapponicus Tshernova, 1978
+Nemocoris R. F. Sahlberg, 1848
+fallenii R. F. Sahlberg, 1848
+Ulmicola Kirkaldy, 1909
+spinipes (Fallén, 1829)
+
+COREINAE
+
+Coreus Fabricius, 1794
+marginatus (Linnaeus, 1758)
+Spathocera Stein, 1860
+dalmanii (Schilling, 1829)
+
+CYDNIDAE
+Adomerus Mulsant & Rey, 1866
+biguttatus (Linnaeus, 1758)
+Legnotus Schiédte, 1848
+picipes (Fallén, 1807)
+Ochetostethus Fieber, 1860
+opacus (Scholtz, 1847)
+nanus auct. nec (Herrich-Schiffer, 1834)
+Sehirus Amyot & Audinet-Serville, 1843
+luctuosus Mulsant & Rey, 1866
+Tritomegas Amyot & Audinet-Serville, 1843
+Sehirus partim
+bicolor (Linnaeus, 1758)
+
+THYREOCORIDAE
+Thyreocoris Schrank, 1801
+scarabaeoides (Linnaeus, 1758)
+
+ACANTHOSOMATIDAE
+Acanthosoma Curtis, 1824
+haemorrhoidale (Linnaeus, 1758)
+Cyphostethus Fieber, 1860
+tristriatus (Fabricius, 1787)
+Elasmostethus Fieber, 1860
+brevis Lindberg, 1934
+interstinctus (Linnaeus, 1758)
+minor Horvath, 1899
+Elasmucha Stal, 1864
+ferrugata (Fabricius, 1787)
+fieberi (Jakovlev, 1864)
+grisea (Linnaeus, 1758)
+
+SCUTELLERIDAE
+ODONTOTARSINAE
+Phimodera Germar, 1839
+humeralis (Dalman, 1823)
+lapponica (Zetterstedt, 1828)
+
+ODONTOSCELINAE
+Odontoscelis Laporte de Castelnau, 1833
+fuliginosa (Linnaeus, 1761)
+
+EURYGASTRINAE
+Eurygaster Laporte de Castelnau, 1833
+testudinaria (Geoffroy, 1785)
+
+PENTATOMIDAE
+
+ASOPINAE
+
+Jalla Hahn, 1832
+
+dumosa (Linnaeus, 1758)
+
+Pinthaeus Stal, 1868
+
+*sanguinipes (Fabricius, 1781)
+Picromerus Amyot & Audinet-Serville, 1843
+bidens (Linnaeus, 1758)
+
+Rhacognathus Fieber, 1860
+
+punctatus (Linnaeus, 1758)
+
+Troilus Stal, 1868
+
+luridus (Fabricius, 1775)
+
+Zicrona Amyot & Audinet-Serville, 1843
+caerulea (Linnaeus, 1758)
+
+PENTATOMINAE
+AELIINI
+
+Aelia Fabricius, 1803
+acuminata (Linnaeus, 1758)
+klugii Hahn, 1831
+
+*rostrata Boheman, 1852
+Neottiglossa W. Kirby, 1837
+pusilla (Gmelin, 1790)
+
+CARPOCORINI
+Carpocoris Kolenati, 1846
+purpureipennis (De Geer, 1773)
+Chlorochroa Stal, 1872
+Pitedia Reuter, 1888
+juniperina (Linnaeus, 1758)
+pinicola (Mulsant, 1852)
+Dolycoris Mulsant & Rey, 1866
+baccarum (Linnaeus, 1758)
+Peribalus Mulsant & Rey, 1866
+Holcostethus Fieber, 1860 preocc. strictus (Fabricius, 1804)
+vernalis (Wolff, ) auct. References
+
+28
+Palomena Mulsant & Rey, 1866
+prasina (Linnaeus, 1761)
+
+EYSARCORINI
+
+Eysarcoris Hahn, 1834
+
+aeneus (Scopoli, 1763)
+
+Stagonomus Gorski, 1852
+
+bipunctatus (Linnaeus, 1758)
+pusillus (Herrich-Schaeffer, 1830)
+
+PENTATOMINI
+
+Nezara Amyot & Audinet-Serville, 1843
+viridula (Linnaus, 1758) *
+
+Pentatoma Olivier, 1789
+
+rufipes (Linnaeus, 1758)
+
+SCIOCORINI
+
+Sciocoris Fallén, 1829
+
+sg. Aposciocoris Wagner, 1965
+*homalonotus Fieber, 1851
+microphthalmus Flor, 1860
+umbrinus (Wolff, 1804)
+
+sg. Sciocoris s. str. cursitans (Fabricius, 1794)
+
+STRACHIINI
+
+Eurydema Laporte de Castelnau, 1833
+oleraceum (Linnaeus, 1758)
+
+ornatum (Linnaeus, 1758) *
+dominulum (Scopoli, 1763)
+
+PODOPINAE
+
+GRAPHOSOMATINI
+
+Graphosoma Laporte de Castelnau, 1833
+lineatum (Linnaeus, 1758)
+
+TARISINI
+Dybowskyia Jakovlev, 1877
+reticulata (Dallas, 1851)
+
+Albrecht, A., Mattila, K., Rinne, V. & Séderman, G. 2008: Suomen nivelkirsiisten luettelo —
+Check-list of Finnish Hemiptera. — The Finnish Expert group on Hemiptera
+
+(http://biolcoll.utu.fi/hemi/tyoryhma/tyoryhma_eng.htm). Aukema, B. & Rieger, C. (eds.). 1995: Catalogue of the Heteroptera of the Palaearctic Region, vol. 1. Enicocephalomorpha, Dipsocoromorpha, Nepomorpha, Gerromorpha and Leptopodomorpha. Amsterdam, The Netherlands Entomological Society, xxvi + 222 pp. — 1996: Catalogue of the Heteroptera of the Palaearctic Region, vol. 2. Cimicomorpha I.
+Amsterdam, The Netherlands Entomological Society, xiv + 361 pp. 1999: Catalogue of the Heteroptera of the Palaearctic Region, vol. 3. Cimicomorpha II. Amsterdam, The Netherlands Entomological Society, xiv + 577 pp. 29
+
+— 2001: Catalogue of the Heteroptera of the Palaearctic Region, vol. 4. Pentatomomorpha I.
+Amsterdam, The Netherlands Entomological Society, xiv + 346 pp. — 2006: Catalogue of the Heteroptera of the Palaearctic Region, vol. 5. Pentatomomorpha II. Amsterdam, The Netherlands Entomological Society, xiii + 550 pp. Blackman, R. & Eastop, V. 2014: Aphids on the World's Plants. An online identification and
+iformation guide. http://www.aphidsonworldsplants.info/index.htm, as of December, 2014)
+
+Gertsson, C.-A. 1987: The Swedish whiteflies (Homoptera: Aleyrodidae). — Entomologisk Tidskrift
+108: 85-91. 2005: New species and new province-records of scale insects from Sweden (Hemiptera:
+Coccoidea) up to the year 2004. — Entomologisk Tidskrift 126: 35-42. Huldén, L. 1986: The whiteflies (Homoptera, Aleyrodoidea) and their parasites in Finland. —
+Notulae Entomologicae 66: 1-40. Ossiannilsson, F. 1992: The Psylloidea (Homoptera) of Fennoscandia and Denmark. Fauna
+Entomologica Scandinavica. 26: 346 pp. E. J. Brill, Leiden
+
+Séderman, G., Gillerfors, G. & Endrestél, A. 2009: An annotated catalogue of the Auchenorrhyncha
+of Northern Europe (Insecta, Hemiptera: Fulgoromorpha et Cicadomorpha). — Cicadina 10: 33—
+69.

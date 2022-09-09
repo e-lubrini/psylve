@@ -1,0 +1,1771 @@
+®
+
+Check for
+updates
+
+Received: 23 October 2018
+DOI: 10.1111/aab.12541
+
+Revised: 23 July 2019 | Accepted: 25 July 2019
+
+ 
+
+RESEARCH ARTICLE
+
+‘Annals of
+Applied Biology
+
+WILEY
+
+Epidemiological and molecular study on ‘Candidatus
+Phytoplasma prunorum’ in Austria and Hungary
+
+Monika Riedle-Bauer? | Caroline Paleski¢? | Juliana Schwanzer?? | Maria Kélber? |
+Karl Bachinger* | Livio Antonielli? | Christina Schénhuber? | Rita Elek? |
+Josef Stradinger® | Michael Emberger® | Christian Engel® | Miklés Makay” |
+
+Ferenc Zajcsek? | Giinter Brader? ©
+
++Federal College and Research Institute for
+Viticulture and Pomology Klosterneuburg,
+Klosterneuburg, Austria
+
+austrian Institute of Technology, Tulln,
+Austria
+
+3Genlogs Biodiagnostics Ltd, Budapest,
+Hungary
+
+“NO Landes-Landwirtschaftskammer, Referat
+Obstbau, St. Pélten, Austria
+SGartenbauschule Langenlois, Austria
+
+Wein- und Obstbauschule Krems, Krems,
+Austria
+
+7 Hungarian Horticultural Propagation Material
+Non-Profit Ltd., Erd, Hungary
+
+Correspondence
+Giinter Brader, Austrian Institute of
+Technology, Konrad-Lorenz-Strae 24, 3430
+Tulln, Austria,
+
+Email: guenter.brader@ait.ac.at
+
+ 
+
+Funding information
+‘Austrian Science Fund, Grant/Award Number:
+| 2763-B29; Bundesministerium fiir Land- und
+Forstwirtschaft, Umwelt und
+Wasserwirtschaft, Grant/Award Number: BLK
+project number 100835; Fulbright-Austrian-
+Hungarian Joint Research Grant, Grant/Award
+Number: TET_2015-1-2016-0045; OeAD-
+GmbH, Grant/Award Number: WTZ HU
+09/2016
+
+ 
+
+  
+
+1 | INTRODUCTION
+
+‘Candidatus Phytoplasma prunorum'’ (‘Ca Phytoplasma prunorum) is a
+widespread pathogen of Prunus spp. in Europe and the Mediterranean
+region (IPWG, 2018; Steffek, Follak, Sauvion, Labonne, & MacLeod,
+
+ 
+
+Abstract
+
+The epidemiology of ‘Candidatus Phytoplasma prunorum’ was studied in Austria and
+Hungary from 2014 to 2018. Testing of root samples showed average infections rates of
+61 and 40% of the Austrian Prunus spinosa and Prunus domestica spp. insititia samples,
+respectively. In Hungary, on average 21% of the P. spinosa and 13% of the feral Prunus
+cerasifera samples were infected. The pathogen was found in 18 out of 19 apricot
+orchards and PCR positive Cacopsylla pruni were observed at 11 out of 17 sampling loca-
+tions in both countries. In cage experiments with C. pruni remigrants successful pathogen
+transmission to Prunus armeniaca, P. domestica and P. spinosa seedlings in budding and
+foliated developmental stages was recorded, an inoculation access period of 4 hr was
+sufficient for transmission. A field experiment with ungrafted apricot seedlings planted
+in 2012 and 2014 indicated a prominent role of the insect vectors for disease spread. In
+2017, 40 and 28% of the trees planted in 2012 and 2014, respectively, were infected. Molecular characterisation based on the genes aceF and imp allowed the discrimination
+
+between 10 phytoplasma types in apricots. Around 70% of the phytoplasma types in
+
+ 
+
+apricots were also common in P. spinosa, in P. domestica spp. insititia and in remigrant
+C.pruni pointing to a possible pathogen exchange by insects between wild and cultivated
+Prunus spp. For disease control, vector management over the entire flight period of the
+remigrants seems necessary; when selecting active compounds, the short inoculation
+
+access period of not more than 4 hr should be considered. KEYWORDS
+aceF, Cacopsylla pruni, European stone fruit yellows, imp, transmission trial, wild Prunus
+
+species
+
+2012). The phytoplasma induces European stone fruit yellows (ESFY;
+Lorenz, Dosba, Poggi Pollini, Llécer, & Seemillle, 1994), a disease asso-
+ciated with severe disorders in susceptible crops such as apricots (Pru-
+nus armeniaca L.), peaches (Prunus persica (L.) Batsch) and Japanese
+
+plums (Prunus salicina L.) (Marcone, Jarausch, & Jarausch, 2010). Ann Appl Biol. 2019;1-15.
+
+wileyonlinelibrary.com/journal/aab
+
+{© 2019 Association of Applied Biologists | 1
+
+2 | WILEY Suen,
+
+RIEDLE-BAUER er at. Disease symptoms can vary greatly among plant species, rootstocks,
+climatic conditions, involved phytoplasma types or tree age, but gen-
+erally infected plants share common symptoms in form of premature
+bud break, leaf yellowing and reddening in summer and eventually
+death of trees (Marcone et al., 2010). In apricots, the pathogen causes
+chlorotic, conically rolled leaves, sparse foliation, small, tasteless fruits
+as well as dieback and decline of trees (Lederer & Seemiiller, 1992). Early bud break is typical for infected apricot trees in Mediterranean
+areas (Marcone et al., 2010; Morvan, 1977) but seems less common in
+Hungary (Siile, 1999). Based on sequence analysis of 16S rDNA, ‘Ca. Phytoplasma prunorum’ is classified into the Apple proliferation group
+(16SrX), together with other important fruit tree phytoplasmas such
+as ‘Ca. Phytoplasma mali’ and ‘Ca. Phytoplasma pyri’ (Seemiiller &
+Schneider, 2004). The only known insect vector transmitting the pathogen is the plum
+psyllid Cacopsylla pruni (Scopoli, 1763) (Carraro, Osler, Loi, Ermacora, &
+Refatti, 1998). Molecular analyses suggest that C. pruni actually is a com-
+plex of two cryptic species that are not yet distinguished morphologically
+and have a similar biology (Peccoud, Labonne, & Sauvion, 2013; Peccoud,
+Pleydell, & Sauvion, 2018; Sauvion, Lachenaud, Genson, Rasplus, & Lab-
+onne, 2007). The plum psyllid is a univoltine species that completes its
+immature to adult life cycle on Prunus spp. In spring, the insects mate and
+lay eggs on wild and cultivated Prunus species. In late spring or at the
+beginning of summer, the new generation of C. pruni adults leaves the
+Prunus hosts and migrates to conifers in mountainous regions (emi-
+grants). In the following year, at the end of winter or at the beginning of
+spring, the insects migrate back to Prunus spp. plants (remigrants), repro-
+duce and die (Ossiannilsson, 1992; Thébaud, Yvon, Alary, Sauvion, &
+Labonne, 2009). These results on C. pruni life cycle were confirmed by
+observations in a permanent rearing of the species under experimental
+conditions (W. Jarausch & Jarausch, 2016). Recent investigations on the
+factors responsible for the regulation of migration revealed that migrat-
+ing psyllids do feed on overwintering hosts but the nymphs are unable to
+develop on conifer diet (Gallinger & Gross, 2018). C. pruni transmits ‘Ca. Phytoplasma prunorum’ in a persistent
+propagative manner as the pathogen was shown to multiply in both
+immature and mature insects (Thébaud et al., 2009). Several studies
+suggest that in the field the remigrants are the crucial life stage for
+phytoplasma transmission (Carraro, Ferrini, Labonne, Ermacora, & Loi,
+2004; Thébaud et al., 2009). For successful phytoplasma transmission,
+an acquisition access period of 2-4 days, minimum latent periods of
+2-3 weeks and inoculation access periods (IAP) of 1-2 days were
+reported (Carraro, Loi, & Ermacora, 2001; Thébaud et al., 2009). Basic strategies for ESFY management include the use of healthy
+propagating material and the uprooting of infected trees in orchards. In
+some regions, however, the success of these measures is compromised
+as wild Prunus species hosting both the vectoring insects and the phy-
+toplasma might play a significant role as phytoplasma sources (Carraro,
+Ferrini, Ermacora, & Loi, 2002; Maier et al, 2013; Marcone et al.,
+2010). In a recent study in the Baix Llobregat area of Spain, feral Prunus
+mahaleb plants were suspected as the infection source for the nearby
+P. salicina orchards (Sabaté, Lavina, & Battle, 2016). Investigations in
+
+Germany estimated wild Prunus spinosa as a major source of infection
+in stone fruit orchards (W. Jarausch et al., 2019). A multilocus sequence analysis approach based on the genes aceF,
+pnp, secY and imp allowing the analysis of genetic diversity of ‘Ca. Phytoplasma prunorum’ has been developed by Danet et al. (2011). Among the four genetic loci used in this and a recent Slovenian
+(Dermastia, Dolanc, Mlinar, & Mehle, 2018) study, the genes imp
+(34 characterised haplotypes) encoding for an immunodominant sur-
+face protein and aceF (26 haplotypes) encoding for dihydrolipoamide
+acyltransferase, a protein involved in glycolysis, showed the highest
+variability and discriminative power. In Austria, apricots are currently produced on an area of approxi-
+mately 1,000 ha, of which more than 65% are located in the Federal
+Province of Lower Austria, approximately 16% in Styria and around 10%
+in Burgenland (Statistik Austria, 2018). In the past two decades, ESFY
+has become a major concern in all these areas, around the year 2000
+infection rates of up to 40% were reported in apricot orchards (Laimer
+Da Camara Machado et al., 2001; Richter, 1999, 2002). The highly sus-
+ceptible "Klosterneuburger Marille” (variety group "Hungarian Best’) is
+the most important apricot variety in Austria (30%), followed by
+“Orangered” (13%), Goldrich (10%), Bergeron (8%), “Pinkcot” and "Sil-
+vercot” (both 5%) (Statistik Austria, 2018). In intensive orchards, plants
+are predominantly grafted on plum rootstocks (mostly “TORINEL®
+avifel,” "St. Julien A.” "WAVIT® Prudom’), in extensive production plum
+seedlings “Brompton” and apricot seedlings are also used (Wurm, 2018). Often apricot orchards are small scale structured without any vector
+management. Many production areas are located in close vicinity to
+mountainous regions with high densities of conifers presumably serving
+as overwintering hosts for the vectors. From 2011 to 2013, PCR analyses
+in the Wachau region of Lower Austria based on leaf testing showed a
+disease incidence of 9.8 to 63.3% in apricot orchards, 20-40% in plum
+orchards and occasional infections of P. spinosa (Maier et al., 2013). High
+numbers of C. pruni (up to 25 individuals) were observed on blackthorns
+ona single branch with one sampling effort (beating tray method). Phyto-
+plasma infection rates ranged between 11.5% for the remigrants and
+3.4% for the emigrant insect generation (Maier et al, 2013). In Hungary, apricot is produced on about 5,400 ha (KSH, 2018). Commercial apricot production covers about 4,100 ha. The largest
+growing district (34% of the total apricot area) is located mainly in the
+northeastern hills, while another 35% are situated on the slopes of
+several counties in the western part (Transdanubia), where wild Prunus
+species, such as P. spinosa and P. cerasifera are common. Apricot is
+grown on sandy soils of the Great Plain (18%) where also wild Prunus
+species can be frequently found. Nowadays, the majority of varieties
+belong to the variety group of “Magyar kajszi" ("Hungarian Best”);
+however, the share of foreign varieties is continuously increasing in
+newly established plantations. Most often the trees are grafted on
+P. cerasifera seedlings (about 80%), for sandy soil preferably
+P. armeniaca is used (about 20%). In the last years, a new highly
+grafted interstem system approach gained importance. In this system,
+the apricot variety is grafted on Prunus domestica “Fehér besztercei”
+(interstem) grafted on P. cerasifera seedlings. A study on the occur-
+rence of ESFY in 2009 revealed a widespread and frequent presence
+
+RIEDLE-BAUER Er at. ‘Annals of
+
+WILEY_l_=
+
+ 
+
+of the disease in several areas of the country. Based on visual symp-
+toms, disease incidences of up to 85% were reported for apricot
+orchards (Tarczali, Kévics, & Kiss, 2014). Recent surveys on the pres-
+ence and the infection status of C. pruni at several locations in Hun-
+
+ 
+
+gary showed a wide distribution of the insect species and average
+rates of PCR-positive specimens of 15% (Mergenthaler, Kiss, &
+Viczian, 2017), 7% (Czibulys, Konez, & Pénzes, 2018) and 35%
+(Lepres, Mergenthaler, Viczién, & Téth, 2018). Extensive knowledge on the presence of the pathogen in
+orchards, on the relevance of vector-mediated pathogen spread as
+compared to transfer via propagation material, on the role of wild Pru-
+nus spp. as pathogen sources, on the exchange of phytoplasmas
+between the compartments of the epidemic cycle as well as on the
+exact times of the year at which the insects transmit the pathogen is a
+requirement for well-adapted management strategies. Knowledge on
+the length of the IAP is crucial for the selection of insecticides
+intended to reduce pathogen spread. In general, a control of pathogen
+vectors by insecticides aims to keep vector populations low and thus
+to minimise phytoplasma spread. However, in the case of pathogen
+vectors moving into a crop from outside, additionally a direct effect of
+the insecticide on pathogen transmission is essential. The treatment
+should ideally disrupt pathogen inoculation either by a rapid knock-
+down effect or by altering the phloem feeding activities to minimise
+transmissions (Paleski¢ et al., 2017). As a basis for the development of suitable control strategies, our
+study focused on the following aspects of epidemiology and charac-
+teristics of vector transmission:
+
+ 
+
+Infection rates of wild or feral (initially introduced as cultivated
+plants but now naturally spreading) Prunus species and apricot trees in
+orchards in Austria and Hungary were determined. Obtained phyto-
+plasma types were characterised by aid of aceF and imp gene
+sequencing. Phytoplasma types in wild Prunus spp., C. pruni and culti-
+vated apricots were analysed to describe the phytoplasma genotypes
+in the vector and the wild and cultivated host plant species. A further
+objective was to trace the vector-mediated pathogen spread under
+field conditions in order to assess the need of insect control measures. ’
+»
+Vv
+FIGURE 1 Map of sampling locations
+: : °
+in Austria and Hungary; acronyms and Ljubljana
+
+description of locations according to. Table $1 ~N 9
+
+ 
+
+ 
+
+ 
+
+Applied Biology
+
+For this purpose, plantations consisting of ungrafted apricot seedlings
+were established and monitored for several years. The efficiency
+of phytoplasma transmission to different plant hosts at different
+developmental stages of trees and insect vectors and the duration of
+IAP were studied by aid of transmission experiments under semi field
+conditions. 2 | MATERIAL AND METHODS
+
+2.1 | Sampling of plants and insects in Hungary and
+Austria
+
+Sampling was restricted to apricot producing regions and apricot
+orchards in both countries over a wide area, as illustrated in Figure 1
+and Supplemental Table $1. Samples of apricots (P. armeniaca), Ger-
+man plum (P. domestica ssp. insititia (L.) Bonnier & Layens), myrobalan
+plum (P. cerasifera Ehrh,) and blackthorn (P. spinosa L.) were collected
+in July-September 2015-2018. All sampled German plums,
+myrobalan plums and blackthorns were free of disease symptoms. For
+analysis of these plant species, roots located 10-30 cm below the sur-
+face were dug out by aid of a shovel. Each sample consisted of at least
+two root pieces (diameter 2-10 mm) collected from different sides of
+the tree (each tree sampled individually). At sites A2, A3, A5, and A6
+in addition to root samples leaf samples of P. spinosa and P. domestica
+
+ 
+
+spp. insititia from identical plants were collected for comparison pur-
+poses (5-10 leaves from different branches). In contrast to the wild and feral Prunus species at the time of sam-
+pling, the P. armeniaca trees showed disease symptoms such as rolling
+and/or yellowing of the leaves and sparse foliation. At sampling sites
+A10-A13 as well as at sites H1, H2 and H4-H11. sampling in apricot
+orchards was based on these symptoms. Suspicious and symptomless
+trees were included in the study (Tables 1 and 2, Table $1). In contrast
+to that, samples were randomly collected in the orchards at sites A2,
+A3 and A7-A9. The small orchard at site A2 was entirely inspected
+and included in the random sampling; in case of all other (bigger)
+orchards, a sector was randomly selected for inspection and within
+that sector random sampling was carried out (Table 1 and Table $1). H3
+J Ht
+—_J . \
+\ Miskolc a
+‘uigeBudapest ri
+judapest /
+410940 Pp ye
+H12
+
+Ha
+
+ 
+
+Template map
+
+Ho~ HS
+HT © d-maps.com
+
+  
+   
+
+Pécs
+
+RIEDLE-BAUER er at. “Buyjdwies wopues ou ‘(aauasqe 40 aauasaud) swoydusAs jens}A uo paseq Sujdwes,
+
+ 
+
+ 
+
+Oz /y or /8 oz 0/0 609 /vT £&% Shy /TL gst THuins [230
+
+efTE/S 9 1 elv
+
+LY 9 8r zi
+
+OZ /E 9 st tw
+
+2001 /Z z z otv
+
+98/6 su sz ov
+
+og /€ sa or ev
+
+0s /S su or av
+
+FOL IT 0s /s 9 0 OL/L ot ov
+
+0 £99 /% € ov
+
+Sle /e $79 /S g 0 0s /T z o£ /se sa os ev
+
+0/0 0/0 9 0 0S /b 8 Ly /s su zz zw
+
+%/ oN (SeAe2|) %/ .N ($3004) ‘sque|d pa}sa} .N %/ oN (SeAe2}) %/ .N ($3004) syue|d pays} .N ‘%/ oN ‘(seaeal) squejd squejd uoRe207
+sojdues sojduies sojduies sojdwes sojduies snopidsns .N pe1sey .N
+
+@antsod Yd ‘aanisod yd aanisod Yd ‘aanisod Yd annisod Yd
+
+e425 onsuy “dds voysawop snunig vsoujds snunig (sp1eyoi0) papjuauuo snunig
+
+Sutjdwes wopues “ss ‘synsau ys9} pue sajdwes Jo uoyduosap pue siaquinu :euysny ul payra|jo2 sajdwes yueig T ATAWL
+
+ 
+
+“Annals of
+
+WILEY_! ‘Annals of
+Applied Biology
+
+RIEDLE-BAUER Er at. “Buyjdwes wopuei ou ‘(a2uasge 40 a2uasaid) swioyduiAs jensiA UO paseq Suljdwies,
+
+ 
+
+ 
+
+eer /e st TZ /8 Be 99 Ie st ML [EZ Te 6y
+0s /9 a e%Ov /Z € s
+0/0 € 0/0 Tc e%00T /Z T z
+SZ/T v OOT/T T e%0S /T 0 z
+6/T WwW °%99 /Z z €
+0/0 T 0/0 v 0 T 2%0 /0 v s
+0/0 Tc OOT/T T e%0S /E € 9
+e%00T /E € €
+0/0 s e%LZ/E Z WT
+SZ/t v 0/0 z
+Ov/T or os /Z v 2%E8 /S v 9
+0/0 T e%EE /Z v 9
+%J.N (S101) SjueId paISaY.N —_%/.N (51001) squeld parsoy .N %/-N (1003) squejd paysay..N oN (sane) sjuejd —squejd paysoy .N
+sojdwies sajdwes sajdwes sajdwes —snoraidsns .N
+annisod Yd annisod Yd annsod Yad annisod Yad
+149} vsajisoa> snunig psourds snunig (spaeysio) suayans 490353004 Diafisp1a9 snunig (spaeysio) popiuauup snunig
+
+s}]Nsau 3s) pue sajduies Jo UoNduOsap pue Siaquinu :A1eBuNH{ Ul pays9II09 sajdues yUe|q
+
+reIoL,
+TH
+OTH
+
+6H
+
+8H
+
+4H
+
+9H
+
+SH
+
++H
+
+eH
+
+@H
+
+TH
+uo}}e207
+
+zwalavi
+
+6 | WILEY Sie,
+
+RIEDLE-BAUER er at. TABLE 3 Cacopsylla pruni samples (remigrant generation only)
+collected in Austria and Hungary
+
+N° tested
+Host plant from individuals/ N°
+which insects of PCR positive
+
+Act. were collected individuals (%)
+AL P. spinosa 107/ 10 (9.3)
+A2 P. spinosa 66/5 (7.6)
+A3 Plum rootstock 60/ 2 (3.3)
+
+suckers apricot
+
+orchard
+Aa P. spinosa 223/ 13 (5.8)
+AS P. spinosa 64/7 (10.9)
+A6 P. spinosa 44/3 (6.8)
+A12 P. spinosa 29/1(3.4)
+A14 P. spinosa 60/ 3 (5)
+Ais P. spinosa 32/3 (9.3)
+At6 P. spinosa 51/0 (0)
+At7 P. spinosa 13/ 0(0)
+Ais P. spinosa 11/0 (0)
+Total Austria 760/ 47 (6.1)
+H2 P. armeniaca, 92/ 4 (4.3)
+
+P. cerasifera,
+
+P. domestica
+H3 P. spinosa, 64/0 (0)
+
+P. domestica
+Ha P. cerasifera 1/0(0)
+Hit P. spinosa, P.armeniaca, 39/0 (0)
+
+P. domestica
+H12 P. cerasifera 14/2 (14.2)
+Total Hungary 210/ 6 (2.9)
+
+All apricot samples consisted of 5-10 leaves collected from all sides
+of single trees. C. pruni were sampled from March to April in the years
+2014-2017 on P. spinosa, P. domestica, and P. cerasifera by the beating
+tray method (Table 3). 2.2 | Transmission trials
+
+All insects used for the transmission trials were field-collected from
+2012 to 2014 and in 2016. Seed transmission of ‘Ca. P. prunorum’ has
+never been reported, therefore Prunus spp. seedlings were used as
+host plants. One part of test plants (apricot, plum and blackthorn
+seedlings for experiments simulating field conditions after blooming
+and transmission by emigrant generation insects) was raised from
+seeds in our lab. Apricot seeds were harvested in an apricot orchard
+(variety “Klosterneuburger Marille’), P. domestica seeds were
+harvested from a plum orchard and P. spinosa seeds were collected in
+the hedgerows at site A4, The seeds were at first kept at 4°C in moist
+sand for 2-3 months and then cultivated in a growth chamber at
+21-23°C for approximately 3 months until they had 8-10 fully
+expanded leaves. Because these seedlings were produced under
+
+controlled conditions, we were able to rule out any phytoplasma
+infections before the start of the experiments. The other part of test
+plants consisted of potted 1-year-old certified seedling rootstocks
+from a commercial nursery cultivated until BBCH stages 03-09 (end
+of bud swelling/development of green tips; BBCH scale according to
+Meier et al., 1994). The plants were produced from seeds in a certifi-
+cation system which allows to assume with a reasonable degree of
+probability that the plants were healthy at the beginning of the experi-
+ments. However, infections in the nursery cannot be entirely
+excluded. In the transmission experiments on the length of the IAP,
+control trees were included. At the end of the experiments, the sur-
+viving insects were collected and tested by PCR. Results are given as
+average of PCR positive insects per sampling site in Table 4. 2.3 | Experiments simulating field conditions in late
+winter and early spring
+
+The objective of the first test series (2012-2014) was to study the
+ability of C. pruni to transmit the pathogen to trees at very early devel-
+opmental stages at the end of winter or in early spring. Dormant, cer-
+tified, 1-year-old apricot seedlings (without closer specification of
+cultivar) and “Brompton” plum seedlings (size approximately 50 cm)
+were obtained from a commercial nursery and cultivated in pots. The
+trials were carried out in March and at the beginning of April under
+
+ 
+
+outdoor conditions in a paved courtyard covered with a roof
+protecting trials from rain. Ten insects per experiment (remigrants col-
+lected by beating tray method on P. spinosa at site Ad) were intro-
+duced into cylindrical cages (diameter 3 cm, length 10 cm) attached to
+the plants and allowed to feed for 7 days. 2.4 | Experiments simulating field conditions after
+bloom
+
+The second group of tests carried out during 2012-2014 aimed to
+simulate vector activity after flowering at already warmer outdoor
+conditions on foliated trees. Foliated apricot, plum and blackthorn
+seedlings raised in our lab were entirely covered with cylindrical cages
+(diameter 9 cm, height 25 cm). Per cage, 10 remigrant insects (col-
+lected on P. spinosa at site A4 simultaneously with the insects for the
+experiments described above) were allowed to feed for 7 days. Before, during and for 2 months after the trials, the test plants were
+maintained in a growth chamber at 21-23°C. 2.5 | Transmission by emigrant generation insects
+
+The third group of experiments carried out in June 2012-2014
+targeted the question whether the emigrant generation of C. pruni is
+capable of transmitting the disease. The test plants and the experi-
+mental conditions were the same as for the second group of tests
+(experiments simulating field conditions after bloom). Emigrant gener-
+ation insects were collected on suckers of the plum rootstocks in the
+apricot orchard at site A3 (40 experiments) and on P. spinosa at site
+‘Ad (46 experiments). RIEDLE-BAUER Er AL. ‘Annals of
+
+WILEY 2
+
+ 
+
+ion experiments. Insect numbers, description of insects, host plant species, numbers of tests and test results
+
+ 
+
+TABLE 4 Transmi
+
+Host plant in
+
+Percentage of PCR
+positive insects
+(over all trials)
+14.3%
+
+N°/ N° (%) of positive
+
+test plants
+
+transmission
+experiment
+
+Feeding
+
+Host plant for
+
+duration
+
+Insect generation _insect collection
+
+N° insects per trial
+
+10
+
+Type of transmission experiment
+
+51/8 (15.7)
+13/1 (7.7)
+
+P. armeniaca
+
+7 days
+
+P. spinosa (site A4)
+
+Remigrants
+
+Simulation field conditions in
+
+P. domestica “Brompton”
+
+late winter and early spring
+
+57/3 (5.3)
+7/0(0)
+
+P. armeniaca
+
+7 days
+
+14.3%
+
+10 Remigrants P. spinosa (site A4)
+
+‘Simulation field conditions
+
+P. domestica
+
+after bloom
+
+15/5 (33.3)
+40/0 (0)
+
+P. spinosa
+
+P. armeniaca
+
+7 days
+
+28.3%
+
+P. domestica rootstock
+
+Emigrants
+
+g
+
+  
+
+Transmi:
+
+suckers site AS
+
+generation insects
+
+46/0 (0)
+9/0 (0)
+7/0(0)
+
+P. armeniaca
+
+7 days
+4br
+
+0%
+a
+
+P. spinosa site A4
+
+P. armeniaca
+
+3%
+
+Remigrants P. domestica rootstock
+
+20
+
+Studies on length of IAP
+
+P. armeniaca
+
+3 days
+4br
+
+suckers site AS
+
+22 /2(9)
+5/1 (20)
+16/0 (0)
+
+P. armeniaca
+
+5.8%
+
+P. spinosa site A4
+
+Remigrants
+
+20
+
+P. armeniaca
+
+3 days
+
+P. armeniaca
+
+Control, no
+
+feeding
+
+Applied Biology
+
+2.6 | Studies on length of IAP
+
+The fourth series of tests carried out in April 2016 aimed to
+enlarge our insight into the length of the IAP in practically orien-
+tated conditions. In 2012-2014, the highest transmission rates
+were recorded in the tests simulating conditions in late winter or
+early spring. Therefore, the length of IAP was studied on certified
+1-year-old apricot seedlings in BBCH stages 03-09 obtained from
+a nursery and maintained outdoors as described for the first test
+series. Per cage, 20 remigrant insects were allowed to feed for
+4 hr and 3 days. Remigrant insects were collected on suckers of
+the plum rootstocks in the apricot orchard at site A3 (nine experi-
+ments feeding duration 4 hr, seven experiments feeding duration
+3 days) and on P. spinosa at site A4 (22 experiments with feeding
+duration 4 hr; five experiments with feeding duration 3 days). Six-
+teen seedlings from the same batch of purchased seedlings served
+as control plants. After the transmission trials, all plants were kept in pots in a foil
+tunnel under an insect proof net at outdoor temperatures. Annually in
+August-September, all plants were visually inspected and 2-3 root
+pieces (diameter 2-5 mm) per plant were excised taking particular
+care to maintain a functioning root system in order to keep the plants
+alive for further analyses. 2.7 | Monitoring of infection risk in the field
+
+The objective of this experiment was to trace the vector-mediated
+pathogen spread and the development of ESFY under field conditions. The experiment was carried out in Krems (Lower Austria). At this loca-
+tion, an examination of the remigrant vector population in 2012 by
+direct PCR had demonstrated an infection rate of 8.6% (Maier et al. 2013). Dormant certified 1-year-old apricot seedling rootstocks (iden-
+tical to plants described above for transmission experiments) were
+obtained from a commercial nursery and left ungrafted during the
+entire experiment. Plantings were carried out both in spring 2012
+(March 28) and in spring 2014 (March 10) as illustrated in Figure 2. In
+the 2014 planting two times, five apricot seedlings were protected
+from C. pruni by an insect proof net. The nets entirely covered single
+plants and were installed every year from the beginning of March until
+July. Samples of each individual plant were taken annually in August
+or September. In 2013-2016 leaves (5-10 leaves randomly collected
+from all sides of the tree) and in 2017 roots (2-3 root pieces diameter
+2-10 mm) were collected. Visual inspection of the trees based on
+yellowing and rolling of the leaves and sparse foliation was carried out
+in summer. Trees were classified as symptomatic or asymptomatic. Because of significant signs of drought stress, no visual inspection
+was carried out in 2017, but only in 2018. Dead trees were also
+recorded. In the area, early bud break seems less common than in
+other regions (Stile, 1999), thus an explicit assessment of early bud
+break was not included in the study. In any case, no observation in
+
+this regard was made while maintaining the test orchards. al WILE Y— Arnica tiotogy RIEDLE-BAUER er at. Outline of test orchards N mm FIGURE 2 Map of the
+experimental orchard planted to
+R Meadow monitor pathogen spread and ESFY
+° Planting 2012 development in the field: results of
+4 PCR analysis and molecular
+Vineyard characterisation of phytoplasma
+types in 2017 as well as visual
+Vineyard assessment of each tree in 2018 are
+Planting 2012 indicated
+
+0000 e0000beeedd0eb0e@0000ee08
+
+€060606 4660860000000! 0008000
+
+ 
+
+Planting 2014
+
+06 866e000000000
+
+00000008000000600088
+@®00000000000008ee8:
+
+Tree with negative PCR test
+
+ 
+
+Tree without PCR result
+
+Tree beneath insect proof net, negative PCR test
+
+Tree infected with type AtPRU 3
+
+Tree infected with type aceF AS (corresponding to AtPRU 3/7/8/9)
+Tree infected with type AtPRU 4
+
+Tree infected with type aceF A8 (corresponding to AtPRU 4/6)
+Tree infected with type AtPRUS
+
+Tree infected with type AtPRU1O
+
+Visual disease symptoms 2018
+Dead tree 2018
+
+7% @88 08080890
+
+2.8 | PCR analysis
+
+DNA extraction from plant and insect samples was carried out by a
+CTAB procedure as described previously (Maixner, Ahrens, &
+Seemilller, 1995). Each plant or insect was analysed individually. In
+case of leaf samples, midrib and petiole tissue of five leaves per sam-
+ple was combined. Roots were exhaustively washed by aid of a rough
+sponge. Each sample consisted of two cross sections per root piece. The presence of phytoplasmas was detected by direct PCR,
+nested PCR and/or qualitative real real-time PCR. For the direct PCR
+procedure, we used the primer pair f01/r01 (Lorenz, Schneider, Ahrens, &
+Seemiller, 1995). All samples yielding the expected PCR fragment were
+characterised by restriction fragment length polymorphism (RFLP) using
+Rsal to differentiate ‘Ca. Phytoplasma prunorum’ from other 16SrX
+phytoplasmas and to exclude unspecific PCR products (Seemiiller &
+Schneider, 2004). For nested PCR, primers P1/P7 (Deng & Hiruki, 1991;
+Smart et al., 1996) and R16(X) F1/ R16(X)R1 (Lee, Bertaccini, Vibio, &
+
+Tree positive in nested PCR (16S rRNA), undetermined type of ,Ca.P. prunorum’
+
+Gundersen, 1995) were used. R16(X) fragments were further
+characterised by RFLP as described above. The assignation of C. pruni
+to genetic groups A or B was performed with PCR of the ITS2 region
+using primer sets ITS set 1 and ITS set 3 as described (Peccoud et al.,
+2013). For qualitative real-time PCR, we followed the procedure of
+Christensen, Nicolaisen, Hansen, & Schulz (2004) using SensiFAST
+Probe No.Rox Kit (Bioline, London, UK) according to the manufacturer's
+instructions and an MIC thermocycler (Biomolecular Systems, Upper
+Coomera, Australia). One microliter of template preparation was
+included in 20 pl reaction volumes. Samples yielding Ct levels <30 were
+considered as phytoplasma-infected. The three PCR methods have different characteristics. The nested
+PCR protocol presumably is the most sensitive, but in general nested
+protocols suffer from the risk of contamination and thus false positive
+results. The direct PCR protocol is less sensitive, and the qPCR proto-
+col is not specific for ‘Ca. Phytoplasma prunorum’ but a universal phy-
+
+toplasma test. We have tested different types of samples with all
+
+RIEDLE-BAUER Er AL. ‘Annals of
+
+WILEY_l 2
+
+ 
+
+protocols as listed in Table S2a and tested for significant differences
+as described in Table $2b. Overall, data presented for C. pruni samples
+were obtained by direct PCR (Austrian samples) or qPCR (Hungarian
+samples). The phytoplasma species in positive qPCR samples was con-
+firmed by the nested PCR protocol. All data for plant samples were
+derived from nested PCR. 2.9 | Characterisation of phytoplasma strains
+
+Infected plant and insect samples from Austria were further
+characterised by aid of the genes aceF and imp. The analysis com-
+prised plant and insect samples from the locations shown in Figure 1
+and Table $1 and in addition P. armeniaca samples identified as
+infected in previous investigations in Lower Austria (Maier et al.,
+2013), namely from Rohrendorf (43 samples), Krustetten (four sam-
+ples), Krems (two samples) and Rossatz (three samples). All in all,
+211 samples were analysed. Fragments of the genes aceF and imp
+were amplified in nested PCR procedures using the primers AceFf1/
+AceFri, AceFf2/AceFr2 and IMPF1/IMPR1, IMPF2/IMPR2 (Danet
+et al., 2011) and sequenced (Sanger method performed by GATC Bio-
+tech, now Eurofins Genomics, Ebersberg, Germany) with the primers
+AceFr2 and IMPR2 after purification by the Qiaquick® PCR purifica-
+tion kit (Mo Bio, Qiagen). 3 | RESULTS
+
+3.1. | Suitability of PCR methods
+
+As illustrated in Table S2a, in case of P. armeniaca (leaves and roots)
+and P. cerasifera root samples, all three PCR methods led to largely
+comparable results. In contrast, in case of P. spinosa and P. domestica
+
+ 
+
+nested PCR gave higher numbers of positive PCR reactions than the
+other two methods. Statistical analysis confirms a significant higher
+number of positive nested PCR results compared to single PCR in
+P. spinosa and P. domestica ssp. insititia (Table S2c,d). 3.2 | Analysis of plants and insects in Hungary and
+Austria
+
+PCR analyses of apricot and P. cerasifera rootstocks samples from
+both countries demonstrated the presence of the pathogen in all
+orchards except site H7 (Tables 1 and 2). A random sampling effort in
+the apricot orchards at sites A2, A3 and A7-A9 revealed infection
+rates between 30 and 70%. In both countries, the phytoplasma was found in roots of wild or
+feral Prunus spp. In Austria, the infection rates of P. spinosa reached
+up to 70% and in Hungary up to 50%. In Austria, the infection rates of
+P. domestica spp. insititia were as high as 62.5% (Table 1), in Hungary
+up to 25% of the feral P. cerasifera samples also showed a positive
+PCR reaction (Table 2). In case of P. spinosa and P. domestica spp. insititia, comparative
+analyses of root and leaf material taken from identical plants at identi-
+cal time points were carried out. In P. spinosa, the phytoplasma was
+
+Applied Biology
+
+detected in roots only, in case of P. domestica spp. insititia, roots sam-
+ples resulted in higher rates of PCR positive plants (Table 1). Statistical
+analysis confirmed the significant effect of the plant material on the
+PCR result for both plant species (Table $2d,e). Phytoplasma infections of C. pruni were detected at 9 out of
+12 locations in Austria and 2 out of 5 locations in Hungary. Infection
+rates amounted up to 10.9% in Austria (average of 12 sites 6.1%) and
+14.2% in Hungary (average over five sites 2.9%) (Table 3). All phyto-
+plasma positive C. pruni and at least five individuals from each origin
+(except H4 with only one collected individual) were tested by PCR
+with ITS set 1 and ITS set 3 primers. All individuals belonged to
+genetic group B of the C. pruni complex. 3.3 | Transmission trials
+
+3.3.1 | Experiments simulating field conditions in
+late winter and early spring
+
+In transmission trials with 1-year-old seedlings obtained from a com-
+mercial nursery at BBCH stages 03-09 and 10 C. pruni remigrants per
+cage feeding for 7 days, the pathogen was transmitted to 15.7% of
+the P. armeniaca and to 7.7% of the P. domestica plants (Table 4), PCR
+testing of the insects showed an infection rate of 14.3% for the
+remigrants collected at site A4 on P. spinosa. The median value for the
+
+number of insects surviving the test duration of 7 days was six. 3.3.2 | Experiments simulating field conditions after
+bloom
+
+The experiments with foliated test plants raised from seeds in our lab
+and 10 remigrant C. pruni per plant feeding for 7 days led to 5.3% of
+PCR-positive P. armeniaca seedlings and 33.3% of PCR-positive
+P. spinosa seedlings, plum seedlings were not infected (Table 4). Insects
+in this study were from the same collections as for simulating field condi-
+tions in late winter and early spring, thus infection rates of insects were
+identical to the ones stated above (14.3%). A median value of six insects
+
+per experiments survived the test duration of 7 days. 3.3.3 | Transmission by emigrant generation insects
+
+No phytoplasma transmission by new generation psyllids was
+observed (Table 4). A 28.3% of the insects originating from plum root-
+stock suckers in the apricot orchard at site A3 were PCR positive, but
+0% of the individuals captured at site A4 on P. spinosa. A median value
+of six individuals per cage survived the test period of 7 days. 3.3.4 | Studies on length of IAP
+
+To evaluate the necessary IAP, 20 C. pruni remigrants were kept on
+41-year-old apricots seedlings at BBCH stages 03-09 for 4 hr and 3 days,
+respectively. Inoculation access for 4 hr resulted in successful phyto-
+plasma transmission to 2 out of 31 test plants (6.5%), inoculation access
+for 3 days led to 1 infected test plant out of 12 (8.3%). No infections of
+
+RIEDLE-BAUER Er at. Annals of
+| WILEY —Sitfbovey
+
+control plants were found (Table 4). Positive transmissions were only
+observed with insects captured on P. spinosa (site A4, rate of PCR posi-
+tive individuals 5.8%), whereas all experiments including insects collected
+on P. domestica rootstock suckers (site A3, rate of PCR positive individ-
+uals 3.3%) remained uninfected. A median number of 17 individuals were
+still alive after the 4 hr transmission experiments, after the 3 day experi-
+ments the median value of living individuals per cage was eight. 3.4 | Monitoring of pathogen spread and ESFY
+development in the field
+
+The objective of the experiment was to monitor pathogen spread and
+appearance of ESFY symptomatic trees under field conditions. Testing
+of leaf samples collected from 2013 to 2016 resulted in no detection
+of phytoplasmas in any of the trees (data not shown). In contrast, the
+analysis of roots in 2017 demonstrated that 24 out of 60 trees (40%)
+planted in 2012 and 14 out of 50 trees (28%) planted in 2014 and
+grown in open air were infected by the phytoplasma (Figure 2). As
+opposed to that, no phytoplasma was detected in any of the trees
+protected by an insect proof net. In 2018, 25.4% of the trees (15 out
+of 59) planted in 2012 showed disease symptoms, one had died. Of
+the trees planted in 2014 and maintained in open air, 4.5% (two out
+of 44) were symptomatic and 13.6% (six) had died. A 54.1% (13 out of
+24) of the PCR-positive trees planted in 2012 were without symp-
+toms, and out of the trees tested as healthy by PCR, 4 of 36 (11.1%)
+had been scored as symptomatic. The trees planted in 2014 showed
+an even higher rate of latent infection, 81% of the PCR positive trees
+(nine out of 11) appeared healthy. All symptomatic trees planted in
+2014 also gave a positive PCR result (Figure 2). 3.5 | Phytoplasma strains
+
+A total of 211 phytoplasma infected samples was characterised by aid
+of the genes aceF and imp. Sequence analysis led to the discrimination
+of five different aceF and five different imp variants (Figure 3)
+resulting in 10 different phytoplasma types ATPRU 1-10 (Figure S1
+and Table 5). All of them were present in apricot trees, and ATPRU
+1-6 were found in remigrant C. pruni. For some P. domestica spp. insititia and P. spinosa samples as well as for samples from transmis-
+sion trials in the field and in the lab, successful amplification of the
+imp gene was not obtained, despite positive 16S rRNA and aceF gene
+amplifications. In such cases, based on aceF gene only, an unambigu-
+ous ascription of the phytoplasma to a type was only partially possi-
+ble. Nevertheless the analysis allowed to identify at least five
+different types (ATPRU1-ATPRUS) in P. domestica spp. insititia and
+four (ATPRU2-ATPRUS) P. ATPRU2-ATPRUS
+accounted for almost 70% of the infections of P. armeniaca trees in
+
+spinosa plants. orchards and for 87% of the phytoplasma types in C. pruni remigrants. Less than 5% of the phytoplasmas in commercial apricot orchards
+were not detected in any other compartment of the epidemic cycle. ATPRU1 accounts for 20% of the phytoplasma samples in
+P. armeniaca, but has been detected only once with Prunus spp.,
+namely in P. domestica spp. insititia (Figure $1 and Table 5). At least
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+(a) | Ne24 Ne108 N=10 NE13 N33 NeW NES Imp
+100.0% i"
+g 13
+B 20.0%") io
+& 134
+3 60.0% ino amplification
+5 40.0%"
+= nox
+0.0% > vv D9 DD
+3 3 3
+z
+(b) cet
+100.0%" pos peas 77 mas
+3 80.0% / Ene
+; ]
+2 7 YW,
+3 40.0%7 ]
+20.0% 7
+L
+0.0%: La
+gee Ree
+
+FIGURE 3 Occurrence of imp (a) and aceF (b) haplotypes of ‘Ca. Phytoplasma prunorum’ detected in remigrant Cacopsylla pruni (C.p. rem), P. armeniaca (P.a), P. domestica spp. insititia (P. dom. ins. ),
+
+P. spinosa (P.s. ), P. armeniaca from the field trial to monitor infection
+risk (P.a. field trial) and transmission experiments with P. armeniaca
+(P.a. transm,) and P. spinosa (P.s. transm) as host plants are illustrated. The colour code for the imp genotypes in (a) is according to Danet
+
+et al. (2011) with modifications to show the rarer types |3 and [34
+
+four types (ATPRU 2-4, ATPRU 10) were transmitted in the field
+experiment aiming to monitor pathogen spread and at least two types
+were found in the host plants included in laboratory transmission
+experiments (Figure 3 and Figure $1). 11 was the most prevalent imp
+haplotype in P. domestica spp. insititia (>40%), P. spinosa (67%) as well
+as in C. pruni remigrants (50%), while 15% of the ESFY positive
+P. armeniaca contained this genotype. 14 was the most common type
+in P. armeniaca (55%) and it was also present in P. domestica spp. insititia (30%), P. spinosa (17%) and C. pruni (42%). 110 was regularly
+found in P. armeniaca (23%) but only occasionally in C. pruni (8%), in a
+single case in P. domestica spp. insititia and not at all in P. spinosa
+
+(Figure 3a). A similar pattern was observed with aceF, where the most
+
+RIEDLE-BAUER Er AL. Annals of
+Biber —WILEY 1
+
+ 
+
+TABLE 5 Classification of phytoplasma genotypes based on aceF and imp sequences of ‘Ca. Phytoplasma prunorum’
+
+Hosts and collection regions“*
+
+Strain
+
+Genotype aceF accession aceF geno-type® aceF identical accession” imp accession imp geno-type* imp identical accession”
+
+ 
+
+ 
+
+ 
+
+ 
+
+x
+2
+5
+GX
+=
+qb
+~ age
+a +
+B22? a an
+osa9O
+x zeae? soca
+RFQee2 2
+Og sas &
+o@cad
+2B cia
+aoaaaa
+OoOpsrss
+Baacaazyvy
+gd dddauzeZ
+aaaaaa kh &
+dag aaa gd
+GEGESGEaE
+=
+23383338
+BEER ee eee
+B25 2 5 BB
+eghS5 588
+qagyvsSa5
+aaa aa
+SSshsege2
+g
++
+ss s.3
+eg? gE
+seereress
+SES¢UUsse
+EEEEER EE
+SSSSSES5
+83338888
+$S$S$Ssysss
+22222222
+zEEtfEEEE
+Ss2exz28e
+SS Sissy
+HBSSegeggg 9
+gssgsgsee2e8
+ZLEZergeg"g
+SSPSEPTETEE
+5 a BE
+2 zg
+eect EkEes
+%
+S8SeH8ougs
+=so9@900
+Sagan aa a
+BESESESSE
+RRERRRESS
+SSSES RSS
+22222222
+zEEtEEEEE
+2
+SLV@eLeee2
+alls seise
+BSSeSeSgg 8
+gggsgsese?egs
+LSZLEgyeyreg
+zSPSEPTETE
+paar n DR
+53333533538
+zzgz2z2z2222
+EEEEEEEE
+tqaqaetcatctcce
+
+prunus P.a;NO
+
+GD_1182,
+KL_2162,
+
+MG972433 (D598/14)
+FIN600707 (ESFY)
+
+134
+ir
+
+MK101117
+MK101115
+
+(40-04cr)
+
+FN598170
+
+MK101109 AS
+
+ATPRUS
+
+P.a. ft; NO
+
+prunus
+
+A27°
+
+ATPRU1O MK101112
+
+*aceF and imp genotypes based on previously published nomenclature (Danet et al, 2011; Dermastia et al., 2018). identity,
+
+e
+5
+e
+2
+8
+3
+&
+8
+3
+3
+=
+5
+2
+s
+§
+=
+
+ 
+
+#
+3
+a
+z
+€
+£
+8
+F
+S
+a
+a
+8
+&
+o
+a
+a
+
+ 
+
+ 
+
+=
+¢
+5
+s
+a
+s
+FA
+3
+5
+E
+a
+ad
+6
+5
+g
+uC
+&
+&
+€
+5
+2
+3
+g
+8
+§
+a
+2
+%
+8
+5
+gs
+8
+2
+&
+3
+3
+5
+5
+2
+3
+g
+£
+¢
+5
+8
+5
+3
+&
+
+3
+a
+8
+§
+E
+a
+s
+3
+=
+o
+a
+6
+€
+8
+5
+
+9
+o
+g
+&
+a
+So
+Zz
+By
+2
+g
+3
+z
+=
+=
+5
+q
+&
+<
+3
+=
+3
+¥
+
+g
+3
+3
+a
+8
+g
+2
+=
+&
+2
+5
+3
+3
+&
+8
+3
+2
+
+common haplotype in P. armeniaca, A6, occurred at 40%. This haplo-
+type was also identified in P. domestica spp. insititia (20%), P. spinosa
+(7.,7%) and in C. pruni (25%) (Figure 3b). An unambiguous detection of
+different strains from single individuals (multiple infections) was not
+recorded. 4 | DISCUSSION
+
+The data obtained in the present study provide an insight
+into the current dissemination and the epidemiology of ‘Ca. Phytoplasma prunorum’ in Hungary and in Austria. Strikingly high pro-
+portions of wild and feral Prunus species at several locations in both
+countries were found to be infected, although none of the tested
+plants showed any disease symptom. A fundamental role of wild Pru-
+nus spp. for disease epidemiology was already emphasised previously
+(Carraro et al., 2002; W. Jarausch et al., 2019; Maier et al., 2013). The
+data obtained in the current study support the assumption that beside
+infested nursery plants also natural contaminations play a role in ESFY
+occurrence in apricot orchards in several respects. First, at some loca-
+tions the root testing carried out in this study showed pathogen pres-
+ence in up to 70% of the P. spinosa and up to 62.5% of the feral
+P. domestica plants. Infection rates comparable to our findings were
+also reported from Belarus, where root analysis led to the detection
+of phytoplasmas in two out of three P. spinosa samples (Valasevich &
+Schneider, 2016). Having regard also to the fact that myrobalans,
+blackthorns and plums are among the most preferred hosts for the
+vector (B. Jarausch, Fuchs, et al, 2007; B. Jarausch, Miihlenz, et al.,
+2007; Labonne & Lichou, 2004; Maier et al., 2013; Mergenthaler
+et al., 2017), the role of wild or feral Prunus spp. as sources for infec-
+tious psyllids seems crucial. Second, as illustrated in Figure S3 and
+Figure 3 and discussed in detail below, the molecular characterisation
+of the phytoplasma types in this study showed a high degree of corre-
+spondence of pathogen types in wild and cultivated Prunus spp., in
+C. pruni as well as in the test plants in the transmission experiments. Although only a descriptive observation, this indicates a possible phy-
+toplasma exchange between wild (blackthorn, German plum) and culti-
+vated Prunus spp. in a joint epidemic cycle. Third, in our transmission
+experiments, the highest rate (33%) of infected plants was observed
+for P. spinosa, Apart from the conclusion that blackthorn is a suitable
+host both for the insect species and the pathogen, this observation
+indicates that pathogen dissemination, maybe also to so far pathogen-
+free regions, could also happen independently from cultivated
+Prunus spp. Corresponding to the infection rates of their preferred host plants,
+a significant share of the remigrant C. pruni at the majority of sampling
+sites in both countries was also phytoplasma positive. The average of
+all sites in Austria was 6.1%, in Hungary 2.9%, at specific sites up to
+11% in Austria and up to 14% in Hungary. In previous investigations
+in Italy, remigrant insects in areas with infected orchards were in a
+similar range of up to 9% infection (Carraro et al., 2004), whereas, for
+example, in Germany recently lower rates have been recorded (1-2%;
+W. Jarausch et al., 2019). C. pruni consists of a complex of cryptic
+
+2 | WILEY ieee,
+
+RIEDLE-BAUER er at. species, of which in Europe East of France, Western Switzerland and
+Italy, only genotype B has been reported (Peccoud et al., 2013). In
+confirmation of this result, all analysed C. pruni collected in Austria
+and Hungary were genotype B of the C. pruni complex. In accordance with the high infection rates in vector insects and in
+wild host plants, the pathogen was identified in the majority of
+analysed apricot orchards in both countries, as reported previously
+(Steffek et al, 2012). Random sampling in several Austrian orchards
+proved infection rates ranging between at least 30 and 70%, a dimen-
+sion capable of seriously compromising apricot cultivation. The infec-
+tion rates observed in this study coincide with previous reports on
+high infection rates both in Austria and in Hungary (Maier et al., 2013;
+Tarczali et al., 2014). In our transmission experiments, C. pruni remigrants transmitted
+the pathogen to P. armeniaca, P. domestica and P. spinosa plants. In
+case of P. armeniaca, the highest infection rate (15.7%) was observed
+for the trees in BBCH stages 03-09 kept under outdoor conditions. Applied to practical field conditions, this indicates that there is a high
+infection risk from the start of insect remigration in early spring even
+when trees are still dormant or growth has hardly started. The trials limiting the stay of the remigrant insects on trees in
+BBCH stages 03-09 to 4 hr only led to successful transmission of the
+pathogen in 2 out of 26 experiments. It can therefore be concluded
+that the IAP can be much shorter than the previously reported
+1-2 days (Carraro et al., 2001). In none of our experiments, the
+insects started to feed right after their transfer into the cages. The
+insects seemed to be under stress and walked around in the cages for
+1-2 hr before they settled. Therefore, IAP under field conditions
+could be even shorter than the experimental 4 hr. In our trials, no phytoplasma transmission by field captured spring-
+time generation insects was recorded, a finding coinciding with previ-
+ous reports indicating no or at the best a very low transmission rate
+by adults before overwintering (Carraro et al, 2004; B. Jarausch,
+Mithlenz, et al., 2007; Poggi Pollini et al., 2010; Thébaud et al,, 2009). Interestingly, in this experiment, 28.3% of the emigrant insects cap-
+tured at site A3 on plum rootstocks suckers of apricot trees, but 0%
+of the insects collected at site A4 on P. spinosa gave a positive PCR
+result. The transmission rates observed in the current study are lower
+than those in previous reports. In experiments in the Friuli Venezia
+Giulia region of Italy, groups of 3-20 remigrant insects transmitted
+the pathogen to 20-100% of micropropagated P. salicina plants,
+groups of 50 individuals infected 80% of P. spinosa and P. cerasifera
+seedlings and 100% of apricot seedlings cultivated in the greenhouse
+(Carraro et al., 2002, 2004). In Germany, field captured remigrants
+transmitted the pathogen to 23% of micropropagated P. marianna
+plants (B. Jarausch, Mithlenz, et al,, 2007). The lower transmission
+rates in our experiments (15.7% for 1-year-old apricot seedlings in
+BBCH stages 03-09, 7.7% for plum seedlings in BBCH stages 03-09
+and 5.3 and 33.3% for foliated P. armeniaca and P. spinosa seedlings,
+respectively) could be because of differences in the vector capacity of
+the insects in different parts of Europe, to varying numbers of insects
+in the transmission experiments, to different ages and stages of the
+
+recipient test plants in the experiments or to the cultivation under
+outdoor conditions. The marked role of vector transmission for disease spread was
+confirmed by the experiments aiming to monitor the infection risk and
+the appearance of ESFY symptoms under field conditions. A 40% of
+the seedlings planted in 2012 and 28% of the seedlings planted in
+2014 were PCR positive after 5 and 3 years, respectively. Around a
+quarter of the trees planted in 2012 had developed disease symptoms
+after 6 years. Four different phytoplasma types were transmitted. Extrapolated over the lifetime of an apricot orchard, these results
+show clearly that in regions with high infection pressure substantially
+all trees become infected within their desired life cycle. For this field
+study, we considered it as necessary to establish a plantation of
+ungrafted 1-year-old apricot seedlings. Generally, fruit trees are gen-
+erated using vegetatively propagated planting material (scions and in
+most cases also rootstocks) as in commercial orchards uniformity of
+planting material and predictability of genetic traits are essential. For
+observations on phytoplasma spread via insect vectors, however, such
+orchards are less appropriate. The danger of disseminating the phyto-
+plasma by vegetative propagating material can be relevant (Marcone
+et al, 2010; Riedle-Bauer et al., 2012) and, as shown in previous stud-
+ies, PCR does not always give sufficiently clear-cut results to exclude
+low infections of young trees. A deeper characterisation of phytoplasmas in plants and insects in
+Austria revealed the presence of 10 different types based on aceF and imp
+genotypes (Table 5), of which five, namely the types ATPRU1-ATPRUS,
+were frequent (Figure 3 and Figure S1). These frequent types consist of
+the aceF genotypes (according to Danet et al., 2011) A3, AS, Aé and A8
+and the imp genotypes 11, 14 and 110 (Table 5). These more common geno-
+types have been also documented in several other Central and South
+European countries (Danet et al, 2011; Dermastia et al., 2018) and have
+been more frequently found in a recent investigation in Slovenian
+orchards (Dermastia et al., 2018). In contrast to that, the rarer aceF and
+imp genotypes (A27, 13, 134) have been previously reported at most from
+few individuals in single countries or not at all (A27). ATPRU2-ATPRUS
+were the four types in wild or feral P. spinosa and P. domestica spp. insititia
+and in the field and laboratory assays monitoring vector transmission. Also
+in remigrant C. pruni, the types ATPRU2-5 were prevalent. It is therefore
+possible that these types spread via an epidemic cycle in which C. pruni
+transmits the pathogen from wild Prunus spp. to cultivated P. armeniaca,
+and likewise between wild Prunus spp. ATPRU1 with imp genotype 110
+was frequent and widespread (at 8 of 12 tested locations all over Eastern
+Austria) in P. armeniaca and was sometimes found in remigrant C. pruni. However, we have detected the corresponding imp type (110) only once in
+wild Prunus spp. in P. domestica spp. insititia) and never in the transmission
+trials. The corresponding aceF type of ATPRU1, B7, has also only rarely
+been found in the wild Prunus spp. Although in our experiments we have
+not been able to successfully amplify the imp gene of all samples, it
+appears that vector transmission of ATPRU1 does less likely occur. There-
+fore, the question arises whether some phytoplasma types such as those
+containing 110 are prevalently disseminated by propagating material. The
+frequent occurrence of ATPRU1 could indicate that in addition to vector
+
+transmission in practice, propagating material is also a relevant source of
+
+RIEDLE-BAUER Er AL. ‘Annals of
+
+WILEY_l_®
+
+ 
+
+the phytoplasma in the Austrian and Hungarian P. armeniaca orchards. Previous experiments have shown that grafting of visually healthy but
+latently infected plant material leads to significantly infected progeny and
+that infected progeny may remain free of symptoms for several years
+(Riedle-Bauer et al., 2012). Simultaneous analysis of blackthorn and German plum leaf and
+root samples led to higher rates of positive PCR results, the role of
+the plant material was statistically significant. It seems that root sam-
+ples are particularly appropriate for the detection of weak phyto-
+plasma infections, for example, in wild Prunus hosts, even though the
+sampling procedure is more time consuming. The results of the current study allow a number of practical con-
+clusions with regard to control strategies. In Austria and, to a lesser
+extent, also in Hungary, wild Prunus species were found infected to a
+large extent. Phytoplasma types observed in wild Prunus spp. were
+also prevalent in apricot orchards. Being at the same time, a preferred
+host for the insect vectors wild Prunus species likely accounts for con-
+siderably infected C. pruni populations threatening the health status
+of cultivated Prunus trees. Our field experiments with apricot seed-
+lings clearly show the speed of pathogen dissemination and underline
+the need for efficient vector control. According to the transmission
+experiments, there is a high risk of phytoplasma transmission from the
+first day of remigration onwards as in our experiments the most effi-
+cient transmission was recorded on trees in BBCH stage 03-09 kept
+outside. In consequence, vector management by insecticides or repel-
+lents must start at this time point and last until the end of the
+remigrant flight period. In contrast to that, control of the emigrant
+generation does not appear necessary. The duration of the IAP is a crucial point for successful manage-
+ment of the pathogen spread by insecticides. The principal goal of
+insecticide application is to keep vector populations inside the orchard
+as low as possible and in consequence to minimise the pathogen
+spread. However, in case of high vector numbers and continuous
+immigration from overwintering sites, a direct effect of the insecticide
+on pathogen transmission is essential as well. Only insecticides with a
+“knock down" or instant effect on feeding behaviour and acting faster
+than the minimum IAP seem suitable to provide at least some protec-
+tion against inoculation of healthy trees (Paleskic et al., 2017). Based
+‘on our results, compounds disrupting the insect feeding behaviour in
+less than 4 hr are necessary to keep infection rates low. Last but not
+least, our study indicated at least some spread via propagation mate-
+rial; thus, continued efforts are needed to warrant the health status of
+the planting material. All in all, control of ESFY is impeded by several factors. First,
+large-scale eradication of wild Prunus species with the aim to minimise
+vector populations seems hardly feasible and from an ecological point
+of view which is not desirable. Second, infectious vectors migrate into
+orchards for many weeks at the end of winter and at the beginning of
+spring at cool temperatures and during early developmental stages of
+trees. Successful vector control therefore requires active ingredients
+that are effective at low temperatures at early developmental stages
+of the trees and have a long lasting effect allowing insect control over
+
+Applied Biology
+
+several weeks with a small number of treatments. Third, it can be
+assumed that only the minority of the available insecticides disrupts
+insect feeding behaviour in less than 4 hr at cool temperatures. This
+applies especially for the effect of aged spraying residues (Paleskié
+et al., 2017). Strategies based on clearing measures in orchards together with
+the use of certified propagating material and insecticides directed
+against the remigrants will likely reduce pathogen spread, but they will
+
+ 
+
+not entirely stop new infections in orchards. Future research should
+focus on long-standing field experiments proving the benefit of
+insecticides and repellents against pathogen spread (Marcone et al.,
+2010; Paleski¢ et al., 2017), on the effects of antagonistic microorgan-
+isms (Trivedi, Trivedi, Grinyer, Anderson, & Singh, 2016) and on
+the selection and/or the breeding of suitable rootstocks (Marcone
+etal., 2010). ACKNOWLEDGEMENTS
+
+The authors wish to thank Lukas Wieland and Theresa Ringwald for
+perfect technical assistance as well as Anna Brugner and Zoltan Lucza
+for their active participation in surveys and samplings. The work was
+supported by the Austrian Federal Ministry of Agriculture, Forestry,
+Environment and Water Management in the frame of Bund-
+Landkooperation (Federal Ministry for Sustainability and Tourism)
+(BLK, project number 100835) and the ARRS FWF joint project |
+2763-B29. Parts of the research work were performed in Hungary in
+the frame of the Hungarian-Austrian bilateral programme. Project
+No. TET_2015-1-2016-0045 has been implemented partly with the
+support provided from the National Research, Development and Inno-
+vation Fund of Hungary, financed under the TET_15 funding scheme. The Austrian part was also supported in the frame of the OeAD
+Wissenschaftlich Technische Zusammenarbeit (WTZ) HU 09/2016
+
+project. CONFLICT OF INTEREST
+
+The authors declare that there is no conflict of interest. ORCID
+
+Ginter Brader ® https://orcid.org/0000-0002-6682-7110
+
+REFERENCES
+
+Carraro, L., Osler, R., Loi, N., Ermacora, P., & Refatti, E. (1998). Transmis-
+sion of European stone fruit yellows phytoplasma by Cacopsylla pruni. Journal of Plant Pathology, 80, 233-239. Carraro, L., Loi, N., & Ermacora, P. (2001). Transmission characteristics of
+the European stone fruit yellows phytoplasma and its vector
+Cacopsylla pruni. European Journal of Plant Pathology, 107, 695-700. Carraro, L., Ferrini, F., Ermacora, P., & Loi, N. (2002). Role of wild Prunus
+species in the epidemiology of European stone fruit yellows. Plant
+Pathology, 51, 513-517. “Annals of
+
+*_| WILEY. RIEDLE-BAUER Er at. Applied Biology
+
+Carraro, L., Ferrini, F., Labonne, G., Ermacora, P., & Loi, N. (2004). Seasonal
+infectivity of Cacopsylla pruni, vector of European stone fruit yellows
+phytoplasma. Annals of Applied Biology, 144, 191-195. Christensen, N. M., Nicolaisen, M., Hansen, M., & Schulz, A. (2004), Distri-
+bution of phytoplasmas in infected plants as revealed by real-time
+PCR and bioimaging. Molecular Plant-Microbe Interactions, 17,
+1175-1184. Czibulyas, P., Koncz, LS., & Pénzes, B. (2018). The role of psyllids in apri-
+cot orchards in the transmission of pathogen ‘Candidatus Phytoplasma
+prunorum’. 64, Scientific Plant Protection Days. Budapest, 20-21
+February 2018. Abstracts 22 (In Hungarian). Danet, J., Balakishiyeva, G., Cimerman, A., Sauvion, N., Marie-Jeanne, V.,
+Labonne, G. ac, X. (2011). Multilocus sequence analysis reveals
+the genetic diversity of European fruit tree phytoplasmas and supports
+the existence of inter-species recombination. Microbiology, 157,
+438-450. https://doi.org/10.1099/mic.0.043547-0
+
+Deng, S., & Hiruki, C. (1991). Amplification of 16S rRNA genes from cul-
+turable and non-culturable mollicutes. Journal of Microbiological
+Methods, 14, 53-61. Dermastia, M., Dolanc, D., Mlinar, P., & Mehle, N. (2018). Molecular diver-
+sity of ‘Candidatus Phytoplasma mali’ and ‘Ca. P. prunorum’ in orchards
+in Slovenia. European Journal of Plant Pathology, 152, 791-800. Gallinger, J., & Gross, J. (2018). Unraveling the host plant alternation of
+Cacopsylla pruni—Adults but not nymphs can survive on conifers due
+to phloem/xylem composition. Frontiers in Plant Science, 9, 484.
+https://doi.org/10.3389/fpls.2018,00484
+
+IPWG. (2018). Phytoplasma diseases in Europe and surroundings. Retrieved
+from_http://www.costphytoplasma.ipwgnet.org/WG2/Phytoplasma%
+20Vectors%20and%20Diseases%20in%20Europe%20and%
+20Surroundings.pdf
+
+Jarausch, B., Mihlenz, |, Fuchs, A., Lampe, |, Harzer, U., & Jarausch, W.
+(2007). Untersuchungen zur Europaischen Steinobstvergilbung (ESFY)
+in Deutschland. Gesunde Pflanzen, 59, 183-192. Jarausch, B., Fuchs, A, Mihlenz, |, Lampe, |, Harzer, U., & Jarausch, W.
+(2007). Research on European stone fruit yellows in Germany. Bulletin
+of Insectology, 60, 389-390. Jarausch, W., & Jarausch, B. (2016). A permanent rearing system for
+Cacopsylla pruni, the vector of ‘Candidatus Phytoplasma prunorum’. Entomologia Experimentalis et Applicata, 159, 112-116. Jarausch, W., Jarausch, B., Fritz, M., Runne, M., Etropolska, A, &
+Pfeilstetter, E. (2019). Epidemiology of European stone fruit yellows in
+Germany: the role of wild Prunus spinosa, European Journal of Plant Pathol-
+ogy, 154, $.463-S.476. https:/ /doi.org/10.1007/s10658-019-01669-3
+
+KSH. (2018) Elemzések. Gyiimélcsiiltetvények dsszeirasa (2017). Tablazatok. Ultetvények terillete korcsoportok szerint fajonként, 2017. Retrieved
+from https://www.ksh.hu/Elemzesek/Gyumoles2017/index.html
+
+Labonne, G., & Lichou, J. (2004). Data on the life cycle of Cacopsylla pruni,
+Psyllidae vector of European stone fruit yellows (ESFY) phytoplasma,
+in France. Acta Horticulturae, 657, 465-470. Laimer Da Camara Machado, M., Paltrinieri, S., Hanzer, V., Arthofer, W.,
+Strommer, S., Martini, M., ... Bertaccini, A. (2001). Presence of
+European stone fruit yellows (ESFY or 16SrX-B) phytoplasmas in apri-
+cots in Austria, Plant Pathology, 50, 130-135. Lederer, W., & Seemiiller, E. (1992). Demonstration of mycoplasmas in
+Prunus species in Germany. Journal of Phytopathology, 134, 89-96. Lee, |. M., Bertaccini, A., Vibio, M., & Gundersen, D. E. (1995). Detection of
+multiple phytoplasmas in perennial fruit trees with decline symptoms
+in Italy. Phytopathology, 85, 728-735. https://doi.org/10.1094/Phyto-
+
+85-728
+
+Lepres, L. A., Mergenthaler, E., Viczian, O., & Téth, F. (2018). Monitoring
+the presence of Cacopsylla pruni (Scopoli, 1763) and its infection by
+‘Candidatus Phytoplasma prunorum’ in an apricot orchard in Heves
+county, Hungary. Névényvédelem, 79, 197-203 (In Hungarian). Lorenz, K. H., Dosba, F., Poggi Polini, C., Llicer, G., & Seemilller, E. (1994). Phytoplasma diseases of Prunus species in Europe are caused by
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+genetically similar organisms. Zeitschrift fir Pflanzenkrankheiten und
+Pflanzenschutz, 101, 567-575. Lorenz, K. H., Schneider, B., Ahrens, U., & Seemiller, E. (1995). Detection
+of the apple proliferation and pear decline phytoplasmas by PCR
+amplification of ribosomal and nonribosomal DNA. Phytopathology, 85,
+711-776. Maixner, M., Ahrens, U., & Seemiiller, E. (1995). Detection of the German
+grapevine yellows (Vergilbungskrankheit) MLO in grapevine, alterna-
+tive hosts and a vector by a specific PCR procedure. European Journal
+of Plant Pathology, 101, 241-250. Maier, C., Bachinger, K., Mértel, J., Engel, C., Czipin, L., & Riedle-Bauer, M
+(2013). European stone fruit yellows: A mark, release and recapture
+experiment tracking the dispersal of its vector Cacopsylla pruni
+(Hemiptera: Psyllidae) in a model apricot orchard and epidemiological
+studies in Lower Austria. Journal of Phytopathology, 161, 713-722. Marcone, C., Jarausch, B., & Jarausch, W. (2010). ‘Candidatus Phytoplasma
+prunorum’, the causal agent of European stone fruit yellows: An over-
+view. Journal of Plant Pathology, 92, 19-34. Meier, U., Graf, H., Hack, H., Hes, M., Kenne, W., Klose, R., ... Van den
+Bloom, T. (1994). Phanologische Entwicklungsstadien des Kemobstes
+(Malus domestica Borkh. und Pyrus communis L.), des Steinobstes (Prunus-
+Arten), der Johannisbeere (Ribes-Arten) und der Erdbeere (Fragaria x ana-
+nassa Duch). Nachrichtenblatt des Deutschen Pflanzenschutzdienstes, 46,
+141-153. Mergenthaler, E., Kiss, B., & Viczian, ©. (2017). Survey on the occurrence
+and infection status of Cacopsylla pruni, vector of European stone fruit
+yellows in Hungary. Bulletin of Insectology, 70, 171-176. Morvan, G. (1977). Apricot chlorotic leaf roll. EPPO Bulletin, 7, 37-55. Ossiannilsson, F. (1992). The Psylloidea (Homoptera) of Fennoscandia and
+Denmark Fauna Entomologica Scandinavia (Vol. 26). Leiden, the Nether-
+lands: Brill EJ. C., Bachinger, K., Brader, G., Kickenweiz, M., Engel, C, Wurm, L, ..
+Riedle-Bauer, M. (2017). Cage and field experiments as basis for the
+development of control strategies against Cacopsylla pruni, the vector of
+European stone fruit yellows. Annals of Applied Biology, 170, 357-368. Poggi Pollini, C., Forno, F., Franchini, S., Gober, M., Lanzoni, C., Mattedi L.,
+
+Ratti, C. (2010). Detection and distribution of European stone frui
+yellows (ESFY) in apricot cv. ‘Bergeron’ and epidemiological studies in
+the province of Trento (Italy). Julius Kiihn Archiv, 427, 383-385. Peccoud, J., Labonne, G., & Sauvion, N. (2013). Molecular test to assign
+individuals within the Cacopsylla pruni complex. PLoS One, 8, €72454. Peccoud, J., Pleydell, D. R., & Sauvion, N. (2018). A framework for estimat-
+ing the effects of sequential reproductive barriers: Implementation
+using Bayesian models with field data from cryptic species. Evolution,
+72, 2503-2512. https://doi.org/10.1111/evo.13595
+
+Richter, S. (1999). Chlorotisches Blattrollen der Marille - Erstauftreten in
+Osterreich, Diagnose und Epidemiologie einer Quarantanekrankheit. Mitteilungen Klosterneuburg, 49, 245-249. Richter, S. (2002). Susceptibility of Austrian apricot and peach cultivars to
+ESFY. Proceedings of the 6th Conference of EFPP 2002, Prague. Plant
+Protection Science, 38(Special Issue 2), 281-284,
+
+Riedle-Bauer, M., Bachinger, K., Stradinger, J., Emberger, M., Martel, J., &
+Bauer, H. (2012). Transmission of European stone fruit yellows Phyto-
+plasma (‘Candidatus Phytoplasma prunorum’) during the propagation
+process. Mitteilungen Klosterneuburg, 62, 177-182. Sabaté, S., Lavina, A, & Battle, A. (2016). Incidence and distribution of
+‘Candidatus Phytoplasma prunorum’ and its vector Cacopsylla pruni
+Spain: An approach to the epidemiology of the disease and the role of
+wild Prunus. Plant Pathology, 65, 837-846. Sauvion, N., Lachenaud, O., Genson, G., Rasplus, J. Y., & Labonne, G.
+(2007). Are there several biotypes of Cacopsylla pruni? Bulletin of
+Insectology, 60, 185-186. Seemilller, E., & Schneider, B. (2004). ‘Candidatus Phytoplasma mali’, ‘Can-
+didatus Phytoplasma pyr’ and ‘Candidatus Phytoplasma prunorum’, the
+causal agents of apple proliferation, pear decline and European stone
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RIEDLE-BAUER Er at. fruit yellows, respectively. International Journal of Systematic and Evolu-
+tionary Microbiology, 54, 1217-1226. Smart, C. D., Schneider, B., Blomquist, C. L., Guerra, L. J., Harrison, N.
+Ahrens, U., ... Kirkpatrick, B. C. (1996). Phytoplasma-specific PCR
+primers based on sequences of 16S-23S rRNA spacer region. Applied
+and Environmental Microbiology, 62, 2988. Statistik Austria. (2018). Erhebung der Erwerbsobstanlagen 2017. Retrieved
+from https://www.statistik.at/web_de/statistiken/wirtschaft/land_und_
+forstwirtschaft/agrarstruktur_flaechen_ertraege/obst/index.html
+
+Steffek, R., Follak, S., Sauvion, N., Labonne, G., & MacLeod, A. (2012). Dis-
+tribution of ‘Candidatus Phytoplasma prunorum’ and its vector
+Cacopsylla pruni in European fruit-growing areas: A review. EPPO Bulle-
+tin, 42, 191-202,
+
+Sile, S. (1999). Strategies for the control of apricot decline. Mitteilungen
+Klosterneuburg, 49, 250-252. Tarczali, G., Kavics, G., & Kiss, E. (2014). Occurrence of stone fruit yellows
+phytoplasma disease (‘Candidatus Phytoplasma prunorum’) in Hungary
+and Central Europe. In R. N. Kharwar, R. S. Upadhyay, N. K. Dubey, &
+R. Raghuwanshi (Eds. ), Microbial diversity and biotechnology in food
+security (pp. 205-215). India: Springer. Thébaud, G., Yvon, M., Alary, R., Sauvion, N., & Labonne, G. (2009). Effi-
+cient transmission of ‘Candidatus Phytoplasma prunorum!’ is delayed
+by eight months due to a long latency in its host-alternating vector. Phytopathology, 99, 265-273. ‘Annals of
+Applied Biology
+
+WILEY_l_®
+
+Trivedi, P., Trivedi, C., Grinyer, J, Anderson, |. C., & Singh, BK. (2016). Harnessing host-vector microbiome for sustainable plant disease manage-
+ment of phloem-limited bacteria. Frontiers in Plant Science 7, 1-12. https:
+//doiorg/10.3389/fpls.2016.01423
+
+Valasevich, N., & Schneider, B. (2016). Detection, identification and molec-
+ular diversity of 'Candidatus Phytoplasma prunorum’ in Belarus. Journal
+of Plant Pathology, 98, 625-629. ‘Wurm, L. (2018). Der Erfolg beginnt oder endet mit der Wahl der Unterlage. Aktuelle Empfehlungen fir den Marillen- und Zwetschkenanbau. Besseres Obst, 1, 4-6. SUPPORTING INFORMATION
+
+Additional supporting information may be found online in the
+Supporting Information section at the end of this article. How to cite this article: Riedle-Bauer M, Paleski¢ C,
+Schwanzer J, et al. Epidemiological and molecular study on
+‘Candidatus Phytoplasma prunorum’ in Austria and Hungary. Ann Appl Biol. 2019;1-15. https://doi.org/10.1111/aab.12541

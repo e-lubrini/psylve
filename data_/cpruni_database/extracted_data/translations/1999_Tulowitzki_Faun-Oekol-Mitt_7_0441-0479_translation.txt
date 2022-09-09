@@ -1,0 +1,2727 @@
+Faun.-Ocol. mid 7, 441-480 Kiel, 1999
+
+ 
+
+ 
+
+The arthropod fauna in the Untertrave area and am
+Dummersdorfer Ufer (Schleswig-Holstein)
+
+Ingo Tulowitzki, Hans Meyer, Ulrich Irmler,
+Thomas Tischler and Hans-Dieter Reinke
+
+Summary
+
+The arthropod fauna of an area at lower River Trave and the
+»Dummersdorfer Ufer* (Schleswig-Holstein)
+
+Within the nature reserve 'Dummersdorfer Ufer', situated at the west banks of the
+lower River Trave, the central area represents a dry grassland derived from a historically
+use as pasture. The sustainment of this valuable area by means of grazing by sheep and
+Goat flocks is the main concern of the landscape management association, Dummersdorfer
+Riverbank". In order to evaluate the compatibility of this management compared to the usual
+grazing by cattle an inventory of arthropods was performed on selected sites. For this
+comparison not graced sites situated within and outside the nature reserve were also
+included into the investigation. The registration of the arthropod fauna of the vegetation
+layer by sweep net sampling resulted in characteristic compositions of the individual bio-
+top types. A high proportion of xerophilous and arenicolous species indicates a success-
+full management for the development of the required dry grassland in this area. The deri
+ved criteria may be used retrospectively and for the actual and future management. 1. introduction
+
+Already at the beginning of this century, the Dummersdorfer Ufer was
+scientific investigations recognized as a valuable landscape area, which is reflected in the
+early designation of the area as an "area natural monument" in Liibeck in
+Documented in 1925!, The declaration of a nature reserve finally took place by
+State ordinance of 13.11. 1958 The entire Untertrave region has in its bank
+areas to which the NSG "Dummersdorfer Ufer" belongs as a core region, a rural
+economic appeal that attracts many visitors. The NSG is characterized by relics of a
+historical cultural landscape that goes back to the original use by Hudewirt-
+to go back. Therefore, the area is characterized by the warm, dry pasture grassland in
+
+1 law regarding the protection of monuments and nature, Liibeck, Dec. 1921, married 4.2.1925
+
+441
+
+Stidoost-exposed hillside with remains of wood. The area next to is threatened
+the recreational activities mainly due to the change in agricultural use
+del and economic interests through industry and port expansion. The resulting
+The resulting loss of area and decline in plant species has already been suggested by some
+Scientists complained (EBERLE 1978, DeTTMaR 1982). Without suitable use such as
+Forest management and grazing appear to be rare and endangered species
+of the Hude landscape threatened. The guiding principle is therefore: protection and development of the
+mersdorfer Ufer as a historic cultural landscape. To be more specific, the following
+Environmental quality goals formulated (BRAUN 1996):
+
+1. High number of typical species, especially typical Red List species
+
+2. Low number of fault indicators
+
+3. Large area extension of the typical plant communities
+
+As a measure for targeted further development, the "Landscape Conservation
+association Dummersdorfer Ufer e.V.” a care and development concept of the Hudeland
+developed in which i.a. a site-bound Hiitehaltung with a sheep and
+herd of goats is planned (LPV 1992). Until then, the dry grasslands were with a
+herd of cattle grazed. The reason for the present study was a renewed inventory of the insect
+tenfauna, since the last extensive faunistic investigations from the 1930s
+(DENKMALRAT 1932). Furthermore, based on the presentation of the current
+species, an attempt should be made to estimate whether the care measures taken to
+are suitable for reaching the objectives. For a better assessment of the character
+of dry grassland fauna and historical data were also sampled in the
+neighboring ungrazed biotopes on the Dummersdorfer Ufer and in comparative biotopes
+pen in Schleswig-Holstein or Mecklenburg-West Pomerania with similar soil conditions
+taken. 2. The study area
+2.1 History
+
+The Untertrave forms a ford-like sea arm of the Baltic Sea, which is 12 river kilometers
+protrudes inland. The banks are made up of up to 25 m high retreat squadrons
+End moraines formed during the last ice age. The bottom consists of permeable sand and
+Gravel on boulder clay with a relatively high lime content. The brackish astuary ranges from
+Travemiinde to Liibeck-Schlutup and with a branch to Dassow. as a fool
+dorfer Ufer has always been the western part of the Liibeck district of Dummersdorf.
+rende, left bank of the Untertrave (Fig. 1). The eastern bank belongs to Meck-
+lenburg-West Pomerania and has remained of human use for the last 40 years
+unaffected, which made an almost uninterrupted succession possible. On the other hand,
+te the traditional Niederwald and Hudewirtschaft on the Dummersdorfer Ufer
+the present day. That is why the landscape features coppice and pastures
+in addition to active cliffs, swollen shore areas and beaches, the landscape. in the
+At the center of the NSG Dummersdorfer Ufer are the semi-arid grassland
+extensive grazing grassland around the Stiilper Huk peninsula with the Hirtenberg and the
+slopes of the ballast mountain. These warm, dry pastures exposed to the south-east
+lawns have a total area of ​​14 ha, the entire NSG of 342 ha. the
+The special natural history attraction of the Untertrave area lies in the north Germany
+unusual accumulation of calcareous and warm-loving plant species. The xerothermic flora
+
+442
+
+ 
+
+  
+ 
+   
+ 
+   
+ 
+    
+   
+
+Travemünde
+
+Priwall
+
+Scandinavia
+Kai
+
+Dassow lake
+=o
+
+km
+
+ 
+
+ 
+
+Scale 1:50,000
+
+ 
+
+fig 1: Faunistic investigation areas at the Untertrave, net catches 1995 and 1996 (Dun:
+Dummersdorfer Nordufer, Dus: Dummersdorfer Siidufer, Hb: Hirtenberg, R: cattle grazing,
+S: sheep grazing, Gb: Ginsterberg, Mh: Meeschenhaken, Hw: Holzwiek, Tw: Teschower Wiek,
+Psw: Pétenitzer Wiek, Pét: Pétenitzer Ostseeufer). immigrated from the south-east in a post-glacial period and became
+displaced by the common beech in the following cooler climatic period. Only at special stand
+locations, such as the steep banks of the Untertrave with their natural forest edges
+relics endure. Clearing and grazing in the Middle Ages created new ones
+secondary open sites into which xerothermic flora and fauna spread
+could. Only the intensification of agriculture and forestry penetrated the areas of these
+specially adapted flora and fauna. Only the unprofitable
+due to the steepness of the bank sections was the decisive factor that
+Dummersdorfer Ufer before the complete loss of its species-rich open sites
+preserved. Despite this, the gradual loss of range and species has continued in recent times,
+especially because of the lack of coppice management, unfavorable grazing
+and increasing eutrophication. Only since 1988 has there been a conservation-oriented one
+change in management. The biotope management looked up next to the bush clearing
+a summer pasture for cattle with additional winter evidence
+tion by a herd of sheep and goats. A partial area of ​​the ballast mountain in the NSG
+Since 1993, the center has been used exclusively with the sheep and goat
+herd of the “Landschaftspflegeverein Dummersdorfer Ufer e. V.” grazed. 443
+
+2.2 vegetation
+
+The vegetation units characteristic of a dog landscape as substitute societies
+of the original forest (Port & HUpre 1991) also characterize the
+of the NSG Dummersdorfer Ufer: Heath, semi-arid grassland, commercial grassland as well
+like Séume and Gebiische. The heather (Genistion pilosae) appeared as late as the 1930s
+dense stands of Calluna vulgaris with its companion plants Antennaria dioica and
+Genista anglica on Hirtenberg (EBERLE 1932). Nowadays you only meet them
+Remnants of (BRAUN et al. 1996, 1998) as the heath turns into semi-arid grassland. the
+Grazing grasslands belong to the plant community of semi-arid grasslands (Mesobromion) and
+of Economic Greenland (Molinio-Arrhenatheretea). In the semi-dry grass finds
+species such as Festuca trachyphylla, Petrorhagia prolifera, Avenula pratensis, four broom
+species (Genista anglica, G. germanica, G. pilosa, G. tinctoria) and Gentianella baltica, Viola cani-
+na and Medicago minima, some of which indi-
+adorn. The vegetation stands assigned to the salt-affected stepping fields are
+Shore represented with species such as Festuca salina, Poa subcoerulea and Plantago maritima. In the
+There is grassland fallow with Arrhenaterum elatius and Trifolium medium on slopes
+and Agrimonia eupatoria. The warm-loving geranium and the warm-
+loving trees (Berberidion) with their many rare types of roses complete the picture
+the Hude landscape in the center of the Dummelsdorfer Ufer. In addition to these cultivated
+natural elements, there are still a number of biotope types that resemble the original natural
+landscape can be assigned. Of particular note are the natural
+lichen, forest-free cliffs with their scree beach, the cuts in the cliffs with
+Springs and stream gorges and the beach lake, which is rarely flooded by the Trave
+(silk pond). The habitats adjacent to the bank also count towards today's NSG
+such as forests, fields and fallow land. Between 1984 and 1998, 367 higher plants,
+54 mosses and lichens, as well as 356 higher fungi detected. In the pasture biotopes
+come approx. 150 plant species. 2.3 Research Sites
+
+The samples were taken in the following biotopes (abbreviations in brackets
+mer):
+
+a. ungrazed biotopes close to the shore
+
+West bank of the Untertrave (West): flat sandy or Pebble shore and beach ridges, easier
+Salt inflow with salinity of approx. 10%, incremental samples from North Shore (Dun),
+Meeschenhaken (Mh) and south bank (Dus). East bank of the Untertrave (east): flat sandy or shingle shore with a slight salt inflow,
+Individual samples from Pétenitzer Wiek (Psw), Teschower Wiek (Tw) and Holzwiek (Hw). Hangwald (forest): on the northern west bank of the Untertrave
+
+Vorbek (source): deep, steep creek incision in the wooded bluff on the west bank of the
+Untertrave. Pasture biotopes on sandy soil
+
+Ginsterberg (Ginst): 0.5 ha, historical name for a gorse site at the top
+ren Traveufer, cleared of bushes in 1989 for the purpose of renaturation, since then care with periodic
+summer sheep grazing. Hirtenberg (Hirt): 6.2 ha, core area of ​​the NSG, peninsula in the Trave with dry grassland
+and heather rudiments, summer cattle pasture with 1 livestock unit (LU)/ha,
+
+a
+
+444
+
+Total service life 6 weeks and winter sheep grazing, individual sampling
+took place in transects (Hbn1, Hbn2, Hbm, Hbs, Hbu). Ballastberg Nord (Rind): 3.1 ha, steep, forest-free slopes south of Hirtenberg,
+summer cattle grazing with 1 LU/ha but with a total standing time of
+20 weeks and winter sheep grazing, comparison plot to sheep, sample
+me at different height levels (Ro, Rm, Ru). Ballastberg Stid (Schaf): 2.4 ha, steep, forest-free slopes south of Hirtenberg,
+Parcel reserved for circulating sheep grazing, grazing with 250 old sheep and
+Yearlings and 12 goats, daily night pen, three 1-week grazing rounds
+per year, sampling in transects at different height levels (So, Sm, Su, Sh). Comparative biotopes on sandy soil outside the NSG Dummersdorfer Ufer
+Weisenhauser Strand / district Ostholstein (Diinen): beach grass Weifduinen. Kiel-Russee/Rendsburg-Eckernforde district (Kies-K): former gravel quarrying area with
+beginning forestation. Wilstedt/Stormarn district (Kies-W): former gravel quarrying area north of Hamburg in
+younger succession stage than Kiel-Russee, still unforested. Wattenbek/Rendsburg-Eckernférde district, (sand): in the Eidertal, silver grass-sand field,
+bushes. Pétenitzer Ostseeufer /Mecklenburg-West Pomerania (Pét): of dry beach areas
+with silver grass and sea buckthorn bushes to damp beach depressions with coppice. 2
+
+3. methods
+
+The landing net method (grazing net) was used to record the fauna. It was
+in the years 1995-1996 in the Untertrave region and additionally in comparative bioto-
+pen in further Schleswig-Holstein took a total of 105 landing net samples. Of the
+The focus was on stripping the fauna of the vegetation layer of the grazed areas
+Dry grassland in the center of the NSG Dummersdorfer Ufer. There were also individually
+de Trees and bushes knocked off. The samples were preserved in 70% ethanol. The determination and taxonomy as well as the ecological classification of animal groups
+was carried out according to the following literature: Kafer (FREUDE et al. 1964-1998), cicadas (OssIANNILSSON
+1978-1983, REMANE & WACHMANN 1993, LE QuESNE & PAYNE 1981), bugs (WAGNER
+1952a, b, 1966, WACHMANN 1989), leaf fleas (HODKINSON & WHITE 1979, OsSIANNILSSON
+1992), locusts (BELLMANN 1993, HOLsT 1986, WENDLER et al. 1994), butterflies
+(Hiccins & RILEY 1978, WEIDEMANN 1995, WEIDEMANN & KOHLER 1996), hoverflies
+(BoTHE 1994), gun flies (ROZKOSNY 1973), dragonflies (FISCHER 1984), remaining insect
+groups (BROHMER 1979). The Determination and Taxonomy of the Long Leg and Dance
+flies (Empidoidea) is based on CHVALA (1970, 1975, 1983, 1994), D'Assis-FONSECA
+(1978), PARENT (1938), POLLET (1990, 1996), STACKELBERG (1930-1940), COLLIN (1961), GRoo-
+TAERT & CHVALA (1992), NEGROBOV & STACKELBERG (1971-79). The 6cological assignment
+of the long-legged and dancing flies (Empidoidea), in which the classification features of
+Kocu (1989-92) were used based on literature reviews and our own
+Investigations (MEYER & FILIPINSKI 1998, MEYER & HEYDEMANN 1990). basis for
+Information on the regional distribution of these groups of flies can be found in the check list
+Diptera of Germany (SCHUMANN et al. 1999) and the publications by Emeis (1964,
+1970), KROBER (1930, 1935, 1937, 1956, 1958), SAAGER (1959, 1964, 1970) and by STARK &
+LEHMANN (1999). The spiders were determined according to HEIMER & NENTWIG (1991),
+Roserts (1985, 1987, 1993) and the taxonomy follows PLATEN et al. (1995). 445
+
+The similarity of sampling sites was determined using average cluster linkage analysis
+(SNEATH & SOKAL 1973) based on similarity matrices of the Renkonen Index
+(dominant identity) (RENKONEN 1938) (Fig. 2). For the evaluation
+formed three sample groups. One group includes the sites outside the NSG. They are referred to as comparison biotopes (Cf.). Within the NSG, the
+distant pasture biotopes according to the dominance identity of the locations near the shore
+separate. With the rarefaction method (HURLBERT 1971, ACHTZIGER et al. 1992) became the
+number of species calculated. The method uses elements of probability theory. It
+the expected number of species is determined for defined numbers of individuals, so that the
+individual samples are mathematically the same in size. This is particularly the case with landing net tests
+necessary because they can be very different from the number of individuals. for
+The method is less suitable for groups with small sums of individuals, since the
+comparison must be made for a fixed sum of individuals (e.g. at least
+at least 10 individuals), which is not achieved in every sample, and therefore no value can be determined
+can be told. To assess the insects, a catalog was first created in which all available
+available bibliographical information on the way of life of the individual species was recorded. under the silvi
+colen species were also the arboricolen as well as the species of the edge of the forest or the
+
+ 
+
+ 
+
+Willow vuter_| vat | rer vel Urey
+~ [ « =
+£2 2 ie s/ i]s], 2 2 3/3
+Be 3 &|2 8|2|s|2 2 3 2/8
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+dominance identity %
+
+C
+
+fig 2: Average linkage cluster analysis of the dominance identities (RENKONEN 1938) of the insects
+from net catches from 1995 and 1996 on the Dummerdorfer Ufer (shore: ungrazed biotopes near the shore,
+Pasture: grazing areas, cf. non-grazed comparative biotopes on sandy soil, other abbreviations
+see fig. 1). 446
+
+hedges classified. Based on the evaluation of plant stocks by
+indicator values, 7 groups of assessment criteria were created: biotope width, bio
+top claim, habitat or Ocotype, phagy, distribution, abundance and the Red List
+Status. Percentage comparative values ​​for the different
+various parameters based on insect occurrence. The statistics were calculated using the "/Statistica" program. To compare the organic
+The median, mean values ​​and standard deviation were determined and top types
+the means were compared with the Mann-Whitney U-test. 4. Results
+General, statistical information
+
+A total of 105 net samples at 46 sampling locations resulted in 13,544 insects
+determined from 728 species and 64 spider species with 306 individuals (Tab. 1). the
+average number of individuals! per sample was 130. The following listing gives
+Aufschlag about the evaluated orders and their respective number of species:
+
+Rhynchota 200; Auchenorrhyncha (99), Heteroptera (101)
+
+Coleoptera 296: Staphylinidae (25), Curculionidae and Apionidae (84),
+Chrysomelidae (54), other Coleoptera (133)
+
+Diptera 121: Empidoidea (121)
+
+Lepidoptera (27)
+
+Saltatories (17)
+
+Araneida (64)
+
+Other Insecta (67): Sternorrhyncha (15), Syrphidae (21), Stratiomyidae (10),
+8 (Henne Dibtors Gy, Yonge neeets 7) yidae (
+
+The most common species per order were:
+Auchenorrhyncha : Psammotettix confinis (Delphacidae) - 1426 Ind. Heteroptera: Lopus decolor (Miridae) ~ 329 Ind. Diptera: Chrysotus Iaesus (Dolichopodidae) - 273 Ind. Coleoptera: Tytthaspis sedecimpunctata (Coccinellidae) - 203 Ind. Saltatoria: Chorthippus biguttulus (Acridiidae) ~ 172 Ind. Araneida: Enoplognatha ovata (Theridiidae) ~ 70 ind. Tab. 1: Dominance percentages of the insect groups (in %) or Occurrence (+) in the investigation
+locations on the Dummersdorfer Ufer and comparative biotopes. Abbreviations:
+
+ 
+
+Biotope claim Habitat
+ant — _ anthophilic a — _amphibious, merolimnic
+cop ~ coprophil arb ~ arboricol
+hal — halotopophilic/tolerant are arenicol
+hel — heliophile arv — arvicol
+hyg - hygrophilic des - deserticol
+n — nitrophilic h - heath dweller
+psa — psammophile hal — halotopic
+tyr -_ tyrphophilic pal - paludicol
+x = xerophilic pra - praticol
+rip - ripicol
+sil - silvicol
+wr - forest edge dweller
+
+447
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+s Zz os z P &
+g 3 2 2/5 2 . 2 2
+2 2/3 « P 3/2 2 2 €/2 =
+x &§ & £ &$ E|3 &
+Kind <= ©) es 0 ©F O}/S9 FE KF B/E GF
+Cicadas (Auchenorthyncha)
+Acanthodelphax denticaudata hyg pra) 0.7 + 02 02
+Achorotile albosignata pra} 0.3
+Agallia venosa x are 40 03 Ol) 03 39
+Alebra albostriella arb] 13 1 03
+Allygidius commutatus arb 06
+Allygus modestus arb 29 06
+Alnetoidia alneti arb + 0.2 03
+Anakelisa perspicillata x pra 05 01
+‘Anoscopus albifrons pra 02
+Aphrodes makarovi hygn pral 07 18 57 29 04 «11 O01] 38 16
+‘Aphrophora alni arb| 01
+Arocephalus longiceps sil 08
+Arocephalus punctum x are 04 10 06 09} 29 31
+Arthaldeus pascuellus pral 30 155 17.1 153 03 05 09} 03
+Arthaldeus striifrons pra 0.7 0.3
+Athysanus argentarius hel pra] 29 = 7.6 47 03 12 O04] 32
+Balclutha punctata prearb| 0.1 18 02 07 02
+Cercopis vulnerata wr| 01
+Cicadella viridis hygpra| 03 06 +
+Cicadula persimilis xn pra 12
+Cicadula quadrinotata pra 04 01 04 08
+Cixius nervosus arb 06
+Conosanus obsoletus pra} 7.9 83 0.2
+Criomorphus albomarginatus pra| O01 04 + 01
+Delphacinus mesomelas x prach 04 01 O01] 12
+Delphax pokes hal 14
+Deltocephalus pulicaris hygaru-rip 18 + 02 16
+Dicraneura variata sil 03
+Dicranotropis hamata n pra} 01
+Doratura homophyla x are-pra| 18
+Doratura stylata x pra] 29 18 77 91 56] 62 16
+Edwardsiana avellanae arb 01
+Edwardsiana flavescens arb 29
+Elymana sulphurella des} 16 3.2 12 06 «13 09 0s
+Empoasca apicalis arb is
+Empoasca betulicola arb 12
+Empoasca solani arv +
+Empoasca virgator hyg arb 24
+Errastunus ocellaris n pra} 142 166 2.9 120 12 03) 91 16
+Eupelix cuspidata x prasil 04 06 02 03 02) 06
+Eupterycyba jucunda arb 03
+Eupteryx atropunctata arv| 01 01 01
+Eupteryx aurata pra 29+
+Eupteryx notata x pra 01 01 05
+Eupteryx urticae n pra] 03 600
+Eurhadina pulchella arb} 1 06
+Eurybregma nigrolineata x pra} 01 11
+Euscelidius schenkii x pra} 16
+Euscelis incisus xn pral 113° 18 1A 218 122 245 235 71
+Evacanthus interruptus hygn pra} 0.1
+Fagocyba douglasi arb 04 01 of
+Graphocaerus ventralis x ra} 16 (0.7 08 02 02
+Hyledelphax elegantulus heh 06
+Tdiocerus confusus arb 16
+
+448
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+s zs = 2 =
+z 2 2/5 2 . 22
+e Be 2 F B/2 2 F £/2 2
+Type =< £/2 £6 £6/6 £3 B/E &
+Jassargus distinguishus pra! 14 30.1 195 199
+Jassus lanio ab| 04 06
+Javesella obscurella pral 04 200 01
+Javesella pellucida pra| 87 54 29° 35° «120 41 16
+Kelisia sabulicola rip | 24 17 02 03) 27 31
+Kosswigianella exigua x pra 18 12 19 100 24] 86
+Lamprotettix nitidulus arb +
+Ledra aurita x arb +
+Macrosteles quadripunctulatus psa pra 08
+Macrosteles sexnotatus pra} 28 11 MA O1 01 02 08
+Macrosteles viridigriseus hal-hyg oa
+Megamelus notula hyg pra-rip| +
+Megophthalmus scanicus pra} 01 11 29 02 01 03 47
+Mocuellus collinus x pra} 01 01 ol 08
+Neophilaenus campestris x pra 168 102
+Neophilaenus exclamationes sil 186
+Neophilaenus lineatus hyg pral 20 116 O1 03° 260
+Notus flavipennis hyg pra 29 02
+‘Oncopsis carpini arb +
+Oncopsis flavicollis atb 03
+Oncopsis subangulata arb +
+Oncopsis tristis arb 03
+Paluda flaveolahyg 29
+Paramesus obtusifrons hal] 14 O1 03
+Philaenus spumarius n pra] 05 108 57 03° 02 03) 15 08
+Populicerus populi arb 12
+Psammotettix alienus av} 2.6 03 02 01 24
+Psammotettix confinis x pra} 160 3.2 200 200] 353 263 17.7 314] 38 87
+Psammotettix excisus psax pra} 2.1 64 07 36 118
+Psammotettix sabulicola psa pra 06
+Recilia coronifer x pra 01
+Rhopalopyx preyssleri x pral 08 04 02 01 01
+Rhopalopyx vitripennis x pral 0.1
+Rhytistyle proceps x pra 03 02 02) 06 08
+Ribautiana ulmi arb +
+Stenocranus minutus pra 04 02 03
+Streptanus aemulans pra 12
+Thamnotettix dilutior x wr] Ol
+Turrutus socialis x pral 1.7 12 63 08 24
+‘Typhlocyba bifasciata arb +
+‘Typhlocyba quercus wr} 29 uA 01 12
+Unkanodes excisa psa rip| 07 1 03
+Verdanus abdominalis pre] 0.1
+Xanthodelphax stramineus pra] 0.1 07 228
+Zygina flammigera arb +
+Individuals: 71 277 «6-385 | 170-2011 1674 M161 | 339 127
+Bugs (Heteroptera)
+Acetropis carinata x pra 10 02 07
+Adelphocoris lineolatus pra} 05 15 36 24 34 21
+Adomerus biguttatus 02
+Aelia acuminata pral 68 44 18 57 23 28] 13 126
+Aelia cleveri pra| 0.2 100 14] 13
+Agramma laeta hyg 07
+Amblytylus nasutus pral 27 322 1251 173 41 ul
+
+449
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+pe a
+
+g = sle F 3
+2 2 22/2 , e.g
+# 2/3 2 & 2|2 & 2 2 e.g
+
+Art < ©/ es 6 £F O/SO BE KF FB B
+
+Anthocoris nemorum arb} 18 il 07
+
+‘Apocremnus ambiguus arb| 05
+
+Aptus mirmicoides pra} 45 9.7 23 64 02 O04 07! 07
+
+Berytinus minor x pra 02 04
+
+Blepharidopterus angulatus wr 05
+
+Brachytropis calcaratum, pal 09 15 46 09 28 04 07 21
+
+Calocoris norvegicus ary 39
+
+Camtozygum aequale arb 11
+
+Capsodes gothicus pra 05
+
+Capsus ater x pral 32 68 15 27 07 23 wl
+
+Ceraleptus lividus x 21
+
+Chorosoma schillingi psa pra 33 11
+
+Corimelaena scarabaeoides x 09
+
+Corizus hyoscyami x pra 02 04
+
+Criocoris crassicornis pra 02
+
+Cymus claviculus hyg pra rr
+
+Cymus glandicolor hyg pra] 88 13 o7| 13
+
+Cymus melanocephalus hyg pal- pral 09
+
+Deraeocoris ruber arb-prq 09
+
+Dicyphus pallidus hyg 02
+
+Dolichonabis limbatus hyg pral 07 121 1, 11 34 28] 07
+
+Dolycoris baccarum wr} 02 i 1905
+
+Drymus ryei psa oh i
+
+Drymus silvaticus x oh 27 04 07
+
+Eremocoris abietis sil | 02
+
+Eremocoris plebejus x oh | 02
+
+Eurygaster maura x pra 10 09 07 05 14
+
+Exolygus gemmelatus x pral| 34 49 20 0A 34
+
+Exolygus pratensis, arb-pra| 02 09
+
+Exolygus rugulipennis ies} 0.2
+
+Geocoris grylloides x pra 04 13
+
+Gerris argentatus a 02
+
+Hoplomachus thunbergi pra13
+
+Ischnodemus sabuleti pre 16
+
+Dressocerys resedae wr| 09 i 22.09 14] 87
+
+Leptoterna dolobrata pra] 59° 19 172 91 72 07 11
+
+Leptoterna ferrugata xn pra] 34 180 57 23 62] 87 32
+
+Liocoris tripustulatus n 125]
+
+Lopus decolor x pra 29 264 29 21) 13 21
+
+Macrotylus paykulli pra 13 76 189
+
+Malacocoris chlorizans wr 25,
+
+Megalocaera recticornis pra] 32 ns 125] 18 21
+
+Melanotrichus flavosparsus des] 0.7 125 02
+
+Mesocerus marginatus hyg wr| 05 02
+
+Myrmus miriformis pra] 07 85 21
+
+Nabis ericetorum h| 18 10 28 27 41) 20° 11
+
+Nabis flavomarginatus prerip] 05 126 36 o7] 13
+
+Nabis pseudoferus 10
+
+Nabis rugosus pra 24
+
+Neides tipularius x pra 07
+
+Notostira elongata pra} 61 04 05 14
+
+Nysius thymi pra] 23° 05 27 54 480 42
+
+Orius majusculus 02
+
+Orius niger i
+
+Orthocephalus coriaceus 020s 04 63
+
+450
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+= butt op &
+2 3 2 2/3 2 2 2
+ e\|2 2 £ 2/2 = 2 Elz 3
+Kind £2)2 £6 6/6 = & Z/E 8
+Orthocephalus saltator x pra 09
+Ortholomus punctipennis x ——pra 04
+Orthonotus rufifrons 09
+Orthops campestris 02
+Orthotylus marginalis arb} 0.2
+Palomena prasina wr) 32 11 125] 09 92
+Peritrechus geniculatus pra 09 04
+Phytocoris ulmi arb 05
+Piesma maculata x pral 14
+Pithanus maerkeli hygpra] 02 24 07 05
+Plagiognathus arbustorum nes Wl 13
+Plagognattuschrysantheni pra| 02 46 45 33 48 48 95
+Podops inuncta pra 02
+Poliopterus litoralis, hal rip 05
+Polymerus nigritus 05
+Polymerus unifasciatus x pra| 02 14 13
+Psallus alnicola arb] 02 04
+Psallus ambiguus arb 15
+Psallus lepidus arb] 09
+Rhopalus parumpunctatus pra] 2558 64 44 11 B8 Ml
+Rhyparochromus lynceus x 02 1
+Saldula palustris hal rip| 23
+Saldula saltatoria hygrip| 29 125| 07
+Sciocoris cursitans x pra 27
+Scolopostethus pilosus ul
+Sehirus luctuosus psa 09 07
+Sehirus morio are 36
+Stenodema laevigatum pra] 18 44 09 20 «04 97 42
+Stenotus binotatus hyg pra 46 02 11 o7| a7
+Stictopleurus abutilon pra 02
+Strongylocoris leucocephalus x pra 10 07
+Strongylocoris steganoides x pra 13
+Syromastes rhombeus x are} 05
+Tingis ampliata pra} 0.2
+Tingis cardui n pra| 02 02 02 07
+Trapezonotus arenarius x pre-des 18
+Trapezonotus desertus psa oh 02
+Trigonotyluscoelestialium x —pra| 107 15 1A 35 30 48
+Trigonotylus elymi rip 13
+Individuals: 41206 87, 8 | 110 458560 145 | 150 95 Diptera Empidoidea
+Anepsiomyia flaviventris hyg ri 13]
+Asyndetus latifronssil | 03 10
+Campsicnemus armatus hyghal] 08 06
+Campsicnemus curvipes 20 06
+Campsicnemus marginatus hygrip 10
+Campsicnemus picticomnis. hygrip| 06
+‘Campsicnemus scambus 08 3413
+Chrysotimus flaviventris sil 37
+Chrysotimus molliculus sil 10 34 06
+Chrysotus blepharosceles pra 29
+Chrysotus gramineus 03 11 03 06| 333 468
+Chrysotus laesus pra} 22 67 149 719 235 32
+Chrysotus neglectus 03 69 45 279 16
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+po &
+4 = s/s § 2
+2 8 ¢ €/§ 2 2
+a £l|<s b&b 5/2 S 3S sz S
+2os|/2 2 §& 3B\/f E£ § E 5
+Type < £/2 £6 £6/5 # & @ 8
+Chrysotus pulchellus are} 2.2 16
+Dolichopus acuticornis 08
+Dolichopus brevipennis 03 06 16
+Dolichopus claviger sil 34 19)
+Dolichopus clavipes hyghal] 03 87
+Dolichopus festivus pra 10
+Dolichopus griseipennis 03 23
+Dolichopus latilimbatus hygrip} 03 06
+Dolichopus longicomnis n2 39 06
+Dolichopus migrans are| 28 46
+Dolichopus pennatussil | 17
+Dolichopus plumipes 06ul
+Dolichopus popularis sil 06
+Dolichopus sabinus hal 68
+Dolichopus simplex 03
+Dolichopus ungulates 198 194 69 13] 69 10 06
+Gymnopternus blankaartensis sil 06
+Gymnopternus celersil 06
+Gymnopternus metallicus sil | 08
+Hercostomus chrysozygos sil} 06 19
+Hercostomus germanus sil 29 26 467 11 49° 17
+Hercostomus nigriplantissil | 06 19
+Hercostomus rusticus pra}03
+Medetera jacula x 14 67 06 16
+Medetera micacea x are us 56 74 97
+Medetera plumbella x are 37
+Micromorphus albipes hyghal] 06 10 06
+Neurigona suturalis sil 46
+Poecilobothrus nobilitatus hyg-rip | 03 34 16
+Sciapus albifrons si03
+Sciapus contristanssil | 03
+Sciapus Iqngulus pra 10 38 17
+Sciapus platypterussil | 11 72ml
+Sympycnus annulipes 25 87 34 335
+Syntormon pallipes hyg hal| | 14
+Teuchophorus pinigerelus — byg rip| 03
+Thinophilus ruficornis hyghal] 03 29
+Xanthochlorus oratus 34 26
+Xanthochlorus tenellussil | 08 13] 67 185
+Empis aestivasil | 39 m1 06 129
+Empis beckeriana sil23
+Empis caudatula pra 67 28 17
+Empis chiopterasil 23 06
+Empis grisea sil 69
+Empis livida pra] 06
+Empis nigricans sil | 03
+Empis nuntia pra 16
+Empis picipessil | 03 65
+Empis prodromus sil 34
+Empis syrovatkai pra| 03 © 10 03 06
+Empis trigramma sill 32
+Hila abitarsis sil MW
+lara angustifron's hyg ti 77]
+Hilara beckeri hyg, = 03 10 04
+Hilara chorica 03
+
+452
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+g z ./f P &
+2 3 $ 2/t 2 g 3
+B2) . & £/2€s 2
+2 8/3 x & £38/8 €2/2 &
+Type =< £/ = 6 £ O/G FE 6 Z/E SB
+Hilara clypeata x are 67 69 03 16
+Hilara comnicula hygti 06]
+Hilara fuscipes sil | 170 10.7 590 10
+Hilara griseifron's hyg rip 13
+Hilara lasiochira hyg tip 06
+Hilara litorea sil 06
+Hilara lundbecki hyg hal! 06
+Hilara manicata hyg rip| 03
+Hilara nigrina sil 13
+Hilara platyura hyg rip} 08 3419
+Hilara quadrivittata ww
+Hilara subpollinosa pre 19
+Phyllodromia melanocephala sil | 03
+Rhamphomyia nigripennissil 06
+Rhamphomyia sulcata 06]
+Rhamphomyia variabilis x ate 46
+Bicellaria spuria 34 34 1A 22
+CChersodromia cursitans hyg hal] 14
+Crossopalpus humilis 67
+Crossopalpus nigritellus 1103
+Drapetis ephippiatasil 34 23 48
+Drapetis incompletea av| 03 10
+Hybos culiciformis 39 34
+Ocydromia glabricula sil 06
+Platypalpus agilis 06 Ww
+Platypalpus annulipes sil 06
+Platypalpus articulatoides av} 06 39 16
+Platypalpus candicans 03
+Platypalpus cothurnatus sil 06
+Platypalpus cursitans 06
+Platypalpus exilissil | 06 13
+Platypalpus infectus arv 23
+Platypalpus interstinctus 19
+Platypalpus longiseta 17 34 03 32
+Platypalpus maculimanus av| 08 1
+Platypalpus minutus 03 10 06 06
+Platypalpus niger 03 13
+Platypalpus optivus sil 0.3
+Platypalpus pallidicornis, av} 34 39 74
+Platypalpus pallidiventris 08 103 06 67 34 07
+Platypalpus pectoralis sil | 03
+Platypalpus ruficornis, pra}03 1.0
+Platypalpus strigifrons x are} 11 29 67 46
+Platypalpus verrallisil | 03 16
+Stilpon graminum pra] 03
+Stilpon nubilus pral 03 1.9 06
+Tachydromia aemula 03
+Tachydromia annulimana 06
+Tachydromia arrogans 03
+‘Tachydromia morio x are} 11
+Tachydromia smithi sil | 03
+Trichina clavipes 06
+Microphor holosericeus pra 1103
+Individuals: 35810329186 | 15 87 288«179'|| 2762
+
+453
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+BP a
+s = ./3 2
+2 8 2 2/2 2. 2 2
+f 2/3 2 & Z| € 8 E\2 =
+Type £4/3 £6 £6/6£ & #Z/E &
+Pine trees (Coleoptera)
+Kuraf wing beetle (Staphylinidae)
+Aleochara bipustulata cop 0s
+Aloconota gregaria hyg 02 02
+Amisha analis pra] 02 03
+‘Anotylus tetracarinatus cop 13 03
+“theta fungi 03 13
+‘theta nigripes pra 02
+Ousipalia caesula ps 02
+Oxypoda funebris yg pal| 0.2
+Paederus litoralis, x pra| 02 04 06 03
+Philonthus agilis x pra 03
+Philonthus carbonarius 02
+Philonthus nitidulus psa oh 02
+Platystethus arenarius cop 03
+Quedius semiaeneus x pra 03
+Stenus bohemicus hyg tip 05
+Stenus brunnipes hyg pra 02
+Stenus cicindeloides hyg pal 05
+Stenus clavicornis x pra 05
+stenus pubescens hyg pal] 0.2
+Tachyporus chrysomelinus 05 06 05
+Tachyporus hypnorum 04 05
+Tachyporus nitidulus 13 04
+Tachyporus solutus x pra} 02 13 06
+Xantholinus laevigatus hyg pral 02
+Xantholinus longiventris hyg 03
+Leaf weeper (Chrysomelidae)
+Agelastica alni hal-hyg arb] 24 43 06 09 13
+Altica oleracea hal 1114 06 03 03| 24 52
+Aphthona nonstriata hyg pal] 02 05 13
+Asiorestia ferruginea xchal pra] 03 05 15 03] 24
+Asiorestia transversa hyg 02 24
+Batophila rubi x 13
+Cassida denticolis x pra 04 03
+Cassida nebulosa 43 02
+Cassida nobilis 06
+Cassida rubiginosa hal 04 03° 05
+Cassida sanguinolenta x pra 04 03° 05
+Cassida sanguinosa x pra 05
+Cassida stigmatica x pra 07 05
+Cassida viridishyg 02
+Chaetocnema concinna 03 02 03
+Chaetocnema hortensis halpra] 05 05 03 03
+Chrysolina fastuosa hal 24
+Chrysolina hyperici x her 13
+Crepidodera fulvicomis hal arb 02
+Crepidodera plutus arb 05 06
+Cryptocephalus fulvus x 48
+Cryptocephalus moraei x 15 06
+Ceyptocephalus vittatus x pra 45 03
+Cryptocephalus vittula x pra 30 06 05
+Galeruca tanaceti x 02 43 02 24
+
+454
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+
+g =z ./k FP &
+Go. = OE z 2 2
+gE El. B€/' 2. s/t 3
+2 2\23 ¢ 2 &8\§ 2 2 E\2 :
+
+Kind ma)es 6 ZF O}/O0 EF HF B £ Gd
+
+Galerucella grisescens hyg pal 05
+
+Galerucella tenella hyg pal 02
+
+Gastrophysa polygoni hal 29° 1A 02 06
+
+Gastrophysa viridula hal 02
+
+Gonioctena decemnotata 0.2
+
+Hispa atra x 02
+
+Lilioceris merdigera sil 26
+
+Linaeidea aenea sil | 02
+
+Longitarsus anchusae 15
+
+Longitarsus atricillus hal 02 03
+
+Longitarsus ganglbaueri x pra 05
+
+Longitarsus jacobaeae x pra] 0.2 30 29 34 32
+
+Longitarsus melanocephalus 06 21
+
+Longitarsus pellucidus pra 20 12 16
+
+Longitarsus pratensis hal pra 28 25 16 26
+
+Longitarsus succineus 15 06 26
+
+Longitarsus tabidus x pra 03
+
+Mantura chrysanthemi xchal_pra 02
+
+Oulema gallaeciana 21 10 39 30° « 15 18 13
+
+Oulema melanopus pra] 19 17 31 03 29
+
+Phyllotreta atra 02
+
+Phyllotreta poeciloceras 05 03
+
+Phyllotreta undulata 05 02 03
+
+Phyllotreta vittula wr 10 02 03
+
+Psylliodes chrysocephala hal 02 02
+
+Psylliodes weberi pra 02
+
+Sermylassa halensis x pra 19 46 09 21 45
+
+Sphaeroderma rubidum x pra} 0.2 13
+
+Sphaeroderma testaceum. whal 02 15 06
+
+Weevils (Curculionidae and Apionidae
+
+Anthonomus pomorum 02
+
+Apion frumentarium x 03
+
+Apion haematodes x 09 03 03 19
+
+Apion rubens x pra 03
+
+‘Apion rubiginosum x pra 20 09 13
+
+Ceutorhynchus floralis 22 130 06 35
+
+Ceutorhynchus obstrictus 02
+
+Ceutorhynchus pallidactylus 02
+
+Ceutorhynchus pumilio psa her 06
+
+Ceutorhynchus pyrrhorhynchus x pra 03
+
+Curculio pyrthoceras silarb] 0.2
+
+Curculio salicivorus hyg arb] 0.2
+
+Curculio venosus silarb] 0.2
+
+Cyanapion gyllenhalii 03
+
+‘Cyanapion spencii hyg 30
+
+Dorytomus taeniatus arb} 02
+
+Eutrichapion viciae 02
+
+Gymunetron unstable x pra 05 09 41 13
+
+Gymnetron pascuorum x pra] 02 79 34 UA 58
+
+Holotrichapion ononis x pra 03
+
+Holotrichapion pisi x pra 03° 03
+
+Hypera nigrirostris 05 03° 03
+
+Hypera postica 02 03
+
+Hypera rumicis hyg02
+
+455
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+
+5 =z ./f PF &
+hey hey
+2/3 2 & 2/2 ££ 3 2/2 2
+
+Kind = £/= 6 £6/6 = 8 BIE B
+
+Hypera venusta x pra 04
+
+Ischnopterapion loti x 03 02 12 «03 13
+
+Ischnopterapion virens ps 02 02
+
+Lixus iridis hyg her 06
+
+Mecinus janthinus x pra 15
+
+Mecinus pyraster x pra 02
+
+Miarus ajugae x pra 13
+
+Mogulones cruciger x pra 02
+
+Nedyus quadrimaculatus 13° 391 03
+
+Notaris acridulus hyg pall 02
+
+Omphalapion hookeri x 02 03° 05
+
+Onxystoma craccae 19 02
+
+Oxystoma pomonae 09 03 13
+
+Pelenomus quadrituberculatus hyg pra] 03
+
+Perapion hydrolapathi hyg pra] 08
+
+Perapion marchicum x 15
+
+Philopedon plagiatus psehalpra] 06 05 02 «09 03) 24
+
+Phyllobius argentatus wr 02
+
+Phullobius caicaratus hyghal | work 06
+
+Phyllobius maculicornis sikarb] 0.2 05 30 06 «21 13 39
+
+Phyllobius pyri arb| 34 15 02 43° 05
+
+Phyllobius Vespertinus hel-hal 19
+
+Phyllobius virideaeris hal pra] 0.2 103 71 16
+
+Phyllobius viridicollis hel arb 45° 02
+
+Polydrusus cervinus arb02
+
+Polydrusus sericeus arb 24
+
+Protapion apricans pra 02 «03° 03
+
+Protapion assimile 02 13
+
+Protapion dissimile x 32
+
+Protapion filirostre x 05
+
+Protapion fulvipes 18 52 09 09 03 91
+
+Protapion nigritarse x 49°11 19
+
+Protapion trifolii x 05 02
+
+Pselaphorhynchites nanus arb 03
+
+Pseudostenapion simum x pra 03
+
+Rhamphus pulicarius arb| 0.2
+
+Rhinoncus castor x pra 03
+
+Sitona ambiguus hyg pra 13
+
+Sitona cylindricollis x pra 24 06
+
+Sitona gressorius x 03
+
+Sitona hispidulus 03 02 06
+
+Sitona humeralis 0.2 06 13
+
+Sitona lepidus 10 24 13 15 02 03 05
+
+Sitona lineatus 0p 38 15 11 18 03
+
+Sitona macularius x 08 04
+
+Sitona regensteinensis x pra 30
+
+Squamapion Atomarium x 04 03
+
+Stenopterapion meliloti x 14
+
+Stenopterapion tenue x 05 03
+
+Stereonychus fraxini silarb} 0.2 13. Strophosoma capitatum sikarb| 0.2 15
+
+Strophosoma fulvicorne x are| 03
+
+Strophosoma melanogrammum —_sil-arb 04 71
+
+Taeniapion urticarium x 03 24
+
+Trachyphloeus bifoveolatus x 02
+
+456
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+6 zy = e £
+2 8 Bs 2 2 2
+Pilgrim s F 3/2 2 3 2/2 3
+
+Type 4 2/2 £6 £6/5 %3 Z/E &
+
+Trichosirocalus barnevillei psa pra 05
+
+Trichosirocalus troglodytes. © x——pra 18 31 3
+
+Tropiphorus terricolasil 03
+
+Tychius junceus x 10 06
+
+‘Tychius picirostris 02 26 09 40 16 26
+
+Other stoners
+
+Adalia bipunctata arb| 03
+
+Adrastus pallens pra-wr 39 06
+
+‘Adrastus rachifer x arb-wr 10
+
+Agapanthia villosoviridescens 02 13
+
+Agriotes aterrimus sikarb 13
+
+Agriotes sputator 02
+
+Agrypnus murina x 02 06 16
+
+‘Amara aenea xhel 02 03
+
+‘Amara communis hyg pra} 02 43
+
+Amara familiaris x 02 02 03
+
+‘Amara plebeya x pra 05 02
+
+‘Amara similata x 03
+
+'Anaspis flava ant arb} 0.2 39
+
+Anaspis frontalis ant arb] 03 52
+
+‘Anisodactylus binotatus hyg pral 02
+
+Anisosticta novemdecimpunctatahyg, pal 05
+
+Anobitum costatum sikarb 03
+
+‘Anomala dubia psa pra| 02
+
+Antherophagus nigricomis ant wr | 0.2
+
+Anthocomus coccineus hyg pal- ary 04 06
+
+Aphidecta obliterata sikarb 06
+
+‘Aphodius ater cop pra 03
+
+Aphodius contaminatus psa 05
+
+Aphodius fimetarius cop 10 03° 05
+
+Aphodius pusillus x pra 02
+
+Athous haemorrhoidalis arb 43
+
+Athous subfuscus sil-wr 06
+
+Athous vittatus silwr] 02 05 03
+
+Atomaria analis pra 02
+
+Atomaria atricapilla x pra 09 03
+
+Atomaria pusillasil 03
+
+Axinotarsus marginalis pra| 0.2
+
+Axinotarsus pulicarius pral 02 24
+
+Bembidion lampros av} 05
+
+Bembidion tetracolum hygpra} 03
+
+Brachypterus urticae 05 39 04 o8| 24
+
+Bruchidius villosus xant 15 02
+
+Byrrhus pilula pra 02
+
+Byturus ochraceus ant pra}02 8.7
+
+Byturus tomentosus ant arb 13 03
+
+Cantharis fulvicollis hygpra 57 13
+
+Cantharis fusca x 06 03
+
+Cantharis lateralis x 59 72 02 03 48
+
+Cantharis livida x 02 05
+
+Cantharis nigricans sil 05 06
+
+Cantharis pallida 03
+
+Cercyon obsoletus hyg-sap | before 03
+
+Cercyon pygmaeus hyg-cop 02
+
+457
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+pe 2
+s =z .|/P & &
+2 og 2 2|i 2 gi
+B Z| b 5 8 ¢g 3
+| «2 F 3/2 2 2 |i #
+Kind<=£/=6£6/G=8 BIE B
+Charopus flavipes pra| 02 10 03 03] 24
+Chrysanthia nigricornis, ant pra 71
+Cicindela hybrida psa 05
+Cidnopus aeruginosus xant arb] 0.2 03° 08
+Cidnopus minutus x-ant arb] 0.2 06 08
+Cidnopus pilosus xeant arb 02 25 40
+Clanoptilus marginellus xantpra| 18 48 43 02 12
+Coccidula rufa 10
+Coccidula scutellata pal] 05
+Coccinella hieroglyphica tyr pra 02
+Coccinella septempunctata 06 05 07 08 05) 24 06
+Coccinella undecimpunctata hal 02 06 03
+Cordylepherus viridis xant pra] 10.9 115 104 90 33 18 40] 190 06
+Corticarina fuscula 06
+Cortinicara gibbosa 10 02 03
+Crypticus quisquilius psa 02
+Cryptopleurum minutumhyg 03
+Cynegetis impunctata hygpra] 0.2
+Cyphon padi hyg pal 02
+Cyphon phragmiteticola hyg pakarl 05 © 05
+Cyphon pubescens hyg pal 05 02
+Dalopius marginatus sil | 03 15
+Dasytes flavipes x-ant 02
+Dasytes plumbeus arb} 0.2 78 06
+Dictonychus cinereus x arb] 02
+Dolichosoma lineare x pra] 05 48 07 18 08| 24 45
+Dromius linearis x 05
+Dryophilus pusillussil 02
+Enicmus transversus 0.6
+Geotrupes stercorarius cop pra 02
+Harpalus pumilus x 15
+Harpalus tardus x pra| 0.2
+Helophorus granularis 02 02 03
+Hemicrepidius hirtus arb] 0.2
+Isomira murina x-antarb-wf 1.9 06 21 03) 48
+Kateretes pedicularius hyg pal] 0.2
+Lagria hirta x wl 10 39 03 24
+Latridius minutus 14 02 03
+Leptura livida ant 04 03 13
+Leptura rubra sil 03
+Meligethes aeneus ant 55 33 52 179 133° 40 5.1
+Meligethes coracinus ant 13
+Meligethes egenus ant pra 05 06 37 19
+Meligethes planiusculus xant 02
+Meligethes tristis x-ant 05
+Meloe violaceus x 0.2
+Melolontha melolontha sil-arb O4
+Microlestes minutulus xhel 02
+Mordellistena parvula xant 04 12 13
+Mordellistena pumila xant 02 06
+Notiophilus biguttatus x sil 02
+Notiophilus germinyi x pra| 0.2
+‘Notoxus monocerus x 1819 15 06 «18 05| 24
+Oedemera femorata antx pra 02
+Oedemera lurida xant 3410-78 60 11 31 321 48 97
+
+458
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+5 zo. = p B
+cs ¢ 8 3 3
+ge 3]. £2/2 ¢ 4 ~|2 2
+a| 2zz & 3/8 © 5S EB €
+Kind £2 2/2 @ 2 6|8 2% £\/E 8
+Olibrus aeneus xant 02 05 020 «15 2A 06
+Olibrus bicolor xant her 19
+Olibrus corticalis xant 13
+Olibrus millefolii xeant 03 06
+Opatrum sabulosum x-psa_ pra 15 09
+Phalacrus caricis pal 12
+Phalacrus substriatus hyg pra-w! 03
+Phyllopertha horticola pral 03 04 09 05
+Poecilus lepidus x 03
+Polygraphus poligraphus sil | 02
+Propylea quatuordecimpunctata arb] 14 07 03 32
+Prosternon tessellatum sikwr| 16 05 18 05
+Psyllobora vigintiduopunctata x 13 30 02 03
+Rhagonycha gallicasil 13
+Rhagonycha fulva xant 22 48 13 43] 15 06 06 05) 48 26
+Rhagonycha limbata arb-wr 1502 03
+Rhagonycha lutea x arb 14
+Selatosomus aeneus arb 03
+Silis ruficollis hyg pal] 02
+Sphaeridium lunatum cop 02
+Stephostethus lardarius pra 05
+Stilbus atomarius x pra 02
+Stilbus oblongus palaru 03
+Strangalia melanura antsil} 05 05 13 15
+Subcoccinella vigintiquatuorpunctata x 02
+Synchita humeralis sil 24
+‘Trixagus dermestoides arb 43
+‘Typhaeus typhoeus x 06
+Tytthaspis sedecimpunctata _psa-hal 167 124 43] 104 20 74 64| 48 26
+Variimorda fasciata ant pra 05
+Individuals: 3 209 «77-3 | 67 «543 326 «374 | 42 154
+Butterflies (Lepidoptera)
+Abraxas sylvatasil | +
+Adscita statices hyg pra +
+Aglais urticae n pra} + + + +
+Anthocharis cardamines pra] + +
+Aphontopus hyperanthus wr| + + + + +
+Aricia agestis xcal pra +
+Artogeia rapae + + + + + + +
+‘Coenonympha glycerion hyg pra +
+Coenonympha pamphilus pra] + + +
+Gonoepteryx rhamni wr +
+Hesperia comma xecal pra + +
+Issoria lathonia x des +
+Lycaena phlaeas x pral++
+Macrothylacia rubi prah +
+Maniola jurtina + + + +
+Melanargia galathea wr} + + +
+Opisthograptis luteolata wr + +
+Petrophora chlorosata h+
+Phalera bucephala sil
+Pieris brassicae pra +
+Polygonia C-album sil +
+Polyommatus icarus prvh + + +
+
+459
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+pe a
+<s = ./5 gz
+£2 2/2 2nd =
+2 2/23 <¢ £ g\|2 = 2 2
+Art =z} 6 FE O/S FE KF FR 35
+Pyrgus malvae pra} +
+Thymelicus sylvestris pra] + + + + +
+‘Timandra griseata hyg des +
+Vanessa atalanta ant-n+
+Zygaena filipendula ant pra + + +
+Individuals: B 3 4 o| 4 38 2 4) 4 7
+Grasshoppers (Saltatoria)
+Chorthippus albomarginatus hyg pra| 183 22.0 167 N2 31 71) 66 42
+Chorthippus apricarius x pra} 159 40
+Chorthippus biguttulus x pra] 23.2 180 820 609 786| 33 333
+Chorthippus brunneus x pra} 3.7 40 16.7 667 Ll 17.2 82 125
+Chorthippus dorsatus hyg pra 16
+Chorthippus parallelus pra] 1.2 16
+Conocephalus dorsalis hygrip] 61 180 82
+Meconema thalassium hel arb 20
+Metrioptera roeselii wrh 31
+Myrmeleotettix maculatus x oh | 49 45.9 250
+Omocestus haemorrhoidalis x des! 1.2 10.9 197 83
+Pholidoptera griseoaptera sil | 146 50.0 333 22 36) 82 42
+Tetrix subulata hyg pal-pr il 16 36 42
+Tetrix tenuicornis x oh 16.0 i 42
+Tetrix undulata hyg 37 Vl 42
+Tettigonia cantans hygral 61 20 167
+Tettigonia viridissima psa pra} 12 140 71
+Individuals: 2 5 6 O| 3 89 6 2 | 6 2
+Other insects
+Abia sericea pra 15
+Amphigerontia bifasciata arb 36
+Andrena labiata psa-ant 4s
+Anisochrysa carnea 19 15 32 18
+Anisochrysa prasina 36
+Aphalara polygoni 09 32
+Apis mellifera ant 26 13 18 100
+Arytaina genistae arb 25
+Arytainella spartiophila arb 13
+Beris clavipes hyg 09 59
+Beris morrisii hygrip] 0.9 59
+Bombus lapidarius pra 19 45 18
+Cacopsylla brunneipennis arb} 09
+Cacopsylla hippophaes arb| 35 15 45
+Cacopsylla melaneura arb 34
+Cacopsylla run arb| 44
+‘Chamaepsylla hartigii arb| 105 36 100
+Cheilosia albitarsis ant 09 34
+Chloromyia formosa anthel 44-19 310 75 30 32 us| 36
+Chrysopa perla sil] 09 19 34
+Chrysotropia ciliata 09 34 gs
+Craspedolepta campestrella 103
+Ectobius silvestris sil 34
+Enallagma cyathigerum tyr rip 15
+Episyrphus balteatus 35 283 15
+Eristalis horticola 32
+Geocrypta gallii pra 1s
+
+460
+
+ 
+
+ 
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+4 23/2 F5
+~ 2
+g 2). £2|2 @ x Z
+# 2/3 2 &§ 3|8 £2 £\/z2 28
+Kind =< =£/ 2 6 © G@/G5 FB & B/E SF
+Helophilus trivittatus 32
+Ischyrosyrphus laternarius ant 34
+Isnura elegans rip 15
+Melanostoma mellinum 53 13° 273° 355 47.1 20.0
+Metasyrphus corollae 19.7
+Metasyrphus lapponicus ants 09
+Nemotelus nigrinushyg 18
+Nemotelus notatus halrip} 18 25
+Nemotelus uliginosus hygrip| 35 75
+Neoascia tenur hyg pal 200
+Oplodontha viridula hyg 09 18
+Oxycera fallenii hyg wr} 18
+Oxycera trilineatahyg 09
+Panorama cognata 09
+Panorpa communis 35 19 2.9) 97
+Parasyrphus annulatus sil | 09
+Platycheirus clypeatus pra} 0.9 3.2
+Platycheirus peltatus ant 59
+Psilota anthracina ant 138 59 10.0
+Psylla alni arb 73
+Psylla betulae arb 18 170 564
+Payllopsis fraxinicola arb} 13,2
+Rhogogaster viridis wr 32
+Sargus bipunctatus 26 208 32
+Scaeva selenitica sil19
+Sericomyia silentis hyg oh 19
+Sphaerophoria menthastri hyg pra 15
+Sphaerophoria scripta 5319 167 161 59 100
+Sphegina elegans hyg pal-sil 59
+Sympetrum sanguineum an rip} 09 30
+Syritta pipiens 75 15
+Systropha curvicornis ant 13
+Tabanus bovinus hyg pra 18
+Tipula maxima sil 20.0
+Tipula oleracea pra] 18 61 65
+Trioza chenopodii 09
+Trioza galii 65
+Trioza urticae n 14.9 38 172 794] 125 45
+Xanthandrus comtus ant 34
+Xanthogramma pedissequum ant 09 34
+Individuals: 14 53 2 34 80 66 31 oa 55 (10th
+Spiders (Araneida)
+Achaearanea lunata 77
+Alopecosa cuneata o1
+Anelosimus vittatus sil 36
+Araeoncus humilis 12 36
+Araniella cucurbitina sil 24
+Araniella opistographa sil 48
+Argiope bruennichi pra} 12
+Baryphyma pratense 36
+Bathyphantes gracilis 24 2B, 72 91
+Clubiona lutescens 19
+‘Clubiona reclusa 12
+Dictyna arundinacea 154
+
+461
+
+ 
+
+ 
+
+Riparian biotopes grazing fish not NSG
+4 z= .~|2 F =
+ze £3 2/2 €s 2
+fe 2/3 « & 2/2 = 2 =: 2
+Type <£/3 6£ O/S FE H #3
+Dismodicus bifrons 12
+Enoplognatha ovata 133 385 643) 500 12 91} 604
+Entelecara acuminata 24
+Erigone arctica 72 48
+Erigone atra 33 S71 7 45 120 143 182) 38
+Erigone dentipalpis 48 24 182| 38
+Erigone longipalpis hal pra] 12
+Evarcha falcata 36 45 57
+Gnathonarium dentatum 12
+Gongylidiellum rufipes 12
+Heliophanus cupreus 24 91
+Heliophanus flavipes 45° 48 19
+iypomma fulvum 12
+‘Hypsosinga pygmaea 19
+Lepthyphantes mengei 19
+Lepthyphantes tenuis 154 45 91
+Linyphia hortensissil 12
+Linyphia triangularis 12
+Mangora acalypha 12 48 19 769
+Meioneta rurestris 12 91) 38
+Metellina Mengei 77 143)
+Metellina segmentata 48 91
+Micrargus herbigradus 12
+Microlinyphia pusilla 36 71 12 38
+Neriene peltata sil | 24
+Oedothorax apicatus 36
+Oedothorax fuscus 71 143
+Pachygnatha clercki 143
+Pachygnatha degeeri 12 143
+Paidiscura pallens 24
+Pardosa lugubris 12
+Pardosa monticola 24
+Pardosa pullata 45° 12
+Pelecopsis parallela 24
+Philodromus aureolus sil 60
+Philodromus cespitumsil 143 45 36
+Philodromus praedatus sil 12
+Pisaura mirabilis 24
+Porrhomma microphthalmum o1
+Porrhomma pygmaeum 143 143
+Tetragnatha extensa 36 143
+Tetragnatha montana 12
+Tetragnatha obtusa sil 12
+Theridion bimaculatum 12 12 57 77
+Theridion imprint 24 77 45
+Theridion mystaceum 12
+Theridion simile h 12
+Theridion sisyphium 12 24
+Theridion varians 24 38
+Tiso vagans 12 12
+Xysticus cristatus 12 91 36 28.6
+Xysticus erraticus h 12
+Individuals: 8 7 B wi] 2 8 %7 Nn | 3 23
+
+462
+
+ 
+
+ 
+
+ 
+
+Influence of grazing on the number of species
+
+The number of species for three orders of insects determined using the rarefaction method
+led to the following results (Fig. 3): ungrazed shore areas became special
+preferred by the Rhynchota and to a lesser extent by the Diptera. The species-
+numbers were above average here. The Rhynchota, especially the Auchenorrhyn-
+cha, proved to be sensitive to grazing on the variants with cattle grazing. Small and also very different numbers of species were determined. The Coleoptera showed a similar picture: the areas grazed by cattle were
+inhomogeneous in their number of species. Above-average numbers of species were found on the
+survey sites grazed by sheep and goats. the ungrazed
+ten shore areas, on the other hand, only had an average number of species, which in all
+biotopes were at the same level. No clear grazing reaction was observed for the Diptera. while the
+Pasture areas on the Hirtenberg were clearly preferred by the Diptera, the fell
+other grazing variants due to very low numbers of species. Habitat preference and insect-plant relationship
+
+Three roughly equal groups with distinct habitat preferences contributed to about
+85% of the total species spectrum. Praticole species have the largest share with 34%,
+followed by Eurydca and Silvicole species. If one considers the individual share of the
+ticolen species make up as much as 71% of the total number of individuals. The egg-
+Actual bank species were only represented with 6% of the total species population. It could-
+ten also halophilic species are detected, but here only a subordinate
+Role-play. The
+arenicolic species, which are represented here with 3%. Because of the preservation, which is the priority for the NSG as an environmental quality objective
+the dry grassland, the xerophilic species deserve special attention (Fig. 4). the
+drought-loving insects reached proportions of over in all grazed areas
+30% The differences between the grazing forms, however, were only small. The maximum occurred in a steep slope area eroded by trespassing, which with
+sheep was grazed. The comparison biotopes on sand were extremely dry locations,
+especially the Baltic coast dunes near Weissenhaus, where almost half of the insect species
+drought loving. Distinguish between the pasture and reference biotopes on sand
+differ statistically significantly from the bank biotopes (Fig. 4). In the bank biotopes are
+on average 20 + 8%, in the pasture biotopes 33 + 5% and in the comparison biotopes
+32 + 4% xerophilic insects represented. Pasture and comparison biotopes thus possessed significant
+notably (p < 0.01) more xerophilic species than in the riparian biotopes. High proportions of hygrophilic species are compared to those just mentioned as negative criteria.
+rium for dry grassland (Fig. 4). The bank biotopes have one on average
+Proportion of 12 + 3% hygrophilous insects, the pasture biotopes of 6 + 2% and the
+Sand biotopes of 8 + 2%. The pasture biotopes and the sand biotopes differ
+thus significantly (p < 0.01) from the riparian biotopes due to lower proportions. The slightest
+Shares of hygrophilous species occur on the crest of the Hirtenberg, the highest
+Shares with 18% reached the headwaters. The flats grazed by sheep, especially
+those on the Ginsterberg showed fewer proportions of hygrophilic species than the others
+grazing variants. 463
+
+Rhynchota
+
+ungrazed | Pasture at Hirtenberg Pasture at Ballastberg
+biotopes near the shore cattle/sheep cattle sheep
+
+lol
+
+Mh Dun Hw Tw Psw Dus! Hbm Hbs Hbni Hbn2) Ru Ro
+
+9
+
+    
+
+number of species
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sh So Su Sm
+
+Coleoptera
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hbm Hbnt Hbs Hbn2
+
+ 
+
+Diptera
+
+ 
+
+a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig 3: Species numbers of the Rhynchota, Coleoptera and Diptera according to the rarefaction method for
+10 individuals (Rhynchota and Coleoptera) or 30 individuals (Diptera) (abbreviations safe
+Chapter 2.3; Explanation of symbols: .........total mean -——--- group mean). 464
+
+7 Hygrophilous Species
+
+40 ungrazed pasture biotopes ungrazed comparison
+biotopes near the shore biotopes on sand
+
+yes
+
+Source West East Forest Hi
+
+2
+S$
+
+Portion (%)
+y
+8th
+
+ 
+
+ 
+
+S
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ea
+
+[ie
+it Cattle Sheep Ginst Diinen Pét Sand Kies-K Kies-W
+
+Xerophilic species
+
+ 
+
+ 
+
+50
+
+Portion (%)
+8 8
+
+3
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+East West Forest Spring Cattle Ginst Sheep Shepherd Diinen Kies-W Kies-K Pot Sand
+
+fig 4: Shares of hygrophilic and xerophilic insects in the total species population (for abbreviations, see
+Chapter 2.3). On the pastures are approx. 50% of insect species praticol. As meaningful to
+Evaluation of the dry grassland appear here the arenicolen, ie. Sand biotopes preferred
+ing insects, which only occur in small proportions, but a high proportion
+Possess an indicator value (Fig. 5). Their share in the grazing areas is on average 3.4 + 2%. These areas thus showed significantly (p < 0.01) more arenicole species than the non-
+grazed shore biotopes. Pasture and reference biotopes, on the other hand, were not significant
+distinguished. The typical sand biotopes of the WeiRenhauser and Pétenitz coast
+duines show significantly higher proportions of up to 7%, some of the ungrazed biotopes,
+e.g. the hillside forest, no arenicole species. The proportions of forest and tree-dwelling species must be considered differently
+(Fig. 5). On the one hand, high proportions of silvicol species indicate the threat of forest cover,
+i.e. towards the overgrowth of the open areas, on the other hand are in a dog landscape
+Bit quite desirable, so the forest edge species can be considered positive for one
+Hudelandschaft be evaluated and the silvicolen as negative. The Arboricolic Species
+should only play a subordinate role in the assessment of the dog landscape. Summarized as silvicole, arboricole, and forest edge species, the median was up
+
+465
+
+35
+
+Arenicole species
+30 ungrazed pasture biotopes ungrazed comparison
+2s/ biotopes near the shore biotopes on sand
+= 20
+2
+215
+10}
+
+a
+
+(Loom fail oom oom al el oa
+
+East West Spring Forest Shepherd Sheep Cattle Dinen P&t Sand Gravel-K Gravel-W
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Silvicole species i.w. Portion (%)
+~ =
+sa 8
+
+a
+
+    
+
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i' i 1. Spring Forest West East Ginst | Herdsman Sheep Cattle Pét Kies-K Sand Diinen Kies-W
+
+fig 5: Percentages of arenicole and silvicole insects in the total species population (for abbreviations, see
+Chapter 2.3). Tab. 2: Host binding and number of phytophagous insect species from Kescherfingen on the Untertrave
+1995-1996, Abbreviations of Insect Orders: Auch-Auchenorrhyncha (Cicadas), Col-Coleoptera
+(beetles), Het-Heteroptera (bugs), Lep-Lepidoptera (butterflies), Ste-Sternorrhyncha (leaf fleas). Species/Genus/Family German Number Insect order
+1. trees and shrubs
+
+Alnus Alder 7 Auch-Col-Ste
+Betula Birke 7 Auch-Het-Ste
+Quercus Oak y, ‘Auch-Col
+Salix Willow 5 Col-Ste
+Carpinus Hornbeam 4 Also
+Sarothamnus scoparius _ Broom 4 Col-Ste
+Fraxinus Ash 3 Col-Het-Ste
+Corylus avellana Hazel 2 Also-Het
+Crataegus haw&thorn 2 Lep-Ste
+Ulmus elm 2 too
+Hippophae rhamnoides — Sea Buckthorn 1 Lep
+
+466
+
+Species/Genus/Family German Number Insect order
+
+ 
+
+Minus apple 1 col
+
+Pinus spruce 1 Het
+Populus tremula Quaking Poplar 1 Also
+Prunus plum 1 Ste
+Rhamnus Buckthorn 1 Lep
+
+- otherwise. Trees/shrubs 15
+
+2. Griiser
+
+Poa meadow grasses 8 Col-Het-Lep
+Deschampsia Schmiele 4 too
+Agropyron repens Creeping couch grass 2 Also
+Agrostis Straussgrass 2 Also-Het
+Arrhenatherum elatius Oatmeal 2 Also
+Dactylis glomerata Cocksfoot 2' too
+Elymus arenarius Sea rye 2 Auch-Het
+Phragmites australis reeds 2 too
+Ammophila beach grass 1 too
+
+- other grazers 41
+
+3. sedges
+
+Carex Sedge 6 Auch-Het-Salt
+Bolboschoenus maritimus Gem. Beach ledges 1 too
+Carex arenaria Sand Sedge 1' too
+Juncus effusus European Rush 1 Also
+
+- other sedges 2
+
+4. herbs
+
+Rumex Ampfer 16 Col-Het-Lep
+Trifolium Klee 12 Col-Het
+Urtica dioica Common nettle i Auch-Col-Het-Lep
+Cruciferae Cruciferous 9 Col- Lep
+Compositae Korbblitler 8 Col
+Plantago plantain 7 col
+
+Vicia Wicke 6 Col
+Achillea millefolium. Common Yarrow 5 Col-Het
+Cirsium Distel 5 Col-Het
+Galium bedstraw 5 Col-Het-Ste
+Papilionacae Schmettelingsbliitler 5 Col- Lep
+Chenopodium Gansefu8 4 Col-Het-Ste
+Campanula Bellflower 3 Col- Het
+Hieracium pilosella Little hawkweed 3 Auch-Het
+Medicago Snail Clover 3 Col
+Polygonum Knéterich 3 Col-Ste
+Artemisia campestris mugwort & 2 Het-Ste
+Boraginacae Roughleaf 2 Col-Het
+Brassica cabbage 2 col
+Calluna Heide 2 Col- Lep
+Echium vulgare Viper Bugloss 2 col
+Hypericum St. John's Wort 2 Col
+Matricaria Chamomile 2 col
+Melilotus sweet clover 2 col
+Mentha Peppermint 2 col
+Ononi's restharrow 2 col
+Senecio Groundsel 2 col
+Tanacetum vulgare tansy 2 col
+Verbascum King Candle 2 col
+Anthyllis vulneraria kidney vetch 1 col
+
+- other herbs 56
+
+467
+
+9 + 8% for grazing areas, compared to 17 + 12% for riparian biotopes. The three different
+restricted biotope types were not statistically significantly different. Phytophagous insects were the focus of this study and prevailed
+the recording method used accounts for a high proportion of approx. 75% of the total
+species population. Predators represented 15% of the species. Monophagous insects, i.e.
+bound only to a host plant, had proportions of up to 20% of the phytophages
+Species. The host plant attachments of the insects are given in Table 2. Of great
+meaning are the specific bonds to certain plant species, since with the
+If one plant species is lost, the existence of many insect species is threatened at the same time. The list showed that grazers and sedges are mostly selected rather unspecifically
+will. It was striking that it was mainly Rhynchota on the monocotyledonous plants
+zen were to be found. There is a close relationship between insects and plants
+against the herbs, especially between beetle and herb species. A special
+In this study, the Rumex species played a role as food plants
+visited by 16 species of insects. In second place is the genus Trifolium,
+which was the food base for 12 species of insects, followed by Urtica dioica with 11
+reported phytophagous species from four insect orders. Also those in semi-dry
+plants that are common in lawns usually had more than one species of insect associated with them:
+Plantago lanceolata 4-7 species, Medicago sp. 3 beetle species, Hieracium pilosella 3 species, etc. The occurrence of specific phytophagous insects on the
+endangered plant species such as e.g. Cynoglossum officinale, Anthyllis oulneraria
+or Medicago falcata. With more suitable investigation methods could also with the
+Trees and shrubs are expected to have a higher number of species. The Subatlantic, and
+therefore Sarothamnus scoparius, standing in the area on its eastern border, had 4 more
+bound insect species. When assessing the condition of a dry grassland, anthophilic insects have a
+special meaning. The carpet of flowers represents a summery meadow with many
+butterflies and other flower-visiting insects a desirable environment
+world quality target. In this study, 3.4% of the insect species could be classified as antho-
+to be called phil. These species can occur very frequently, e.g. in high,
+flowering perennials such as Melilotus alba on the north bank of Dummersdorf. Here 14
+hophilous insect species encountered. In the grazed dry grassland were among the
+At the time of the investigation, however, only a maximum of 5 anthophilic species were detected. Rare and endangered species
+
+The frequency data for beetles (Tab. 3) refer to information in the catalog of
+Beetles of Schleswig-Holstein (GURLICH et al. 1995). Accordingly, in the investigation
+offer 34 beetles of the category very rare (ss), rare (s) and fairly rare (zs) encountered
+will. The one that occurs in Schleswig-Holstein exclusively on the Dummelsdorfer Ufer
+Riisselkaifer Mogulones cruciger (ZIEGLER 1993), the monophagous dog tongue (Cynoglos-
+sum) lives, could also be proven again. With the rare beetles
+there is an above-average number of xerophiles (15% more than in the total species
+medium) and praticole species (17% more), reflecting the importance of grazed dry grassland
+underlines. The highest number of rare beetles was recorded at Hirtenberg with 18 species.
+striert, followed by the two grazing plots (sheep, cattle) each with 9 species (Fig. 6). In the other groups of insects, the evidence of the long-feathered grasshopper,
+Interesting Tetrix tenuicornis, a warm-loving grasshopper previously only found in the
+
+468
+
+Tab. 3: Rare beetle species on the Dummersdorfer Ufer from Kescherfang 1995-1996 (categories by
+Gortice et al. 1995 Abbreviations: claim see Table 1, categories: zs-fairly rare, s-rare, ss-
+very rare). Art Fam claim cat
+Adrastus rachifer Elateridae x ss
+Antherophagus nigricornis Cryptophagidae xant zs
+Atomaria analis Cryptophagidae s
+Cassida nebulosa Chrysomelidae 2s
+Cassida nobilis Chrysomelidae zs
+Cercyon obsoletus Hydrophilidae —_hyg-sap ss
+Clanoptilus marginellus Malachidae x-ant zs
+Coccinella hieroglyphic Coccinellidae tyr s
+Cryptocephalus vittatus Chrysomelidae x s
+Cryptocephalus vittula Chrysomelidae x s
+Geotrupes stercorarius Geotrupidae cop s
+Gonioctena decemnotata Chrysomelidae zs
+Harpalus pumilus Carabidae x zs
+Hypera venusta Curculionidae x s
+Longitarsus ganglbaueri Chrysomelidae x s
+Longitarsus pellucidus Chrysomelidae 8s
+Meligethes egenus Nitidulidae ant s
+Meligethes planiusculus Nitidulidae x-ant s
+Microlestes minutulus Carabidae xhel zs
+Mogulones cruciger Curculionidae x ss
+Oedemera femorata Oedemeridae ant-x s
+Olibrus bicolor Phalacridae x-ant ss
+Oxypoda funebris Staphylinidae hyg zs
+Paederus litoralis Staphylinidae x zs
+Phalacrus substriatus Phalacridae hyg s
+Phyllobius argentatus Curculionidae s
+Phyllobius viridicollis Curculionidae hels
+Phyllotreta poeciloceras Chrysomelidae zs
+Phyllotreta vittula Chrysomelidae zs
+Protapion filirostre Apionidae x 2s
+Protapion trifolii Apionidae x s
+Squamapion atomarium Apionidae x zs
+Strophosoma fulvicorne Curculionidae x zs
+Tropiphorus terricola Curculionidae s
+
+Lauenburg area was known (LUNAU 1950). The leafhopper Ledra aurita could
+at the edge of the forest on the Hirtenberg, a species that is probably less
+rare, but difficult to find due to their camouflage coloring. The orb-weaver Hypsosinga pygmaea was considered an excellent
+died, she was found in the Pétenitz Baltic Sea dunes. According to previous studies in Germany and Schleswig-Holstein
+A total of four species of long-legged and dance flies (Empidoidea) are considered rare
+will. As the first record for Germany, Hilara platyu-
+ra (Empididae) have been detected, which so far have only been found from pond banks in Great Britain
+
+469
+
+40 Rare Bugs
+
+ungrazed pasture biotopes ungrazed comparison
+30 biotopes near the shore biotopes on sand
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ok
+Oe East West Spring Forest Hitt Sheep Cattle Ginst Kies-K Pét Dinen Kies'W Sand
+
+Red List species
+
+40
+
+30
+
+Portion (%)
+NY
+8th
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ea
+
+i
+West East Forest Quell Hirt Sheep Cattle Ginst Gravel-K Pdt Gravel-W Sand Dilnen
+
+ 
+
+fig 6: Percentage of rare beetles and endangered insects (Schleswig-Holstein Red List) in the total
+species population (see Chapter 2.3 for abbreviations). (COLLIN 1961) and from the Czech Republic (CHVALA 1975). As a second proof for
+Germany could Tachydromia morio (Hybotidae) be confirmed, which also on the banks of the Elbe
+was found by STARK & LEHMANN (1999). Tachydromia morio is in Fennoscandia
+widespread and prefers coastal areas and the sandy shores of lakes
+and Fliissen (CHVALA 1975). Species rarely found in Schleswig-Holstein
+(Kroser 1930-1958) were the Dolichopodidae Asyndetus latifrons and Hercostomus rusticus. Evidence of the wasp spider Argiope bruennichi on the south bank of Dummersdorf
+belongs to a number of other records of this type since 1995 in Schleswig-Holstein
+another area spread of this species that has been observed for a long time in the south
+animals (WINKLER 1998). In the overall study, 147 Red List species could be identified
+which 80 species in the narrower sense occur on the Untertrave and in the RL Schleswig-
+Holstein are mentioned (Tab. 4). The highest number of Red List species (SH) with 37 species
+was registered on the Hirtenberg, followed by the pasture parcels south of it
+
+470
+
+Tab. 4: Red list of arthropods from Dummersdorfer Ufer from Kescherfang from 1995-1996. Abbreviations: biotopes see Chapter 2.3, insect orders: Ara-Araneae (spiders), leaf-leafaria
+(cockroaches), Col-Coleoptera (beetles), Lep-Lepidoptera (butterflies), Salt-Saltatoria (locusts);
+Categories: 0-extinct or missing, 1-critically endangered, 2-endangered, 3-endangered
+det, p-potentially endangered, g-endangered, v-declining, a-dispersal species, w-
+peregrine. ungrazed willows
+RL Category | ulemane biotones
+
+Art Famille ord sh wero) Ss § 8 F 68 Pu «
+
+Adrastus rachiter Elateridae Cl pp x
+
+Adscita statices Zygoenidze = Lep 32 x
+
+‘Antherophagus nigricomis Cryptophagidae Col 3 © 3 x
+
+‘Anthocharis cardamines Pieridae lep ov 2 x x
+
+Anthonomus pomorum Curculionidae Col «3 x
+
+Aicia agestis Lycaenidae = Lep,sv 2x
+
+Baryphyma pratense Linyphiidae Ava 3 3x
+
+Cassida nebulosa Chrysomelidae col3 3x}x
+
+Cassida nobils Chiysomelidae Col 3 3x
+
+Cassida sanguinolenta Chiysomelidae Col «3 x x x
+
+Cassida sanguinosa Chrysomelidae col3 3x
+
+Cercyon obsoletus Hydrophiidae Col «opp x
+
+Chorthippus biguttulus _Acrididae Sat 3 2 x x x x x x
+
+Chorthippus dorsatus Acrididae Sat2 2x
+
+Cidnopus pilesus Elateridae Cl opp x x x
+
+Clanoptiis marginellus Malachiidae Col «2 x x x] ox x
+
+Coccinella hieroglyphica Coccinelidae Col «=«2:«—« 23. x
+
+Coenonympha glycerion _Satyridae lep 4 4 3x
+
+Crepidodera plutus Chyysomelidae Col pp x
+
+Cryptocephalus vitatus Chrysomelidae Col 2 2 x x
+
+Cryptocephalus vitula Chrysomelidae Col 2 2 3 x ox x
+
+Ectobius silvestris Eclobiidae Bat 3x
+
+Galerucella grisescens Chrysomelidae Col 3 «3 x
+
+Geotrupes stercorarius Geotrupidae Col «2-2 x
+
+Gonicctena decemnotata Chrysomelidae Col 3 3x
+
+Harpalus pumilus Carabidae = Col «933 x
+
+Hesperia comma Hesperiidae Lep 2 «23 x x
+
+Hispa atra Chiysomelidae Col3 3x
+
+Holotrichapion ononis _—_Apionidae cl 3 3x
+
+Holotrichapion pisi Apionidae Cl3 3xx
+
+Hypera venusta Curculionidae Col2 2x
+
+Hypomma fulvum Linyphiidae Ara 3 3] x
+
+Hypsosinga pygmaea =» Araneidae, «= Ara. 2 3x
+
+Issoria lathonia Nymphalidae Lepa2x
+
+Longitarsus anchusae Chrysomelidae col3©3x
+
+Longitarsus atricilus Chrysomelidae col3©3xx
+
+Longitarsus ganglbaueri Chrysomelidae Col «2 = 2 x
+
+Longitarsus jacobaeae Chrysomelidae Col3 © 3 x x x x x
+
+Longitarsus pellucidus Chrysomelidae Col 91 1 x x x
+
+Longitarsus tabidus Chysomelidae col3 3x
+
+Mecinus janthinus Curculionidae Col 33x
+
+Melanargia galathea Satyridae lep 3 2 x x x
+
+Meligethes egenus Nitiduidae Col «22 x x x x
+
+Meligethes planiusculus Nitidulidee ©» Col'_« « 22 x
+
+Meloe violaceus Meloidae Gl3 3 3x
+
+Microlestes minutulus Carabidae = Gol' 33 x
+
+Mogulones cruciger Curculionidae Col «1 1 x
+
+Notiophilus germinyi Carabidae = Col «O33 | x
+
+Omocestus haemorrhoidalis Acrididae sat 2 1 g|x x x
+
+Ousipalia caesula Staphylinidae Col 33x
+
+Oxypoda funebris Staphylinidae Col 3 3 3] x
+
+COxystoma pomonae Apionidae Gl3 3xx
+
+Paederus itoralis Staphylinidae Col «33 x x x x
+
+Phalacrus substriatus Phalacridae © Col «22S x
+
+Philodromus praedatus Philodromidae. Macaw 3x
+
+471
+
+ungrazed pastures
+
+ 
+
+RL category near-shore biotopes _
+esp
+art family ond sh mero] s 3 8 £ 6/8 2 wo «
+Philonthus nitidulus: ‘Staphylinidae_ Col 3 3 x
+Phyllotreta atra Chrysomelidae Col 3 3x
+Phylioteta poeciloceras Chiysomelidae Col «33 x x
+Phyliotreta vittula Chrysomelidae Col 3 3 x x xx
+Polygonia c-album Nymphalidae Lep v2 x
+Protapion filirostre Apionidae col3 3x
+Protapion trifolii Apionidae Col 2 2 x x
+Pseudostenapion simum Apionidae Col 3 3x
+Psylliodes weberi Chrysomelidae col 2 2 3x
+Pyrgus malvae Hesperiidae Lep2o vix
+‘Sphaeroderma rubidum Chrysomelidae Col 3 3 x
+Squamapion atomarium _ Apionidae Co 2 2 x x
+‘Stenopterapion tenue Apionidae Col 3 3 x x
+‘Stenus pubescens ‘Staphylinidae Col 3 3 x
+Strophosoma fulvcorne Curculionidae Col «22 x
+Tetrix subulata Tetrigidae Salt 2 1 x xX Xx
+Tetrix tenuicomnis Tetrigidae Sat 1 4 x x
+‘Theridion simile ‘Theridiidae Ara Pp x
+Trichosirocalus barnevillei Curculionidae Col3 3x
+Tropiphorus terricola Curculionidae Col «22 x
+Typhaeus typhoeus Geotrupidae Col «33 x
+Vanessa atalanta: Nymphalidae Lep w x
+Xantholinus laevigatus _—-Staphylinidae © Col «33 x
+Xysticus erraticus Thomisidae Macaw 3x
+Zygaena filipendula Zygaenidae Lep3 1xx
+Total wis 4.2 27 7 22
+
+len with 22 or 21 species (Fig. 6). On the Ginsterberg, however, came despite suitable
+Habitats for rare insects remarkably little endangered species. The examination of the biotope claim of the identified endangered insects revealed
+above-average number of xerophilic and psammophilic Red List species. Likewise are
+halophilic species are more than average represented, while the Eurydca and Silvico-
+species in the area can be considered less endangered. Insects in historical comparison
+
+Looking at the faunistic results of the 1930s (DENKMARAT 1932) with the
+today's catch results, one notices large changes. In the group of
+Rhynchota resulted in total species numbers remaining approximately the same, however
+only half of the species (102) were continuous. 130 species could not be found again
+and 109 species were newly detected. The recent species composition
+reveals lower proportions of arboricole, limnicole and forest edge species. higher
+Proportions, however, could be registered for arenicole, praticole and euryéke species. Newcomers are found mainly in the xerophilic and psammophilic Rhyn-
+chota, ducts in the amphibious and predatory species. 472
+
+The conditions in the Coleoptera are as follows:
+
+ 
+
+Species of it Red List Species
+Beetles from the 1930s (total) 681 168 (25%)
+Beetles from the 90s (total) 296 58 (20%)
+continuous species 158 17 (11%)
+only historically documented 523 151 (29%)
+only recently occupied 131 41 (31%)
+
+Remarkable here was the high proportion of Red List species among the new additions of
+31%, while the permanent species can be considered as Least Concern because they only
+11% are at risk. The last investigations of the spider fauna were in the 1920s (SCHENKEL im
+DENKMARAT 1932), at that time 89 species were detected on the Dummelsdorfer Ufer. In this study, using similar methods, however, shorter investigation
+64 species were found during the period, the total species inventory is 124 spider species. Floor-
+living spiders have so far hardly been recorded. supra-regional comparison
+
+To classify the results, investigations from northern Germany offered themselves,
+in which cicadas were evaluated and the biotopes showed similarities to the stupid
+have village shores. The greatest species identity according to JACCARD (1912) was found between
+between the species populations on the Dummersdorfer Ufer and those from Norderney (NiED-
+RINGHAUS & BRORING 1986). The cicadas had a species identity of 27%. Of the
+Comparison between ecotype and Habitat preference and the criteria of the biotope
+similar results. In general, Norderney differs from Dummers
+dorfer Ufer through more moisture indicators. Gréfere differences resulted from the comparison with
+the NSG Bottsand, a beach wall and dune biotope at the exit of the Kieler Forde
+(Scharer 1973). The proportions of halophilic and hygrophilic cicadas were at the bottom sand
+significantly higher than in this study. Equally higher proportions were found in the
+psammophilic species, while the xerophilic species were equally represented. the
+Deviations can be easily explained by the location differences. With the
+Heath biotopes in Schleswig-Holstein (IRMLER et al. 1994) only slight similarities were
+12% of the cicada fauna. Conspicuous in the heath biotopes were
+the higher proportions of xerophilic, arenicole and praticole planthopper species. 5. discussion
+
+To assess the Hude landscape or the environmental compatibility of different
+types of grazing, some criteria turned out to be not meaningful enough,
+since only small proportions (i.e. only a few species) exhibited the respective criterion. It
+the evaluation e.g. for heliophilic species with a maximum of 2 species
+occurred per location. An unequal distribution of some groups of insects also turned out to be
+out for the evaluation. Anthophilic insects did not thrive as desired
+use the status assessment of the biotopes, as with the scooping of a single
+
+473
+
+flowering large perennials sometimes many anthophilic insect species were recorded, while
+only a few different species can be found at the same time on flowering pastures
+was. The recording time and the adjustment to the grazing periods
+play a crucial role, shortly after a grazing run none will
+anthophilic insects can be detected. The insects classified as ‘heath species’
+were also distributed too unevenly and were not suitable for further
+de evaluation. Sheep grazing results in both Rhynchota and Coleoptera
+uniformly high number of species (according to RF calculation); here the optical appearance seems
+to find its faunistic equivalent in the formation of the homogeneously grazed area. For the Diptera, on the other hand, the small-scale biotope properties, here presumably
+Proximity to water seems to be of greater importance than grazing type. the shore
+Nearby, ungrazed biotopes usually had high numbers of species. Due to the occurrence of Red List species, the type of grazing is less important. So
+more Red List species were to be expected on the Ginsterberg with its habitat structures
+been. However, the change in use from coppice to pastoralism
+At the beginning of the 1990s, such insects were not yet able to invade. Also with them
+Historical reasons seem to be responsible for the differences between Hirtenberg and Ballastberg.
+to be literal, since the Hirtenberg has been a forest-free heathland and
+Semi-dry grassy area, the ballast slope, on the other hand, was still in the 1920s as a sandy
+pits were used. The low RL numbers in the non-grazed comparison bio-
+Topen, on the other hand, can only be explained by a too low examination intensity. The preservation of rare coprophagous beetle species was often for species protection reasons
+required (ZIEGLER 1993, GULSKI 1987-1995, uneff.). In all grazed biotopes,
+ten coprophagous insects can be detected in small numbers of species. Her share lay too
+due to the method with only max. 2% of the total species population. Unfortunately, in this
+Investigating the occurrence of the rare moonhorn beetle (Copris lunaris) despite search
+actions cannot be confirmed. This beetle was reproduced on Hirtenberg in 1989
+reported, it is both xerophilic, psammophilic and coprophilic and requires sheep or ring
+the excrement. Steady grazing is essential for the survival of coprophagous species with the
+Special demands on high sand content and temperatures are essential. For the species shifts of insects in a historical comparison, the following
+en explanations to:
+
+. methodological differences. In the 1930s, people were looking for special
+
+Currently, many species have been recorded by hand-collecting and no large-scale ones
+
+streaknet fingers performed. The investigations took place preferably directly in the
+
+Bank areas instead, less on the pasture areas. So explain yourself at today's
+
+Do the higher proportions of praticol species as well as the lower proportions of arbori-
+
+Coler species. destruction of habitats. A rough intervention was undoubtedly the filling in of the
+
+Silkteichs in 1932. The loss of many rare amphibious and limnic plants
+
+zen and insects may be traced back to it. The next destructive
+
+The main focus was the construction of the Skandinavienkai landing gear in the north of the area. It
+Astuar salt marshes disappeared with them, and with them the corresponding halophilic ones
+
+Species.
+
+. changes in habitats. The strong fluctuations in the species composition
+from the 1930s to today indicate changes in the biotope. The newcomers
+ge in the xerophilic and psammophilic species as well as in the endangered beetles
+underline the importance of the NSG as a refuge for species living in a
+landscape with intensive agriculture can no longer find a habitat. N
+
+Where
+
+474
+
+If one compares the vegetation of the 1930s (ELMENDORFF 1922-1963, RAABE 1960,
+EBERLE in DENKMALRAT 1932) with today's inventories (GULskI 1987-95,
+BRAUN 1996), one also finds a large number of extinct species. as off-
+finally historically 264 plant species were recorded, showing steady occurrence
+312 species, only new arrivals were relatively fewer with 55 species than
+speaking newcomers to the insects. The assessment of the risk resulted in similar
+same conditions as with the beetles: with the vanished plant species there was
+a high percentage of Red List species at 33% and among those consistently present
+Plants a lower proportion of 20%. Unlike the beetles, the newly reported
+immigrant plant species, on the other hand, have fewer Red List species. Apparently offers
+the area rare insects still suitable habitat, while the lower proportion
+of new arrivals of less endangered plants is a negative indication of floral changes
+tion is. The suitability of cicadas as indicators for the assessment of landscape units
+(HILDEBRANDT 1990) could also be confirmed here. Admittedly, praticole possessed cicadas
+in this study a higher proportion than other praticiole insects, which is due to the
+predominant host attachment to grasses, nevertheless this facilitated
+Species group comparison with other studies. They are lighter than the other
+order of insects relatively completely can be determined with certainty and
+are often examined. With careful selection of suitable evaluation criteria, insects can therefore be
+apply future monitoring. In this study, the characteristic values
+be determined, on the basis of which the environmental compatibility of the grazing
+evaluate nagements 1a48t. At the moment there are differences in the grazing
+forms as slightly different and not significantly different. Despite strong changes
+and species declines in the last 60 years offer the grazed semi-arid grasslands
+of the Dummersdorfer Ufer is still a valuable habitat for rare and
+endangered insects. A prerequisite for its continued existence is a careful adapta-
+ves management, as is currently provided by the LPV "Dummersdorfer Ufer". 6. thanksgiving
+
+We thank V.B. for providing the rarefaction calculation program. Pichinot
+(keel). 7. summary
+
+The NSG Dummersdorfer Ufer, located on the west bank of the Untertrave, has in its
+Core area semi-arid grassland created by historical grazing. The receipt
+management of these scenically valuable areas by means of grazing by a sheep and
+Goat herd is the main concern of the “Landscape Conservation Association Dummersdorfer Ufer”
+About the compatibility of these measures with regard to the grazing that had been customary until then
+be able to judge by cattle, in selected test plots were
+status photographs of the arthropods were carried out. Also included for comparison purposes
+ungrazed biotopes within and outside the NSG included in the study
+gene. The recording of the arthropod fauna of the vegetation layer by net catches
+resulted in characteristic compositions for the individual biotope types. a high one
+The proportion of xerophilic and arenicole species gives good indications of the desired success
+
+475
+
+of care measures with regard to the development of semi-arid grassland. The
+from criteria that can be derived, both retrospectively and for the purpose of
+Use monitoring for current and future care measures. literature
+
+ACHTZIGER, R., NIGMANN, U. & ZWOLFER, H. (1992): Rarefaction methods and their possible uses
+abilities in the zoocological status analysis and assessment of biotopes. Z. Ecology u.
+Conservation 1, 89-105. Borie, G. (1994): Hoverflies. DJN, Hamburg, 7. Edition, 123 p.
+
+BELLMANN, H. (1993): Locusts: observe, determine. Nature book publishing house Augsburg, 2. edition
+349 S,
+
+BroHiMeR, P. (1979): Fauna of Germany. Source & Meyer, Heidelberg, 14. Edition, 581 p
+
+BRAUN, M., LOESER, J. & WAGNER, C. (1996): Dummersdorfer Ufer, landscape conservation and development
+Development concept for a dog landscape with local recreation planning. project at institute for country
+schaftspflege and nature conservation at the University of Hanover, 121 p.
+
+Braun, M., Loeser, J. & WaGNeR, C. (1998): Dummersdorfer Ufer-guiding concept for species and
+Biotope protection of a historic Hude landscape. Kiel Notes 25/26, 39-69. Cutnery, M. (1987): Parey's Book of Insects. Parey, Hamburg, 328 p.
+
+Cuvata, M. (1970): Revision of the Palaearctic species of the genus Tachydromia Meigen (= Tachista
+Loew) (Diptera Empididae). Acta Entomologica Musei Nationalis Pragae 38 (1969), 415-524. Cuvata, M. (1975): The Tachydromiinae (Dipt. Empididae) of Fennoscandia and Denmark I, Fauna
+Entomologica Scandinavica, Scandinavian Science Press, Copenhagen, Klampenborg 3, 336 p.
+
+Cuvata M (1983) The Empidoidea (Diptera) of Fennoscandia and Denmark II. - Fauna Entomolo-
+gica Scandinavica, Scandinavian Science Press; Copenhagen, Klampeborg, 12, 279 p.
+
+CHVALA, M. (1994): The Empidoidea (Diptera) of Fennoscandia and Denmark III: Genus Empis. Fauna Entomologica Scandinavica 29, Brill Verlag, Leiden, New York, Kéln, 192 p.
+
+Coltin, J.E. (1961): British Flies VI. - Empididae. Cambridge University Press, Cambridge, 782 pp.
+
+D'Assis-FonsEca, E.C.M. (1978): Diptera-Orthorrapha-Brachycera: Dolichopodidae. Handbooks for
+the Identification of British Insects 9, 1-90. DENKMALRar (Ed. 1932): The left Untertraveufer (Dummersdorfer Ufer). a natural science
+inventory. Liibeck, 540 p.
+
+Derma, J. (1982): Changes in the flora and vegetation of the nature reserve, Dummers-
+dorfer Ufer" near Liibeck in the last 50 years and their causes. Kiel Notes 14, 36-61. Eserte, G. (1932): Explanations on the site plan of the Dummersdorfer Traveufer near Liibeck, Wasser-
+substance ion concentration and plant life. In: MONUMENT COUNCIL OF THE CITY OF LUBECK (Ed.) The left
+
+Untertraveufer, Liibeck, 37-44, 67-120. Eserte, G. (1978): The plant life in the nature reserve 'Dummersdorfer Ufer'. approx. Ver. Nat-Hei
+mat and nat. history puree 16, 32S. ELMENDORFF, F. (1922-1963): Diary of excursions on the Dummersdorfer Ufer. Unpublished
+Manuscripts from the Botanical Society of Hamburg e.V. Ewes, W. (1964): Studies on the Ecological Distribution of Dolichopodids (Insecta-
+Diptera) in Schleswig-Holstein. Writings of the Natural Science Association for Schleswig-
+Holstein 35, 61-75. Emats, W. (1970): On the distribution and ecology of Empididae (Insecta - Diptera) in Schleswig-
+holstein Writings of the Natural Science Association for Schleswig-Holstein 40, 79-96
+
+FischHER, C. (1984): Dragonflies of Schleswig-Holstein. Notes from the zoologist. Museum of the University
+versitat Kiel, Suppl. 2, 44S. Grootaert, P. & CHVALA, M. (1992): Monograph of the genus Platypalpus (Diptera: Empidoidea,
+Hybotidae), of the Mediterranean region and the Canary Islands. Acta Universitatis Carolinae
+Biolgica 36, ​​3-226. 476
+
+Gutsk, M. (1987-1995): Report on the maintenance and development of the nature reserve, Dum-
+mersdorfer Ufer" Hanseatic City of Liibeck. Senate of the Hanseatic City of Liibeck (unpublished)
+
+GoRLICH, S., SuIkat, R. & ZIEGLER, W. (1995): Catalog of beetles in Schleswig-Holstein and the Nie-
+same area. verh, ver Naturw.Heimatforschung Hamburg 41, 1-111
+
+HEIMER, S. & NeNtwic, W. (1991): Spiders in Central Europe - A guide to identification. Parey, Berlin &
+Hamburg, 543 p.
+
+HIGGINS, L.G. & RiLey, N.D. (1978): The butterflies of Europe and north-west Africa. 2. edition Parey,
+Hamburg, 37S. HILDEBRANDT, J. (1990): Phytophagous insects as indicators for the assessment of landscape
+units using the example of cicadas. Nature & Landscape 7/8, 362-365. HODKINSON, ID. & WuitE, I.M. (1979): Homoptera Psylloidea. manual for the identification of British
+Insects, Roy. Ent. society London Vol 2, Part 5(a), 98 p.
+
+Ho1st, K.T. (1986): The Saltatoria of Northern Europe. fauna ent. Scand. 16, 127 p.
+
+HurseRt, S.H. (1971): The nonconcept of species diversity: A critique and alternative parameters. Ecology 52, 577-586. IrMLER, U., PAUSTIAN, D., Rit, S. & Voict, N. (1984): Development of animal communities as a result
+of care measures in dry heath nature reserves, in the meaning of heathland co-
+men for the invertebrate fauna. Faun.-Ocol.Mitt Suppl. 16, 83-126. JACCARD, P. (1912): The distribution of the flora in the alpine zone. New Phytol. 11:37-50. Koch, K. (1989): The beetles of Central Europe, Ecology I. Goecke & Evers, Krefeld, 440 p.
+
+Koch, K. (1989): The beetles of Central Europe, Ecology II. Goecke & Evers, Krefeld, 382 p.
+
+Koch, K. (1992): The beetles of Central Europe, Ecology III. Goecke & Evers, Krefeld, 389 p.
+
+Kroser, O. (1930): Diptera fauna of Schleswig-Holstein and the neighboring western north
+sea ​​areas. Part I: Diptera Brachycera up to and including Conopidae. marriage Ver. nature homeland
+sung Hamburg 22, 19-78. Kroser, O. (1931): Diptera fauna of Schleswig-Holstein and the neighboring western north
+sea ​​areas. III. Part: Diptera Brachycera, Braulidae Larvivoridae incl. Addendum to Part I. Relationship. Ver. nature Local history Hamburg 23, 63-113. Koser, O (1935): Diptera fauna of Schleswig-Holstein and the neighboring western north
+sea ​​areas, Il. Part: Diptera Brachycera: Pyrgotidae to Milichiidae together with further contributions to
+Part I (B. 22, 1930) and III. part (vol. 23, 1931). marriage Ver. nature Local history Hamburg
+24, 45-156. Kroser, O. (1937): I. Addendum to the Diptera fauna of Schleswig-Holstein. marriage Ver. nature Hometown-
+research Hamburg 26, 85-93. Kroser, O. (1949): The Diptera fauna of the Eppendorfer Moor through the ages. marriage Ver. nature Heimatforschung Hamburg 30, 69-89. Kroaer, O. (1956): Addendum to the Diptera fauna of Schleswig-Holstein and Lower Saxony (1933-35)
+incl. of the German islands of the North and Baltic Seas and taking into account the fauna
+Denmarks, Hollands and Pomeranians. marriage Ver. nature Local history Hamburg 32, 123-143. Kroser, O. (1958): Addendum to the Diptera fauna of Schleswig-Holstein and Lower Saxony (1933-35)
+incl. of the German islands of the North and Baltic Seas and taking into account the fauna
+Denmarks, Hollands and Pomeranians. Part 2. marriage Ver. nature Local history Hamburg 33,
+39-96. Le QuesNE, WJ. & PAYNE, K.R. (1981): Cicadellidae (Iyphlocybinae) with a check list of the British
+Auchenorrhyncha (Hemiptera, Homoptera). manual for the identification of British Insects, Roy. Ent. society London 2 (2c), 53 p.
+
+LPV (LANDSCHAFISPLEEGEIN DUMMERSDORFER UrER) (1992): The care and development mag-
+participation of the landscape conservation association Dummersdorfer Ufer e.V. in 1989-90: Concepts
+and experiences. Liibeck, 15S. Lunau, C. (1950): On the locust fauna of Schleswig-Holstein. screw natural Ver. Schleswig-Hol
+stone 24, 51-56. Meyer, H. & FILIPINsKi, B. (1998): Empidoidea (Diptera: Dolichopodidae, Empididae, Hy-
+botidae, Microphoridae) from emergence catches of two lake outlets (Upper and Lower
+Schierenseebach) in northern Germany (Holstein young moraines). Study Dipterologica 5,
+123-144. 477
+
+Meyer, H. & Heydemann, B. (1990): Faunistic-ecological studies on dolichopodids
+and Empididae (Diptera, Dolichopodidae and Empididae, Hybotidae) in coastal and inland
+biotopes of Schleswig-Holstein. Faun.-Ocol. mid 6, 147-172
+
+NEGROBOV, OP, & STACKELBERG, A.v. (1971-79): Dolichopodidae. In: LINDNER, E. (Ed.) The flies
+the palaarctic region 29. Schweizerbart'sche Verlagsbuchhandlung, Stuttgart, 225-530. NieDRINGHAUS, R. & BRORING, U. (1986): Bugs and cicadas (Hemipteroidea - Heteroptera,
+Auchenorrhyncha) terrestrial habitats of the East Frisian island of Norderney. Drosera '86, 21-40. OssIANNILSSON, F. (1978): The Auchenorthyncha (Homoptera) of Fennoscandia and Denmark
+1. Introduction, infraorder Fulgoromorpha. fauna ent. Scand. 7, 1-222 p.
+
+OSSIANNILSSON, F. (1981): The Auchenorrhyncha (Homoptera) of Fennoscandia and Denmark. 2. the
+families Cicadidae, Cercopidae, Membracidae and Cicadellidae (excl. Deltocephalinae). fauna
+Ent. Scand. 7, 223-593. OssIANNILSSON, F. (1983): The Auchenorrhyncha (Homoptera) of Fennoscandia. 3. The family Cica
+dellidae: Deltocephalinae, catalogue, literature and index. fauna ent. Scand. 7, 594-908. OSSIANNILSSON, F. (1992): The Psylloidea (Homoptera) of Fennoscandia and Denmark. fauna ent. Scand. 26, 346 p.
+
+PareNr, O. (1938): Dipteres Dolichopodidae. Faun de France 35. Lechevalier et Fils, Paris, 720 p.
+
+Ptaten, R., BUICK, T., BLISS, P., DROGLA, R., MALTEN, A., MARTENS, J., SACHER, P. & WUNDERLICH, J. (1995): List of arachnids (excl. Acarida) of Germany (Arachnida: Araneida, Opilio-
+nida, Pseudoscorpionida). arachnol. mid Special volume 1, 1-55. PoLtet, M. (1990): Phenetic and ecological relationship between species of the subgenus Hercosto-
+mus (Gymmopternus) in Western Europe with the description of two new species (Diptera,
+Dolichopodidae). Systematic Entomology 15, 359-382. POLLET, M. (1996): Systematic revision and phylogeny of the Palaearctic species of the genus Akhal-
+cus Loew (Diptera: Dolichopodidae) with the description of four new species. systematic
+Entomology 21, 353-386. Port, R. & Hrre, J. (1991): The Hude Landscapes of Northwest Germany. Westphalia Museum f.
+customer, Regional Association of Westphalia-Lippe, Münster, 313 p.
+
+Raabe, E.W. (1960): About the types of vegetation on the Dummersdorfer Ufer, the left bank of the Un-
+terrave. approx. Ver. nat. Home and Nat. history puree 2, Liibeck, 5-78. ReMANE, R. & WACHMANN, E. (1993): Cicadas: get to know - observe. nature book publisher,
+Augsburg, 288 p.
+
+RENKONEN, O. (1938): Statistical-ecological investigations into the terrestrial world of beetles
+Finnish bogs. ann. Zool Soc. Zool.- Bot. fen 6, 1-231. Robe Rts, MJ. (1985): The spiders of Great Britain and Ireland. volume 1 Atypidae to Therediosomatidae. Harley Books, Colchester, 229 pp.
+
+Rowerts, MJ. (1987): The spiders of Great Britain and Ireland. volume 2 Linyphiidae and Check List
+Harley Books, Colchester, 204 pp.
+
+Roserts, MJ. (1993): Appendix to Volumes 1 and 2. Harley Books, Colchester, 16pp.
+
+Rozkosny, R, (1973): The Stratiomyioidea (Diptera) of Fennoscandia and Denmark. fauna ent. Scand. 1, 140 p.
+
+Saacer, H. (1959): The Diptera Collection of the Natural History Museum of the Hanseatic City
+Liibeck, part 1. Reports from the Natur und Heimat association and the Natural History Museum
+Libeck 1, 21-62. Saacer, H. (1964): The Diptera Collection of the Natural History Museum of the Hanseatic City
+Liibeck, part 2. Reports from the Natur und Heimat association and the Natural History Museum
+Liibeck 6, 56-80. SaaceRr, H. (1970): The Diptera Collection of the Natural History Museum of the Hanseatic City
+Litbeck, part 3. Reports from the association Natur und Heimat and the Natural History Museum 2u
+Litbeck 11, 88-103. ScuaereR, M. (1973): Studies on habitat attachment and ecological isolation of cicadas
+a coastal landscape (Homoptera: Auchenorrhyncha). arch National Protection and Landscape Researcher 13, 329-352,
+
+SCHUMANN, H., BAHRMANN, R. & STARK, A. (ed.) (1999): Entomofauna Germanica 2 ~ Checklist
+of the Diptera of Germany. Studia Dipterologica Supplement 2, 354 p.
+
+ 
+
+    
+
+478
+
+STACKELBERG, A.v. (1930-40): Dolichopodidae. In: LINDNER, E. (Ed.) The flies of the Palaarctic
+region 29 Schweizerbart'sche Verlagsbuchhandlung, Stuttgart, 1-224. SNEATH, PLR. & SOKAL, R.R. (1973): Numerical taxonomy. The principles and practice of numerical
+classifications. Freeman, San Francisco, 537 pp.
+
+Stark, A & LEHMANN, S. (1999): The Elbtalaue near Pevestorf (district of Liichow-Dannenberg) as
+Habitat of faunistically remarkable Diptera species from the superfamily Empidoidea
+(Insecta, Diptera). In: HARDTLE, W. (ed.): The Elbtalaue ~ history, protection and development
+a flight landscape. Commemorative publication on the occasion of the retirement of Prof. Dr. Ulf Amelung, University. sitat Liineburg & Stadt Bleckede, Ampyx-Verlag, Halle (Saale), 97-109. WACHMANN, E. (1989): Bugs: observe - get to know. Neumann-Neudamm, Melsungen, 274 p.
+
+WacneR, E. (1952): Blind bugs or mirids. In: DaHL, F. (Ed.) The animal world of Germany and
+the adjacent parts of the sea. 41 Part. G. Fischer Verlag, Jena, 218 p.
+
+Wacner, E. (1966): Bugs or Heteroptera, I. Pentatomorpha. In: DaHL, F. (Ed.) The animalworld
+Germany and the adjacent parts of the sea. 54 Part. G. Fischer Verlag, Jena, 235 p.
+
+WAGNER, E. (1952): Bugs or Heteroptera, II. Cimicomorpha. In: DAHL, F. (ed.) The animal world
+Germany and the adjacent parts of the sea. 55 Part. G. Fischer Verl, Jena, 179 p.
+
+WEIDEMANN, HJ. (1995): Butterflies: observe, determine. With an introduction to the vegetation
+customer. 2. edition Naturbuch Verlag, Augsburg, 659 p.
+
+WEIDEMANN, HJ. & KOHLER, J. (1996): Moths: spinners and swarmers. Naturbuch Verlag, August
+Castle. 5125. WENDLER, A., LORENZ, C. & HorsTKOTTE, J. (1994): Locusts. 12. edition DJN, Hamburg, 97 p.
+
+Winkler, C. (1998): Areal dynamics of the wasp spider Argiope bruennichi (ScoPout, 1772) (Araneae:
+Araneidae) in Schleswig-Holstein. Drosera 98, 1-5. ZigcteR, W. (1993): Kafer Liibecks. Unpublished manuscript in the Environment Agency Liibeck, 1-19. Addresses of the authors:
+
+Ingo Tulowitzki
+
+Landscape conservation association Dummersdorfer Ufer
+Resebergweg 11
+
+D-23569 Liibeck
+
+dr Hans Meyer, Hans-Dieter Reinke
+Research Center for Ecotechnology, University
+Olshausenstr. 40
+
+D-24098 Kiel
+
+dr Ulrich Irmler
+Ecology Center, University
+Schauenburgerstr. 112
+
+D-24118 Kiel
+
+dr Thomas Tischler
+
+Research and Technology Center West Coast
+Hafentern
+
+D-25761 Biisum
+
+479

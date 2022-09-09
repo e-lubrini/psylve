@@ -1,0 +1,1008 @@
+a)
+(ey)
+ae)
+{e)
+aon
+ra)
+(qv)
+oO
+~
+om
+&
+ae
+
+ 
+
+Plant Pathology (2016) 65, 837-846 Doi: 10.1111/ppa.12464
+
+Incidence and distribution of ‘Candidatus Phytoplasma
+prunorum’ and its vector Cacopsylla pruni in Spain: an
+approach to the epidemiology of the disease and the role of
+wild Prunus
+
+J. Sabaté, A. Lavina and A. Batlle*
+
+Institut de Recerca i Tecnologia Agroalimentaries, IRTA, Ctra Cabrils km 2, Cabrils, 08348 Barcelona, Spain
+
+“Candidatus Phytoplasma prunorum’ is the causal agent of the European stone fruit yellows (ESFY) disease. This phy-
+toplasma affects wild and cultivated species of Prunus to different degrees, depending on their susceptibility. ‘Candida-
+tus Phytoplasma prunorum’ is present in the four regions of Spain surveyed in this study (Aragon, Catalonia,
+Extremadura and Valencia) with a variable incidence. Results showed that ‘Ca. Phytoplasma prunorum’ was detected
+in all of the cultivated Prunus species studied, except P. avium and P. dulcis, and was widespread in Spain. The most
+affected species was P. salicina, with symptoms including early bud break and blooming, leaf curling and yellowing,
+collapse, and a major decrease in production. In some plots in the Baix Llobregat area of Barcelona province (Catalo-
+nia), the incidence of ESFY on P. salicina was as high as 80%. The insect vector, Cacopsylla pruni, was present in all
+four of the regions studied, with the highest captures in yellow sticky traps in Catalonia on P. mahaleb and in Extre-
+madura in peach orchards. In Baix Llobregat, large populations of C. pruni were present on infected P. mahaleb
+bushes, and with high infection rates. This was a key factor in the local pathogenic cycle that caused a major ESFY
+outbreak in the nearby P. salicina orchards. In the Ebro valley (Lleida and Aragon) and Valencia, the surveys showed
+
+very low incidences of the disease and low C. pruni populations. Keywords: European stone fruit yellows, Phytoplasma prunorum, Prunus, vector
+
+Introduction
+
+‘Candidatus Phytoplasma prunorum’ is the causal agent
+of several diseases of stone fruit trees such as apricot
+chlorotic leaf roll, plum leptonecrosis and peach yellows. These are collectively referred to as European stone fruit
+yellows (ESFY) disease, a major problem affecting stone
+fruit trees in Europe (Lorenz et al., 1994). ‘Candidatus
+Phytoplasma prunorum’ belongs to the apple prolifera-
+tion (16Sr-X ribosomal) group, and is closely related to
+“Ca. Phytoplasma mali? and ‘Ca. Phytoplasma pyri’,
+causing apple proliferation (AP) and pear decline (PD),
+respectively (Seemiiller & Schneider, 2004; Danet et al.,
+2011). ESFY is a quarantine disease that is widespread in
+Europe and the Mediterranean basin and is a limiting
+factor for apricot and Japanese plum tree cultivation in
+several major growing areas (Marcone et al., 2010; Cies-
+linska, 2011; Steffek et al., 2012). European stone fruit yellows symptoms and their inten-
+sity vary considerably depending on different factors,
+including: Prunus species, variety and rootstock; age;
+
+*E-mail: assumpcio.batlle@irta.es
+
+Published online 29 October 2015
+
+© 2015 British Society for Plant Pathology
+
+agro-ecological conditioning; phytoplasma concentration;
+insect vector infection pressure; and strain virulence. The
+symptoms are generally characterized by physiological dis-
+orders such as short internodes, off-season growth, prema-
+ture bud break, leaf rolling, chlorosis, reddening, slow or
+sudden decline and a loss of vigour and production (Kison
+& Seemiiller, 2001; Marcone et al., 2010). The expression
+and intensity of the symptoms differ depending on the
+susceptibility of the species, from the more susceptible
+ones such as Prunus salicina and P. armeniaca, to the most
+tolerant ones such as P. cerasifera and P. spinosa, which
+may be infected but symptomless (Giunchedi et al., 1982;
+Jarausch et al., 2000; Carraro et al., 2002; Yvon et al.,
+2004). ‘Candidatus Phytoplasma prunorum’ is transmitted
+by vegetative multiplication and by its insect vector
+Cacopsylla pruni (Scopoli, 1763; Carraro et al., 1998). Cacopsylla pruni is oligophagous on Prunus species, uni-
+voltine, and overwinters as an adult in refuge plants,
+mainly conifers far from the orchards (Thebaud et al.,
+2009). In late winter, depending on the climate conditions,
+the overwintering adults (remigrants) lay next generation
+eggs on Prunus species, where nymphs develop. In June,
+young adults (emigrants) move to refuge trees to overwin-
+ter. Cacopsylla pruni acquires the phytoplasma within 2—
+4 days and is infective for the rest of its life, after a latency
+period of approximately 3 weeks (Carraro et al., 2004;
+Labonne & Lichou, 2004; Thebaud et al., 2009). 837,
+
+838 J. Sabaté et al. European stone fruit yellows was first reported in
+Spain, by Sala (1935), on Japanese plum in the Baix
+Llobregat area (Barcelona, Catalonia), where it appeared
+as a syndrome similar to those observed before in south-
+ern France and Italy (Marcone et al., 2010). More
+recently, vegetative disorders have been observed in
+Japanese plum and apricot growing in Valencia, Murcia
+and Catalonia regions (Llacer et al., 1986; Torres et al.,
+2004). Cacopsylla pruni carrying ‘Ca. Phytoplasma
+prunorum’ was first reported in Spain in 2003 (Lavinia
+et al., 2004). Given the importance of stone fruit cultiva-
+tion in Spain, the destructive potential of ESFY and its
+geographical dispersion, there is a serious threat for
+Spanish stone fruit production. The aim of this study
+was to obtain data on the incidence, hosts, life cycles
+and geographical distribution of ‘Ca. Phytoplasma
+prunorum’ and C. pruni in Spain. These data will be
+helpful in evaluating the losses and the risk of spread
+for different species and regions, to establish control
+measures and prevent the expansion of ESFY. Materials and methods
+
+ 
+
+Incidence of ‘Ca. Phytoplasma prunorum’ on different
+Prunus species, orchards and regions
+
+The incidence of ‘Ca. Phytoplasma prunorum’ was studied in
+2005, in four regions in Spains Aragén, Catalonia, Extremadura
+and Valencia, in seven stone fruit production areas with differ-
+ent characteristics. A total of 47 plots of seven cultivated Prunus
+species were studied. Plots were chosen with the advice and col-
+laboration of the regional phytopathological services, which
+identified orchards that were representative of each area and
+species. The incidence of Ca. Phytoplasma prunorum’ was eval-
+uated in orchards of P. avium, P. salicina, P. cerasifera, P. ar-
+meniaca, P. persica, P. domestica and P. dulcis. The objective
+was to cover a wide range of hosts and agro-ecological condi-
+tions, including tolerant species and areas with few reported
+cases of ESFY. The incidence of ‘Ca. Phytoplasma prunorum’
+was surveyed in the Baix Llobregat, Ribera d’Ebre and Lleida
+areas of Catalonia, in the Vegas Altas and Vegas Bajas areas of
+Extremadura, and in Aragon and Valencia. The incidence of
+ESFY was initially assessed by visual inspection of 200 trees per
+orchard in a large central block and subsequently confirmed by
+PCR. To standardize variations in the expression of ESFY symp-
+toms in different conditions, species and varieties, visual inspec-
+tions were carried out in March and September. The whole
+symptom range was covered: phenological mismatch in March,
+and yellowing, curling and reddening in September. ‘The assessment was particularly concentrated in the Baix Llo-
+bregat area (Barcelona, Catalonia), in 22 plots. The coincidence
+in a small area of historic reports, a high incidence, several wild
+and cultivated Prunus spp., and a stable population of C. pruni,
+makes this area an interesting case to study. This area includes
+the lower valley of the Llobregat River and the coastal moun-
+tains, both with a Mediterranean climate. The valley is charac-
+terized by flat gravity-irrigated intensive orchards, devoted to
+cultivating vegetables and stone fruit trees. In the mountains
+there are small, non-irrigated orchards of P. avium grafted on
+P. mahaleb. Two other areas in Catalonia were studied. One in
+Ribera d’Ebre, in Tarragona province in the lower valley of the
+Ebro River, also has a Mediterranean climate and has intensive
+
+ 
+
+drip-irrigated orchards of P. persica, P. salicina and P. armeni-
+aca. The other, Lleida, is in the plains of the central Ebro valley
+with a dry continental Mediterranean climate. This area is
+mainly dedicated to peach, apple and pear production in large,
+intensive drip-irrigated orchards. ‘The Aragon region fruit production area, as Lleida, is in the
+central Ebro valley, and both have the same agro-ecological con-
+ditions. The Valencia area is characterized by small, flat drip-
+irrigated orchards of P. salicina and P. armeniaca, with a
+Mediterranean climate. In Extremadura, the fruit production
+areas are characterized by a southern Mediterranean climate
+and large new, drip-irrigated, orchards of P. salicina and P. per-
+sica. In each plot, the shoot samples for phytoplasma detection
+were taken randomly, in September, from 10 individual trees
+showing symptoms of ESFY. To ensure detection, samples were
+taken from four branches per tree. In orchards where fewer than
+10 trees had clear symptoms, samples were collected from those
+with symptoms and also from randomly chosen symptomless
+trees, to give 10 samples per plot. In plots with no symptoms,
+all samples were taken randomly from any tree. Samples were
+stored in plastic bags at 4°C prior to DNA extraction. Cacopsylla pruni captures in Prunus species orchards
+
+Cacopsylla pruni populations on different cultivated Prunus spe-
+cies were surveyed using yellow sticky traps in the four regions. The surveys were begun in the Bai LlObregat area with eight
+traps per plot in 2003 and 2004, four in the centre and four in
+the corner trees of the orchards. In following years, due to the
+results obtained, only the four traps in the corners were used, In
+2005 and 2006, the surveys were extended to the other areas and
+regions. In Catalonia, affected P. salicina orchards were also
+monitored by beating. Different branches on trees were beaten 10
+times and psyllids were collected and aspired from a tray. The
+20 x 20 cm (800 cm) yellow sticky traps (Projar), placed at a
+height of 1-75 m, were replaced once every 15 days, from Jan-
+uary to July. Cacopsylla pruni individuals were then removed,
+identified following Hodkinson & White (1979) and stored at
+—20°C prior to analysis. The insects were analysed individually. Evaluation of wild hosts for ‘Ca. Phytoplasma
+prunorum’ and C. pruni in Catalonia
+
+The communities of potential wild hosts for ‘Ca. Phytoplasma
+prunorum’ and C. pruni in the three stone fruit production areas
+of Catalonia were surveyed in 2009 and 2010. Five communities
+of P. mabaleb, four of P. spinosa, two of P. cerasifera and one
+of naturalized P. domestica were studied in the coastal moun-
+tains of the Baix Llobregat. In these mountains, wild P. mabaleb
+is relatively abundant above 100 m a.s.l., most of them natural-
+ized rootstocks from old deserted P. avium orchards. There are
+also small communities of wild P. spinosa above 400 m asl. The Ribera d’Ebre area (Tarragona) is surrounded by the broken
+1000 m-high precoastal mountains, where a P. mahaleb com-
+munity was studied. In the Lleida area, two plots of P. spinosa
+and three plots of naturalized P. dulcis near the orchards were
+studied. These P. spinosa trees are present above 500 m a.s.l. in
+the Pyrenean foothills, but the nearest stone fruit orchards are
+30 km away. The samples of wild or naturalized, symptomless
+Prunus spp. were taken as described for the symptomless orch-
+ards. The number of samples varied with the size of the commu-
+nity, with a maximum of 10 individuals per plot. Cacopsylla
+pruni was captured on wild hosts by yellow sticky traps and
+beating the trees as described for orchards. Plant Pathology (2016) 65, 837-846
+
+Epidemiology of Ca. P. prunorum in Spain 839
+
+Phytoplasma detection in plants and insects
+
+The samples of Prunus plants and C. pruni individuals were
+analysed by PCR to detect phytoplasmas. Total DNA from
+plants was obtained by mixing 1g of fresh leaf midribs and
+phloem tissue from stems together, using the phytoplasma-
+enrichment procedure of Ahrens & Seemiiller (1992). Total
+DNA from insects was obtained following the procedures of
+Batlle et al. (2008) and Garcia-Chapa et al. (2005). The DNA
+extracts were stored at ~20°C. The universal primers for phyto-
+plasma detection, P1/P7 (Deng & Hiruki, 1991; Smart et al.,
+1996), were used during the first step and fO1/rO1 AP group-
+specific primers for the second (Lorenz et al., 1995). The first
+amplification was in a total volume of 20 pL containing 5-
+10 ng DNA and the following mixture: 0-25 ya each universal
+primer, 250 ya dNTPs, 0-2 U Taq DNA polymerase (Promega)
+and 1 x Taq buffer. Two microlitres of a 1:50 dilution of the
+first amplification product were used for the second step, with
+0-375 yt of the group-specific primers. The products were anal-
+ysed by electrophoresis in a 1-5% D-1 agarose gel (Pronadisa)
+according to standard procedures. DNA was stained with ethid-
+ium bromide and exposed to ultraviolet light. Healthy Prunus
+and Catharanthus roseus seedlings were used as a negative con-
+trol in PCR assays. To ensure ‘Ca. Phytoplasma prunorum’
+detection, an RFLP analysis of {O1/rO1 primer pair amplifica-
+tion products was performed with Rsal and Sspl enzymes fol-
+lowing Lorenz et al. (1995) and Garcia-Chapa et al. (2003). Results
+
+Incidence of ‘Ca. Phytoplasma prunorum’ in orchards
+of stone fruit species
+
+‘Candidatus Phytoplasma prunorum’ was detected on all
+of the cultivated Prunus species studied, except P. avium
+and P. dulcis, and in all four of the regions surveyed
+(Table 1). The species most affected and showing most
+symptoms was P. salicina, which exhibited early bud
+break, leaf curling, yellowing, collapse and a complete
+loss of the harvest. Its visual incidence ranged from 1%
+in Valencia to more than 80% in some plots in the Baix
+Llobregat area (Table 1). Two plots of P. domestica
+were studied in Baix Llobregat: Santa Coloma 6 and 7. In the Santa Coloma 6 plot, ‘Reina Claudia’ presented a
+visual incidence of 2%, confirmed by PCR on the four
+trees with symptoms analysed. However, PCR analysis
+of the infection rate on samples randomly collected from
+the six symptomless trees was 2+/6. In the Santa Coloma
+7 plot, the traditional local variety of P. domestica
+‘Coll6 de Mico’ was completely symptomless, but PCR
+analysis gave an infection rate of 4+/10. The visual inci-
+dence of P. persica was low, with PCR analysis of infec-
+tion rates ranging from 0 to 4% on all the plots, except
+Encomienda 1 and 2 in the Vegas Altas area (Extrema-
+dura) where the incidence was as high as 25% (Table 1). The main symptoms observed on peach were leaf yellow-
+ing, curling and in some cases collapse. There were no
+symptoms and ESFY was not detected in the five P. av-
+ium and three P. dulcis plots, even in areas with high
+infection pressure. Three commercial plots of
+P. cerasifera were studied, one a pollinator within a
+
+ 
+
+Plant Pathology (2016) 65, 837-846
+
+highly affected P. salicina orchard (Olesa 4). No clear
+ESFY symptoms were observed on P. cerasifera in any of
+the cases, but ‘Ca. Phytoplasma prunorum’ was detected
+by PCR in 22 of the 30 symptomless trees randomly col-
+lected in the three plots (Table 1). European stone fruit yellows incidence and dissemina-
+tion were very high in the Baix Llobregat area of Catalo-
+nia, where the phytoplasma was present in all the plots
+of P. salicina, P. domestica, P. cerasifera, P. armeniaca
+and P. persica surveyed. In the Ribera d’Ebre area, the
+incidence was more than 30% on P. salicina in the Mira-
+vet 1 and 2 plots. In the Lleida area, ESFY was only
+detected in one P. salicina orchard (Borges 2; Table 1). The incidence of ESFY in Valencia and Aragon was very
+low, ranging in both cases from 1 to 7%, even in very
+susceptible species. In Extremadura, ESFY was present in
+all except a P. dulcis orchard (Lob6n). The visual inci-
+dence was low in the Vegas Bajas area and high in the
+Vegas Altas area, up to 25% in some plots (Table 1). Cacopsylla pruni captures and ‘Ca. Phytoplasma
+prunorum’ infection rate in Prunus spp. orchards
+
+Cacopsylla pruni was captured by yellow sticky traps in
+all four of the regions studied, but not in all of the fruit
+growing areas. The beating method was not successful in
+P. salicina and P. cerasifera orchards in the Baix Llobre-
+gat, with zero captures, whilst it proved to be effective
+for wild P. mahaleb growing nearby. In the Ribera
+@Ebre area of Tarragona (Catalonia), a peak of 1-75
+individuals per trap was captured in a P. salicina plot
+(Miravet). No C. pruni were captured in the Lleida area
+(Borges and Alcarras), or in the Torres de Berrelén plot
+in Aragon and the Barxeta plot in Valencia. In the other
+plots in Aragon, the number of C. pruni captures was
+very low with a maximum of 0-75 and 0-5 individuals
+per trap in the Montanana and Alagén plots, respec-
+tively. Peaks of capture in the Belgida and Llutxent plots
+(Valencia) were 0-25 and 0-5 individuals per trap, respec-
+tively. The C. pruni captures in Extremadura rose to a
+maximum of 12 insects per trap in 2006 (Fig. 1). Cacop-
+sylla pruni adults mainly appeared in the middle of
+February, but in warm winters, in some years and plots
+such as in the Baix Llobregat area in 2004, they
+appeared in January (Fig. 2). The C. pruni peaks were
+very variable in the date and the number of captures
+between years. In the P. mabaleb of Torrelles plot, the
+remigrant peak ranged from 15 March in 2004 to 15
+April in 2006, and the captures ranged from 11 individu-
+als per trap in 2003 to 3-75 in 2005. The emigrant peaks
+commonly appeared in early June, with captures lower
+than in remigrant peaks. The dates of peaks in the
+nearby St Viceng and Sta Coloma plots of P. salicina
+were very similar, but the captures were lower, especially
+in the remigrant peaks (Figs 1, 2 & 3). In Extremadura,
+only one clear peak was observed between 1 March and
+15 July, on 15 May in 2005 and 1 May in 2006. These
+peaks were of emigrant individuals, with remigrant indi-
+viduals only captured in March 2005. The captures in
+
+840
+
+J. Sabaté et al. Table 1 Visual incidence and PCR detection of ‘Candidatus Phytoplasma prunorum’ on different cultivated Prunus spp. in 2005
+
+ 
+
+ 
+
+Plot Prunus sp. * Variety ‘Age (years) Visual incidence (%) PCR detection? Aragon
+Santa Inés Ps ‘Angeleno 9 5 6
+Alagon Ps Sungold 18 6 8
+Torres Berrelén Ps Pioneer 19 7 6
+Catalonia
+Baix Llobregat area
+Olesa 1 Ps 606 12 63 8
+Olesa 2 Ps Fortune 12 74 10
+Olesa 3 Ps ‘Anne Gold 12 59 9
+Olesa 4 Pe Pollinator 12 0 10
+Castellbisbal Pa Moniqui 25 8 8
+Sant Boi 1 Ps Black Amber 18 45 8
+Sant Boi 2 Pe Valentins 50 0 4
+Santa Coloma 1 Pp Babygold 10 4 2
+Santa Coloma 2 Ps ‘Autumn Giant 8 6 9
+Santa Coloma 3 Ps Fortune 18 82 7
+Santa Coloma 4 Ps ‘Anne Gold 8 63 10
+Santa Coloma 5 Po Levadé 60 0 8
+Santa Coloma 6 Pd Claudia 25 2 6
+Santa Coloma 7 Pd Collé Mico 35 ° 4
+Santa Coloma 8 Pav Burlat 30 0 °
+Torrelles 1 Pav Summit 15 0 °
+Torrelles 2 Pav Burlat 25 0 °
+Torrelles 5 Pau Marcona 20 ° °
+Begues 1 Pav Burlat 25 0 °
+Begues 2 Pav 470 10 0 °
+Sant Viceng 1 Ps Black Diamond 10 76 9
+Sant Viceng 2 Ps Pioneer 18 24 10
+Ribera d'Ebre area
+Miravet 1 Ps ‘Angeleno 16 37 9
+Miravet 2 Ps Larry Ann 16 32 10
+Benissanet 1 Pa Moniqui 20 7 6
+Benissanet 2 Pp ‘Snow Queen 9 1 3
+Ginestar Pa Bulida 24 5 8
+Lleida area
+Alcarras 1 Pp Babygold 10 1 °
+Alcarras 2 Pp Catherine 15 0 °
+Borges 1 Pp Top Lady 8 0 °
+Borges 2 Ps ‘Angeleno 4 15 7
+Borges 3 Pau Texas 24 0 °
+Valencia
+Belgida Pa Canino 4 1 3
+Liutxent Pa Moniqui 18 2 2
+Barxeta Ps Golden Japan 8 1 1
+Extremadura
+Vegas Altas area
+Encomienda 1 Pp Spring Crest 12 25 7
+Encomienda 2 Pp May Crest 12 23 6
+Zurbaran 1 Ps 606 10 8 8
+Zuraran 2 Ps Red Beauty 10 10 6
+Zurbaran 3 Pp ‘Snow Queen 10 5 5
+Vegas Bajas area
+Lobén Pau Texas 16 0 °
+Valdelacalzada 1 Ps 606 8 8 5
+Valdelacalzada 2 Ps Black Star 8 5 7
+Valdelacalzada 3 Pp Spring Crest 8 4 1
+
+ 
+
+"Pa, Prunus armeniaca; Pav, P. avium, Pc, P. cerasifera; Pd, P. domestica; Pdu, P. dulcis; Pp, P. persica; Ps, P. salicina. ®Number positive out of 10 samples. Plant Pathology (2016) 65, 837-846
+
+Epidemiology of Ca. P. prunorum in Spain 841
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+  
+ 
+
+ 
+
+  
+   
+  
+  
+  
+ 
+
+ 
+
+ 
+
+ 
+
+2
+——Torrelles Pmo3
+10 ——Torrelles Pmo4
+—©=staColoma Ps03
+a B=StaColoma Ps04
+s
+£ = stvicens Ps03
+a a= stViceng Ps04
+3
+$
+3
+2
+3
+=
+Figure 1 Evolution of the mean number of
+Cacopsylla pruni individuals captured per
+trap in 2003 and 2004 on wild Prunus
+mahaleb (Pm) and in P. salicina (Ps)
+orchards in Baix Llobregat area (Catalonia) 15) IF 15F 1M SM 1A 5A IM SM US)
+8
+—STorrelles(ct) Pm
+—BstViceng(Ct) Ps
+7
+te StaColoma(Ct) Ps
+Encomienda(Ex) Pp
+a 6
+£ = Zurbaran(Ex) Ps
+as
+S
+3
+24
+3
+=
+3
+2
+
+Figure 2 Evolution of the mean number of
+
+Cacopsylla pruni individuals captured per 1
+trap in 2005 in the Baix Llobregat (Catalonia,
+
+Ct) and Vegas Altas (Extremadura, Ex) areas
+
+of Spain on wild Prunus mahaleb (Pm), oO
+P. salicina (Ps) and P. persica (Pp). 15) iF 15F iM iSM 1A 154 1M 15M 1 15) 15d
+
+ 
+
+14
+
+ 
+
+12
+<Encomienda(Ex) Pp
+10 = Zurbaranlex) Ps
+—eTorrelles(Ct) Pm
+
+BStaColoma(ct) Ps
+
+te StViceng(Ct) Ps
+
+ 
+
+luals per trap
+
+  
+
+ 
+
+ 
+
+3
+£
+
+ 
+
+Figure 3. Evolution of the mean number of
+Cacopsylla pruni individuals captured per
+trap in 2006 in the Baix Llobregat (Catalonia,
+Ct) and Vegas Altas (Extremadura, Ex) areas
+of Spain on wild Prunus mahaleb (Pm), 0+
+P. salicina (Ps) and P. persica (Pp). 15) 1F 15F 1M 15M 1A 15A 1M 15M U 15) WU 15)
+
+Plant Pathology (2016) 65, 837-846
+
+842 J. Sabaté et al. plots and regions with very low populations only differed
+slightly, but it was difficult to track the peaks due to the
+low level of captures. In the two P. salicina plots in the
+Baix Llobregat, there were differences between the cor-
+ners and the central part of the orchard, with captures in
+central traps being very low (Fig. 4). ‘Candidatus Phyto-
+plasma prunorum’ was detected in C. pruni in all of the
+regions studied. In the Ribera d’Ebre (Miravet), ‘Ca. Phy-
+toplasma prunorum’ was detected in around 7% of the
+insects. In Aragon, Valencia and Extremadura, ‘Ca. Phy-
+toplasma prunorum’ was detected in 4, 5 and 9% of the
+insects, respectively. There were no significant differences
+
+124
+=P. salicina corner
+=P. salicina central
+
+Mean Individuals per trap
+
+ 
+
+ 
+
+February(R)
+
+‘March(R) April)" May(é) _June(é)
+Figure 4 Mean number of Cacopsyila pruni individuals captured per
+trap in the central part and in the comers of two Prunus salicina
+orchards (St Viceng and Sta Coloma plots) in 2003 and 2004 in Baix
+Llobregat area (Catalonia, Spain). Remigrants (R); emigrants (E). 60
+
+in infection rates between insects captured on different
+species in the same area. Analysing the C. pruni infection
+rate throughout the season in Baix Llobregat (Catalonia),
+the highest level of carriers corresponded to remigrants
+in late winter (March), with infection rates of around
+40%. In the new generations of young emigrant adults
+(June), the infection rate fell to approximately 10%
+(Fig. 5). Study of ‘Ca. Phytoplasma prunorum’ and C. pruni on
+wild Prunus species
+
+The wild Prunus species were surveyed for ‘Ca. Phyto-
+plasma prunorum’ and C. pruni in three stone fruit pro-
+ducing areas in Catalonia. The highest captures in all the
+study were on a wild P. mabaleb plot in the Baix Llobre-
+gat area (Barcelona), with a maximum mean up to 13
+insects per trap in 2006 (Fig. 1). No symptoms were
+observed on any wild or naturalized P. mabaleb,
+P. spinosa, P. cerasifera, P. dulcis and P. domestica sam-
+pled. In the Lleida area, wild P. spinosa communities
+studied were not infected, and no C. pruni was captured
+by beating or yellow sticky traps. In this area, there was
+no C. pruni capture or phytoplasma detection in analyses
+of naturalized P. dulcis near the plots. In the Ribera
+dEbre area (Tarragona), a small community of wild
+P. mahaleb had the same negative results (Table 2). In
+the coastal mountains of Barcelona, ‘Ca. Phytoplasma
+prunorum’ and C. pruni were found on different wild
+hosts. In Cabrils plots, some C. pruni individuals were
+captured by beating on P. spinosa, but no ‘Ca. Phyto-
+plasma prunorum’ were detected in either plants or
+insects (Table 2). In Begues plots, the P. cerasifera,
+P. spinosa and P. mabaleb communities found were very
+
+ 
+
+  
+
+= Torrelles Pm
+
+= StaColoma Ps
+
+ 
+
+50
+
+  
+  
+
+m StViceng Ps
+
+= TorrellesB Pm
+
+ 
+
+ 
+
+% positive insects
+@ s
+8 8
+
+x
+8
+
+5/40
+2192/20
+
+ 
+
+February(R)
+
+March(R) April(E)
+
+  
+
+Figure 5 Monthly percentage of Cacopsylla
+prunt individuals carrying *Candidatus
+Phytoplasma prunorum’ in orchards of
+Prunus salicinia (Ps) and wild P. mahaleb
+(Pm) in the Baix Llobregat area (Catalonia,
+Spain) in 2005 and 2006. Remigrants (R);
+emigrants (E). All captured by yellow sticky
+traps except Torrelles B, captured by
+
+June(E) beating,
+
+Plant Pathology (2016) 65, 837-846
+
+Epidemiology of Ca. P. prunorum in Spain 843
+
+Table 2 ‘Candidatus Phytoplasma prunorum’ infection rate and Cacopsylla pruni captures in different wild symptomless Prunus spp. communities in
+
+Catalonia in 2009 and 2010
+
+ 
+
+PCR detection®
+C. pruni capture
+
+ 
+
+Province Plot Prunus sp. method Trees Insects
+Barcelona St Viceng P. domestica Beating 2/2 No captures
+Torrelles 1 P. mahaleb Yellow/beating 70 15/69
+Torrelles 2 P. mahaleb Yellow/beating 418 8/44
+Torrelles 8 P. mahaleb Yellow/beating 3/5 9125
+Sta Coloma P. cerasifera Beating 2183 No captures
+Begues 1 P. spinosa Yellow/beating o/s 4
+Begues 2 P. spinosa Beating 0/4 No captures
+Begues 3 P. cerasifera Beating o/s No captures
+Begues 4 P. mahaleb Beating 012 No captures
+Cabrils 1 P. spinosa Beating o/s No captures
+Cabrils 2 P. spinosa Beating o/a o2
+Tarragona Cardé 1 P. mahaleb Beating o/s No captures
+Ueida Balldellou P. spinosa Beating o/2 No captures
+Baells P. spinosa Yellow/beating of6 No captures
+Baells P. dulcis Yellow/beating or No captures
+Atcarras P. dulcis Yellow/beating o/4 No captures
+Borges P. dulcis Beating ont No captures
+
+ 
+
+"PCR analysis with {01/01 primers. Results are number of positive results/total number analysed. small and scattered. A few C. pruni individuals were
+found on these P. spinosa, but no ‘Ca. Phytoplasma
+prunorum’ was detected on either plants or insects. In
+Torrelles sampling points, there was a high ‘Ca. Phyto-
+plasma prunorum’ infection rate in the communities of
+P. mahaleb, and major C. pruni infected populations,
+showing a high hosting capacity. Here, the phytoplasma
+was detected in 14 out of 23 P. mabaleb tested and in
+two naturalized P. domestica (Table 2). Discussion
+
+This study presents extensive data on the hosts and vec-
+tors of ‘Ca. Phytoplasma prunorum’ in Spain, demon-
+strating that it is widespread in all of the regions studied. While part of the data in this study is 10 years old, it
+still represents the general situation in the different areas. The regional phytopathological surveillance programmes
+for quarantine diseases, carried out recently, showed that
+the ESFY geographic distribution and incidence pre-
+sented is still valid. ‘Ca. Phytoplasma prunorum’ contin-
+ues to be mainly present in the Baix Llobregat in
+Catalonia and Vegas Altas in Extremadura. In the other
+areas there are sporadic cases and very low incidences. These results confirm the many and continuous reports
+which date back to the beginning of the twentieth cen-
+tury. Sala reported, in 1935, early shoot growth on
+P. salicina in the Baix Llobregat area. In Valencia in the
+1970s and 1980s there were some outbreaks on P. salic-
+ina and P. armeniaca: nowadays cases are isolated (San-
+chez-Capuchino & Forner, 1973; Llécer et al., 1986). In
+the last decade, recurrent ESFY outbreaks and C. pruni
+have been reported in the Baix Llobregat area, condition-
+ing P. salicina cultivation (Lavina et al., 2004; Torres
+et al, 2004). Prunus dulcis and P. avium were not
+
+ 
+
+  
+
+Plant Pathology (2016) 65, 837-846
+
+infected, even in high-infection pressure areas such as
+Baix Llobregat (Catalonia), and confirm these species as
+poor hosts. Prunus mahaleb and P. cerasifera had high
+infection rates without symptoms. Prunus armeniaca and
+P. salicina were the most affected, showing clear symp-
+toms and great damage. In general, there was a low inci-
+dence in P. persica, except in Extremadura, where
+incidence was high. These results are similar to those
+obtained in previous studies (Giunchedi et al., 1982; Jar-
+ausch et al., 2001, 2008). There is disagreement between visual incidence and
+PCR detection rate that could be due to the condition of
+the trees when the samples were taken. This is the case
+for the P. salicina and P. armeniaca plots of Sta Inés,
+Torres de Berrelen and Benissanet 1, with clear symp-
+toms of phenological mismatch in spring. These samples
+had to be taken in September from collapsed trees due to
+the low number of trees with symptoms available. On
+P. persica, some trees without symptoms were also col-
+lapsed, but this low correlation could be due to confu-
+sion with other biotic and abiotic factors. On P. persica,
+other factors could not be discriminated due to the lack
+of specific symptoms showing phenological mismatch in
+this species. This is the case for the Extremadura peach
+plots, where the real ‘Ca. Phytoplasma prunorum’ inci-
+dence was probably slightly lower. The incidence and
+damage were high in Baix Llobregat (Catalonia) and
+Vegas Altas (Extremadura) areas, in agreement with the
+highest C. pruni captures. The low incidence in Valencia,
+Aragon and Lleida is associated with very low C. pruni
+populations and confirmed the limited ‘Ca. Phytoplasma
+prunorum’ presence in these areas, even on very suscepti-
+ble species such as P. salicina and P. armeniaca. The low
+ESFY incidence and C. pruni captures are probably
+related to a lack of potential wild hosts and overwinter-
+
+ 
+
+844 J. Sabaté et al. ing refugee plants in the plains. The results show an
+association between high ESFY incidence areas, large
+C. pruni populations and availability of wild hosts. In
+the Baix Llobregat area, results pointed to P. mabaleb as
+a wild symptomless host, with a high infection rate and
+capacity to host C. pruni. The P. spinosa infection rate
+was lower, as in other countries (Yvon et al., 2004;
+Maier et al., 2013). The infected P. mahaleb plots of
+Torrelles are located only 2 km from the high incidence
+P. salicina plots in Sta Coloma and St Viceng. Although
+P. mabaleb could play an important role in local patho-
+logical cycles, studies of this species in Italy have
+revealed very low infection rates and capacities to host
+this vector (Carraro et al., 2002). Prunus mahaleb was
+not considered a common natural host for ‘Ca. Phyto-
+plasma prunorum’ (Carraro et al., 2004), but sporadic
+cases of ‘Ca. Phytoplasma prunorum’ have been reported
+in regions of Italy such as Trentino, even showing symp-
+toms (Pignatta ef al., 2008). These differences between
+the hosting capacity of P. mabaleb communities could be
+due to the different C. pruni biotypes in Spain (Peccoud
+et al., 2013) or to the genetic differences between the
+P. mabaleb communities. Prunus mahaleb was infected
+in the three plots of Torrelles, but tested negative in
+Begues and Cardé, showing an irregular hosting beha-
+viour. It is important to point out that some P. mahaleb
+are naturalized rootstocks that could belong to different
+varieties. In Vegas Altas there is a high incidence, but no
+large wild Prunus communities within 50 km. It could
+be that C. pruni may have been hosted here by rare,
+small and distant communities of P. spinosa or by culti-
+vated Prunus spp. Another hypothesis is that the peren-
+nial relict endemic P. lusitanica, 50 km from the Vegas
+Altas area in the Guadalupe Mountains, could be the
+host. These P. lusitanica communities, now under study,
+are larger and closer than other wild Prunus spp. Previ-
+ous studies have reported that other perennial Prunus
+species, such as P. laurocerasus, are poor hosts for
+C. pruni and ‘Ca. Phytoplasma prunorum’, but they have
+been experimentally infected (Carraro et al., 2004). The C. pruni dynamics gave two population peaks,
+corresponding to remigrant and emigrant individuals,
+confirming the behaviour observed for C. pruni in other
+European countries (Labonne & Lichou, 2004; Jarausch
+et al., 2008). In the Baix Llobregat area, the higher cap-
+tures of C. pruni on wild P. mabaleb than in P. salicina
+orchards were probably due to host species preferences
+of C. pruni and to the insecticide treatments used on the
+commercial plots. While insecticide treatments do not
+kill all C. pruni in commercial orchards, they probably
+reduce the population to levels difficult to track, but
+enough to produce very high incidences. The results here
+showed that C. pruni fed and developed on wild hosts
+outside the commercial plots, although untreated or
+deserted orchards could also play an important role
+(Thebaud et al., 2006, 2009). Yellow sticky traps were a
+good method for trapping C. pruni in commercial orch-
+ards with low populations. Zero captures were obtained
+when the striking method was used on commercial plots
+
+ 
+
+of P. salicina and P. cerasifera in the Baix Llobregat
+area. The capture peaks were variable in dates and num-
+ber of captures from year to year. Comparing the cap-
+tures between P. mahaleb and P. salicina, the dates of
+the two peaks were similar, but the remigrants peak was
+generally greater than the emigrants peak on P. mahaleb,
+whilst the opposite was the case on P. salicina. Comparing the vector dynamics between Extremadura
+and Catalonia, there was a tendency for the emigrant peak
+to appear 1 month earlier in Extremadura. This cannot be
+fully confirmed, because winter trapping in Extremadura
+was not successful due to variable circumstances, and the
+remigrant peak was not clearly observed. The remigrant
+peak probably appeared in February, 1 month earlier than
+in Catalonia, as for the emigrant peak, but the loss of the
+traps means this cannot be confirmed. It is possible that
+the remigrant captures in the first peak were very low. The results gave the percentage of remigrant individuals
+as carriers of the phytoplasma in the Baix Llobregat at
+around 40%, in contrast to an average of less than 10%
+of young emigrants from April to June. This was probably
+due to the remigrant individuals being most infected
+because they had had more time to incubate the phyto-
+plasma. This is supported by the transmission efficiency of
+the remigrants being much higher than for emigrants, sug-
+gesting that C. pruni completes latency in its secondary
+overwintering hosts (Thebaud et al., 2009). These infec-
+tion rates are higher than in other countries, but it should
+be taken into consideration that the present data was
+obtained by nested-PCR in contrast with other studies
+(Jarausch et al., 2001, 2008; Carraro et al., 2004). ESFY
+epidemics and damage in Spain can be divided into two
+major patterns: low and high impact. Low impact epi-
+demics can be found in Valencia, Aragon and Lleida (Cat-
+alonia), characterized by generally low incidence and
+C. pruni populations. In general, there are no major hosts
+for the vector or ‘Ca. Phytoplasma prunorum’ within
+50 km of the orchards. High impact epidemics occur in
+the Baix Llobregat area of Catalonia and are associated
+with high incidence and levels of damage in the orchards;
+this area is characterized by populations of infected wild
+P. mahaleb hosting large populations of _ infective
+C. pruni. These findings for P. mahaleb (high ‘Ca. Phyto-
+plasma prunorum’ infection rates and high C. pruni host-
+ing capacities) combined with the poor results for
+P. spinosa, suggest a major role for P. mahaleb in the
+ESFY cycle in this area. Historical ESFY reports, the long history of stone fruit
+cultivation, and the tolerance of traditional varieties and
+wild Prunus spp. in the Baix Llobregat area, indicate co-
+adaptation between ‘Ca. Phytoplasma prunorum’, the
+autochthonous Prunus species/varieties and C. pruni. For
+this reason, the introduction of such a very sensitive spe-
+cies as P. salicina unleashed a major epidemic and eco-
+nomic loss. The identification of ‘Ca. Phytoplasma
+prunorum’ on isolated wild or naturalized individuals of
+P. domestica and P. cerasifera indicates that these species
+could play a secondary role in the epidemiology. Based
+on these results, P. mahaleb communities could hold the
+
+Plant Pathology (2016) 65, 837-846
+
+Epidemiology of Ca. P. prunorum in Spain 845
+
+key for the control of the disease in the Baix Llobregat
+area. Here, the main action to fight against ESFY has
+been substituting P. salicina’ with the __ tolerant
+P. cerasifera and P. domestica, remaining productive
+despite infection. Other control actions undertaken have
+been the elimination of deserted Prunus spp. near the
+orchards and insecticide treatments before flowering
+directed at remigrant C. pruni. However, these measures
+could not be fully implemented because of the impossi-
+bility of completely removing wild Prunus spp. and the
+insecticide safety margin for flowering required for bee
+protection. In conclusion, these data show that ESFY is widely
+distributed in Spain, but generally with low incidences. It
+is important to take into consideration that Spain is in
+the southern border region of ESFY and any climate
+change will move the limit of distribution of the wild
+and cultivated Prunus spp., and therefore C. pruni and
+‘Ca. Phytoplasma prunorum’ distribution. In fact, the
+lower incidence and spread in Valencia found in this
+study compared to the 1980s (Llacer ef al., 1986) is
+probably due to this climate change. It could be that this
+area is the southern limit for ESFY in Mediterranean cli-
+mate zones, but more complete studies are required to
+establish this limit in continental climate areas such as
+Extremadura. This border effect, the climate change and
+the adaptation of vectors and plants, are very important
+factors for predicting future risks. Large-scale outbreaks
+and their duration should highlight the possibility of
+destructive episodes in Spain. Future studies of ESFY
+should focus on characterization of the pathological
+cycle that led to the outbreak on peach trees in Extrema-
+dura, and the development of better control strategies for
+ESFY and its vector C. pruni. Acknowledgements
+
+This study was funded by grants RTA04-066 and RTA
+09-070 from the Programa Sectorial de ID, MAPA,
+Spain. The authors would like to thank Remedios Santi-
+ago from SPV Junta de Extremadura, Rafael Balduque
+from SIA, Zaragoza (Aragén), Joan Catala from Estacién
+Experimental Agraria of Llutxent (Valencia) and Andreu
+Vila from Associacié defensa vegetal del Baix Llobregat
+(Catalonia) for their help in identifying the plots and
+conducting the surveys. References
+
+Ahrens U, Seemiiller E, 1992. Detection of DNA of plant pathogenic
+mycoplasmalike organisms by a polymerase chain reaction that
+amplifies a sequence of the 16S rRNA gene. Phytopathology 82, $28—
+32. Batlle A, Altabella N, Sabaté J, Laviia A, 2008, Study of the
+transmission of stolbur phytoplasma to different crop species, by
+Macrosteles quadripunctulatus (Kirschbaum). Annals of Applied
+Biology 152, 235-42. Carraro L, Osler R, Loi N, Ermacora P, Refatti E, 1998. Transmission of
+European stone fruit yellows phytoplasma by Cacopsylla pruni. Journal of Plant Pathology 80, 233-9. Plant Pathology (2016) 65, 837-846
+
+Carraro L, Ferrini F, Ermacora P, Loi N, 2002. Role of wild Prunus
+species in the epidemiology of European stone fruit yellows. Plant
+Pathology 51, 513-7. Carraro L, Ferrini F, Ermacora P, Loi N, 2004. Transmission of
+European stone fruit yellows phytoplasma to Prunus species by
+using vector and graft transmission, Acta Horticulturae 657, 449-
+53. Cieslinska M, 2011. European stone fruit yellows disease and its causal
+agent ‘Candidatus Phytoplasma prunorum’. Journal of Plant
+Protection Research 51, 441-7. Danet JL, Balakishiyeva G, Cimerman A et al., 2011. Multilocus
+sequence analysis reveals the genetic diversity of European fruit tree
+phytoplasmas and supports the existence of inter-species
+recombination. Microbiology 157, 438-50. Deng , Hiruki C, 1991. Amplification of 16S FRNA genes from
+culturable and non-culturable mollicutes. Journal of Microbiological
+Methods 14, 53-61. Garcfa-Chapa M, Lavifia A, Sanchez I, Medina V, Batlle A, 2003. Occurrence, symptom expression and characterization of phytoplasma
+associated with pear decline in Catalonia (Spain). Journal of
+Phytopathology 151, 584-90. Garefa-Chapa M, Sabaté J, Lavifia A, Batlle A, 2005. Role of Cacopsylla
+pyri in the epidemiology of pear decline in Spain. European Journal of
+Plant Pathology 111, 9-17. Giunchedi L, Poggi Pollini C, Credi R, 1982. Susceptibility of stone fruit
+trees to the Japanese plum-tree decline causal agent. Acta
+Horticulturae 130, 285-90. Hodkinson ID, White IM, 1979. Homoptera. Psylloidea. Handbooks for
+the Identification of British Insects. Vol. II, part S(a). London, UK:
+Royal Entomological Society of London. Jarausch W, Eyquard JP, Lansac M, Mohns M, Dosba F, 2000. Susceptibility and tolerance of new French Prunus domestica cultivars
+to European stone fruit yellows phytoplasma. Journal of
+Phytopathology 148, 489-93. Jarausch W, Danet JL, Labonne G et al., 2001. Mapping the spread of
+apricot chlorotic leaf roll (ACLR) in southern France and implication
+of Cacopsylla pruni as a vector of European stone fruit yellows (ESEY)
+phytoplasmas. Plant Pathology 50, 782-90. Jarausch B, Miihlenz I, Beck A, Lampe I, Harzer U, Jarausch W, 2008. Epidemiology of European stone fruit yellows in Germany. Acta
+Horticulturae 781, 417-22. Kison H, Seemiiller E, 2001. Differences
+European stone fruit yellows phytoplasma and susceptibility of stone
+fruit trees on various rootstocks to this pathogen. Journal of
+Phytopathology 149, 533-41. Labonne G, Lichou J, 2004, Data on the life cycle of Cacopsylla pruni,
+Payllidae vector of European stone fruit yellows (ESFY) phytoplasma,
+in France. Acta Horticulturae 657, 465-70. Laviiia A, Sabaté J, Garcfa-Chapa M, Batlle A, Torres E, 2004. ‘Ocurrence and epidemiology of European stone fruit yellows
+phytoplasmas in Spain. Acta Horticulturae 657, 489-94. Llicer G, Medina V, Archelos D, 1986. Investigaciones sobre la
+deteccién, difusién natural y control del enrollamiento clorético del
+albaricoquero. Boletin Sanidad Vegetal de Plagas 12, 181-207. Lorenz KH, Dosba F, Poggi Pollini C, Llacer G, Seemiiller E, 1994. Phytoplasma diseases of Prunus species in Europe are caused by
+genetically similar organisms. Zeitschrift fiir Pflanzenkrankbeiten und
+Pflanzenschutz 101, 567-75. Lorenz KH, Schneider B, Ahrens U, Seemiiller E, 1995. Detection of the
+apple proliferation and pear decline phytoplasmas by PCR
+amplification of ribosomal and nonribosomal DNA. Phytopathology
+85, 771-6. Maier C, Bachinger K, Martel J, Engel C, Czipin L, Riedle-Bauer M,
+2013. European stone fruit yellows in Austria: epidemiological
+observations and a mark and recapture experiment tracking
+the dispersal of its vector Cacopsylla pruni (Hemiptera: Psyllidae)
+in a model apricot orchard. Journal of Phytopathology 161,
+713-22
+
+ 
+
+in strain virulence of the
+
+ 
+
+  
+
+846 J. Sabaté et al. Marcone C, Jarausch B, Jarausch W, 2010. ‘Candidatus Phytoplasma
+prunorum’, the causal agent of European stone fruit yellows, an
+overview. Journal of Plant Pathology 92, 19-34. Peccoud J, Labonne G, Sauvion N, 2013. Molecular test to assign
+individuals within the Cacopsylla pruni complex. PLoS ONE 8,
+72454. Pignatta D, Forno F, Giunchedi L et al., 2008. A real time PCR assay for
+the detection of European stone fruit yellows phytoplasma (*Ca. P.
+prunorum’) in plant propagation material. Acta Horticulturae 781,
+499-504
+
+Sala R, 1935. El Ciruelo y su Cultivo. Barcelona, Spain: Salvat Editores. Sanchez-Capuchino JA, Forner JB, 1973. Vegetative disorders in Japanese
+plum trees on myrobalan rootstocks in the province of Valencia
+(Spain). Acta Horticulturae 44, 93-7. Scemiiller E, Schneider B, 2004. *Candidatus Phytoplasma mali’,
+*Candidatus Phytoplasma pyri? and ‘Candidatus
+Phytoplasma prunorum’, the causal agents of apple proliferation,
+pear decline and European stone fruit yellows, respectively. International Journal of Systematic and Evolutionary Microbiology
+54, 1217-26. Smart CD, Schneider B, Blomquist CL et al., 1996. Phytoplasma-specific
+PCR primers based on sequences of the 165-235 rRNA spacer region. Applied and Environmental Microbiology 62, 1988-93. Steffek R, Follak S, Sauvion N, Labonne G, MacLeod A, 2012. Distribution of *Candidatus Phytoplasma prunorum’ and its vector
+Cacopsylla pruni in European fruit-growing areas: a review. EPPO
+Bulletin 42, 191-202. Thebaud G, Sauvion N, Chadoeuf J, Dufils A, Labonne G, 2006. Identifying risk factors for European stone fruit yellows from a survey. Phytopathology 96, 890-9. Thebaud G, Yvon M, Alari R, Sauvion N, Labonne G, 2009. Efficient
+transmission of *Candidatus Phytoplasma prunorum’ is delayed by
+eight months due to a long latency in its host-alternating vector. Phytopathology 99, 265-73. Torres E, Martin MP, Paltrinieri S, Vila A, Masalles R, Bertaccini A,
+2004. Spreading of ESFY phytoplasmas in stone fruit in Catalonia. Journal of Phytopathology 152, 432-7. Yvon M, Labonne G, Thebaud G, 2004. Survival of European stone fruit
+yellows phytoplasma outside fruit crop production areas: a case study
+in southeastern France. Acta Horticulturae 657, 477-81. Plant Pathology (2016) 65, 837-846

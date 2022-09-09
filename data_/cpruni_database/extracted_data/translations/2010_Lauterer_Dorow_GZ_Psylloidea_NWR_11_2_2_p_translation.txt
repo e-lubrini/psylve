@@ -1,0 +1,929 @@
+Lauterer, P. & Dorow, W.H.O. 2010 The leaf fleas (Psylloidea) of the natural forest reserve Goldbachs- and Ziebachsriick
+(Hesse). Study period 1994-1996. In: Dorow, W.H.O.; Buick, T. & Kopetke, J.-P.: Natural Forest Reserves in Hesse. Volume 11/2.2. Goldbachs and Ziebachsrück. Zoological Investigations 1994-1996, Part 2. Communications from the Hessian
+State Forestry Administration 46: 99-110. The leaf fleas (Psylloidea) of the natural forest reserve
+Goldbachsruck and Ziebachsruck (Hesse). Study period 1994-1996
+
+Pavel Lauterer & Wolfgang H.O. Dorow
+
+short version
+
+In the study area, seven species with a total of 45 individuals were found in the traps
+will. This accounts for 5.9% of the German and 14.9% of the Hessian species. Most common type of area
+was Trioza urticae. A more frequent occurrence is indicated for Cacopsylla melanoneura and Trioza urticae
+in the comparison area. The biocenosis is characterized by species of the shrub and tree layer
+(from Crataegus, Prunus, Quercus, Salix) and one sorrel or stinging nettle colonizer. Use all kinds
+Conifers for wintering. The results are compared with those from the previously examined Hessian
+compared to natural forest reserves
+
+The research work was carried out in cooperation with the "Landesbetrieb Hessen-Forst"*
+this financially required. Abstracts
+
+Psyllids (Psylloidea) of the Strict Forest Reserve “Goldbachs- und Ziebachsriick" (Hesse, Germany). Investigation period 1994-1996
+
+A total of seven species with 45 specimens was recorded in the investigation area by traps. This represents
+5.9% of the German and 14.9% of the Hessian species. The most abundant species in the investigation area
+what Trioza urticae. Cacopsylla melanoneura and Trioza urticae were more abundant in the managed site. the
+biocoenosis is characterized by species from the shrub and tree layer (from Crataegus, Prunus, Quercus, Salix)
+and by one coloniser on each of Rumex and Urtica. All species use conifers for overwintering. Results are
+compared to those of previously studied Hessian forest reserves and their reference sites. Research was conducted in cooperation with and financially supported by "Landesbetrieb Hessen-Forst'. keywords
+
+beech forest, biodiversity, Central Europe, Fagus sylvatica, faunistics
+
+contact: dr Pavel Lauterer, Moravian Museum, Department of Entomology, Hviezdoslavova 29a, CZ-62700 Brno-Slatina;
+Email: ento.laut@volny.cz
+
+dr Wolfgang H. O. Dorow, Senckenberg Research Institute and Natural History Museum, Project Hessian Natural Forest Reserves,
+Senckenberganlage 25, D-60325 Frankfurt am Main; Email: Wolfgang. Dorow@senckenberg.de
+
+99
+
+Natural forest reserves in Hesse, Volume 11/2.2 Goldbachs- and Ziebachsriick. Zoological Investigations 1994-1996, Part 2
+
+  
+
+ 
+
+contents
+1 introduction.. ae wee 1
+2 Materials and Method 101
+
+ 
+
+3 species profiles
+3.1. Types of the Goldbachs and Ziebachsrücks. 102
+
+   
+
+3.2. Other species from other Hessian natural forest reserves and their comparison areas
+
+ 
+
+ 
+
+105
+4 Discussion.. 109
+5 literature. 110
+List of Tables
+
+Tab. 1: Psylloidea finds in natural forest reserves in Hesse ..
+
+ 
+
+100
+
+LaurereR, P. & Dorow, W. H. O Blattfiéhe (Psylloidea)
+
+ 
+
+1 Introduction
+
+The superfamily of leaf flakes (Psylloidea) includes, along with aphids (Aphidoidea), scale insects
+(Coccoidea) and whitefly (Aleyrodidae) to the order of plant lice (Sternorrhyncha). Sometimes the latter are only considered as a suborder and together with bugs (Heteroptera),
+Cicadas (Auchenorrhyncha) and Sheathbills (Coleorrhyncha) in the order of the Beak Kerfe
+(Hemiptera) combined. In the past, cicadas and plant lice were combined into the Homoptera,
+it turned out, however, that there is no closest relationship between these two groups,
+the Homoptera are not monophyletic. Around 3,500 leaf flea species have been described worldwide, 382 of which live in Europe (BurckHaRDT 2010)
+and 189 in Central Europe (BuRckHarDT 2002). Since many species are still undescribed, is worldwide
+with a twice as high number of species expected. So far 119 species are known from Germany and
+from Hesse 47 (BurckHARDT & LautERER 2003). In general, the leaf flea fauna of Germany is still
+insufficiently studied, so that other species and larger areas of distribution are to be expected. A comprehensive treatment of the native fauna is in preparation (BURCKHARDT & LAUTERER). All psyllids have an exclusively phytosug diet, most species are mono- or oligophagous
+to individual or closely related nutrient plant species (mainly Dicotyledonae, more rarely
+Monocotyledonae) restricted. In Germany only Bactericera nigricornis polyphagous lives from representatives
+different plant orders. Depending on the species, the females lay their eggs on leaves, buds,
+Blossoms, flower stalks, stalks or on the bark of young twigs and fix them with a pedicelus
+in plant tissue. The egg is separated from living plant tissue with water via a hydropyle
+provided. The larvae have a characteristic oval shape that is flattened dorsoventrally. The slip-
+larvae suck on plants and, depending on the species, either live freely on these plants or
+sessile in grib galls or in closed galls. Also those sucking freely on the plant
+Species are hardly mobile. They produce large amounts of honeydew and wax gland secretions. Also
+the adults produce honeydew, but in smaller quantities. The highly sugary honeydew
+Glues together plant stigmata and serves as a growth substrate for the black mycelia of the call dew fungi
+(Capnodiaceae) on leaves and fruit. Also sucking assimilates, the formation of galls
+or leaf deformation and the transmission of phytoplasma bacterial infections leads to
+damage to plants. However, some species are also used in biological pest control
+against neophytes such as B. the Japanese herb gardener (Fallopia japonica) used. The imagines have good jumping ability and are excellent long-distance flyers;
+Species that overwinter on conifers as imago often fly tens of kilometers (CerMAk & LAUTERER
+2008). Most native species overwinters as an imago, particularly on conifers, another
+considerable portion in egg stage and few as larvae on roots of herbs or basal on
+leaf sheaths. The migration phase begins in most species 7-10 days after moulting
+Imago, often still as weakly sclerotized individuals (especially on Salix species, LautERER
+personal obs.). Return migration to host plants begins early in the year, particularly at
+Cacopsylla species. So far, the psyllid fauna of the Buchenwalder has not been extensively studied, since the
+Beech in Europe does not feed on leaf flies and only a few species overwinter on it (Lauterer
+in preparation). The psyllid fauna of the Central European beech forest is thus made up of leaf fleas
+of the secondary tree species and the shrub and herbaceous layer plants and is
+Wintering guests from surrounding biotopes added. 2 Materials and Method
+
+The Goldbachs- and Ziebachsriick lies in the north-east Hessian highlands approx. 13 km northeast of
+Bad Hersfeld at an altitude of 300-365 m above sea level. NN (Coordinates: 9° 53' East, 50° 56' North). The middle
+Annual temperature is 8° C, mean annual precipitation is 748 mm. The area is divided
+into a total reserve (31.3 ha) and two adjoining managed comparison areas (together
+36.9 hectares). The forest grows on Pseudogley-Parabraunerde from lésslehminfluenced overburden sediment
+About base rubble from Middle Buntsandstein. The study area is submontane
+
+101
+
+Natural forest reserves in Hesse, Volume 11/2.2 _ Goldbachs and Ziebachsriick. Zoological Investigations 1994-1996, Part 2
+
+ 
+
+Grove cornmeal beech forest (Luzulo-Fagetum) with sessile oak (Quercus petraea), spruce (Picea abies),
+Larch (Larix europaea), pine (Pinus sylvestris) and hornbeam (Carpinus betulus). The beeches were
+At the beginning of the study mostly 142 years old (Dorow et al. 2009). A small stream flows through it
+The area. Biennial catches from 1994-1996 from 48 different trap sites were used
+evaluated, the ground traps, eklektors on standing trunks of living and dead
+beeches as well as trunks lying more or less freely on the ground, stump
+and deadwood collectors, blue, yellow and white paint shells, air collectors and deadwood collectors
+included (see Dorow et al. 1992, 2009). Targeted collections were not carried out. 3 species profiles
+
+The flea fauna of Germany was analyzed by BurckHARDT & LauTeRER (2003) based on published data
+compiled separately by federal state. In general, however, it has not yet been adequately investigated,
+which was preparatory work for a comprehensive presentation of the local fauna (BuRcKHARDT & LAUTERER
+in preparation) with numerous as yet unpublished collections. Therefore, with re-evidence
+to be expected for many federal states. For this reason, detailed information is not given below
+Present information on distribution in Germany. 3.1. Types of Goldbachs and Ziebachstricks
+
+Aphalara exilis (Weser & Mour, 1804)
+
+[Found GF: 1, TR: 1, VF: 0]
+
+Distribution: This species has only recently been scientifically described in detail (OssiANNILSSON
+1992, BurckHARDT & LautERER 1997), since several species are among the earlier reports
+hid. For this reason, older find data cannot be used without viewing the material for
+Distribution information can be used, but the species is certainly over the whole of Europe and the northern ones
+widespread in the Caucasus. In contrast, earlier reports from Asia and North America are different
+assign species. The species is widespread in Germany. Ecology: Aphalara exilis is meso- to hygrophilic, relatively nitrophilic and psychrophilic (cold-loving) and
+inhabits grassland in particular. The species is rarely found with many individuals, the most common
+in montane and alpine habitats. Aphalara exilis lives on the lesser sorrel (Rumex acetosa),
+Blunt dock (Rumex obtusifolius) and other closely related species. In the event of a heavy infestation
+with larvae the leaves may turn purple. Aphalara exilis is monovoltine and overwinters as
+Imago on conifers or in the litter layer of forests and meadows. The wintered animals are alive
+until July, the new generation hatches in August. The oviposition takes place from May to early June near the
+nerves of older leaves. The larvae stop in particular, protected by fluffy waxy secretions
+the bases of shoots and petioles. Occurrence in the area: Only one male was caught between November 30th, 1994 and April 27th, 1995 in
+caught in the white shell of the Total Reserve. Cacopsylla brunneipennis (Epwarps, 1896)
+[Found GF: 2, TR: 1, VF: 1]
+
+Distribution: The species is known from Europe, Kazakhstan and Transcaucasia. In
+It is rare in southern Europe and only occurs in the mountains. The species is relatively widespread in Germany
+and often. 102
+
+LaurereR, P. & Dorow, W. H. O Blattfiéhe (Psylloidea)
+
+ 
+
+Ecology: Cacopsylla brunneipennis lives on willow species (Salix spp. ), especially on Salix caprea. The species is monovoltine and overwinters as an imago. She sets off on the mild February days
+Search for their host plants, where oviposition begins in March and reaches its maximum in April. The larvae first stay in the female catkins and on the young leaves. the 5th The larval stage lasts until May, and the first imagines appear from the beginning of May. After a suction phase
+from a little over a week, the animals look for conifers as protective plants. Occurrence in the area: One female was caught between 26.10. until 6.12.1995 in
+Stammeklektor GZ 31 of the total reserve or GZ 33 of the comparison area caught. Cacopsylla crataegi (CUPBOARD, 1801)
+[Found GF: 1, TR: -, VF: 1]
+
+Distribution: Cacopsyllacrataegi is a holopalaarctic species with a wide distribution (according to
+of their food plant genus from Great Britain to the Far East and India). She is in Germany
+widespread but not common. Ecology: Cacopsylla crataegi prefers warm toned habitats. The species lives on oligophagous
+Hawthorn (Crataegus spp. ), is univoltine and overwinters as an imago mainly on conifers, more rarely
+on deciduous trees (hawthorn [Crataegus spp. ], oaks [Quercus spp.] Etc.). After hibernation
+the animals first fly to various shrubs and trees (Prunus, Salix, Quercus, etc. ), concentrated
+but then in April they feed on the actual host plants. Older host information from Georgia,
+according to which the species is also found on apple (Malus domestica), Greek whitebeam (Sorbus graeca) and
+Service tree (Sorbus domestica) lives (GEGECHKOR!I & Locinova 1990), could not in other regions
+beeing confirmed. Egg-laying takes place in the first decade of May, the first imagines of the new ones
+Generation appear at the end of May and especially in June. After spending several days on the
+Nutrient plants they look for protective plants during the parapause and then for their overwintering habitats. Occurrence in the area: A female was killed between 26.10. to 6.121995 in
+Stammeklektor GZ 33 caught in the comparison area. Cacopsylla melanoneura (Foerster, 1848)
+[Founds GF: 8, TR: 1, VF: 7]
+
+Distribution: Cacopsylla melanoneura is a holopalaarctic species with a wide distribution of
+Great Britain to the Far East and Japan. In Germany it goes with Cacopsylla mali and
+Trioza urticae among the most common psyllid species. Ecology: The species lives on hawthorn (Crataegus spp. ), but was also found on apple (Malus spp. ), Pear
+(Pyrus spp.) and medlar (Mespilus spp.) in Georgia, Hungary, Crimea, Czech Republic, Germany
+and more recently in north-west Italy, where they are an important vector for
+Photoplasma diseases in apple trees. In field experiments it could be shown that
+that not all apple and pear varieties are vacuumed. The species is already leaving its winter quarters
+in February/March and can then first be found on a wide variety of bushes and trees, concentrated
+but concentrates almost exclusively on Crataegus in March/April. Larvae appear from early May to
+At the end of July, the first adults of the new generation shortly before the end of May. After about a week
+migration takes place on the nutritive plant - mostly passively by wind drift - over dozens of
+kilometers to the overwintering plants. Very few individuals remain in the lowlands
+master migration to conifers at altitudes over 400 m up to alpine forests (Cermak & Lauterer 2008). According to the findings in the Hohestein natural forest reserve (LauterRER & Dorow 2007), there are also dead ones
+branches on the ground as thick as an arm are used for wintering. Occurrence in the area: Five males and three females were exclusively found in the winter
+Fishing periods (March 25th - April 25th, 1994, November 30th, 1994 - April 27th, 1995, December 7th, 1995 - May 3rd, 1996) with log collectors
+living beeches and dirrstanders, one animal also with the GZ 121 air extractor. 103
+
+Natural forest reserves in Hesse, Volume 11/2.2 _ Goldbachs and Ziebachsriick. Zoological Investigations 1994-1996, Part 2
+
+ 
+
+Cacopsylla pruni (Scopoul, 1763)
+
+[Found GF: 2, TR: 1, VF: 1]
+
+Distribution: Cacopsylla pruni is a Euro-Siberian and Central Asian species found everywhere in
+Germany and is most common in the southern parts of the country. Ecology: The monovoltine species is oligophagous on cherries, plums, sloes and apricots (Prunus
+spp.) and possibly some closely related species. It is considered a dangerous carrier of
+Stone fruit yellowing disease caused by phytoplasma (see e.g. B. Ackermann et al. 2006). In Central Europe, however, the species lives mainly on sloe (Prunus spinosa). cacopsyllapruni
+Winters as an imago almost exclusively on conifers, very rarely on shrubs. The host plants will
+from the first decade of April, but primarily populated in the second. You live until the second
+decade of June. Egg-laying takes place from the end of April. Like the other representatives of the subgenus
+Thamnopsylla they suck after the imaginal moult only for a short time (one to at most two weeks)
+on the nutritive plants and then switch to their overwintering plants. Occurrence in the area: A female was killed between 25.3. to April 25, 1994 in the blue one
+Color shell of the total reserve caught, another one between 11/30/1994 and 4/27/1995 in
+Air collector of the reference area. Trioza remota Foerster, 1848
+(Founds GF: 7, TR: 5, VF: 2]
+
+Distribution: The total distribution of this species is not exactly known, since it was only recently
+it was discovered that, at least in the Mediterranean area, there were not one but three very similar ones
+types. The species is widespread and common throughout Central Europe - as well as in Germany. Ecology: The monovoltine species lives monophagously on oak trees (Quercus spp. ), especially on English oak
+(Quercus robur) and sessile oak (Quercus petraea). The imagines are probably overwintering
+high on deciduous trees but also on conifers. They migrate back at the end of April/beginning of May
+their host plants when they are not yet leafy. You then focus on particular
+forest edges. In May, the females lay 1-2 eggs on the underside of many ca. 5 cm long
+peel off. The eggs and larvae of the 1. Stages cause small flat pitted galls that
+are concave on the underside. Usually there are only a few galls on a leaf. But you are
+regularly distributed over large forest areas. in the 2nd Larval stage will be parapaused by the end of August
+inserted, after which the larval development is continued for a short time. In September and October
+then the imagines of the new generation hatch, which gradually move into the wintering habitats
+wander off Occurrence in the area: There were three males and four females with an elecector
+caught on a live beech trunk and yellow colored shells only in the cold season
+(25.4.-26.5.1994, 30.11.1994-27.4.1995, 6.12.1995-3.5.1996). It should be with them to animals at the
+migration towards or away from winter quarters. Trioza urticae (Linnaeus, 1758)
+[Founds GF: 21, TR: 5, VF: 16]
+
+Distribution: The species has a holopalaarctic distribution, but is absent in Japan and the Canary Islands,
+but penetrates to India. It is common throughout the range. Ecology: Trioza urticae lives monophagously on stinging nettles (Urtica spp. ), in Central Europe on Urtica
+dioica and Urtica urens. The species prefers shady habitats in forests where migratory individuals
+can also be found on the lower branches of bushes and trees. Trioza urticae is polyvoltine (the
+number of possible generations is unknown) and shows no dormancy, only cold inhibition. Adults are found all year round, larvae from June to November. In case of mass infestation
+Deformations can occur, particularly at the tips of young nutritive plants: twisting
+and dwarfing of the stem, curling and wrinkling of the leaves. Hibernation takes place in
+imaginal stage mainly in the herbaceous layer of damp forest habitats rich in stinging nettles,
+less often on conifers. The species does not undertake long migrations to the wintering grounds. 104
+
+Laurerer, P. & Dorow, W. H. O Blattfdhe (Psylloidea)
+
+ 
+
+Occurrence in the area: The species was identified in the area with eclects on standing living and
+dead trunks and blue and yellow colored shells. Most catches come in the cold
+Season from November to April, only the catches with the yellow colored shells arrive in July
+1994 and 1995. These are probably animals that live between feeding and wintering habitats
+migrated. 3.2. Other species from other Hessian natural forest reserves
+and their comparison areas
+
+The other psyllid species listed in Table 1 from Hessian natural forest reserves and their
+Comparative areas are briefly presented below. Tab. 1: Psylloidea finds in natural forest reserves in Hesse
+GF = total area, L = larvae, TR = total reserve, VF = comparison area, * = evidence only from collections
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+332
+Be
+Goldbachs and | 20 =
+Niddanange Schénbuche Hohestein Ziebachsrick «| &
+Type TR VF GF |TR VF GF |TR VF GF |TR WF GF |< <
+Psyllidae
+Aphalara crispicola Ossiannitsson, 1987 1 1 1 1
+Aphalara exilis (WeBer & Mour, 1804) 1 1 1 1 1 1 3 3
+Baeopelma foersteri (FLOr, 1861) 2 2 1 1 (2 3
+Cacopsyila brunneipennis (Eowaros, 1896) 30 29 «59 | 24 30 1 1 2) 3 9
+Cacopsylla crataegi (CUPBOARD, 1801) 22 1 4 1 1/3 4
+Gaconsrie melanoneura (Foerster, 1848) % % % 5 % 4 13 é 9 é é é | é ~
+Cacopsylla pulchra (ZetTersTevT, 1838) 2 2 1 2
+Cacopsylla pyrisuga (Foerster, 1848) 2 3 5 * * 2 5
+Cacopsylla saliceti (Foerster, 1848) 1 1 2 2 4 (2 5
+Craspedolepta malachitica (Davisome, 1851) 1 1 \4 1
+Craspedolepta nebulosa (Zerrersteor, 1828) 1 4 j4o4
+Craspedolepta flavipennis (Foerster, 1848) jE 1 4
+/ sonchi (Foerster, 1848)? Psylla alni (Linnaeus, 1758) 6 1 7 1 7
+Psylla fusca (Zerterstevt, 1828) 1 1 1 1
+Psyllopsis fraxini (Linnaeus, 1758) 1 1 2 |4 2
+Psyllopsis fraxinicola (Foerster, 1848) 15 15 1 1 (2 6
+Rhinocola aceris (Linnacus, 1758) 2 1 3 } 1 3
+Triozidae |
+Bactericera curvatinervis (Foerster, 1848) 2 1 3 } 1 3
+Bactericera modesta (Foerster, 1848) 1 1 1 1
+Trioza abdominalis FLor, 1861 1 1 1 1
+Trioza anthrisci BurckHarot, 1986 2 2 (12
+Trioza flavipennis Foerster, 1848 1 1 2 | 4 2
+Trioza foersteri MeveR major, 1871 1 1 } 44
+Trioza remota Foerster, 1848 2%2a | 1 6 | 4 1 5) 5 2 7) 8 86
+Trioza rhamni (CUPBOARD, 1801) 1 1 \4 1
+Trioza rotundata Fior, 1861 1 1 1 1
+Trioza urticae (Linnaeus, 1758) 76 76 4 1 5 7 4 W 5 16 21 3 113
+gen. sp. 2 1 2 5
+sum of individuals | 223 162 385 | 101 50 (151 28 15, 43 15, 30 45 624
+‘Total Species 7 7 23 7 9 W 4 8 8 6 6 7 28
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aphalara crispicola Ossianni-sson, 1987
+
+Distribution: recently newly described species with an insufficiently known overall
+wide area; apparently occurring throughout Europe with the exception of the southern European peninsulas
+
+Ecology: one generation per year; Imagines wintering on conifers; Nutrient plants: sorrel species
+(Rumex crispus, Rumex obtusifolius, Rumex conglomeratus) and various other plants; most of time
+rarely and only in the undergrowth of forests and on forest paths, but in some years even in
+Open country biotopes very common
+
+105
+
+Natural forest reserves in Hesse, Volume 11/2.2 _ Goldbachs and Ziebachsriick. Zoological Investigations 1994-1996, Part 2
+
+ 
+
+Baeopelma foersteri (Fior, 1861)
+Distribution: Widespread and common throughout the Palaarctic
+
+Ecology: one generation per year; Hibernation in the egg stage on the leaf surface of
+leaf buds; Larvae hatch during the first days of budding; Nutrient Plants:
+Black alder (Alnus glutinosa) and gray alder (Alnus incana), especially on stream banks
+
+Cacopsylla pulchra (ZeTTERSTEDT, 1838)
+
+Distribution: common and widespread in northern and central Palaarctic Great Britain
+to the Far East and Japan; very common on pastures throughout Germany
+
+Ecology: one generation per year; imaginal overwintering on conifers; after hibernation
+predominate females; Migration back to the food plants starts as early as February and reaches you
+maximum in March; short larval development period, first adults in the first decade of May; Nutrient Plants:
+Willows (Salix spp. ), mainly Salix caprea, Salix cinerea, Salix purpurea, but also Salix alba and
+various other Salix species
+
+Cacopsylla pyrisuga (Foerster, 1848)
+Distribution: Widespread and common throughout the Palaarctic
+
+Ecology: important pest on pear trees, especially in nurseries; larvae
+and imagines prefer to suckle on young, upper branches, where they curl up and
+Cause shortening of shoots, but also occur on branches from the previous year; Nutrient Plants: Pear
+(Pyrus spp. ), especially domesticated varieties; one generation a year; Imagines hibernate on
+conifers, often in alpine forests; the return migration to the nutritive plants takes place in April
+
+Cacopsylla saliceti (Foerster, 1848)
+
+Distribution: Euro-Siberian species, distributed from Great Britain to the Far East
+is, only a few records from Asia, missing in Northern Europe, northern limit of distribution in
+Northern Germany, common in Southern Germany
+
+Ecology: one generation per year; Imagines hibernate in the leaf litter, presumably also on
+shrubs, rarely on conifers; Nutrient plants: willows (Salix spp. ), mainly on Salix alba
+and Salix fragilis, also on Salix purpurea, Salix caprea, Salix aurita, Salix elaeagnos and various
+other willow species
+
+Craspedolepta malachitica (DAHiBom, 1851)
+
+Distribution: Distributed across Europe, Siberia and Central Asia; locally common in Germany
+on ruderal surfaces
+
+Ecology: prefers xerothermic biotopes; one generation a year; Nutrient Plant: Wormwood (Artemisia
+absinthium); hibernation in the 3rd-4th larval stage on the roots of the host plant; laying eggs
+inner petals
+
+Craspedolepta nebulosa (ZeTTERSTEDT, 1828)
+
+Distribution:common Euro-Siberian species, also found in the mountains of Central Asia and North America
+was found; locally common in Germany
+
+Ecology: mainly in forests; Nutrient plant: Narrow-leaved willow-herb (Epilobium
+angustifolium); one generation a year; Egg-laying in rows along midrib on very young
+Scroll; first larval stage in leaf galls, before molting to the 2nd The larval stage can be
+Animals fall from the host plant and seek out the roots of the plant, where galls are also formed
+induced; the 3rd and 4th Larval stage (black colored) overwinters in 1-2 cm large balls
+curled up gall-infested thickened roots in deeper layers of the litter; to
+the hibernation migrates the 4th Larval stage in spring on newly grown stems, there goes
+the development rapidly to the light ocher-colored 5. larval stage and to the adult animal
+
+106
+
+LaurereR, P. & Dorow, W. H. O Blattfiéhe (Psylloidea)
+
+ 
+
+Craspedolepta spp. Probably Craspedolepta flavipennis (Foerster, 1848) or Craspedolepta sonchi (Foerster, 1848),
+both are relatively common on meadows in Germany, the former on hawkweed (Hieracium spp.) and
+Pippau (Crepis spp. ), the latter to dandelion (Leontodon spp. ); one generation a year; Wintering
+in the larval stage
+
+Psylla alni (Linnaeus, 1758)
+Distribution: Widespread and common throughout the Palaarctic
+
+Ecology: one generation per year; Nutrient plants: alder (Alnus spp. ), especially Alnus
+glutinosa; Eggs laid on leaf underside within buds overwinter; the first
+The larval stage hatches when the buds sprout
+
+Psylla fusca (ZeTTERSTEDT, 1828)
+Distribution: European species that is common in Germany at locations of its host plant
+
+Ecology: one generation per year; Nutrient plant: gray alder (Alnus incana); hibernation in
+Ice stage in the buds
+
+Psyllopsis fraxini (Linnaeus, 1758)
+
+Distribution: distributed throughout Europe and Asia Minor; with the host plant to North America
+introduced; widespread and common in Germany
+
+Ecology: two generations a year; Nutrient plants: ash trees (Fraxinus spp.) except for the flower ash
+(Fraxinus ornus); Hibernation in the egg stage on the bark of the host plant; oviposition in summer
+the terminal buds; both generations produce conspicuous yellowish galls on the sides of the leaves
+with red veins
+
+Psyllopsis fraxinicola (Foerster, 1848)
+
+Distribution: West Palaarctic species, occurring east to Kazakhstan, to North America
+introduced; common throughout Germany. Ecology: Nutrient plant: Common ash (Fraxinus excelsior), two generations per year,
+do not produce galls, otherwise the way of life corresponds to that of Psyllopsis fraxini
+
+Rhinocola aceris (Linnaeus, 1758)
+
+Distribution: distributed from Europe to Transcaucasia and Central Asia; throughout Germany
+often
+
+Ecology: one generation per year; Nutrient Plants: Maple (Acer spp. ), especially Acer campestre
+and Acer platanoides; oviposition in summer between the outer bud scales; Wintering
+in the first larval stage in the buds
+
+Bactericera curvatinervis (Foerster, 1848)
+Distribution: Eurosiberian species also reported from Japan; not common in Germany
+
+Ecology: two generations a year; Nutrient plants: willows (Salix spp. ), especially Salix
+caprea and Salix aurita, but also Salix purpurea, Salix alba and other species; hibernation in
+Imaginal stage on conifers
+
+Bactericera modesta (Foerster, 1848)
+
+Distribution: locally common in Europe, but an endangered species in Central Europe; in
+Germany rare
+
+107
+
+Natural forest reserves in Hesse, Volume 11/2.2 _ Goldbachs and Ziebachsriick. Zoological Investigations 1994-1996, Part 2
+
+ 
+
+Ecology: two generations a year; Nutrient plants: greater and lesser burnet (Sanguisorba
+officinalis, Sanguisorba minor); both threatened by premature mowing (in June-July and in September),
+which often occurs before the molting of Bactericera modesta to the imago; Imaginal overwintering on conifers
+
+Trioza abdominalis Fvor, 1861
+Distribution: Europe without the southern European peninsulas; not common in Germany
+
+Ecology: Nutrient plant: Meadow yarrow (Achillea millefolium) in the submontane and montane
+range, in the lowlands only in the boreal zone; one generation a year; Imagines hibernate on
+conifers
+
+Trioza anthrisci BurcKHarDT, 1986
+
+Distribution: Europe without the southern European peninsulas; in Germany in the submontane and
+montane area common locally
+
+Ecology: in damp locations (streams and springs, etc. ); Nutrient plants: Meadow chervil
+(Anthriscus sylvestris), meadow hogweed (Heracleum sphondylium) and some related Apiaceae. Imagines wintering on conifers; one generation a year
+
+Trioza flavipennis Foerster, 1848
+
+Distribution: Europe without the southern European peninsulas; often in Germany
+
+Ecology: Often in hilly to montane areas, mainly in streams, along forest paths and
+forest edges, mostly absent in the lowlands; Nutrient plant: ground elder (Aegopodium podagraria);
+
+bulging on the upper side of the leaf is induced by oviposition; Imagines hibernate on
+conifers; one generation a year
+
+Trioza foersteri Meyer major, 1871
+
+Distribution: common in Anatolia and southern Europe, northern distribution limit runs through
+Germany, Czech Republic and Poland; strong annual fluctuations in abundance in Central Europe
+significant increase in populations after several warm years
+
+Ecology: Nutrient plant: wall lettuce (Mycelis muralis), especially in forests of the colline zone;
+induction of pitted galls on the leaves; Imagines wintering on conifers; a generation in
+Year
+
+Trioza rhamni (CUPBOARD, 1801)
+
+Distribution: Europe and Caucasus excluding the southern European peninsulas; in Germany far
+common and frequent
+
+Ecology: Nutrient plant: Purging buckthorn (Rhamnus cathartica); inducing zealous
+pit galls on underside of leaf; in Central Europe two generations a year, in Scandinavia only
+one; Imagines hibernate on conifers, but presumably also in the litter
+
+Trioza rotundata Fior, 1861
+
+Distribution: Europe without the southernmost parts, Caucasus and Transcaucasia; in Germany
+widespread and locally common
+
+Ecology: Nutrient plants: bitter bittercress (Cardamine amara) and other representatives of
+genus and watercress (Nasturtium officinale); in streams and springs as well as swamps
+the colline to montane level; Imagines wintering on conifers; one generation a year
+
+108
+
+LaurereR, P. & Dorow, W. H. O Blattfiéhe (Psylloidea)
+
+ 
+
+4 Discussion
+
+In the Goldbachs-/Ziebachsrück, seven species with a total of 45 individuals caught in the traps
+detected, including 22 males and 20 females. This makes 5.9% of Germans
+and 14.9% of the Hessian species. The finds, separated by total reserve and comparison area,
+are presented in the complete list of species at the end of this volume (Dorow & Buick 2010: Tab. 5). Many
+Species have only been recorded with very few individuals, only for Cacopsylla melanoneura
+and Trioza urticae indicates a more frequent occurrence in the comparison area. So far, in the four natural forest reserves that have been completely examined (FLECHTNER et al. 2000: 495-496,
+Dorow et al. 2004: 336, LauTeRER & Dorow 2007: 95-101) 28 different types of psyllids detected
+(Tab. 1). As with many other animal groups (Dorow & KopeLke 2007, Dorow et al. 2009), were
+most species caught in the Niddahangen and in the Schénbuche. In the Niddahangen was
+in particular the occurrence of other tree species such as maple, alder and ash responsible for this,
+which were (largely) absent in the other areas. The numbers of individuals were also in these two
+Areas well above those of the Hohestein and the Goldbachs- and Ziebachriick. Only Cacopsylla melanoneura and Cacopsylla pruni occurred in all four areas, where they both in
+total reserve as well as in the comparison area were present, only the latter species was missing in the trap catches
+of the total reserve at Hohestein. Five other species occurred in three areas, three in two areas and
+eleven only in one area. Only Cacopsylla brunneipennis were more numerous (over 20 animals per species).
+and Cacopsylla melanoneura caught in the Niddahangen and in the beautiful beech, Trioza remota
+only in the Schénbuche and Trioza urticae only in the Goldbachs and Ziebachsriick. Significant differences in the species spectrum of the total reserve and the comparison area only occurred on
+Hohestein, where twice as many species were caught in the comparison area. However, were
+the additional species are only occupied by single individuals, so that the evidence of these presumably
+species that are relatively few in individuals in the area in just one area can also be due to chance. The number of individuals, on the other hand, differed significantly between the total reserves and theirs
+Comparison areas: In the Niddahangen, the Schénbuche and on the Hohestein, more animals were found in the
+Total reserve caught, in the Goldbachs and Ziebachsrtick, however, in the comparison area. the
+Differences can be mainly on Cacopsylla melanoneura, Cacopsylla brunneipennis and
+Trioza urticae returned. There are no leaf fleas on Fagus sylvatica and therefore the herb and shrub layer-free Central Eu-
+European hall beech forest is not a suitable habitat for this group of animals. But this is changing
+clear as soon as secondary tree species appear or a herb and shrub layer can establish itself. Cacopsylla brunneipennis lives on Salix, Cacopsylla melanoneura on Crataegus and Trioza urticae
+Urtica. The four species caught less frequently in the Goldbachs and Ziebachsriick are also colonists of the
+Shrub and tree layer (Crataegus, Prunus, Quercus) or the herb layer (Rumex). Also the
+Species found only in other natural forest reserves colonize the tree layer (Acer,
+Alnus, Fraxinus, Pyrus, Rhamnus, Salix) or the herb layer (Achillea, Aegopodium, Anthriscus,
+Cardamine, Epilobium, Heracleum, Mycelis, Nasturtium, Rumex, Sanguisorba). All tree settlers
+are to be regarded as autochthonous elements of the study areas. The pear tree settler
+Cacopsylla pyrisuga and a few species of meadow plant colonizers are likely to come from nearby
+lay orchards or grasslands probably flown in for the winter. Only Craspedolepta malachitica is certainly not an autochthonous element of the natural forest reserve
+Niddahange east of Rudingshain, as it lives on Artemisia absinthium. Since the species also no wide
+Migrations carried out is all the more surprising in the find. The species Cacopsylla melanoneura and
+Cacopsylla pruni are worth mentioning as potential vectors of phytoplasma bacteria. For all seven species found in the Goldbachs- and Ziebachsriick, conifers play a role
+wintering habitat plays a role, for most even the most important one. Also from the 20 additional in
+eleven coniferous trees used in other Hessian natural forest reserves
+Purpose, the remaining species remain on their host plants. Psyllids live as larvae and imagines with little mobility - sometimes even in galls - on their food.
+plants. Many species - sometimes even distant ones - only look for the imaginal skin
+wintering habitats. This explains why most species only during their migratory phase
+were recorded and why in all natural forest reserves examined so far only one larva of a
+Craspedolepta species could be detected with the traps. 109
+
+Natural forest reserves in Hesse, Volume 11/2.2 _ Goldbachs and Ziebachsriick. Zoological Investigations 1994-1996, Part 2
+
+ 
+
+5 literature
+
+Ackermann, T.; HOHN, H. & Bunter, M. 2006. European stone fruit yellowing disease (ESFY) —
+Surveillance 2006 in Switzerland. Swiss magazine fir Obst- und Weinbau 22: 8-11. Burcknarot, D. 2002. Provisional directory of leaf fleas in Central Europe with information on host plants
+(Insecta, Hemiptera, Psylloidea). Contributions to Cicada Lore 5:1-9. Burckuaror, D. 2010. Psyloidea. In: Fauna Europaea. Version 2.2 [3 June 2010]. Web: http://www. faunaeur.org/full_results.php?id=12489
+
+BurcknHarot, D. & LauTerer, P. 1997. Systematics and biology of the Aphalara exilis (WeBeR & Moxr)
+species assemblage (Hemiptera: Psyllidae). Entomologica Scandinavica 28(3): 271-305. BurckHaror, D. & LautERER, P. 2003. Directory of leaf fleas (Psylloidea) in Germany. pp. 155-164. In: Klausnitzer B. (Ed.). Entomofauna Germanica 6 [Entomological news and reports,
+Supplement 8]: 1-344. Cermak, V. & LauTerer, P. 2008. Overwintering of psyllids in South Moravia (Czech Republic) with respect
+to the vectors of the apple proliferation cluster phytoplasmas. Bulletin of Insectology 61(1): 147-148. Dorow, W.H.O. & Buick, T. 2010. General overview of the area fauna and their importance for the
+Natural reserve. Natural forest reserve Goldbachs- and Ziebachsriick (Hesse). pp. 237-270. In: Dorow,
+W.H.O.; Buick, T. & Kopetke, J.-P. Natural forest reserves in Hesse. Volume 11/2.2. Goldbachs and
+Ziebachsrück. Zoological Investigations 1994-1996, Part 2. Communications from the Hessian
+State Forestry Administration 46: 1-271. Dorow, W.H.O.; Buick, T. & Kopetke, J.-P. 2009 Research area and methods. natural forest reserve
+Goldbachs and Ziebachsrtick (Hesse). Study period 1994-1996. pp. 7-24. In: Dorow,
+W.H.O.; Buick, T. & Kopetke, J.-P. Natural forest reserves in Hesse. Volume 11/2.1. Goldbachs and
+Ziebachsrück. Zoological Investigations 1994-1996, Part 1. Communications from the Hessian
+State Forestry Administration 45: 1-326. Dorow, W.H.O. & Kopetke, J.-P. 2007 Natural forest reserves in Hesse. Volume 7/2.2. Hohestein. Zoological Investigations 1994-1996, Part 2. Notifications from the Hessian State Forestry
+administration 42: 1-339. Dorow W.H.O.; FLechtner, G. & Kopete, J.-P. 1992 Natural forest reserves in Hesse. volume 3 zoological
+Investigations — Concept. Communications from the Hessian State Forestry Administration 26: 1-159. Dorow W.H.O.; FLechtNER, G. & Kopetke, J.-P. 2004 Natural forest reserves in Hesse. Volume 6/2.2. beautiful beech. Zoological Studies 1990-1992, Part 2. Hessen-Forst — forest facility,
+Information, testing [FIV] results and research report 28/2: 1-352. Fiechtner G.; Dorow, W.H.O. & Koretke, J.-P. 2000 Natural forest reserves in Hesse. Volume 5/2.2. Niddahange east of Rudingshain. Zoological Studies 1990-1992, Part 2. announcements
+of the Hessian State Forestry Administration 32/2: 1-550. Gecechkori, A.M. & Locinova, M.M. 1990. Psillidy SSSR. Tbilisi: Akademiya Nauk Gruzinskoi SSR. 164 p.
+
+Lauterer, P. & Dorow, W.H.O. 2007 Psylloidea (leaf leafworm). In: Dorow, W.H.O. & Kopetke, J.-P.
+Natural forest reserves in Hesse. Volume 7/2.2. Hohestein. Zoological investigations 1994-1996,
+Part 2. Communications from the Hessian State Forestry Administration 42: 1-339. Ossiannitsson, F. 1992. The Psylloidea (Homoptera) of Fennoscandia and Denmark. Fauna Entomologica
+Scandinavica 26:1-346. 110
+
+Hessian Ministry for Environment, Energy, HESSEN
+
+Agriculture and consumer protection —_———
+pose,
+
+S
+
+Natural forest reserves in Hesse
+
+ 
+
+(tm, NW-FVA Senckenberg
+OOTP i ceetiesnie
+forestry
+
+ates Vecuoratat As
+
+Natural forest reserves in Hesse
+11/2.2
+
+Goldbachs and Ziebachsruck
+Zoological investigations
+1994-1996, Part 2
+
+Wolfgang H.O. Dorow
+Theo look
+Jens-Peter Kopelke
+
+With contributions from
+
+Frank Kohler (Coleoptera)
+Pavel Lauterer (Psylloidea)
+
+Communications from the Hessian State Forestry Administration, Volume 46
+
+2010
+
+imprint
+
+Editor:
+
+cover photo:
+
+Layout:
+
+Print:
+
+Cover design:
+
+Citation suggestion:
+
+Hessian Ministry for Environment, Energy, Agriculture and
+consumer protection
+
+Mainzer Str. 80
+
+65189 Wiesbaden
+
+State agency Hessen-Forst
+Bertha-von-Suttner-Str. 3
+34131 Kassel
+
+Northwest German Forest Research Institute
+Gratzelstr. 2
+
+37079 Gottingen
+
+http://www.nw-fva.de
+
+This volume was written in scientific cooperation with the
+Research Institute Senckenberg created. http://senckenberg.de
+
+— Communications from the Hessian State Forestry Administration, Volume 46 —
+
+The acorn borer (Curculio venosus (GRAveNnHorsT, 1807)) is found in deciduous
+to find parks or gardens where oaks grow. The female
+bores a hole in an unripe glans with its long trunk and lays in it
+1 to 2 eggs off. Anne Béttcher, Callistus - Biro for Zoological and Ecological
+Investigations, 95488 Eckersdorf
+
+Elektra Reprographic Company GmbH, 65527 Niedernhausen
+
+studio zerzawy agd, 65329 Hohenstein
+
+Wiesbaden, December 2010
+ISBN 978-3-89274-323-1
+ISSN 0341-3845
+
+Dorow, W.H.O.; Buick, T. & Kopetke, J.-P. 2010 Natural Forest Reserves in
+Hesse. Volume 11/2.2. Goldbachs and Ziebachsrück. zoological
+Investigations 1994-1996, part 2. Communications from the Hessian
+State Forestry Administration 46: 1-271. contents
+Volume 11/2.1
+
+Dorow, W.H.O.; Buick, T. & KopeLke, J.-P.:
+Research area and methods. Natural forest reserve Goldbachs- and Ziebachsriick
+(Hesse). Period of investigation 1994-1996....... cess
+
+ 
+
+Romexe, J.:
+The rainworms (Lumbricidae) of the natural forest reserve Goldbachs- and Ziebachsriick
+(Hesse). Study period 1994-1996 ..... cess
+
+ 
+
+Buick, T.:
+The spiders (Araneae) of the natural forest reserve Goldbachs- and Ziebachsriick (Hesse). Study period 1994-1996
+
+ 
+
+Dorow, W.H.O.:
+The bugs (Heteroptera) of the Goldbachsri and Ziebachsri Natural Forest Reserve
+(Hesse). Study period 1994-1996 ..
+
+ 
+
+ 
+
+Zus, P.M.T.:
+The butterflies (Lepidoptera) of the natural forest reserve Goldbachs- and Ziebachsriick
+
+ 
+
+ 
+
+ 
+
+(Hesse). Study period 1994-1996 ..... 227
+Los, B.; Kiefer, S. & HOFFMANN, M.:
+
+Settlement density of birds in the Goldbachs- and Ziebachsriick natural forest reserve (Hesse). Period of investigation 1995 .... .. 283
+
+Volume 11/2.2
+
+KOHLER, F.:
+The beetles (Coleoptera) of the natural forest reserve Goldbachs- and Ziebachsriick (Hesse). Study period 1994-1996
+
+ 
+
+Lauterer, P. & Dorow, W.H.O.:
+The leaf fleas (Psylloidea) of the natural forest reserve Goldbachs- and Ziebachsriick
+(Hesse). Study period 1994-1996 ..
+
+ 
+
+Dorow, W.H.O.:
+The Hymenoptera of the natural forest reserve Goldbachs- and Ziebachsriick
+(Hesse). Period of investigation 1994-1996...... see
+
+ 
+
+Dorow, W.H.O. & BLick, T.:
+Other groups of animals in the natural forest reserve Goldbachs- und Ziebachsrtick (Hessen). Study period 1994-1996
+
+ 
+
+Dorow, W.H.O. & Btick, T.:
+General overview of the area fauna and their importance for nature conservation. Natural forest reserve Goldbachs- and Ziebachsrtick (Hessen). Study period 1994-1996
+
+ 
+
+ 
+
+abbreviations
+
+(Abbreviations used only by individual authors are explained in the respective article)
+
+General abbreviations
+
+Germany
+
+Total area (= TR + VF)
+
+Natural forest reserve Goldbachs- and Ziebachsriick
+Hesse
+
+natural forest reserve
+
+sample circle
+
+quadrant
+
+Total reserve (= core area)
+
+comparison area
+
+ground traps
+
+Color shells blue
+
+Color shells yellow
+
+color bowls white
+
+air collectors
+
+Remove trunk electors from trunks that are lying on top
+Log collectors on the inside of overlying logs
+Trunk electors on dirrstanders
+Log collectors on exposed logs outside
+Trunk electors on exposed trunks inside
+Trunk elects on living beeches
+stump ejectors
+
+deadwood collectors
+
+Natural forest reserves in Hesse
+
+Part 1:
+
+Volume 2:
+
+Volume 3:
+
+Volume 4:
+
+Volume 5/1:
+
+Volume 5/2.1:
+
+Volume 5/2.2:
+
+Volume 6/1:
+
+Volume 6/2:
+
+Volume 6/2.1:
+
+Volume 6/2.2:
+
+Volume 7/1:
+
+Volume 7/2.1:
+
+Volume 7/2.2:
+
+Volume 8:
+
+Volume 9:
+
+Volume 10:
+
+Volume 11/2.1:
+
+Volume 11/2.2:
+
+Natural forest reserves in Hesse - an overview
+Althoff, B.; Hocke, R.; Willig, J (1991)
+
+Forest studies - basics and concept
+Althoff, B.; Hocke, R.; Willig, J (1993)
+
+Zoological investigations — concept. Dorow, W.H.O.; Flechtner, G.; Kopelke, J.-P. (1992)
+
+Wood-decomposing fungi — Apyllophorales and Heterobasidiomycetes — des
+Karlswérth natural forest reserve
+Grosse-Brauckmann, H. (1994)
+
+Niddahange east of Rudingshain - forest studies
+Hocke, R. (1996)
+
+Niddahange east of Rudingshain — Zoological investigations 1
+Flechtner, G.; Dorow, W.H.O; Kopelke, J.-P. (1999)
+
+Niddahange east of Rudingshain — Zoological investigations 2
+Flechtner, G.; Dorow, W.H.O; Kopelke, J.-P. (2000)
+
+Schénbuche - Forest studies
+Keitel, W.; Hocke, R. (1997)
+
+Schénbuche - Zoological investigations summary
+Dorow, W.H.O.; Flechtner, G.; Kopelke, J.-P. (2004)
+
+Schénbuche - Zoological investigations 1
+Dorow, W.H.O.; Flechtner, G.; Kopelke, J.-P. (2001)
+
+Schénbuche - Zoological investigations 2
+Dorow, W.H.O.; Flechtner, G.; Kopelke, J.-P. (2004)
+
+Hohestein — Forest studies — Focus on flora and
+vegetation
+Schreiber, D.; Keitel, W.; Schmidt, W. (1999)
+
+Hohestein — Zoological investigations 1. Flechtner, G.; Dorow, W.H.O.; Kopelke, J.-P. (2006)
+
+Hohestein - Zoological investigations 2
+Dorow, W.H.O.; Kopelke, J.-P. (2007)
+
+Weiherskopf — Natural development of forests after Storm Toss
+Willig, J (Sci. coord.) (2002)
+
+Results of lichen investigations from four acidic soils
+Buchenwaldern
+Teuber, D. (2006)
+
+Results of bat studies from Hessian
+natural forest reserves
+Dietz, M. (2007)
+
+Goldbachsrick and Ziebachsrick — Zoological investigations 1
+Dorow, W.H.O.; Blick, T.; Kopelke, J.-P. (2009)
+
+Goldbachsrick and Ziebachsrick — Zoological investigations 2
+Dorow, W.H.O.; Blick, T.; Kopelke, J.-P. (2010)
+
+271

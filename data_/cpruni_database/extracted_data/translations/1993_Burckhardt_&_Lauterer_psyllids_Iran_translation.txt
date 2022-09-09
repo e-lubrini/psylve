@@ -1,0 +1,2528 @@
+REVUE SUISSE DE ZOOLOGIE, 100 (4) : 829-898; december 1993
+
+The jumping plant-lice of Iran (Homoptera, Psylloidea)
+
+Daniel BURCKHARDT* & Pavel LAUTERER**
+
+* Muséum d’histoire naturelle, Case postale 6434, CH-1211 Genéve 6, Switzerland. **Moravské muzeum v Brné, entomologické oddeleni, Preslova 1, CZ-65937 Bmo,
+Czech Republic. The jumping plant-lice of Iran (Homoptera, Psylloidea). - The Iranian
+psyllid fauna is reviewed, based on literature records and extensive
+collections. The bulk of the material comes from 3 expeditions by the
+National Museum, Prague to Iran in 1970, 1973 and 1977, and from G.
+Remaudiére who collected in Iran from the 1950's to 1970's. Of the 33
+previously recorded species, 28 are substantiated by material, 3 are probably
+correct but no specimens were available, and 2 records concern a possible
+misidentification and a wrong citation. The studied material also contains 45
+species previously unrecorded from Iran, 11 new species and 8 species
+which remain unidentified as the material is incomplete. The new species
+described and illustrated are: Aphalara loginovae, Colposcenia agnata,
+Colposcenia cavillosa, Colposcenia paula, Craspedolepta remaudierei,
+Cacopsylla iranica, Spanioneura persica, Homotoma caroliquarti, Egeiro-
+trioza corporosa, Egeirotrioza gemina, and Egeirotrioza justa. The fol-
+lowing synonymies are established: Diaphorina zygophylli (= D. kopetdaghi,
+=D. halimiphylli, = D. media), and Cyamophila glycyrrhizae (= C. eremita). Three new combinations are proposed: Egeirotrioza gardneri (Laing) comb. nov., stat. rev. (from Phylloplecta), E. bifurcata (Mathur) comb. n. and E.
+longiantennata (Mathur) comb. n. (both from Trioza). The biogeographical
+relationships of nine areas of endemism in Iran are analysed using the
+method of PAE (with PAUP). The relationships derived from psyllid
+distributions are compared to mammal data; some methodological aspects
+are briefly discussed. Key-words: Psylloidea - Homoptera - Iran - Taxonomy - Biogeography. INTRODUCTION
+
+Tran is one of the largest Middle Eastern countries with a surface area of
+
+1,648,000 km2, It has a unique geobotanical position, linking the Irano-Turanian, the
+Euro-Siberian, the Saharo-Arabian and the Sudanian phytogeographical regions
+
+ 
+
+Manuscript accepted 28.06.1993. TY
+Exel Mole
+Ut 6.08
+
+330 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+(Zouwary, 1963). Iran is delimited by the River Aras, the eastern margin of
+Mesopotamia, the Persian Gulf, the Caspian Sea, the plains of Kara Kum and the
+mountains of Afghanistan and Baluchistan. Together with Afghanistan and
+Baluchistan, Iran forms the larger Iranian Plateau, a geomorphological and
+biogeographical unit. Iran is predominantly mountainous with four-fifths of its surface
+>1000 m a.s.l. The Elburz Mountains in the North reach 5670 m a.s.l. and in the
+South the Zagros Mountains, stretching southeastwards from the River Aras to the
+Persian Gulf, rise over 4500 m a.s.l. Between them are highlands, at an altitude of c.
+1000 ma.s.l., subdivided by mountain ranges, and lacking river systems reaching the
+sea. The Central Plateau is subdivided into two, the Dasht-e-Kavir, a predominantly
+saline desert, and the Dasht-e-Lut to the South, mainly a sand and gravel desert. Only
+the short rivers of the border mountains drain to the sea. The lowlands are restricted to
+narrow fringes along the Caspian Sea and the Persian Gulf and to the Iranian part of
+the Euphrates delta (figs 1-3) (Lay, 1967; Parsa, 1978; ZoHARY, 1973). Thus, Iran
+can be subdivided into 5 main sectors: the Caspian, the Armeno-Zagrosian, the
+Central Iranian, the Khurusanian and the Laro-Baluchistanian sectors (ZOHARY,
+1963). Iran's climate is diverse and strongly influenced by orography. ZOHARY (1973)
+recognised 8 climatic provinces, ranging from the humid-subtropical Caspian region,
+the temperate and arid-subtropical mountains and interior, to the tropical Gulf region. Climatic conditions, particularly the amount and seasonal distribution of precipitation,
+influence the type and species richness of vegetation locally. Most of Iran belongs to
+the Armeno-Iranian floristic Province of the Irano-Turanian Region with the
+exception of part of the South Iranian Province of the Sudano-Zambezian Region
+(Zonari, 1973; TAKHTAJAN, 1986). The Armeno-Iranian Province is rich in endemic
+species in genera such as Calligonum, Atraphaxis, Prunus, Astragalus, Hedysarum,
+Onobrychis, Convolvulus, Galium, Achillea, Anthemis and Artemisia. MOBAYEN &
+TREGUBOV (1970) recognized slightly different floristic regions namely: 1. the
+Hyrcanian region along the Caspian coast; 2. the Irano-Turanian region covering the
+whole centre towards the east and west; 3. the Zagros region, and 4. the Khalidjo-
+Ommanian region. In addition, ParsA (1978) defined the following 9 biotic
+provinces: Caspian, Elburzian, Azerbaidzhanian, Zagrozian, Suzian, Farsian,
+Bazmanian, Lutian and Kavirian (fig. 2). Closed, dense forests are restricted and most
+of the area is covered by steppe’ Vegetation dominated by hemi-cryptophytes (chiefly
+grasses) and chamaephytes (chiefly dwarf shrubs) or in the deserts, halophytic
+vegetation (PARSA, 1978; RECHINGER, 1963 ff.). Steppe and desert plants bear a rich fauna of the highly host-specific jumping
+plant-lice (Homoptera, Psylloidea). In the Palaearctic this is well-documented for the
+territory of the former USSR (GEGECHKoRI & LociNova, 1990) and Mongolia
+(KLIMASZEWSKI, 1973; LOGINOVA, 1972b) but there is less information for the Middle
+East. Species lists, sometimes accompanied by identification keys or species
+descriptions exist for the following countries: Egypt (Samy, 1973), Israel
+(BURCKHARDT & HALPERIN, 1992, and papers cited herein), Turkey (BURCKHARDT &
+Onugar, 1993) and Saudi Arabia (BURCKHARDT, 1986a). JUMPING PLANT-LICE OF IRAN 831
+
+    
+
+C3 <om
+EZ] 0-200
+EEE] 200-1000
+'000-2000
+[QD 2000-4000
+ME > 4000
+
+ee
+0 200 400 600 00 km
+
+Fic. 1
+
+Relief map of Iran. 832 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+A Fae
+Soot" gpursiag
+o NX
+
+f .
+
+‘ Zagrozian
+
+Loe
+Suzian\,
+
+ 
+
+Fics 2, 3
+
+2, Biotic provinces of Iran after PARSA (1978). 3, Physiographic units of Iran. JUMPING PLANT-LICE OF IRAN 833
+
+HISTORICAL ASPECTS
+
+RUBSAAMEN (1902) first recorded psyllids from Iran when he described galls
+on Fraxinus oxyphylla, Populus euphratica and P. nigra £. pyramidalis, attributed to
+Psyllopsis fraxini and to three unidentified species of Psylloidea. Later, BERGEVIN
+(1926) described one of the species on Populus euphratica as Trioza ceardi based on
+material from Morocco (not Tunisia as stated by BOsELLI, 1931, and repeated by
+Matuur, 1975, and Hopkinson, 1986) and on descriptions by RUBSAAMEN (1902),
+Houarp (1922) and other cited authors. HesLop-HARRISON (1949) recorded Livia juncorum from Iraq, near the Iranian
+border, stating that it was likely to occur in Iran. Locinova (1962, 1972a) and
+MAatuur (1975) list L. juncorum from Iran but do not indicate if they have seen
+material. Davatcui (1958) recorded 4 species collected by himself and G. Remaudiére
+(deposited in the USNM and in the MNHN) from Iran: Homotoma ficus, Agonoscena
+aff. menozzii, A. targionii and Psylla sp. The specimen referred to Homotoma ficus
+belongs to H. caroliquarti sp. n. while the "Agonoscena targionii" is A. pistaciae
+(BURCKHARDT & LAUTERER, 1989). The material of "A. aff. menozzii" is close to A.
+bimaculata. The “Psylla sp." could not be traced but is probably Megagonoscena
+viridis. Loginova recorded or described several species from Iran namely: Psyllopsis
+repens and P. securicola (LocINova, 1963); Colposcenia aliena (LOGINOVA, 1972b);
+Psylla glycyrrhizae (Locinova & BAEVA, 1972); Camarotoscena fulgidipennis
+(Locinova, 1975a); Diaphorina tamaricis, D. kopetdaghi, D. enormis, D. luteola,
+Cyamophila odontopyx, Trioza neglecta (LOGINOVA, 1978a); and Caillardia accola
+(Loainova, 1978b). In a study on the ecology and control of pear psyllids, RADJABI & BEHECHTI
+(1975) recorded Psylla pyricola Férster and HODKINSON (1984) listed both P. pyricola
+Forster and P. vasiljevi Sulc. These records concern Cacopsylla bidens (Sulc)
+(BURCKHARDT & HODKINSON, 1986; HODKINSON, 1989). GEGECHKORI (1977) and
+NagEM & BEHDAD (1988) recorded Cyamophila astragalicola (Gegechkori) and C.
+dicora Loginova, both on Astragalus. C. dicora sensu Naeem & Behdad is identical
+with C. astragalicola but differs from C. dicora sensu Loginova in the forewing
+coloration. Further investigations will decide whether C. dicora sensu Loginova is
+conspecific with C. astragalicola. The larvae of C. astragalicola secrete a manna-like
+substance which is collected for preparing candy (NAEEM & BEHDAD, 1988). HopkKINSON (1981) described Trioza trigonica and HALPERIN et al. (1982) recorded E.
+straminea Loginova from Iran. Trioza chenopodii Reuter and T. dichroa Scott were
+listed by BURCKHARDT (1986b). Another 9 species were added by GEGECHKORI &
+Loainova (1990): Agonoscena pegani, Caillardia robusta, Colposcenia kiritshenkoi,
+Eremopsylloides amirabilis, Diaphorina propinqua, Euphyllura phillyreae, a record
+which is questionable, Cyamophila coluteae, Cyamophila eremita, and Bactericera
+perrisii. Finally, BAVA & ALEKSEEV (1991) described Brachystetha loginovae from
+Soviet and Iranian localities. 834. DANIEL BURCKHARDT & PAVEL LAUTERER
+
+MATERIAL AND METHODS
+
+The material comes from two main sources. First, a large mainly unrecorded
+collection by G. Remaudiére which is preserved in the MNHN, USNM, and MHNG. Host information and the presence of larvae make this collection particularly valuable
+and this material is signified with the letter "R" followed by a collecting number
+referring to a locality list. Material, unless otherwise stated, is preserved in the
+MNHN. The second material was that collected on three expeditions (1970-1977) by
+the National Museum, Prague. Detailed itineraries, with descriptions of the localities
+and biotopes, are provided by HOBERLANDT (1974, 1981, 1983). Collection numbers
+are cited following the museum acronym "NMP". This ‘material was, partly, studied
+by Loginova. Morphological terminology follows mainly HopKINson & WHITE (1979) and
+Wurre & Hopkinson (1982). Measurements were made from slide mounted material
+and are in mm. The following abbreviations are used in the descriptions:
+
+Adult:
+HW head width
+AL antenna length (including scape and pedicel)
+WL _ forewing length
+MP _ male proctiger length
+FP female proctiger length
+PL male paramere length
+AEL length of distal segment of aedeagus
+ALHW antenna length : head width ratio _
+FAS __ relative length of flagellar segments of antennae from base to apex
+LLHW length of apical two labial segments : head width ratio
+TLHW  metatibia length : head width ratio
+WLHW ? WLW forewing length : width ratio
+MPHW male proctiger length : head width ratio
+FPHW female proctiger length : head width ratio
+FPC _female proctiger length : circumanal ring length ratio
+FSP _ female proctiger length : subgenital plate length ratio
+
+ 
+
+Fifth instar larva:
+antenna length (including scape and pedicel)
+WL forewing pad length
+BL _ body length
+CPB caudal plate breadth
+AWL antenna length : forewing pad length ratio
+BBL _ body length : breadth ratio
+CPR caudal plate breadth : length ratio
+
+Owing to different ways of transliterating the Farsi to the Latin alphabet, °
+variation is encountered in the nomenclature of locality names from literature records
+and locality labels. The spelling of places from the literature is cited unchanged. Names for the Prague expeditions material are as on the locality labels. For additional °
+
+JUMPING PLANT-LICE OF IRAN 835
+
+information, including coordinates and descriptions of biotopes, HOBERLANDT (1974,
+1981, 1983) should be consulted. The remaining names are cited according to the
+Gazetteer of official standard names (ANONYMOUS, 1956) and, where judged useful,
+map coordinates are added. Material was examined or is cited from the following collections:
+
+BMNH = _ Natural History Museum, London
+
+MHNG = _ Muséum d'histoire naturelle, Geneva
+
+MMB =_— Moravian Museum, Brno
+
+MNHN = _ Muséum National d'Histoire Naturelle, Paris
+
+NMP = National Museum, Prague
+
+R = Collection G. Remaudiére, in MNHN
+
+USNM = United States National Museum (psyllid collection in USDA,
+
+Beltsville, MD.) Zz = Zoological Institute, St. Petersburg [Leningrad]
+
+SYSTEMATIC LIST
+
+The classification and sequence of the families and subfamilies adopted here is
+that proposed by WHITE & HODKINSON (1985) with the family concept of
+BURCKHARDT (1987). Within families and subfamilies the sequence of genera and
+species is alphabetical. KEY TO FAMILIES
+
+1 Antennal flagellar segments flattened bearing long conspicuous bristles
+(figs 88, 89). Male proctiger distinctly 2-segmented (fig. 92). .. Homotomidae
+- Antennal flagellar segments more or less cylindrical, without dense
+conspicuous bristles (figs 12, 34, 63). Male proctiger 1-segmented,
+sometimes indistinctly subdivided. ... 0.0.0.6... . cece cece eee e eee ees 2
+2 Forewings with vein R+M+Cu, bifurcating into R and M+Cuj; if
+trifurcating then anal break close to apex of vein Cu), and metabasi-
+tarsus with 1 or 2 black spurs. Costal break and/or pterostigma often
+developed. 0.0.00. ccc ececeececeseeeueeeeseeeeeeeeenene Psyllidae
+- Forewings with vein R+M+Cuy trifurcating into R, M and Cuy or bifur-
+cating into R+M and Cu, or R and M+Cuj; anal break distant from
+apex of vein Cuj,; costal break and pterostigma always absent. Meta-
+basitarsus without black spurs. +. Triozidae
+
+ 
+
+PSYLLIDAE
+KEY TO SUBFAMILIES
+
+1 Metacoxae without meracanthus; cavity of trochanter with weakly scle-
+rotised tubercle. : . Rhinocolinae
+
+ 
+
+836
+
+DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Metacoxae with horn-shaped meracanthus; cavity of trochanter
+without tubercle. Head with large anterior flattened lobes enclosing median ocellus
+which is, therefore, visible only in dorsal view, or vertex longer than
+
+ 
+
+Liviinae
+Head different, either regularly rounded anteriorly, or with separated
+
+lobes or cones. Median ocellus visible in frontal and/or ventral view;
+
+vertex always broader than long. .............c00eeeeeeeeeeeeereees 3
+Head with genal cones; apical metatibial spurs forming a crown. ST Diaphorininae
+Either head without genal cones or apical metatibial spurs grouped. . 4
+Basal metatibial spine absent. Head without conical genal processes;
+
+vertex often rectangular and sometimes ending in anterior lobes. Apical metatibial spurs often forming more or less even crown. ..........+ 5
+Basal metatibial spine usually developed. Apical metatibial spurs
+
+always grouped. Vertex trapezoidal; head with genal cone:
+Metabasitarsus without black spurs. .
+Metabasitarsus with two black spurs. Posterior margin of male proctiger straight or weakly produced but
+without wing-like processes. Metatibiae short, less than twice as long
+
+as both metatarsal segments together. ..............--45 Pachypsylloidinae
+Posterior margin of male proctiger bearing wing-like processes. Meta-
+
+tibiae long, more than twice as long as metatarsal segments together. cence eee nee cette ee eee eee e ete e eee tne eens Aphalarinae
+Metabasitarsus without or with a single black spur, or with two black
+
+spurs and then male parameres lamellar with truncate apex, and fore-
+
+wings with long cell mj42 and high cell cujg..........-.-.-+-- Arytaininae
+Metabasitarsus always with two black spurs. Male parameres different
+
+(fig. 72). Forewings usually with shorter and lower mj, and cujg
+
+C1 Psyllinae
+
+ 
+
+ 
+ 
+
+APHALARINAE,
+
+KEY TO GENERA AND SPECIES
+
+Vertex at most half as long as wide, passing smoothly, without
+
+distinct transition, into genae. .... 6.6.66. cece eee cee eee eee eee 2
+Vertex more than half as long as wide, anterior margin forming
+angular or rounded lobes, or humps. ........ 0.000 seen cece eee een ene 3
+
+Pterostigma of forewing relatively long and broad; sometimes a cross-
+vein rm developed. Thorax in profile stongly arched. On Haloxylon
+spp. and Hammada spp. . . Caillardia Bergevin
+cf. Locinova, 1978b)
+
+ 
+
+(for identification of species
+
+ 
+
+JUMPING PLANT-LICE OF IRAN 837
+
+Pterostigma of forewings absent. Thorax in profile weakly arched. On
+Petrosimonia spp., Salicornia spp., Salsola spp. and Suaeda spp. Rhodochlanis bicolor (Scott)
+Propleurites divided by diagonal suture into unequal components. . . . w4
+Propleurites divided by longitudinal suture into subequal components. 12
+Head with two flattened, rounded anterior lobes. Apex of vein Rs of
+forewings bent towards fore margin. ...........06.065 Colposcenia..... 5
+Head rounded anteriorly, vertex passing smoothy into genae. Vein Rs
+
+of forewings more or less straight, ending at outer wing margin. seen een cent een e erate renee scene ten ene tate Crastina ..... 11
+Apices of veins in forewings along outer margin bearing each a dark
+conspicuous spot. Apices of veins in forewings along outer wing margin light. Posterior lobe of male proctiger relatively narrow at base, widening
+towards apex. Dorsal margin of female proctiger irregularly concave. On Tamarix spp. 0... 06.00 c cece eee ee Colposcenia aliena (Léw)
+Posterior lobe of male proctiger wide at base and tapering towards
+
+apex. Dorsal margin of female proctiger sinuous. On Tamarix spp. feet e ee eee ete eee eee e este et eneeeee Colposcenia vicina Loginova
+Branches of vein M of forewings more or less straight. Posterior
+process of male proctiger short and wide. On Tamarix spp.
+
+. Colposcenia kiritshenkoi Loginova
+Branches of vein M of forewings distinctly curved. Posterior processes
+
+of male proctiger long and narrow. ........-. 006.0 ete e eee eee eee eee 8
+Anterior tubercle of metacoxae large (figs 8, 9, 30). Terminalia as in
+
+figs 39, 42, 43, 50. ... Colposcenia agnata sp. n.
+Anterior tubercle on metacoxae small (figs 31, 32). Terminalia different... . 9
+Forewing surface flat in apical third; wing relatively long and narrow,
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+with subparallel margins. On Tamarix sp. ... Colposcenia elegans (Bergevin)
+Forewing surface convexly inflated in apical third (fig. 7); wing rela-
+tively short and broad, distinctly widening towards apex (figs 28, 29)...... 10
+Male parameres short, clavate (fig. 51). Forewing pattern strongly
+constrasted (fig. 28)...... 00sec eceeeeeeeee Colposcenia cavillosa sp. n.
+Male parameres long, lamellar (figs 52, 53). Forewing pattern relatively
+homogenous (fig. 29)..........-. tec e cece eee ee Colposcenia paula sp. n.
+
+Forewings oblong-oval, with very narrow pterostigma. General body
+colour orange. On Myricaria bracteata. . Crastina myricariae Loginova
+Forewings trapezoidal, with well-developed pterostigma. General body
+colour green. On Tamarix spp. . . . Crastina tamaricina Loginova
+Clypeus flat; not visible in profile, hidden by the genae. On Zygophyl-
+
+lum spp. and Halimiphyllum sp. .. .. Brachystetha loginovae Baeva & Alexeev
+Clypeus, in profile, distinctly protruding from genae. - 13
+Lower head surface, between eyes and antennal insertions with conspi-
+cuous tubercle. Aphalara..... 14
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+838 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+- Tubercles absent from lower head surface between eyes and antennal
+
+insertions Craspedolepta..... 15
+14 Clypeus short, pyriform. Forewings less than 2.2 times as long as wide. bbe bebe teen ee eeteteeeeeeeebeeeererea Aphalara loginovae sp. n.
+-  Clypeus long, tubular. Forewings more than 2.3 times as long as wide. On Polygonum spp. . Aphalara polygoni Forster
+15 Forewings with pattern consisting of small ‘brown dots. .... .
+- Dark forewing pattern absent or consisting of streaks or band:
+16 Membrane of forewings without setae. On Artemisia baldschuanica. Leen eee eee n eee eens Craspedolepta tadshikistanica Baeva
+- Membrane of forewings with at least some setae. .-17
+17 Setae on forewing membrane sparse, shorter than 0.03 mm. On Arte-
+
+Misia SPP. occ c ccc b eee ee ec ee sce eeseeees Craspedolepta convexa Baeva
+- Setae on forewing membrane dense, longer than 0.10 mm. Possibly on
+
+Artemisia cind. ......00c0cccc eee ec ees Craspedolepta remaudierei sp. n.
+18 Antennae 9-segmented. On Achillea spp. bene eee eee eee eee eee Craspedolepta pontica Dobreanu & Manolache
+- Antennae 10-segmented. On Achillea spp. beeen eee tence eee eee eee ee Craspedolepta bulgarica Klimaszewski
+
+ 
+
+ 
+
+ 
+
+  
+
+Aphalara loginovae sp. n. (Figs 10-16)
+
+Description, Adult. Coloration. Dirty yellow; foveal pits, two spots on
+mesopraescutum and four longitudinal stripes on mesoscutum orange to brown. Antennae with segments 1 and 2 brown, 3-8 yellow, and 9 and 10 dark brown. Lower
+head surface brown to dark brown. Thorax laterally and abdominal sclerites dark
+brown. Forewings whitish with semitransparent membrane bearing a dark brown,
+well-defined pattern consisting of isolated spots and a transverse band near the outer
+margin (fig. 10); hindwings whitish. Structure. Head (fig. 11), from above, slightly wider than pronotum, about as
+wide as mesoscutum; vertex flat with indented foveal pits, its anterior margin with
+large tubercle in the middle of each half and a small antero-lateral tubercle on either
+side, Lower head surface with small lateral tubercles and short, pyriform clypeus. Antennae 10-segmented with a single rhinarium on each of segments 4 to 9; both
+terminal setae longer than segment 10. Forewings (fig. 10) oval, cell cu,, low, vein
+Cu), evenly curved. Surface spinules present in all cells, larger basally than apically,
+arranged in an irregular hexagonal pattern, covering the whole membrane up to the
+veins. Terminalia as in figs 13-16. Parameres with large, thumb-like subapical inner
+process. Distal portion of aedeagus with distal portion widened towards apex. Female
+terminalia relatively short, dorsal margin of proctiger sinuous. Measurements. (1d, 22 2). HW 0.73-0.77; AL 0.77-0.78; WL 2.37-2.62; MP
+0.21; PL 0.24; AEL 0.21; FP 0.49-0.50; ALHW 1.00-1.03; LLHW 0.24-0.40; TLHW
+0.64-0.72; WLHW 3.25-3.50; WLW 2.01-2.12,; MPHW 0.28; FPHW 0.63-0.67; FPC
+2.43-2.74; FSP 1.23-1.29; FAS 1.0: 0.4: 0.5: 0.4:0.4:0.4:0.4: 0.4. JUMPING PLANT-LICE OF IRAN 839
+
+Larva unknown. Holotype d, N Iran: Tehran - Evin, Elborz, 1700-2000 m, 9-10.iii.1973 (NMP-123). Paratypes. Iran: 2d d, 62 ¢, same data as holotype (NMP, MHNG)
+
+Comment. Aphalara loginovae is similar to A. grandicula (GEGECHKORI,
+1981) in the short, adpressed clypeus, the relatively wide, semitransparent forewings,
+the arrangement of the surface spinules, and body dimensions, characters which
+separate them from other Palaearctic congeners. A. loginovae differs from A.
+grandicula as follows: 1. the clypeus is slightly less adpressed in A. loginovae; 2. A.
+loginovae has apically more rounded forewings with evenly rounded vein Cu,, which,
+in A. grandicula, are apically more truncate with vein Cu,, irregularly curved (fig. 17); 3. the inner subapical process of the parameres is relatively slender and straight
+in A, grandicula (fig. 18) and broad and weakly curved in A. loginovae; 4. the apical
+dilation of the distal segment of aedeagus is more slender in A. grandicula (fig. 19)
+than in A. loginovae; 5. the female terminalia of A. grandicula (fig. 20) are much
+longer than those of A. loginovae (fig. 16). Aphalara polygoni Forster
+
+Material examined. N Iran: 374 6, 37 2, 10 km S Behshahr, 480 m, 23-24.vi.1977
+(NMP-380). Brachystetha loginovae Baeva & Alekseev (Figs 21-26)
+
+Description. Adult. Coloration. Yellow with indistinct ochreous dorsal patches
+on thorax. Antennae with apices of segments 4 and 6, and entire segments 8-10 brown
+to dark brown. Ventral surface of head and thorax, and abdominal tergites light brown
+in male, yellow to ochreous in female. Female proctiger with light brown patches. Forewings whitish with pattern composed in males of brown maculae as in fig. 21,
+and in females of light brown weak maculae and mat, dark yellowish bands. Structure. Similar to B. zygophylli Loginova in the shape of the forewings (fig. 21), with a relatively short and high cell cu,,, and a relatively short vertex with short
+anterior lobes (fig. 22). Terminalia as in figs 23-26. Ventral margin of male subgenital
+plate weakly curved; parameres with weakly expanded, apical dilatation. Female
+proctiger with concave dorsal margin, subgenital plate angular ventrally. Measurements. (1d, 12). HW 0.61-0.63; AL 0.80-0.82; WL 1.86-2.05; MP
+0.22; PL 0.23; AEL 0.18; FP 0.55; ALHW 1.29-1.32; LLHW 0.24-0.25; TLHW 0.75-
+0.78; WLHW 3.05-3.24; WLW 2.09-2.16; MPHW 0.36; FPHW 0.87; FPC 2.98; FSP
+1,06; FAS 1.0 : 0.6 : 0.6 : 0.6: 0.5: 0.5: 0.4: 0.3. Recorded from Iran: 30-45 km NNE Bazman (BAEVA & ALEKSEEV, 1991). Material examined. SE Iran: 16, 12, 30-45 km NNE Bazman, 14.iv.1973 (NMP-163);
+12, 12 km SSE Bazman, 13.iv.1977 (NMP-160). 340 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Comment. In some specimens the forewings (fig. 21) are narrower and vein
+Rs less curved than in the original description (BAEVA & ALEKSEEV, 1991). These
+differences probably reflect individual variation. Caillardia accola Loginova
+
+Recorded from Iran: E Kerman, source of Hun-i-Kaka, SW Temina (Loci-
+NovA, 1978b; GeGEcuKorI & Locinova, 1990). Material examined. E Iran: 3? 2, 25 km NNW Shusf, 6.vi.1977 (NMP-359). Comment. In the absence of males the material is only provisionally referred to
+C. accola. Caillardia azurea Loginova
+
+Material examined. Iran: 3, Abadeh, Varamin, 20.v.1986, Haloxylon (Abai)
+(BMNH); 14, 29 9, 143 km SE Tehran, 20.v.1986, Haloxylon (Abai) (BMNH). Caillardia dilatata Loginova
+
+Recorded from Iran: SE Iran, 12 km SSE Bazman; Iranshar (LoGiNova,
+1978a). Material examined, Iran: E Iran, 1 , 8.45 km E Hadjiabad, 9.v.1973 (NMP-193). Caillardia inedita Loginova
+
+Material examined. Iran: 96d, 829, 7 larvae, 143 km SE Tehran, 20.v.1986,
+Haloxylon (Abai) (BMNH). Caillardia robusta Loginova
+
+Recorded from Iran (ZI) (Gececukor! & Locinova, 1990). Colposcenia agnata sp. n. (Figs 4-6, 8, 9, 27, 30, 33, 34, 39, 42, 43, 50)
+
+Description. Adult. Coloration. Light green with whitish and ochreous spots
+on vertex and pronotum..Antennae green with dark apices on segments 3-8, and
+ochreous to brown segments 9 and 10. Mesoscutum green with four large longitudinal
+ochreous stripes. Legs green with yellow dots. Forewings semitransparent basally,
+
+JUMPING PLANT-LICE OF IRAN 841
+
+ 
+
+Fias 4, 5
+
+Apex of forewing of Colposcenia agnata (scale bar 300 im). otherwise whitish with greenish, ochreous or light brown pattern and scattered dark
+dots, apices of veins without dark spots (fig. 27); females often with dark brown patch
+composed of more or less confluent dots stretching between the apical half of veins
+Rs and M3,4. 842 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Structure. Head (fig. 33) with flattened vertex bearing indistinctly angular
+anterior lobes; antero-lateral part of genae between eye margin and antennal insertion
+forming a relatively large tubercle; surface sculpture consisting of indistinct trans-
+verse folds. Antennal segment 10 longer than wide (fig. 34). Forewings (fig. 27)
+relatively long, widened towards the apex, surface strongly bulged between apical
+quarter of vein Rs and the middle of vein M3,, (figs 4-6, 27); pterostigma relatively
+short and massive, vein Rs strongly sinuate, branches of vein M strongly diverging
+apically, vein Cu, relatively straight. Surface spinules small, dense and irregularly
+spaced, covering all cells up to the veins except for a narrow band in cell c+sc along
+
+ 
+
+Fics 6,7
+
+Colposcenia spp., dorsal view; 6, C. agnata; 7, C. cavillosa. JUMPING PLANT-LICE OF IRAN 843
+
+veins R+M+Cu, and R. Metacoxae with large anterior tubercle (figs 8, 9, 30). Terminalia as in figs 39, 42, 43, 50. Processes of male proctiger longer than
+subgenital plate, slightly widened apically; subgenital plate with distinct posterior
+tubercle, sparsely setose. Parameres with subapical anterior process, obliquely
+
+ 
+
+Fics 8,9
+
+Metacoxae of Colposcenia agnata. 844, DANIEL BURCKHARDT & PAVEL LAUTERER
+
+truncate apically. Distal portion of aedeagus with small apical dilatation. Dorsal
+margin of female proctiger evenly concave, shortly setose. Measurements. (26 6, 2° 2). HW 0.69-0.79; AL 0.76-0.80; WL 2.02-2.60;
+MP 0.23-0.24; PL 0.24-0.26; AEL 0.26-0.27; FP 0.81-0.82; ALHW 0.96-1.09;
+LLHW 0.28-0.34; TLHW 0.77-0.82; WLHW 2.88-3.28; WLW 2.57-2.74; MPHW
+0.31-0.32; FPHW 1.03-1.04; FPC 3.63-3.70; FSP 1.14-1.17; FAS 1.0 : 0.7 : 0.6 : 0.6:
+0.6: 0.7: 0.4: 0.3. Larva unknown. Holotype , SE Iran: 13 km SSE Nikshar, river, 8-9.iv.1973 (NMP-152). Paratypes. Iran: 36d, 92¢, same data as holotype; 2 adults, same data but (ZI);
+366, 19, $ Iran, 7 km W Kahkom, 27-28.v.1973 (NMP-2i5); 1 adult, same data but (ZI); 1,
+62 2, SE Iran, Bahu-Kalat, 3-4.iv.1973 (NMP-147); 1, S Iran, Irin, 28.iv-6.v.1977 (NMP-
+320); 27 adults, 140 km S Sirjan [=Sa'idabad], 29°28'N 55°42'E, 26.x.1977 (Sugonaev &
+Kozlov) (ZI). Comments. Based on the absence of dark spots at the apices of the forewing
+veins and the presence of long posterior lobes on the male proctiger, C. agnata, C.
+cavillosa sp. n. and C. paula sp. n. belong to species group II of Locinova (1974). This includes the West Palaearctic Colposcenia elegans (Bergevin), C. rubricata
+Loginova and C. faceta Loginova, and the Indian C. constricta Mathur. The three new
+species share the strongly diverging apical branches of vein M with Colposcenia
+elegans (Bergevin), to which they may be closely related. C. agnata is characterised
+by the subapically strongly bulged forewings, the posterior tubercle on the male
+subgenital plate, the shape of the posterior processes of the male proctiger and the
+parameres, and the relatively large anterior tubercle on the metacoxae. Colposcenia aliena (Low)
+
+Recorded from Iran by Locinova (1972a) and GeGEecHkorI & LOGINOVA
+
+(1990). Material examined. Iran: 1 adult, Jarjarud, probably N Tehran, 7.v.1937 (Jenjeurist)
+(ZD); 42 adults, Tehran to Evin, 17.v.1974, Tamarix (Safavi) (ZI). Colposcenia cavillosa sp. n. (Figs 7, 28, 31, 34, 35, 40, 44, 45, 48, 51)
+
+Description. Adult. Coloration. Pale yellow with two spots on mesopraescutum
+and four longitudinal stripes on mesoscutum which are darker yellow, in mature
+specimens also brown spots on pronotum. Apices of antennal segments 3-8 brown,
+segments 9 and 10 dark brown. Abdominal tergites and parts of terminalia brown. Forewings in basal quarter semitransparent, whitish, otherwise with brown pattern
+consisting of small dots as in fig. 28; apices of veins without dark spots. Younger
+specimens without brown patches on thorax and abdomen. Structure. Head (fig. 35) with flattened vertex, anterior lobes evenly rounded;
+tubercle between eye and antennal insertion long, slender; surface sculpture present,
+
+JUMPING PLANT-LICE OF IRAN 845
+
+relatively indistinct. Antennal segment 10 much broader than long (fig. 36). Forewings (figs 7, 28) short and broad, surface weakly inflated between apical fifth of
+vein Rs and middle of vein M3,4, pterostigma short, vein Rs strongly sinuous,
+branches of M strongly diverging apically, vein Cu,, weakly curved. Surface spinules
+irregularly and densely spaced, covering all cells up to veins, except for narrow stripe
+in cell c+sc and along veins R+M+Cu, and R. Metacoxae with small anterior tubercle
+(fig. 31). Terminalia as in figs 40, 44, 45, 48, 51. Processes of male proctiger longer
+than subgenital plate, with transversely rugose microsculpture on the inner surface
+subapically (fig. 48). Subgenital plate weakly produced posteriorly. Parameres
+strongly dilated apically, with each an anterior and posterior tooth on the inner
+surface, Distal portion of aedeagus with relatively large apical dilatation. Dorsal
+margin of female proctiger irregularly concave, shortly setose. Measurements. (36 3, 32 2). HW 0.67-0.78; AL 0.61-0.66; WL 1.56-2.02;
+MP 0.17-0.19; PL 0.17-0.18; AEL 0.18-0.20; FP 0.69-0.70; ALHW 0.84-0.94;
+LLHW 0.30-0.36; TLHW 0.64-0.72; WLHW 2.30-2.59; WLW 2.14-2.54; MPHW
+0.25-0.29; FPHW 0.90; FPC 2.83-3.44; FSP 1.16-1.17; FAS 1.0: 0.7: 0.6: 0.6: 0.5:
+0.6 : 0.4: 0.2. Larva unknown. Holotype ¢, S Iran: 57 km S Minab, 22.v.1973 (NMP-206). Paratypes. Iran: 823 6, 459 @, same data as holotype; 10 adults, same data but (ZI);
+16, S Iran, Hassan Langi, 24-25.v.1973 (NMP-211). Comment. See comments under C. agnata. C. cavillosa is characterised by the
+subapically inflated forewings, the relatively broad forewings with characteristic
+venation, and the structure of the terminalia. Colposcenia elegans (Bergevin)
+
+Material examined. SE Iran: 2d 3, Tis, 6-7.iv.1973 (NMP-150). Colposcenia kiritshenkoi Loginova
+
+Recorded from Iran (ZI) (GEGECHKoRI & Locinova, 1990). Material examined. SW Iran: 3d 3, 29 2, Shushtar, 13.iv.1977 (NMP-287). Colposcenia paula sp. n. (Figs 29, 32, 37, 38, 41, 46, 47, 49, 52, 53)
+
+Description. Adult. Coloration. Light green with whitish spots on vertex and
+whitish, narrow longitudinal stripes on thoracic dorsum. Antennae ochreous, with
+apices of segments 3-8 brown, and entire segments 9 and 10 dark brown. Forewings
+semitransparent, with indistinctly delimited green spot in cells along outer margin,
+and scattered brown maculae as in fig. 29. 846 DANIEL BURCKHARDT & PAVEL LAUTERER,
+
+Structure. Head (fig. 37) with flattened vertex, anterior lobes weakly rounded;
+tubercle between eye and antennal insertion small, flattened; surface sculpture present,
+better developed marginally than on disc. Antennal segment 10 much wider than long
+(fig. 38). Forewings (fig. 29) relatively evenly rounded apically, weakly inflated
+between apical fifth of vein Rs and middle of vein M3,,, pterostigma short, vein Rs
+strongly sinuous, branches of M strongly diverging apically, vein Cu,, distinctly
+curved. Surface spinules irregularly, densely spaced, covering all cells up to veins
+except for narrow stripe in cell c+sc along vein R+M+Cu, and R. Metacoxae with very
+small anterior tubercle (fig. 32). Terminalia as in figs 41, 46, 47, 49, 52, 53. Processes
+of male proctiger longer than subgenital plate, with oval, well-defined region apically
+on the inner surface, which bears a transversely rugose microsculpture (fig. 49). Subgenital plate not produced posteriorly. Parameres lamellar, weakly widened apically
+with a large antero-apical tooth, and a subapical sclerotised ridge on the inner surface. Distal portion of aedeagus with relatively large apical dilatation, Dorsal margin of
+female proctiger evenly concave, covered in long setae. Measurements. (1d, 22 2). HW 0.56-0.69; AL 0.51-0.62; WL 1.38-1.88; MP
+0.19; PL 0.22; AEL 0.21; FP 0.55-0.64; ALHW 0.86-1.01; LLHW 0.27-0.33; TLHW
+0.67-0.68; WLHW 2.48-2.73; WLW 2.27-2.57; MPHW 0.34; FPHW 0.91-0.93; FPC
+2.58-3.18; FSP 1.19-1.21; FAS 1.0: 0.4: 0.4: 0.4:0.3:0.4:0.2:0.1. Larva unknown. Holotype 6, S Iran: Bilai, 23-24.v.1973 (NMP-209). Paratypes. Iran: 1d, 99 2, same data as holotype; 2 adults, same data but (ZI); 12, SE
+Tran, Bahu-Kalat, 3-4.iv.1973 (NMP-147). Material not included in type series. Iran: 1 damaged adult, same data as holotype. Comment. See comment under C. agnata. Apart from the subapically bulged
+forewings, C. paula is characterised by the shape of the terminalia, particularly of the
+male, and the forewing venation. Colposcenia vicina Loginova
+
+Material examined. NE Iran: 26 6, 19, Hessar, 50 km ESE Nishabur, 12-13.vi.1977
+(NMP-364). Colposcenia sp. A
+
+Material examined. SE Iran: 1 2, Ghasemabad, 10 km Bampur Valley, W Iranshar, 1 1-
+12.iv.1973 (NMP-157). Comment. The single female may represent a new species but male material is
+required for confirmation. Craspedolepta bulgarica Klimaszewski
+
+Material examined. N Iran: 76.3, 162 2, 4 larvae, 20 km E Tehran, 2.v.1966, Achillea
+albicaulis (R-218). JUMPING PLANT-LICE OF IRAN 847
+
+Craspedolepta convexa Baeva
+
+Material examined. Iran: 19, Pol-e Veresk, Istgah-e, 35°S5'N 52°56'E, 1300 m,
+2.vi.1966, Artemisia chamaemelifolia (R-221); 26 8, 22 @, E Iran, Taftan, Tamandan, 2200
+m, 18.iv.1973 (NMP-168); 12, same but 17-18.iv.1973, 2100 m, (NMP-167); Central Iran,
+39 2, Qanat Marvan, 22-24.v.1977, 2850 m (NMP-346). Comment. Craspedolepta convexa Baeva and C. armazhi Gegechkori share
+similar wing and genital characters but differ, according to the original descriptions
+(BaEva, 1970; GEGECHKoRI, 1973), in the narrower forewings and shorter apical
+process of the female proctiger in C. convexa. Differences in the male terminalia
+given in the original descriptions are more difficult to interpret and require
+examination of type material. Some specimens of C. armazhi examined have possible
+type status (ZI) but types of C. convexa were not available. The material here
+attributed to C. convexa on the basis of the narrow forewings and the relatively short
+female proctiger, is variable in the extent of the dark forewing pattern, and the size
+and arrangement of surface spinules. Craspedolepta pontica Dobreanu & Manolache
+
+Material examined. N Iran: 1, Kandavan Pass, 2700-2900 m, S slope, 4- 9.vii.1977
+(NMP-395). Craspedolepta remaudierei sp. n. (Figs 54, 56-59)
+
+Description. Adult. Coloration. Green with indistinct yellow spots on vertex,
+pronotum yellowish, mesoscutum with indistinct yellow longitudinal bands, abdomen
+light greenish yellow. Antennae green with dark apices of segments 3-10. Forewings
+transparent with small brown maculae scattered over most of the wing, with
+transverse light brown band along outer wing margin and dark brown spot at the base
+of vein M (fig. 54). Setae on head, body and wings white. Structure. Dorsal surface of head and thorax, and forewings covered in long
+conspicuous setae. Forewings (fig. 54) subtrapezoidal, surface spinules present in all
+cells, irregularly spaced, much denser apically than basally. Terminalia as in figs 56-
+59. Male parameres broad, weakly curved; inner surface with subapical anterior
+process and oblique row of tubercles. Female terminalia cuneate. Measurements. (1d). HW 0.61; AL 0.55; WL 1.81; MP 0.22; PL 0.24; AEL
+0.24; ALHW 0.91; LLHW 0.39; TLHW 0.58; WLHW 2.79; WLW 2.39; MPHW
+0.36. Larva unknown. Holotype 3, Central Iran: Kuh-e-Lalehzar, S Kerman, 2800 m, 24-30.v.1977 (NMP-
+347). Paratypes. Iran: 1d, 1 2, Kuh-e-Lalehzar, S Kerman, 26.vi.1955, Artemisia cina (R-35)
+(USNM). Comments. C. remaudierei resembles C. setosa (Wagner) in the long setae on
+the dorsal body surface and forewings but differs in the wing shape and coloration,
+and the shape of the male and female terminalia. 848 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Craspedolepta tadshikistanica Baeva
+
+Material examined. Central Iran: 184 3, 269 2, Kuh-e-Lalehzar, S Kerman, 2800 m,
+24-30.v.1977 (NMP-347 ). Craspedolepta sp. A (Figs 55, 60)
+
+Description. Adult. Coloration. General body coloration yellowish. Forewings
+semitransparent with brown to dark brown, distinct dots which are confluent along the
+veins in the apical part of wing (fig. 55). Structure. Head and body covered in short setae coated in waxy secretions and
+resembling small scales. A few similar setae also present on forewings, particularly
+along the veins. Forewings (fig. 55) oblong-oval, without surface spinules, Male
+unknown. Female terminalia as in fig. 60. Host plant. Artemisia herba-alba. R 250. examined. Iran: 29 2, 1 larva, S Rafsendjan, 13.ix.1972, Artemisia herba-alba
+
+Comment. Specimens resemble C. alevtinae (Andrianova) in the presence of
+setae on the body surface and the lack of surface spinules on the forewings but differ
+in the smaller body size. Without males it is not possible to decide whether this is an
+undescribed species. Crastina myricariae Loginova
+
+Material examined. N Iran: numerous dd and 2 9, Meygun, N Teheran, 15.xi.1962,
+Myricaria germanica (R-207); 16, Meygun, 2000 m, 26.iv.1963 (R-209); 66d, 329, 6
+Jarvae, Meygun, 2100 m, 15.xi.1962, Myricaria germanica (R-213). Crastina tamaricina Loginova
+
+Material examined. NE Iran: 4d d, 129 ?, Hessar, 50 km ESE Nishabur, 1400 m, 12-
+13.vi.1977 (NMP-364). Rhodochlanis bicolor (Scott)
+
+Material examined, Iran: 13, Talkh Ab-e Taj od Din [=Talkh Ab-i-Kalat], 32°09'N
+49°03'E, 15.v.1966, Suaeda (R-221); 16, 19, 23 miles NE Gonbad-e Kavus, 37°17'N 55°17E,
+50 feet, 5-9.v,1956 (G.B. Vogt-126) (USNM); 2d d', 22 @, 1 forewing, 12 miles NE Gonbad-e
+Kavus, 37°17'N 55°17'E, 100 feet, 1-9.v.1956 (G.B. Vogt-159) (USNM); 36d, 229,
+Khuzestan, Golestan, Ahwaz, 11.iii,1978, Suaeda (Schanginia) baccata (V. F. Eastop)
+(BMNH); 64 6, 39 Y, same but 15.iii.1978; 34 6, 79 2, 8 larvae, same but 11-12.iv.1978. JUMPING PLANT-LICE OF IRAN 849
+
+PAUROCEPHALINAE
+Camarotoscena Haupt
+
+Comments. A species collected on Populus nigra f. pyramidalis (RUBSAAMEN,
+1902) and given an Iranian origin by Houarp (1922) was, judging by Riibsaamen's
+description and drawings, a Camarotoscena sp. KEY TO SPECIES
+
+1 Forewings transparent without pattern (fig. 61). Male parameres
+straight in profile, slightly narrowed in the middle; subgenital plate
+indented posteriorly (figs 64, 65). Female subgenital plate evenly
+tapered to apex (fig. 67). On Populus spp. eee eee ence eee e tenet eee ee Camarotoscena unicolor Loginova
+
+- Forewings bearing a dark pattern consisting of small dots. Male
+parameres curved backwards in profile, not visibly narrowed in the
+middle. Female subgenital plate abruptly narrowed subapically. .......... 2
+
+2 Surface spinules of forewings large, arranged in short chains of 2-3. On
+Populus ?pyramidalis.........+++++ Camarotoscena fulgidipennis Loginova
+
+- Surface spinules of forewings very small, indistinct, irregularly spaced. On Populus spp... . 06.000. 0 002s Camarotoscena hoberlandti Vondratek
+
+Camarotoscena fulgidipennis Loginova
+
+Recorded from Iran: Zergende (LOGINOVA, 1975a; GEGECHKORI & LOGINOVA,
+1990). Material examined. Iran: 16, 1°, Deh Pagah, 30°08'N 52°0S'E, 1950 m, 24.x.1967,
+Populus nigra (R-231); 12, same but Salix sp. (R-232); 4d d, 3° 2, numerous larvae, Karaj,
+35°48'N 50°59'E, 28.x.1967, galls on Populus sp. (R-234); 1d, 1%, 3 larvae, Gatgesar,
+37°41'N 49°03 'E, 2250 m, 7.ix.1972, Populus alba (R-248); 16, Khonsar, 33°12'N 50°18'E,
+2700 m, 23.xi.1974, Astragalus sp. (R-i3986b) (USNM); 4 larvae, Fars, Ardakan, 32°19'N
+53°59'E, 10.x.1955, Populus (R-33) (USNM); 1d, 19, Tehran, 8.viii.1978, Populus sp., galls
+(S. H. Hodjat) (BMNH). Camarotoscena hoberlandti Vondraéek
+Material examined. N Iran: 26 6, Tehran, prov. Karadj, 17.vi.1974, Populus nigra
+
+(Abai) (MMB); 26 3, 1:2, Tehran, 8.viii.1978, Populus sp., galls (S. H. Hodjat) (BMNH). Camarotoscena unicolor Loginova (Figs 61-67)
+
+Description. Adult. Coloration. Dorsal surface of head and body evenly brown,
+ventral surface ochreous. Antennae yellowish with apical two segments brown. Wings
+
+850 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+transparent, whitish, veins light ochreous. Younger specimens lighter with less
+extensive brown colour. Structure. Head (fig. 62) with fine microsculpture and short setae. Antennae
+(fig. 63) with subequal terminal setae, both longer than segment 10. Forewings (fig. 61) oblong-oval; surface spinules present in all cells, fine, irregularly spaced, leaving
+spinule-free stripes along the veins. Veins along nodal line narrower and thinner;
+costal and anal breaks present. Terminalia as in figs 64-67. Male subgenital plate
+indented posteriorly. Parameres obliquely truncate with each an anterior and posterior
+sclerotised tooth apically. Basal portion of aedeagus with transverse folds apically on
+the inner side. Measurements. (1d, 22 2). HW 0.59-0.67; AL 0.55-0.62; WL 1.47-1.91; MP
+0.21; PL 0.14; AEL 0.18; FP 0.61-0.79; ALHW 0.92-1.03; LLHW 0.24-0.42; TLHW
+0.62-0.66,; WLHW 2.51-2.83; WLW 2.25-2.59; MPHW 0.35; FPHW 1.03-1.18; FPC
+4.25-5.08; FSP 1.45-1.47; FAS 1.0: 0.3 : 0.3: 0.3: 0.3: 0.4 :0.2: 0.1. Larva unknown. Material examined. Iran: 1d, Ahvaz, 31°19'N 48°42'E, 15.v.1977, Populus diversifolia
+(Gharib) (R-306); 42 %, same but 10.iv.1978, sweeping (V. F. Eastop) (BMNH); 366,399,
+same but 11-12.iv.1978, Populus euphratica; 16, same but 16.iv.1978, Punica granatum;
+266, 322, Khuzestan, Ahvaz, Golestan, 21.iv.1978, Populus euphratica, same; 66 3,
+23@ 2, SW Iran, Shushtar, 13.iv.1977 (NMP-287). LivIINAE
+
+KEY TO GENERA AND SPECIES
+
+1 Vertex broader than long. Third antennal segment the longest. On Olea
+ee Euphyllura straminea Loginova
+
+- Vertex longer than broad. Second antennal segment the longest. On
+Juncus spp. .. . Livia juncorum (Latreille)
+
+ 
+
+Euphyllura Forster
+Comment. Gececukorr & LoGiNova (1990) mentioned Euphyllura phillyreae
+
+Forster from Iran referring to LoGinova (1972b) which does not list the species! It is
+thus doubtful whether the species occurs there. Euphyllura straminea Loginova
+
+Recorded from Iran by HALPERIN et al. (1982). Material examined. Iran: 19 (Nuri Mahdi) (BMNH). JUMPING PLANT-LICE OF IRAN 851
+
+Livia juncorum (Latreille)
+
+Recorded from localities in Iraqi Kurdistan by HEsLop-HARRISON (1949) and
+assumed by him to occur in Iran. LOGINOVA (1962, 1972b) and MATHUR (1975) listed
+
+Iran but did not indicate, whether they had seen material. Material examined. Iran: 1, 3° 2, W Kakan, Kuh-e-Dena, 30°38'N 51°45'E, 2500 m,
+25.x.1967, Scirpus (R-233); 19, N Iran, Rezvandeh, 28.vi.1977 (NMP-389). RHINOCOLINAE
+KEY TO GENERA AND SPECIES
+
+1 Forewings without extensive pattern. Antennae more than 1.5 times
+
+head width. On Pistacia spp.........--+.++ Megagonoscena viridis (Baeva)
+- Forewings with dark pattern consisting of dark spots and band forming
+
+a zig-zag line along outer margin. Antennae less than 1.2 times head width... 2
+2 Forewings without pterostigma. On Peganum harmala. Peete eee e eee tee e eee eeee Agonoscena pegani Loginova
+- Forewings with well-developed pterostigma. 3
+3 Dorsal margin of distal portion of aedeagus with distinct incision in
+
+basal third. Dorsal margin of female proctiger convex; circumanal ring,
+
+in dorsal view, angular apically. On Pistacia khinjuk and mutica. vee eee eee eee eee eee eee e een e teen ee Agonoscena bimaculata Mathur
+- Dorsal margin of distal segment of aedeagus concave but without well-
+
+defined incision in basal third. Dorsal margin of female proctiger
+
+concave; circumanal ring, in dorsal view, oval. On Pistacia spp. eee ence eee ete eee e eee Agonoscena pistaciae Burckhardt & Lauterer
+
+ 
+
+Agonoscena bimaculata Mathur
+
+Recorded from Iran on Pistacia khinjuk as "Agonoscena aff. menozzii"
+(DavaTCcul, 1958). Material examined, Iran: 4d 3, 49 2, 8 larvae, Kerman, Sang Bur, 30°00'N, 56°45'E,
+v.1955, Pistacia khinjuk (Davatchi & Remaudiére, R-7) (USNM); many larvae, Kerman, Kuh-e
+Sorkh, 31°19'N 58°44'E, ix.1955, Pistacia khinjuk (R-14, R-191) (MNHN, USNM); 1d, 12,
+Kerman, 15.viii.1959, Pistacia mutica (Taghizadeh & Hambleton #60-3119) (USNM); few
+adults, many larvae, Deh Bakri, SW Bam, 29°03'N S7°S6E, ix.1955, Pistacia khinjuk (R-15, R-
+190) (MNHN, USNM); 12, 4 larvae, Baluchistan, 70 km S$ Khash, 28°14 61°14'E, vi.1955,
+Pistacia khinjuk (R-19) (SNM). Comments. Iranian specimens differ from type material from Pakistan:
+Peshawar in the smaller body size, and the smaller number of marginal lanceolate
+setae on the wing bud in the larvae. They share however the dark wing pattern, the
+abruptly thickened distal portion of aedeagus and the apically relatively angular
+
+ 
+
+ 
+
+852 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+circumanal ring, characters which separate both forms from A. pistaciae. More
+material is required to decide whether they represent clinal variations of the same
+species. Agonoscena pegani Loginova
+
+Recorded from Iran (ZI) (GeGECHKoRI & LOGINOVA, 1990). Material examined. Iran: numerous dd, ? @ and larvae, Rafsanjan 30°24'N 56°01'E,
+13.ix.1972, Peganum harmala (R-249). Agonoscena pistaciae Burckhardt & Lauterer
+
+Recorded from Iran: Kerman (Rafsanjan, Sirjan), Kazvin, Saveh, Yadz
+(Kermanshah) and Khorassan (Khaf) as Agonoscena targionii (Lichtenstein)
+(Davatcui, 1958); and as A. pistaciae from Rafsanjan and Sadeghabad (BURCKHARDT
+& LAUTERER, 1989). Material examined. Iran: several dd and @@, 1 larva, 12 km from Zahedan,
+Balutchistan, v.1955, Pistacia mutica (R-4, R-178) (MNHN, USNM); numerous 36, 2 2 and
+larvae, Rafsanjan, Kerman, vi.1955, Pistacia vera (R-3, R-179) (MNHN, USNM); 2 6,22 2,
+E Iran, same, 22.iii.1973 (NMP-131); many 6d and 2 2, Kerman, 12.vi.1956, Pistacia vera
+(R. Gardenhire) (USNM); numerous larvae, Gazin, 31°33'N 49°23'E, vi.1955, Pistacia vera
+(Chodjai) (R-2, R-181) (MINHN, USNM); numerous adults, same but 17.viii.1955 (R-11, R-
+187); 36d, 32 2, 4 larvae, 40 km Sanandaj, 35°19'N 47°00'E, 14.viii.1955, Pistacia mutica
+(R-13, R-186) (MNHN, USNM); many adults and larvae, road of. Shemshak, N Tehran,
+ix.1955, Pistacia vera (R-12. R-192) (MNHN, USNM); 19, 1 larva, 20 km N Bam, 36°58'N
+57°59'E, 1955, Pistacia mutica (Farehbakhch, R-5) (USNM); many ¢¢, 2° and larvae,
+Sadegabad, 27.x.1986, Pistacia sp. (BMNH). Megagonoscena viridis (Baeva)
+
+Material examined. Iran: 32 @, 1 larva, Kuh-e-Sardar, 1.vi.1958, Pistacia vera (R-
+196); 263, 72 @, 5 larvae, Firwzabad, 34°21'N 51°16'E, 1.v.1959, Pistacia mutica (R-198);
+16, 1 larva, Zarand, 30°48'N 56°35'E, 10.iv.1958, Pistacia vera (Taghizadeh) (USNM). Comments. Davatcut's (1958) records of Psylla sp. from Kazvin, Kerman
+(Rafsanjan) and Teheran (Chahriar) on Pistacia vera probably concern Mega-
+gonoscena viridis. DIAPHORININAE,
+
+KEY TO GENERA AND SPECIES
+
+1 Antennae shorter than head width. ...............06 Diaphorina ...... 2
+- Antennae more than 1.5 times head width.............. Psyllopsis ...... 8
+
+10
+
+JUMPING PLANT-LICE OF IRAN 853
+
+Genal processes slender, conical, symmetrical, subacute apically, as
+long as or longer than vertex along mid-line. On Cordia spp. fee eee cece eee eee e eect bebe e ee eaee Diaphorina aegyptiaca Puton
+Genal processes robust, asymmetrical, truncate apically or shorter than
+vertex along mid-line.... 0.0... cc ccceccecceceeeeceeatesersensens 3
+Genal processes robust, broadly truncate apically. Cell m,,» of fore-
+wings broad; distance between the apices of the two M branches only
+
+little shorter than the branches. ............ Diaphorina enormis Loginova
+Genal processes less robust, rounded or subacute apically. Cell mj, of
+forewings elongate; distance of apices of the two M branches much
+shorter than the branches. ... 6.0.60 eee see e eee ee eee eee e eee e ene eee 4
+Forewing pattern consisting of 3 large patches, one forming a long
+streak from the outer wing margin to the base of cell rs, one a triangular
+
+spot at the outer wing margin and one an irregular spot covering mostly
+
+cell cu,,. Female subgenital plate with large ventral tubercle. On
+Tamarix Sp... ieee eee eee eee e eee eee Diaphorina tamaricis Loginova
+Forewing pattern usually forming a more or less continuous band along
+
+the outer wing margin or greatly reduced. Female subgenital plate
+
+without ventral tubercle... 0.6.66... cece e cence tenet eee e eens 5
+Forewings relatively slender. Female subgenital plate evenly curved
+ventrally. On Convolvulus spp... . 0.6.00. 0 e005 Diaphorina chobauti Puton
+Forewings relatively broad. Female subgenital plate distinctly angular
+ventrally. 6... eee eee cece eet erent eter e een e eee eee 6
+
+Forewing pattern dark brown, well-defined, strongly contrasted with
+
+white membrane. On Lycium spp. . Diaphorina lycii Loginova
+Forewing pattern lighter, not strongly contrasted with membrane.......... 7
+Genal processes about half as long as vertex along mid-line. weed ence kee ee ree ee tent e sen eneenees Diaphorina luteola Loginova
+Genal processes longer than half vertex length. On Zygophyllum spp. and Halimiphyllum spp. . Diaphorina zygophylli Loginova
+Forewings with dark brown or black pattern or dark brown to black,
+well-contrasted veins. Usually (except in teneral specimens) black spots
+
+ 
+
+ 
+
+on head and/or thorax... 66.6... 0 eee cece eer eee e eee e eee 9
+Forewings yellowish with concolorous veins. Head and thorax without
+dark pattern. 0.0... cece eee teen eee eee eees 10
+
+Forewings with well-defined dark brown or black pattern. Male
+parameres forming, in profile, a forward directed triangle. Female
+proctiger with relatively robust apical process. On Fraxinus spp. eee enn ence eee e teen tenes Psyllopsis fraxini (Linnaeus)
+Forewings without distinct dark brown to black pattern. Male para-
+meres, in profile, with anterior lobe and dorsal incision. Female proc-
+
+tiger with slender apical process. On Fraxinus oxycarpus. ee eee eee tee ee eee e ee eee ee eee Psyllopsis repens Loginova
+Male parameres, in profile, with both a forward and a backwards-directed
+
+854 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+lobe. Female proctiger subacute apically. On Fraxinus spp. beeen eee eee eee e eee ee ee eeees Psyllopsis machinosus Loginova
+- Male parameres, in profile, only with anterior lobe. Female proctiger
+
+truncate apically. On Fraxinus oxycarpus..... Psyllopsis securicola Loginova
+
+Diaphorina aegyptiaca Puton
+
+Material examined. Iran: 1d, 21 km SW Saravan, 29.iii.1973 (NMP-140). Diaphorina chobauti Puton
+
+Recorded from Iran (ZI) as D. propinqua Léw (GEGECHKORI & LOGINOVA,
+
+1990). Material examined. Iran: 12, N Iran, Ahyek, 24.vi.1970 (NMP-30); 12, N Iran, Central
+Elburz, Kahha-ye Tu-Chal, 3600-3900 m, 18-19.vii.1970 (NMP-61); 283, 2199, N Iran,
+Wildlife Park Robat-e Quareh Bil, 1000 m, 30.vii.1970 (NMP-78); 1d, N Iran, Teheran - Evin,
+Elburz, 1700-2000 m, 9-10.iii.1973 (NMP-123); 2d 6, 222, SE Iran, 21 km SW Saravén,
+29.iii.1973 (NMP-140); 1d, 12, SE Iran, Zabol, 31.iii.1973 (NMP-142); 1d, 29 2, SE Iran, 40
+km Zabol, 31.iii.1983 (NMP-143); 6° °, SE Iran, Sekand, 27 km ENE Sarbéz, 31 iii-1.iv.1973
+(NMP-144); 333, 229, Deh Bakri, SW Bam, 1700-1750 m, 30.iv-1.v.1973 (NMP-186);
+3066, 3022, Mian Jangal, 30.v-5.vi.1973 (NMP-223); 1d, S Iran, Maharlu, 5-6.vi.1973
+(NMP-227); 1d, S Iran, 13 km SSW Yasuj, 1800 m, 12-13.vi.1978 (NMP-239); 16, S Iran,
+Sisakht, Kuh-e-Dena, 2500-3000 m, 13-14.vi.1973 (NMP-241); 16, 12, S Iran, Komehr, 2000
+m, 17.vi.1973 (NMP-246); 346 3, 332 2, S Iran, 7 km NW Shul, 2100 m, 17.vi.1973 (NMP-
+247), 53 3,92 2, S Iran, 6 km SSE Shul, 2190 m, 17-18.vi.1973 (NMP-248); 12, S Iran, 13 km
+NW Ghaderbad, 2120 m, 21.v.1973 (NMP-253); 1d, 32 @, E Iran, 36 km N Gonabad, 830 m, 7-
+8.vi.1977 (NMP-316); 1d, S Iran, Kuh-e Geno Mountains, 400-600 m, 1-4.v.1977 (NMP-321);
+864, 102 2, C. Iran, 30 km N Sabzevaran, 1650 m, 17-19.v.1977 (NMP-337); 156, 102 ?,
+C. Iran, Qanat Marvan, 2850 m, 22-24.v.1977 (NMP-345); 25d, 1392, C. Iran, Qanat
+Marvan, 3000-3100 m, 24.v.1977 (NMP-346); 2d 3, 229, C. Iran, Lalehzar, 2800 m, 24-
+30.v.1977 (NMP-347); 26 d, 2°, NE Iran, 10 km W Sabzevar, 15-16.vi.1977 (NMP-368);
+48,329, N Iran, 3 km N Dasht, Golestan forest, 960 m, 18-19.vi.1977 (NMP-375); 36 3,
+12, Golhak, near Tehran, 1700 m, 9-23.vi.1961 (J. Klapperich) (MMP, MHNG); 1 forewing,
+numerous larvae, Gorogh, E Tehran, 10.x.1955, Convolvulus sp. (R-21, R-193) (MNHN,
+USNM); numerous 6d, 2 2 and larvae, Takht-e-Jamshid, NE Chiraz, 27.iv.1959, Convolvulus
+(R-197); 16, Karaj, 1.v.1966, Artemisia herba-alba (R-216). Comments. Adults of Diaphornia chobauti Puton, sensu BURCKHARDT (1985),
+vary in the shape and coloration of the forewings and in the shape of the genal
+processes. Specimens from Gorokh, Takht-e Jamshid, Karadj and Golhak have
+relatively long genal cones, and forewings with distinct brown pattern and a relatively
+straight vein C+Sc (as in types of D. montana Loginova); specimens from Gonabad and
+Sabzevar have shorter genal processes and lack a dark, defined forewing pattern (as in
+types of D. turanica Loginova). Iranian larvae differ from North African and Israeli
+material in the presence of small lanceolate setae on the dorsal surface of head, body
+and wing pads (BURCKHARDT, 1985). D. chobauti sensu BURCKHARDT (1985) may be a
+
+complex of closely related species or a single, polymorphic species. JUMPING PLANT-LICE OF IRAN 855
+
+Diaphorina enormis Loginova
+
+Recorded from Iran: $ Iran, Makran, Shahva, 12 km NW Minab, 18-19.v.1973
+
+(NMP-202) (Loainova, 1978a). Material examined. Iran: 1 9, S Iran, 12 km NW Minab, 18-19.1973 (NMP-202). Diaphorina luteola Loginova
+
+Recorded from Iran: 15 km NE Chah Bahar, 5.iv.1973 (NMP-148); Tis, 6-
+7.iv.1973 (NMP-150); Iranshahr, 12.iv.1973 (NMP-158) (Locinova, 1978a). Material examined. Iran: 16, 29 9, S Iran, Bezan, 15 km NW Furk, 1000-1400 m, 28-
+29. v.1973 (NMP-218); 46 3, 89 2, Borozjan, 19.iv.1977 (NMP-299); 1d, 59 9, area around
+Golshan, 24.iv.1977 (NMP-310); 2.3, 62 2, Maloo W. Bandar Lengeh, 25.iv.1977 (NMP-
+312); 28.3, 59 2, Bandar-e-Mahtabi, 26.iv.1977 (NMP-315); 1d, 6 km W Geno, 400 m, 7-
+9.v.1977 (NMP-323); 22 2, 22 km N Kohnuj, 580 m, 16.v.1977 (NMP-333). Diaphorina lycii Loginova
+
+Material examined, Iran: 59 9, NE Iran, Kuh-e-Binauld, Southern slope, 15 km NE
+Nishobur, 1600-2300 m, 13-15.vi.1977 (NMP-165); 26 3, 12, $ Iran, 15 km NW Miandangal,
+5.vi.1973 (NMP-224); 1, $ Iran, 15 km SE Taheri, 22-23.iv.1977 (NMP-307); 16, 19, C.
+Iran, Qanat Marvan, 2850 m, 22-24.v.1977 (NMP-345);, 22 9, C. Iran, Qanat Marvan, 3000-
+3100 m, 24.v.1977 (NMP-346); 1, C. Iran, Kuh-e-Lalehzar, Northern slope, 3200-3800 m,
+24-30.v.1977 (NMP-348); 19, C, Iran, Shahdad, 570 m, 31.v-1.vi.1977 (NMP-353); 866,
+159 9, E Iran, 17 km N Nehbandan, 1250 m, 5-6.vi.1977 (NMP-358); 96.3, 142 9, E Iran, 25
+km NNW Shusf, 6.vi.1977 (NMP-359); 54d, 69 , E Iran, 36 km N Gonobad, 830 m, 7-
+8.vi,1977 (NMP-361); 376 6, 59@ 2, C. Iran, Gowk, 31.v.1977 (NMP-362); 12, NE Iran, 5
+km W Sabzevar, 16.vi.1977 (NMP-369); 1, N Iran, 3 km N Dasht Golestan forest, 960 m, 18-
+19.vi.1977 (NMP-375). Diaphorina tamaricis Loginova
+
+Recorded from Iran: Sistan, Kolodez Cha-i-Novar, 6-8.viii.1898 (Zarudnyi); N
+Tran, Tehran-Evin, 1700 m, 13.iii.1973, garden (NMP-124); E Iran, Dowlatabat, 8-
+9.v.1973 (NMP-192); S Iran, 15 km NW Mian Jangal, 5.vi.1973 (NMP-224)
+
+(Loainova, 1978a; GeGECHKoRI & LociNova, 1990). Material examined. Iran: 1, SW Iran, Mollasani, 45 km NW Ahwaz, 13-14.iv.1977
+(NMP-288); 12, SW Iran, 34 km SE Omidiyen, 16-17.iv.1977 (NMP-292). Diaphorina zygophylli Loginova
+
+Diaphorina zygophylli Locwova, 1978a: 44, Holotype 3: C.LS. : Kirgizia, nr Zhekaftar,
+foothills of Chatkalskoy Chain, 19.iv.1966 (ZI), examined. 856 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Diaphorina kopetdaghi Loainova, 1978a: 40. Holotype 3: C.LS. : Turkmeniya, Kopedag, dam
+of river Arvaz, 30 km SE Baharden, 18.vi.1972 (Loginova) (ZI), examined. Syn. n. '
+Diaphorina halimiphylli LoctNova, 1978a: 42. Holotype é: C.LS. : Tadzhikistan, Koktau
+Chain, 800 m, Aktau Mountains, 25 km NW Kurgan-Tyube, 20.vi.1964 (Sugonyaev)
+(ZD), examined. Syn. n.
+Diaphorina media BABVA, 1978: 40. Holotype 3: C.1LS. : Usbekistan, nr Sairob rd to
+Gagrisyabe, 20.v.1964 (V. Baeva) (ZI) examined. Syn n.
+
+  
+
+Recorded from Iran: E Jran, 70 km NW Bam, Khatunabad, 15.iv.1973 (NMP-
+
+179) as D. kopetdaghi (Loainova, 1978a; GEGECHKORI & Locinova, 1990). Material examined. Iran: 16, 12, Kerman, Sang Bur, 30°00'N 56°45'E, vi.1955,
+Zygophyllum eurypterum (Davatchi & Remaudiére, R-8) (USNM); 16, 12, Kerman, ix.1955,
+Salicornia sp. (R-20) (USNM); 26 6, 49.2, Shiraz S Yasuj, pass at 2400 m, 21.ix.1974,
+Astragalus sp. (R-i3965) (USNM);
+
+Comments. Examination of the types of Diaphorina zygophylli Loginova, D.
+halimiphylli Loginova, D. kopetdaghi Loginova and D. media Baeva has shown that the
+four taxa are conspecific and they are synonymised. Psyllopsis fraxini (Linnaeus)
+
+Recorded from Iran: SE Iran, Kerman, 2000 m, vi.1892 (RUBSAAMEN, 1902). Comment. This record needs verification. Psyllopsis machinosus Loginova
+
+Material examined. Iran: 1 2, Varamin, 15.v.1959, Fraxinus sp. (Safavi) (USNM). Psyllopsis repens Loginova
+
+Recorded from Iran: Kerman, v.1928 (Siyazov) (Locinova, 1963, 1968;
+
+GEGECHKORI & Locinova, 1990). Material examined. Iran: 1, 12, Garmsar, 35°20'N 52°13'E, 15.xi.1962, Fraxinus (R-
+208). Psyllopsis securicola Loginova
+
+Recorded from Iran: Kerman, v.1928 (Siyazov) (LoGINova, 1963;
+
+GEGECHKORI & LociNova, 1990). Material examined, Iran: 16, Varamin, 15.v.1959, Fraxinus sp. (Safavi) (USNM). ‘
+
+ 
+
+JUMPING PLANT-LICE OF IRAN 857
+
+PACHYPSYLLOIDINAE,
+KEY TO GENERA AND SPECIES
+
+1 Pterostigma of forewings narrower at base than adjacent portion of cell
+ty. On Calligonum sp... 0. cece eens Eremopsylloides amirabilis Loginova
+- Pterostigma of forewings as wide as or wider at base than adjacent
+portion of cell rj. On Calligonum spp. .... Pachypsylloides errator Loginova
+
+Eremopsylloides amirabilis Loginova
+
+Recorded from Iran (ZI) (GEGECHKORI & Locinova, 1990). Material examined. SE Iran: 1d, 30 km N Bampur, 12-13.iv.1973 (NMP-159). Pachypsylloides errator Loginova
+
+Material examined. E Iran: 1 2, 25 km NNW Shusf, 6.vi.1977 (NMP-359). Comment. A single female is provisionally attributed to P. errator, a species
+which strongly resembles P. reverendus Loginova. ARYTAININAE
+KEY TO SPECIES
+
+1 Genal cones about as long as vertex along mid-line. Distal segment of
+aedeagus with large apical hook. ........... 00s cece cece cece eee eee 2
+- Genal cones about half to three quarters vertex length along mid-line. Distal segment of aedeagus rounded apically or with small hook (in C.
+astragalicola). .
+2 The shorter of the two terminal setae on antennal segment 10 very
+short, about as long as wide. On Colutea spp. .. Cyamophila coluteae (Baeva)
+- The shorter of the two terminal setae on antennal segment 10 distinctly
+longer than wide at base. On Halimodendron halodendron. ween ete eee cence ee te ee eeeee Cyamophila oshanini (Loginova)
+3 Forewings with dark spots along outer margin in the middle of cells
+M142» M344, and cuy,, sometimes very faint. Male parameres with
+strongly developed posterio-apical tooth. Distal segment of aedeagus
+with weakly curved, apical portion which is little dilated. Dorsal margin
+of female proctiger almost straight, apex evenly tapered. Vertex
+flattened. On Glycyrrhiza spp. .......... Cyamophila glycyrrhizae (Becker)
+
+ 
+
+ 
+
+858 DANIEL BURCKHARDT & PAVEL LAUTERER,
+
+- Forewings without dark spots along outer margin in the middle of the
+cells. Male parameres with weakly developed posterio-apical tooth. Dis-
+tal segment of aedeagus with small apical hook. Dorsal margin of female
+proctiger sinuous. Vertex with strongly indented pits or raised anterior
+tubercles. On Astragalus spp. .....'-- Cyamophila astragalicola (Gegechkori)
+
+Cyamophila astragalicola (Gegechkori)
+
+Recorded from Iran: Khonsar, 15.viii.1974, Astragalus sp. (Safavi); v.1974,
+Astragalus sp. (Lansar) as Cyamophila astragalicola (GEGECHKORI, 1977;
+GececHKorI & Locinova, 1990); recorded from Iran as Cyamophila dicora Loginova
+by NAEEM & BEHDAD (1988). Material examined. Iran: 1?, S Iran, 13 km SSW Yasuj, 1800 m, 12-13.vi.1973 (NMP-
+239); 333.5, 2922, S Iran, Zagros, Yasuj, 16.vi.1973 (NMP-243); 22 9, S Iran, 27 km E
+Yasuj, 2650 m, 16.vi.1973 (NMP-244); 35 3, 62 2, S Iran, 7 km NW Shul, 2100 m, 17.vi.1973
+(NMP-247); 3 Sth instar larvae, Firuzabad, 28°50'N 52°36'E, 2.v.1959, Astragalus (R-199);
+666,629, E Garmandar, 40 km NE Tehran, 3000 m, on snow, 13.xi.1962 (R-206); 16, 20 km
+W Shiraz, 22.x.1967, Astragalus (R-229); 23 3, 22 9, 4 larvae, Khonsar, 33°12'N 50°18'E,
+Esfahan, x.1972, Astragalus adscendens (R-251); many ¢ 6, 2 @ and larvae, same but 2700 m,
+23.ix.1974, Astragalus sp. (R-i3986a); many 6d and 2@, same but x.1972, Astragalus
+adscendens (Sanei & Lessani) (USNM); 203d, 2029, same but 22.x.1984 (A. Naeem)
+(MHNG); 36, 12, same but 10.xii,1982, Astragalus adscendens (A. Naeem) (BMNH); 2
+larvae, Daran, 32°59'N 50°24'E, 2500 m, 23.ix.1974, Astragalus sp. (R-i3984b) (USNM); 16,
+12, Kashan, 33°59'N 51°29'E, x.1978, Astragalus sp. (J. Onillon) (USNM). Comments. The specimens from Esfahan, previously identified as C. dicora,
+show the characteristic, entirely brownish forewings of C. astragalicola and are
+therefore identified as such. The forewings of type material of C. dicora from
+Tadzhikistan, by contrast, bear distinct apical brown patches. The terminalia and head
+structure of C. astragalicola and C. dicora are similar and both develop on Astra-
+galus. Without revising the genus, it is not possible to judge the taxonomic signi-
+
+ficance of these differences. Cyamophila coluteae (Baeva)
+
+Recorded from Iran (GEGECHKoRI & LociNova, 1990). Material examined, Iran: 26 6, 12, E Iran, Taftan, Tamandan, 2100 m, 17-18.iv.1973
+(NMP-167); 1d, S Iran, SSW Yasuj, 1800 m, 12-13.vi.1973 (NMP-239); 46d, 102 2, SW.
+Iran, Pol-e Tang, 60 km NW Andimeshk, 10-11.iv.1977 (NMP-284); 66 3, 12, C. Iran, Qanat
+Marvan, 2800 m, 22-24.v.1977 (NMP-345); 26 6,42 2, C. Iran, Qanat Marvan, 3000-3100 m,
+24.v.1977 (NMP-346); 1, C. Iran, Lalehzar, 2800 m, 24-30.v.1977 (NMP-347); 12, N Iran, 3
+km N Dasht, Golestan forest, 960 m, 18-19.vi.1977 (NMP-375); 73.6, 49%, 9 Sth instar
+larvae, 140 km W Bojnurd, 37°28'N 57°19, 26.v.1966, Colutea (R-224). Cyamophila glycyrrhizae (Becker)
+
+Psyllodes glycyrrhizae BECKER, 1864: 486, Lectotype d: C.L.S. :Russia, Sarepta, Glycyrrhiza
+glabra (Becker) (ZI), examined. JUMPING PLANT-LICE OF IRAN 859
+
+Cyamophila eremita Locwova, 1978a: 88. Holotype d: C.LS. : Turkmeniya, Farab at
+Amudarya, 25.iv.1912 (Golbek) (ZI), examined. Syn. n.
+
+Recorded from Iran: Village Tamin nr mountains of Kuh-e-Taftan, Kerman,
+24.viii.1898 (Zarudnyj) as Psylla glycyrrhizae (LOGINOVA & BAEVA, 1972); NW Iran,
+Qazvin, 24.vi.1970 (NMP-29); N Iran, Teheran-Evin, garden on 1700 m, 13.ii
+(NMP-124); SW Iran, Shiraz (North), 4.vii.1973 (NMP-42); Shiraz (West), 4.vii.1973
+(NMP-43); S Iran, 10 km W Shiraz, 8.vi.1973 (NMP-228); Fasa, 9.vii.1970 (NMP-
+50); Mian Jangal, 5.vi.1973 (NMP-224); Kamalabad, 5.vi.1973 (NMP-225); 7 km
+NW Kuhenjan, 5.vi.1973 (NMP-226); 29 km E Yasuj, 2300 m, 16-17.vi.1973 (NMP-
+245); E Iran, Rafsanjan, 26-28.iv.1973 (NMP-181); Deh Bakri, 1700-1750 m, 30.iv-
+3.v.1973 (NMP-186); Mohammadabad, 1600-m, 3-5.v.1973 (NMP-187); Kurdistan
+pers., Shakhlawa (Kélalov4-DiLotti), Kurdistan, Badawa Erbil, 31.vi. (K4lalova-
+DiLotti) as Cyamophila odontopyx (LOGINOVA, 1978a); as C. eremita by GEGECHKORI
+& LocINova (1990) (ZI); HopKINSON & HOLLis (1987). Material examined. Iran: 1?, E Iran, Taftan, 2100 m, 20.iv.1973 (NMP-167); 10d,
+1929, E Iran, Bam, 24-25.iv.1973 (NMP-177); 903d, 1049 2, E Iran, Rafsanjan, 26-
+28.iv.1973 (NMP-181); 11d 3, 119 2, E Iran, Deh Bakri, 1750 m, 30.iv-3.v.1973 (NMP-186);
+16,12, E Iran, Mohammadbad, 1600 m, 3-5.v.1973 (NMP-187); 33.6, 1, E Iran, 33 km W
+Sabzvaran, 1100 m, 6-7.v.1973 (NMP-189); 19, E Iran, Banue - Charehar, 1800-2000 m,
+8.v.1973 (NMP-191); 1d, 12, S Iran, 5 km E Furk, 900 m, 28.v.1973 (NMP-217); 16, 12,8
+Iran, Korsiah, 29-30.v.1973 (NMP-220); 52d 6, 522 9, S Iran, Mian Jangal, 3.v-5.vi.1973
+(NMP-223); 13, 12, S Iran, 7 km NW Kuhenjan, 5.vi.1973 (NMP-226); 12, S Iran, Maharlu,
+5-6.vi.1973 (NMP-227); 32 2, S Iran, 10 km W Shiraz, 8.vi.1973 (NMP-228); 73 6,72 2,S
+Iran, 29 km E Yasuj, 2300 m, 16-17.vi.1973 (NMP-245); 23 3, 12, C. Iran, Qanat Marvan,
+2850 m, 22-24.v.1977 (NMP-345); 1d, C. Iran, Kuh-e Lalehzar, Northern slope, 3200-3800 m,
+24-30.v.1977 (NMP-348); 1d, 1, NE Iran, Kuh-e Binolud, Southern slope, 15 km NE
+Nishabur, 1600-2300 m, 13-15.vi.1977 (NMP-365); 133 3, 109 9, NE Iran, Assadli, 30 km S
+Bojnurd, 1970 m, 17-18.vi.1977 (NMP-374); 4d 3, N Iran, 3 km N Dasht, Golestan forest,
+960 m, 18-19.1977 (NMP-375); 134.3, 19 2, N Iran, 8 km NE Zairan, 2400 m, 10-16.vii.1977
+(NMP-400); 13, 29 9, Kurdistan pers., Shokhlawa (Kélalové-DiLotti) (ZD; 1¢,, several 92,
+many young instar larvae, Baluchestan, Gavater, 35°09'N 61°31'E, vi.1955, Glycyrrhiza glabra
+(R-18,'R-183) (MNHN, USNM); 36 ¢,, Takht-e Jamshid, 29°57'N 52°52, 4.v.1959, Carex
+sp. (R-201); many 6d, 22 and larvae, Varamin, 35°20'N 51°39'E, 9.v.1954, Glycyrrhiza
+glabra (R-202); 16, 19, Dehkhvareqan [=Azar Shahr], 37°45'N 45°59'E, viii.1972,
+Heliotropium sp. stem and leaves (CIE) (BMNH). Comment. Morphologically the type material of Cyamophila eremita falls
+within the range of variation found in C. glycyrrhizae, and the two are synonymised. Cyamophila oshanini (Loginova)
+
+Material examined. Iran: 1d, SW Iran, Bidruyeh, 36 km NNW Andimeshk, 440 m, 11-
+12.iv.1977 (NMP-285); 116 6, 9? 2, NE Iran, Hassar, 50 km ESE, Nishabur, 1400 m, 12-
+13.vi.1977 (NMP-364). PSYLLINAE
+
+KEY TO GENERA AND SPECIES
+
+1 Forewings rhomboidal (figs 75, 76). Genal processes short, broad,
+irregularly rounded; head covered in long setae (figs 77, 79). eee enter ence tect ence teense eeeeeeee Spanioneura persica sp. n.
+
+860
+
+10
+
+DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Forewings oblong-oval (fig. 68). Genal processes longer, slender,
+
+   
+
+conical; head without long setae (fig. 69). . Cacopsylla . 22
+Surface spinules of forewings densely spaced at 2-10 wt intervals. On
+PYUNUS SPP. o.oo ence teens Cacopsylla pruni (Scopoli)
+Surface spinules more or less evenly spaced at about 20 pL intervals,
+forming rhomboids, squares, or irregular transverse rows.........-.--.-- 3
+
+Upper surface spinules of forewings covering the whole of cell c+sc,
+apart from narrow stripes along the veins, in other cells forming broad
+fields, which taper apically towards outer wing margin; spinules present
+in cell rs proximal to bifurcation of vein R; forewing without dark
+contrasting patch along vein Cu,,. On Pyrus spp. voce beet seeeeeeutesteseuteneeaee Cacopsylla pyrisuga (Forster)
+This combination of characters absent. . Surface spinules present in all cells forming broad fields; apart from
+narrow stripes along the veins, covering the whole surface of cell c+sc;
+spinules present in basal part of cell rs proximal to bifurcation of vein
+
+R; fields in apical part not tapering towards wing margin. On Salix spp. eee e eee cece e eee teen eaten ee tenes Cacopsylla saliceti (Férster)
+
+ 
+
+ 
+
+ 
+
+     
+
+This combination of characters absent.......... 5
+Forewings with dark spots along outer margin and with infuscate
+membrane around vein Cu, contrasting from adjacent area. On
+Crataegus Sp... se cc cevecs cece ecteeuens Cacopsylla crataegi (Schrank)
+Forewing pattern different; membrane adjacent to vein Cuj, light or
+concolorous with sourrounding area... 2.2.0.6... eee cece eee teen 6
+Forewings with brown spot on apex of clavus, strongly contrasting with
+surrounding area. On Pyrus spp. . 7
+Forewings without brown, strongly contrasting spot on apex of clavus. ....11
+Parameres sickle-shaped. Female proctiger in profile with strong cons-
+triction in the middle... .............05..0005 Cacopsylla pyri (Linnaeus)
+Paramere in profile lamellar. Female proctiger cuneate. ........... feeeee 8
+
+Parameres with forward-directed apical tooth; fore margin constricted
+
+in basal third. Dorsal segment of aedeagus with weakly curved apical
+dilatation. Female proctiger often clearly exceeding subgenital plate. voce ee ee eeeeeeueeeteaees Cacopsylla permixta Burckhardt & Hodkinson
+Parameres with one or two inwardly directed points, fore margin not
+constricted. Distal segment of aedeagus with apical dilatation distinctly
+
+curved. Female proctiger only slightly exceeding subgenital plate.......... 9
+Paramere apex with two inwards directed teeth. Genal processes
+felatively robust...... 6.6. 6s eee ee eee ee eee ees Cacopsylla bidens (Sulc)
+
+Paramere apex with one inwards directed blunt tooth. Genal processes
+relatively slender. ..........0.00c0cccecececeeseeeceeseseueenees 10
+
+- Cacopsylla pyricola (Forster)
+.» +. Cacopsylla notata (Flor)
+
+Forewings with brown veins. Forewings with whitish veins,
+
+ 
+
+ 
+
+JUMPING PLANT-LICE OF IRAN 861
+
+11 Forewings (fig. 68) parallel-sided, broadest in the middle. Cacopsylla iranica sp. n.
+
+ 
+
+-  Forewings widening towards apical quarter. On Rhamnus spp... .. +. ++ +++ 12
+12 Male parameres in profile narrowly lamellar. Female proctiger truncate
+apically. 0... 6.0... c cece cece eee eee eee Cacopsylla suturalis (Horvath)
+
+- Male parameres in profile broadly oval. Female proctiger pointed apically. Lene ence teen e teen e eee eee Cacopsylla incerta (Loginova)
+
+Cacopsylla bidens (Sulc)
+
+Recorded from Iran (BURCKHARDT & HODKINSON, 1986). Material examined. Iran: 1d, Karaj, cotton field (M. Chojai) (NMP); 72 2, same but
+viii.1960, Pyrus sp. (MNHN); 16, 19, Azerbaijan, Rezaiyeh, 37°33'N 45°04'E, 8.viii.1955,
+Pyrus communis (R-23) (USNM); 6 larvae, Tehran, 9.v.1955, Pyrus sp. (R-26) (USNM). Cacopsylla crataegi (Schrank)
+
+Material examined. Iran: 26 3, 19, 1 Sth instar larva, Pol-e-Sefid, 36°06'N 53°01'E,
+500 m, 1.vi.1966, Crataegus sp. (R-226). Cacopsylla incerta (Loginova)
+
+Material examined. Iran: 1d, E Dasht Nazir, 36°25'N 51°26'E, 1250 m, 10.xi.1967,
+Artemisia absinthium (R-246). Cacopsylla iranica sp. n. (Figs 68-74)
+
+Description. Adult. Coloration. Head and thorax reddish brown with fine
+yellow or whitish pattern, Antennae ochreous, with dark apices on segments 4, 6 and
+8, segments 9 and 10 entirely dark. Tibiae dirty yellow. Forewings membranous,
+transparent, irregularly yellowish with concolorous veins, Abdomen light green. Structure. Head (fig, 69) slightly wider than mesothorax, weakly inclined from
+longitudinal body axis; genal processes slightly shorter than vertex along mid-line,
+blunt apically. Terminal setae on antennal segment 10 (fig. 70) subequal. Forewings
+(fig. 68) elongate with narrowly rounded outer margin; surface spinules absent apart
+from cell cu, and along outer margin in cells rs, mj 49, M344, Cuy, and at base of rs;
+surface. spinules in cell cu,, relatively large and irregularly spaced. Metatibiae with
+very small basal spine and 1+3+1 apical spurs, metabasitarsus with 2 black spurs. 862 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Genitalia as in figs 71-74. Male proctiger weakly sinuous in profile; paramere
+lamellar with sinuous fore margin and strongly sclerotised, inward and forward-
+directed apical tooth; distal portion of-aedeagus with flattened, slightly curved apical
+dilatation. Dorsal margin of female proctiger irregularly convex. Measurements. (1d, 12). HW 0.58-0.62; AL 0.55-0.59; WL 1.33-1.55; MP
+0.22; PL 0.24; AEL 0.22; FP 0.61; ALHW 0.94-0.97; LLHW 0.39-0.41; TLHW 0.53-
+0.55; WLHW 2.32-2.47; WLW 2.15-2.57; MPHW 0.39; FPHW 0.97; FPC 4.13; FSP
+1.74. Larva unknown. Holotype ¢, S Iran: 13 km NW Ghaderabad, 2120 m, 26.vi.1973 (NMP-253). Paratypes. Iran: 386.3, 389 @, same data as holotype; 49 %, S Iran, Mian Jangal, 3.v-
+5.vi,1973 (NMP-223); 1@, C. Iran, Qanat Marvan, 3000-3100 m, 24.v.1977 (NMP-246). Comments. Cacopsylla iranica belongs to the complex of species developing
+on Rhamnus and Cerasus as defined by Locinova (1975b). It is closest to C.
+kopetdaghi (Loginova) from which it differs in the reddish and green body coloration,
+the slightly. stouter genal processes, the shorter antennae, the narrower, yellowish
+forewings lacking dark spots in the middle of the cells along the outer wing margin,
+and the shorter female terminalia. Cacopsylla notata (Flor)
+
+Material examined. Iran: 1d, 3° 2, 16 Sth instar larvae, 30 km S Yasuj, 1900 m,
+26.x.1967, Pyrus sp. (R-234). Comments. The Iranian specimens differ from Mediterranean material in the
+presence of dark veins on the forewings of adults, in the somewhat narrower apical
+dilatation of the distal segment of aedeagus, and in the lack of marginal capitate setae
+on the caudal plate in the larvae, The dark veins could result from storage in alcohol. Cacopsylla permixta Burckhardt & Hodkinson
+
+Material examined. Iran: many 6d, 22 and Sth instar larvae, Hajjiabad, near
+Garmsar, 35°20'N 52°13'E, 8.v.1966, Pyrus sp. (R-219); 16, 499, 1 Sth instar larva,
+Khoshbeylagh Pass, S Gonbad-e-Kavus, 2000 m, 29.v.1966, Acer cinerascens (R-225). Comment. In Iranian material the lateral capitate setae on the larval caudal
+plate are longer than in specimens described by BURCKHARDT & HODKINSON (1986). Cacopsylla pruni (Scopoli)
+
+Material examined. N Iran: 1d, 19, 20 km NNE Khalkhal, 2160 m, 29.vi-1.vii.1977
+(NMP-391); 34.8, 39 9, Mazandaran, Now Shahr, 36°39'N 51°31'E, 23.iii.1978, Prunus
+spinosus (VF. Eastop) (BMNH). JUMPING PLANT-LICE OF IRAN 863
+
+Comment. Iranian specimens differ from Central European material in the dark
+pattern of the forewings which forms a well-defined band along the outer wing
+margin. Cacopsylla pyri (Linnaeus)
+
+Material examined. NW Iran: 1d, 10 km NW Zanjan, 4-5.vii.1973 (NMP-264). Cacopsylla pyricola ( Forster)
+
+Material examined. Iran: 19, Karaj, 35°48'N 50°59'E, 11.xi.1962, Pyrus sp. (R-205);
+19, Tehran Evin, 4.xi.1967, Pyrus communis (R-242). Comment. These two females are only provisionally assigned to C. pyricola. Cacopsylla pyrisuga (Forster)
+
+Material examined. Iran: many Sth and 4th instar larvae, Elburz, 2300, m, 20.vii.1955,
+Pyrus syriacus (R-22, R-185) (USNM). Cacopsylla saliceti (Férster)
+
+Material examined. Iran: 1 9, C. Iran, Lalehzar, 2800 m, 24-30.v.1977 (NMP-347). Comment. The identification of the specimen is provisional and males are
+required to confirm it. Cacopsylla suturalis (Horvath)
+
+Material examined. Iran: 44d, 222, 1 adult without abdomen, S Iran, Zagros,
+Sfsakht, 2400 m, 13-15.vi.1973 (NMP-240); 26 6, 12, C. Iran, Qanat Marvan, 3000-3100 m,
+24.v.1977 (NMP-346); 29 @, C. Iran, Lalehzar, 2800 m, 24-30.v.1977 (NMP-347); many 3 3
+and @ 2, Fars, Kuh-e-Dena, 3300 m, ix.1955, Ferula sp. (R-189) (MNHN, USNM, MHNG). Comment. The Iranian specimens differ from Yugoslavian material in the
+absence of a brown marginal band and surface spinules on the forewings. Similar
+differences are found in the closely related C. incerta (Loginova). Cacopsylla sp. A
+
+Material examined. N Iran: 22 2, E Elburz, Gaduk Pass, 2200 m, 2.viii. 864 ADANIEL BURCKHARDT & PAVEL LAUTERER
+
+Comment. The two females may be an undescribed species. They are
+characterised by forewings with long branches of the veins M and Cuj, a long vein
+R,, a short pterostigma, and a short vein M+Cu,,. Similar venational characters are
+present in Cacopsylla fasciata (Liw), C. sarmatica (Léw), C. zaicevi (Klimaszewski)
+and C. junatovi (Loginova) to which the Iranian specimens may be related. Males,
+larvae and host data are needed to identify this material. Psylla sp. A
+
+  
+
+Material examined. Iran: 5? 2, N Iran, W Elburz, Kalardasht Plain NE Rudbarak,
+1970 (NMP-90). Comment. The specimens belong probably to an undescribed species but males
+are needed for formal description. Spanioneura persica sp. n. (Figs 75, 77, 78, 80, 82, 84, 85)
+
+Description. Adult. Coloration. Head dirty yellowish above, light greenish
+yellow undemeath. Antennae yellow, with segments 4 to 9 bearing dark brown apices,
+segment 10 black. Thorax light yellowish to straw-coloured, with broad darker
+longitudinal stripes on mesopraescutum and mesoscutum. Legs yellowish to greenish. Forewings whitish; veins in basal half indistinctly brownish, veins in apical half and
+fore margin whitish to greenish; apices of veins Rs, Mj49, M3,4, Cu,,, Cuy, with dark
+brown to black spots; apices of cells m,,,m3,4, and cu, with light brown, indistinct
+patch; membrane transparent to whitish opaque. Abdomen light greenish. Structure. Head from above (fig. 77) about as wide as thorax, in profile strongly
+inclined from longitudinal body axis; covered in long setae. Genal processes short,
+broad, irregularly rounded. Antennae 10-segmented, filiform, bearing a subapical
+thinarium on each of segments 4, 6, 8 and 9; segment 10 with two subequal setae which
+are both shorter than the segment (fig. 78). Thorax moderately arched above, sparsely
+covered in long setae. Propleurites higher than wide; epimeron and episternum subequal
+in surface, narrowly elongate. Forewing (fig. 75) narrowly oval, apex asymmetrical and
+irregularly rounded; veins bearing conspicuous setae; costal break present, pterostigma
+short and small; cell m,,5 long, vein M3,4 sinuous; vein Cu,, gently curved; surface
+spinules sparsely covering membrane, arranged in irregular transverse rows or rhom-
+boids, leaving broad spinule-free stripes along the veins; reduced or entirely absent in
+cell r;. Hindwing membranous, almost as long as forewings. Metatibia with basal spine
+and 1+3+1 apical spurs; metabasitarsus with 2 black spurs. Genitalia as in figs 80, 82,
+84, 85. Male proctiger simple, hind margin weakly produced, shortly setose; subgenital
+plate densely setose latero-apically. Parameres lamellar, obliquely truncate and heavily
+sclerotised apically, with antero-apical tooth. Distal segment of aedeagus straight with
+irregularly oval apical dilation. Female terminalia long, dorsal margin of proctiger
+indistinctly concave in the middle, apex blunt. JUMPING PLANT-LICE OF IRAN 865
+
+Measurements. (1d, 12). HW 0.87-0.88; AL 1.11-1.16; WL 2.74-2.89; MP
+0.50; PL 0.47; AEL 0.30; FP 1.51; ALHW 1.25-1.33; LLHW 0.55-0.59; TLHW 0.66-
+0.67; WLHW 3.16-3.27; WLW 2.91-3.02; MPHW 0.57; FPHW 1.71; FPC 5.27; FSP
+1.44; FAS 1.0: 0.9: 0.7: 0.9: 0.9: 0.8: 0.4: 0.4. Larva and host plant unknown. Holotype 6, $ Iran, Zagros, Yasuj, 16.vi.1973 (NMP-243). Paratypes. Iran, 16, 49, 1 adult without abdomen, same data as holotype; 26, 42, E
+Iran, Deh Bakri, SW Bam, 1700-1750 m, 30.iv-3.v.1973 (NMP-186); 16, C. Iran, Qanat
+Marvan, 2850 m, 22-24.v.1977 (NMP- 345). Comments. Spanioneura persica is closely related to S. turkiana
+(KLIMASZEWsKI & Lopos, 1977) (figs 76, 79, 81, 83) from which it differs in: 1. the
+slightly longer setae on head, thorax and forewings; 2. the somewhat more massive
+genal processes; 3. the forewing coloration, which is yellowish to ochreous, with
+indistinct dark spots at the apices of the veins in S. turkiana, and whitish with
+indistinct brown patches in the cells along the outer wing margin and dark with well-
+contrasted spots on the apices of the veins in S. persica; 4. the slightly smaller body
+dimensions; 5. the longer cell m,,9 and the more sinuous vein M3,4 of the forewings
+(in S. turkiana vein M3,4 is evenly curved); 6. the broader spinule-free stripes along
+the veins in the forewings, and the mostly bare cell r); 7. the shorter and somewhat
+thicker male parameres. Spanioneura turkiana and persica are probably not closely related to the type
+species S. fonscolombii Férster. However, without larvae and host data it is not
+possible to examine the phylogenetic relationships of this group, and we adopt the
+tentative classification proposed by HODKINSON & HOLLIs (1987). The relationships between Turkish Spanioneura turkiana (Klimaszewski &
+Lodos) and S: pechai (Klimaszewski & Lodos) are discussed by BURCKHARDT &
+Onucar (1993). HOMOTOMIDAE
+KEy TO SPECIES
+
+1 Vertex with well-defined dark pattern. Antennal segments relatively
+short and wide (fig. 88); segment 9 light. Male paramere relatively
+straight (fig. 93). Possibly on Ficus spp........ Homotoma caroliquarti sp. n.
+- Vertex without well-defined dark pattern. Antennal segments relatively
+long and narrow (fig. 89); segment 9 dark. Male paramere distinctly
+bent backwards. On Ficus carica.............. Homotoma ficus (Linnaeus)
+
+Homotoma caroliquarti sp. n. (Figs 86-88, 90-94)
+
+Description. Adult. Coloration. Pale yellowish. Head with well-defined trans-
+verse brown stripe along anterior margin and with brown margin of antennal
+
+866 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+insertion. Antennal segments 1 to 9 straw-colored, segment 10 slightly darker,
+thinaria with dark brown margin; flagellar setae almost black strongly contrasting
+with underlying colour. Forewing hyaline, veins yellow, with indistinct light brown
+pattern consisting of a narrow band along vein Mj,» and spots around the apices of
+veins Cu,,, Cu,, and the clavus. Metacoxae reddish to brownish dorsally. Structure. Head (fig. 87), from above, concave anteriorly bearing
+relatively large, apically pointed genal processes. Antennae (fig. 88) with laterally
+flattened flagellomeres; scape with large ventral tubercle; length to width ratio of
+segments in lateral view as follows (from segments 1 to 10): 1.0, 0.8, 2.5, 1.8, 1.3,
+1.8, 1.5, 1.6, 1.5, 1.6 (same values for H. ficus: 1.2, 1.0, 3.3, 2.2, 1.8, 1.8, 1.6, 1.4, 1.5,
+0.9); relative length of flagellar segments from base to apex as follows: 1.0: 0.6 : 0.4:
+0.5 : 0.4: 0.4: 0.3 : 0.1 (same values for H. ficus: 1.0: 0.6 : 0.5: 0.4: 0.4:0.3:0.3:
+0.1); ultimate antennal segment with one long pointed and one short, apically truncate
+terminal seta. Thorax weakly arched, pronotum without anterior projections. Forewings (fig. 86) transparent, subacute apically, relatively evenly curved anteriorly,
+veins R and M+Cu, separated; Rs long, almost straight, reaching wing margin in
+apical half of wing; M3,4 1.6-2.0 times as long as Mj, (1.2-1.5 in H. ficus) which
+reaches wing margin anterior to apex; cell cu, large, clavus ending adjacent to apex
+of Cuj,; radular areas diffuse. Metatibiae with basal spine and 0 + 6 apical spurs;
+metabasitarsus with 2 spurs. Genitalia as in figs 90-94. Lateral lobes of 3 proctiger
+well-developed, anal tube of moderate length; paramere relatively straight and
+slender, inner surface with short, anterior sclerotised ridge; basal aedeagal segment
+curved and moderately expanded in apical half. Dorsal margin of 2 proctiger concave
+distal to circumanal ring. Measurements. (1d, 1°). HW 0.84-0.86; AL 1.56-1.62; WL 3.68-3.91; MP
+0.36; PL 0.25; AEL 0.32; FP 0.71; ALHW 1.85-1.89; LLHW 0.54; TLHW 0.76-0.78;
+WLHW 4.37-4.56; WLW 2.54-2.63; MPHW 0.43; FPHW 0.83; FPC 5.11; FSP 1.03. Larva unknown. Recorded from Iran: Kerman as Homotoma ficus (DAVATCHI, 1958);
+examination of this material (USNM) showed that this concerns H. caroliquarti. Holotype ¢, Iran: Kerman, 50 km W Rafsanjan, vi.1955, Ficus sp. (R-180) (MNHN). Paratypes. Iran: 116 3, 6? ?, same data as holotype (MNHN, USNM, MHNG); 1d,
+12, same data as holotype but on Pistacia khinjuk (R-182) (MNHN, USNM); 16, 130 km E
+Shahabad, 34°06'N 46°31'E, 1200 m, 28.x.1967, Quercus persica (R-236); 14 , Estahbanat, 100
+km E Chiraz, 5.iv.1972, Ficus carica (Safavi) (MMB). NMP), Afghanistan: 36 6, 62 2, Nuristan, Bashgultal, 1100 m, 17.iv.1953 (J. Klapperich)
+
+Q Pakistan: 16, Kashmir, Indus Valley, Sasli, 50 km W Gilgit, 1300 m, 18.viii.1970 (O.
+Stérba) (WP-11) (MMB); 36, 29 2, Kashmir, Karakoram, Haramosh Range, N slope of
+Haramosh, end of Kutwal Valley, alpine meadows, 18.ix.1970 (O. St&rba) (WP-15) (MMB);
+16, Kashmir, Gilgit, park, 26.ix.1970, light trap (O. Stérba) (WP-18) (MMB). Comments. The forewing venation of H. caroliquarti is of the "Homotoma"
+type (HOLLIS & BROOMFIELD, 1989). Based on forewing venation, the antennal and the
+genital morphology, H. caroliquarti is closest related to H. ficus (including H. viridis
+Klimaszewski) from which it differs in the following features: 1. presence of a well-
+defined dark pattern on the vertex; 2. antennal segment 9 light; 3. genal processes
+
+JUMPING PLANT-LICE OF IRAN 867
+
+longer and more pointed; 4. antennal segments in lateral view relatively wider than in
+H. ficus; 5. scape with larger apical tubercle ventrally; 6. setae on antennae thicker
+and darker; 7. forewing more evenly curved anteriorly; 8. vein Mj ,9 relatively shorter
+compared to M3,4; 9. vein Rs straighter; 10. male paramere straighter; 11. cell my,
+longer and narrower. H. caroliquarti is named after Charles IV of Luxemburg, Roman Emperor,
+King of Bohemia, called "pater patriae", and founder of the Charles University in
+Prague. He was the first author who published (in 1346) entomological observations
+in Czech. Homotoma ficus (Linnaeus) (Fig. 89)
+
+Material examined. Iran: 22 9, S Iran, Central Elburz Mazar Chay, S Amol, 400 m,
+23-24.vii.1970 (NMP-69); 26 3, S Iran, Mian Jangal, 30.v-5.vi.1973 (NMP-223); 16, 12, S
+Iran, 7 km NW Kuhenjan, 5.vi.1973 (NMP-226); 83d, 169 2, S Iran, 5-6.vi.1973 (NMP-
+227); 26,39, S Iran, Kushk N Masiri, 1800 m, 12.vi.1973 (NMP-237); 12, S Iran, 48 km
+N Masiri, 2230 m, 12.vi.1973 (NMP-238); 1d, S Iran, Dasht-e-Arjan, 1700 m, 9.vi.1973
+(NMP-320). Comment. The record from Iran: Kerman (DAVATCHI, 1958) concerns H.
+caroliquarti. TRIOZIDAE
+KEY TO GENERA AND SPECIES
+
+1 Outer apical metatibial spur on a large claw-like tubercle (fig. 102). Egeirotrioza
+. Outer apical metatibial spur not on large claw-like tubercle. .....
+2 Forewings angular apically (fig. 95). Possibly on Populus diversifolia. Egeirotrioza corporosa sp. n.
+- Forewings rounded apically (figs 96,97). ... 26... eee ese e eee e eee eee 3
+3 Male parameres lamellar. Female subgenital plate irregularly tapered
+apically but not ending in parallel-sided process. On Populus spp. cece nee bebe nee b ela ne ea eeeaenenenee Egeirotrioza ceardi (Bergevin)
+- Male parameres bifid (figs 113, 114). Female subgenital plate (figs 119,
+121) ending in parallel-sided process. 4 Forewings broadly rounded apically (fig. 96). Male parameres with
+relatively narrow basal portion (fig. 113). Female proctiger with a
+truncate, heavily sclerotised apex (fig. 119)....... Egeirotrioza gemina sp. n.
+- Forewings narrowly rounded apically (fig..97). Male parameres with
+relatively broad basal portion (fig. 114). Female proctiger with a
+subacute, not particularly heavily sclerotised apex (fig. 121). On
+Populus diversifolia. ...... 00.060 e cece eee e nee Egeirotrioza justa sp. n.
+5 Metatibiae with 1+3 black apical spurs...............- Trioza p.p. ....-6
+
+   
+
+ 
+
+ 
+
+4
+
+ 
+
+868
+
+1
+
+12
+
+13
+
+14
+
+15
+
+ 
+
+DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Metatibiae with 1+2 black apical spurs... ... 6.6.06. e cee cece eee ee eee 8
+Vein Rs of forewings short, concavely curved towards fore margin. On
+Galium spp... 0.20.00 cece cc eees . Trioza galii Forster
+Vein Rs of forewings long, sinuous. Forewings, apart from radular spinules, without surface spinules in
+
+apical half. On Urtica spp... 0.0... -00c0e0e0ee ees Trioza urticae (Linnaeus)
+Forewings with surface spinules in apical half. On Rumex spp. Trioza rumicis Low
+
+ 
+
+ 
+
+    
+ 
+ 
+
+ 
+
+Genal processes shorter than half vertex length. Genal processes longer than half vertex length. . .
+Antennal segments 4-7 light with dark brown to black apex. eres Paratrioza.....10
+Antennal segments 4-7 entirely dark brown to black. : . Bactericera p. p. -ll
+Male parameres obliquely truncate apically. Female subgenital plate
+pointed apically. On Lycium ruthenicum.......... Paratrioza lycii Loginova
+Male parameres pointed apically. Female subgenital plate truncate
+apically. On Lycium depressum........+..5+ Paratrioza petiolata Loginova
+
+Antennal segment 3 much thicker than remainder of flagellomeres. On
+Artemisia spp. . Bactericera perrisii Puton
+Antennal segment 3 not strongly thickened. Forewings narrow, widest in the middle, vein Rs weakly sinuate. Male
+proctiger, in profile, angular posteriorly; parameres slender in apical
+
+half; apex of distal aedeagal segment short and thick. Probably on
+Daucus Carv0td. 0.6 e cee cece ences Bactericera trigonica Hodkinson
+Forewings broad, widest in apical third; vein Rs strongly sinuous. Male
+proctiger, in profile, rounded posteriorly; parameres broad and truncate
+apically; apex of distal aedeagal segment more slender..............+4. 13
+Genal processes, in general, slender. Male parameres, in profile, broad
+
+with horizontally truncate apex; base of distal aedeagal segment long,
+
+apical dilatation globular. Allium spp., possibly polyphagous. bocce ede eee eee ee tees eneeeeneeerees Bactericera tremblayi (Wagner)
+Genal process, in general, broadly rounded. Male parameres, in profile,
+slightly more slender and obliquely truncate apically; base of distal
+aedeagal segment short, apical dilatation oblong. Polyphagous. eee eee eee e eee eee ee eee eeee Bactericera nigricornis (Forster)
+Cell m,,2 of forewings very large, much larger than cell cu,,. Female
+proctiger with long, upturned apical process which is much longer than
+subgenital plate. On Elaeagnus angustifolia....... 6.00.00. cc cece neues 15
+
+ 
+
+ 
+
+Cell m,,2 of forewings about as large as or smaller than cell cu,,. Female proctiger without long, upturned apical process.............+.+. 17
+Forewings blunt apically. Forewings acute apically. 16
+
+23
+
+ 
+
+JUMPING PLANT-LICE OF IRAN 869
+
+Posterior lobes of male proctiger large, semicircular. Female proctiger
+with long dorsal setae ending almost at apex of proctiger. Freee eee Trioza neglecta Loginova
+Posterior lobes of male proctiger narrow. Female proctiger with long
+dorsal setae ending at the middle of apical proctigal process. bec ec et eeeeeteteveeetestesteneesterees Trioza magnisetosa Loginova
+Vein Rs of forewings long and distinctly sinuous. . . Bactericera p. p.
+Vein Rs of forewings relatively short, straight or curved towards fore
+MAPQIN. cece eee e eee eee Trioza p. p....++ 20
+Surface spinules of forewings present in all cells. On Salix spp. SS Bactericera albiventris (Forster)
+Surface spinules of forewings absent from apical cells................-5 19
+Antennal segments 4-8 entirely dark brown to black. On Salix spp. . . Bactericera striola (Flor)
+‘Antennal segments 4-8 light, with at most dark apices. On Ligularia
+
+ 
+
+  
+ 
+
+thomson... oeecvccevvec reese eee eeenes Bactericera ligulariae (Baeva)
+Branching of vein M of forewings distal to line between apices of veins
+Rs and CU... cece eee ceceeeeeeeeeeeee esse sete eeeteeeeeeeees 21
+Branching of vein M of forewings proximal to or on line between
+apices of veins Rs and Cuy. On Berberis spp... .6.c0eeeeeceeneeeeees 24
+
+Antennal segments 4 and 5 dark brown, strongly contrasted with light
+segment 3. Large species. On deciduous Quercus spp. . . Trioza remota Forster
+Antennal segments 4 and 5 light to ochreous, not strongly contrasted
+
+with light segment 3. Small species. . Male parameres with backwards directed sclerotised apex; distal
+segment of aedeagus with two long tubular processes. Third antennal
+segment long. On Chenopodiaceae. . .. Trioza chenopodii Reuter
+Male parameres with forwards directed sclerotised apex; distal segment
+
+of aedeagus with two tubercles. Third antennal segment short...........+ 23
+Male parameres obliquely truncate so that highest point is at posterior
+margin; sclerotised end tube of ductus ejaculatorius short, weakly
+curved. On Atriplex tatarica. 00.60.66 c ec eee Trioza dichroa Scott
+Male parameres obliquely truncate so that highest point is at anterior
+margin; sclerotised end tube of ductus ejaculatorius long, strongly
+sinuous. On Eurotia ceratoides..........0.00005 Trioza eurotiae Loginova
+Male parameres with one apical tooth. Female proctiger globular. eee Trioza scottii Low
+Male parameres with two apical teeth. Female proctiger cuneate. beeen eee teen eee eee teen eee enee Trioza berbericola Loginova
+
++22
+
+ 
+
+ 
+
+ 
+
+Bactericera albiventris (Férster)
+
+Material examined. Iran: 12, S Iran, 13 km SSW Yasuj, 1800 m, 12-13.vi.1973 (NMP-
+
+239); 56.5, 722, N Iran, Shahi. 24.vi.1977 (NMP-381); 73 3, 922, N Iran, Hashtgerd,
+
+870 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+10.vii.1977 (NMP-399); 19, N Iran, 8 km NE Zairan, 2400 m, 10-16.vii.1977 (NMP-400); 12,
+12, Fasham, N Tehran, 2000 m, 4.xi.1955, Prunus domestica (R-194); 3 5th instar larvae,
+Varamin, S Tehran, 6.xi.1965, Salix (R-212); 663, 222, 3 Sth instar larvae, Roudak, N
+Tehran, 3.xi.1967, Salix (R-241); 46 3, 29 2, 17 Sth instar larvae, Gach Sar, N Karaj, 2230 m,
+9.xi.1967, Salix sp. (R-243); 16, 29.2, same but Prunus domestica (R-244 ); 263, 19
+(teneral), same but 1770 m, Salix purpurea (R-245). Bactericera ligulariae (Baeva)
+
+Material examined. Iran: 106 3, 112 2, 1 adult without abdomen, N Iran, C. Elburz,
+Kuhha-ye Tu Chal, 3600-3900 m, 18-19.vii.1970 (NMP-61); 4 larvae, Elburz, Gatgere, E Gach
+Sar, 14-viii.1955, Ligularia persica (R-34) (USNM). Comment. The larvae are provisionally assigned to B. ligulariae on the basis
+of their host plant. Larvae found together with adults are needed to confirm the
+identification. Bactericera nigricornis (Forster)
+
+Material examined. Iran: 16, 22 2, E Iran, 1700 m, Mah4n, 23-24.iii.1973 (NMP-61);
+19, N Iran, C. Elburz, Gazanak, Haraz Chay, 1400 m, 20-21.vii.1970 (NMP-63); 22 ?, E Iran,
+Taftan, Tamandan, 2100 m, 20.iv.1973 (NMP-167); 12, S Iran, Mian Jangal, 30.v-5.vi.1973
+(NMP-223); 12, S Iran, 10 km W Shiraz, 8.vi.1973 (NMP-228); 1d, 12, S Iran, 48 km N
+Masirf, 2230 m, 12.vi.1973 (NMP-238); 4d d, 12, S Iran, 13 km SSW Yasuj, 1800 m, 12-. 13.vi.1973 (NMP-239); 3d 3, S Iran, Zagros, Sisakht, 2400 m, 13-15.vi.1973 (NMP-240);
+286, 529, S Iran, Sisakht, Dean, 2500-3000 m, 13-14.vi.1973 (NMP-241);, 1d, NE Iran,
+Assadii, 30 km S$ Bojnurd, 17-18.vi.1977 (NMP-374); 1d, 19, Fasa, 28°56'N 53°42'E,
+9.ix.1967 (Minessian) (NMP); 5d 3, Hamadan, 34°48'N 48°30'E, 1966, yellow pan tray (Klett)
+(R-214, R-215); 636, same but 15.v.1966 (R-222); 16, 30 km S Darreh Gaz, 37°27'N
+59°07E, Northern slope, 1300 m, 18. v.1966, Rosa sp. (R-223); 103.6, 39 2, Khuzestan,
+Dezful, 32°23'N 48°24'F, iii-iv.1978, yellow trays (V. F. Eastop) (BMNH); 96, Khuzestan,
+Ramin, iv.1978, yellow tray, same; 1?, Shushtar, 32°03'N 48°51'E, 25.iii-iv.1978, yellow
+trays, same; 12, Now Shahr, 36°39'N 51°31'E, iv.1978, yellow tray (S. H. Hodjat) (BMNH);
+1d, 12, Borujen, 31°59'N 51°18'E, Konark, 30°40'N 51°20'E, viii.1985, potato field (CIE)
+(BMNH). Comment. Most of the Iranian specimens have a light antennal segment 3. This
+
+form was originally described as B. brassicae (Vasiljev) (HODKINSON, 1981). Bactericera perrisii Puton
+
+Recorded from Iran (ZI) (GEGECHKORI & Locinova, 1990). Material examined. Iran: 1d, NW Iran, Qazvin, 24.vi.1970 (NMP-29); 26 3,999, S
+Iran, 33 km S Sabzevaran, 17.v.1977 (NMP-335). Bactericera striola (Flor)
+
+Material examined. Iran: 1d, 1°, 5 5th instar larvae, Gach Sar, 36°07'N 51°19, 1770
+m, 9.xi.1967, Salix purpurea (R-245). Comment. The two adult specimens lack the dark clavus in the forewing. JUMPING PLANT-LICE OF IRAN 871
+
+Bactericera tremblayi (Wagner)
+
+Material examined. Iran: 1°, E Garmandar, 40 km NE Tehran, 13.xi.1962, on snow (R-
+206); 2 teneral $3, many Sth instar larvae, Karaj, 35°48'N, 50°59'E, 1967, Allium cepa
+(Esmaeli) (R-228). Bactericera trigonica Hodkinson
+
+Recorded from Iran: Tehran; Ahvaz (HODKINSON, 1981). Material examined. Iran: 19, N Iran, C, Elburz Kandavan Valley, 2545 m, 10-
+11.viii.1970 (NMP-86); 2? 2, N Iran, C, Elburz, Kandavan Pass, 3000 m, 11.viii.1970 (NMP-
+87); 16d 5, 382 2, N Iran, Kandavan Pass, S$ slope, 2700-2900 m, 4-9.vii.1977 (NMP-395);
+566, 329, Tehran, v.1971, Nasturtium sp. (CIE) (BMNH); 36, same but on vegetables;
+16, same but vii.1978, water trap (S. H. Hodjat); 1d, Ahvaz, 2-4.ii.1978, yellow tray (V. F.
+Eastop), same. Bactericera sp. A
+
+Material examined. Iran: 4 dd, N Iran, C. Elburz, Kuhha-ye Tu Chal, 3600-3900 m,
+18-19.vii.1970 (NMP-61). Comment. This probably undescribed species is close to B. seselii (Loginova)
+from which it differs in the less curved arched fore margin of the forewings, the
+darker body coloration and the obliquely truncate parameres which taper regularly in
+B. seselii. Without more material, it is not possible to determine this material. Egeirotrioza Boselli
+
+Comments. Egeirotrioza Boselli is heterogeneous in respect of adult and
+larval morphology and Locinova (1976) subdivided it into the two subgenera,
+Egeirotrioza with 8 species and Astutia Loginova with 3 species. The former group is
+linked to host species of the subgenus Turanga, the latter develop on species of the
+subgenus Populus. MATHUR (1975) recorded E. ceardi (as Trioza ceardi) from Iraq,
+Pakistan and Tunisia, discussed the questionable synonymy of Phylloplecta gardneri
+Laing (with E. ceardi), and described two poplar feeding triozids from Pakistan:
+Trioza bifurcata and T. longiantennata. According to Locinova (1976), the subgenus Egeirotrioza is characterised by
+the presence of an apical metatibial process which bears one of the apical spurs (fig. 102) and the two subapical ventral teeth on the distal portion of the aedeagus. These
+characters are shared by Trioza bifurcata and T. longiantennata, which are closely
+related to other poplar feeding triozids. They are therefore transferred to Egeirotrioza:
+as Egeirotrioza bifurcata (Mathur) comb, n. and E. longiantennata (Mathur) comb. n.
+
+In the absence of type material, MATHUR (1975) accepted HESLop-HARRISON's
+(1946) synonymy of Phylloplecta gardneri with E. ceardi, but pointed out the striking
+
+872 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+differences in the forewings shown in the descriptions of LaInG (1930) and
+LoGINova-DuDYKINA & PARFENTIEV (1958). Examination of the types of P. gardneri
+(India: Punjab, Ghazighat, Multan, ex leaf galls on Populus euphraticus (R. N.
+Mathur) (BMNH)) confirmed the differences from E. ceardi mentioned by MATHUR
+(1975). In addition to the apically pointed forewings (rounded in E. ceardi), P.
+gardneri differs in the slightly larger body dimensions; in the antennal segment 3
+which is about 3 times as long as segment 4 (2 times in E. ceardi); the male proctiger
+(fig. 108) which is evenly rounded posteriorly in basal half (concavely angular in E.
+ceardi); in the apically blunter female proctiger (fig. 117) and possibly also in the
+wider male parameres (fig. 112). The head (fig. 104) and aedeagus (fig. 99) are
+similar in the two species. These differences suggest that P. gardneri is a species
+distinct from E. ceardi and following new combination is proposed: Egeirotrioza
+gardneri (Laing) comb. n., stat. rev. The subgenus Egeirotrioza comprises three species with lamellar parameres (E.
+ceardi, E. gardneri and E. intermedia), one species with quadrate parameres (E. rufa),
+and the remainder with more or less distinctly bifid parameres, having a shorter anterior
+and a longer posterior arm. This last group is again subdivided into a group with a
+rounded outer wing margin (E. nigracapitata, E. verrucifera and E. cerina), and one
+with a distinctly angular outer wing margin (E. maculosa and E. gracilis). E. bifurcata
+and E, longiantennata are, based on these characters, closest related to E. maculosa and
+E. gracilis from which they differ in the relatively longer anterior arm of the parameres. RUBSAAMEN (1902) described galls and larvae from Populus euphratica in Iran
+which he attributed to two unidentified species of Psylloidea. One was described by
+BERGEVIN (1926) as Trioza ceardi, the other is probably also referable to Egeirotrioza
+but more.material is needed. Apart from E. ceardi, there are three new species
+represented in the Iranian material. Egeirotrioza ceardi (Bergevin)
+
+Recorded from Iran: SE Iran, Kerman, District Sirjan, Cheirabad, 30.ix.1892;
+Seidabad, 29°30'N 55°30'E, 30.ix. ; Sarvestan, 9.x. (ROBSAAMEN, 1902; Houarp,
+
+1922; BERGEVIN, 1926). Material examined. Iran: many larvae and galls, Kerman, Kavir-e-Namak-e-Sirjan, W
+Sirjan, ix.1955, Populus euphratica (R-25, R-188) (MNHN, USNM); galls and Ist instar
+larvae, Saadatabad, N Shiraz, 12.iii.1967, Populus diversifolia (= P. euphratica) (R-203);
+several Sth instar larvae, 40 km N Dezful, 32°23'N 48°24'E, 28.x.1967, Populus diversifolia (R-
+235); 58.5, 329, Khuzestan, Ahvaz, Golestan, 25.ii.1978, Populus euphratica (V.F. Eastop)
+(VFE-15866) (BMNH). Egeirotrioza corporosa sp. n. (Figs 95, 98, 102, 103, 107, 111, 115, 116)
+
+Description. Adult. Coloration. Similar in both sexes. Head and thorax above
+light orange-yellowish, genal processes, lower head surface and thorax laterally and
+ventrally yellow. Antennae yellow, with segments 9 and 10 dark brown to black. Legs
+
+JUMPING PLANT-LICE OF IRAN. 873
+
+yellow. Forewings membranous, transparent; veins yellow, membrane almost
+colourless. Hindwings whitish. Abdomen, depending on age, entirely greenish or
+yellowish, or with orange-yellowish dorsum. Structure. Head (fig. 103), from above, slightly narrower than thorax; foveae
+forming very fine pits; genal processes conical, well-developed, blunt apically. Third
+antennal segment 2.9-3.8 times as long as segment 4, Forewing (fig. 95) narrow, outer
+margin angular; vein Rs almost straight, hardly curved towards fore margin in apical
+third. Metatibia with 1 + (1+2) apical spurs (fig. 102); outer spur on distinct process. Terminalia as in figs 98, 107, 111, 115, 116. Male proctiger with long narrow apical
+tube, broadly bulged posteriorly; paramere with a narrow, long, straight anterior
+process, and a long, apically weakly widened, slightly anteriorly curved posterior
+process; distal portion of aedeagus with two large ventral subapical hooks and a large
+triangular dorsal process; sclerotised end-tube of ductus ejaculatorius short, straight. Female proctiger with weakly convex dorsal margin, subacute, not particularly
+sclerotised apically; subgenital plate with short apical process; valvula ventralis with
+several large, strongly sclerotised teeth ventrally. Measurements. (26 5, 22 2). HW 0.67-0.81; AL 1.25-1.48; WL 3.71-3.97;
+MP 0.37-0.39; PL 0,39-0.40; AEL 0.33-0.37; FP 0.54-0.56, ALHW 1.62-1.96;
+LLHW 0.40-0.44, TLHW 0.72-0.79; WLHW 4.86-4.93; WLW 2.77-2.93; MPHW
+0.49-0.51; FPHW 0.67-0.72; FPC 4.24-4.54; FSP 1.68-1.73. Larva unknown. Holotype d, Iran: $ Iran, 15 km NW Mian Jangal, 3.vi.1973 (NMP-224). Paratypes. Iran: 126 6, 319, 1 adult without abdomen, same data as holotype; 6
+adults, same data but (ZI); 2¢ 6, 32 2, N Iran, Tehran - Evin, 1700 m, 13.iii.1973, garden
+(NMP-124); 2 adults, same data but (ZD; 12, SW Iran, Shushtar, 13.iv.1977 (NMP-287);
+
+268, 22, Khuzestan, Ahvaz, 11-12.iv.1978, Populus euphratica (V. F. Eastop) (BMNH);
+1, same but Golestan, 21.iv.1978. Comment. Based on the bifid parameres and the apically pointed forewings, E.
+corporosa is closely related to E. maculosa, E. gracilis, E. bifurcata and E.
+longiantennata, It differs from the latter two species in the longer genal processes,
+from E. bifurcata and E. maculosa in the shorter female terminalia with a shorter
+apical process of the subgenital plate, and from £. gracilis in the posteriorly more
+produced male proctiger, and the longer anterior arm on the parameres. All the
+material at hand of E. corporosa is light coloured without dark patches or marks as
+described for E. longiantennata, E. maculosa and E. gracilis. More material is needed
+to judge if colour differences are constant. Egeirotrioza gemina sp. n. (Figs 96, 100, 105, 109, 113, 118, 119)
+
+Description. Adult. Coloration. Similar in both sexes; light yellowish, vertex
+and thoracic dorsum straw-coloured, Antennae yellow with light brown segments 9
+and 10. Legs yellow, slightly darker that thorax laterally and ventrally. Forewings
+yellowish, membrane and veins concolourous; hindwings whitish, transparent. Abdomen depending on age greenish or yellowish. 874 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Structure, Head (fig. 105), from above, slightly narrower than thorax; foveae
+forming coarse, deep pits; genal processes conical, well-developed; subacute apically. Third antennal segment 2.7-2.9 times as long as segment 4. Forewing (fig. 96)
+elongate, broadly rounded apically; veins Rs weakly sinuous; vein Cu,, evenly curved
+in basal half. Metatibia with 1+3 or, rarely, 1+2 or 2+3 apical spurs; outer spur on
+distinct process. Terminalia as in figs 100, 109, 113, 118, 119. Male proctiger without
+apical tube and relatively straight posteriorly; paramere with short anterior arm and
+long, apically widened posterior arm which is weakly curved backwards; distal
+portion of aedeagus with two short ventral subapical hooks, weakly concave along
+dorso-apical margin; sclerotised end tube of ductus ejaculatorius short, straight. Female proctiger weakly sinuous dorsally, truncate and heavily sclerotised apically;
+subgenital plate with long apical process; valvula ventralis with a pair of indistinct
+ventral teeth; dorsal margin of valvula dorsalis weakly concave. Measurements. (1d, 12). HW 0.73-0.82; WL 3.14-3.60; MP 0.43; PL 0.43;
+AEL 0.38; FP 0.78; LLHW 0.34-0.35; TLHW 0.92-1.06; WLHW 4.28-4.36; WLW
+2.27-2.41; MPHW 0.58; FPHW 0.94; FPC 4.70; FSP 1.33. Larva unknown. Holotype ¢, Iran: S Iran, 15 km NW Mian Jangal, 5.vi.1973 (NMP-224). Paratypes. Iran: 4d 3, 32 2, same data as holotype; 3 adults, same data but (ZI). Comment. Based on the apically rounded forewings and the bifid parameres E.
+gemina is related to E. nigracapitata, E. verrucifera, E. cerina, and E. justa sp. n.
+described below. It differs from them in the apically truncate female proctiger and the
+very short anterior arm of the male paramere. Additionally it is separated from E.
+justa in the dark-yellow, apically broadly rounded forewings which are almost
+colourless and narrowly rounded in E. justa. Vein Cu,, is more evenly rounded in the
+basal half in E. gemina than in E. justa. Egeirotrioza justa sp. n. (Figs 97, 101, 106, 110, 114, 120, 121)
+
+Description. Adult. Coloration. Similar in both sexes; greenish or light
+yellowish with slightly darker, straw-coloured vertex and thoracic dorsum. Antennae
+yellow with light brown segments 9 and 10. Legs yellow. Forewings transparent,
+whitish; veins slightly darker and more yellowish than membrane. Hindwings whitish. Abdomen light greenish or yellowish. Structure. Head (fig. 106), from above, narrower than thorax; foveae forming
+coarse, deep pits; genal processes conical, well-developed, blunt apically. Third
+antennal segment 2.5 times as long as segment 4. Forewings (fig. 97) oblong-oval,
+narrowly rounded apically; vein Rs weakly sinuous, vein Cu,, angularly rounded in
+basal half. Metatibia with 1+3 or, rarely 2+3 apical spurs; outer spur on distinct
+process. Terminalia as in figs 101, 110, 114, 120, 121. Male proctiger without apical
+tube, with almost straight posterior margin; paramere with a short anterior and a long
+apically strongly dilated posterior arm which is weakly curved backwards; distal
+
+JUMPING PLANT-LICE OF IRAN 875
+
+portion of aedeagus with a pair of short subapical, ventral teeth, and an almost straight
+apico-dorsal margin; sclerotised end tube of ductus ejaculatorius short, straight. Female proctiger with weakly convex dorsal margin, subacute and not heavily
+sclerotised apically; subgenital plate with long apical process; valvula ventralis with a
+pair of indistinct ventral teeth; dorsal margin of valula dorsalis strongly concave. Measurements. (16, 19). HW 0.65-0.70; AL 1.06; WL 2.87-3.08; MP 0.44;
+PL 0.42; AEL 0.31; FP 0.50; ALHW 1.63; LLHW 0.42; TLHW 0.94-1.06; WLHW
+4.40-4.43; WLW 2.51-2.52; MPHW 0.68; FPHW 0.72; FPC 4.74; FSP 1.20. Fifth instar larva. Coloration (material preserved in alcohol). Dorsal surface
+ochreous with light brown thorax and two longitudinal stripes on abdomen. Eyes
+dark. Ventral surface yellow. Structure. Oval in out-line, flattened and relatively ridgid dorsally, convex and
+soft ventrally, Fore margin of head with 1 dense, regular and 1-3 sparse, irregular rows
+of sectasetae. Antennae curved, indistinctly 6 to 7-segmented with 4 rhinaria, segment 3
+large, strongly narrowing to apex. Humeral lobes on forewing pads pointed, long and
+narrow, reaching level of anterior half of eyes. Sectasetae of wing pads and abdominal
+margin forming a regular row of dense setae and a band of irregularly scattered setae. Tarsal arolium longer than claws, simple triangular, without pedicel or visible
+unguitractor. Outer circumanal pore ring consisting of a single row of pores. Ventral
+surface covered in very long simple setae. Measurements. (2 larvae). AL 0.28-0.30; WL 1.01-1.11; BL 1.59-1.92; CPB
+1.01-1.22; AWL 0.25-0.29; BBL 1.23-1.25; CPR 1.78-1.83. Holotype , Iran: $ Iran, 15 km NW Mian Jangal, 5.vi.1973 (NMP-224). Paratypes. Iran: 16, 222, 1 adult without abdomen, same data as holotype; 2 adults,
+same data but (ZI); 1 ?, Ahwaz, 15.v.197, Populus diversifolia (Gharib) (R-306). Iraq: 16, Mosul, 1.vi.1968, Populus euphratica (H. E. Knopf) (BMNH); 12, same but
+25.v.1968, ex galls on Populus euphratica; 19, Ninevah, Hammam-Al-Alil, 16.iv.1975, on
+current year’s shoots of Populus euphratica (A. Al-Kinany) (BMNH). Material not included in type series. Iran: many 5th instar larvae, Ahwaz, 15.v.1977,
+Populus diversifolia (Gharib) (R-306). Comment. Adults of E. justa are similar to E. nigracapitata, E. verrucifera, E.
+cerina and E. gemina in the apically rounded forewings and the bifurcate male
+paramere but differ in the apically narrower forewings, the apically more dilated
+posterior arm of the paramere, and details of the male and female terminalia (see
+comments to E. gemina). The larva is similar to E. longiantennata in the general body form, the long
+humeral lobes on the forewing pads and the simple circum anal ring. It differs in the
+slightly shorter humeral lobes and the shorter marginal sectasetae which form, in
+addition to the dense regular row, 1-3 sparse irregular rows. Paratrioza lycii Loginova
+
+Material examined. Iran: 39 9, NW Iran, Maku, 19-20.vi.1970 (NMP-25); 1 3, 110 km
+E Mashhad, 34°48'N 48°30, 13.v.1966, Zygophyllum eurypterum (R-220). 876 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Paratrioza petiolata Loginova
+
+Material examined. Iran: 1 2, SE Iran, Ghasemabad, Bampur Valley, 10 km E Bampur,
+W Iranshahr, 11-12.iv.1973 (NMP-157). Trioza berbericola Loginova
+
+Material examined. Iran: 5d 3, 42 2, C. Iran, Quanat Marvan, 2850 m, 24-25.v.1977
+(NMP-345). Trioza chenopodii Reuter
+
+Recorded from Iran (LAUTERER, 1982; BURCKHARDT, 1986b). Material examined. Iran: 256 6, 412 2, SW Iran, Shushtar, 13.iv.1977 (NMP-287);
+16, 12, Khuzestan, Ahvaz, 17.ii.1978, sweeping (V. F. Eastop) (BMNH); 5d 3, 72 2, same
+but 26.ii.1978, Chenopodium sp. or Atriplex sp. ; 23 3, 32 &, same but 10.iv.1978, sweeping;
+many od, ¢ 2 and 5th instar larvae, Ahyaz, 25. xii.1963, Beta vulgaris (Chodjai) (R-210)
+(MNHN, USNM); 16, Shiraz, Minassian, 13.x.1967 (NMP). Comment. The material from Ahvaz constitutes the first record of T. cheno-
+podii f. autumnalis from Beta vulgaris in nature, though the species was bred before,
+under laboratory conditions on Beta (LAUTERER, 1982). LAUTERER & SrAMKOVA
+(1983) considered the possible pest status of this species on sugar beet. Trioza dichroa Scott
+
+Recorded from Iran (BURCKHARDT, 1986b). Material examined. Iran: 466, 32°, Khuzestan, Ahvaz, Golestan, 25.ii.1978,
+Chenopodium sp. or Atriplex sp. (V. F. Eastop) (BMNH); 56.6, 22 @, same but 12.iv.1978,
+Atriplex sp. Trioza elaeagni Scott
+
+Material examined. Iran: 1d, $ Iran, Kushk, N Masirf, 1800 m, 12.vi.1973
+(NMP-237); 13, 19 (teneral), many Sth instar larvae, N Iran, Tehran, 1955, Elaeagnus sp. (R-
+177); 46 6,32 2, many Sth instar larvae, 50 km W Shiraz, 22.x.1967, Elaeagnus sp. (R-230). Trioza eurotiae Loginova
+
+Material examined. Iran: 3d d, 59 9, Zardband, N Karaj, 15.x.1955, Kochia cana (R-
+211). Comment. As in T. chenopodii and dichroa, the autumnal generation of T.
+eurotiae is characterised by shorter forewings and greyish general body coloration. JUMPING PLANT-LICE OF IRAN 877
+
+Trioza galii Forster
+
+Material examined. Iran: 13,29 2, Hamadan, 34°48'N 48°30E, 15.v.1966, yellow pan
+tray (Klett) (R-222). Trioza magnisetosa Loginova
+
+Material examined. Iran: 4d 3, 22 9, NW Iran, Marand, 20.vi.1970 (NMP-26); 233,
+22 9, Taftan, Tamadan, 2100 m, 20.iv.1973 (NMP-167); 1d, E Iran, Mohammadabad, 1600
+m, 3-5.v.1973 (NMP-187); 23 3, 22 2, S Iran, Zagros, Yasuj, 16.vi.1973 (NMP-243). Trioza neglecta Loginova
+
+Recorded from Iran: NW Iran, Maku, 19.iv.1970 (NMP-25) (Locinova,
+
+1978a; GEGECHKORI & LocINova, 1990). Material examined. Iran, 3d 6, NW Iran, Maku, 19-20,vi.1970 (NMP-25); 1d, S Iran,
+Zagros, Yasuj, 16.vi.1973 (NMP-243). Trioza cf. remota Forster
+
+Material examined: Iran: 1 4th instar larva, 15 km NW Khorramabad, 33°30'N 48°20'E,
+1650 m, 29.x.1967, Quercus persica (= Quercus brantii Lindley) (R-238); 1? , same but 25 km
+W Khorramabad, 30.x.1967 (R-240). Comments. The material at hand is insufficient for a definitive identification. It
+is possible that the specimens do not belong to the two described European oak-
+feeding triozids: Trioza remota Forster and Trioza ilicina (de Stefani). Quercus
+brantii is a deciduous shrub or small tree confined to E and SE Anatolia, the Syrian
+Desert, N Iraq, W and S Iran (HepGE & YALTIRIK, 1982). Trioza rumicis Low
+
+Material examined. Iran: many dd, 2 2 and larvae, road Gash Sar, N Karaj, 1900 m,
+7.ix.1972, Rumex scutatus (R-247). Trioza scottii Low
+
+Material examined, Iran: 26 3, many exuviae of Sth instar larvae, road of Shemshak,
+N Tehran, 2000 m, 4.xi.1955, Berberis integerrima (R-195); 16, Rudak, N Tehran, 2.v.1966,
+Berberis sp. (R-217). 878 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Trioza urticae (Linnaeus)
+
+Material examined. Iran: 118 3, 13 2, N Iran, 6 km E Zibar, 24-26.vi.1977 (NMP-
+382); 16, 322, 10 km N Polur, 35°52'N 52°03'E, 2850 m, 1.v.1962 (R-204); 266, 22 2,
+Now Shahr, 36°39'N 51°31'E, v.1978 (J. H. Hodjat) (BMNH); 14, same but 21.iii.1978, Urtica
+dioica (V.F. Eastop); 16, 39 2, same but, Mazandran, Now Shahr, 22-25.iii.1978, sweeping. Trioza spp. Comment. The following three lots of material represent additional species but
+
+cannot be identified in the absence of the taxonomically relevant males. Material examined. Iran: 19, 2 larvae, 50 km SE Kerman, 20.vi.1955, Hertia
+intermedia (R-184) (MHNG, USNM). Iran: 19, E Iran, Deh Bakri, 1700-1750 m, 30.iv-3.v.1973 (NMP-126); 19, C. Iran,
+Lalehzar, 2800 m, 24-30.v.1977 (NMP-347) . Iran: 19, $ Iran, Zagros, Yasuj, 16.vi.1973 (NMP-243). BIOGEOGRAPHY
+
+BACKGROUND
+
+An aim of historical biogeography is the study of area interrelationships. These
+can be investigated with the techniques of cladistic biogeography (NELSON &
+PLATNICK, 1981; HUMPHRIES & PARENTI, 1986; HUMPHRIES, 1992) or panbio-
+geography (Craw, 1988, 1989). The area relationships are derived from taxon
+cladograms in cladistic biogeography and from tracks, joining plotted distributions of
+taxa, in panbiogeography (BAsTOW WILSON, 1991). In both approaches, most
+information is drawn from taxa endemic to the areas under consideration. However, in
+practice taxa often occur in more than one area. Different statistical methods exist to
+measure the degree of similarity among areas on the basis of number of shared taxa,
+but, as they are phenetic, they are of little use in investigating historical aspects. Rosen (1985, 1988) introduced a parsimony analysis of endemicity (PAE) in which,
+by analogy with cladistic analysis, the shared presence (synapomorphies) of taxa
+(characters) is used to formulate hypotheses of historical relationships (phylogenies)
+of areas (taxa). This approach was used by Cracrarr (1991) to analyse Australian
+areas of endemism on the basis of vertebrate distributions. ROSEN (1988) stressed that
+this method was experimental and Cracrarr (1991) discussed its merits and
+limitations. For continents or other large geographical units, the degree of endemism is
+often sufficiently high to use the methods of cladistic biogeography or panbio-
+geography. For smaller geographical units, such as Iran, this is often not possible due
+to the very low degree of endemism. Here we use PAE. JUMPING PLANT-LICE OF IRAN 879
+
+AREAS
+
+ParSA (1978) subdivided Iran into nine biotic provinces (fig. 2), but without
+giving much detail on the criteria he chose for delimiting the areas. They correspond
+partly with the physical-geographical areas proposed by PETRov (1955). The
+geographical/geological (=historical) character makes these subdivisions useful units
+for analysis in historical biogeography and they are adopted here. Based on the study
+of the Iranian rodent fauna NERONOV (1976) proposed a similar zonation. For the
+following analyses 6 additional areas outside Iran were added: Turkey, the territory
+South of the Caucasus of the former USSR, Central Asia (Tadzhikistan, Uzbekistan
+and Kazakhstan), Afghanistan/Pakistan, the Arabian Peninsula, and Palestine (Israel,
+Lebanon and Syria). Mesopotamia was excluded owing to a lack of records. TECHNIQUES
+
+The presence/absence of species, genera, subfamilies and families in each of
+the 9 biotic Iranian provinces and the 6 regions outside Iran was coded in a matrix for
+analysis with PAUP 3.0 (SworrorD, 1989). The most parsimonious trees were
+selected using the heuristic search algorithm. Trees were rooted with an artificial
+“outarea” lacking taxa (Lundberg rooting). Three sets of data were analysed:
+
+Analysis 1: All species, genera, subfamilies and families known from Iran (=
+131 taxa) with their occurrences in each of the areas inside Iran (fig. 122). Analysis 2: Same taxa but with their occurrences in all of the areas inside and
+outside Iran (fig. 124). Analysis 3: All known psyllid taxa occurring in the 9 areas within and the 6
+areas outside Iran (= 492 taxa). The information is taken from following sources:
+Burckuarpt & Onucar (1993) (Turkey), GEGECHKORI & Locinova (1990) (South
+Caucasus and Central Asia), HODKINSON (1986) (Afghanistan/Pakistan), BURCKHARDT
+(1986a) (the Arabian Peninsula) and BuRCKHARDT & HALPERIN (1992) (Palestine). These sources were supplemented by material deposited in the MHNG (fig. 125). For comparison the distributions of mammals were analysed based on the data
+in MISONNE (1960) using the classification of Nowak (1991) (fig. 123). Discussion
+
+Analysis 1 yielded 3 trees with following informations: tree length = 197,
+consistency index excluding uninformative characters = 0.504, retention index =
+0.400. A strict consensus tree is illustrated in fig. 122. Analysis 2 yielded 1 tree (fig. 124) with following informations: tree length = 312, consistency index excluding
+uninformative characters = 0.389, retention index = 0.486. Analysis 3 yielded 9 trees
+with following informations: tree length = 743, consistency index excluding
+
+880 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+uninformative characters = 0.472, retention index = 0.499. A strict consensus tree is
+illustrated in fig. 125. The analysis of the mammal data yielded 2 trees with following
+informations: tree length = 358, consistency index excluding uninformative characters
+= 0.495, retention index = 0.548. A strict consensus tree is illustrated in fig. 123. In all three cladograms derived from psyllid data (figs 122, 124, 125) the
+Caspian and Azerbaidzhanian regions occupy a relatively basal position; in analysis 2
+they even form a monophyletic group. This is mainly due to the small number of
+species known from these areas. Similarly the sister group relationships of the South
+Caucasus and Central Asia is probably a result of the much better knowledge of the
+psyllid faunas of these areas compared to others; the number of recorded taxa is almost
+twice that known from Iran as a whole. The close relationships of the Elburzian and
+Lutian regions in all three analyses, grouped together with Turkey, South Caucasus and
+Central Asia in analyses 2 and 3 may indicate true historic relationships. The position
+of the remaining areas varies greatly in the three analyses and there is no congruence
+between any of them and the mammal cladogram (fig. 123). The discrepancies between the four cladograms suggest that the psyllid data
+are insufficient. The PAE (performed with PAUP) is strongly dependant on similar
+levels of faunistic knowledge among the different regions which are compared. This
+is because shared absence of taxa is equally weighted as shared presence of taxa. In
+biogeography absence is however not "homologous", as it can be due to different
+histories. 1. A taxon may be lacking in an area because its ancestors did not inhabit
+the area. 2. A taxon may be lacking from an area even though ancesters occured there,
+as the species became extinct. 3. A taxon may occur in an area but has not yet been
+dicovered. Cladistic biogeography and panbiogeography are more robust as they
+depend only on presence of taxa. Another problem is the delimitation of areas of endemism which could be
+solved with a better knowledge of the detailed distribution of all analysed taxa. ACKNOWLEDGEMENTS
+
+We thank G. Remaudiére (MNHN), D. Hollis (BMNH), I. Kerzhner (ZI), L.
+Russell (USNM) and J. Dlabola (NMP) for the loan of material, and I. D. Hodkinson
+(JMUL), G. Remaudiére, L. Russell and S. H. Hodjat (Tehran) for comments on
+material, localities and/or the manuscript draft. We are grateful to G. Roth (MHNG)
+for inking the drawings, to A. Scherrer (MHNG) for the diagrams and to J. Wiiest
+(MHNG) for preparing the SEM pictures. The stay of the junior author at the MHNG,
+where parts of the study were prepared, was partly funded by a grant from the Swiss
+National Science Foundation (Coopération avec des Etats de l'Europe de l'Est; grant
+no 70TK-031544) which is gratefully acknowledged. JUMPING PLANT-LICE OF IRAN 881
+
+ 
+
+Fics 10-20
+
+Aphalara spp. ; 10-16, A. loginovae; 17-20, A. grandicula, 10, 17, Forewing; 11, head, dorsal
+view: 12, antenna; 13, male terminalia in profile; 14, 18, inner aspect of male paramere; 15, 19,
+distal portion of aedeagus; 16, 20, female terminalia in profile. 882 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+ 
+
+Fics 21-32
+
+21-26, Brachystetha loginovae; 27-32, Colposcenia spp. ; 27, 30, Colposcenia agnata; 28, 31,
+
+C. cavillosa; 29, 32, C. paula. 21, 27-29, Forewing; 22, head, dorsal view; 23, male terminalia,
+
+in profile, 24, inner aspect of male paramere; 25, distal portion of aedeagus; 26, female
+terminalia, in profile; 30-32, metacoxae. JUMPING PLANT-LICE OF IRAN 883
+
+ 
+
+Fics 33-41
+
+Colposcenia spp. ; 33, 34, 39, C. agnata; 35, 36, 40, C. cavillosa; 37, 38, 41, C. paula. 33, 35,
+37, Head, dorsal view; 34, 36, 38, antenna; 39-41, female terminalia, in profile. 884 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+ 
+
+Fics 42-53
+
+Colposcenia spp. ; 42, 43, 50, C. agnata; 44, 45, 48, 51, C. cavillosa; 46, 47, 49, 52, 53, C.
+
+paula. 42, 44, 46, Male terminalia, in profile; 43, 45, 47, distal portion of aedeagus; 48, 49,
+
+apex of inner surface of posterior lobes of male proctiger; 50-52, inner surface of male
+paramere; 53, male paramere, antero-interior view. b
+
+ 
+
+JUMPING PLANT-LICE OF IRAN. 885
+
+ 
+
+Fis 54-60
+
+Craspedolepta spp. ; 54, 56-59, C. remaudierei; 55, 60, Craspedolepta sp. A. 54, 55, Forewing;
+56, male terminalia, in profile; 57, distal portion of aedeagus; 58, inner surface of
+male paramere; 59, 60, female terminalia, in profile. 886 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+ 
+
+Fics 61-74
+
+61-67, Camaroroscena unicolor, 68-74, Cacopsylla iranica. 60, 68, Forewing; 62, 69, head,
+
+dorsal view; 63, antenna; 64, 71, male terminalia, in profile; 65, 72, inner surface of male
+
+paramere; 66, 73, distal portion of aedeagus; 67, 74, female terminalia, in profile; 70, antennal
+segment 10. JUMPING PLANT-LICE OF IRAN 887
+
+ 
+
+ 
+
+ 
+
+Fics 75-85
+
+Spanioneura spp. ; 75, 77, 78, 80, 82, 84, 85, S. persica; 76, 79, 81, 83, S. turkiana. 75, 76,
+
+Forewing; 77, 79, head, dorsal view; 78, antennal segment 10; 80, 81, inner surface of male
+
+paramere; 82, 83, distal portion of aedeagus; 84, male terminalia, in profile; 85, female
+terminalia, in profile. 888 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+ 
+
+Fics 86-94
+
+Homotoma spp. ; 86-88, 90-94, H. caroliquarti; 89, H. ficus. 86, Forewing; 87, head, dorsal
+
+view; 88, 89, antenna; 90, inner surface of posterior lobe of male proctiger; 91, distal portion of
+
+aedeagus; 92, male terminalia, in profile; 93, inner surface of male paramere; 94, female
+terminalia, in profile. JUMPING PLANT-LICE OF IRAN 889
+
+ 
+
+Fics 95-106
+
+Egeirotrioza spp. ; 95, 98, 102, 103, E. corporosa; 96, 100, 105, E. gemina; 97, 101, 106, E.
+justa; 99, 104, E. gardneri, 95-97, Forewing; 98-101, distal portion of aedeagus; 102, apex of
+metatibia; 103-106, head, dorsal view. 890 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+ 
+
+Fics 107-114
+
+Egeirotrioza spp. ; 107, 111, E. corporosa; 108, 112, E. gardneri; 109, 113, E. gemina; 110,
+114, E. justa. 107-110, Male terminalia, in profile; 111-114, inner surface of male paramere. JUMPING PLANT-LICE OF IRAN 891
+
+ 
+
+Fias 115-121
+
+Egeirotrioza spp; 115, 116, E. corporosa; 117, E. gardneri; 118, 119, E. gemina; 120, 121, E.
+justa, 115, 118, 120, vaivulae 1 and 2; 116, 117, 119, 121, female terminalia, in profile. 892 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘S Caucasus
+Central Asia
+Palestine
+
+Lotian
+Afghanistan/Pakistan
+
+125
+
+Fics 122-125
+
+Cladograms for 9 areas of endemism in Iran and 6 regions outside Iran (see text for details);
+
+122, analysis 1: all psyllid taxa from Iran; 123, mammal distributions in Iran according to
+
+MIsoNNE (1960) and NowaK (1991); 124, analysis 2: psyllid taxa from Iran: with their
+occurrences inside and outside Iran; 125, analysis 3: all psyllid taxa from the Middle East. JUMPING PLANT-LICE OF IRAN 893
+
+REFERENCES
+
+ANoNyMous 1956. Gazetteer. Iran. Official standard names approved by the U. S. Board on
+geographic names. Office of Geography, Department of Interior, Washington, D. C.,
+578 pp. Baeva, V. G. 1970. O dvuch novych vidach psillid roda Craspedolepta Enderl. (Homoptera,
+Psylloidea) iz Tadzhikistana. Dokl. Akad. Nauk tadzhik. SSR, 13: 64-67. Bava, V. G. 1978. New species of jumping plant lice (Homoptera, Psylloidea) from Middle
+Asia. Zool. Zh., 57: 32-45. (In Russian). Baeva, V. G. & A. A. ALEKSEEV. 1991. Psyllids of the genus Brachystetha (Homoptera,
+Psylloidea). Zool. Zh., 70: 143-148. (In Russian). Bastow WILSON, J. 1991. A comparison of biogeographic models: migration, vicariance and
+panbiogeography. Global Ecol. Biogeogr. Letters, 1: 84-87. Becker, A. 1864, Naturhistorische Mittheilungen. Bull. Soc. imp. Naturalistes, Moscou, 37:
+477-493,
+
+Bercevin, E. de, 1926. Description d'une nouvelle espéce de Trioza (Hémiptére Psyllidae)
+produisant une galle sur Populus euphratica Oliv. var. Bonnetiana Dod. dans le Sud
+orano-marocain. Bull. Soc. hist. nat. Afr. N., 17: 149-153. BOSELLI, F. B. 1931. Studii sugli Psyllidi (Homoptet 'syllidae o Chermidae) X. Instituzione
+di un nuovo genere ¢ descrizione de Egeirotrioza ceardi (De Bergevin) euphratica n. var., Triozina galligena su Populus euphratica in Mesopotamia. Boll. Lab. Zool. gen.
+agr. Fac. agr. Portici, 24: 267-278. BurckHarpT, D. 1985. The mediterranean species of Diaphorina Loew (Homoptera,
+Psylloidea). Phytophaga, Palermo, 2 (1984): 1-30. BURCKHARDT, D. 1986a. Sternorrhyncha: Suborder Psyllodea of Saudi Arabia (Part 2). Fauna
+of Saudi Arabia, 7 (1985): 141-159. Burcknarpt, D. 1986b. Redescription of Trioza sahlbergi Sule with comments on the genus
+Heterotrioza (Hem.-Hom., Psyllidae). Entomologists’s mon. Mag., 122: 121-126. BUuRCKHARDT, D. 1987. Jumping plant lice (Homoptera: Psylloidea) of the temperate
+neotropical region. Part 1: Psyllidae (subfamilies Aphalarinae, Rhinocolinae and
+
+Aphalaroidinae). Zool. J. Linn. Soc., 89: 299-392. Burckuarbt, D. & J. HALPERIN. 1992, Additions to the psyllid fauna of Israel (Homoptera:
+Psylloidea). Israel J, Ent., 25-26: 41-50. Burckuarpt, D. & I. D. HODKINSON. 1986. A revision of the west Palaearctic pear psyllids
+(Hemiptera: Psylloidea). Bull. ent. Res., 76: 119-132. Burcknarpr, D. & P. LAUTERER. 1989. Systematics and biology of the Rhinocolinae
+(Homoptera: Psylloidea). J. nat. Hist., 23: 643-712. Burckwart, D. & A. Onucar. 1993. A review of Turkish jumping plant lice (Homoptera,
+Psylloidea). Revue suisse Zool., 100: 547-574. CracrarT, J. 1991. Patterns of diversification within continental biotas: hierarchical
+congruence among areas of endemism of Australian vertebrates. Aust. Syst. Bot., 4:
+211-227. Craw, R. 1988. Panbiogeography: method and synthesis in biogeography, pp. 405-435. In:
+Analytical biogeography (A.A. Myers & P.S. Giller, eds. ), Chapman & Hall, London,
+578 pp. Craw, R. 1989. Quantitative panbiogeography: introduction to methods. N. Z. J. Zool., 16: 485-
+494. Davatcui, G. A. 1958, Etude biologique de la faune des Pistacia sauvages et cultivés. Revue
+Path. vég. Ent. agric. Fr., 37: 1-166. Geaecukort, A. M, 1973. A new species of Psyllidae (Homoptera, Psylloidea) from Georgia. Soobshch. Akad. Nauk gruz. SSR, 69: 181-184. (In Russian). 894 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+GececuKori, A. M. 1977. New jumping plant lice (Homoptera, Psylloidea) from Transcaucasia
+and Iran. Zool. Zh., 56: 789-793. (In Russian). Gececukori, A. M. 1981. New genus and species of Psylloidea (Homoptera) from Trans-
+caucasus and Jugoslavia. Zool. Zh., 60: 695-703. (In Russian). GececuKor!, A., M. & M. M. Loainova. 1990. Psillidy SSSR. Akad. Nauk Gruz., Tbilisi, 164 pp. HAvpern, J., I. D. HopKINsoN, L. M. RUSSELL & M. J. BERLINGER. 1982. A contribution to the
+knowledge of the psyllids of Israel (Homoptera: Psylloidea). Israel J. Ent., 16: 27-44,
+
+Hepee, I. C. & F. YALTIRIK. 1982. Quercus L., pp. 659-682. In: Flora of Turkey and the East
+Aegean Islands, 7 (P. H. Davis, ed.). University Press, Edinburgh, XX, 947 pp. Hes.op-Harrison, G. 1946. A contribution to our knowledge of the distribution of certain
+Palaearctic Psyllidae (Hem.). Entomologist’s mon. Mag., 82: 36-37. HesLop-Harrison, G. 1949. The subfamily Liviinae Low, of the homopterous family Psyllidae. -
+Part 2: (a) subfamily diagnosis; (b) an outline of the genera and species of the Liviinae;
+(c) the biology of Livia juncorum Latr. and a description of two new British varieties; (d)
+three new species of the Liviinae. Ann. mag. nat. hist., ser. 12, vol. 2: 241-270. Hoper.annt, L. 1974. Results of the Czechoslovak-Iranian Entomological expedition to Iran
+1970. No. 1: Introduction. Acta ent. Mus. natn. Pragae, suppl. 6: 9-20. Hopervanpt, L. 1981. Results of the Czechoslovak-Iranian Entomological expeditions to Iran. Introduction to the second expedition 1973. Acta ent. Mus. natn. Pragae, 40: 5-32. HosERLANDT, L. 1983. Results of the Czechoslovak-Iranian Entomological expeditions to Iran. Introduction to the third expedition 1977. Acta ent. Mus. natn. Pragae, 41: 5-24,
+
+Hopkinson, I. D. 1981. Status and taxonomy of the Trioza (Bactericera) nigricornis Forster
+complex (Hemiptera: Triozidae). Bull. ent. Res., 71: 671-679. Hopkinson, I. D. 1984. The taxonomy, distribution and host plant range of the pear feeding
+psyllids (Homoptera: Psylloidea), 32-44. In: Lutte intégrée contre les psylles du poirier,
+Toulouse, 27.-29.ix.1983 (Atger, P. ez al., eds). Bull. SROP, WPRS Bull., 1984/vii/S,
+388 pp. Hopkinson, I. D. 1986. The psyllids (Homoptera: Psylloidea) of the Oriental Zoogeographical
+Region: an annotated check-list. J. nat. Hist., 20: 299-357. Hopkmson, I. D. 1989. Jumping plant lice (psyllids) and significant aspects of two recent
+introductions into South America and the Pacific. Pl. Prot. Bull. F.A.O., 37: 180-181. Hopxinson, I. D. & D. HoLLis. 1987. The legume-feeding psyllids (Homoptera) of the west
+Palaearctic Region. Bull. Br. Mus. nat. Hist. (Ent. ), 56: 1-86. Hopkinson, I. D. & I. M. Wuire. 1979. Psylloidea (Homoptera). Handbk Ident. Br. Insects, 2
+(Sa), 98 pp. Hous, D. & P. S. BROOMFIELD. 1989. Ficus-feeding psyllids (Homoptera), with special
+reference to the Homotomidae. Bull. Br. Mus. nat. Hist. (Ent. ), 58: 131-183. Hovarp, C. 1922. Les zoocécidies des plantes d'Afrique, d'Asie et d'Océanie, 1. Librairie
+scientifique Jules Hermann, Paris, 496 pp. Humpuries, C. J. 1992. Cladistic biogeography, pp. 137-159. In: Cladistics, a practical course
+in systematics (P. L. Forey, C. J. Humphries, I. J. Kitching, R. W. Scotland, D. J.
+Siebert, & D. M. Williams, eds.). The Systematics Association publ., 10: 191 pp. Humpurigs, C. J. & L. PARENTI. 1986. Cladistic biogeography, Clarendon Press, Oxford, x +
+98 pp. Kutmaszewski, S. M. 1973. The jumping plant lice or psyllids (Homoptera, Psylloidea) of the
+Palaearctic. An annotated check-list. Annis Zool., Warsz., 30: 155-286. Kumaszewski, S. M. & N. Lovos. 1977. New informations about jumping plant lice of Turkey
+(Homoptera: Psylloidea). Ege Universitesi Ziraat Fakiiltesi Dergisi, 14: 1-9. Laina, F. 1930. Some records of Indo-Malayan Psyllidae. Indian Forest Rec., 14: 166-175. JUMPING PLANT-LICE OF IRAN 895,
+
+LAUTERER, P. 1982. New data on the occurrence, bionomics and taxonomy of some Czecho-
+slovakian Psylloidea (Homoptera). Cas. moravsk. Mus. Brné (Sci. nat. ), 67: 133-162. Lauterer, P. & B. SrAmKovA, 1983. The psyllid Heterotrioza chenopodii (Reuter) (Homo-
+ptera, Triozidae), a new potential pest of beet plants. Proc. IX Czechoslovak plant
+protection conference in Brno, 30th Aug. - Ist Sept. 1983: 163-164,
+
+Lay, D. M. 1967. A study of the mammals of Iran resulting from the Street Expedition of 1962-
+63. Fieldiana, Zool., 54: 282 pp. Loainova, M. M. 1962. List of leaf-hoppers (Homoptera, Psylloidea) of the Leningrad region,
+Trudy zool. Inst. Leningr., 31: 33-45, (In Russian). Loaiova, M. M. 1963. Listobloshki roda Psyllopsis Low (Homoptera, Psylloidea). Acta
+entom. Mus. natn. Pragae, 35: 183-196. Loainova, M. M. 1968. New data on the fauna and biology of the Caucasian Psylloidea
+(Homoptera). Trudy vses. ent. Obshch., 52: 275-328. (In Russian). Loainova, M. M. 1972a. On the fauna of Psylloidea (Homoptera) from Morocco. Commentat. biol. 47, 37 pp. LocINova M. M. 1972b. The psyllids (Psylloidea, Homoptera) from the Mongolian People's
+Republic. Nasekom. Mongol., 1: 261-324. (In Russian). Loarnova, M. M. 1974. Jumping plant lice of the tribe Stigmaphalarini Vondr. (Psylloidea,
+Aphalaridae) from arid regions of Palaearctic. Ent. Obozr., 53: 150-170. (In Russian). Loainova, M. M. 1975a. A revision of the genus Camarotoscena Haupt (Psylloidea,
+Aphalaridae). Ent. Obozr., 54: 43-61. (In Russian). Loainova, M. M. 1975b. Representatives of the genus Psylla (Homoptera, Psylloidea)
+developing on Rhamnus and Cerasus. Zool. Zh., 54: 701-711, (in Russian). Loainova, M. M. 1976. Psyllids of the genus Egeirotrioza (Homoptera, Triozidae). Zool. Zh.,
+55: 1318-1327. Loainova, M. M. 1978a. Novye vidy psillid (Homoptera, Psylloidea). Trudy zool. Inst.,
+Leningr., 61: 30-123. Loainova, M. M. 1978b. Review of the genus Caillardia Bergevin (Homoptera, Aphalaridae)
+with descriptions of new species. Trudy zool. Inst., Leningr., 71: 6-22. (In Russian). Loainova, M. M. & V. G. Baeva. 1972. Review of psyllids of the genus Psylla Geoffr. (Homoptera, Psylloidea), connected with Glycyrrhiza species. Trudy vses. ent. Obshch.,
+55: 4-13. (In Russian). Loainova-Dupykina, M. M. & V. J. PaRFENTIEV. 1958. Leafhoppers (Homoptera, Psylloidea)
+injurious to Populus diversifolia and P. pruinosa in the vicinity of the Lake Balkhash,
+Kazakstan. Ent. Obozr., 37: 88-104. (In Russian). Maruur, R. N. 1975. Psyllidae of the Indian subcontinent, Indian Council of Agricultural
+Research, New Delhi, 429 pp. Misonne, X. 1960. Analyse zoogéographique des mammiferes de I'lran. Mém. Inst. r. Sci. nat. Belg., ser. 2, 59, 157 pp. Mopayen, S. & V. TREGUBOV. 1970. Carte de la végétation naturelle de I'Iran, 1:600,000. -
+Guide pour la carte de la végétation naturelle de I'Iran. Fac. Foréts et Paturages,
+Tehran, Bull. 14/ UNDP/FAO 92, UNDP/FAO IRA 7 14: 1-20. Naeem, A. & E. BEHDAD. 1988. The biology of "gaz psyllid" in Iran. Entomologie phytopath. appl., 55: 29-30, 111-121. NELSON, G. & N. PLATNICK. 1981, Systematics and biogeography, cladistics and vicariance,
+‘Columbia University Press, New York, xi + 567 pp. Neronov, V. M. 1976. A zoogeographical analysis of the rodent fauna of Iran. Byull. Mosk. Obshch. Ispyt. Prir., Otd. Biol., 81: 32-47. (In Russian). Nowak, R. M. 1991. Walker's mammals of the world, (5th ed.) the John Hopkins University
+Press, Baltimore and London, 2 vols, 1629 pp. Parsa, A. 1978. Flora of Iran, 1, Ministry of Science and education, Tehran, 506 pp. 396 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Perkov, M, P. 1955. Iran. Physical-geographical outline, Moscow. (In Russian). Rapabl, C. & N. D. BEHECHTI. 1975. Bio-ecological studies and control of Psylla pyriaola [sic!] Foerster (Hom. Psyllidae) in Esfahan. Entomologie Phytopath. appl., 39: 4, 39-53. RECHINGER, F, 1963 ff. Flora Iranica. Flora des iranischen Hochlands und der umrahmenden
+Gebirge: Persien, Afghanistan, Teile von West-Pakistan, Nord-[raq, Azerbaijan,
+Turkmenistan, Vienna. Rosen, B. R. 1985. Long-term geographical controls on regional diversity. The Open Uni-
+versity Geolog. Soc. J., 6: 25-30. Rosen, B. R. 1988. From fossils to earth history: applied historical biogeography. In: Analytical
+biogeography (A. A. Myers, & P. S. Giller, eds). Chapman & Hall, London: 578 pp. Rupsaamen, E. H. 1902. Mittheilung iiber die von Herrn J, Bornmiiller im Oriente gesam-
+melten Zoocecidien. Zool. Jb, 16: 243-336. Samy, O. 1973. Psyllids of Egypt. Bull. Soc. ent. Egypte, 56: 437-480. TaKHTAJAN, A. 1986. Floristic regions of the world, University of California Press, 522 pp. SworrorD, D. 1989. PAUP, Phylogenetic Analysis Using Parsimony, Illinois Natural History
+Survey, Champain IL. Waite, I. M. & I. D. Hopkinson, 1982. Psylloidea (Homoptera). Handbk Ident. Br. Insects, 2
+(Sb), 50 pp. ‘Wuire, L M. & I. D. Hopkinson. 1985. Nymphal taxonomy and systematics of the Psylloidea. Bull. Br. Mus, nat. Hist. (Ent. ), 50: 153-301. Zouary, M. 1963. On the geobotanical structure of Iran. Bull. Res. Coun. Israel, 11D suppl: 1-
+113, 1 map. Zonary, M. 1973. Geobotanical Foundations of the Midlle East, Gustav Fischer Verlag,
+
+Stuttgart, 739 pp. APPENDIX 1. Host plant list of Iranian psyllids. Agonoscena bimaculata Mathur
+Agonoscena pegani Loginova
+Agonoscena pistaciae Burckhardt & Lauterer
+
+Aphalara loginovae sp. n.
+‘Aphalara polygoni Férster
+
+Bactericera albiventris (Forster)
+Bactericera ligulariae (Loginova)
+Bactericera nigricornis (Forster)
+Bactericera perrisii Puton
+
+Bactericera striola (Flor)
+
+Bactericera tremblayi (Wagner)
+Bactericera trigonica Hodkinson
+Brachystetha loginovae Baeva & Alexcev
+
+Cacopsylla bidens Sulc)
+
+Cacopsylla crataegi (Schrank)
+Cacopsylla incerta (Loginova)
+
+Pistacia khinjuk, P. mutica (Anacardiaceae)
+
+Peganum harmala (Zygophyllaceae)
+
+Pistacia atlantica, P. mutica, P. palaestina,
+P. terebinthus, P. vera (Anacardiaceae)
+
+unknown
+
+Polygonum tomentosum, P. amphibium,
+P. hydropiper, P. lapathifolium, P.
+persicariae (Polygonaceae)
+
+Salix spp. (Salicaceae)
+
+Ligularia thomsonii (Asteraceae)
+
+polyphagous
+
+Artemisia spp. (Asteraceae)
+
+Salix spp. (Salicaceae)
+
+Allium spp. (Liliaceae), possibly polyphagous
+
+probably Daucus carota (Apiaceae)
+
+Zygophyllum sp., Halimiphyllum sp. (Zygophyllaceae)
+
+Pyrus communis, P. pyraster, P. syriaca
+(Rosaceae)
+
+Crataegus spp. (Rosaceae) 5
+
+Rhamnus spp. (Rhamnaceae)
+
+ 
+
+JUMPING PLANT-LICE OF IRAN
+
+Cacopsylla iranica sp. n.
+Cacopsylla notata (Flot)
+
+Cacopsylla permixta Burckhardt & Hodkinson
+
+Cacopsylla pruni (Scopoli)
+Cacopsylla pyri (Linnaeus)
+
+Cacopsylla pyricola (Forster)
+Cacopsylla pyrisuga (Forster)
+
+Cacopsylla saliceti (Forster)
+Cacopsylla suturalis (Horvath)
+Caillardia accola Loginova
+Caillardia azurea Loginova
+
+Caillardia dilatata Loginova
+Caillardia inedita Loginova
+Caillardia robusta Loginova
+
+Camarotoscena fulgidipennis Loginova
+Camarotoscena hoberlandti (Vondrétek)
+Camarotoscena unicolor Loginova
+Colposcenia agnata sp. n.
+
+Colposcenia aliena (Low)
+
+Colposcenia cavillosa sp. n.
+
+Colposcenia elegans (Bergevin)
+Colposcenia kiritshenkoi Loginova
+
+Colposcenia paula sp. n.
+Colposcenia vicina Loginova
+
+Craspedolepta bulgarica Klimaszewski
+Craspedolepta convexa Baeva
+
+Craspedolepta pontica Dobreanu & Manolache
+Craspedolepta remaudierei sp. n.
+Craspedolepta tadzhikistanica Baeva
+
+Crastina myricariae Loginova
+
+Crastina tamaricina Loginova
+
+Cyamophila astragalicola (Gegechkori)
+Cyamophila coluteae (Baeva)
+Cyamophila glycyrrhizae (Becker)
+Cyamophila oshanini (Loginova)
+Diaphorina aegyptiaca Puton
+Diaphorina chobauti Puton
+Diaphorina enormis Loginova
+Diaphorina luteola Loginova
+Diaphorina lycii Loginova
+Diaphorina tamaricis Loginova
+Diaphorina zygophylli Loginova
+
+Euphyllura straminea Loginova
+
+897
+
+unknown
+
+Pyrus communis, P. amygdaliformis,
+P. elaeagnifolia (Rosaceae)
+
+Pyrus communis, P. elaeagnifolia,
+P. salicifolia (Rosaceae)
+
+Prunus spp. (Rosaceae)
+
+Pyrus communis, P. elaeagnifolia (Rosaceae)
+
+Pyrus communis, P. pyraster (Rosaceae)
+
+Pyrus communis, P. amygdaliformis,
+P. salicifolia (Rosaceae)
+
+Salix spp. (Salicaceae)
+
+Rhamnus spp. (Rhamnaceae)
+
+Haloxylon persicum (Chenopodiaceae)
+
+Haloxylon aphyllum, H. persicum
+(Chenopodiaceae)
+
+Hammada elegans, H. salicornia, H. sp. (Chenopodiaceae)
+
+Haloxylon aphyllum, H. persicum
+(Chenopodiaceae)
+
+Haloxylon persicum, H. annodendron
+(Chenopodiaceae)
+
+Populus ? pyramidalis (Salicaceae)
+
+Populus spp. (Salicaceae)
+
+Populus diversifolia, P. pruinosa (Salicaceae)
+
+unknown
+
+Tamarix spp. (Tamaricaceae)
+
+unknown
+
+Tamarix sp. (Tamaricaceae)
+
+Tamarix smyrnensis, T. ramosissima
+(Tamaricaceae)
+
+unknown
+
+Tamarix hispida, T. ramosissima
+(Tamaricaceae)
+
+Achillea spp. (Asteraceae)
+
+Artemisia glandulifera, A. kochiiformis
+(Asteraceae)
+
+Achillea spp. (Asteraceae)
+
+possibly Artemisia cina (Asteraceae)
+
+Artemisia baldschuanica (Asteraceae)
+
+Myricaria bracteata (Tamaricaceae)
+
+Tamarix ramosissima, T. smyrnensis
+(Tamaricaceae)
+
+Astragalus sp. (Fabaceae)
+
+Colutea spp. (Fabaceae)
+
+Glycyrrhiza glabra, G. uralensis (Fabaceae)
+
+Halimodendron halodendron (Fabaceae)
+
+Cordia spp. (Ehretiaceae)
+
+Convolvulus spp. (Convolvulaceae)
+
+unknown
+
+unknown
+
+Lycium spp. (Solanaceae)
+
+Tamarix sp. (Tamaricaceae)
+
+Zygophyllum spp., Halimiphyllum spp. (Zygophyllaceae)
+
+Olea europaea (Oleaceae)
+
+898 DANIEL BURCKHARDT & PAVEL LAUTERER
+
+Eremopsylloides amirabilis Loginova Calligonum sp. (Chenopodiaceae)
+
+Egeirotrioza ceardi (Bergevin) Populus pruinosa, P. diversifolia
+(Salicaceae)
+
+Egeirotrioza corporosa sp. n. possibly Populus diversifolia (Salicaceae)
+
+Egeirotrioza gemina sp. n. unknown
+
+Egeirotrioza justa sp. n. Populus diversifolia (Salicaceae)
+
+Homotoma caroliquarti sp. n. possibly Ficus sp., F. carica (Moraceae)
+
+Homotoma ficus (Linnaeus) Ficus carica (Moraceae)
+
+Livia juncorum (Latreille) Juncus spp. (Juncaceae)
+
+Megagonoscena viridis (Baeva) Pistacia mutica, P. palaestina, P. terebinthus,
+P. vera (Anacardiaceae)
+
+Pachypsylloides errator Loginova Calligonum caput-medusae, C. arborescens
+(Chenopodiaceae)
+
+Paratrioza lycii Loginova Lycium ruthenicum (Solanaceae)
+
+Paratrioza petiolata Loginova Lycium depressum (Solanaceae)
+
+Psyllopsis fraxini (Linnaeus) Fraxinus spp. (Oleaceae)
+
+Psyllopsis machinosus Loginova Fraxinus spp. (Oleaceae)
+
+Psyllopsis repens Loginova Fraxinus oxycarpa (Oleaceae)
+
+Psyllopsis securicola Loginova Fraxinus oxycarpa (Oleaceae)
+
+Rhodochlanis bicolor (Scott) Petrosimonia spp., Salicornia spp., Salsola
+spp., Suaeda spp. (Chenopodiaceae)
+
+Spanioneura persica sp. n. unknown
+
+Trioza berbericola Loginova Berberis vulgaris, B. orientalis, B. iberica
+(Berberidaceae)
+
+Trioza chenopodii Reuter Atriplex spp., Beta sp., Chenopodium spp.,
+
+. Halimione sp., Spinacia sp. (Chenopodiaceae)
+
+Trioza dichroa Scott Atriplex tatarica (Chenopodiaceae)
+
+Trioza elaeagni Scott Elaeagnus angustifolia (Elacagnaceae)
+
+Trioza eurotiae Loginova Eurotia ceratoides (Chenopodiaceae)
+
+Trioza galii Forster Galium spp. (Rubiaceae)
+
+Trioza magnisetosa Loginova Elaeagnus angustifolia (Elaeagnaceae)
+
+Trioza neglecta Loginova Elaeagnus angustifolia (Elaeagnaceae)
+
+Trioza remota Forster deciduous Quercus spp. (Fagaceae)
+
+Trioza rumicis Low Rumex scutatus, R. alpestris (Polygonaceae)
+
+Trioza scottii Law Berberis spp. (Berberidaceae)
+
+Trioza urticae (Linnaeus) Urtica spp. (Urticaceae)

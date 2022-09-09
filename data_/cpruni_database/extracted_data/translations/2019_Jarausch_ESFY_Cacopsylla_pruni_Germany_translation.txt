@@ -1,0 +1,1063 @@
+Eur J Plant Pathol
+https://doi.org/10.1007/s10658-019-01669-3
+
+ 
+
+Epidemiology of European stone fruit yellows in Germany:
+
+the role of wild Prunus spinosa
+
+Wolfgang Jarausch - Barbara Jarausch +
+Michelle Fritz - Miriam Runne - Aneliya Etropolska -
+Ernst Pfeilstetter
+
+Accepted: 6 January 2019
+© Koninklijke Nederlandse Planteziektenkundige Vereniging 2019
+
+Abstract A nationwide monitoring with regard to the
+presence and distribution of ‘Candidatus Phytoplasma
+prunorum’ and its vector, Cacopsylla pruni, has been
+carried out in Germany between 2013 and 2017. In total,
+286 sites with cultivated and wild Prunus species were
+surveyed. 806 plant samples covering 94 administrative
+districts in all 13 federal area states and one city-state
+were analysed by PCR. Furthermore, 3108 C. pruni
+were caught in 63 districts and tested for ‘Ca. P.
+prunorum’. European stone fruit yellows was found
+mainly in symptomatic apricot, plum, almond and peach
+but also for the first time in Germany in sweet cherry. Non-symptomatic infections were detected in 437 ran-
+domly sampled P. spinosa at 104 sites without any stone
+fruit growing nearby representing a natural infection rate
+of 14%. The vector C. pruni was found on all P. spinosa
+
+Electronic supplementary material The online version of this
+article (https://doi.org/10.1007/s10658-019-01669-3) contains
+supplementary material, which is available to authorized users. W. Jarausch (22) +B. Jarausch  M. Fritz M. Runne
+A. Etropolska
+
+AlPlanta-IPR, RLP AgroScience, Breitenweg 71,
+D-67435 Neustadt, Germany
+
+e-mail: wolfgang.jarausch @agroscience.rlp.de
+
+B, Jarausch
+Julius Kiihn-Institute, Federal Research Centre for Cultivated
+Plants, Institute for Plant Protection in Fruit Crops and Viticulture,
+Geilweilerhof, D-76833 Siebeldingen, Germany
+
+  
+
+E. Pfeilstetter
+
+Julius Kiihn-Institute, Federal Research Centre for Cultivated
+Plants, Institute for National and International Plant Health,
+Messeweg 11/12, D-38104 Braunschweig, Germany
+
+Published online: 13 January 2019
+
+plants at 62 sites spread across Germany. The infection
+rate of C. pruni was 1-2% regardless whether the insects
+were caught in stone fruit growing areas or at wild
+habitats. Our results strongly indicate that ‘Ca. P.
+prunorum’ is widespread in all natural habitats in Ger-
+many and that wild P. spinosa represent a major source
+of infection in stone fruit orchards. A representative
+sample of 1164 individuals of C. pruni captured at 100
+sites was molecularly typed: all but one insect were of
+B-type, the one which is the proven vector of ‘Ca. P.
+prunorum’. C. pruni A-type was detected for the first
+time in Germany near the French border. Keywords ‘Candidatus Phytoplasma prunorum’ -
+Cacopsylla pruni+ Prunus « Quarantine organism
+
+Introduction
+
+Several economically important disorders on Prunus are
+collectively referred to as European stone fruit yellows
+(ESFY) (Lorenz et al. 1994; Cieslifska 2011; Marcone
+etal. 2011): apricot chlorotic leaf roll of apricot (Prunus
+armeniaca), leptonecrosis of Japanese plum
+(P. salicina) and yellows and decline diseases of peach
+(P. persica), European plum (P. domestica), almond
+(P. dulcis) and flowering cherry (P. serrulata). A unique
+pathogen is associated with ESFY, the phytoplasma
+‘Candidatus Phytoplasma prunorum’ (Seemiiller and
+Schneider 2004). The incidence of ‘Ca. P. prunorum’
+depends on the region and species of the tree. Particu-
+larly susceptible are apricot, peach and Japanese plums. © Springer
+
+Severe outbreaks were observed since 1977 especially
+in the Mediterranean basin (Marcone et al. 2010, 2011). Due to its high economic importance ‘Ca. P. prunorum’
+is currently regulated as quarantine organism in the EU
+in Annex IAII of Council Directive 2000/29/EC
+(Anonymous 2000; Steffek et al. 2012). Infected trees show numerous symptoms depending
+on the susceptibility of the plant species, the rootstock
+and scion cultivar, virulence of the infecting strain, age
+of the tree and climatic conditions. The typical symp-
+toms which can be observed in most of the infected
+Prunus species are off-season growth and premature
+break of leaf buds before flowering. In summer, leaf
+yellowing or reddening in combination with leaf roll is
+the common symptom (Marcone et al. 2011). These
+symptoms are highly correlated with the presence of
+the phytoplasma as detected by molecular means
+(Jarausch et al. 1998; Jarausch et al. 2008). Infected
+trees may also show less specific symptoms like leaf
+deformation, reduced terminal growth, die-back and
+decline. ESFY is known to occur in most southern and central
+European countries (Ciesliftska 2011; Marcone et al. 2010, 2011) but it has also been detected in Asia Minor
+(Jarausch et al. 2000; Sertkaya et al. 2005; Tedeschi
+et al. 2013; Allahverdi et al. 2014; Valasevich and
+Schneider 2016) as well as in northern Africa (Ben
+Khalifa et al. 2011). Its highest spread is in the Mediter-
+ranean basin while its northern border ranges from
+England (Davies and Adams 2000) via Germany
+(Jarausch et al. 2007b) to Poland (Cieslinska and
+Morgas 2011). In Germany, the first detection of the
+agent in different Prunus species has already been re-
+ported in 1992 by Lederer and Seemiiller. Carraro et al. (1998) identified the psyllid species
+Cacopsylla pruni (Scopoli) as vector for ‘Ca. P.
+prunorum’ in Italy and Jarausch et al. (2001) confirmed
+the vector capacity of this psyllid species in France. In
+Germany, C. pruni was confirmed as vector in transmis-
+sion trials conducted by us (Jarausch et al. 2007a). C. pruni is a European and Central Asian species which
+is known from almost all of Europe (Lauterer 1999). This univoltine psyllid is strictly oligophagous on Pru-
+nus spp. and overwinters as an adult on conifers
+(Jarausch and Jarausch 2016; Gallinger and Gross
+2018). At the end of winter/early spring, C. pruni
+remigrants move from the overwintering plants back to
+Prunus for oviposition. The insects of the new genera-
+tion feed on the reproduction hosts until the beginning
+
+D Springer
+
+Eur J Plant Pathol
+
+of July when they leave the stone fruits as adults to
+move to overwintering hosts (Thébaud et al. 2009). The phytoplasma multiplies during winter in the psyllid
+making the returning migrants highly infective. The
+disease spread is regarded to be monocyclic (Thébaud
+et al. 2009; Jarausch et al. 2013). The natural infection
+rate of C. pruni varies according to the region: in France,
+Germany and Bulgaria low infection rates between 1
+and 3% were observed (Yvon et al. 2004; Jarausch et al. 2007a, b; Thébaud et al. 2008; Etropolska et al. 2015),
+whereas from Italy (Carraro et al. 2004) and Austria
+(Maier et al. 2013) rates of more than 10% were
+reported. Nation-wide surveys for the presence of ESFY dis-
+ease have only been conducted in stone fruit growing
+areas, e.g. in France (Jarausch et al. 1998), Turkey
+(Ulubas Serge et al. 2006), Spain (Sabaté et al. 2015)
+or Bulgaria (Etropolska et al. 2015), and confirmed a
+wide-spread presence of ESFY in orchards of suscepti-
+ble species like apricots, Japanese plum and peach. During a survey between 2000 and 2006, Jarausch
+et al. (2007b) could show that ‘Ca. P. prunorum’ as well
+as its vector, C. pruni, were present on all cultivated
+Prunus species in several stone fruit growing regions in
+Southwestern Germany. The role of wild Prunus for the spread of ESFY was
+first studied by Carraro et al. (2002) in the heavily
+ESFY-infected region Friuli-Venezia Giulia in Northeast
+Italy. They found ‘Ca. P. prunorum’ as well as C. pruni
+in P. spinosa and P. cerasifera also at sites far from
+stone-fruit orchards and concluded that the cycle of
+ESFY can be completed independently from the pres-
+ence of ESFY-infected cultivated stone-fruit trees. These
+results were confirmed by Yvon et al. (2004) in a case
+study in Southeastern France who detected ‘Ca. P.
+prunorum’-infected P. spinosa and C. pruni in a hedge-
+row of blackthorn. While Carraro et al. (2002) did not
+find ESFY-infected wild P. mahaleb, Sabaté et al. (2015)
+recently reported high infection rates from wild
+P. mahaleb bushes as well as from C. pruni caught on
+these plants from Catalonia, Spain. As these authors did
+not find infected P. spinosa, they concluded that
+P. mahaleb is a key factor in the local ESFY cycle in
+Spain. In the present study, a nationwide monitoring was
+conducted between 2013 and 2017 including cultivated
+and wild Prunus spp. in order to elucidate the real
+presence and distribution of ‘Ca. P. prunorum’ and its
+vector C. pruni all over Germany. Based on this data it
+
+ 
+
+ 
+
+Eur J Plant Pathol
+
+was the final goal to identify the epidemiological traits
+of ESFY disease and to contribute to the revision of its
+quarantine status in the EU. Material & methods
+
+The first part of the study was initiated 2010 by
+the AlPlanta Institute and comprised some selected
+fruit growing areas in Germany as continuation to
+those regions already published in Jarausch et al. (2007b, 2008). A comprehensive nationwide mon-
+itoring was started 2013 including plant and insect
+samples on symptomatic cultivated Prunus spp. from all German stone fruit growing regions in a
+first step. Between 2014 and 2017 the study was
+completed by a second part comprising plant and
+insect samples on wild non-symptomatic Prunus
+spp. located far from cultivated stone fruit areas
+all over Germany. Monitoring of Prunus species
+
+The monitoring of ESFY infection on cultivated Prunus
+spp. was based on surveying symptomatic plants in fruit
+growing areas all over Germany. Visual inspections as
+well as sampling of suspicious plants was basically done
+by plant health inspectors in their particular zone of
+responsibility and by farmers in their own orchards
+during summer before harvest. Branch samples of about
+30 cm length were taken directly from symptomatic
+parts or from different parts all around a suspicious tree
+and sent to AlPlanta for molecular analyses. Localiza-
+tion of the sampling site was documented via GPS
+coordinates or exact description of the location and
+photographs. This way it was possible to establish pre-
+cise maps of all sample sites in Germany. The monitor-
+ing of wild Prunus spp. was less evident as infected
+P. spinosa or P. cerasifera do not show symptoms. One
+part of this survey was focused on wild Prunus hedge-
+rows in the vicinity of fruit trees. A second part of
+sampling included wild Prunus habitats far from fruit
+growing areas based on the experience of AlPlanta
+researchers with regard to putative risk pools and ag-
+glomeration sites for C. pruni. Branch samples of about
+30 cm length were taken from wild Prunus spp. erraneously. Captures of C. pruni
+
+Based on data on C. pruni population dynamics in Ger-
+many (Jarausch et al. 2007b) insect monitoring started by
+mid-March on wild Prunus spp. — mostly P. spinosa-
+where the highest population of C. pruni remigrants appear
+after hibernation. Survey of C. pruni was undertaken on. wild Prunus spp. and cultivated Prunus all over Germany
+from March until July including overwintered remigrants
+as well as individuals of the new generation (emigrants). Insect samples were taken by researchers of AlPlanta using
+the beating tray method. Captured psyllids were frozen at
+—20 °C and C. pruni identification was done using differ-
+ent determination keys (Ossiannilsson 1992; Burckhardt
+and Jarausch 2007). Molecular detection of ‘Ca. P. prunorum’ in plant
+samples
+
+Phloem was prepared from 1 to 3 branches per plant
+sample and total nucleic acids were extracted with a mod-
+ified CTAB-based protocol as described by Jarausch et al. (2011). All plant samples were tested with the 16SrX
+group specific primers f01/rO1 as published by Lorenz
+et al. (1995). Identification of ‘Ca. P. prunorum’ was done
+with specific primers ESFY-f/ESFY-r as described by
+Yvon et al. (2009). In samples with low phytoplasma
+concentration which gave only a faint band in direct PCR. with primers fO1/rO1 the following nested PCR approach
+was adopted for ‘Ca. P. prunorum’ identification: a first
+PCR was performed using forward primer f01 (Lorenz
+et al. 1995) and reverse primer P7 (Schneider et al. 1995)
+in a final volume of 20 ul with 1x Taq polymerase buffer
+with 1.5 mM MgCl, 0.125 mM of each dNTP, | uM of
+cach primer, 0.5 U of Sprime Taq polymerase (Sprime,
+Germany) and 1 ul of total DNA in cycle conditions of
+1 min at 95 °C for initial denaturation followed by 20 cy-
+cles at 95 °C for 15 s, 55 °C for 20 s and 72 °C for 1 min
+30 s, with a final 4-min extension period at 72 °C. One
+microliter of the PCR reaction was further amplified for
+40 cycles with the specific primers ESFY-f/ESFY-r as
+described by Yvon et al. (2009). Molecular detection of ‘Ca. P. prunorum’ in insect
+samples
+
+DNA was extracted from each psyllid individual with
+the modified CTAB-based protocol according to
+Jarausch et al. (2011) or with the TNES protocol,
+
+© Springer
+
+presented by Nicolas Sauvion at the COST FA0807
+molecular identification training school in Montpellier,
+September 2012 (Sauvion 2012). PCR amplification of
+phytoplasma DNA was achieved with universal ribo-
+somal primers fU5/rP7 (Lorenz et al. 1995; Schneider
+etal. 1995) as described in Jarausch et al. (2011) or with
+the 16SrX group specific primers fO1/rO1 as published
+by Lorenz et al. (1995). Identification of ‘Ca. P.
+prunorum’ was done as for plant samples with specific
+primers ESFY-f/ESFY-r as described by Yvon et al. (2009). Molecular typing of C. pruni
+
+Molecular typing of C. pruni specimen was done ac-
+cording to the protocol of Peccoud et al. (2013): the
+universal primer Cp480R (5’-TACATCCGAGGGTC,
+GGTATC-3’) was used in triplex PCR together with
+the group-A specific primer CpA300F (5’-
+GGCCAGTAGTTAAACCGGACT-3’) and the group-
+B specific primer CpB120F (3’-TCCACGGG
+GTCCGCGATA-S’). The PCR was performed in a final
+volume of 20 yl with 1x Taq polymerase buffer with
+2.5 mM MgCl2, 0.125 mM of each dNTP, 0.25 uM of
+each primer, 0.5 U of Sprime Taq polymerase (Sprime,
+Germany) and | ul of total insect DNA. PCR cycles
+were as follows: initial denaturation at 95 °C for 1 min
+followed by 35 cycles at 95 °C for 15 s, 65 °C for 20 s
+and 72 °C for 30 s, with a final 4-min extension period at
+72°C, PCR products were analysed on 2% agarose gel
+stained with ethidium bromide for visualization under
+UV light. Specific PCR products of C. pruni type A had
+asize of 172 bp, whereas PCR products of C. pruni type
+B had a size of 377 bp. Positive controls for C. pruni
+types were kindly provided by Nicolas Sauvion (INRA
+Montpellier). Results
+ESFY detection in plant samples
+
+In a first survey conducted in 2013 to 2014, plant
+samples were mainly obtained from cultured Prunus in
+stone fruit growing regions. Special attention was given
+to plants with typical ESFY symptoms like early bud
+break or chlorotic leaf roll, but plants with suspicious
+symptoms like pale leaves or non-chlorotic rolled
+leaves, were also sampled. In 2014, samples were also
+
+D Springer
+
+Eur J Plant Pathol
+
+taken from wild Prunus which is predominantly Prunus
+spinosa and less common P. cerasifera in Germany. In
+particular P. spinosa does not show any ESFY symp-
+toms. Therefore, samples were taken randomly from 5
+to 10 plants per site. Wild Prunus were sampled near
+stone fruit growing areas but mainly in regions without
+stone fruit growing in order to monitor the spread of
+ESFY all over Germany. In 2015 to 2017, special sur-
+veys were conducted in non-stone fruit growing areas,
+e.g. in the North and East of Germany. All samples were
+tested with 16SrX group-specific primers and ESFY-
+specific primers. Table | gives a summary of the results
+obtained for all 13 federal area states plus the city of
+Berlin. ESFY infection was detected at 133 out of 258
+sites in all states. More details about the sites and the
+results are given in Tab. S1. Table 2 shows an analysis of the data with respect to
+the cultured Prunus species. Apricot (P. armeniaca) is the
+major stone fruit damaged by ESFY also in Germany. Samples were obtained from eight federal states and
+showed a relatively high infection rate of 67%. Peach
+(P persica) is also very susceptible to ESFY but infection
+with ‘Ca. P. prunorum’ could only be confirmed in 36%
+of the samples. The third major ESFY-susceptible stone
+fruit crop in Germany is European plum (P. domestica). Although plum trees rarely show typical symptoms 43%
+of the samples tested positive. A special case is almond
+(P. amygdalus) which is grown in Southwest Germany
+for ornamental reasons. Almond trees show typical bud
+break symptoms and, accordingly, 100% of the samples
+were positive. Cherries are known to be fairly resistant to
+ESFY (Jarausch et al. 1999). Therefore, these crops were
+only sampled when suspicious symptoms were observed. These were chlorosis and sudden death of the plant. For
+the first time in Germany, ESFY infection in sweet cherry
+(P avium) could be confirmed by specific PCR. Surpris-
+ingly, wild non-symptomatic P. spinosa in the neighbor-
+hood of stone fruit orchards were found in 37% of the
+cases to be infected with ‘Ca. P. prunorum’. This result
+prompted us to test P. spinosa more systematically in wild
+habitats where no stone fruit growing areas were nearby. ESFY detection in insect samples
+
+“Ca. P. prunorum’ is transmitted only by one vector, the
+psyllid Cacopsylla pruni. The monitoring included
+therefore sampling of this vector for two reasons: 1)
+the distribution of C. pruni in Germany and thus the
+risk for ESFY spread should be elucidated, and 2) ESFY
+
+Eur J Plant Pathol
+
+Table 1 Summary of ESFY detection in plant samples
+
+ 
+
+ 
+
+  
+
+Federal state N° Ne Ne N° samples N° samples % Samples
+districts sites orchards tested ESFY positive ESFY positive
+
+Baden-Wiirttemberg 13 47 46 158 16 4B
+
+Bayern 12 1S 3 64 12 19
+
+Berlin 2 2 1 0 0
+
+Brandenburg 1 3 0 5 1 20
+
+Hessen 10 23 9 87 9 10
+
+Mecklenburg-Vorpommem 7 19 5 52 4 8
+
+Niedersachsen 14 46 12 128 22 17
+
+Nordrhein-Westfalen 3 6 5 24 16 61
+
+Rheinland-Pfalz ll 44 37 144 86 60
+
+Saarland 2 4 4 30 10 33
+
+Sachsen 7 nl 3 12 2 17
+
+Sachsen-Anhalt 4 14, 10 34 16 47
+
+Schleswig-Holstein 3 15 7 35 3 9
+
+Thiiringen 5 9 4 31 7 23
+
+Total 94 258 146 806 264 33
+
+ 
+
+infection in wild habitats far from stone fruits growing
+areas should be detected by the presence of ‘Ca. P.
+prunorum’ in the vector. It is known that the major
+natural host plant of C. pruni is P. spinosa (Lauterer
+1999; Carraro et al. 2002). Therefore, C. pruni was
+mainly captured on P. spinosa. A detailed list of the
+sampling sites is given in Tab. $2. Captures of C. pruni
+were predominantly done in 2014, only additional cap-
+tures were done between 2015 and 2017. Table 3 gives a
+summary of the C. pruni samples and the detection of
+
+Table 2. ESFY detection in different plant species
+
+“Ca. P. prunorum’ in these individuals. C. pruni was
+found in all 12 federal area states tested plus Berlin. No
+sampling could be conducted in Mecklenburg-
+Vorpommem for technical reasons but the presence of
+C. pruni in this state is highly probable. Therefore, it can
+be concluded that C. pruni is well established in every
+region of Germany as it was found at all 97 sites tested. In total, 3108 insects were captured and individually
+tested by PCR. By this the natural infection rate could
+be determined. It ranged between 0.8 and 2.0%. Species N° N°
+federal states orchards
+Cultured plants
+P.armeniaca 8 37
+P persica 6 33
+P. domestica 5 23
+P. salicina 2 2
+P.amygdalus 3 10
+P.avium 3 5
+P. serrulata 1 1
+
+Total 131
+Wild plants near fruit growing
+
+B. spinosa 6 23 sites
+
+NP samples N° samples % Samples
+tested ESFY positive ESFY positive
+146 98 67
+
+83 30 36
+
+46 20 43
+
+15 13 87
+
+17 17 100
+
+6 2 33
+
+1 1 100
+
+314 181 58
+
+38 17 37
+
+ 
+
+© Springer
+
+Eur J Plant Pathol
+
+Table 3 Summary of ‘Ca. P. prunorum’ detection in C. pruni samples
+
+ 
+
+ 
+
+Federal state N° Ng N° C. pruni N° C. pruni N° C. pruni Infection
+districts sites captured tested ESFY positive rate [%]
+
+Baden-Wiirttemberg 16 2B 1049 1049 18, 17
+Bayern 10 19 807 807 15 19
+Berlin 2 2 7 17 0 0
+Brandenburg 2 2 127 127 1 08
+Hessen 4 4 109 109 2 18
+Niedersachsen 1 1 7 7 0 0
+Nordrhein-Westfalen 6 7 166 166 2 1,2
+Rheinland-Pfalz 9 16 449 449 9 2.0
+Saarland 3 9 101 101 0 0
+Sachsen 5 6 32 32 0 0
+Sachsen-Anhalt 1 1 19 19 0 0
+Schleswig-Holstein 1 1 10 10 0 0
+‘Thiiringen 3 6 215 215 4 19
+Total 63 97 3108 3108 51 mean: 1,6
+
+ 
+
+However, infected C. pruni were only found at 30 out of
+97 sites. This was probably due to the low number of
+individuals captured at many sites (s. Tab. $2). In 2014,
+2516 remigrants were captured and 45 tested positive
+(1.8%) whereas only 481 emigrants could be captured
+from which 6 were positive (1.2%). A striking differ-
+ence was observed between both sexes in 2014: whereas
+males encountered only for one third of the captures
+they had an infection rate of 2.8% (30 positive out of
+
+Table. 4 Molecular determination of C. pruni type
+
+1077). Females were predominantly captured but only
+21 out of 1920 were infected (1.1%). Sauvion et al. (2007) and Peccoud et al. (2013)
+reported on two different molecular types of C. pruni
+which might even be two different species. Therefore, a
+representative number of C. pruni individuals was mo-
+lecularly typed as described by Peccoud et al. (2013). Table 4 gives a summary of the results. In total, 1163
+individuals representing 100 different sites across
+
+ 
+
+ 
+
+Federal state N° N° N° C. pruni
+districts sampled sites tested CC. pruni tested type
+Baden-Wiirttemberg 16 23 2i1 B
+Bayern 10 19 225 B
+Berlin 1 2 9 B
+Brandenburg 2 2 SI B
+Hessen 4 4 32 B
+Niedersachsen 1 1 7 B
+Nordrhein-Westfalen 6 7 84 B
+Rheinland-Pfalz 13, 20 344 B
+Saarland 3 9 64 63xB, IxA. Sachsen 5 6 22 B
+Sachsen-Anhalt 1 1 19 B
+Thiiringen 3 6 96 B
+Total 65 100 1164
+
+ 
+
+D Springer
+
+Eur J Plant Pathol
+
+Germany were of C. pruni B-type which is regarded to
+be the C. pruni reference type. However, for the first
+time in Germany an individual of C. pruni A-type was
+detected very close to the French border at Saarland. Distribution of ESFY in Germany
+
+The monitoring included plant and insect samples be-
+cause it offered also the opportunity to sample at differ-
+ent times during the year and, thus, to sample at more
+places. Insects were sampled from March to May when
+they are on their host plant and plant samples were
+sampled in summer until autumn when symptoms are
+visible. Additional plant samples were obtained during
+winter until early spring when bud break symptoms
+occur. Thus, to show the pervasive distribution of ESFY_
+in Germany, positive plant and insect data were merged. Fig. 1 shows the distribution of positive and negative
+sampling sites in Germany. It can be seen that ESFY is
+present all over the country independent of stone fruit
+growing regions. Distribution of ESFY in wild habitats
+
+One unexpected result of the monitoring was the nation-
+wide presence of ESFY in wild habitats. Table 5 shows
+the data for plant and insect samples obtained from wild
+habitats separately. It can be seen that ESFY is present in
+all 13 federal area states in natural environment. This is
+further demonstrated in Fig. 2 were all data of wild
+habitats are shown. A total number of 437 asymptomatic
+P. spinosa samples was analysed for these areas and
+14.4% of these samples were positive for ‘Ca. P.
+prunorum’, Natural infections of P. spinosa were found
+in every state where a substantial number of samples
+were collected. This signifies that ESFY is well
+established in the natural environment in Germany. It
+has been found at extreme places ranging from Alpine
+regions to coastal regions (s. Tab. $1). Accordingly,
+infected C. pruni were also detected in several states. The natural infection rate of C. pruni was 1.4%. In
+comparison, ‘Ca. P. prunorum’ infection in C. pruni
+captured on P. spinosa in fruit growing areas in 2014
+was 2.0% (27 positive out of 1366). The infection rate of
+C. pruni from commercial apricot and plum orchards
+was 1.2% (three out of 243 samples; s. Tab. $2). Addi-
+tional captures of C. pruni in an experimental apricot
+orchard with known ESFY spread at Neustadt
+(Rhineland-Palatinate) revealed an infection rate of
+
+remigrants of only 0.5% in 2014 (one out 192
+individuals). Discussion
+
+European stone fruit yellows is a quarantine disease
+which is regulated in Europe and other countries, It is
+reported from 11 EU and six non-EU countries (Steffek
+etal. 2012). None of these countries declares the disease
+to be ‘widespread’ probably because country-wide mon-
+itorings are missing. ESFY was first described in France
+(Chabrolin 1924) and a survey in France with molecular
+means showed that it was found in all areas tested
+(Jarausch et al. 1998). ESFY is well studied in southern
+countries with important apricot and peach growing
+where it causes large economic losses (Steffek et al. 2012), however, its distribution in northern countries
+with only local apricot growing areas is largely un-
+known. Germany is considered to be at the Northern
+border of ESFY distribution (Steffek et al. 2012). There-
+fore, the objective of the present work was to study with
+regard to the quarantine status of ESFY the nationwide
+distribution in Germany, in particular if ESFY-free re-
+gions exist in Germany or whether the disease is
+endemic. Although European stone fruit yellows was first de-
+scribed in Germany in 1992 (Lederer and Seemiiller
+1992), the distribution of this quarantine disease was
+largely unknown. We conducted first surveys since
+2000 in stone fruit orchards in Southwest Germany
+and found high infections in apricot orchards. ESFY
+was also detected in peach and European plum orchards
+as ell as in almond grown for flowering (Jarausch et al. 2007b, 2008). We also confirmed the presence of
+C. pruni in Germany and proved by transmission trials
+its vector capacity (Jarausch et al. 2007a, 2008). During
+these surveys ESFY was detected only in one case also
+in wild Prunus cerasifera adjacent to stone fruit or-
+chards. Thus, the question whether this quarantine path-
+ogen was introduced into the orchards by latently in-
+fected planting material or by natural spread from the
+wild habitats remained unanswered. To test for ESFY-free regions, samples were mainly
+obtained from non-stone fruit growing regions and wild
+habitats. As in addition cultured Prunus from orchards
+or planted cultivations like almonds for flowering were
+tested, the obtained result is a first nationwide overview
+of the distribution of ESFY in wild and cultured habitats. © Springer
+
+Eur J Plant Pathol
+
+ 
+
+‘Ca. P. prunorum’
+© negative
+e © BKG2018 Verwaltungsgrenzen Bundeslander
+positive
+
+Fig. 1 Distribution of plant and insect samples tested positive or negative by specific PCR for ‘Ca. P. prunorum’ in Germany
+
+Our data clearly demonstrate that ESFY is endemic in stone fruit growing. As the vector, C. pruni, is also
+Germany. It was not only found in major stone fruit widespread in Germany, a natural cycle of ESFY main-
+growing regions but also in wild habitats far from any tenance in wild Prunus is guaranteed. C. pruni is a
+
+D Springer
+
+Eur J Plant Pathol
+
+Table. 5 Detection of ‘Ca. P. prunorum’ in plant and/or insect samples at wild sites
+
+ 
+
+ 
+
+Federal state N? sites (plant and/or insect sample) sample N° samples N° samples % Samples
+type tested ESFY positive ESFY positive
+Baden-Wiirttemberg 16 P.spinosa 33 9 11.0
+Cpruni 356 0 0
+Bayem 28 P.spinosa 56 7 12,5
+Cpruni 685 14 2
+Berlin 1 Pspinosa 1 0 0
+Cpruni 4 0 0
+Brandenburg 3 P spinosa 4 0 0
+Cpruni 127 1 0.8
+Hessen 14 P spinosa. 72 5 69
+Cpruni 14 0 0
+Mecklenburg-Vorpommem 14 P.spinosa 40 3 15
+Niedersachsen 24 P. spinosa 101 12 19
+Cpruni 7 0 0
+Nordthein-Westfalen 7 P spinosa 9 4 444
+Cpruni 157 2 13
+Rheinland-Pfalz 10 P.spinosa 15 1 67
+C.pruni 282 7 25
+Saarland 8 P.spinosa 30 10 333
+Cprni 98 0 0
+Sachsen i P spinosa 8 1 12,5
+Cpruni 19 0 0
+Sachsen-Anhalt 4 P spinosa 18 5 218
+Schleswig-Holstein 1 Pspinosa 5 0 0
+Thiiringen 5 P spinosa 25 6 24,0
+Total 146 2186 87 40
+Total P. spinosa 437 63 144
+Total C. pruni 1749 24 14
+
+ 
+
+European and Central Asian species which is known
+from almost all of Europe (Lauterer 1999). ‘Ca. P.
+prunorum’ might have been introduced to Europe from
+Asia along with the susceptible Prunus species like
+apricot and peach but ESFY has never been reported
+outside Europe apart from Asia Minor and North Africa. Our data strongly support the hypothesis that ESFY is an
+endemic European disease with a natural cycle includ-
+ing wild Prunus. As these wild autochtonous European
+Prunus like P. spinosa and P. cerasifera are tolerant to
+the disease, a coevolution between pathogen and plant
+host can be assumed. In Germany, the dominant and
+most widespread wild Prunus species is P. spinosa. This
+plant does not show any symptoms of ESFY (Carraro
+
+et al. 2002; Jarausch et al. 2008; this work) but can be
+infected. It has to be regarded as less susceptible. In
+addition, it is the preferred host plant of C. pruni
+(Lauterer 1999) and accordingly, we found C. pruni on
+every P. spinosa tested — sometimes at high population
+densities. This is supported by data from Carraro et al. (2002), Yvon et al. (2004) or Maier et al. (2013). ESFY is widespread in wild habitats as we found in
+our random sampling a mean infection rate of about
+14% and a nationwide distribution of infected plants. This is in the range of local infection rates of wild
+P. spinosa reported from other countries: 25% infections
+were found in France (Jarausch et al. 1998) and Italy
+(Carraro et al. 2002), 12% in Austria (Maier et al. 2013)
+
+© Springer
+
+Eur J Plant Pathol
+
+ 
+
+‘Ca. P. prunorum’
+© negative
+© positive © BKG2018 Verwaltungsgrenzen Bundeslander
+
+Fig. 2. Distribution of ‘Ca. P. prunorum’ in wild habitats in Germany as revealed by specific PCR detection in plant and insect samples
+
+whereas Yvon et al. (2004) reported only 3% infected orchards such as apricot and peach. Although the pop-
+P. spinosa in Southeastern France. These plants repre- ulation densities of C. pruni on P. spinosa were quite
+sent a risk for infections of susceptible stone fruit high the individual infection rate of the insects ranged
+
+D Springer
+
+Eur J Plant Pathol
+
+only between 1 and 2%. This confirms our previous
+results (Jarausch et al. 2007a, b), only in heavily infected
+apricot orchards infection rates of up to 5% were found
+(Jarausch et al. 2007b). Similar low infection rates were
+observed in France by Jarausch et al. (2001), Yvon et al. (2004) and Thébaud et al. (2008) or in Bulgaria
+(Etropolska et al. 2015). By contrast, much higher in-
+fection rates were reported from Austria (Maier et al. 2013) and Italy (Carraro et al. 2004). Despite this low infection rate infected remigrants
+represent a high risk for susceptible stone fruit orchards
+as the univoltine species overwinters on conifers
+(Jarausch and Jarausch 2016; Gallinger and Gross
+2018) and remigrates to Prunus in early spring
+(Thébaud et al. 2009). At this time the individuals are
+highly infectious (Jarausch et al. 2007a; Thébaud et al. 2009) and the dispersal in the orchard is more or less
+randomly on a regional scale (Thébaud et al. 2006,
+2009). Accordingly, we found high infection rates in
+susceptible stone fruits like apricot and Japanese plum
+confirming previous data from Southwest Germany
+(Jarausch et al. 2007b, 2008) as well as from other
+countries (Marcone et al. 2010, 2011). Our nationwide
+data confirm also the relatively low infection rate of the
+highly susceptible peach (Jarausch et al. 1998, 2007a,
+2008). A new finding for Germany is ESFY infection of
+sweet cherry. In general, phytoplasma decline diseases
+of sweet and sour cherry remain unclear as different
+phytoplasmas have been found to be associated
+(Navratil et al. 2001; Paltrinieri et al. 2008; Cieslifska
+and Morgas 2011). An ESFY-related decline in sweet
+cherry was first observed in the Southwestern part of
+France and was called ‘Moliéres disease’ (Bernhard
+et al. 1977) but turned out by molecular means to be a
+stolbur type (Jarausch, personal comm.). However, ‘Ca. P. prunorum’ infection of sweet and sour cherry was
+confirmed in few declining trees in Czech Republic
+(Navratil et al. 2001; Ludvikova et al. 2011) and in
+North-Central Italy (Paltrinieri et al. 2001). In contrast,
+experimental inoculations of thirteen sweet cherry cul-
+tivars with ‘Ca. P. prunorum’ demonstrated a high level
+of resistance in P. avium (Jarausch et al. 1999). We
+found two isolated cases of sudden decline in sweet
+cherry and could confirm infection with ‘Ca. P.
+prunorum’ with ESFY-specific primers. This indicates
+rather a hypersensitivity to ‘Ca. P. prunorum’ than a
+high resistance. Sauvion et al. (2007) and Peccoud et al. (2013)
+hypothesised the existence of two species of C. pruni
+
+based on genetic analyses. These two C. pruni types A
+and B can easily be distinguished by a triplex PCR. However, it remains unclear whether both types can
+transmit ‘Ca. P. prunorum’ as transmission trials have
+been conducted before the identification of the two
+types. In Southern France both types coexist and might
+have been used in transmission trials (Peccoud et al. 2013). We made an exhaustive molecular typing of the
+C. pruni captured all over Germany and found with one
+exception only C. pruni B-type. The exception is a
+recent finding of A-type next to the French border. The
+A-type was for the first time found in a northern country
+outside of France. We therefore can conclude that our
+previous transmissi
+the B-type. The B-type is also the dominant type across
+Europe (Peccoud et al. 2013) and has been recently
+reported to be the only type found in Bulgaria
+(Etropolska et al. 2016). Also the phytoplasma is not homogenous. Multilocus
+sequence typing (MLST) of the marker genes imp, aceF,
+pnp and secY revealed at least 34 different haplotypes
+within the species ‘Ca. P. prunorum’ (Danet et al. 2011). Moreover, differences in strain virulence were described
+by Kison and Seemiiller (2001) and others. Danet et al. (2011) and recently Dermastia et al. (2018) could corre-
+late the aceF type A6 to hypo-virulent strains which
+induce no or only mild symptoms in Prunus. We con-
+tributed 22 German isolates covering 5 stone fruit grow-
+ing regions with 16 apricot or peach orchards to the
+MLST analysis of Danet et al. (2011). Eight different
+haplotypes of ‘Ca. P. prunorum’ were identified. The
+main haplotype aceF A3-pnp P1-imp I1-secY $1 was
+found in all regions and was identified by Dermastia
+et al. (2018) as founder haplotype of ‘Ca. P. prunorum’. The dominant aceF types in Europe (A3 and A8) were
+also dominant in German isolates. The major imp type
+IL in Europe accounted also for 77% of the German
+isolates. By contrast, the two A6 types identified in the
+analysis originated both from symptomatic trees indi-
+cating that this marker alone is not sufficient to charac-
+terize hypo-virulent strains (Dermastia et al. 2018). We
+conclude that the genetic variability of the German
+isolates of ‘Ca. P. prunorum’ has no impact on our
+results as it does not differ from other European regions. We believe that our results are representative for
+central European countries. E.g., ESFY has been report-
+ed to be widely present in Czech Republic (Navratil
+et al. 2001) and Poland (Cieslifska 2011). There is no
+reason to exclude natural ESFY infections also in
+
+ 
+
+ 
+
+n trials have been carried out with
+
+ 
+
+ 
+
+© Springer
+
+northern countries like Scandinavian countries where
+P. spinosa and C. pruni are present (Steffek et al. 2012). Thus, ESFY should no longer be regarded as a
+quarantine pest. Our results have also important conse-
+quences for the protection of orchards planted with
+susceptible crops like apricot and peaches. Infection
+sources are not only infected trees inside the orchard
+but have to be looked for rather outside in the wild
+environment. Control of incoming C. pruni remigrants
+in spring is therefore of paramount importance. Acknowledgements The nationwide monitoring was supported
+from 2013 to 2014 by a fund provided by the Julius Kithn-Institute
+(IKI) for national and intemational Plant Health. A. Etropolska
+was supported by a DAAD grant. The production of the distribu-
+tion maps by Peter Homey (JKI Kleinmachnow) is greatly ac-
+knowledged. The authors would like to thank the following staff
+members of the German Plant Protection Services and the JKI for
+providing plant and insect samples:
+
+Hans-Dieter Beuschlein, Wemer Dahlbender, Uwe Dederichs,
+Conni Dippel, Paul Epp, Michael Fischbach, Peter Gobel, Uwe
+Harzer, Manfred Hellmann, Georg Henkel, Giinther Hensel,
+Anne-Kathrin Hentsch, Armin Hofhansel, Stefanie Lapcik. Eveline Maring, Maureen Méwes, Sigrid von Norsinski, Eva
+Satzl, Elfie Schell, Franz-Josef Scheuer, Manfred Schréder, Bemd
+Schumacher, Sonja Schurig, Gerhard Steinecke, Silke Steinméller,
+Martin Trautman, Katrin Veit, Elke Weddell, Anne Wilstermann
+and Simone Wittke. Funding This study was supported from 2013 to 2014 by a fund
+provided by the Julius Kiihn-Institute (JKD) for national and inter-
+national Plant Health, Work conducted from 2015 to 2017 was
+funded by RLP AgroScience itself. A. Etropolska was supported
+by aDAAD grant,
+
+Compliance with ethical standards The manuscript has not
+been submitted to another joumal for simultaneous consideration. ‘The manuscript has not been published previously. However, a
+conference abstract on preliminary data has been published in
+2014. This abstract does not contain any concrete data. Thus, the
+present manuscript contains the entire data which are true and
+accurate to the knowledge of the authors. A single study is not split up into several parts to increase the
+quantity of submissions and submitted to various journals or to one
+joumal over time,
+
+Any work (data, text, or theories) of others besides the authors
+has been properly acknowledged. All authors (including their responsible authorities) listed in the
+title page agreed to be named as authors on this manuscript. Authors whose names appear on the submission have contrib-
+uted sufficiently to the scientific work and therefore share collec-
+tive responsibility and accountability for the results. Authors ensure the correct author group, corresponding author,
+and order of authors at submission. Authors are aware that changes of authorship or in the order of
+authors are not accepted after acceptance of a manuscript. D Springer
+
+Eur J Plant Pathol
+
+Authors are aware that upon request they should be prepared to
+send relevant documentation or data in order to verify the validity
+of the results
+
+Authors are aware of the COPE guidelines. Conflict of interest The authors declare that they have no con-
+flict of interest. Informed consent _ Informed consent was obtained from all in-
+dividual participants included in the study,
+
+References
+
+Allahverdi, T., Rahimian, H., & Babaeizad, V. (2014). Association
+of Candidatus Phytoplasma prunorum associated with plum
+yellow leaf stunt in Iran. Iranian Journal of Plant Pathology. 50(2), 185
+
+Anonymous. (2000). Council directive 2000/29/EC of 8
+May 2000 on protective measures against the introduction
+into the community of organisms harmful to plants and plant
+products and against their spread within the community. Official Journal of the European Communities, L 169, 1-112. Ben Khalifa, M., Aldaghi, M., Hacheche, H., Kummert, J.
+Marrakchi, M., & Fakhfakh, H. (2011). First report of
+*Candidatus Phytoplasma prunorum’ infecting apricots in
+Tunisia. Journal of Plant Pathology, 93(2), 517-519. Bemhard, R., Marénaud, C., Eymet, J., Fos, A., & Moutous, G.
+(1977). Une maladie complexe de certains Prunus: «Le
+dépérissement de Moliéres». Comptes Rendus de
+l' Académie d'Agriculture de France, Séance, 2(2), 178-189. Burckhardt, D. & Jarausch, W. (2007). Pictorial key of central
+European Cacopsylla species associated with Rosaceae.-
+Online: hitp://wwwpsyllidkey.eu. Accessed 10 Jan 2019. Carraro, L., Osler, R., Loi, N., Ermacora, P., & Refatti, E. (1998),
+Transmission of European stone fruit yellows phytoplasma
+by Cacopsylla pruni. Journal of Plant Pathology, 80, 233—
+239. Carraro, L., Ferrini, F., Ermacora, P., & Loi, N. (2002). Role of
+wild Prunus species in the epidemiology of European stone
+fruit yellows. Plant Pathology, 51, 513-517. Carraro, L., Ferrini, F., Labonne, G., Ermacora, P., & Loi, N.
+(2004), Seasonal infectivity of Cacopsylla pruni, vector of
+European stone fruit yellows phytoplasma. Annals of Applied
+Biology, 144, 191-195. Chabrolin, C. (1924). Quelques maladies des arbres fru
+Vallée du Rhéne. Annales Epiphytes, 10, 265-333. CieSlifiska, M. (2011). European stone fruit yellows disease and its
+causal agent ‘Candidatus Phytoplasma prunorum’. Journal
+of Plant Protection Research, 51(4), 441-447. CieSlifiska, M., & Morgaé, H. (2011). Detection and identification
+of *Candidatus Phytoplasma prunorum’, ‘Candidatus
+Phytoplasma mali’ and ‘Candidatus Phytoplasma pyri’ in
+stone fruit trees in Poland. Journal of Phytopathology,
+159(4), 217-222. Danet, J. L., Balakishiyeva, G., Cimerman, A., Sauvion, N..
+Marie-Jeanne, V., Labonne, G., Laviiia, A., Battle, A.,
+
+ 
+
+rs de la. Eur J Plant Pathol
+
+Krizanac, I., Skorié, D., Ermacora, P., Ulubas Serge, C.,
+Caglayan, K., Jarausch, W., & Foissac, X. (2011). Multilocus sequence analysis reveals the genetic diversity
+of European fiuit tree phytoplasmas and supports the exis-
+tence of inter-species recombination. Microbiology, 157(2),
+438-450. Davies, D. L., & Adams, A. N. (2000). European stone fruit
+yellows phytoplasmas associated with a decline disease of
+apricot in southern England. Plant Pathology, 49, 635-639. Dermastia, M., Dolane, D., Mlinar, P., & Mehle, N. (2018). Molecular diversity of “Candidatus Phytoplasma mali’ and
+“Ca. P. prunorum’ in orchards in Slovenia, European Journal
+of Plant Pathology, 152, 791-800. Etropolska, A., Jarausch, W., Jarausch, B., & Trenchev, G. (2015). Detection of European fruit tree phytoplasmas and their
+insect vectors in important fruit-growing regions in
+Bulgaria. Bulgarian Journal of Agricultural Science, 21,
+1248-1253. Etropolska, A., Jarausch, W., Jarausch, B., & Trenchev, G. (2016). Molecular typing of Bulgarian specimen of the phytoplasma
+vectors Cacopsylla pruni Scopoli and Cacopsylla
+melanoneura (Foerster). Bulgarian Journal of Agricultural
+Science, 22, 98-102. Gallinger, J., & Gross, J. (2018). Unraveling the host plant alter-
+nation of Cacopsylla pruni — Adults but not nymphs can
+survive on conifers due to phloem/xylem composition. Frontiers in Plant Science, 9, 484, https://doi.org/10.3389
+/fpls.2018.00484. Jarausch, W., & Jarausch, B. (2016). A permanent rearing system
+for Cacopsylla pruni, the vector of *Candidatus Phytoplasma
+prunorum’. Entomologia Experimentalis et Applicata, 159,
+112-116. Jarausch, W., Lansac, M., Saillard, C., Broquaire, J.M., & Dosba,
+F, (1998). PCR assay for specific detection of European stone
+fiuit yellows phytoplasmas and its use for epidemiological
+studies in France. European Journal of Plant Pathology,
+104(1), 17-27. Jarausch, W., Eyquard, J. P., Mazy, K., Lansac, M., & Dosba, F.
+(1999). High level of resistance of sweet cherry (Prunus
+avium L.) towards European stone fruit yellows
+phytoplasmas. Advances in Horticultural Science, 13, 108-
+112. Jarausch, W., Saillard, C., Broquaire, J. M., Gamier, M., & Dosba,
+F. (2000). PCR-RFLP and sequence analysis of a non-
+ribosomal fragment for genetic characterization of European
+stone fruit yellows phytoplasmas infecting various Prunus
+species. Molecular and Cellular Probes, 14, 171-179. Jarausch, W., Danet, J. L., Labonne, G., Dosba, F., Broquaire, J.
+M., Saillard, C., & Garnier, M. (2001). Mapping the spread of
+apricot chlorotic leaf roll (ACLR) in southern France and
+implication of Cacopsylla pruni as a vector of European
+stone fiuit yellows (ESFY) phytoplasmas. Plant Pathology,
+50, 782-790. Jarausch, B., Fuchs, A., Miihlenz, I., Lampe, I, Harzer, U., &
+Jarausch, W. (2007a). Research on European stone fruit
+yellows in Germany. Bulletin of Insectology, 60(2), 389-390. Jarausch, B., Miihlenz, L, Fuchs, A., Lampe, 1, Harzer, U., &
+Jarausch, W. (2007b). Untersuchungen zur Europiiischen
+Steinobstvergilbung (ESFY) in Deutschland. Gesunde
+Pflanzen, 59, 183-192. Jarausch, B., Mithlenz, I., Beck, A., Lampe, I., Harzer, U., &
+Jarausch, W. (2008). Epidemiology of European stone fruit
+yellows in Germany. Acta Horticulturae, 781, 417-422. Jarausch, B., Schwind, N., Fuchs, A., & Jarausch, W. (2011). Characteristics of the spread of apple proliferation by its
+vector Cacopsylla picta. Phytopathology, 101, 1471-1480. Jarausch, B., Sauvion, N., & Jarausch, W. (2013). Spread of
+European fruit tree phytoplasma diseases. Phytopathogenic
+Mollicutes, 3(1), 25-30. Kison, H., & Seemiiller, E. (2001). Differences in strain virulence
+of the European stone fruit yellows phytoplasma and suscep-
+tibility of stone fruit trees on various rootstocks to this path-
+ogen. Journal of Phytopathology, 149(9), 533-541. Lauterer, P. (1999). Results of investigations on Hemiptera in
+Moravia, made by Moravian Museum (Psylloidea 2). Acta
+Musei Moraviae, Scientiae Biologicae (Brno), 84, 71-151
+
+Lederer, M., & Seemiiller, E. (1992). Demonstration of mycoplas-
+mas in Prunus species in Germany. Journal of
+Phytopathology, 134(2), 89-96. Lorenz, K.-H., Dosba, F., Poggi-Pollini, C., Llacer, G., &
+Seemiiller, E. (1994), Phytoplasma diseases on Prunus spe-
+cies in Europe are caused by genetically similar organisms. Zeitschrift fir Pflanzenkrankheiten und Pflanzenschutz, 101,
+567-575. Lorenz, K. H., Schneider, B., Ahrens, U., & Seemiiller, E. (1995). Detection of the apple proliferation and pear decline
+phytoplasmas by PCR amplification of ribosomal and
+nonribosomal DNA. Phytopathology, 85, 771-776. Ludvikova, H., Franova, J., & Jana Sucha, J. (2011). Phytoplasmas in apricot, peach and sour cherry orchards in
+East Bohemia, Czech Republic. Bulletin of Insectology,
+64(Supplement), S67-S68. Maier, C., Bachinger, K., Mértel, J., Engel, C., Czipin, L., &
+Riedle-Bauer, M. (2013). European stone fruit yellows in
+Austria: Epidemiological observations and a mark and recap-
+ture experiment tracking the dispersal of its vector
+Cacopsylla pruni (Hemiptera: Psyllidae) in a model apricot
+orchard. Journal of Phytopathology, 161, 713-722. Marcone, C., Jarausch, B., & Jarausch, W. (2010). Candidatus
+Phytoplasma prunorum’, the causal agent of European stone
+fruit yellows: An overview. Journal of Plant Pathology, 92,
+19-34. Mareone, C., Jarausch, B., Jarausch, W., & Dosba, F. (2011). European stone fruit yellows phytoplasma, In A. Hadidi,
+M. Barba, T. Candresse, & W. Jelkmann (Eds. ), Virus and
+virus-like diseases of pome and stone fruits (pp. 233-241). St.
+Paul: APS press ISBN 978-0-89054-396-2. Navratil, M., Valova, P., Fialova, R., Petrova, K., Poncarova-
+Voritkova, Z., Frinovd, J., Nebesatova, J., & KareSova, R.
+(2001). Survey for stone fruit phytoplasmas in the
+Czech Republic. Acta Horticulturae, 550, 377-382. Ossiannilsson, F. (1992). The Psylloidea (Homoptera) of
+Fennoscandia and Denmark. Fauna Entomologica
+Scandinavica, 29, \-346. Paltrinieri, S., Martini, M., Stefani, E., Fideghelli, C., Pondrelli,
+M., & Bertaccini, A. (2001). Phytoplasma infection in peach
+and cherry in Italy. Acta Horticulturae, 550, 365-369. Paltrinieri, S., Bertaccini, A., & Lugaresi, C. (2008). Phytoplasmas
+in declining cherry plants. Acta Horticulturae, 781, 409-416. Peccoud, J., Labonne, G., & Sauvion, N. (2013). Molecular test to
+assign individuals within the Cacopsylla pruni complex. © Springer
+
+PLoS One, 8(8), €72454. https://doi.org/10.1371 journal. pone.0072454,
+
+Sabaté, J., Laviiia, A., & Batlle, A. (2015). Incidence and distri-
+bution of ‘Candidatus Phytoplasma prunorum’ and its vector
+Cacopsylla pruni in Spain: An approach to the epidemiology
+of the disease and the role of wild Prunus. Plant Pathology,
+65(5), 837-846. Sauvion, N. (2012). Minutes of the training school for molecular
+identification of psyllid vectors, Montpellier. (http://www. costphytoplasma.ipwgnet.org/WG2.htm). Accessed 10
+Jan 2019
+
+Sauvion, N., Lachenaud, O., Genson, G., Rasplus, J.-Y., &
+Labonne, G. (2007). Are there several biotypes of
+Cacopsylla pruni? Bulletin of Insectology, 602), 185-186. Schneider, B., Seemiiller, E., Smart, C. D., & Kirkpatrick, B. C.
+(1995). Phylogenetic classification of plant pathogenic
+mycoplasma-like organism or phytoplasmas. In S. Razin &
+J. G. Tully (Eds. ), Molecular and diagnostic procedures in
+Mycoplasmology (pp. 369-380). San Diego: Academic
+Press. Seemiiller, E., & Schneider, B. (2004). Candidatus Phytoplasma
+mali’, ‘Candidatus Phytoplasma pyri’ and Candidatus
+Phytoplasma prunorum’, the causal agents of apple prolifer-
+ation, pear decline and European stone fruit yellows, respec-
+tively. International Journal of Systematic and Evolutionary
+Microbiology, 54, 1217-1226. Sertkaya, G., Martini, M., Ermacora, P., Musetti, R., & Osler, R.
+(2005). Detection and characterization of phytoplasmas in
+diseased stone fruits and pear by PCR-RFLP analysis in
+Turkey. Phytoparasitica, 33(4), 380-390. Steffek, R., Follak, S., Savion, N., Labonne, G., & MacLeod, A. (2012). Distribution of ‘Candidatus Phytoplasma prunorum’
+and its vector Cacopsylla pruni in European fruit-growing
+areas: A review. EPPO Bulletin, 42(2), 191-202. D Springer
+
+Eur J Plant Pathol
+
+Tedeschi, R., Jarausch, B., Delic, D., & Weintraub, P. (2013). ‘Actual distribution of fruit tree and grapevine phytoplasma
+diseases and their vectors in Europe and neighboring regions. Phytopathogenic Mollicutes, 3(1), 3-4. Thébaud, G., Sauvion, N., Chadocut, J., Dufils, A., & Labonne, G.
+(2006). Identifying risk factors for European stone fruit yel-
+lows from a survey. Phytopathology, 9, 890-899. Thébaud, G., Yvon, M., Labonne, G., & Alary, R. (2008). European stone fruit yellows: Consequences of the life cycle
+of the vector and of the multiplication of the phytoplasma in
+the insect on the epidemiology of the disease. Acta
+Horticulturae, 781, 423-428. Thébaud, G., Yvon, M., Alary, R., Sauvion, N., & Labonne, G.
+(2009). Efficient transmission of ‘Candidatus Phytoplasma
+prunorum’ is delayed by eight months due to a long latency
+in its host-altenating vector. Phytopathology, 99, 265-273
+
+Ulubas Serge, ¢., Gazel, M., Caglayan, K., Bas, M., & Son, L.
+(2006). Phytoplasma diseases of fruit trees in germplasm and
+commereial orchards in Turkey. Journal of Plant Pathology,
+88(2), 179-185
+
+Valasevich, N., & Schneider, B. (2016). Detection, identification
+and molecular diversity of *Candidatus Phytoplasma
+prunorum’ in Belarus. Journal of Plant Pathology, 98(3),
+625-629. Yvon, M., Labonne, G., & Thébaud, G. (2004). Survival of
+European stone fiuit yellows phytoplasma outside fruit crop
+production areas: A case study in southeastern France, Acta
+Horticulturae, 657, 477-481. ‘Yvon, M., Thébaud, G., Alary, R., & Labonne, G. (2009). Specific
+detection and quantification of the phytopathogenic agent
+*Candidatus Phytoplasma prunorum’. Molecular and
+Cellular Probes, 23(5), 227-234.

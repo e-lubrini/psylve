@@ -1,0 +1,2579 @@
+@e BioOne COMPLETE
+
+ 
+
+The jumping plant-lice (Hemiptera: Psylloidea) of
+Belarus
+
+Authors: Serbina, Liliya, Burckhardt, Daniel, and Borodin, Oleg
+Source: Revue suisse de Zoologie, 122(1) : 7-44
+
+Published By: Muséum d'histoire naturelle, Genéve
+
+URL: https://doi.org/10.5281/zenodo. 14578
+
+ 
+
+BioOne Complete (complete.BioOne.org) is a full-text database of 200 subscribed and open-access titles
+in the biological, ecological, and environmental sciences published by nonprofit societies, associations,
+museums, institutions, and presses. Your use of this PDF, the BioOne Complete website, and all posted and associated content indicates your
+acceptance of BioOne’s Terms of Use, available at www.bioone.org/terms-of-use. Usage of BioOne Complete content is strictly limited to personal, educational, and non - commercial use. Commercial inquiries or rights and permissions requests should be directed to the individual publisher as
+copyright holder. BioOne sees sustainable scholarly publishing as an inherently collaborative enterprise connecting authors, nonprofit
+publishers, academic institutions, research libraries, and research funders in the common goal of maximizing access to
+critical research. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Revue suisse de Zoologie (mars 2015) 122 (1): 7-44
+
+ISSN 0035-418
+
+The jumping plant-lice (Hemiptera: Psylloidea) of Belarus
+
+Liliya Serbina'*, Daniel Burckhardt! & Oleg Borodin*
+
+Switzerland
+
+Naturhistorisches Museum, Augustinergasse 2, CH-4001 Basel, Switzerland
+Institut fiir Natur-, Landschafis- und Umweltschutz an der Universitat Basel, St. Johanns-Vorstadt 10, CH-4056 Basel,
+
+National Academy of Sciences, Akademicheskaya street 27, 220072 Minsk, Belarus
+
+Corresponding author: Liliya Serbina. E-mai
+
+  
+
+erbina@unibas.ch, liliya_serbina@mail.ru
+
+Abstract: A checklist of the known psyllids of Belarus is given: 12 species (one of them doubtful) have been previously
+reported and 43 species are added here, bringing the number of confirmed species to 54. The psylloid fauna of the coun-
+try remains poorly known. Based on information from surrounding countries, another 73 species can be expected. An
+illustrated identification key is provided for the 127 species whose occurence in Belarus has been confirmed or is likely. Keywords: Psyllids - Sternorrhyncha - host-plants - faunistics - identification key - Europe - Palaearctic Region. INTRODUCTION
+
+Jumping plant-lice or Psylloidea, a superfamily of Ster-
+norrhyncha, are plant-sap sucking insects (Photo 1). Most psyllid species are associated with dicotyledonous
+plants, and are usually highly host-plant specific. At
+present there are almost 4000 described psyllid species
+world-wide (Li, 2011) representing probably less than
+half of the actually existing species number. Despite the
+fact that psyllids are most species-rich in the tropics and
+south temperate regions, the west Palaearctic fauna is
+the one which is best studied with around 400 species
+reported from Europe (Burckhardt, 2004). The study of
+Eastern European psyllids was initiated by Flor (1861)
+with a survey on the fauna of Livonia followed by a large
+number of publications dealing with the European part
+of the former Soviet Union (Gegechkori & Loginova,
+1990). The information on the psyllid fauna of Belarus is, how-
+ever, scarce with only 12 recorded species of which
+one is doubtful (Loginova, 1961, 1962b; Palyakova,
+1969; Byazdzenka et al., 1973; Gorlenko et al., 1988;
+Sidlyarevich & Bolotnikova, 1992; Petrov, 2004, 2011;
+Petrov et al., 2011; Petrov & Sautkin, 2013). In the last 15 years psyllids were collected in all admi-
+nistrative regions of Belarus, mostly as by-catch of an
+Auchenorrhyncha survey. The aim of the present paper is
+to provide an updated checklist of psyllids from Belarus
+based on literature data and recently collected material. We also provide an illustrated identification key for
+the species recorded and those potentially occurring in
+Belarus, as the existing keys are outdated or incomplete. Manuscript accepted 28.07.2014
+DOT: 10.5281/zenodo.14578
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+MATERIAL AND METHODS
+
+Unless stated otherwise, the material was collected by
+O. Borodin, is dry mounted and deposited in the Labo-
+ratory of Terrestrial Invertebrates of the State Science
+and Production Association “Research and Practical
+Centre of the National Academy of Sciences of Belarus
+for Bioresources” (Gosudarstvennoye Nauchno-Proiz-
+vodstvennoye Ob‘yedineniye “Nauchno-Prakticheskiy
+Tsentr Natsional‘noy Akademii Nauk Belarusi po Biore-
+sursam”) in Minsk. Material from the Naturhistorisches
+Museum, Basel (Switzerland) was examined for compa-
+rison. For the transliteration of names and organisations from
+the Cyrillic to the Latin alphabet the BGN/PCGN system
+was used. Morphological terminology mainly follows Ossiannilsson
+(1992), Hollis (2004) (wing venation) and Burckhardt
+(2010). Botanical nomenclature and classification
+follows Sautkina et al. (1999). Additional information on
+psyllid host-plants is available in Ossiannilsson (1992)
+and Ouvrard (2014). Generally useful identification
+keys are by Loginova (1964), Klimaszewski (1975)
+and Ossiannilsson (1992), though they are more or less
+outdated and should be used with caution. Photos and
+drawings were prepared from slide mounted specimens
+located in the Naturhistorisches Museum, Basel. Photos were made with KEYENCE VHX-2000 digital
+microscope. 8 L. Serbina, D. Burckhardt & O. Borodin
+
+ 
+
+Photo 1. Living Livia junci, photo kindly provided by Gernot Kunz. Following abbreviations are used:
+Checklist: BSU — Belarusian State University, MKAD —
+Minsk automobile ring road (Minskaya kol'tsevaya avto-
+mobil‘naya doroga). Identification key: AEL — length of distal portion of
+aedeagus, ALHW — antenna length ; head width ratio,
+FPHW — female proctiger length : head width ratio, MP
+— male proctiger length. SYSTEMATIC ACCOUNT
+
+Checklist
+The checklist is alphabetical using the classification of
+Burckhardt & Ouvrard (2012). Aphalaridae
+Aphalarinae
+Aphalara affinis (Zetterstedt, 1828)
+
+Material examined: Minsk: | adult without abdomen,
+Molodechno district, nr Myasota, 6.ix.2002. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Aphalara avicularis Ossiannilsson, 1981
+
+Material examined: Brest: | 9, Stolin district, Belousha,
+15.viii.2005. Comments: The record of A. polygoni by Loginova
+(1961) from the Vitebsk region may concern A. avicu-
+laris or A. freji. Without revising the original material it is
+not possible to decide which species is concerned. Aphalara freji Burckhardt & Lauterer, 1997
+
+Material examined: Gomel’: 13, Lel’chitsy district,
+0.5 km NE Krasnoberezh’ye, river Ubort’ floodplain,
+5.viii.2004. — Minsk: 12, Minsk district, Shchemyslitsy,
+Dubrava Natural Monument, 26.ix.2013, on conifers
+(L. Serbina). — 33, same but nr Aksakovshchina, Wild-
+life sanctuary Podsady, 28.ix.2013, mixed forest. — 53,
+12, same but nr Tarasovo, nr Gardeners’ partnership
+Zvezdnoye, 29.ix.2013. Comments: The record of A. polygoni by Loginova
+(1961) from the Vitebsk region may concern A. avicula-
+ris or A. freji. Without revising the original material it is
+not possible to decide which species is concerned. Jumping plant-lice of Belarus 9
+
+Craspedolepta crispati Lauterer & Burckhardt, 2004
+
+Material examined: Minsk: 4<, 22, Volozhin district,
+Rakovy, 28.vii.1997, meadow. Craspedolepta flavipennis (Foerster, 1848)
+
+Material examined: Minsk: 19, Myadel’ district,
+Logoviny, train station, 5.vii.2009, meadow (L.
+Serbina). Craspedolepta latior Wagner, 1944
+
+Material examined: Minsk: 23, 12, Minsk district,
+river Ptich’ bank, nr train station Ptich’, 15.vii.2009
+(L. Serbina). — 19, same but Molodechno district, nr
+Vyazynka, canal bank, 9.vii.2002. — 114, 272, same but
+Myadel’ district, Logoviny, nr train station, 5.vii.2009,
+meadow (L. Serbina). — 13, 19, same but nr Naroch’,
+9.vii.2009. Craspedolepta malachitica (Dahlbom, 1851)
+
+Material examined: Gomel’: 12, Kalinkovichi dis-
+trict, 0.5 km E Turovichi, 23.vii.2005, dry meadow,
+on Artemisia sp. — Grodno: | adult without abdomen,
+Mosty district, 3.5 km NW Peski, river Zel’vyanka
+floodplain, 24.vi.2005 (Y. Gerashchenko). — Minsk:
+42, Minsk district, Shchemyslitsy, Dubrava Natural
+Monument, 15.v.2008 (L. Serbina). — 22, same but river
+Ptich’ bank, nr train station Ptich’, June 2008. — 192,
+same but Molodechno district, nr Povyazyn’, 1.vii.2001. — 24, same but nr canal bank, 9.vi.2002. — 14, same but
+nr Radoshkovichi, slope Minsk-Vileyka channel system,
+22.vi.2005. — 12, same but nr Sitsevichi, 12.vii.2005,
+pine forest (A. Egiyan). — 24, 62, same but river
+Udranka bank, nr bus stop, 14.vii.2009 (L. Serbina). — 1d, 22, same but Myadel’ district, nr Naroch’,
+2.vii.2009. — 104, 249, same but Logoviny, nr train
+station, 5.vii.2009. — 842, 992, same but nr Naroch’,
+9.vii.2009. — 1, same but Volozhin district, nr Kaldyki,
+11.vii.2007, mixed forest. — Vitebsk: 22, Lepel’ dis-
+trict, nr Domzheritsy, nr boarding school and pond,
+31.vii.2001, on Artemisia dracunculus. — 12, same
+but river Buzyanka, 300 m upstream from boat station,
+1.viii.2001. Craspedolepta nervosa (Foerster, 1848)
+Material examined: Grodno: 12, Mosty district, 3.5 km. NW Peski, 24.vi.2005, river Zel’vyanka floodplain. —
+Minsk: 12, Borisov district, 2 km NW Peresady, nr train
+station “Proletarskaya pobeda”, lowland, 6.viii.2002,
+pine forest. — 12, same but Logoysk district, nr Besyady,
+river Udra floodplain, 26.vi.2002. — 12, same but Kupa-
+
+   
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+lovskiy National Park, nr Lekarovka, 7.vii.2004, dry
+meadow. — 4, 32, same but 0.5 km SW Matski, hill,
+meadow. — 12, same but Minsk district, nr train station
+Kryzhovka, 3.vi.2001, meadow in pine forest. — 13, 19,
+same but nr Chirovichi, 9.vi.2002, dry meadow. — 14,
+same but Shchemyslitsy, nr Biological Faculty, BSU,
+18.vi.2002. — 12, same but Dubrava Natural Monu-
+ment, 19.vi.2002. — 12, same but nr Biological Faculty,
+BSU, 1.vii.2002. — 14, 32, same but 19.vi.2006 (L. Ser-
+bina). — 13, same but Molodechno district, nr Vyazynka,
+16.vi.2001, dry meadow. — 12, same but 2.vii.2001. — 13, same but 0.5 km E Vyazynka, hill, 3.vii.2001. —
+1d, same but nr Vyazynka, canal bank, 12.vi.2002. —
+14, 39, nr Shipulichi, river Zapadnaya Berezina bank,
+27.vi.2002. — 14’, same but river Udranka bank, nr bus
+stop, 14.vii.2009 (L. Serbina). — 13, 19, same but Mya-
+del’ district, nr Naroch’, 2.vii.2009. — 24, 39, same but
+Logoviny, nr train station, S.vii.2009, meadow. — 33;
+same but 0.5 km S$ Nikol’tsy, Gomza Dendrological Gar-
+den, 6.vii.2009. — 13, 12, same but Soligorsk district,
+7 km from Soligorsk, 24.vi.2004 (A. Egiyan). — 19,
+same but 25.vi.2004. — 19, same but Stolbtsy district, nr
+train station Kolosovo, 26.v.1993, field in front of pine
+forest (V. Karasev). — Vitebsk: 23, 29, Gorodok district,
+17.vi.2008, dry meadow, on Achillea millefolium. Craspedolepta omissa Wagner, 1944
+
+Material examined: Minsk: 12, Logoysk district,
+Kupalovskiy National Park, nr Lekarovka, 7.vii.2004,
+dry meadow. — 19, same but Minsk district, 2 km NE
+Shchemyslitsy, along train station, 12.vii.2005, forest
+plantation. — 23, 19, same but river Ptich’ bank, nr
+train station Ptich’, 15.vii.2009 (L. Serbina). — 22,
+same but Botanical Garden (Minsk), 16.vii.2009. —
+1g, same but Molodechno district, nr Vyazynka, sta-
+tion, hill, 3.vii.2001. — 24, 22, same but nr station
+Shipulichi, 27.vi.2002, river Zapadnaya Berezina bank,
+on Artemisia sp. — 14, same but Myadel’ district, nr
+Naroch’, 2.vii.2009 (L. Serbina). — 63, 102, same but
+Logoviny, nr train station, 5.vii.2009. — 1 adult without
+abdomen, same but nr Antonisberg, 300 m behind res-
+ting place, meadow. — 34, 5Q, same but 0.5 km S
+Nikol’tsy, Gomza Dendrological Garden, 6.vii.2009. — 19, same but nr Naroch’, 9.vii.2009. — 13, same
+but Vileyka district, nr hydraulic station, 0.5 km N
+Budishche, 9.vii.2005, dry meadow. Craspedolepta subpunctata (Foerster, 1848)
+
+Material examined: Minsk: 12, Molodechno district,
+nr Vyazynka, 16.vi.2001, willow thicket. — 19, same but
+nr Chirovichi, 9.vi.2002. 10 L. Serbina, D. Burckhardt & O. Borodin
+
+Rhinocolinae
+Rhinocola aceris (Linnaeus, 1758)
+
+Material examined: No locality data, 13, 12 (S.
+
+Buga). Liviidae
+Euphyllurinae
+Psyllopsis discrepans (Flor, 1861)
+
+Material examined: Gomel’: 12, Khoyniki district,
+Orevichi, Polesskiy Natural Reserve, 21.viii.1991,
+Malaise trap. — Minsk: 15¢, 309, Soligorsk district,
+7 km from Soligorsk, 24.vi.2004 (A. Egiyan). Psyllopsis distinguenda Edwards, 1913
+
+Material examined: Vitebsk: 13, 12, Gorodok district,
+Carla-Marksa Street, 17.vi.2008, on Fraxinus sp. (S.
+Buga). Psyllopsis fraxini (Linnaeus, 1758)
+
+Records: Recorded by Petrov (2011) from the south
+central region of the Belarusian Ridge. Psyllopsis fraxinicola (Foerster, 1848)
+
+Material examined: Minsk: 1¢, Soligorsk district,
+7 km from Soligorsk, 24.vi.2004 (A. Egiyan). Strophingia ericae (Curtis, 1835)
+
+Material examined: Grodno: 292, Iv’yev_ dis-
+trict, Naliboki pushcha, 4 km NE Malaya Chapun’,
+22.vi.2002, pine forest, on Calluna sp. Liviinae
+Camarotoscena speciosa (Flor, 1861)
+Material examined: Minsk: 1¢, Minsk, alley
+nr Lyubimov Ave., 23.iv.2013, on Tilia sp. — 39,
+same but Botanical Garden (Minsk), 26.iv.2013, on
+Rhododendron sp. (L. Serbina). Psyllidae
+Psyllinae
+Arytaina genistae (Latreille, 1804)
+
+Material examined: Vitebsk: 2¢, 19, Lepel’ district,
+nr Kraytsy, 1 km along road in direction Perechodtsy,
+2.viii.2001, pine forest. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Bacopelma foersteri (Flor, 1861)
+
+Records: Recorded by Loginova (1962b) as Psylla
+foersteri from the Vitebsk region. Material examined: Gomel’: 2¢, 3, Zhitkovichi
+district, Khvoyensk, 11.vii.1999, pine forest, on Alnus
+glutinosa (S. Buga). — 33, same but 1.5 km SW Novyye
+Milevichi, river Sluch’ floodplain, 4.viii.2004. — 153,
+92, same but 2 km SW Otskovannoye, 5.viii.2004. —
+1d, same but nr Novyye Milevichi, nr river Such’,
+15.ix.2004. — Minsk: 13, 22, Logoysk district, 0.5 km
+SW Matski, hill, 7.vii.2004, meadow. — 12, same
+but Minsk district, Kupalovskiy National Park, nr
+Lekarovka, dry meadow, on Alnus incana. — 13, 12
+same but Botanical Garden (Minsk), 16.vii.2009, on
+Alnus sp. (L. Serbina). — 24, 12, same but river Ptich’
+bank, nr train station Ptich’, 22.vii.2009. — 33, 5Q,
+same but Myadel’ district, Naroch’, nr Antonisberg,
+30.vi.2005, (A. Egiyan). — 4d, 32, same but 1.vii.2005,
+on Alnus incana. — 1Q, same but nr Naroch’, 3.vii.2009,
+on Alnus sp. (L. Serbina). — 14, same but 0.5 km S$
+Nikol’tsy, Gomza Dendrological Garden, 6.vii.2009. —
+12, same but Soligorsk district, Soligorsk, 25.vi.2004
+(A. Egiyan). — 53, 4Q, same but Volozhin district,
+Rakovy, river Isloch’ floodplain, 28.vii.2004. — 33, 62,
+same but on Alnus glutinosa. — 23, 22, same but nr
+Kaldyki, 19.vii.2007, mixed forest, on Alnus sp. (L.
+Serbina). — Mogilev: 12, Klichev district, Lozovitsa,
+20.vii.1997, pine forest. — Vitebsk: 12, Postavy district,
+lake Chetvert’ south bank, 10.vii.2005. Cacopsylla ambigua (Foerster, 1848)
+
+Material examined: Brest: 2%, Drogichin dis-
+trict, Wildlife sanctuary “Zvonets”, 16.vi.1999. —
+Gomel’: 29, Zhitkovichi district, 1.5 km SW Novyye
+Milevichi, river Sluch’ floodplain, 4.viii.2004, on
+Salix sp. — Grodno: 1 adult without abdomen, Iv’yev
+district, Naliboki pushcha, 0.5 km S Potashnya, nr
+river, 22.viii.2002, meadow (E. Shestakov). — Minsk:
+43, 82, Logoysk district, nr Gayany, 28.vi.2004, on
+Salix sp. — 16, 29, same but Minsk district, train sta-
+tion Kryzhovka, river Poplav bank, 3.vi.2001, flood-
+plain meadow. — 29, same but nr Shchemyslitsy, NW
+Dubrava Natural Monument, 6.vi.2002. — 19, 1 adult
+without abdomen, same but 15.vi.2002. ?, same but
+18.vi.2002. — 29, same but 4.vii.2002. — 14, 12, same
+but field between MKAD Kurasovshchina and South-
+West district, 24.v.2003. — 1¢, same but Shchemyslitsy,
+nr Biological Faculty, BSU, 19.vi.2006. — 1¢, 42, same
+but Molodechno district, nr Vyazynka, 16.vi.2001,
+bog. — 14, 39, same but nr station Shipulichi, river
+Zapadnaya Berezina floodplain, meadow edge,
+27.vi.2002. — 19, same but nr Vyazynka, 20.v.2003. —
+Vitebsk: 13, Gorodok district, 2 km NE Machalovo,
+river Lovat’ floodplain, 4.vi.2000, bog (S. Buga). Jumping plant-lice of Belarus ll
+
+Cacopsylla brunneipennis (Edwards, 1896)
+
+Material examined: Minsk: 23, 39, Logoysk district,
+Gayany, 28.vi.2004. — 24, 32, same but Minsk dis-
+trict, nr Aksakovshchina, Wildlife sanctuary Podsady,
+28.ix.2013, mixed forest, on conifers (L. Serbina). Cacopsylla crataegi (Schrank, 1801)
+
+Records: Recorded from Belarus by Gorlenko et al. (1988) as Psylla crataegi and by Petrov & Sautkin
+(2013) as Cacopsylla crataegi from the Minsk region. Cacopsylla hippophaes (Foerster, 1848)
+
+Material examined: Minsk: 13, 39, Minsk district,
+nr Tarasovo, nr Gardeners’ partnership Zvezdnoye,
+29.ix.2013, on Hippophae rhamnoides (L. Serbina). Cacopsylla ledi (Flor, 1861)
+
+Material examined: Gomel’: 12, Zhitkovichi dictrict,
+Pripyatskiy National Park, 11.vii.1999, pine forest, on
+Ledum sp. — Minsk: 12, Myadel’ district, 1 km SW
+Kochergi, 16.vii.2005, pine forest, on Ledum sp. — 19,
+same but Leytsy, 5.v.2008. — Mogilev: 12, Klichev dis-
+trict, Razvadovo, 20.vii.1997, pine forest, on Ledum
+sp. — 13, 12, same but Lozovitsa, 31.viii.1997. — 19,
+Razvadovo, 23.vii.1998. — 39, same but 17.viii.1998. 13, same but, 17.ix.2000, pine forest. — Vitebsk:
+13, Dokshitsy district, Krulevshizna, 11.vii.2000,
+pine forest (L. Chumakov). — 12, same but 22.x.2000. 19, same but Rossony district, 0.8 km N Osinniki,
+11.ix.1998, pine forest, on Ledum sp. Cacopsylla mali (Schmidberger, 1836)
+
+Records: Recorded by Byazdzenka (1973) as Psylla
+mali from the Minsk region. Material examined: Minsk: 13, Logoysk dis-
+trict, Kupalovskiy National Park, nr Lekarovka,
+7.vii.2004, dry meadow. — 14, 29, same but Minsk
+district, Shchemyslitsy, Dubrava Natural Monument,
+16.ix.1997, on Malus sylvestris (S. Buga). — 19, same
+but 15.vii.2009, on Malus sp. (L. Serbina). — 19, same
+but Molodechno district, nr Vyazynka, 16.vi.2001, bog. — 29, same but 29.vii.2001. — 19, same but nr sta-
+tion Shipulichi, river Zapadnaya Berezina floodplain,
+27.vi.2002. — 22, same but Myadel’ district, Naroch’
+orchards, 2.vii.2009 (L. Serbina). — 19, same but
+Volozhin district, nr Kaldyki, 11.vii.2007, mixed forest. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Cacopsylla mali (Schmidberger, 1836) group
+
+Material examined: Minsk: 12, Logoysk district,
+Kupalovskiy National Park, nr Lekarovka, 7.vii.2004,
+meadow. — 12, same but Minsk district, Shchemyslitsy,
+Dubrava Natural Monument, 15.vi.2002. — 12, same
+but nr Biological Faculty, BSU, 1 2002. — 12, same
+but Molodechno district, nr Vyazynka, 1.vi.2001. — 1
+adult without abdomen, same but Myadel’ district,
+nr Naroch’, 4.vii.2009 (L. Serbina). — 13, same but
+Nesvizh district, nr Nesvizh, 29.vi.2004, on Prunus
+cerasifera. Comment: Due to the poor state of the material the
+specimens cannot be identified to species. They could be
+any member of the C. mali group: C. mali, C. peregrina,
+C. sorbi or C. ulmi. Cacopsylla moscovita (Andrianova, 1948)
+
+Material examined: Grodno: 1@, 19, Iv’yev dis-
+trict, Naliboki pushcha, 4.5 km E Malaya Chapun’,
+22.viii.2002, on Salix sp. Cacopsylla parvipennis (Low, 1877)
+
+Material examined: Minsk: 12, Myadel’ district,
+2 km W Cheremshitsy, river Narochanka floodplain,
+9.vii.2005. Cacopsylla peregrina (Foerster, 1848)
+
+Material examined: Minsk: 33, 72, Logoysk dis-
+trict, Kupalovskiy National Park, nr Lekarovka,
+7.vii.2004, dry meadow. — 1, 12, same but Minsk dis-
+trict, stop “Kurasovshchina”, 9.ix.1997, on Crataegus
+sp. (S. Buga). — 4Q, same but stop “Bol’nitsa”,
+13.ix.1997. — 43, 42, same but Shchemyslitsy,
+Dubrava Natural Monument, 21.v.1999. — 39,
+same but station “Polzhelishche”, 18.ix.1999. — 22,
+same but Shchemyslitsy, track nr bus stop “Filial
+BGU”, 11.vii.2009 (L. Serbina). — 13, 12, same but
+22.vii.2009. — 15Q, same but 29.vii.2009. — 33, 42,
+same but Volozhin district, nr Kaldyki, 19.vii.2007,
+mixed forest. Cacopsylla pulchella (Low, 1877)
+
+Material examined: Gomel’: 83, 29, Khoyniki
+district, Orevichi, 2 1.1991, Malaise trap. — 22,
+same but Zhitkovichi district, 14 km from Chvoensk,
+Pripyatskiy National Park, 26.viii.1999, pine forest. — Minsk: 2¢, Molodechno district, nr Vyazynka,
+16.vi.2001, dry meadow. 12 L. Serbina, D. Burckhardt & O. Borodin
+
+Cacopsylla pulchra (Zetterstedt, 1838)
+
+Material examined: Gomel’: 14, Zhitkovichi dis-
+trict, , Pripyatskiy National Park, 20.x.1998, pine forest. 13, Logoysk district, Gayany, 28.vi.2005. —
+23, 19, same but Minsk district, nr Aksakovshchina,
+Wildlife sanctuary Podsady, 28.ix.2013, mixed forest,
+on conifers (L. Serbina). — 14, same but Molodechno
+district, nr Vyazynka, 16.vi.2001, bog, on Salix sp. Cacopsylla pyri (Linnaeus, 1758)
+
+Records: Recorded from Belarus by Palyakova (1969),
+Gorlenko ef al. (1988) as Psylla pyri. Cacopsylla pyrisuga (Foerster, 1848)
+
+Records: Recorded from Belarus by Palyakova (1969)
+as Psylla pyrisuga. Cacopsylla saliceti (Foerster, 1848) group
+
+Material examined: Grodno: 19, Iv’yev district,
+Naliboki pushcha, 2 km S$ Potashnya, 23.vi.2002, on
+Salix sp. — 19, same but 4.5 km E Malaya Chapun’,
+28.ix.2002. — Minsk: 12, Minsk district, nr Kryzhovka
+station, 3.vi.2001, alder forest. — 12, same but Myadel’
+district, Leytsy, 25.vi.2008. — 12, same but 0.5 km S
+Nikol’tsy, Gomza Dendrological Garden, 6.vii.2009, on
+Salix sp. (L. Serbina). Comment: Single females of this species group cannot
+be correctly identified to species. Cacopsylla sorbi (Linnaeus, 1767)
+
+Material examined: Minsk: 384, 322, Myadel’ dis-
+trict, Naroch’, nr Antonisberg, 28.vi.2005, on Sorbus sp. (A. Egiyan). Cacopsylla ulmi (Foerster, 1848)
+
+Records: Recorded by Petrov (2011) from the south
+central region of the Belarusian Ridge. Material examined: Gomel’: 34, 32, Khoyniki dis-
+trict, Orevichi, Pripyatskiy National Park, 23.vii.1991,
+Malaise trap. — 64’, 322, same but Polesskiy Natural
+Reserve, 21.viii.1991. — 1Q, same but Zhitkovichi dis-
+trict, Khvoyensk, truck patch, 14.vii.1999 (S. Buga). — Minsk: 12, Minsk district, Shchemyslitsy, nr train sta-
+tion “Roshcha”, 15.vii.2009, on Ulmus sp. (L. Serbina). Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Chamaepsylla hartigii (Flor, 1861)
+
+Material examined: Minsk: 19, Logoysk district,
+Kupalovskiy National Park, nr Lekarovka, 7.vii.2004,
+dry meadow, on Betula pendula. Psylla alni (Linnaeus, 1758)
+
+  
+ 
+
+Material examined: Brest: 22, Gantsevichi dis-
+trict, 3 km SE Borki, 23.vii.2005, pine forest. - Gomel’:
+29, Zhitkovichi district, 1.5 km SW Novyye Milevichi,
+river Sluch’ floodplain, 4.viii.2004. — 34, 59, 2 km,
+same but SW Otskovannoye, 5.viii.2004. — Grodno:
+12, Mosty district, 3.5 km NW Peski, river Zel’vyanka
+floodplain, 23.vi.2005. — 12, same but 24.vi.2005. —
+Minsk: 624, 662, Logoysk district, nr Gayany, roadside
+lowland, 28.vi.2004, on Alnus incana. — 192, same but
+Kupalovskiy National Park, nr Lekarovka, 7.vii.2004. — 33, 62, same but 0.5 km SW Matski, hill, meadow. — 3, 42, same but Molodechno district, nr Vyazynka,
+16.vi.2001, bog. — 63, 3Q, same but 1.vii.2001, on
+Alnus sp. — 23, 49, same but river Udranka bank, nr
+bus stop, 2.vii.2008, on Alnus incana (L. Serbina). —
+14, same but nr Naroch’, 3.vii.2009, on Alnus sp. — 22,
+same but Nesvizh district, park “Al’ba”, 29.vi.2004. —
+23, 5Q, same but Volozhin district, Rakov, river Isloch’
+floodplain, 28.vii.2004, on Alnus glutinosa. — Vitebsk:
+1d, Gorodok district, 0.3 km SW Zadrach’ye, river
+Zadrach bank, 7.vi.2000, on Alnus incana (S. Buga). Psylla betulae (Linnaeus, 1758)
+
+Material examined: Mogilev: 19, Klichev district,
+Razvadovo, 23.vii.1988, pine forest. Psylla buxi (Linnaeus, 1758)
+
+Records: Recorded by Petrov et al. (2011), Petrov &
+Sautkin (2013) from the Minsk region. Psylla fusca (Zetterstedt, 1828)
+
+Material examined: Minsk: 19, Logoysk district,
+Kupalovskiy National Park, nr Lekarovka, 26.vi.2002,
+dry meadow. — 284, 2392, same but nr Gayany, down-
+hill, 28.vi.2004, on Alnus incana. — 13, 19, same but
+Kupalovskiy National Park, nr Lekarovka, 7.vii.2004,
+dry meadow. — 5, 49, same but 0.5 km SW Matski,
+hill, meadow. — 1 adult without abdomen, same but
+Molodechno district, nr Vyazynka, station, 1.vii.2001. — 10, same but 2.vii.2001, on Alnus sp. — 1 adult with-
+out abdomen, same but 29.vii.2001, linden alley. —
+203, 172, same but river Udranka bank, nr bus stop,
+2.vii.2008, on Alnus incana (L. Serbina). — 13, same
+
+Jumping plant-lice of Belarus 13.
+
+but Volozhin district, nr Kaldyki, 19.vii.2007, mixed
+forest, on Alnus sp. Triozidae
+Bactericera acutipennis (Zetterstedt, 1828)
+
+Material examined: Vitebsk: 34, 19, Dokshitsy dis-
+trict, nr station Krulevshizna, 20.x.2000, pine forest (L.
+Chumakov). Bactericera curvatinervis (Foerster, 1848)
+
+Material examined: Minsk: 13, Minsk district,
+nr Aksakovshchina, Wildlife sanctuary Podsady,
+28.ix.2013, mixed forest, on conifers (L. Serbina). —
+13, 22, same but nr Tarasovo, nr Gardeners’ partner-
+ship Zvezdnoye, 29.ix.2013. — Vitebsk: 13, Dokshitsy
+district, nr station Krulevshizna, 20.x.2000, pine forest
+(L. Chumakov). Bactericera ? femoralis (Foerster, 1848)
+
+Material examined: Vitebsk: 12, Dokshitsy dis-
+trict, station Krulevshizna, 20.x.2000, pine forest
+(L. Chumakov). Comment: Due to the poor state of the specimen at
+hand the identification is questionable and it could be
+also Bactericera acutipennis or B. bohemica. Bactericera reuteri (Sulc, 1913)
+Material examined: Gomel’: 23, Khoyniki district,
+Orevichi, Pripyatskiy National Park, 23.vii.1991,
+Malaise trap. Bactericera striola (Flor, 1861)
+
+Records: Recorded by Loginova (1962b) as Trioza stri-
+ola from the Vitebsk region. Bactericera substriola Ossiannilsson, 1992
+
+Material examined: Minsk: 1¢, Minsk district,
+Shchemyslitsy, Dubrava Natural Monument, 4.vii.2002,
+on Salix sp. — 12, same but Molodechno district, station
+Shipulichi, river Zapadnaya Berezina bank, 27.vi.2002. Trichochermes walkeri (Foerster, 1848)
+Records: Recorded from Belarus by Petrov (2004). Material examined: Minsk: 13, Molodechno district,
+nr Vyazynka, 29.vii.2001. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Trioza anthrisci Burckhardt, 1986
+
+Material examined: Minsk: 1d, 19, Minsk district,
+nr Tarasovo, nr Gardeners’ partnership Zvezdnoye,
+29.ix.2013, on conifers (L. Serbina). — 12, same but
+Molodechno district, station Shipulichi, canal bank,
+27.vi.2002. Vitebsk: 1d, Postavy district, lake
+Chetvert’ south bank, 10.vii.2005. Trioza apicalis Foerster, 1848
+
+Records: Recorded from Belarus by Sidlyarevich &
+Bolotnikova (1992). Trioza cerastii (Linnaeus, 1758)
+
+Material examined: Minsk: 19, Volozhin district, nr
+Kaldyki, 11.vii.2007, mixed forest (L. Serbina). Trioza flavipennis Foerster, 1848
+
+Material examined: Minsk: 12, 39, Minsk dis-
+trict, nr Aksakovshchina, Wildlife sanctuary Podsady,
+28.ix.2013, mixed forest, on conifers (L. Serbina). Trioza galii Foerster, 1848
+Material examined: No locality data, 1¢ (S. Buga). Trioza proxima Flor, 1861
+
+Material examined: Minsk: 19, Minsk district,
+nr Aksakovshchina, Wildlife sanctuary Podsady,
+28.ix.2013, mixed forest, on conifers (L. Serbina). Trioza remota Foerster, 1848
+
+Material examined: Gomel’: 49, Zhitkovichi district,
+Pripyatskiy National Park, 20.x.1998, pine forest
+(L. Chumakov). Minsk: 2¢, 39, Minsk district,
+Shchemyslitsy, Dubrava Natural Monument, 26.ix.2013,
+on conifers (L. Serbina). Trioza urticae (Linnaeus, 1758)
+
+Material examined: Gomel’: 94, 1092, Zhitkovichi
+district, Krasnosel’ye, Pripyatskiy National Park,
+21.v.1991, Malaise trap. — 13, 62, same but Orevichi,
+
+. same but 23.vii.1991. —
+3, 32, Logoysk district, Kupalovskiy National
+Park, nr Besyady, river Udra floodplain, 26.vi.2002,
+on various plants including Urtica dioica. — 1¢, 19,
+same but Minsk district, nr train station Kryzhovka,
+river Poplav bank, 3.vi.2001, floodplain meadow. —
+
+  
+
+14 L. Serbina, D. Burckhardt & O. Borodin
+
+1d, same but nr Chirovichi, hill, 9.vi.2002, dry mea-
+dow. — 13, 42, same but Shchemyslitsy, Dubrava
+Natural Monument, 15.v.2008, on Urtica dioica (L.
+Serbina). — 13, same but 15.viii.2008. — 1 adult without
+abdomen, same but 25.vi.2009. — 24, 29, same but
+Botanical Garden (Minsk), 16.vii.2009. — 23, 149,
+same but Shchemyslitsy, Dubrava Natural Monument,
+27.vii.2009. — 44, 22, same but 26.ix.2013, on conifers. 13, 12, same but nr Aksakovshchina, Wildlife sanc-
+tuary Podsady, 28.ix.2013, mixed forest. — 1, same
+but nr Tarasovo, Gardeners’ partnership Zvezdnoye,
+29.ix.2013. — 74, 32, same but on conifers. — 24, 72,
+same but Molodechno district, nr Vyazynka, 16.vi.2001. — 1d, 12, same but 17.vi.2001, alder forest. — 34, 49,
+same but nr train station Shipulichi, river Zapadnaya
+Berezina bank, 27.vi.2002. — 12, same but nr Sitsevichi,
+riverbank, behind station, 18.v.2007. 32, same
+but river Udranka bank, nr bus stop, 2.vii.2008 (L.
+Serbina). — 14, 19, same but Myadel’ district, nr
+Naroch’, 4.vii.2009, on Urtica dioica. — 83, 109, same
+but Volozhin district, nr Kaldyki, 11.vii.2007, mixed
+forest. — Vitebsk: 2¢', Dokshitsy district, Krulevshizna,
+20.x.2000, pine forest (L. Chumakov). Trioza velutina Foerster, 1848
+
+Material examined: Minsk: 1<, Molodechno district,
+nr Sitsevichi, riverbank, behind station, 18.v.2007. DISCUSSION AND CONCLUSION
+
+Despite the fact that the psylloid fauna of Central and
+Eastern Europe is generally well studied (Gegechkori &
+Loginova, 1990; Klimaszewski, 1975), little is known
+from Belarus with only 12 recorded species one of which
+is doubtful, ie. Aphalara polygoni (Loginova, 1961,
+1962b; Palyakova, 1969; Byazdzenka et al., 1973; Gor-
+lenko et al., 1988; Sidlyarevich & Bolotnikova, 1992;
+Petrov, 2004, 2011; Petrov er al., 2011; Petrov & Sautkin,
+2013). Based on recent collections we confirm the pre-
+sence of 4 previously recorded species and add 43 spe-
+cies, bringing the number of confirmed Belarusian psyllid
+species to 54. The majority of these are widely distributed
+in Europe and slightly more than half of them are asso-
+ciated with woody plants. The rest of the species is either
+introduced (Cacopsylla pulchella) or represents possible
+boreal elements (“peatbog” species as Cacopsylla ledi,
+Psylla betulae, Bactericera acutipennis). Craspedolepta
+crispati is rare and has been recorded from only a few
+countries (Lauterer & Burckhardt, 2004). The 54 species represent probably less than half of
+the number of species existing in the country by
+comparison with the surrounding countries: Poland
+112 spp. (Klimaszewski, 1975; Glowacka, 1989, 1991;
+Gtowacka & Migula, 1996; Drohojowska & Glowacka,
+2011; Kuznetsova et al., 2012), Northwest Russia 47
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+spp. (Loginova, 1954, 1961, 1962a, b, 1966, 1967, 1968,
+1972a, b), Lithuania 12 spp. (Vengeliauskaité, 1974;
+Malumphy ef a/., 2009) and the former Livonia (now parts
+of Estonia and Latvia) 43 spp. (Flor, 1861) (Appendix
+2). There are no published data available for the psyllid
+fauna from the North of Ukraine and it is, therefore, not
+included in Appendix 2. Based on the occurrence of
+their respective host-plants following additional species
+(not listed in Appendix 2) can be also expected to occur
+in Belarus: Aphalara longicaudata Wagner & Franz,
+1961, A. polygoni Foerster, 1848, A. ulicis Foerster,
+1848, Craspedolepta campestrella Ossiannilsson, 1987,
+C. innoxia (Foerster, 1848), Arytaina maculata (Low,
+1886), Cacopsylla affinis (Low, 1880), C. breviantennata
+(Flor, 1861), C. picta (Foerster, 1848), C. rhamnicola
+(Scott, 1876), C. rhododendri (Puton, 1871), Psylla
+betulaenanae Ossiannilsson, 1970, Trioza scottii Low,
+1880. To stimulate further research on Belarusian psyllids we
+provide here an illustrated identification key for 127
+species whose occurrence in the country has been doc-
+umented or is likely given that they have been reported
+from adjacent countries (Appendix 2) or their host-plants
+occur in Belarus. Targeted field work sampling on poten-
+tial host-plant is necessary to find also the more localised
+and rarer species. ACKNOWLEDGEMENTS
+
+We thank S. Buga, A. Egiyan, V. Karasev, E. Shesta-
+kov, L. Chumakov and Y. Gerashchenko for collecting
+part of the material discussed here. We are also grate-
+ful to L. Costeur, S. Buga, O. Nesterova and F. Sautkin
+for valuable advice to LS during her study. The critical
+comments and valuable suggestions on a previous manu-
+script draft by J. Hollier and I. Malenovsky are gratefully
+acknowledged. This study was partially funded by a grant
+of the Swiss Confederation (Federal Commission) to LS. REFERENCES
+
+Burckhardt D, 2004, Fauna Europaea: Psylloidea. /n: Fauna
+Europaea, version 1.0. _http://www.faunaeur.org/full_
+results.php?id=12489 (accessed 10 January 2014). Burckhardt D. 2010. Pictorial key of Central European Caco-
+psylla species associated with Rosaceae. http://www.psyl-
+lidkey.ew/index.html (accessed 10 January 2014). Burckhardt D., Ouvrard D. 2012. A revised sification of the
+jumping plant-lice (Hemiptera: Psylloidea). Zootaxa 3509:
+1-4. Byazdzenka T.T., Palyakova T.J., Osipaii U. G. 1973. Yablyne-
+vaya veratsennitsa (Psylla mali Schmdbg.) u Belarusi. Vestsi AN BSSR. Seriya sel'skagaspadarchykh navuk 3:
+62-64,
+
+Drohojowska J. & Glowacka E. 2011. The jumping plant-lice
+(Hemiptera: Psylloidea) of the Tatra National Park. Polish
+Journal of Entomology 80: 265-275. Jumping plant-lice of Belarus 15
+
+Flor G. 1861. Die Rhynchoten Livlands in systematischer folge
+beschrieben. Archiv fiir die Naturkunde Liv-, Ehst- und
+Kurlands, Dorpat, 637 pp. Gegechkori A.M. & Loginova M.M. 1990. Psillidy (Homo-
+ptera, Psylloidea) SSSR: annotirovannyi spisok. Metsnie-
+reba, Tbilisi, Georgia, 161 pp. Glowacka E. 1989. Koliszki (Psylloidea) Sudet6w. Acta Biolo-
+gica Silesiana 13: 21-30. Glowacka E. 1991. Psyllids (Insecta: Psylloidea) new for
+Poland in the collection from Mielnik vicinity (north-east-
+ern Poland). Annals of the Upper Silesian Museum 2:
+155-160. Glowacka E., Migula P. 1996. Koliszki Psylloidea Gorcow. Parki Narodowe i Rezerwaty Przyrody 15: 59-71. Gorlenko S.V., Blintsov A.I, Pan‘ko N.A. 1988. Ustoychivost*
+drevesnykh introdutsentov k bioticheskim faktoram. Nauka
+i tekhnika, Minsk, 189 pp. Hollis D. 2004. Australian Psylloidea: jumping plant-lice and
+lerp insects. Australian Biological Resources Study, Can-
+berra, Australia, 216 pp. Klimaszewski, S. M. 1975. Psylloidea Koliszki (Insecta:
+Homoptera). Fauna Polski 3: 1-295. Kuznetsova V.G., Labina E.S., Shapoval N.A., Maryanska-Na-
+dachowska A., Lukhtanov V.A. 2012. Cacopsyila fraudat-
+rix sp. n. (Hemiptera: Psylloidea) recognised from testis
+structure and mitochondrial gene COI. Zootaxa 3547:
+55-63. Lauterer P., Burckhardt D, 2004, The West Palaearctic species
+of the Craspedolepta flavipennis (Foerster) complex
+(Hemiptera, Psylloidea). Mitteilungen der Schweizerischen
+Entomologischen Gesellschaft 77(3-4): 251-275. Li F. 2011. Psyllidomorpha of China (Insecta: Hemiptera). Science Press, Beijing, China, 1976 pp. Loginova M.M. 1954. Listobloshki roda Psyllopsis Low
+(Homoptera, Psyllidae) i osobennosti ikh biologi v
+usloviyakh Stalingradskoy oblasti. Trudy zoologicheskogo
+instituta 15: 35-53. Loginova M.M. 1961. A revision of the species of the genera
+‘Aphalara Frst. and Craspedolepta Enderl. (Homoptera,
+Psylloidea) in the fauna of the USSR. I. Entomologicheskoe
+Obozrenie 40(3): 602-623. Loginova M.M. 1962a. New psyllids (Homoptera, Psylloidea)
+from the USSR. Trudy zoologicheskogo instituta 30:
+185-220. Loginova M.M. 1962b. Psyllid fauna (Homoptera, Psylloidea)
+of Leningrad region. Trudy Zoologicheskogo Instituta 31:
+33-45. Loginova M.M. 1964. Podotrjad Psyllinea (pp. 437-482). In:
+Bei-Bienko, G. Y. (eds.). Opredelitel' nasekomykh
+Evropeyskoy chasti SSSR. Nauka, Moscow, |
+
+ 
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Loginova M.M. 1966. Fauna and biology of psyllids (Homop-
+tera, Psylloidea) from Moldavian SSR. Trudy Moldavskogo
+NII sadovodstva, vinogradarstva i vinodeliya 13: 131-148. Loginova M.M. 1967. Review on palaearctic psyllids of the
+genus Psylla Geoftt. (Homoptera: Psylloidea), associated
+with willows. Annales Zoologici 24(7): 427-461. Loginova M.M. 1968. New data on the fauna and biology of the
+Caucasian Psylloidea (Homoptera). Trudy Vsesoyuznogo
+Entomologicheskogo Obshchestva 52: 275-328. Loginova M.M. 1972a. Podotrjad Psylloidea — psillidy, ili listo-
+bloshki. Nasekomye i kleshchi — vrediteli sel‘skokhozyayst-
+vennykh kul ‘tur 1: 139-146. Loginova M.M. 1972b. The psyllids (Psylloidea, Homoptera)
+of the Mongolian People‘s Republic. Nasekomye Mongolii
+1(1): 261-324. Malumphy C., Ostrauskas H., Pye D. 2009. Contribution to the
+knowledge of jumping plant-lice (Hemiptera, Psylloidea) of
+Lithuania. Acta Zoologica Lituanica 19(2): 128-131. Ossiannilsson F. 1992. The Psylloidea (Homoptera) of Fen-
+noscandia and Denmark (pp. 1-346). In: Kristensen N. P. (eds.). Fauna Entomologica Scandinavica. Brill E. J.,
+Leiden, The Netherlands, 26. Ouvrard D. 2014. Psyl‘list — the world Psylloidea database. http://www. hemiptera-databases.com/psyllist/ (accessed 13
+March 2014). Palyakova T.J. 1969. Da biyalogii grushavykh veratsennits u
+Belarusi. Vestsi AN BSSR. Seriya sel'skagaspadarchykh
+navuk 5: 87-89,
+
+Petrov D.L. 2004. Fonovyye vidy  teratformiruyushchikh
+nasekomykh Belarusi. Vestnix BGU 2(2): 63-71. Petrov D.L. 2011. Teratformiruyushchiye chlenistonogiye yuga
+tsentral‘nogo regiona Belorusskoy gryady BGU: 32-40. Petrov D.L., Sautkin F.V. 2013. Nasekomyye-galloobrazovateli
+— yrediteli kustarnikovykh rasteniy zelenykh nasazhdeniy
+
+Belarusi. Vestnik BGU 2(1): 65-71. Petrov D.L., Sautkin F.V., Ivanov V.V. 2011. Fitofagi — vrediteli
+kustarnikovykh rasteniy. BGU, Minsk, 36 pp. Sautkina T.A., Tret‘yakov D.I., Zubkevich G.L., Kozlovskaya
+N.V., Parfenov V.1., Blazhevich R.Y., Skuratovich A. N.,
+Dmitriyeva S.A., Semerenko L.V., Simonovich L.G.,
+Shvets I.V., Mlynarchik M.P., Yakovleva LM., Vynayev
+G.V., Dzhus M.A., Tichomirov V.N., Dubovik D.V., Mazan
+LF, Pobirushko V.F. 1999. Opredelitel* vysshikh rasteniy
+Belarusi (pp. 472). In: Parfenov V. I. (eds.). Dizayn PRO,
+Minsk. Sidlyarevich V.I., Bolotnikova V.I. 1992. Entomofagi vrediteley
+ovoshchnykh kul‘tur. Urozhay, Minsk, 126 pp. Vengeliauskaité A. 1974. Plant jumping-lice (pp. 86-88). In:
+Pileckis S. & Zuklys L. (eds.). Handbook for the plant pro-
+tection worker. Mintis, Vilnius. 16 L. Serbina, D. Burckhardt & O. Borodin
+
+APPENDIX 1
+
+Identification key to adult psyllids of Belarus
+(Cacopsylla merita and Eryngiofaga deserta are not included in the key as their occurrence in Belarus is unlikely). 1 Vein R+M+Cu of forewing bifurcating into veins R and M+Cu (Fig. 1)..
+= Vein R+M+Cu of forewing trifurcating into veins R, M and Cu. — Triozidae (Fig. 2). 2 Metacoxa slender with flattened, tubercular meracanthus. On Acer ~ Aphalaridae, Rhinocolinae
+Rhinocola aceris
+
+ 
+
+- Metacoxa massive with distinct, spur-shaped meracanthu:
+
+ 
+
+ 
+
+3
+3 Vertex longer than wide. Segment 2 the longest antennal segment. On monocots (Carex, Juncus). — Liviidae, Livi-
+inae, Livia ... 4
+
+ 
+
+ 
+
+— Vertex shorter than wide. Segment 3 the longest antennal segment. On dicots
+4 Vertex, in dorsal view, forming narrowly rounded anterior lobes with deep median cleft between lobes. Forewing
+short, oval, with evenly curved anterior margin, bearing indistinct dots in apical half. On Juncus........ Livia junci
+- Vertex, in dorsal view, forming broadly rounded anterior lobes with shallow indentation between lobes. Fore-
+wing longer, oblong oval or rhomboidal, in the middle with almost straight anterior margin, pattern different. On
+Carex. 5
+5 Forewing with subparallel fore and hind margins, without dark band along apical and anal margin. On Carex
+Livia crefeldens
+— Forewing widening towards apical third, with broad dark band along apical and anal margin. On Carex
+. Livia limbata
+6 Basal spine of metabia always absent; apical metatibial spurs spaced in equal intervals, forming open crown; if
+grouped, then vertex flattened and rectangular with anterior lobes, or evenly passing into genae 7
+- Basal spine of metatibia often developed; apical metatibial spurs always grouped. Head with distinct, though
+sometimes small, genal processes. — Psyllidae, Psyllinae . 7 Head bearing genal processes. On Fraxinus — Liviidae, Euphyllurinae, Psyllop. - Head without genal processes, genae rounded anteriorly...
+8 Body green, forewing lacking dark pattern. Paramere axe-shaped (Fig. 3). Female proctiger distal to circumanal
+ring abruptly tapered (Fig. 4)... ..Psyllopsis fraxinicola
+- Body with dark areas, forewing with dark veins and more or less expanded dark pattern. Male and female termi-
+nalia different. 9 Forewing lacking continuous marginal band apically; membrane dark at apices of veins M and Cu, in the middle
+of vein Cu,, and along vein Cu,, (Fig. 5). Thorax yellow-orange, dark brown dorsally. Paramere, in profile, ham-
+mer-shaped with large anteriorly directed lobe (Fig. 6). Apex of female proctiger broad (Fig. 7). .. Psyllopsis discrepans
+— Forewing with dark band along apical margin stretching from fore to hind margin (Figs 8, 11). Thorax yellow with
+brown or black pattern. Paramere, in profile, with posteriorly directed lobe (Figs 9, 12). Apex of female proctiger
+narrow (Figs 10, 13) 10
+10 Forewing pattern very dark, extended and well-delimited (Fig. 8). Paramere with large rectangular posterior lobe
+(Fig. 9). Female proctiger with slight hump distal to circumanal ring (Fig. 10). Psyllopsis distinguenda
+— Forewing pattern slightly lighter, more reduced, often forming only narrow band, and less clearly delimited towards
+interior (Fig. 11). Paramere with small triangular posterior lobe (Fig. 12). Female proctiger straight or concave
+distal to circumanal ring (Fig. 13)... _.Psyllopsis fraxini
+1 Metabasitarsus without black spurs. On Populus — Liviidae, Liviinae Camarotoscena speciosa
+- Metabasitarsus with 2 black spurs. 12
+12 Male proctiger without posterior lobes (Fig. 14). ALHW always < 1.0. On Calluna vulgaris. — Liviidae, Euphyllu-
+i ...Strophingia ericae
+— Male proctiger with long, wing-like posterior lobes. ALHW often > 1.0. — Aphalaridae, Aphalarinae 13
+13 Vertex with distinct angular anterior lobes which are separated by narrow transverse groove from genae. Clypeus
+more or less distinctly protruding from lower head surface. — Aphalara... a4
+— Vertex with weakly developed anterior lobes, smoothly passing into genae. Clypeus short, pressed against lower
+head surface, not strongly protruding from genae. — Craspedolepta . 24
+14 Forewing with dark pattern consisting of well-defined spots or patches. Apical dilatation of aedeagus with large
+dorso-apical membranous sack. Circumanal ring of female proctiger never expanded caudally 15
+- Forewing without well-defined dark pattern but sometimes infuscate. Apical dilatation of aedeagus without or with
+small dorso-apical membranous sack. Circumanal ring on female proctiger usually expanded caudally (exceptions
+A, longicaudata, A. purpurascens) .. 17
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+21
+
+22
+
+23
+
+30
+
+31
+
+32
+
+Jumping plant-lice of Belarus 17
+
+Clypeus long, clearly visible from above; cylindrical, constricted subapically. Forewing narrow, with dark patches
+concentrated in apical third, basal half clear. On Polygonum .. . Aphalara maculipennis
+Clypeus short, not or hardly visible from above; conical, apically blunt or subacute. Forewing broad, with dark
+patches extending also into basal half..... 16
+Surface spinules of forewing forming short rows of 2-4 spinules (Fig. 15). Paramere produced apico-posteriorly
+(Fig. 17). On Rumex .... ..Aphalara exilis
+Surface spinules of forewing forming longer rows (Fig. 16). Paramere not produced apico-posteriorly (Fig. 18). On
+Aphalara ulicis
+Aphalara tins
+
+ 
+
+ 
+
+ 
+
+ 
+
+Head and thorax dark brown or black. On Stellaria graminea
+Head and thorax ochreous with orange or brownish markings
+Forewing with surface spinules arranged in irregular, transverse rows (Figs 19, 22-23). Surface spinules of forewing arranged in irregular squares or rhombi (Figs 24-26) . Paramere with posterior extension apically (Fig. 20). Female terminalia long (Fig. 21). On Polygonum bistorta ..
+
+ 
+
+ 
+
+  
+
+Aphalara longicaudata
+Paramere not extented postero-apically. Female terminalia shorter 20
+Body dimensions large (length from head to apex of forewing when folded over body > 2.9 mm). Forewing mem-
+brane amber-coloured, surface spinules arranged in very dense, transverse rows (Fig. 22). On Caltha
+iphalara calthae
+
+Body dimensions small (< 3.2 mm). Forewing membrane colourless or fumose, surface spinules arranged in sparse
+tows (Fig. 23) .... 21
+
+Circumanal ring caudally consisting of several rows of pores. On Polygonum, Rumex. ... Aphalara polygoni
+Circumanal ring caudally consisting of two rows of pores. On Rumex .... (phalara purpurascens
+
+Male paramere with anterior finger-like process situated subapically (Fig. 27). Aedeagus as in Fig. 28. Female
+terminalia as in Fig. 29. On Polygonum.... ... Aphalara borealis
+
+Male paramere with anterior finger-like process situated close to apex (Figs 30, 33). Aedeagus as in Figs 31, 34. Female terminalia as in Figs 32, 35. 23
+
+Tip of distal portion of aedeagus directed in an angle of about 30° to longitudinal axis of segment (Fig. 31). On
+Polygonum aviculare group... ... Aphalara avicularis
+
+Tip of distal portion of aedeagus directed in an angle of about 90° to longitudinal axis of segment (Fig. 34). On
+Polygonum Aphalara freji
+Forewing with pattern consisting of well-defined, dark spots of 10-30 um diameter. Forewing without pattern, or with pattern consisting of dark bands, or membrane irregularly infuscate
+Body bearing macroscopic setae which often are covered in wax and thus resemble scales. On Artemisia abrota-
+num .... ‘raspedolepta alevtinae
+Body lacking macroscopic setae. 26
+Forewing with surface spinules completely covering membrane (Fig. 36). Terminalia as in Figs 41-42. On Arte-
+misic Craspedolepta artemisiae
+Forewing with surfaces spinules forming hexagonal pattern (Figs 37-38)... 27
+Forewing with dark spots densely spaced, partly confluent in apical part. On Artemisia campesti
+..Craspedolepta campestrella
+
+Forewing with dark spots sparsely spaced, not confluent in apical part of wing (Figs 39-40) ... 28
+
+Dark spots on forewing dark brown or almost black; surface spinules relatively sparsely spaced (Fig. 37). Termi-
+nalia as in Figs 43-44. On Artemisia vulgaris .Craspedolepta latior
+Dark spots on forewing pale to yellow brown; surface spinules relatively dense (Fig. 38). Terminalia as in Figs
+45-46. On Artemisia absinthum, A. maritima... ... Craspedolepta malachitica
+
+Male paramere with large apical triangular posterior lobe, and subapical anterior process which is very long and
+directed backwards (Fig. 47). Female proctiger ending in two points (Fig. 48). On Chamerion
+.. Craspedolepta subpunctata
+Male paramere, in profile, club-shaped, or if triangular, then anterior process not directed backwards (Figs 50, 53,
+57, 61, 63, 65-66). Female proctiger ending in a single point
+Body length from head to apex of forewing when folded over body < 3.2 mm. Body length > 3.5 mm. Forewing without dark patches or stripe:
+Forewing with yellow to brown patches or stripe:
+Surface spinules of forewing arranged in irregular transverse rows (Fig. 49). Male paramere with large triangular
+apex and long straight anterior process on inner surface (Fig. 50). Female proctiger more than 4 times longer than
+pore ring length (Fig. 51). On Daucus... ... Craspedolepta innoxia
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+  
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+33
+
+34
+
+35
+
+36
+
+42
+
+43
+
+44
+
+45
+
+46
+
+L. Serbina, D. Burckhardt & O. Borodin
+
+Surface spinules of forewing widely spaced, sometimes partially reduced not forming transverse rows (Fig. 52). Male paramers club-shaped, with short, claw-like anterior process (Fig. 53). Female proctiger less than 4 times as
+long as pore ring length (Fig. 54). On Artemisia vulgaris .... Craspedolepta omissa
+Forewing pattern with dark brown, well-delimited patches forming bands along outer margin and in the middle
+stretching between the apices of veins R, and Cu,,, and a spot in cell cu, (Fig. 55). Male proctiger with broad wing-
+like posterior processes lacking a basal hook (Fig. 56). Paramere as in Fig. 57. Female subgenital plate suddenly
+narrowed subapically (Fig. 58). On Chamerion... Craspedolepta nebulosa
+Forewing pattern ochreous to brown, forming bands along the veins in apical half or a band along wing margin. Male proctiger with narrow single-like processes bearing a basal hook. Paramere different, with rounded to angu-
+lar apical dilatation. Female subgenital plate evenly tapered... 34
+Antenna usually 8-segmented. Forewing pattern distinct, restricted to narrow stripes along veins in apical half
+(Fig. 59). Terminalia as in Figs 61-62. On Achillea .. ...Craspedolepta nervosa
+Antenna usually 10-segmented. Forewing pattern forming a band along outer wing margin (Fig. 60). Terminalia as
+in Figs 63-64. On Achillea.. .... Craspedolepta bulgarica
+Anterior margin of vertex strongly indented in the middle with two distinct tubercles anteriorly; antero-lateral
+margin of vertex dorsal of antennal insertion distinctly concave. Forewing yellowish to brownish ochreous. On
+Leontodon... Craspedolepta flavipennis
+Anterior margin of vertex weakly indented in the middle with two indistinct tubercles anteriorly; antero-lateral
+margin of vertex dorsal of antennal insertion more or less straight. Forewing semitransparent to whitish..........36
+Forewing veins dark brown, membrane light, sometimes with light brownish spots or brownish tinge apically. Paramere stalk robust, apical spoon-like part shorter and rounded as in Fig. 65. Female terminalia as in Fig. 67. On
+Senecio integrifolius ..... ... Craspedolepta crispati
+Forewing veins concolorous with membrane, membrane with yellowish tinge and brownish dots in apical third. Paramere stalk slender, apical spoon-like part longer and subangular as in Fig. 66. Female terminalia as in Fig. 68. On Leontodon ..... ..Craspedolepta sonchi
+Metabasitarsus with only one outer black spur, rarely also with much smaller inner spur. Propleurites divided by
+vertical suture .... 38
+Metabasitarsus with two well-developed black spurs which are subequal in size. Propleurites divided by diagonal
+suture ... 44
+Either genal processes longer than vertex, or length ratio of veins Cu / Cu,, of forewing 0. Paramere usually
+slender. — Livilla .... Character combination different
+Forewing oval, strongly convex, coriaceous. On Cytisus, Genista ..
+Forewing oblong oval, flat, membranous (Figs 69-70) ...
+Forewing long and narrow, branches of vein M forming an acute angle, pattern as in Fig. 69. On Genista . os . Livilla horvathi
+Forewing short and broad, branches of vein M forming a right angle, pattern as in Fig. 70. On Chamaecytisus,
+Cytisus « Livilla radiata
+Forewing broadest in apical third, lacking colour pattern. Paramere very slender, curved caudad, digitiform api-
+cally. Dorsal margin of female proctiger, in profile, concave. On Cytisus scoparius .........Arytainilla spartiophila
+Forewing broadest in the middle or in basal third, with conspicuous brown pattern. Paramere broader, paral-
+lel-sided, in profile, truncate apically with large, forward pointing apical tooth. Dorsal margin of female proctiger,
+in profile, straight. — Arytaina... 42
+Forewing broadest in the middle, fore margin relatively flat. Paramere broad, dorsal margin distinctly concave. On
+Cytisus, Genista..... . Arytaina genistae
+Forewing broadest in basal third, fore margin strongly curved. Paramere narrow, dorsal margin weakly convex. On
+Chamaecytisus ratisbonensis. Arytaina maculata
+Antennal segment 9 longer than 10... 44
+Antennal segment 9 shorter than 10 48
+Genal processes short and broad. Forewing with costal break and pterostigma developed; membrane yellow, veins
+concolorous. Dorsal margin of female proctiger serrate in apical third. On Alnu . Baeopelma foersteri
+Character combination different. — Psy/la. 45
+Forewing with cell cu, almost as high as long; membrane yellowish, veins concolorous, yellow or green. On
+Buxus ... .Psylla buxi
+Forewing with cell cu, at most 1.5 times as long as high. On Betulaceae 46
+Forewing lacking costal break and pterostigma. On Alnus Psylla fusca
+Forewing bearing costal break and pterostigma.... AT
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Livilla ulicis
+40
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+47
+
+48,
+
+49
+
+50
+
+51
+
+52
+
+53
+
+54
+
+55
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+62
+
+63
+
+Jumping plant-lice of Belarus 19
+
+Genal processes short, rounded. Forewing with dark brown or black veins in apical two thirds. On Alnus
+oe Psylla alni
+Genal processes longer, conical. Forewing veins paler. On Betula. 48
+Body length, including forewings when folded over the body, longer than 3.5 mm in males and 4.1 mm in females. Forewing colourless or with yellow tinge. On Betula... .... Psylla betulae
+Body length, including forewings when folded over the body, shorter than 3.7 mm in males and females. Forewing
+amber-coloured. On Betula. .Psylla betulaenanae
+Metatibia with 4 apical spurs. On Betula. -Chamaepsylla hartigii
+Metatibia with 5 apical spurs. — Cacopsylla... 50
+Dorsal surface spinules in cell r, of forewing above bifurcation of vein M arranged in squares or rhombi of about
+20 um length; surface spinules in cell c+sc restricted to apical portion of cell or entirely reduced; surface spinules
+reduced in basal part of r,, at most a few spinules present; fields of surface spinules tapering along apical wing
+margin; forewing membrane always colourless; pterostigma oblong cuneate, evenly tapering. Antenna shorter than
+1.75 mm, if longer, then forewing longer than 3 mm. Male paramere simple, lamellar. Female terminalia short,
+cuneate. ~ Sd
+Forewing spinulation different, or wing membrane yellowish or brownish, or pterostigma elongate with subparal-
+lel margins. If antenna longer than 1.75 mm, then forewing shorter than 3.0 mm. Male paramere often complex. Female terminalia different. 34
+Antenna shorter than 1.2 mm. On Crataegus ‘'acopsylla peregrina
+Antenna longer than 1.3 mm.... 52
+Antenna longer than 1.75 mm. On Ulmus .. -Cacopsylla ulmi
+Antenna shorter than 1.55 mm . 53
+Antennal segments 4-8 with black apex. On Sorbus... Cacopsylla sorbi
+Antennal segments 4-8 with yellow or ochreous apex. On Malu. .Cacopsylla mali
+Dorsal surface spinules of forewing in cell r, above bifurcation of vein M irregularly, densely spaced (2-10 jm) or
+arranged in transverse rows...
+
+ 
+
+ 
+
+   
+
+ 
+
+     
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+bifurcation of vein M... Surface spinules arranged in transverse rows. Surface spinules densely, irregularly spaced ..
+Paramere, in profile, with large basal lobe. Dorsal margin of female proctiger straight or weakly convex. On
+Salix ....Cacopsylla elegantula
+Paramere, in profile, lamellar with anteriorly directed apical tooth. Dorsal margin of female proctiger sinuous. On
+Saliy 57
+Thorax brown, abdomen green. Terminalia ochreous or brown. On Salix ‘acopsylla abdominalis
+Body colour evenly light or reddish. On Salix .. Cacopsylla intermedia
+Forewing with an apical dark brown band or completely brown to dark brown. 59
+Forewing light, at most yellow or ochreous ... 60
+Forewing bearing dark band apically (Fig. 71). Metatibia without genual spine. Male subgenital plate bearing api-
+cal tubercular extension (Fig. 72). Female proctiger and subgenital plate ending in thorn-like processes (Fig. 75). On Sorbus ... ... Cacopsylla breviantennata
+Forewing irregulary dark without distinct apical ribbon (Fig. 73). Metatibia with genual spine. Male subgenital
+plate rounded apically (Fig. 74). Female proctiger and subgenital plate evenly tapering in profile (Fig. 76). On
+
+ 
+
+ 
+
+ 
+
+   
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+Prunus... .. Cacopsylla pruni
+Forewing bearing ventral surface spinules in cell ct+sc. Surface spinules on forewing very densely arranged. On
+Salix. .Cacopsylla ambigua
+
+ 
+
+ 
+
+Ventral surface spinules lacking in cell c+sc. Surface spinules on forewing more sparsely arranged. 61
+Forewing oval, widest in the middle; wing apex near apex of vein M,_,. Antenna shorter than 1.0 mm. On Salix
+repens and S. rosmarinifolia.. ..Cacopsylla parvipennis
+Forewing widest in apical third; wing apex at the middle of outer margin of cell r,. Antenna longer than 1.0 mm. On
+Salix .... Cacopsylla flor
+Forewing bearing dark brown patches on tips of veins, at the bifurcation of vein M, and in the middle of vein Cu,,. On Cercis siliquastrum... Cacopsylla pulchella
+Forewing pattern different 63
+Dorsal surface spinules covering entire cell c+sc of forewing apart from stripes along veins; forming extended
+fields in other cells which taper towards wing margin; membrane colourless or fumate but never with brown,
+strongly contrasting stripe along vein Cu,,..... 64
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+20
+
+66
+
+67
+
+68
+
+75
+
+76
+
+71
+
+78
+
+79
+
+80
+
+81
+
+82
+
+L. Serbina, D. Burckhardt & O. Borodin
+
+Dorsal surface spinules of forewing more or less reduced, or not tapering towards wing margin, or wing pattern
+consisting with dark, strongly contrasted stripe along vein Cu,,. 67
+Antenna usually longer than 1.2 mm. Genal processes broad and blunt. Paramere broad, lanceolate (Fig. 77). Dor-
+sal margin of female proctiger, in profile, weakly sinuous, apex narrowly rounded (Fig. 78). On Pyrus ....
+.Cacopsylla pyrisuga
+Antenna usually shorter than 1.1 mm. Paramere narrow or with apical processes. Dorsal margin of female procti-
+ger concave in the middle, or apex truncate... 65
+Paramere, in profile, with square base bearing 2 apical processes (Fig. 79). Dorsal margin of female proctiger,
+distal of circumanal ring, evenly concave; apex rounded (Fig. 80). On Malus. ... Cacopsylla picta
+Paramere, in profile, elongate; apex with inward and forward pointing tooth. Dorsal margin of female proctiger
+raised in the middle; apex angular... 66
+Paramere long, in profile, narrowed in the middle. Apex of distal segment of aedeagus weakly curved (Fig. 81). On
+Crataegus. Cacopsylla melanoneura
+Paramere short, in profile, evenly tapering from base to apex. Apex of distal segment of aedeagus strongly curved,
+hook-shaped (Fig. 82). On Crataegus ..... .Cacopsylla affinis
+Forewing with fields of surface spinules tapered along apical wing margin; membrane bearing dark brown patch
+along vein Cu,, (Figs 83-84). 68
+Character combination different 69
+Areas of radular spinules of cells m,, m, and cu, of forewing light; dark patch along vein Cu,, not reaching bifur-
+cation of Cu, not narrowed in proximal half (Fig. 83); surface spinules forming extended fields in cells ctsc and r,. On Sorbus .... ....Cacopsylla albipes
+Areas of radular spinules of cells m,, m, and cu, of forewing more or less dark; dark patch along vein Cu,, reaching
+bifurcation of Cu, straight in proximal half (Fig. 84); surface spinules reduced in cells c+sc and r,. On Crataegus. ..Cacopsylla crataegi
+Cacopsylla rhamnicola
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Surface spinules of forewing forming very narrow fields. On Rhamnus
+Surface spinules of forewing forming extended fields...
+Forewing with fields of surface spinules tapering towards apical margin; clavus with brown apex. Character combination different...
+Paramere sickle-shaped (Fig. 85). Female proctiger strongly narrowed in the middle (Fig. 86). On Pyrus. Cacopsylla pyri
+‘acopsylla pyricola
+
+ 
+
+  
+
+ 
+
+   
+
+Paramere lamellar (Fig. a Female proctiger cuneate (Fig. 88). On P)
+Antenna longer than 1.6 mm ..
+Antenna shorter than 1.3 mm .. .
+Metatibia with 1+1+(2-3)+1 sclerotised apical spurs. Antennal segments 3-7 yellowish or ochreous with dark
+brown apex. Fields of surface spinules tapering along apical wing margin. On Viscum .Cacopsylla visci
+Character combination different... 74
+Body colour dark brown. Paramere with short, angular apical, sclerotised apex (Fig. 89). Valvula 2 of female ter-
+minalia with straight ventral margin (Fig. 91). On Hippophae.... -Cacopsylla zetterstedti
+Body colour green or yellow. Paramere with long, curved apical, sclerotised apex (Fig. 90). Valvula 2 of female
+terminalia with concave ventral margin (Fig. 92) On Hippophae.... .. Cacopsylla hippophaes
+Pterostigma cuneate, broad and short, with converging margins ending in the middle of vein Rs; wing membrane
+yellowish or ochreous, veins ochreous or light brown... 16
+Pterostigma long and narrow, with subparallel margins vending i in apical third of vein Rs; wing membrane colour-
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+   
+  
+
+ 
+
+ 
+
+less or dark, veins light or dark. 719
+Fore margin of forewing relatively straight. On Rhododendron. Cacopsylla rhododendri
+Fore margin of forewing strongly curved.. 77
+Surface spinules entirely covering cell c+sc of forewing. On Vac Cacopsylla myrtilli
+Surface spinules absent from basal third of cell ct+sc of forewin; 78
+On Vaccinium myrtillus ... . Cacopsylla fraudatrix
+On Ledum palustre ... Cacopsylla ledi
+
+Male paramere bearing subapical lobe along hind margin
+Male paramere lacking subapical lobe along hind margin
+
+Paramere lacking basal lobe at hind margin. On Salix. ‘'acopsylla moscovita
+
+ 
+
+ 
+
+ 
+
+Paramere bearing basal lobe at hind margi 81
+Basal lobe at hind margin of paramere not incised dorsally. On Salix. Cacopsylla saliceti
+Basal lobe at hind margin of paramere strongly incised dorsally. On Salix. .Cacopsylla iteophila
+Apex of paramere forming simple, backwards directed sclerotised tooth. On Salix ..... .. Cacopsylla pulchra
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+88
+
+91
+
+92
+
+93
+
+96
+
+Jumping plant-lice of Belarus 21
+
+Apex of paramere with two strongly sclerotised teeth
+Paramere, in rear view, with a tooth in apical third; in profile, as in Fig. 93. On Salix.
+
+ 
+ 
+
+ 
+
+. Cacopsylla brunneipennis
+Paramere, in rear view, with lobe in the middle of inner margin; in profile, as in Fig. 94. On Salix. ve ... Cacopsylla nigrita
+Metatibia with 1+3 sclerotised apical spurs 85
+Metatibia with 1+2 sclerotised apical spurs 107
+Forewing with extended dark pattern consisting of small points; fore margin straight to concave between apices of
+veins Rs and M,,, (Fig. 95). On Rhamnus cathartica .. Trichochermes walkeri
+Forewing pattern different; fore margin convex. — Trioza p.p. 86
+Forewing short and broad, angular apically; branching of vein M distinctly distal to Rs—Cu,, line. Antennal colour
+strongly contrasted, segment 3 light, segments 4-10 dark. 87
+Forewing elongate, sometimes rounded apically; Rs—Cu,, line proximal to or on branching of vein M. Antennal
+colour variable. .. 89
+Genal processes short. Paramere, in profile, strongly narrowed in apical quarter, forming anterior tubercle and
+posterior process (Fig. 96). Female subgenital plate truncate apically, consequently strongly convex dorsally (Fig. 97). Terminal setae on antennal segment 10 subequal. On Valerianella... .. Trioza centranthi
+Genal processes long. Male paramere in apical quarter regularly narrowing to apex (Figs 98, 100). Female subgeni-
+tal plate evenly tapering to apex, dorsal margin almost straight (Figs 99, 101). Terminal setae on antennal segment
+10 strongly unequal. .... .. 88
+Forewing without surface spinules. Male paramere robust, angular apically; distal portion of aedeagus with large
+apical hook (Fig. 98); female subgenital plate, in profile, with obtuse apex (Fig. 99). On Galium and other Rubia-
+ceae... . Trioza galii
+Forewing with surface spinules. Male paramere slender, curved apically (Fig. 100); female subgenital plate, in
+profile, with small sharp tooth at apex (Fig. 101). On Galium.... Trioza velutina
+Forewing with surface spinules present at most in cell cu,. Male paramere long and slender, lamellar (Fig. 102). Female terminalia long, dorsal margin of proctiger more or less straight (Fig. 103). On Urtica ...... Trioza urticae
+Forewing with surface spinules present in all cells, covering smaller or larger areas... 90
+Terminal antennal setae strongly differing in length, both distinctly shorter than antennal segment 10; shorter seta
+very short, stout and truncate apically. Axes of genal processes diverging forward; genal processes relatively mas-
+sive and blunt, evenly narrowed. Body orange to reddish, sometimes brownish to black... OL
+Terminal antennal setae different; axes of genal processes parallel, or genal processes slender and pointed or fusi-
+form, or body yellowish or greenish.... Surface spinules of forewing spaced at 5-10 um intervals or forming transverse rows in the middle of cell r,
+of branching of vein M, never reduced along outer wing margin. Male paramere basally robust (Fig. 104), female
+terminalia short with proctiger, in profile, dorsally straight (Fig. 105). On Hieracium..... Trioza proxima
+Surface spinules of forewing forming regular rectangles or rhombes of 15-10 tm distance, sometimes reduced
+along outer wing margin. Terminalia different 92
+Male paramere with weak subapical constriction. Female proctiger cuneate, regularly tapering to apex, short, about
+twice as long as circumanal ring. On Mycelis Trioza foersteri
+Male paramere with strong subapical constriction (Fig. 106, 108). Female terminalia different 93
+Male paramere about as long as or longer than proctiger, apical portion bent inwards and weakly backwards (Fig. 106). FPHW less than 0.8, proctiger truncate apically (Fig. 107). On Taraxacum . Trioza dispar
+Male paramere shorter than proctiger or apical portion straight, directed upwards (Fig. 108). FPHW more than 0.8,
+proctiger regularly narrowed apically (Fig. 109). On Hieracium.... .. Trioza tatrensis
+Surface spinules of forewing in cell r, at level of branching of vein M densely spaced in a distance of 6-12 ym...
+95
+Surface spinules of forewing in cell r, at level of branching of vein M arranged in regular rectangles or rhombi in
+a distance of 10-20 um... 97
+Forewing distinctly angular apically; vein Cu much more than twice as long as Cu,,, cell cu, flat. Male paramere
+slender in apical half; apex turned backwards. Female proctiger blunt apically. On Aegopodium
+.Trioza, flavipennis
+cell cu, high. Male
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Forewing irregularly rounded apically; vein Cu at most slightly more than twice as long as Cu,
+paramere massive in apical half; apex turned inwards or forwards (Fig. 110). Female proctiger pointed apically
+
+1b
+
+(Fig. 111)... 96
+Male parameres with large antero-basal lobe. Distal aedeagal segment with large apical hook. Female subgenital
+plate short, truncate apically. Lateral abdominal setae present on tergites 3 and 4 in males, and 4 and 5 in females. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+22
+
+97
+
+108
+
+109
+
+110
+
+1
+
+112
+
+L. Serbina, D. Burckhardt & O. Borodin
+
+Relative lengths of terminal antennal segment : shorter terminal antennal seta : longer terminal antennal seta = 1.0
+: 0.4 : 0.7. On Cardamine, Stellaria . Trioza rotundata
+Male parameres without distinct antero-basal lobe. Distal aedeagal segment with short hook. Female subgenital
+plate long, pointed apically. Lateral abdominal setae present on tergites 3 in males, 4 in females. Relative lengths
+of terminal antennal segment : shorter terminal antennal seta : longer terminal antennal seta = 1.0 : 0.3 : 0.8. On
+Valerianella tripteridi .Trioza tripteridis
+Forewing with very long, sinuous vein Rs; membrane transparent, colourless, wing margin with dark dots at inter-
+sections of veins and near radular spinules. One terminal antennal seta less than three times shorter than the other
+seta. On Rhamnus .... . Trioza rhamni
+Combination of characters different .. Body almost completely dark brown or black.. Body green, yellow or reddish; sometimes thorax dark but abdomen green
+Forewing membrane dirty whitish. Apex of paramere pointing forwards. Female proctiger truncate apically. On
+Saxifraga.. .. Trioza saxifragae
+Forewing membrane ochreous. Apex of paramere pointing backwards. Female proctiger subacute apically. On
+Astrantia major... . Trioza schrankii
+Body straw-coloured or ochreous. Paramere simple, broadly lamellar. Female proctiger short, about twice as long
+as circumanal ring. On Rumex scutatus . Trioza rumicis
+Body green, light yellow, sometimes thorax brown. Paramere with inner process or with broad base and narrow
+apical portion. Female proctiger about three times as long as circumanal ring .. LOL
+Forewing broadly irregularly rounded apically. Male proctiger with posterior lobe; paramere with inner process
+(Fig. 112). On Cerastium.. Trioza cerastii
+Forewing angular apically. Male proctiger without posterior lobe; paramere without inner process . 102
+Body always, also in overwintered specimens, yellow or green, never yellowish orange, or with brown to black
+spots
+Body never exclusively yellow or green; either yellow-orange or with brown to black spots
+Antennal segments 6-8 brown. Basal portion of male paramere with distinct antero-apical tubercle (Fig. 113). Female proctiger, in profile, with weakly sinuous dorsal margin (Fig. 114). On Cirsium Trioza cirsii
+Antennal segments 6-8 light. Male and female terminalia different .. 104
+Basal portion of male paramere angled antero-apically. Female terminalia long. On Cirsium...... Trioza agrophila
+Basal portion of male paramere oblique antero-apically, Female terminalia short. On Senecio... Trioza senecionis
+Postero-apical process of paramere very slender and straight. Female subgenital plate much shorter than proctiger. On Chrysanthemum . .... Trioza chrysanthemi
+Postero-apical process of paramere wider and curved. Female subgenital plate about as long as proctiger 106
+Paramere with very small anterior lobe (Fig. 115). Female subgenital plate slender apically. On Achillea. se
+- Trioza abdominalis
+Paramere with large anterior lobe. Female subgenital plate massive apically. On Knautia .. Trioza munda
+Branching of vein M of forewing distinctly distal to Rs—Cu,, line; vein Rs straight or concavely curved to fore
+margin; forewing angular apically.... .. 108
+Branching of vein M of forewing proximal to or about on Rs-Cu,, line, or vein Rs sinuate, or apex of forewing
+broadly rounded... ... 110
+Genal processes short. Forewing very narrow with low cell cu,; surface spinules absent. Male paramere narrow
+(Fig. 116); female terminalia as in Fig. 117. On Laurus .. Trioza alacris
+Genal processes longer. Forewing broader; cell cu, higher; surface spinules present or absent. Male paramere
+broad, female terminalia different ..... 109,
+Large species, forewing longer than 2.65 mm, Surface spinules of forewing always present. Terminalia as in Figs
+118-119. On Quercu. .. Trioza remota
+Small species, forewing shorter than 2.6 mm. Surface spinules present or absent. Terminalia different. On Amaran-
+thaceae .. Trioza chenopodii
+Body green or yellow . we TL
+Body colour different. 113
+Antennal segments 4-6 yellow or light ochreous; apical two or three dark segments strongly contrasting with the
+lighter more basal segments. On Apiaceae. .Trioza apicalis
+Antennal segments 4-6 dark ochreous or light brown; antennal segments gradually becoming darker from segment
+3 to apex. 112
+Paramere with short dorsal projection and narrow anterior lobe (Fig. 120). Female subgenital plate with terminal
+process forming a long parallel sided projection (Fig. 121). On Anthriscus and other Apiaceae ... Trioza anthrisci
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+     
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+113
+114
+115
+
+116
+
+117
+118
+
+119
+
+Jumping plant-lice of Belarus 23
+
+Paramere with long dorsal projection and narrow anterior lobe (Fig. 122). Female subgenital plate with short and
+regularly tapering terminal process (Fig. 123). On Laserpitium . . Trioza laserpitii
+Surface spinules present in distal cells of forewing .... we 14
+Surface spinules absent, or present at most in cell cu, we 120
+Surface spinules absent from cell r, of forewing... Bactericera maura
+Surface spinules present in cell r, of forewing .. 115
+
+Antennal segments 4-7 dark 116
+Antennal segments 4-7 light 117
+Surface spinules entirely covering cell r, of forewing. Abdominal venter whitish, distinctly lighter than dorsum. Male paramere, in profile, sinuous with wide base and slender apex (Fig. 124). Ventral margin of female subgenital
+plate straight or concave subapically. On Salix. Bactericera albiventris
+Surface spinules of forewing present only in basal half of cell 1. Abdominal venter not whitish, or the same colour
+as dorsum. Male paramere, in profile, straight, with mostly subparal margins (Fig. 125). Ventral margin of female
+subgenital plate straight or convex subapically. On Salix. ..... .Bactericera salicivora
+Surface spinules in apical half of forewing covering the whole surface up to the veins; wing angular apically (Fig. 2). Terminalia as in Figs 126-127. On Comarum palustre ..... Bactericera acutipennis
+Surface spinules leaving spinule-free stripes along veins of forewing we 118
+
+Antennal segments 4 and 6 with each a group of rhinaria, therefore strongly dilated apically. Terminalia as in Figs
+128-129. On Alchemilla.. . Bactericera femoralis
+Antennal segments 4 and 6 with each | rhinarium, not strongly dilated apically we LD
+Surface spinules of forewing also present in distal half of cell r, and entirely covering cell c+sc. On Potentilla
+anserina .. ...Bactericera reuteri
+Surface spinules of forewing present only in proximal half of cell r, and strongly reduced in cell ctsc. On Geum
+
+.... Bactericera bohemica
+Genal processes at most as long as two thirds of vertex. Antenna entirely dark brown to black. Terminalia as in Figs
+130-131. Polyphagous on dicotyledonous herbs Bactericera nigricornis
+Genal processes about as long as vertex. At least antennal segment 3 light we 121
+
+Antenna completely black. On Artemisia Bactericera calcarata
+At least antennal segment 3 light... see 122
+Antennal segments 3-5 partly or entirely light. On Sangui: Bactericera modesta
+Antennal segment 3 light, 4 and 5 dark... we 123
+
+Forewing widest in the middle. On Berberis vulgar Trioza scottii
+Forewing widest in apical thirds. On Salix 124
+Forewing with vein A entirely dark..... Bactericera curvatinervis
+Dark colour on vein A of forewing reduced to a spot.. 125
+
+Dark spot on vein A of forewing distinct. Male paramere, in profile, more or less straight with large anteriorly
+directed tooth (Fig. 132). Female proctiger short with apical two thirds of dorsal outline strongly convex ..
+Bactericera striola
+Dark spot on vein A of forewing indistinct. Male paramere sickle-shaped or with small apical hook. Female proc-
+tiger longer with apical two thirds of dorsal outline straight or concave .. 126
+Male parameres, in profile, sickle-shaped. Female subgenital plate long with indistinct, long apical process ........
+Bactericera substriola
+Male parameres, in profile, straight, lamellar, with small apical tooth. Female subgenital plate short with distinct
+short apical process... .. Bactericera parastriola
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+  
+   
+ 
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+24 L. Serbina, D. Burckhardt & O. Borodin
+
+ 
+
+Figs 1-10. (1) Cacopsylla pyricola, forewing. (2) Bactericera acutipennis, forewing. (3) Psyllopsis fraxinicola, male terminalia. (4)
+Psyllopsis fraxinicola, female terminalia. (5) Psyllopsis discrepans, forewing. (6) Psyllopsis discrepans, paramere. (7)
+Psyllopsis discrepans, female terminalia. (8) Psyllopsis distinguenda, forewing. (9) Psyllopsis distinguenda, paramere. (10)
+Psyllopsis distinguenda, female terminalia. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Jumping plant-lice of Belarus 25
+
+ 
+
+Figs 11-18. (11) Psyllopsis fraxini, forewing, (12) Psyllopsis fraxini, paramere. (13) Psyllopsis fraxini, female terminalia. (14)
+Sirophingia ericae, male terminalia, (15) Aphalara exilis, forewing surface spinules. (16) Aphalara ulicis, forewing
+surface spinules. (17) Aphalara exilis, paramere. (18) Aphalara ulicis, paramere. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+26 L. Serbina, D. Burckhardt & O. Borodin
+
+0° oN
+
+ 
+
+Figs 19-29. (19) Aphalara longicaudata, forewing surface spinules. (20) Aphalara longicaudata, paramere. (21) Aphalara
+longicaudata, female terminalia. (22) Aphalara calthae, forewing surface spinules. (23) Aphalara polygoni, forewing
+surface spinules. (24) Aphalara borealis, forewing surface spinules. (25) Aphalara avicularis, forewing surface spinules. (26) Aphalara freji, forewing surface spinules. (27) Aphalara borealis, male terminalia, (28) Aphalara borealis, aedeagus. (29) Aphalara borealis, female terminalia. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Jumping plant-lice of Belarus 27
+
+ 
+
+Figs 30-40, (30) Aphalara avicularis, male terminalia. (31) Aphalara avicularis, aedeagus. (32) Aphalara avicularis, female
+terminalia. (33) Aphalara freji, male terminalia, (34) Aphalara freji, aedeagus. (35) Aphalara freji, female terminalia. (36) Craspedolepta artemisiae, forewing surface spinules. (37) Craspedolepta latior, forewing surface spinules. (38)
+Craspedolepta malachitica, forewing surface spinules. (39) Craspedolepta latior, forewing. (40) Craspedolepta
+malachitica, forewing. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+28 L. Serbina, D. Burckhardt & O. Borodin
+
+ 
+
+Figs 41-48. (41) Craspedolepta artemisiae, male terminalia. (42) Craspedolepta artemisiae, female terminalia. (43) Craspedolepta
+latior, male terminalia. (44) Craspedolepta latior, female terminalia. (45) Craspedolepta malachitica, male terminalia. (46) Craspedolepta malachitica, female terminalia. (47) Craspedolepta subpunctata, paramere. (48) Craspedolepta
+subpunctata, female terminalia. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Jumping plant-lice of Belarus 29
+
+ 
+
+Figs 49-58. (49) Craspedolepta innoxia, forewing surface spinules. (50) Craspedolepta innoxia, paramere. (51) Craspedolepta
+innoxia, female terminalia. (52) Craspedolepta omissa, forewing surface spinules. (53) Craspedolepta omissa, paramere. (54) Craspedolepta omissa, female terminalia. (55) Craspedolepta nebulosa, forewing. (56) Craspedolepta nebulosa,
+male terminalia. (57) Craspedolepta nebulosa, paramere. (58) Craspedolepta nebulosa, female terminalia. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+30 L. Serbina, D. Burckhardt & O. Borodin
+
+ 
+
+Figs 59-66. (59) Craspedolepta nervosa, forewing. (60) Craspedolepta bulgarica, forewing. (61) Craspedolepta nervosa, male
+terminalia. (62) Craspedolepta nervosa, female terminalia. (63) Craspedolepta bulgarica, male terminalia. (64)
+Craspedolepta bulgarica, female terminalia, (65) Craspedolepta crispati, male terminalia. (66) Craspedolepta sonchi,
+male terminalia,
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Jumping plant-lice of Belarus 31
+
+ 
+
+t.
+
+Figs 67-74. (67) Craspedolepta crispati, female terminalia. (68) Craspedolepta sonchi, female terminalia, (69) Livilla horvathi,
+forewing, (70) Livilla radiata, forewing. (71) Cacopsylla breviantennata, forewing. (72) Cacopsylla breviantennata, male
+terminalia. (73) Cacopsylla pruni, forewing. (74) Cacopsylla pruni, male terminalia. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+32 L. Serbina, D. Burckhardt & O. Borodin
+
+ 
+
+Figs 75-82. (75) Cacopsylla breviantennata, female terminalia. (76) Cacopsylla pruni, female terminalia. (77) Cacopsylla pyrisuga,
+male terminalia, (78) Cacopsylla pyrisuga, female terminalia. (79) Cacopsylla picta, male terminalia. (80) Cacopsylla
+picta, female terminalia. (81) Cacopsylla melanoneura, male terminalia. (82) Cacopsylla affinis, male terminalia. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Jumping plant-lice of Belarus 33
+
+ 
+
+Figs 83-90. (83) Cacopsylla albipes, forewing. (84) Cacopsylla crataegi, forewing. (85) Cacopsylla pyri, male terminalia. (86)
+Cacopsylla pyri, female terminalia. (87) Cacopsylla pyricola, male terminalia. (88) Cacopsylla pyricola, female terminalia
+(89) Cacopsylla zetterstedti, male terminalia. (90) Cacopsylla hippophaes, male terminalia. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+34 L. Serbina, D. Burckhardt & O. Borodin
+
+ 
+
+Figs 91-97. (91) Cacopsylla zetterstedti, female terminalia. (92) Cacopsylla hippophaes, female terminalia. (93) Cacopsylla
+brunneipennis, male terminalia. (94) Cacopsylla nigrita, male terminalia. (95) Trichochermes walkeri, forewing. (96)
+Trioza centranthi, male terminalia. (97) Trioza centranthi, female terminalia. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Jumping plant-lice of Belarus 35
+
+ 
+
+Figs 98-105. (98) Trioza galii, male terminalia. (99) Trioza galii, female terminalia. (100) Trioza velutina, male terminalia, (101)
+Trioza velutina, female terminalia, (102) Trioza urticae, male terminalia, (103) Trioza urticae, female terminalia. (104)
+Trioza proxima, male terminalia, (105) Trioza proxima, female terminalia,
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+36 L. Serbina, D. Burckhardt & O. Borodin
+
+ 
+
+Figs 106-112. (106) Trioza dispar, male terminalia. (107) Trioza dispar, female terminalia. (108) Trioza tatrensis, male terminalia,
+(109) Trioza tatrensis, female terminalia. (110) Trioza rotundata, male terminalia. (111) Trioza rotundata, female
+terminalia. (112) Trioza cerastii, male terminalia. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+Jumping plant-lice of Belarus 37
+
+117
+
+ 
+
+Figs 113-119. (113) Trioza cirsii, male terminalia. (114) Trioza cirsii, female terminalia, (115) Trioza abdominalis, male terminalia,
+(116) Trioza alacris, male terminalia. (117) Trioza alacris, female terminalia, (118) Trioza remota, male terminalia. (119) Trioza remota, female terminalia. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+38 L. Serbina, D. Burckhardt & O. Borodin
+
+ 
+
+Figs 120-125. (120) Trioza anthrisci, male terminalia, (121) Trioza anthrisci, female terminalia. (122) Trioza laserpitii, male terminalia. (123) Trioza laserpitii, female terminalia. (124) Bactericera albiventris, male terminalia, (125) Bactericera salicivora,
+male terminalia,
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https/bioone.org/terms-of-use
+
+Jumping plant-lice of Belarus 39
+
+ 
+
+Figs 126-132. (126) Bactericera acutipennis, male terminalia, (127) Bactericera acutipennis, female terminalia, (128) Bactericera
+Jfemoralis, male terminalia, (129) Bactericera femoralis, female terminalia, (130) Bactericera nigricornis, male
+terminalia. (131) Bactericera nigricornis, female terminalia. (132) Bactericera striola, male terminalia. Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+Terms of Use: https://bioone.org/terms-of-use
+
+L. Serbina, D. Burckhardt & O. Borodin
+
+40
+
+1 vimjoundgns vrdajopadso4y
+pyord nappoydy sed 17 z nyouos vydajopadso4)
+I nssnuo vidapopadso4)
+
+psoasau vavpoydy se £z I nsoauau vydajopadsp1y
+
++
+
+z psojngau vidapopadsou)
+1 paynyorjou vrdajopadsosy
+
+I oun} vidapopadso4)
+
+aaa tana ta
+
+vyoid vanpoydy sv-ded Lz t 1 stuadianyf mdajopadsnsy
+I nods vydajopadsou
+List z pouup8ing pidajopadsp1
+
+anisuauin pavpoydy se LZ 7 avistuapan vydayopadseuy
+
+nysudzoauus avupaayp 3 se Z apuyaayo vidajopadspsy
+
+pjoords
+“Ma “Y St pz ‘Pjoaioquna “p se Z suaaspindind vanpoydy
+
+z sruuadyjnovu vavjoydy
+
+moBijod vavpoydy sv-ad 17 1moBsjod vavpoydy sv Z _ wSipJooy9 998 ‘ORAod “py se ¢ “| Masf vanjoydy. a oS E z sypixa vavjoydy
+
+re z apyyjo2 vavjoydy
+
+z stppoiog vanyoydy
+
+mo8qjod vavpoydy seed 17 97 ISIPPayo 29s WWOSAod “y se E “ suipjnoian vavjoydy
+& re z I stuff vanpoydy
+
+oeunepeydy
+
+ovpueyeydy,
+
+ 
+
+BIuOATT eueny TT eISSTY ISOAYHON, puejod smavpog saioodg
+
+ 
+
+“(110Z) Aoned — 87 “(198 1) 101d — LZ *(Z661) UOss|HUURISSO — 97 *(110Z) BEMOFH 7 vAsMoLOYord — ¢Z “(966 1) PINSYN 7 BYSWVMOID — HZ “(166 1) PAVMOFD — €Z “(6861)
+BYEMOPD — ZZ (PLO) QEYsMeLOsUEA — 1Z *(600Z) 7? 19 AydunyeW — OZ *(Z10Z) 7? 12 BAsjouZNY — 61 (Z6G1) PAONMIO}OG F Yorrosed|pls — 81 “(POOZ) AONEd — LI
+*(4ZL61) PACUIBOT — 9] *(6961) BAOYLATLA — $1 “(EL6I) 1? 12 BYUOZpzEAg — pI (886) 7 12 OYUE]IOH — EI +(L961) BAOCUIBOT — ZI (ELOZ) UPPNLS 7 AONed — 11 (1107) ‘7? 12 Aone — OI *(PS61) PAOUITOT — 6 (9961) PAOUITOT — g «(8Z9GI) BAOUITOT — L “(LZL61) PAOUIBOT — 9 +3961) PAOUIZOT — ¢ *(GZ96I) PAOUIBOT — F *(1961) BAOUITOT — €
+“(SL61) PysMozseunpy — Z ‘soded quasad oy ut papsosa sarsads — | :sdd.MOg “IUOAT'] JOWLIOJ dy} pue BIULNYYT ‘eIssNy ISOMYLION ‘purjog ‘snejog Woy poyiodas spry[Asd
+
+T XIGNaAddV
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+
+Terms of Use: https://bioone.org/terms-of-use
+
+41
+
+Jumping plant-lice of Belarus
+
+suuBisur vey Se LZ
+
+muyjou vytdsy Se LZ
+
+uuarsiaof vysey Se LZ
+
+wnsoounf mary Se LZ
+sisuappafa1d Diary Se LZ
+
+nsojzads pjooounyy St LZ
+
+apolia pjozoUulyy Se LZ
+
+sojoowun vy Se LZ 07
+nuxvuf vps Se LZ
+
+0z
+
+Lz
+
+ryayndopy nyjsdoa3 sv Z
+
+pnBiquin vydsg Se 21°85“
+
+uarsiaof oysey Se
+07
+
+Sb
+
+uaysiaof oyysey Se Z
+
+wunsoount vit se 8%
+
+anousa vprowppydy se 7
+
+zt
+
+zt
+zt
+zt
+
+w
+
+ol
+
+eit
+
+I
+z
+
+z
+tuayssaof vypoey Se “1
+
+pyoquuy viydvaig se 7
+unsosunt Diary se Z
+sisuapjafaus viydvaig se 7
+
+I
+
+pipauusazu vyjdsdoo0y
+savydoddiy nyjsdoovy
+xumwpnoaf nypAsdoan
+wuoyf vycsdoon>
+pynunsaja vyjcsdoon.y
+1Bavpo19 vjjcsdoov.y
+stuuadiouunag n.csdoan
+pnSiquo nycsdoo07
+sadiqqn vysdoo07
+stppunwopqn yjjtsdoon
+uajsiaof puyjadoang
+ppydoyands myprumncy
+apysqua8 puny
+seuss
+
+aepyissd
+
+pyoquay Diary
+
+rount Diary
+
+sisuapjafa49 DIAYT
+psoisads puaasojounun)
+oeunary
+
+anoua mBuydoug
+
+nyoowuxouf stsdoppssgy
+murxv4f sisdoyssgy
+ppuanSunsip sisdoyssg
+sundaiosip sisdoysg
+seutiny|sydng
+
+oepHAry
+
+suso9p vjosouryy,
+
+seUTTOOOUTYY,
+
+ 
+
+IUOAT] eruenyiy
+
+ISSMY ISSMYHON,
+
+Purjod
+
+smaepg
+
+ 
+
+soroadg
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+
+Terms of Use: https://bioone.org/terms-of-use
+
+L. Serbina, D. Burckhardt & O. Borodin
+
+42
+
+pynypordsiad vyitsg Sv 17
+
+Lt
+Lt
+
+uBqavy vyjcsg Se LZ
+
+nude vypcogy Se 17
+
+pjoSovyws9 nyse Se LZ
+
+pou vyids Se LZ
+spay v4idsd 88 LZ
+
+myoogaipns vids Se LZ
+
+id
+
+07
+nanipos vps Se LZ
+
+naurd nyse S® LZ
+
+it
+
+Biyavy vydsg Se
+
+muy nyse Se §
+
+1quos vps 80.9 “p
+
+nad vps se
+
+payaind vyitsg Se 1 ‘5 “p
+
+smuuadiaand pyc 8° TP
+
+pyusoasou vps St TL *P
+
+07
+you vids Sey
+
+z
+1xng pinauojundg se Z
+z
+z
+
+sByavy vydsy se Z
+
+junad nyse St §
+z
+
+z
+pyadqu nyse Se TIP
+
+z
+pyusoue vps Se ZI
+
+IL ‘OL
+
+I
+
+I
+
+z
+
+DIDIpps vanaUoao}]y 8° Z
+IYpDALOY DIOL] SEZ
+
+I
+
+pBnsuadd nya Se 1
+
+z
+madd vpysg Se St “E1
+
+I
+
+aa
+
+iia
+
+z
+
+pu dys 8° PL “ELL
+I
+
+z
+
+vosnf vyits. ping yo
+
+anynyag Dye
+
+nyo vypdoa
+
+soy myer
+
+pivipoa vyptaryT
+sypontoy DynArT
+nSpuny y.csdovuoy,
+uparsiayaz njjdsdoony
+rosta nysdoovy
+
+nujn pyjxsdoov
+
+iqaos vysdoon
+naayps vypdsdoan
+pBnsuadd vypdsdoo0.>
+
+ppoouadd nydsdoony
+yd pyjdsdoony,
+
+payoynd nyjdsdoon
+pjjayaind nyjsdoon
+tunad vypsdoon
+puus8auad nyjcsdoon
+snuuadiaand ny.dsdoovy
+pyutsru nydsdoony
+mud vyssdoony
+pnaoasou vyjsdoon
+pyuow vyasdoony
+
+panauouvjou pyjsdoo0>
+
+you vjpssdoovy
+spay myysdo0.y
+nprydoan vy.ssdoovy
+
+ 
+
+IUOAT]
+
+eruenyiy
+
+ISSMY ISSMYHON,
+
+Purjod
+
+smaepg
+
+ 
+
+soroadg
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+
+Terms of Use: https://bioone.org/terms-of-use
+
+4B
+
+Jumping plant-lice of Belarus
+
+MayJDM DIOL SB LZ
+
+DIOLS DZOLET Se LZ
+
+sypsows vzouy Se LZ
+
+DINPLIA DOLL Se LZ
+
+Lt
+
+squsoaniB iu nzony St LZ
+
+Iz
+pied vzous Se
+
+DIOLUS DzOLET Se 9] “p
+
+07
+
+sypsowas vou se Sy
+
+SMMUDUNDAAND DZOLLT, SE
+
+SLUAAIGID DZOLL SP LZ
+
+DINPLIIA DOLL Se Z
+
+syppoide vzonuouarapy Se
+
+pied vzonnouayapy Se Z
+
+z
+
+DiAoAIDI}DS DZOLLT, SP S “p
+
+z
+
+Danbut DZOLET Se S
+
+omuayoq Dz01L4] Se 9] “p
+
+SLguaaig]D DzO1L] St 8 °S “p
+
+ve
+podouay vzo1sso.0}041 Se T
+I
+
+z
+
+si
+
+I
+
+SHOD]D DZOLUOIAIOL SEZ
+
+z
+syou
+-NuopgD syoUIWOpGD DzOLAL Se Z
+
+LU
+
+&
+
+I
+
+DIOLS DZOLLT SB
+z
+
+I
+
+st
+
+ 
+
+Shauaaig]D DzoLNO12}2f] SP Z
+
+undsip vzouuy
+N89 vz014
+uayqunsdays vz0Ly
+npodowaya vz014
+Mispsa9 vzoUy
+myrunaqu09 wzouy,
+sypardo vz0uy
+Josuaysun D201
+Suv vzoMLy,
+
+ppiydous vz014
+
+sypunuopgn vzouy
+Maya SOULIOYIOUAL
+puasop vBnforSuciy
+pjowsqns piaouaroog
+vjouas paasuarvg
+Duoatoyps DiaoUa}20g
+luaina4 paasua1vg
+pjowsspand psaouiaiong
+snuoouBiu naoouarog
+pysopou niaouaroog
+punvu. naasuarvg
+stppsoaf piasuiajoog
+suudaupouna piaouarong
+pypavopn9 Diaouano0g
+poquayog nia2uiaiong
+
+shaquaaigyD pissuiajoog
+
+ 
+
+ppunut
+“L pu siuuadiynow vz014] St 17 snuuadynov vous St 8 *p z I snuuadinov piaguarsog
+SepIZolny,
+
+PIUOATT vmuenyy ISSMY ISOANTPION, purjog SnIeOEL sarod
+
+ 
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+
+Terms of Use: https://bioone.org/terms-of-use
+
+L. Serbina, D. Burckhardt & O. Borodin
+
+44
+
+ 
+
+le
+le 07
+
+DJODN2IgD DZOAL Se LZ
+
+nigodup vzo1L, Se LZ
+
+Lz
+
+Lz 07
+
+07
+
+r
+
+(ued ut) 108 «7 se Z
+T
+
+Jyupayos DZOL] Se Z
+
+Bish
+IOWA DZOLOLIIOE] SV TZ
+
+zt
+
+8p
+
+z
+
+Durnpa vz0LLy
+
+apayuan vzoLy,
+sipuiardia vz0LAy
+sisuaiyp) Dz0LL]
+smuo}auas Dz0LL]
+myunayas vz0LA]
+avBpufixos nz0l.y
+sronuna vzouy
+pyppunyos vz0LL]
+daunys vzo1y
+pjowas vz0l.y
+punoud vzo.y
+ppunw vzony
+mnidiaspy vz0LLy
+108 vzouy
+
+Maysiv0f D201
+
+snuuadianyf vzouy
+
+ 
+
+IUOAT] vruenqiy
+
+ISSMY ISSMYHON,
+
+purjog
+
+smaepg
+
+ 
+
+soroadg
+
+ 
+
+Downloaded From: https://bioone.org/journals/Revue-suisse-de-Zoologie on 25 Aug 2020
+
+Terms of Use: https://bioone.org/terms-of-use

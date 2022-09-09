@@ -1,0 +1,1117 @@
+Phytopathogenic Mollicutes
+1(2), December 2011, 00-00
+
+or
+IndianJournals.com
+"Neetu
+
+ 
+
+UIT Tel aca
+
+The most widespread phytoplasmas, vectors and measures
+for disease control in Slovenia
+
+Natasa Mehle!, Maja Ravnikar!, Gabrijel Seljak?, Vlasta Knapié? and Marina Dermastia? 1National Institute of Biology, Veéna pot 111, Ljubljana, Slovenia
+
+2agriculture and Forestry Service Nova Gorica, Department for Plant Protection, Pri Hrastu 18, 5000
+Nova Gorica, Slovenia
+
+3Phytosanitary Administration of the Republic of Slovenia, Einspielerjeva 6, 1000 Ljubljana, Slovenia
+
+Received : Accepted :
+
+Abstract
+
+Phytoplasmas, as fastidious wall-less mollicutes, colonize phloem tissue of many plant species, including
+grapevine and fruit trees. They are transmitted between plants by vegetative propagation and by sap-sucking
+insect vectors, which enable spread of the diseases. In Slovenia in the period 2001-2010, 3,189 plant and
+109 insect samples were collected in targeted surveys and analyzed for the presence of phytoplasmas by
+molecular methods. Phytoplasmas were found in 1,708 plant samples; in 19 cases mixed phytoplasma
+infection was also identified. The majority of the samples were collected within systematic surveys conducted
+to determine the prevalence of phytoplasmas in Slovenia. ‘Candidatus Phytoplasma mali’, associated with
+apple proliferation (AP), ‘Ca. P. prunorum’, associated with European stone fruit yellows (ESFY) and ‘Ca
+P. pyri’, associated with pear decline (PD), were detected in several fruit-growing areas of Slovenia. The most
+widespread phytoplasma on grapevine in Slovenia was the stolbur phytoplasma, (‘bois noir’: BN). The same
+phytoplasma was also identified in Convolvulus arvensis and Lycopersicon esculentum. Since 2005, the
+‘flavescence dorée’ phytoplasma (FD), associated with serious disease of grapevine, has been reported in
+Slovenian vineyards. The same phytoplasma was also detected in Clematis vitalba. During the surveys,
+
+ 
+
+ 
+
+several known and putative vectors of phytoplasmas were identified in Slovenia
+
+ 
+
+Keywords : Phytoplasma, Slovenia, vectors, hosts, detection, prevention measures
+
+Introduction
+
+Phytoplasmas are cell wall-less Gram-positive bacteria
+of the class Mollicutes, and both their cell and genome
+size are the smallest among bacteria. They are obligate
+intracellular parasites, generally restricted to sieve
+elements of the infected plants, and transmitted by
+phloem-feeding  leafhoppers —_ (Cicadellidae),
+planthoppers (Fulgoromorpha, Cixiidae), and psyllids
+(Psyllidae) of the order Hemiptera. In addition, they
+are also transmitted by the majority of the dodder
+species, by micropropagation, grafting and cutting
+techinques, and the possibility of phytoplasma
+transmission by seed may not be excluded (Bertaccini,
+
+2007; Calari et al., 2011). Determination of the
+taxonomic status of phytoplasmas by the traditional
+methods is not possible, however by molecular
+methods phytoplasmas were demonstrated to represent
+a clearly distinct monophyletic cluster within the class
+Mollicutes. For classification of phytoplasmas the
+‘Candidatus Phytoplasma’ genus has been proposed
+based on phylogeny produced on 16S ribosomal DNA. One sequence from each group of ‘Ca. Phytoplasma’
+was selected as representative, with the reference strain
+deposited in GenBank (IRPCM, 2004). Phytoplasmas
+are associated with more than a thousand diseases of
+wild and cultivated plants (Seemiller et al., 2002). An
+
+ 
+
+Corresponding author e-mail : N. Mehle (natasa.mehle@nib.si)
+
+The most widespread phytoplasma, vectors and measures for disease control in Slovenia
+
+overview of phytoplasmas identified in fruit trees and
+grapevines as well as some insect vectors in Slovenia
+is provided in this paper. Phytoplasmas associated with important diseases
+of grapevine and fruit trees
+
+In Europe, fruit trees of the family Rosaceae are
+seriously affected by phytoplasmas of the apple
+proliferation group (AP, 16SrX group) (Lee et al., 1995). The AP group includes two phytoplasmas from the
+lists of pests recommended for regulation (EPPO,
+2010), ‘Candidatus Phytoplasma mali’ and ‘Ca. P. pyri’,
+as well as the widespread ‘Ca. P. prunorum’. These are
+the agents associated with apple proliferation (AP),
+pear decline (PD) and European stone fruit yellows
+(ESFY), respectively (Seemuller and Schneider, 2004;
+Marcone et al., 2010). Although ‘Ca. P. mali’ infection
+prevails in the genus Malus, it has also been
+occasionally identified in plants other than the typical
+host, for example stone fruits and both European pear
+(Pyrus communis) and Asian pear (Pyrus pyrifolia)
+(Lee et al., 1995; Del Serrone et al., 1998; Seemuller
+and Schneider, 2004). ‘Ca. P. pyri’ is associated with
+the genus Pyrus (Seemiller and Schneider, 2004). ‘Ca. P. prunorum’ causes economically important disorders
+in apricot (Prunus armeniaca), Japanese plum (Prunus
+salicina) and peach (Prunus persica) (Carraro and
+Osler, 2003). European plums (Prunus domestica) as
+well as some other wild Prunus species (P. spinosa, P
+cerasifera, P. insititia) are susceptible to the infection,
+but generally do not show symptoms representing a
+dangerous source of infection (Carraro and Osler,
+2003; Carraro et al., 1998a, 2004). On the other hand,
+Prunus avium has demonstrated a high level of
+resistance to ‘Ca. P. prunorum’ (Jarausch et al., 1999). Phytoplasmas from the AP group have also been
+detected in hazel (Corylus avellana), ash (Fraxinus
+excelsior), dog rose (Rosa canina), hackberry (Celtis
+australis), hawthorn (Crataegus monogyna), oak
+(Quercus robur and Quercus rubra), hornbeam
+(Carpinus betulus) and bindweed (Convolvulus
+arvensis) (Seemuller and Schneider, 2004). Psyllids
+seem to play a crucial role in the transmission of
+phytoplasmas from the AP group (Tedeschi and Alma,
+2004). ‘Ca. P. prunorum’ is transmitted to the host
+plants of Prunus spp. by the vector Cacopsylla pruni
+(Carraro et al., 1998b). Additionally, the leafhopper
+Asymmetrasca decedens (synonym Empoasca decedens)
+has been suggested as a potential vector of this
+phytoplasma (Pastore et al., 2004). ’Ca. P. pyri’ is
+
+transmitted to the host plants by Cacopsylla pyricola
+(Davies et al., 1992), and Cacopsylla pyri (Carraro et
+al., 1998c). Known psyllid vectors of ’Ca. P. mali’ are
+Cacopsylla picta (synonym C. costalis) (Frisinghelli et
+al., 2000; Jarausch et al., 2003) and C. melanoneura
+(Tedeschi and Alma, 2004). Besides psyllids, some
+other insects have been reported as vectors of ’Ca. P.
+mali’, including the spittlebug Philaenus spumarius,
+the leafhopper Artianus interstitialis (Hegab and El-
+Zohairy, 1986) and Fieberiella florii (Krezal et al.,
+1988; Tedeschi et al., 2004). On grapevine (Vitis vinifera) phytoplasmas are
+associated with severe and worldwide present
+symptomatology named grapevine yellows (GY). Although GYs are associated with different
+phytoplasmas, infected plants show the same
+symptoms of leaf rolling and curling, brittleness of
+leaves along with yellowing or reddening, lack of cane
+lignifications and desiccation of grape clusters. Leaf
+necrosis and bark splitting may also develop (Lee et
+al., 2000; Prince et al., 1993). The symptoms usually
+appear in late spring or in the summer, and some
+vines may die in the following years. In Europe the
+most important GYs are ‘bois noir’ (BN) and
+‘flavescence dorée’ (FD), which are indistinguishable
+by symptoms. While the phytoplasma BN belonging
+to stolbur or 16SrXII subgroup is widespread, that of
+FD belonging to elm yellows subgroups 16StVC/D has
+quarantine status in the European Union. It is also
+recommended for regulation as a quarantine pest by
+the European and Mediterranean Plant Protection
+Organization (EPPO). The confirmed vector of BN is Hyalesthes obsoletus
+Signoret (Maixner, 1994; Sforza et al., 1998). However,
+it is supposed that this vector cannot efficiently
+transmit BN from grapevine to grapevine and cannot
+survive on the grapevine, which is a dead-end host for
+BN phytoplasma. The natural reservoirs for this
+phytoplasma are weeds, such as bindweed and nettle. Few other species have been identified as potential
+vectors, including Pentastiridius beieri and Reptalus
+quinquecostatus (Gatineau et al., 2001; Holzinger et
+al., 2002; Trivellone et al., 2005). The main known
+natural vector of FD is an ampelophagous leafhopper
+Scaphoideus titanus Ball (Schvester et al., 1961, 1963). Dictyophara europea has recently been confirmed to
+be able to transmit FD from clematis to grapevine
+under greenhouse conditions (Filippin et al., 2009). Orientus ishidae has been shown to be infected with
+different strains of FD (Mehle et al., 2010a). Other
+
+ 
+
+Phytopathogenic Mollicutes, Vol. 1(2), December 2011
+
+phytoplasmas associated with GYs such as
+phytoplasmas belonging to subgroups 16Srl-A, 16SrI-
+B, 16SrIII-I, 16SrVII-A, 16SrX-B; and 16SrXII-B, were
+sporadically reported in grapevine or are present in
+particular geographical regions (Alma et al., 1996;
+Davis et al., 1997, 1998; Angelini et al., 2007; Gajardo
+et al., 2009). Methodological approaches for phytoplasma
+detection and diagnosis
+
+Reliable detection of phytoplasmas is notoriously
+difficult and relies mainly on molecular techniques. The reasons are various and include their inability to
+grow in vitro, besides the low annually and seasonally
+fluctuating titres of the pathogens and their uneven
+distribution in infected plants. The detection
+techniques include conventional PCR, usually followed
+by RFLP for specific determination of phytoplasma
+16S rRNA group or species (Deng and Hiruki, 1991;
+Lorenz et al., 1995, Schneider et al., 1995; Daire et a
+1997; Angelini et al., 2001; Clair et al., 2003; Filippin
+et al., 2009). In addition, several protocols based on
+real-time PCR have been proposed recently for the
+universal or group-specific determination of
+phytoplasmas in either single or multiplex assays
+(Baric and Dalla Via, 2004; Bianco et al., 2004;
+Christensen et al., 2004; Jarausch et al., 2004; Galetto
+
+ 
+
+1st day 2nd day
+
+   
+
+fruttrees
+workflow Sold
+
+new
+grapevine /
+workflow
+
+Natasa Mehle et al
+
+et al., 2005; Torres et al., 2005; Angelini et al., 2007;
+Babini et al., 2008; Pignatta et al., 2008; Hodgetts et
+al., 2009; Margaria et al., 2009; Pelletier et al., 2009;
+Yvon et al., 2009). The advantages of the real-time
+PCR assays lie in their higher sensitivity combined
+with three-fold shorter processing time in comparison
+with conventional PCR (Fig. 1). A real-time PCR assay using TaqMan minor groove
+binder probes was recently designed for the general
+presence of phytoplasmas as well as for the species or
+group-specific detection of FD and BN (Hren et al.,
+2007), aster yellows group (Nikoli¢ et al., 2009) and
+AP group (Nikolié et al., 2010). Both the conventional PCR and the real-time PCR
+approach have been applied for reliable determination
+of phytoplasmas in Slovenian plants and their insect
+vectors. In Slovenia, 3,298 samples were analyzed for the
+presence of phytoplasmas between 2001 and 2010
+(Table 2, 3). These were collected within systematic
+surveys of the Phytosanitary Administration of the
+Republic of Slovenia, carried out to determine the
+presence of phytoplasma diseases in Slovenia. The
+majority of samples derived from fruit trees of the
+Rosaceae family and grapevine (Vitis vinifera L.). Other
+samples were either from other plant species or from
+insect vectors. For the analysis, DNA was extracted
+
+3rd day ath day Sth day
+
+30 32 34 hours
+
+120 4 6 8 10 1 1% 16 18 20 22 24 2 28 3% 32 34 hours
+ist day 2nd day ath day Sth day
+
+Figure 1. Comparison of new and old workflows for phytoplasma detection. Workflow time scales are approximately determined for
+10 samples. *The time scale of fruit tree work flow is for positive samples, and in the case of negative results of nested PCR for AP group
+phytoplasma another nested PCR with universal U3/US primers for phytoplasma detection is required, which is not included in this
+time scale. **Time for the old workflow depends on the number of PCR machines available and on the infection status of samples (only negative
+samples or also positive ones). This time scale is for 3 simultaneous PCR reactions (using universal phytoplasma, BN and FD-specific
+primers) and in the case of positive and negative samples. ***RFLP only for positive samples. Abbreviations: P-sample preparation; FP-fast prep homogenization; KF-Kingfisher DNA extraction; qPCR-real time polymerase chain
+reaction; D-data analysis; N2-homogenization in liquid nitrogen; CTAB-CTAB extraction; AGE-agarose gel electrophoresis; PCR-polymerase
+chain reaction; nPCR-nested PCR; RFLP-restriction fragment length polymorphism. Phytopathogenic Mollicutes, Vol. 1(2), December 2011 3
+
+The most widespread phytoplasma, vectors and measures for disease control in Slovenia
+
+from insects, roots in the case of asymptomatic
+samples, or shoots of symptomatic samples using a
+CTAB extraction procedure, modified from a protocol
+by Ahrens and Seemtller (1992). Since 2009, a new,
+faster DNA extraction procedure based upon the
+binding of DNA to magnetic beads (Pire et al., 2009:
+Boben et al., 2007) has been implemented in the
+detection procedure. In 2010, the time required for
+detection was additionally reduced by implementation
+of an automated simple homogenization step instead
+of manual homogenization (Fig. 1). Phytoplasmas of the AP group associated with
+diseases of fruit trees in Slovenia
+
+In the period 2001-2010, 1,405 samples from fruit
+trees in production and mother plant orchards from
+different regions of Slovenia were tested for the
+presence of ‘Ca. P mali’, ‘Ca. P. pyri’ and ‘Ca. P.
+prunorum’. All three phytoplasmas were detected in
+several areas in Slovenia where fruit trees are
+cultivated (Table 1, 2). Specifically, ‘Ca. P mali’ is
+present at low prevalence, and ‘Ca. P. pyri’ is found
+only in some areas where pear is grown (Primorska,
+Savinjska valley, Posavje, Stajerska). Similarly, ‘Ca. P.
+prunorum’ is present in the Primorska and Notranjska
+regions where host crops are grown, but may be also
+found at low prevalence in the Savinjska, Stajerska
+and Prekmurje regions. All three ‘Ca. Phytoplasma’
+species are under official control. Testing for ‘Ca. P.
+mali’ in mother plants every six years is obligatory in
+certified and standard material (Regulation, 2006),
+and for ‘Ca. P. prunorum’ national control measures
+against phytoplasma and its vector Cacopsylla pruni
+are prescribed (Regulation, 2004). Disease symptom expression is highly variable, and
+sometimes symptoms become visible only as a result
+of special weather conditions or of significant changes
+in cultivation practices. It is noteworthy that many
+cultivars especially in the first years of tree
+development do not show typical symptoms. Moreover,
+several symptomless trees were proven to be latently
+infected (Lesnik et al., 2007; Ambrozié Turk et al.,
+2008). Such trees may be a hidden source of infection,
+and its early detection and consequent tree removal
+is as important as intensive vector control (Ambrozié
+Turk et al., 2008; Mehle et al., 2010b). ‘Candidatus Phytoplasma mali’
+
+Infection of apple trees (Malus domestica) with ‘Ca. P.
+
+mali’ was found in 76 samples (Table 2). In general,
+infected symptomatic plants have altered size of leaf
+stipules and witches’ broom formations. Nevertheless,
+some of the infected apple trees did not show typical
+symptoms, and some were even symptomless. Positive
+results were obtained for 39% of symptomatic and 3%
+of symptomless trees. The main transmission path of ‘Ca. P. mali’ is by
+sap-sucking insect vectors, but transmission may also
+occur through grafting of infected propagation
+material (Kartte and Seemiuller, 1988). Although there
+are little firm data available about the transmission
+of ‘Ca. P. mali’ via natural root grafts (Baric et al.,
+2008), such transmission has been confirmed in
+Slovenia M9 apple rootstock (Lesnik et al., 2008). Besides being present in its natural host apple trees,
+‘Ca. P. mali’ was also detected in four cherry (Prunus
+avium), two apricot (P. armeniaca) and one plum (P.
+domestica) sample (Table 1) (Mehle et al., 2007). ‘Candidatus Phytoplasma pyri’
+
+‘Ca. P. pyri’ was identified in 81 samples of pear tree
+(Pyrus communis) (Table 2). Seventy-five positive
+samples derived from symptomatic trees and 6 samples
+from trees without any symptoms. Thirty-eight per
+cent of symptomatic trees were positive, while 26% of
+symptomless trees tested positive. The typical
+symptoms were reddening and curling of leaves, and
+sometimes lines of necrotic tissue in the bark. ‘Candidatus Phytoplasma prunorum’
+
+Two hundred four samples of stone fruit trees (Prunus
+sp.) were infected with ‘Ca. P. prunorum’ (Table 1). Forty-seven percent of symptomatic trees were
+positive, and 27% of symptomless trees. Typical
+symptoms were reddening and curling of leaves, and
+sometimes lines of necrotic tissue in the bark. Among
+53 apricot (Prunus armeniaca) trees, phytoplasma was
+detected in 53% of the samples (64% of 36
+symptomatic and 29% of 17 asymptomatic trees). In
+the case of peach (Prunus persica) and nectarine trees
+Ca. P. prunorum’ was detected in 41% of 314 sampled
+trees. Among 59 symptomless samples of peaches, 3%
+were positive. On the other hand, symptoms correlated
+well with the infection; thus ‘Ca. P. prunorum’ was
+confirmed in 50% of samples from symptomatic peach
+plants. Although the total number of tested samples
+from Japanese plum trees (Prunus salicina) was low,
+all tested samples were proven to contain ‘Ca. P.
+
+ 
+
+Phytopathogenic Mollicutes, Vol. 1(2), December 2011
+
+Table 1. Phytoplasma detected in Slovenia
+
+Natasa Mehle et al
+
+ 
+
+ 
+
+ 
+
+Phytoplasma Plant host Incidence Symptoms Region/s
+FD Vitis vinifera In 2005 individual infected Leaves turn yellow or red depending SE, SW, NE
+plants; in 2010 first outbreaks on the cultivar. They roll downward Slovenia
+in two vineyards, under official and become brittle. Shoots show
+control incomplete lignification and rows of
+black pustules develop on the green
+bark along the diseased branches. Grape yield greatly decreases
+Clematis vitalba Widespread; also present in Reddening, yellowing and rolling of Slovenia
+areas where FD has never the leaves at the end of the summer. previously been recorded in Sometimes does not show symptoms. grapevine
+BN (stolbur) —\. vinifera Widespread; planting material Impossible to distinguish from the all wine-
+under official control symptoms of FD-infected grapevine growing
+regions in
+Slovenia
+Lycopersicon individual infected plants Stunting, dying of plants W Slovenia
+esculentum
+Convolvulus widespread Yellowing Slovenia
+arvensis
+‘Ca. P. Prunus persica Premature leaf reddening or yellowing, W Slovenia
+prunorum’ leaf curling, line of necrotic tissue in (Primorska,
+the bark, blossoming out of the usual Notranjska)
+time, fruit malformations, tree dieback
+present only in areas
+Prunus where host crops are Premature leaf reddening or yellowing, NE Slovenia
+armeniaca grown; planting material leaf curling, line of necrotic tissue in Present at
+under official control the bark, premature budding in late low
+winter prevalence
+(Savinjska
+Prunus domestica Generally does not show symptoms valley,
+Stajerska,
+Prunus salicina Premature leaf reddening or yellowing, Prekmurje)
+leaf curling, tree dieback
+‘Ca. P pyri’ Pyrus communis present only in some areas Premature leaf reddening, leaf curling, W Slovenia
+where host crops are grown; premature leaf drop, line of necrotic (Primorska),
+planting material under tissue in the bark, tree dieback E Slovenia
+official control (Savinjska
+valley,
+Posavje,
+Stajerska)
+‘Ca. P. mali’ Malus domestica Present; planting material Witches’ broom at the end of Slovenia
+under official control shoots, enlarged stipules, early leaf
+reddening, small fruits
+Prunus avium* individual infected plants Wilting, dying, floral and phloem SW Slovenia
+necrosis
+P. armeniaca® individual infected plants Stem necrosis and leaf wilting SW Slovenia
+P. domestica? individual infected plants Late blooming SW Slovenia
+‘Ca, P. asteris’ Echinacea Present in several gardens Plant weakness, leaf yellowing, E Slovenia
+purpurea? floral malformations, such as (Savinjska
+virescence and phyllody valley)
+
+ 
+
+*Mehle et al., 2007; 'Radigek et al., 2009
+
+ 
+
+Phytopathogenic Mollicutes, Vol. 1(2), December 2011
+
+The most widespread phytoplasma, vectors and measures for disease control in Slovenia
+
+prunorum’. The very high infection rate of this plant
+species is in accordance with the situation in Japanese
+plum orchards elsewhere (Marcone et al., 2010). In
+European plum tree (Prunus domestica) samples the
+incidence of phytoplasma was 37%. It is worth noting
+that in most infected plants the disease symptoms
+were not expressed, which is in accordance with the
+reports in the literature (Carraro et al., 1998a). Sweet
+cherry trees (Prunus avium) and sour cherry trees
+(Prunus cerasus) were also checked for the presence
+of ’Ca. P. prunorum’ (Table 1). Although natural
+infections with this phytoplasma have been observed
+in this species (Marcone et al., 2010), the presence of
+Ca. P. prunorum’ in cherry has not been confirmed in
+Slovenia. Insect vectors of phytoplasmas from the AP group
+in Slovenia
+
+The known and putative insect vectors of
+phytoplasmas from the AP group have not been
+systemically sampled and analyzed in Slovenia. However, considering that some insect species that
+are known or putative vectors of these phytoplasmas
+are widespread in Slovenia (Seljak, 2006), their
+possible involvement in phytoplasma transmission
+should not be neglected (Table 3). The number of phytoplasma-infected insect
+samples was loosely correlated with the number of
+plant samples confirmed to be infected with specific
+phytoplasmas. For instance, six out of eight tested
+specimens of Cacopsylla pruni, vector of ‘Ca. P.
+Prunorum’ (Carraro et al., 1998b), were infected with
+this phytoplasma (Table 3). Testing of two samples of
+a putative vector of ‘Ca. P. prunorum’, Asymmetrasca
+decedens (Pastore et al., 2004), did not yield positive
+result (Table 2). Both vectors of ‘Ca. P. pyri’, Cacopsylla pyricola
+(Davies et al., 1992) and Cacopsylla pyri (Carraro et
+al., 1998c), are widespread in Slovenia (Seljak, 2006). Only one sample of C. pyri was examined and the
+presence of ‘Ca. P. pyri’ in that sample was confirmed
+(Table 2). There are several reported vectors that transmit
+‘Ca. P. mali’. Among them are species that are
+widespread in Slovenia (Seljak, 2006, Holzinger and
+Seljak, 2001, Seljak, 2004), for example Cacopsylla
+picta (Frisinghelli et al., 2000; Jarausch et al., 2003),
+C. melanoneura (Tedeschi and Alma, 2004), Philaenus
+spumarius (Hegab and El-Zohairy, 1986), Artianus
+interstitialis (Hegab and El-Zohairy, 1986) and possibly
+
+Fieberiella florii (Krezal et al., 1988; Tedeschi and
+Alma, 2004). However these insects were not yet
+included in the Slovenian surveys. In areas with high
+infection pressure due to common occurrence of host
+plants and phytoplasma insect vectors, the
+maintenance of healthy mother plants in the open
+field is quite difficult, so the use of insect-proof net-
+houses was suggested and confirmed to be appropriate
+for stone fruit mother plant cultivation (Ambrozié
+Turk et al., 2010). Phytoplasmas associated with grapevine yellows
+diseases in Slovenia
+
+In 1,679 tested symptomatic grapevine (Vitis vinifera)
+samples 7% percent of samples were infected with FD
+and 70 % with BN (Table 2). Bois Noir
+
+At the beginning of the survey in 2001, all
+symptomatic grapevine plants tested were positive for
+BN phytoplasma that is widespread in all winegrowing
+regions of Slovenia (Table 1). During the surveys BN
+was also detected in 13 out of 30 samples of bindweed
+(Convolvulus arvensis) tested (Table 2). Phytoplasma
+closely related to BN and belonging to the stolbur
+group were found in one out of six tested tomato
+plants (Lycopersicon esculentum) expressing stunting
+and dying symptomatology (Table 1, 2). The main vectors of BN occur in Slovenia (Table
+3). A test for BN presence in Hyalesthes obsoletus
+(Maixner et al., 1995) revealed 18 positive samples
+out of 23. BN was also found in other insects, including
+Euscelis incisus, Reptalus panzeri, Reptalus cuspidatus
+and Scaphoideus titanus. Among these, only R. panzeri
+has been confirmed as a vector of stolbur
+phytoplasmas in corn (Jovié et al., 2007). Flavescence dorée
+
+The first finding of FD was in the coastal area in the
+south-western part of Slovenia in 2005, in the
+following years FD was also detected in other
+winegrowing regions. It was usually found in
+individual plants in vineyards. However, in 2010 an
+epidemic spread was observed in the south-eastern
+and south-western areas of Slovenia, where a heavy
+infection rate of symptomatic grapevine plants was
+observed. Since the disease is under official control
+in Slovenia all FD infected plants and plants showing
+symptoms must be removed from vineyards. Phytopathogenic Mollicutes, Vol. 1(2), December 2011
+
+Natasa Mehle et al
+
+Table 2. Number of sampled and infected host plants for symptomatic and asymptomatic samples, obtained in targeted inspections
+
+and sampling in the period 2001 - 2010 in Slovenia
+
+ 
+
+ 
+
+Phytoplasma Plant host symptoms. number of positive samples
+samples
+no %
+FD? Vitis vinifera yes 1,679 123° T%
+Clematis vitalba yes 52 40 71%
+no v 9 53%
+BN (stolbur) V. vinifera yes 1,679 1173 70%
+Lycopersicon esculentum yes 6 1 17%
+Convolvulus arvensis yes 30 B 43%
+‘Ca. P. prunorum’ Prunus persica yes 255 127 50%
+no 59 2 3%
+Prunus armeniaca yes 36 2B 64%
+no v7 5 29%
+Prunus domestica yes? 8 9 24%
+no 7 33 43%
+Prunus salicina yes 3 3 100%
+no 2 2 100%
+Prunus cerasus no 2 0 0%
+Prunus avium yes 15 0 0%
+no 1 0 0%
+‘Ca. P. pyri’ Pyrus communis yes 197 B 38%
+no B 6 26%
+‘Ca. P. mali’ Malus domestica yes 163 63 39%
+no 473° B 3%
+P. avium yes 4 4 %
+P. armeniacat yes 299 2 ™%
+P. domestica’ yes 349 1 3%
+
+ 
+
+the first finding was in 2005; 619 samples were infected with both BN and FD; ‘samples were also tested for FD; Salmost symptomless;
+*several symptomless apple trees were tested because testing of mother plants for ‘Ca, P. mali’ is obligatory every six years in Slovenia;
+
+‘Mehle et al., 2007; 9samples were also tested for ‘Ca. P. prunorum’
+
+Obligatory vector treatment and a ban on use of
+material for propagation are imposed (Regulation,
+2009). Once FD is confirmed, further removal of all
+symptomatic plants from infected vineyards can be
+done without sampling/testing. If more than 20 % of
+plants show symptoms, the entire vineyard is uprooted. Molecular characterization of FD genetic clusters
+in grapevines by RFLP and sequencing showed that in
+Slovenia about two thirds of tested infected grapevines
+harboured the FD2 strain (Mehle et al., 2011), which
+correlates well with data from France and Italy (Arnaud
+
+et al., 2007; Filippin et al., 2009). However, about one
+third of isolates from grapevine belonged to the genetic
+cluster FD3 (Mehle et al., 2011). In Slovenia no
+grapevine infected with FD1 was detected (Mehle et
+al., 2011). FDp was also detected in 49 out of 69 samples of
+Clematis vitalba (Table 1, 2), including in areas away
+from vineyards and areas where FD has not been found
+in grapevine. The infected clematis plants either
+showed the symptoms of reddening or yellowing of
+the leaves or were symptomless. Notably, all isolates
+
+ 
+
+Phytopathogenic Mollicutes, Vol. 1(2), December 2011
+
+The most widespread phytoplasma, vectors and measures for disease control in Slovenia
+
+Table 3. Recognized and putative phytoplasma vectors identified in Slovenia. They were captured on yellow sticky traps or by sweep
+net sampling and then stored in 96% ethanol until DNA extraction
+
+ 
+
+ 
+
+Insects Population density Phyto- Vector positive/ Feeding plants
+plasma total? Dictyophara europaea moderate; widely distributed FD putative ovo Amaranthus retroflexus,
+in winegrowing regions Urtica dioica
+Orientus ishidae moderate; limited distribution FD putative 5/7 various woody and
+herbaceous plants, Malus,
+Salix, Alnus, Diospyros
+kaki, Prunus spinosa
+Scaphoideus titanus low to high; established in FD yes 4s7> Vitis vinifera
+all winegrowing regions, but
+not in all vineyards BN no 3/87 V. vinifera
+Hyalesthes obsoletus moderate; widely distributed stolbur yes 18/23 Urtica dioica, Convolvolus
+arvensis, occasionally V.
+vinifera
+Euscelis incisus high; very common stolbur putative 12 herbaceous plants
+Reptalus panzeri low; widely distributed stolbur yes 27 herbaceous _ plants,
+occasionally V. vinifera
+Reptalus cuspidatus locally common; widespread stolbur putative yi herbaceous plants
+in SW Slovenia
+Reptalus quinquecostatus low; very local distribution stolbur putative ol herbaceous plants
+Cacopsylla pruni high; widely distributed ‘Ca. P. yes 6/8 Prunus spp, especially 2
+prunorum’ domestica, P. instititia, P.
+spinosa
+Empoasca decedens moderate to high; locally ‘ca. P. putative 0/2 Prunus persica, P.
+common prunorum’ domestica, P. armeniaca,
+Pyrus spp., Malus spp.,
+Salix spp. etc. Cacopsylla pyri high; widely distributed ‘Ca. P pyri’ yes yi Pyrus communis
+Cacopsylla pyricola low to moderate; widely ‘Ca. P. pyr’ yes ovo Pyrus communis, P.
+distributed pyraster, P. nivalis
+Cacopsylla picta low to moderate; widely ‘Ca. P. mali’ yes v0 Malus spp. distributed
+Cacopsylla melanoneura _high; widely distributed ‘Ca. P mali’ —_yes ovo Rosaceae, mainly
+Crataegus spp., Malus
+spp. Philaenus spumarius high; very common ‘Ca. P. mali’ _ putative ovo herbaceous plants
+Artianus interstitialis absent; in Slovenia replaced ‘Ca. P. mali’ —_ putative v0 -
+by A. manderstjernii
+Fieberiella florii moderate, widely distributed ‘Ca. P. mali’ —_yes 0/0 bushy and __ tree
+vegetation
+
+ 
+
+*Number of positive samples/number of all samples tested from 2001
+
+to 2010; samples were tested also for BN phytoplasma
+
+ 
+
+Phytopathogenic Mollicutes, Vol. 1(2), December 2011
+
+from clematis plants belonged to the FD3 genetic
+cluster (Mehle et al., 2011) in accordance with reports
+of other FD infected clematis plants (Angelini et al.,
+2004; Filippin et al., 2009). Insect vectors of FD
+
+It is interesting that until 2010 the presence of FD
+was confirmed only in 1 out of 57 tested samples of
+S. titanus, the main natural vector of FD (Table 3). S.
+titanus has been identified in western Slovenia since
+1983 and in eastern Slovenia only since 2003. Considering that it is already widespread it is very
+likely that this low rate of detected infections is due
+to low levels of FD in vineyards. In 2009, adults of
+another leafhopper, Orientus ishidae, were captured
+on bushy vegetation in areas distant from vineyards. They were confirmed to be infected with phytoplasmas
+similar to FD from grapevine (Mehle et al., 2010a). In
+O. ishidae FD1, FD2 and FD3 were detected (Mehle et
+al., 2010a; 2011). Further research is needed to shed
+light on the role of O. ishidae in the possible
+transmission of FD. Additionally, alder (Alnus glutinosa and A. incana)
+may harbour phytoplasma isolates that are very similar
+to FD1, FD2 and FD3 strains and are transmitted by
+Oncopsis alni (Filippin et al., 2009; Arnaud et al.,
+2007; Mehle et al., 2011). Other phytoplasmas associated with grapevine
+yellows diseases
+
+GY diseases is are associated with a wide variety of
+phytoplasmas. For instance in the Republic of South
+Africa, Italy, Tunisia, Israel, North America and Chile
+it is associated in some cases also with aster yellows
+phytoplasmas from the 16SrI group (Prince et al., 1993;
+Alma et al., 1996; Carstens, 2008: Gajardo et al., 2009). In the Slovenian survey of phytoplasmas an isolate
+from this group was detected in purple coneflower
+(Echinacea purpurea) (Radisek et al., 2009). Conclusion
+
+Presence of ‘Ca. P. mali’, ‘Ca. P. prunorum’ and ‘Ca. P.
+pyri’ were confirmed in several fruit-growing areas of
+Slovenia. The most widespread phytoplasma on
+grapevine in Slovenia is BN phytoplasma, stolbur
+phytoplasma was also identified in bindweeds and
+tomato plants. Since 2005, the phytoplasma FD that
+causes the most serious disease of viticulture,
+‘flavescence dorée’, has been identfied in Slovenian
+
+Natasa Mehle et al
+
+vineyards. FDp was also confirmed in Clematis plants
+and Aster yellows phytoplasma was detected in purple
+coneflower. Several known and putative vectors of
+these phytoplasmas were identified in Slovenia and in
+some of them particular phytoplasmas were also
+detected. For quarantine phytoplasma diseases, several
+measures are prescribed by national regulation. Acknowledgements
+
+The analysis of the samples was financed by the
+Ministry of Agriculture, Forestry and Food. The
+authors would like to thank the phytosanitary
+inspectors, expert surveyors and their coordinator at
+Phytosanitary Administration RS, mag. Erika OreSek,
+for providing the samples and Jana Frank and Nina
+Prezelj for excellent laboratory work. Many thanks to
+colleagues who were involved in developing the
+diagnostic methods and research of phytoplasma: Dr.
+NataSa Petrovie, Dr. Jernej Brzin, Dr. Matjaz Hren, Dr.
+Jana Boben, Dr. Petra Nikolié and Matevz Rupar. Figure
+1 was prepared mainly by Nina Prezelj and Dr. Petra
+Nikolié. References
+
+Ahrens U and Seemiller E 1992. Detection of DNA of plant
+pathogenic mycoplasmalike organisms by a polymerase
+chain reaction that amplifies a sequence of the 16S rRNA
+gene. Phytopathology, 82: 828-832. Alma A, Davis RE, Vibio M, Danielli A, Bosco D, Arzone A
+and Bertaccini A 1996. Mixed infection of grapevines in
+Northern Italy by phytoplasmas including 165 rRNA RFLP
+subgroup 16SrI-B strains previously unreported in this
+host. Plant Disease, 80: 418-421
+
+Ambrozié Turk B, Fajt N, Seljak G, Veberié R, Mehle N, Boben. J, Dreo T and Ravnikar M 2010. Occurence of European
+stone fruit yellows (ESFY) in Slovenia - possibilities of
+healthy mother plants cultivation in insect-proof nethouse
+In: Rallo, L. (ed.). Science and Horticulture for people
+abstracts. International Society for Horticultural Science:
+268
+
+Ambrozié Turk B, Mehle N, Brzin J, Skerlevaj V, Seljak G and
+Ravnikar M 2008. High infection pressure of ESFY
+phytoplasma threatens the cultivation of stone fruit species,
+Journal of Central European Agriculture, 9(4): 795-802. Angelini E, Bianchi GL, Filippin L, Morassutti C and Borgo M
+2007. A new TaqMan method for identification of
+phytoplasma associated with grapevine yellows by real-
+time PCR assay. Journal of Microbiological Methods, 68
+613-622,
+
+Angelini E, Clair D, Bordo M, Bertaccini A and Boudon-
+Padieu E 2001. Flavescence dorée in France and Italy —
+Occurence of closely related phytoplasma isolates and
+their near relationship to Palatinate grapevine yellows
+and an alder yellows phytoplasma. Vitis, 40(2): 79-86. Angelini E, Squizzato F, Lucchetta G and Borgo M 2004. Detection of a phytoplasma associated with grapevine
+
+ 
+
+Phytopathogenic Mollicutes, Vol. 1(2), December 2011
+
+The most widespread phytoplasma, vectors and measures for disease control in Slovenia
+
+Flavescence dorée in Clematis vitalba. European Journal of
+Plant Pathology, 110: 193-201
+
+Arnaud G, Malembic-Maher S, Salar P and Bonnet P 2007. Multilocus sequence typing confirms the close genetic
+interrelatedness of three distinct flavescence dorée
+phytoplasma strain clusters and group 16SrV phytoplasmas
+infecting grapevine and alder in Europe. Applied and
+Environmental Microbiology, 73(12): 4001-4010. Babini AR, Fiumi E, Giunchedi L, Pignatta D, Poggi Polini C
+and Reggiani N 2008. Investigations with real-time PCR
+assay on the transmissibility of pear decline phytoplasma
+(PDP) with dormant buds. Acta Horticulturae, 781: 495-
+497
+
+Baric S$ and Dalla Via J 2004. A new approach to apple
+proliferation detection: a highly sensitive real-time PCR
+assay. Journal of Microbiological Methods, 57: 135-145. Baric S, Kerschbamer C, Vigl J and Dalla Via J 2008
+Translocation of apple proliferation phytoplasma via
+natural root grafts - a case study. European Journal of
+Plant Patholology, 121: 207-211
+
+Bertaccini A 2007. Phytoplasmas: diversity, taxonomy, and
+epidemiology. Frontiers in Bioscience, 12: 673-689. Bianco PA, Casati P and Marziliano N 2004. Detection of
+phytoplasmas associated with grapevine flavescence dorée
+disease using real-time PCR. Journal of Plant Pathology,
+86: 257-261
+
+Boben J, Mehle N and Ravnikar M 2007. Optimization of
+extraction procedure can improve phytoplasma diagnostics. Bulletin of Insectology, 60: 249-250. Calari A, Paltrinieri S$, Contaldo N, Sakalieva D, Mori N,
+Duduk B and Bertaccini A 2011. Molecular evidence of
+phytoplasmas in winter oilseed rape, tomato and corn
+seedlings. Bulletin of Insectology, 64 (Supplement): 157-
+158. Carraro L, Ferrini F, Ermacora P and Loi N 2004. Transmission
+of European stone fruit yellows phytoplasma to Prunus
+species by using vector and graft transmission. Acta
+Horticulturae, 657: 449-453
+
+Carraro L, Loi N, Ermacora P and Osler R. 1998a. High
+tolerance of European plum varieties to plum
+leptonecrosis. European Journal of Plant Pathology, 104
+141-145
+
+Carraro L, Osler R, Loi N, Ermacora P and Refatti E 1998b,
+Transmission of European stone fruit yellows phytoplasma
+by Cacopsylla pruni. Journal of Plant Pathology, 80: 233-
+239
+
+Carraro L, Loi N, Ermacora P, Gregoris A and Osler R 1998c
+Transmission of pear decline by using naturally infected
+Cacopsylla pyri L. Acta Horticulturae, 472: 665-668
+
+Carraro L and Osler R 2003. European stone fruit yellows: a
+destructive disease in the mediterranean basin. In: Myrta
+A., Di Terlizzi B., Savino Options Mediterraneenes Serie B,
+45: 113-117
+
+Carstens R 2008. Aster yellows disease in vineyards in South
+Africa. Winetech. http://www.winetech.co.za/docs2008/
+Astervergelingsiekte-by-wingerd-in-Suid-Afrika-Engels.pdf
+(25% September 2011)
+
+Christensen NM, Nicolaisen M, Hansen M and Schulz A 2004. Distribution of phytoplasmas in infected plants as revealed
+by real-time PCR and bioimaging. Molecular Plant Microbe
+Interaction, 17: 1175-1184. Clair D, Larrue J, Aubert G, Gillet J, Cloquemin G and
+Boudon-Padieu E 2003. A multiplex nested-PCR assay
+
+for sensitive and simultaneous detection and direct
+identification of phytoplasma in the Elm yellows group
+and Stolbur group and it’s use in survey of grapevine
+yellows in France, Vitis, 42 (3): 151-157
+
+Daire X, Clair D, Reinert W and Boudon-Padieu E 1997. Detection and differentiation of grapevine yellows
+phytoplasmas belonging to the Elm yellows group and to
+the Stolbur subgroup by PCR amplification of non-
+ribosomal DNA. European Journal of Plant Pathology, 103:
+507-514
+
+Davies DL, Guise CM, Clark MF and Adams AN 1992. Parry's
+disease of pears is similar to pear decline and is associated
+with mycoplasma-like organisms transmitted by Cacopsylla
+pyricola. Plant Pathology, 41 (2): 195-203. Davis RE, Dally EL, Gundersen DE, Lee I-M and Habili N
+1997. ‘Candidatus Phytoplasma australiense’, a new
+phytoplasma taxon associated with Australian grapevine
+yellows. International Journal of Systematic Bacteriology,
+47: 262-269. Davis RE, Jomantiene R, Dally EL and Wolf TK 1998. Phytoplasma associated with grapevine yellows in Virginia
+belong to group 16Srl, subgroup A (tomato big bud
+phytoplasma subgroup) and group 16SrlII, new subgroup
+1, Vitis, 37: 131. Del Serrone P, La Starza S, Krystai L, Kolber M and Barba M
+1998. Occurrence of apple proliferation and pear decline
+phytoplasmas in diseased pear trees in Hungary. Journal
+of Plant Pathology, 80: 53-58. Deng S and Hiruki D 1991. Amplification of 16S rRNA genes
+from culturable and nonculturable mollicutes. Journal of
+Microbiological Methods, 14: 53-61
+
+Filippin L, Jovié J, Cvrkovic T, Forte V, Clair D, ToSevski 1,
+Boudon-Padieu E, Borgo M and Angelini E 2009
+Molecular characteristics of phytoplasmas associated with
+Flavescence dorée in clematis and grapevine and preliminary
+results on the role of Dictyophara europaea as a vector. Plant Pathology, 58: 826-837
+
+Frisinghelli C, Delaiti L, Grando MS, Forti D and Vindimian
+ME 2000. Cacopsylla costalis (Flor, 1861), as a vector of
+apple proliferation in Trentino. Journal of Phytopathology,
+148: 425-431
+
+Galetto L, Bosco D and Marzachi C 2005. Universal and
+group-specific real-time PCR diagnosis of flavescence
+dorée (165r-V), bois noir (16Sr-XII) and apple
+proliferation (16Sr-X) phytoplasmas from field-collected
+plant hosts and insect vectors. Annals of Applied Biology,
+147:191-201
+
+Gajardo A, Fiore N, Prodan S, Paltrinieri S, Botti S, Pino AM,
+Zamorano A, Montealegre J and Bertaccini A 2009
+Phytoplasmas associated with grapevine yellows disease
+in Chile. Plant Disease, 93(8): 789-796
+
+Gatineau F, Larrue J, Clair D, Lorton F, Richard-Molard M and
+Boudon-Padieu E 2001. A new natural planthopper vector
+of stolbur phytoplasma in the genus Pentastiridius
+(Hemiptera: Cixiidae). European Journal of Plant Pathology,
+107: 263-271
+
+Hegab AM and El-Zohairy MM 1986. Retransmission of
+mycoplasma-like bodies associated with apple proliferation
+disease between herbaceous plants and apple seedlings. Acta Horticulturae, 193: 343. Hodgetts J, Boonham N, Mumford R and Dickinson M 2009. Panel of 23S rRNA gene-based real-time PCR assays for
+improved universal and group-specific detection of
+
+ 
+
+ 
+
+Phytopathogenic Mollicutes, Vol. 1(2), December 2011
+
+10
+
+phytoplasmas. Applied and Environmental Microbiology, 75:
+2945-2950
+
+Holzinger W and Seljak G 2001. New records of planthoppers
+and leathoppers from Slovenia, with a checklist of hitherto
+recorded species (Hemiptera: Auchenorrhyncha). Acta
+Entomologica Slovenica, 9 (1): 39-66. Holzinger WE, Emelianov AF and Kammerlander 1 2002. The
+family Cixiidae Spinola. 1839 (Hemiptera
+Fulgoromorpha) - A review, Zikaden Leafhoppers,
+Planthoppers and Cicadas (Insecta: Hemiptera:
+Auchenorthyncha). Katalog Denisia: 133-137
+
+Hren M, Boben J, Rotter A, Kralj Novak P, Gruden K and
+Ravnikar M 2007. Real-time PCR detection systems for
+Flavescence dorée and Bois noir phytoplasmas in
+grapevine: comparison with conventional PCR detection
+and application in diagnostics. Plant Pathology, 56: 785-
+796
+
+IRPCM Phytoplasma/Spiroplasma Working Team — Phytoplasma
+taxonomy group 2004. ‘Candidatus Phytoplasma’ a taxon
+for the wall-less, non-helical prokaryontes that colonize
+plant phloem and insects. International Journal of
+Systematic and Evolutionary Microbiology, 54: 1243-1255. Jarausch B, Schwind N, Jarausch W, Krezal G, Dickler E and
+Seemiller E 2003. First report of Cacopsylla picta as a
+vector of apple proliferation phytoplasma in Germany. Plant Disease, 87: 101
+
+Jarausch W, Eyquard JP, Mazy K, Lansac M and Dosba F 1999. High level of resistance of sweet cherry (Prunus avium
+L.) towards European stone fruit yellows phytoplasmas. Advances in Horticultural Science, 13: 108-112. Jarausch W, Peccerella T, Schwind N, Jarausch B and Krezal
+G 2004. Establishment of a quantitative real-time PCR
+assay for the quantification of apple proliferation
+phytoplasmas in plants and insects. Acta Horticulturae,
+657:415-420
+
+Jovié J, Cvrkovie T, Mitrovié M, Krnjaji¢ S, Redinbaugh MG,
+Pratt RC, Gingery RE, Hogenhout SA and ToSevski 1 2007
+Roles of stolbur phytoplasma and Reptalus panzeri
+(Cixiinae, Auchenorrhyncha) in the epidemiology of Maize
+redness in Serbia. European Journal of Plant Pathology,
+118: 85-89
+
+Kartte S and Seemiiller E 1988. Variable response within the
+genus Malus to the apple proliferation disease. Journal of
+Plant Diseases and Protection, 95: 25-34. Krezal G, Krezal H and Kunze L 1988. Fieberiella florii (Stal),
+a vector of apple proliferation agent. Acta Horticulturae,
+235: 99-106
+
+Lee I-M, Bertaccini A, Vibio M and Gundersen DE 1995. Detection of multiple phytoplasmas in perennial fruit
+trees with decline symptoms in Italy. Phytopathology, 85:
+728-735
+
+Lee I-M, Davis RE, Gundersen-Rindal DE 2000. Phytoplasma:
+Phytopathogenic mollicutes. Annual Review of Microbiology,
+54: 221-255
+
+Lesnik M, Ravnikar M, Brzin J, Mehle N, Petrovig N, Tojnko
+S and Lesnik M 2007. Expression of disease symptoms
+on different apple cultivars infected with apple
+proliferation phytoplasma. Hmeljarski bilten, 14: 43-53. Lesnik M, Brzin J, Mehle N and Ravnikar M 2008. Transmission
+of ‘Candidatus phytoplasma mali’ by natural formation of
+root bridges in M9 apple rootstock. Agricultura, 5 (2)
+43-46
+
+Lorenz KH, Schneider B, Ahrens U and Seemiller E 1995. Natasa Mehle et al
+
+Detection of apple proliferation and pear decline
+phytoplasmas by PCR amplification of ribosomal and
+nonribosomal DNA. Phytopathology, 85: 771-776
+
+Maixner M 1994, Transmission of German grapevine yellows
+(Vergilbungskrankheit) by the planthopper Hyalesthes
+obsoletus (Auchenorrhyncha: Cixiidae). Vitis, 33: 103-
+104
+
+Maixner M, Ahrens U and Seemiller E 1995, Detection of the
+German grapevine yellows (Vergilbungskrankheit) MLO
+in grapevine, alternative hosts and a vector by specific
+PCR procedure. European Journal of Plant Pathology, 101
+241-250
+
+Marcone C, Jarausch B and Jarausch W 2010. ‘Candidatus
+Phytoplasma prunorum’, the causal agent of European
+stone fruit yellows: an overview. Journal of Plant Pathology,
+92(1), 19-34
+
+Margaria P, Turina M and Palmano S$ 2009. Detection of
+Flavescence dorée and Bois noir phytoplasmas, Grapevine
+leafroll associated virus-1 and -3 and Grapevine virus A
+from the same crude extract by reverse transcription-
+RealTime Taqman assays. Plant Pathology, 58: 838-845,
+
+Mehle N, Seljak G, Rupar M, Ravnikar M and Dermastia M
+2010a. The first detection of a pytoplasma from the
+16SrV (Elm yellows) group in the mosaic leafhopper
+Orientus ishidae. New Disease Reports, 22: 11. Mehle N, Ambrozié Turk B, Brzin J, Nikolic P, Dermastia M,
+Boben J and Ravnikar M 2010b. Diagnostics of fruit trees
+phytoplasmas -the importance of latent infections. Julius-
+Kahn-Archiv, 427: 412-414
+
+Mehle N, Brzin J, Boben J, Hren M, Frank J, Petrovie N,
+Gruden K, Dreo T, Zezlina, Seljak G and Ravnikar M
+2007. First report of ‘Candidatus Phytoplasma mali’ in
+Prunus avium, P. armeniaca and P. domestica, Plant
+Pathology, 56 (4): 721
+
+Mehle N, Rupar M, Seljak G, Ravnikar M and Dermastia M
+2011, Molecular diversity of ‘flavescence dorée’
+phytoplasma strains in Slovenia. Bulletin of Insectology,
+64 (Supplement): 29-30. Nikoli P, Boben J, Hren M, Ravnikar M and Dermastia M
+2009. Development of diagnostic method for Aster yellows
+phytoplasma detection on grapevine with real-time PCR. In: Maéek J. (ed.). Lectures and papers presented at the
+9th Slovenian conference of plant protection, Nova Gorica,
+4-5th March 2009. Ljubljana: Plant Protection Society of
+Slovenia: 237-241
+
+Nikolic P, Mehle N, Gruden K, Ravnikar M and Dermastia M
+2010. A panel of real-time PCR assays for specific
+detection of three phytoplasmas from the apple
+proliferation group. Molecular and Cellular Probes, 24
+303-309. Pastore M, Raffone E, Santonastaso M, Priore R, Paltrinieri S,
+Bertaccini A and Simeone AM 2004. Phytoplasma detection
+in Empoasca decedens and Empoasca spp. and their possible
+role as vectors of European stone fruit yellows (16SrX-
+B) phytoplasma. Acta Horticulturae, 657: 507-511. Pelletier C, Salar P, Gillet J, Cloquemin G, Very P, Foissac X
+and Malembic-Maher $ 2009. Triplex real-time PCR assay
+for sensitive and simultaneous detection of grapevine
+phytoplasmas of the 16SrV and 16SrXII-A groups with an
+endogenous analytical control. Vitis, 48 (2): 87-95. Pignatta D, Poggi Pollini C, Giunchedi L, Ratti C, Reggiani N,
+Forno F, Mattedi L, Gobber M, Miorelli P and Ropelato
+E 2008. A real-time PCR assay for the detection of
+
+ 
+
+ 
+
+ 
+
+Phytopathogenic Mollicutes, Vol. 1(2), December 2011
+
+11
+
+The most widespread phytoplasma, vectors and measures for disease control in Slovenia
+
+European stone fruit yellows phytoplasma (ESFYP) in
+plant propagation material. Acta Horticulturae, 781: 499-
+503
+
+Pirc M, Ravnikar M, Tomlinson J and Dreo T 2009. Improved
+fireblight diagnostics using quantitative real-time PCR
+detection of Erwinia amylovora chromosomal DNA. Plant
+Pathology, 58 (5): 872-881
+
+Prince JP, Davis RE, Wolf TK, Lee I-M, Mogen BD, Dally EL,
+Bertaccini A, Credi R and Barba M 1993. Molecular
+detection of diverse mycoplasmalike organisms (MLOs)
+associated with grapevine yellows and their classification
+with aster yellows, X-disease, and elm yellows MLOs
+Phytopathology, 83 (10): 1130-1137
+
+Radisek $, Ferant N, Jakse J and Javornik B 2009
+Identification of a phytoplasma from the aster yellows
+group infecting purple coneflower (Echinacea purpurea) in
+Slovenia. Plant Pathology, 58: 392
+
+Regulation 2004. Regulation on preventing the spread and
+suppression of phytoplasma European stone fruit yellows. Official Journal of Republic of Slovenia, No. 140/2004
+
+Regulation 2006. Regulation on the marketing of fruit plant
+propagating material and of fruit plants intended for fruit
+production. Official Journal of Republic of Slovenia, No
+17/2006. Regulation 2009. Regulation on protective measures for
+preventing the spread and for suppression of the
+Flavescence dorée. Official Journal of Republic of Slovenia,
+No. 73/2009,
+
+Schneider B, Seemiller E, Smart CD and Kirkpatrick BC 1995
+Phylogenetic classification of plant pathogenic
+mycoplasma-like organisms or phytoplasmas. In: Razin
+R., Tully J.G (eds.). Molecular and Diagnostic Procedures
+in Mycoplasmology. Academic Press, San Diego, USA
+369-380. Schvester D, Carle P and Moutous G 1963. Transmission de
+la flavescence dorée de la vigne par Scaphoideus littoralis
+Ball. Annales des Epiphyties, 14: 175-198. Schvester D, Carle P and Moutous G 1961. Sur la trasmission
+de la flavescence doree des vignes par une cicadelle
+Comptes-Rendus de l'Academie d’Agriculture de France, 47:
+1021-1024
+
+Seemiller E, Garnier M and Schneider B 2002. Mycoplasmas
+of plants and insects. In: Razin S., Herrmann R. (eds.) Molecular Biology and Pathogenicity of Mycoplasmas
+Kluwer Academic / Plenum Publishers, New York, USA:
+91-115,
+
+Seemiiller E and Schneider B 2004. ‘Candidatus Phytoplasma
+mali’, ‘Candidatus Phytoplasma pyri’ and ‘Candidatus
+phytoplasma prunorum’, the causal agents of apple
+proliferation, pear decline and European stone fruit
+yellows, respectively. International Journal of Systematic
+and Evolutionary Microbiology, 54: 1217-1226. Seljak G 2006. An overview of the current knowledge of
+jumping plant-lice of Slovenia (Hemiptera, Psylloidea)
+Acta Entomologica Slovenica, 14 (1): 11-34
+
+Seljak G 2004. Contribution to the knowledge of planthoppers
+
+and leafhoppers of — Slovenia (Hemiptera,
+Auchenorrhyncha). Acta Entomologica Slovenica, 12(2)
+189-216
+
+Sforza R, Clair D, Daire X and Larrue J 1998. The role of
+Hyalesthes obsoletus (Hemiptera: Cixiidae) in the
+occurrence of bois noir of grapevines in France. Journal
+Phytopathology, 146: 549-556. Tedeschi R and Alma A 2004. Transmission of Apple
+Proliferation Phytoplasma by Cacopsylla melanoneura
+(Homoptera: Psyllidae). Journal of Economic Entomology,
+97 (D: 8-13
+
+Torres E, Bertolini E, Cambra M, Monton C and Martin MP
+2005. Real-time PCR for simultaneous and quantitative
+detection of quarantine phytoplasmas from apple
+proliferation (16SrX) group. Molecular and Cellular Probes,
+19: 334-340
+
+Trivellone V, Pinzauti B and Bagnoli B 2005. Reptalus
+quinquecostatus (Dufour) (Auchenorrhyncha: Cixiidae) as
+a possible vector of stolbur-phytoplasma in a vineyard in
+Tuscany. Redia, 88: 103-108
+
+Yvon M, Thébaud G, Alary R and Labonne G 2009. Specific
+detection and quantification of the phytopathogenic agent
+‘Candidatus Phytoplasma prunorum’, Molecular and Cellular
+Probes, 23: 227-234. Phytopathogenic Mollicutes, Vol. 1(2), December 2011
+
+12

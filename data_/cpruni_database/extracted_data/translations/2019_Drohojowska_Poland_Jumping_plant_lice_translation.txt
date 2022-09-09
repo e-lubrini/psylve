@@ -1,0 +1,450 @@
+noe OS
+
+You have downloaded a document from
+REBUS
+repository of the University of Silesia in Katowice
+
+Fawn
+
+Title: Jumping plant lice (Hemiptera: Psylloidea) of the Ojcéw National Park (Southern
+Poland)
+
+Author: Jowita Drohojowska, Anna Class
+
+Citation style: Drohojowska Jowita, Class Anna. (2019). Jumping plant lice (Hemiptera:
+Psylloidea) of the Ojcéw National Park (Southern Poland). Fragmenta Faunistica (T.
+62, no. 1 (2019), pp. 27-37), doi 10.3161 / 00159301FF2019.62.1.027
+
+Attribution - This license allows you to copy, change,
+(Ec). @) distribute, presentation and performance of the work only on condition
+7 Authoring
+
+RSYTET SLASKI lioteka AN Ministry of Science
+7
+
+arty Osten a rsrcrt
+
+ 
+
+FRAGMENTA FAUNISTICA 62 (1): 27-37, 2019
+PL ISSN 0015-9301 © MUSEUM AND INSTITUTE OF ZOOLOGY PAS
+OI 10.3161 / 00159301FF2019.62.1.027
+
+ 
+
+Jumping plant lice (Hemiptera: Psylloidea) of the Ojcéw National Park
+(Southern Poland)
+
+Jowita DRoHO1owska 'and Anna KLASA "
+
+  
+
+'Department of Zoology, University of Silesia, Bankowa 9, 40-007 Katowice, Poland;
+e-mail: jowita drohojowska@us.edu.pl (corresponding author)
+2Qjcowski National Park, 32-045 Suloszowa, Ojeéw 9, Poland; e-mail: anna_klasa@wp.pl
+
+Abstract: The paper lists psyllids (Hemiptera: Psylloidea) found in and around the Ojeéw National Park and discusses
+some selected species. Of the 46 confirmed species, representing the families Aphalaridae, Liviidae, Psyllidae and
+Triozidae, 44 are reported for the first time from the Ojedw National Park. The largest group of psyllids is constituted
+by taxons related to forests and meadow and herbaceous communities. The following species are of particular interest. Craspedoplepta flavipennis (Foerster, 1848), a species characteristic of montane and subalpine altitudes, has its
+northern limit in Poland. The boreal-upland Cacopsylla nigrita (Zetterstedt, 1828) and Craspedoplepta malachitica
+(Dahlbom, 1851) are considered to be typical steppe species in Poland. Key words: Hemiptera, Psylloidea, jumping plant lice, faunisties, Ojedw National Park
+
+INTRODUCTION
+
+The Ojcow National Park (ONP) is located in the southern part of the Krakow-
+Czestochowa Upland in southern Poland about 20 kilometers to the north west of the city of
+Cracow (Kondracki 2002, Richling 2006). The Ojcow Park is the smallest of national parks in
+Poland, it covers the area of ​​2146 ha extending over two deep-cut karst valleys (Pradnik Valley
+and Saspowska Valley) and small parts of the Jurassic plateau (Wisniowski 2003). The karst
+processes of the limestone substrate make the morphology of the area highly diversified
+(Aleksandrowicz & Aleksandrowicz 2004). The rich relief entails, in turn, the diversification of
+the meso- and microclimatic conditions, which results in the richness of habitats. Over 950
+species of vascular plants have been found in the Park, composing approximately 40
+communities (Medwecka-Kornas 1977, 2006, Medwecka-KornaS & Loster 1995,
+Matuszkiewicz J. M. 2001, Matuszkiewicz W. 2001). Over 70% of the area is covered by
+woodland, mostly mixed oak-hornbeam forests and beech woods. A smaller is portion covered
+by mixed coniferous forests, maple forests, elm riparian forests, meadows and xerothermic
+grasslands; the latter two habitats are the richest in plant species. During the long history of faunistic studies in the area of ​​the Ojcéw National Park, which
+were initialized in the 19th century, the ordo Hemiptera has been well investigated - 766
+species were collected in this area, which constitutes 33% of Polish fauna of Hemiptera
+(Boklak & Klasa2016). Data referring to Hemiptera in ONP are included in over 60
+publications (Boklak & Klasa2016) but detailed faunistic investigation of Hemiptera have been
+conducted only in few papers: Coccoidea (Koteja & Zak-Ogaza 1969), Aphidoidea (Osiadacz
+2006, Osiadacz & Wojciechowski 2009), Fulgoromorpha et Cicadomorpha (Szwedo 1992),
+Aleyrodoidea (Klasa & Wisniowski 2016) and Heteroptera (Bednarek 1975, Chlond &
+Gorezyca 2009). Among all Hemiptera, psyllids have been the only group that has not been studied in the
+Ojcow National Park in detail yet (Pawtowski 2008, Boklak & Klasa 2016). Only two species
+
+ 
+
+ 
+
+28 J. Drohojowska and A. Klasa
+
+of psyllids were mentioned from that area previously (Moesz 1920, Skrzypezyfiska &
+Ziemniewicz 2012). Our contribution aims at providing the first list of psyllids of the Ojcow
+National Park. Psyllids (Psylloidea) constitute a superfamily of sap sucking phytophages within the
+Hemiptera. Currently, the world fauna of psyllids amounts to about 4000 described species
+(Percy et al. 2018). In Poland, 113 species have been reported (Drohojowska 2004,
+Drohojowska & Glowacka 2011). MATERIAL AND METHODS. The psyllids from the area of ​​the Ojcow National Park (ONP) and the nearest vicinity in
+its buffer zone were collected in the years 1990-2017. Only qualitative samples were
+collected using an insect net, by shaking and inspecting the host plants. Over 800 specimens
+were collected from over 30 locations in the area of ​​the Park and the nearest vicinity in the
+Park's buffer zone [UTM: DA16]: Kolonia Kamieniec, Wielmoza over the Dolina Zachwytu,
+Murownia hamlet in Biaty KoScidt (segetal communities) and Matesowa Skala in Wola
+Kalinowska (Fig. 1). Due to the mobility of psyllids and the small distance between the sites
+in the buffer zone and the area of ​​the Park, all species were considered as the fauna of the
+ONP. The material was preserved in 70% ethanol or dry or slides mounted. For slide mounting,
+the specimens were cleared in a solution of KOH, passed through chloralphenol and chloral
+hydrate and mounted in Berlese fluid (Klimaszewski 1969). The material is deposited in the
+collection of the Silesian University in Katowice. All collected specimens were identified to species by Jowita Drohojowska, except from
+three which were identificated by Daniel Burckhardt. The family classification follows
+Burckhardt & Ouvrard (2012) and Burckhardt & Queiroz (2013), the species nomenclature is
+according to Ouvrard (2018). The list of species is organized alphabetically using the classification by Burckhardt &
+Ouvrard (2012) with additions by Burckhardt & Queiroz (2013). The locations of occurrence
+of psyllids were ordered based on the dates of the material collection. Abbreviations used:
+
+Am - ryegrass meadow Arrhenatheretum elatioris, OB— xerothermic grassland Origano-
+Brachypodietum, rud - ruderal communities, seg - segetal community, herb - herbaceous
+vegetation, AK - Anna Klasa, JD - Jowita Drohojowska, SOP - Straz Ochrony Przyrody
+(Nature Conservation Guard), [] - numbers in square brackets relate to location of Psylloidea
+occurrence sites at the area of ​​ONP and its buffer zone. RESULTS
+The collected specimens of psyllids belong to 46 species and represent four families:
+Aphalaridae, Liviidae, Psyllidae and Triozidae. Familia: Aphalaridae Low, 1879
+Subfamilia: Aphalarinae
+
+Aphalara exilis (Weber & Mohr, 1804)
+Material: 19; [24], 19 Apr 2011, coat of arms, leg. AK. Psylloidea of ​​the Ojcow National Park 29
+
+ 
+
+Fig. 1. Location of the Psylloidea occurrence sites at the area of ​​the Ojcéw National Park and its buffer zone [UTM
+DAI6]: | - Kolonia Kamieniee, 2 ~ Wielmoza, 3 ~ Pieskowa Skala, 4 - Valley of Delight, 5 ~ Mlynnik, 6 ~ Waw6z
+Pilny Dét, 7 - Grodzisko-Skala Dluga, 8 - Grodzisko, 9 - Malesowa Skala, 10 - Ojedw-Kolenein, 11 - Wola
+Kalinowska, 12 - Ojeéw-Opalowki, 13 - Gorkowa Skala, 14 - Dolina Paduch, 15 - Saspow Zabugaje, 16 - near
+Directorate of ONP, 17 ~ Dolina Saspowska (alder forest), 18 ~ Bukéwki, 19 - Dolina Saspowska (blackhtorn), 20 ~
+Dolina Saspowska-Skala Szalej, 21 - Oje6w-center, 22 - Wawéz Blotny Dél, 23 - Dolina Saspowska- middle part, 24
+- Dolina Saspowska at the exit, 25 - Jonaszéwka, 26 - Ojcow-Igla Deotymy, 27 - Ojedw-serpentines, 28 - Ojeow-
+near guardhouse of SOP (NCG), [DA15]: 29 ~ Pradnik Korzkiewski, 30 - Scale of the Cross in Pradnik Korzkiewski,
+31 - Wawéz Korytania, 32 - Wall (White Koscié!) Am, 33 - Ojcow-settlement ,, lwiny ”, 34 - Murownia (Bialy
+Koscidt) seg. 30 J. Drohojowska and A. Klasa
+
+Aphalara polygoni sensu Burckhardt & Lauterer, 1997
+Material: 18 10 29; [28] Apr 30, 1998, Am, leg. AK; [33], 18 Mar 2012, on Picea
+abies, leg. A. Palaczyk; [23]: 30 Apr 2012, coat of arms, leg. AK; 6 Jul 2012, coat of arms, leg. JD; [21],
+17 May 2012, coat of arms, leg. AK; [4], 6 Jul 2012, Am, leg. JD; [34]: 13 Aug 2013 and 22 Jul 2014,
+seg, leg. AK; [31], 8 Oct 2017, on misletoe Viscum album from Abies alba, leg. AK. Craspedolepta artemisiae (Foerster, 1848)
+Material: 2 3d, 2 29; [32], 8 Jun 2014, Am, leg. AK. Craspedolepta flavipennis (Foerster, 1848)
+
+33.20 29; [5], 8 Jun 1990, coat of arms, leg. AK; [32] 15 Jun 2006, Am, leg. AK;
+[15], 13 Jun 2013, Am, on Leontodon, leg. AK; [2], 2 Jun 2015, on Leontodon, leg. AK. Craspedolepta latior Wagner, 1944
+Material: $ 2, 3, 29; [32], 8 Jun 2014, Am, leg. AK. Craspedolepta malachitica (Dahlbom, 1851)
+Material: 1 3; [7], 30 May 2012, OB, leg. AK. Craspedolepta nebulosa (Zetterstedt, 1828)
+
+Material: 25 33, 9 29; [1]: 4 Jun 1999 and 4 Aug 1999, on Epilobium sp. ; 17 May
+2000, rud, he Epilobium sp., Leg. AK. Craspedolepta nervosa (Foerster, 1848)
+
+Material: 22 3 ¢, 14 99; [21], 7 Jun 1999, rud, leg. AK; [13], 28 May 2012, OB, leg. AK; [23], 6 Jul 2012, coat of arms, leg. JD; [4], 6 Jul 2012, he Achillea millefolium, leg. JD. Craspedolepta omissa Wagner, 1944
+
+Material: 22 33, 40 99; [5], 8 Jun 1990, coat of arms, leg. AK; [14], 28 Jun 1990, leg. AK; [1]:
+4 Jun 1999 and 30 Jun 1999, on Artemisia vulgaris, leg. AK; [23], 31 May 2012, Am, leg. AK;
+[34], 22 Jul 2013, rud, leg. AK. Craspedolepta subpunctata (Foerster, 1848)
+Material: 1 9; [1], 17 May 2000, rud, on Epilobium angustifolium, leg. AK. Subfamilia: Rhinocolinae
+Rhinocola aceris (Linnaeus, 1758)
+
+Material: 6 3 QQ; [21], 29 May 2012, on Acer pseudoplatanus, leg. AK; [10],
+6 Jul 2012, on Acer platanoiodes, leg. AK, JD. Familia: Liviidae Low, 1879
+Subfamilia: Euphyllurinae
+
+Psyllopsis discrepans (Flor, 1861)
+Material: 1 2; [31], 29 Sep 2011, leg. AK. Psylloidea of ​​the Ojcow National Park 31
+
+Psyllopsis fraxini (Linnaeus, 1758)
+Material: 5 34, 6 29; [6], 17 Jun 1998, leg. AK; [3], 29 Jun 1998, OB, leg. AK; [24], 22
+Aug 2013, on Fraxinus exelsior, leg. AK; [23], 1 Jul 2015, leg. AK. This species was previously recorded from ONP (Skrzypezyiiska & Ziemniewicz 2012). Familia: Psyllidae Latreille, 1807
+Subfamilia: Psyllinae
+
+Arytaina genistae (Latreille, 1804)
+Material: 10 4 ¢, 22 29; [34], 28 Sep 2011, leg. AK; [34], 10 May 2012, he Gytisus sp., Leg. AK. Cacopsylla ambigua (Foerster, 1848)
+Material: $ 4 4; [11], 29 Jul 1998, he Salix sp., Leg. AK; [1], 4 Jun 1999, on Salix sp.,
+leg. AK; [4], 6 Jul 2012, he Salix sp., Leg. AK. Cacopsylla crataegi (Schrank, 1801)
+Material: 1 3.2 99; [31], 10 May 2012, leg. AK; [7], 30 May 2012, leg. AK. Cacopsylla hippophaes (Foerster, 1848)
+Material: 2 33, 19; [16], 6 Jul 2012, on Hippophae rhamnoides, leg. JD. Cacopsylla mali (Schmidberger, 1836)
+
+Material: 27 32, 34 29; [33], 28 Jul 1998, he Malus sp., Leg. AK; [12] 7 Aug 1999 on
+Carpinus betulus, leg. AK; [21]: 29 May 2012, he Malus, leg. AK; 5 Aug 2013 and
+7 Aug 2013, on Malus, leg. AK; [7], 30 May 2012, leg. AK; [4], 6 Jul 2012, leg. JD; [18], 23
+Jul 2012, leg. AK; [23], 9 Aug 2012, on Malus, leg. AK; [25], 9 Aug 2012, on Padus avium,
+leg. AK. Cacopsylla melanoneura (Foerster, 1848)
+
+Material: 13 33, 35 99; [33], 18 Mar 2012, he Picea sp., Leg. A. Palaczyk; [21],
+27 Mar 2012, on Picea abies, leg. AK; [34], 5 May 2012, on Crataegus sp., Leg. AK; [31],
+10 May 2012, leg. AK; [8], 8 May 2013, on Crataegus sp., Leg. AK; [5], 8 May 2013, on
+Crataegus sp., Leg. AK. Cacopsylla moscovita (Andrianova, 1948)
+
+Material: 2 3d; [11], 29 Jul 1998, he Salix sp., Leg. AK; [10], 6 Jul 2012, he Salix sp., Leg. JD. Cacopsylla nigrita (Zetterstedt, 1828)
+Material: 1 3, 1 9; [21], 27 Apr 2012, on Salix sp., Leg. AK; [24], 30 Apr 2012, coat of arms,
+leg. AK. Cacopsylla peregrina (Foerster, 1848)
+Material: 67 33, 49 99; [30], 4 Oct 2011, 14 Jun 2013, on Crataegus sp., Leg. AK; [8],
+
+6 Jul 2012, on Crataegus sp., Leg. JD; [18], 23 Jul 2012, on Crataegus sp. leg. AK; [34],
+19 Aug 2012, on Crataegus sp., Leg. AK; [9], 6 Aug 2013, on Crataegus sp., Leg. AK. 32 J. Drohojowska and A. Klasa
+
+Cacopsylla pruni (Scopoli, 1763)
+Material: 5 23, 6 99; [23] Apr 26, 2012 on Prunus spinosa; [27] 27 Apr 2012, on
+Prunus spinosa, leg. AK; [33] 5. May 2012, leg. AK. Cacopsylla pulchra (Zetterstedt, 1840)
+Material: 13 G3, 15 QQ; [34]: 28 Jul 1998 and 14 Aug 2012, on Salix sp., Leg. AK; [11],
+29 Jul 1998, he Salix sp., Leg. AK. Cacopsylla pyri (Linnaeus, 1758)
+Material: 2 33, 6 [8], 30 May 2012, on Pyrus sp., Leg. AK; [34], 13 Aug 2013, seg,
+
+leg. AK. Cacopsylla pyricola (Foerster, 1848)
+
+Material: 3 33,4 29; [23], 30 Apr 2012, on Pyrus sp., Leg. AK; [33], 5 May 2012, leg. AK; [12], 9 May 2012, on Pyrus sp., Leg. AK; [26], 17 May 2012, on Pyrus sp., Leg. AK; [8],
+30 May 2012, on Pyrus sp., Leg. AK. Cacopsylla pyrisuga (Foerster, 1848)
+Material: $ 3,329; [24], 27 Oct 2011, he Picea sp. ; [23], 30 Apr 2012, on Pyrus sp. ;
+[33] May 5, 2012; [26], 17 May 2012, on Pyrus sp., Leg. AK. Cacopsylla saliceti (Foerster, 1848)
+Material: 1 3, 4 99; [23], 1 Apr 2003, on Salix sp., Leg. AK, [3], 19 Apr 2004, on Salix
+sp., leg. AK. Cacopsylla ulmi (Foerster, 1848)
+
+Material: 26 3, 29 29; [23], 3 Nov 2011, on Ulmus sp., Leg. AK; [10], 6 Jul 2012, on
+Acer sp., Leg. ID; [16], 9 Aug 8.2012, on Ulmus sp., Leg. AK. Cacopsylla visci (Curtis, 1835)
+
+Material: 1 nymph; [31], 8 Oct 2017, on misletoe Viscum album from Abies alba, leg. AK, det. D. Burckhardt. Chamaepsylla hartigii (Flor, 1861)
+
+Material: 4 3d, 5 99; [30], 4 Jun 2012, on Betula sp. , leg. AK; [34] Aug 19, 2012 on
+Betula sp. leg. AK. Psylla alni (Linnaeus, 1758)
+Material: 23 43, 21 99; [29]: 4 Oct 2011, 14 Jun 2012, on Alnus glutinosa, leg. AK;
+Dolina Saspowska, 31 May 2012, on Alnus glutinosa and Am, leg. AK. Familia: Triozidae Low, 1879
+
+Bactericera albiventris (Foerster, 1848)
+
+Material: 1 3, 3 29; [24], 27 Oct 2011, he Picea sp., Leg. AK; [31], 5 May 2012, on
+Salix sp., Leg. AK; [21], 17 May 2012, leg. AK; [5], 8 May 2013, he Salix sp., Leg. AK. Psylloidea of ​​the Ojcow National Park 33
+
+Bactericera nigricornis (Foerster, 1848)
+Material: 1 9; [1], 17 May 2000, rud, on Epilobium angustifolium, leg. AK. Dispersa apicalis (Foerster, 1848)
+Material: 1 9; [13], 9 May 2012, OB, leg. AK. Trichochermes walkeri (Foerster, 1848)
+; [23]: 5 Aug 2013, 14 Aug 2013, on Rhamnus catharthica, leg. AK. 3s
+
+  
+
+Material: 19 ¢
+
+Trioza abdominalis Flor, 1861
+Material: 1 3 ¢, 1 9; [32]: 23 Sep 2012, Am, larva on Tanacetum vulgare, 19 emerged
+the larva 26 Sep 2012, leg. AK; 22 Jul 2014, Am on T. vulgare, leg. AK, det. D. Burckhardt. Tanacetum vulgare has not been provided as a host plant for any kind of psyllid to that
+
+moment. Trioza agrophila Liw, 1888
+
+Material: 1 3.3 29; [23], 31 May 2012, coat of arms, leg. AK. Trioza centranthi (Vallot, 1829)
+Material: 5 33,399; [23]: 20 Apr 2012, leg. AK and 26 Apr 2012, coat of arms, leg. AK. Trioza cirsii Low, 1881
+Material: 3 6, 4 29; [14], 28 Jun 1990, leg. AK; [23]: 5 Aug 2013 and 22 Aug 2013,
+Am, leg. AK; [32], 19 May 2014, Am, leg. AK, det. D. Burckhardt. Trioza dispar Liw, 1878
+Material: 1 9; [21], 9 May 2012, coat of arms, leg. AK. Trioza flavipennis Foerster, 1848
+
+Material: 1 3; [21], 27 Mar 2012, on Picea excelsa, leg. AK. This species was reported almost a hundred years ago from the area of ​​the present ONP
+
+(May 1920). Triosis by Gallic Foerster, 1848
+
+Material: 1 3.5 99; [24], 27 Oct 2011, he Picea sp., Leg. AK; [7], 30 May 2012, OB, leg. AK. Trioza remota Foerster, 1848
+Material: 1 3.7 29; [31], 5 May 2012, on Quercus sp., Leg. AK. Trioza rhamni (Schrank, 1801)
+Material: 1 3.7 29; [23], 14 Aug 2013, on Rhamnus catharthica, leg. AK
+
+Trioza urticae (Linnaeus, 1758)
+Material: 35 33, 32 99; [1], 30 Jun 1999, rud, leg. AK; [33], 18 Mar 2012, on Picea
+sp., leg. A. Palaczyk; [21]: 27 Mar 2012, on Picea abies; 27 Apr 2012, leg. AK; 9 May 2012
+and 17 May 2012, herb, leg. AK; [7], 30 May 2012, OB, leg. AK; [23]: 6 Jul 2012, coat of arms,
+
+34 J. Drohojowska and A. Klasa
+
+leg. JD; 9 Aug 2012, Am, leg. AK; [10], 6 Jul 2012, leg. JD; [4], 6 Jul 2012, leg. JD, AK; [22],
+9 Mar 2015, on Chrysosplenium sp., Leg. AK. DISCUSSION
+
+The investigation of psyllids fauna in the area of ​​the Ojcéw National Park resulted in
+identifying the presence of 46 species of psyllids, out of which 44 had never been recorded
+before in the ONP. Two species: Psyllopsis fraxini and Trioza flavipennis had been recorded
+earlier by Moesz (1920) and Skrzypezyfska & Ziemniewicz (2012) and presence of these
+species could be confirmed. The 46 listed species of psyllids constituting nearly 40% of the
+national fauna and representing all the four families that are present in Poland have been found
+in the area of ​​the Ojcow National Park and its buffer zone. The number of species recorded in the Ojcéw National Park appears relatively high in
+comparison with other areas in Poland where the fauna of Psylloidea has been the subject of
+detailed faunistic surveys: in the Bieszezady National Park, 30 species were found
+(Klimaszewski 1971, Drohojowska & Klimaszewski 2000), in the Gorce National Park - 39
+(Glowacka & Migula 1996), in the Babia Gora National Park - 17 (Glowacka 1979). The bridge
+were found in the Tatra National Park - 58 (Smreczyfski 1957, Drohojowska & Glowacka
+2011). Given the small ONP area, the species richness seems particularly high. The diversity of the flora and plant communities of the Park determines the diversity of the
+Psylloidea fauna. The Psylloidea listed here are tied to several types of environments: forest
+communities, meadows of different type and herbaceous communities, xerothermic grasslands
+and scrubs, felling sites and ruderal communities. They also occur on ornamental plants and
+fruit trees. It should be noted that adult wintering psyllids related to herbacaeous plants change
+their environment in the fall and fly to coniferous trees (e.g. Trioza flavipennis, T. urticae were
+noted on spruce and Aphalara polygoni were found on evergreen misletoe Viscum album). The largest amount of psyllid species were collected in forest habitats. These 13 species
+include: Rhinocola aceris feeding on the Acer genus, Psylla alni related to the Alnus genus,
+Trioza remota - this is Quercus oaks, Chameapsylla hartigii - this is Betula sp. birch, Cacopsylla ulmi
+- to Ulmus spp., Two species of psyllids residing on a Fraxinus excelsior ash: Psyllopsis
+discrepans and P. fraxini and several species residing on the Salix willow: Cacopsylla
+ambigua, C. moscovita, C. nigrita, C. pulchra, C. saliceti, Bactericera albiventris. The largest
+numbers of “forest” psyllids are found in riparian communities, which - in the ONP - are ones
+of the most degraded communities and form specific patches in two locations: the Pradnik
+valley and the Saspowska valley. Another group (12 species) consists of the psyllids residing on the plants of meadows and
+herbaceous communities. These are populating both humid meadows and herbaceous
+communities in the Pradnik and Saspowska valleys, but are more common in mesophilic
+meadows located at the plateau or at the slopes of valleys that are floristically richer
+(Murownia, Zabugaje, Wielmoza). Seven species of the Trioza genus are included in that
+group: Trioza: T. agrophila, T. centranthi, T. dispar, T. flavipennis, T. urticae and T. cirsii,
+three species of the Craspedolepta genus: C. artemisiae. C. flavipennis, C. latior. and two
+of the Aphalara genus: A. exilis and A. polygoni. In the group of species related to meadows,
+the most interesting seems to be the Craspedolepta flavipennis, a polyphage residing on the
+plants from the Chrysanthemum, Leontodon, Crepis and Hypochoeris genus. The psyllid is
+common in the Carpathian mountains (Glowacka 1979, Malenovsky & Lauterer 2011),
+Gorce mountains (Glowacka & Migula 1996), Tatras (Drohojowska & Glowacka 2011),
+Sudetes (Glowacka 1989) and is rare in lowlands - noted in isolated communities in the
+Upper Silesia, the Greater Poland - Kuyavia lowland, the Pomeranian Lakeland and the
+
+  
+ 
+
+ 
+
+Psylloidea of ​​the Ojcow National Park 35
+
+Baltic sea littoral (Klimaszewski 1975). General distribution is Central Europe (Lauterer &
+Burckhardt 2004) but the northern boundary of occurrence thereof is in Poland. Another group is constituted by thermophilic species residing at the xerothermic grasslands
+and in thermophillic scrubs. The following reside in the thermophilic schrubs: two species of
+psyllids related to Rhamnus: T. rhamni and Trichochermes walkeri, three species of the
+Cacopsylla genus related to Crataegus: C. crataegi, C. melanura and C. peregrina, Cacapsylla
+pruni. - on blackhtorn and Arytaina genistae residing on insolated loess slopes covered with
+Cytisus scoparius. Xerothermic grasslands, on the other hand, are inhabited by the polyphage
+of the Apiaceae - Dyspersa apicalis, Craspedoplepta malachitica residing on Artemisia
+absithium, which is considered typical to steppe (Klimaszewski 1975) and C. nervosa
+developing on the Achillea and Trioza galii provided with Galium sp. and Ononis sp. The four
+latter species of psyllids were collected in grasslands located at southern insolated slopes in
+Grodzisko and Gérkowa Skata, which are the sanctuary of xerothermic species of plants and
+invertebrates of various groups. A poorly isolated group is constituted by psyllids found in ruderal and felling sites and
+sometimes meadow communities: polyphage - Bactericera nigricornis, related to the
+Artemisia vulgaris - Craspedolepta omissa and the species residing on Epilobium
+angustifolium: Craspedolepta subpunctata and C. nebulosa. C. subpunctata and two other
+species of psyllids: Trioza dispar, and Cacopsylla nigrita were known in Poland only from the
+Tatras (Drohojowska & Glowacka 2011) and Sudetes (Glowacka 1989) and the latter species is
+considered to exhibit a boreal-upland distribution in Europe (Klimaszewski 1975) and
+submontane and montain regions in the Czech Republic (Malenovsky & Lauterer 2011). Well
+boreal species have been found in the ONP. Further analyzes of the psyllids' distribution may
+be found to be insufficiently reliable due to the selective knowledge of the psyllids residing in
+Poland and the Palearctic realm. A similar conclusion had been reached by Klimaszewski
+(1975) over 40 years ago - unfortunately this remains to be true. The list of Psylloidea of ​​the ONP ends with the species residing in orchards - on the pear
+tree: Cacopsylla pyri, C. pyricola and C. pyrisuga, the apple tree - C. mali and the ornamental
+shrub - Hippophae rhamnoides sea buckthorn - C. hippophaes. Until recently, the last of the
+mentioned psyllids was considered rare and only related to the Baltic sea litoral (Smreezyhski
+1954, Klimaszewski 1963). It was later noted on the Tarnowskie Gory Hummock (Kanturski &
+Drohojowska 2013) and as of recent, it was multiple times collected by the authors in the entire
+country from the planted sea buckthorn. It was thus spread around the country along with its
+host plant. Two psyllids found in the Park: Cacopsylla crataegi and C. flavipennis are included
+in the Polish red list of endangered species, in the LC lower risk category (Drohojowska et al. 2002). The investigation of psyllidofauna in the ONP shall provide an insight into biodiversity of
+an area under special environmental protection, i.e. a national park. It is particularly important
+in connection with the special character of the ONP, due to constant presence and activity of
+man within its area (Partyka 1990). Providing better insight into the relationship of psyllids and
+their host plants and other organisms that are related to them is of vital importance both to
+environmental protection and to the protection of biological diversity. ACKNOWLEDGEMENTS
+
+We thank Daniel Burckhardt (Naturhistorisches Museum, Basel, Switzerland) and Igor
+Malenovsky (Moravian Museum, Brno, Czech Republic) for critical reading of the manuscript
+and useful comments. 36 J. Drohojowska and A. Klasa
+
+REFERENCES
+
+ALEKSANDROWICZ S. W. & ALEKSANDROWICZ Z. 2004. Evolution of the sculpture and the environment of the Ojców Plaskowyzu. In:
+Partyka J. (ed. ), The diversification and changes of the natural and cultural environment of the Kraków Upland
+Czestochowska. Vol. 1. Nature, Pp. 47-54, Ojcow National Park, Ojeow, 416 pp. BEDNAREK A. 1975. Materials to get to know the fauna of water bugs (Heteroptera) of Ojców Park
+'National. Przyrodnieze, Poznań, 11: 10-17. BOKLAK E. & CLASS A. 2016. Catalog of bugs (Arthropoda: Insecta: Hemiptera) of Ojców Park
+'National. Pradnik. Works and materials of the Prof, Wladystawa Szafera 26: 1-34, [With English Abstract
+and Summary]
+
+BURCKHARDT D. & OUVRARD D. 2012. A revised classification of the jumping plant-lice (Hemiptera: Psylloidea). Zootax 3509: 1-34. DOL: 10.5281 /zenodo.209825,
+
+BURCKHARDT D. & QUEIROZ D. 2013. Phylogenetic relationships within the subfamily Aphalarinae including a
+revision of Limataphalara (Hemiptera: Psylloidea: Aphalaridae). Acta Musei Moraviae, Scientiae biologicae
+(Brno) 98 (2): 35-56. CHLOND D. & GoRCZYCA J. 2009, Terrestrial true bugs (Hemiptera, Heteroptera) of the Ojesw National Park Origin of
+Fauna. Annals of the Upper Silesian Museum (Entomology) 17: 5-109. DROHOJOWSKA J., GORCZYCA J., WEGIEREK P., WOICIECHOWSKI W. & SZWEDO J. 2002. Hemiptera Pluskwiaki, In:
+GLOWACINSKI Z. (ed. ), Red list of threaten and endangered animals. Edition 2. Pp. 111-114. Institute of Protection
+Przyrody PAN, Krakow. [With English Abstract and Summary]
+
+DROHOJOWSKA J. 2004. Koliszki, lentils (Psylloidea). In: BOGDANOWICZ W., CHUDZICKA E., PILIPIUK I. &
+SKIBINSKA E. (eds), Fauna of Poland - Characteristics and checklist of species. Vol 1, Annelida, Arthropoda pro
+parte, Insecta pro parte (Coleoptera, Hemiptera, Hymenoptera, Lepidoptera). Pp. 252-254, Museum and Institute
+Zoology of the Polish Academy of Sciences. Warsaw 509 pp. [In Polish with English summaries]
+
+DROHOJOWSKA J. & GLOWACKA E. 2011, The jumping plant-lice (Hemiptera: Psylloidea) of the Tatra National Park. Polish Journal of Entomology 80: 265-275. DROHOJOWSKA J. & KLIMASZEWSKI S.M. 2000, Koliszki (Sterorthyncha: Psyllodea) Bieszezadéw. Monographs
+Bieszezadzkie 7: 217-222 [With English Abstract and Summary]
+
+GLOWACKA E. 1979. Koliszki (Psylloidea) of Beskid Slaski and Zywiecki. Acta Biologica, Katowice 7: 45-52. [With English Abstract and Summary]
+
+GLOWACKA E. 1989. Koliszki (Psylloidea) Sudetsw. Acta Biologica Silesiana, Katowice 13: 21-30, [With English
+Abstract and Summary]
+
+GLOWACKA E. & MIGULA P. 1996, Koliszki (Psylloidea) Goreow. National Parks and Nature Reserves 15: 5971. [With English Abstract and Summary]. KANTURSKI M. & DROHOJOWSKA J. 2013. Koliszki (Hemiptera: Psylloidea) of Garb Tarnogérski. Messages
+Entomologiczne 32 (4): 245-254 [In Polish with English Abstract and Summary]
+
+KLAsA A. & WISNIOWSKI B, 2016. Maezliki (Aleyrodidae, Hemiptera) of the Ojców National Park. Pradnik. Works and materials of the Museum of Prof. Wladyslawa Szafera 26: 15-34,
+
+KLIMASZEWSKI S. M. 1963. Polnische Arten der Gattung Psylla Geoff. (Homoptera: Psyllidae). Annales Zoologici 20:
+363-455. [With Polish and Russian Summary]
+
+KLIMASZEWSKI S.M. 1969. Keys for marking insects in Poland, XVII, 3. Koliszki ~ Psyllodea, PWN, Warsaw, 90 pp. KLIMASZEWSKI S.M. 1971. Koliszki (Homoptera, Psyllodea) Bieszezadéw. Fragment Faunistica 17: 161-178 [With
+English Abstract and Summary]
+
+KLIMASZEWSKIS.M. 1975. Psyllodea Koliszki (Insecta: Homoptera). Fauna Pols! KonpRACKI / J. 2002. Regional geography of Poland. PWN, Warsaw: 441 pp. KorEIA J. & ZAK-OGAZA B. 1969. The Scale-Insect Fauna (Homoptra, Coccoidea) of the Ojcéw National Park in
+Poland, "Acta Zoologica Cracoviensia", 14: 351-373. LAUTERER P. & BURCKHARDT D. 2004. The West Palacarctic species of the Craspedolepta flavipennis (Foerster)
+complex (Hemiptera, Psylloidea). Mitteilungen der Schweizerischen Entomologischen Gesellschaft 77: 251-275. MALENOVSKY I. & LAUTERER P. 2011, Jumping plant- lice (Hemiptera: Psylloidea) of the Bilé Karpaty Protected
+Landscape Area and Biosphere Reserve (Czech Republic). Acta Musei Moraviae, Scientiae biologicae, Brno, 96:
+105-154,
+
+MATUSZKIEWICZ J. M. 2001. Polish forest complexes. PWN, Warsaw, 357 pp. MATUSZKIEWICZ W. 2001. Guide to the marking of plant communities in Poland. PWN, Warsaw, 536 pp. MEDWECKA-KoRNAS A. 1977. Plant teams. In: ZABIEROWSKI K. (ed.). The nature of Ojców Park
+National, pp. 199-235. Naturae Studies, Series B. PWN, Warsaw, 436 pp. MEDWECKA-KorNAS A. 2006. Landscapes and vegetation of the Ojców National Park in the past and present photos
+and some issues of their protection. Pradnik. Works and materials of the Prof. Wladyslawa Szafer 16: 49-70. MEDWECKA-KORNAS A. & LOSTER S. 1995. Ojcow National Park. In: MIREK Z. & WOICICKI J. (eds), Robe
+Roslinna Parkéw and the reserves of southern Poland. Guide of the field sessions of the 50 Polish Congress
+Botanical Society. Pp. 7-32. Polish Botanical Studies (Guidebook Series) 12. Institute of Botany IN.
+Szafer PAN, Krakéw.
+
+ 
+
+ 
+
+. Vol. 3. PWN, Warsaw, 295 pp. Psylloidea of ​​the Ojcow National Park 37
+
+Motsz G. 1920. Gubacsok Lengyelorszigbél. Pflanzengallen aus Polen, Magyar Botanikai Lapok 18: 26-39. Settler B. 2006. Aphids (Hemiptera, Sternorthyncha, Aphidinea) related to plants grown in the area
+Ojcow National Park. Pradnik. Works and Materials of the Museum of Prof. Wladyslaw Szafer 16: 179-183. OSIADACZ B, & WOICIECHOWSKI W. 2008. Aphids (Hemiptera: Aphidinea) of the Ojcéw National Park, structureand
+origin of fauna, The monograph, Annals of the Upper Silesian Museum in Bytom. Natural History, 18: 172pp. OUVRARD D. 2018. Psyl'list - the world Psylloidea database. Available online: www.hemiptera-databases.com/psyllist. PARTYKA J. 1990, General characteristics of the Ojców National Park - pressures and threats. Pradnik. Works and
+Museum materials, Prof. Wiadyslawa Szafer 1: 19-25. PAWLOWSKI J. 2008, Other Idowe invertebrates of the Ojców National Park. In: CLASS A. & PARTYKA J. (ed). Monograph of Ojców National Park, pp. 643-658. Nature, Ojeéw, 766 pp. (With English Abstract and
+Summary]
+
+Percy D. M., CRAMPTON-PLATT A., SVEINSSON S., LEMMON A. R., LEMMON E., OUVRARD D. & BURCKHARDT D.
+2018. Resolving the psyllid tree of life; phylogenomic analyzes of the superfamily Psylloidea (Hemiptera). Systematic Entomology DOI: 10.111 1 / syen.12302
+
+RICHLING A. 2006. Physico-geographic regionalization, In: RICHLING A. & OSTASZEWSKA K. (eds), Geografia
+Physics of Poland, pp. 324-334, PWN, Warsaw, 346pp,
+
+SKRZYPCZYNSKA M. & ZIEMNIEWICZ M. 2012. It grew on ligcia Fraxinus excelsior L. in Ojców Park
+National. Pradnik. Works and materials of the Prof, Wiadyslawa Szafera 22: 179-184, [With English
+Abstract and Summary]
+
+SMRECZYNSKI S. 1954, Materials for the fauna of bugbugs in Poland! French Summary]
+
+SWEDO J. 1992. Piewiki (Homoptera, Auchenorthyncha) of selected plant communities of Ojeowski Park
+National. Pradnik. Works and materials of the Prof. Wladystawa Szafer 5: 223-233. WISNIOWSKI B. 2003. Characteristics of the area, In: DYLEWSKA M, & WISNIOWSKI B. (eds), Zadlowki (Hymenoptera,
+Aculeata) of the Ojców National Park. Pp. 9-14. Ojców National Park & ​​Museum Prof.
+Wiadystawa Szafera, Oje6w, 306 pp. in and. Fragmenta Faunistica 7: 1-146 [With Ru:
+
+SUMMARY
+[Koliszki (Hemiptera: Psylloidea) of the Ojców National Park (southern Poland)]
+
+The paper presents a list of Koliszkéw (Hemiptera: Psylloidea) found in the area
+Ojców National Park and its buffer zone. The occurrence of 46 species has been recorded
+koliszkéw of the four families: Aphalaridae, Liviidae, Psyllidae and Triozidae. Method demonstrated
+only two species have been reported earlier from this area and 44 are new statements
+for the fauna of the Ojców National Park. The most numerous group of koliszkéw are taxa
+related to forests and meadows and herbs communities. Recorded here: Craspedoplepta
+flavipennis (Foerster, 1848), typical of the mountain regions and reaching in Poland
+northern boundary of the range, Boreal-mountainous Cacopsylla nigrita (Zetterstedt,
+1828) and Craspedoplepta malachitica (Dahlbom, 1851) considered a typical steppe species
+occurring in Poland. Accepted: 5 November 2018

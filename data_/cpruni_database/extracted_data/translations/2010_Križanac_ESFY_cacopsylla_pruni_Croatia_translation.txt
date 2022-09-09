@@ -1,0 +1,822 @@
+Journal of Plant Diseases and Protection, 117 (5), 206-213, 2010, ISSN 1861-3829. © Eugen Ulmer KG, Stuttgart
+
+Diversity of Phytoplasmas Infecting Fruit Trees and Their Vectors in Croatia
+
+Diversitat von Obstbaum infizierenden Phytoplasmen und ihren Vektoren in Kroatien
+
+|. Krizanac’, |. Mikect", 2, Budin3éak’, M. Seruga Music? & D. 5kori¢? *
+
+Institute for Plant Protection, HCPHS, Svetosimunska 25, Zagreb, Croatia
+2 Department of Biology, Faculty of Science, University of Zagreb, Croatia
+
+* Corresponding author, e-mail dijana@botanichr
+
+Received 16 March 2010, accepted 27 July 2010
+
+Abstract
+
+Asurvey started in 2002 (KriZanac et al. 2008) was continued
+to determine the diversity of phytoplasmas infecting fruit
+trees and their vectors in Croatia. Leaf and twig samples from
+32 commercial orchards located in all major fruit growing
+regions of Croatia, were visually inspected for symptoms and
+tested for the presence of the phytoplasma 16S rDNA as were
+adjacent symptomless wild Prunus species, and potential in-
+sect vectors from seven orchards. Phytoplasmas belonging to
+‘Candidatus Phytoplasma pyri’ and ‘Ca. P. prunorum’ (riboso-
+mal subgroups 16SrX-C and 16SrX-B, respectively) were the
+most widespread and had the highest incidence in pears and
+stone fruits, respectively. ‘Ca. P. asteris’ (16Srl-B) was found
+sporadically in both fruit trees and vectors, while phytoplas-
+mas of the stolbur group (16SrXII-A) was frequently found in
+pear. Mixed infections were detected in one pear and one Jap-
+anese plum. The high incidence and wide geographical distri-
+bution of stolbur phytoplasma in pears along with its presence
+in Cacopsyla pyri, the main vector of pear phytoplasma, calls
+for investigation of the role of this phytoplasma in the devel-
+opment of pear decline in Croatia. Cacopsylla pyrisuga, a sus-
+pected ‘Ca. P. pyri’ psyllid vector, was also found to harbour
+stolbur phytoplasma. This study revealed higher phytoplasma
+diversity in fruit trees and vectors than anticipated. Key words: 165 rDNA PCR-RELP, aster yellows, Cacopsylla
+pyri, C. pyrisuga, C. pruni, ‘Candidatus Phytoplasma pyri’,
+‘Ca. P, prunorum,, stolbur
+
+Zusammenfassung
+
+In Kroatien wurde, in Fortsetzung eines 2002 begonnenen
+Projektes (KriZANac et al. 2008), die Diversitét Obstbaum
+infizierender Phytoplasmen und ihrer Vektoren untersucht. Blatter und Zweige von insgesamt 32 kommerziell gefiihrten
+Obstanlagen aus allen Obstbaugebieten des Landes wurden
+im Sommer und Herbst visuell hinsichtlich ihrer Symptome
+untersucht. Ebenfalls wurde das Material - ebenso wie Proben
+von benachbarten, symptomlosen wilden Prunus-Arten und
+Insekten aus sieben Obstanlagen - auf das Vorkommen von 16
+1DNA getestet. Phytoplasmen, die den Untergruppen 16SrX-C
+und 16SrX-B (‘Candidatus Phytoplasma pyri’ und ‘Ca. P. pru-
+norum’) angehéren, waren am weitesten verbreitet mit dem
+héchsten Befall an Birnenbaéumen und Steinfriichten. ‘Ca. P. asteris’ (16SrI-B) wurde sporadisch sowohl in Obstbaumen
+als auch in den Vektoren gefunden, wahrend Phytoplasmen
+der Stolbur-Gruppe (16SrXII-A) nur gelegentlich in Birnen
+nachgewiesen werden konnten. Mischinfektionen wurden
+einmal in Pyrus communis und einmal in einer japanischen
+Prunus-Art nachgewiesen. Hoher Befall und weite geogra-
+phische Verbreitung von Stolbur-Phytoplasmen (16SrXII-A)
+konnte in Birnen und dem Hauptvektor Cacopsyla pyri gezeigt
+werden. Auerdem konnte Cacopsylla pyrisuga als Vektor fiir
+Stolbur-Phytoplasmen nachgewiesen werden. Die Untersuchun-
+
+gen ergaben insgesamt eine héhere Diversitat an Phytoplas-
+men in Obstbaéumen als erwartet wurde. Stichwérter: 16S rDNA PCR-RELP, aster yellows, Cacopsylla
+pyri, C. pyrisuga, C. pruni, ‘Candidatus Phytoplasma pyri’,
+‘Ca. P, prunorum’, Stolbur
+
+1 Introduction
+
+Phytoplasmas are non-cultivable, wall-less prokaryotes be-
+longing to the monophyletic clade of the class Mollicutes
+(IRPCM 2004). They inhabit phloem tissue of plants, as well
+as various cell types of insects and their life cycle involves
+replication in both plant and insect hosts (HOGENHOUT et al. 2008). These endocellular parasites are associated with eco-
+nomically important diseases in several hundred plant species
+(Berraccint 2007), which is reflected in their historical
+descriptive names. Due to the inability of growing phyto-
+plasmas in axenic cultures, their phylogeny is mainly based on
+conserved genes sequence analyses, particularly on the 16S
+rRNA gene (GUNDERSEN et al. 1994; IRPCM 2004), a common. bacterial phylogenetic marker. Apple proliferation (AP), Euro-
+pean stone fruit yellows (ESFY) and pear decline (PD), phyto-
+plasmas associated with devastating diseases of fruit trees, are
+classified as subgroups A, B and C, of the ribosomal group
+16SrX, respectively (Lex et al. 2000). AP, PD and ESFY phyto-
+plasmas were assigned to different taxa on the basis of differ-
+ences in their host specificity, vector transmission and phylo-
+genetic markers different from the 16S rRNA gene (IRPCM
+2004; SEEMULLER and SCHNEIDER 2004), namely ‘Candidatus
+Phytoplasma mali’, ‘Ca. P. pyr’ and ‘Ca. P. prunorum’, respec-
+tively. The chromosomes of all three phytoplasmas appear to
+be linear, an unusual feature for phytoplasmas (Kus et al. 2008). The three above-mentioned phytoplasmas, AP, PD and
+ESFY, can cause economically important losses in fruit trees
+by significantly reducing tree vigour and yield. They are
+vectored in nature by psyllids. ‘Ca. P. pyri’ is transmitted by
+Cacopsylla pyricola and C. pyri (JENSEN et al. 1964; CaRRARO et
+al. 1998a); ‘Ca. P. mali’ by C. costalis (syn. C. picta) and
+C. melanoneura (FRISINGHELLI et al. 2000; TrDEscHi et al. 2003;
+JarauscH et al. 2003), and ‘Ca. P. prunorum’ by C. pruni
+(Carraro et al. 1998b). It is suspected that ‘Ca. P. pyri’ can also
+be transmitted by C. pyrisuga (KuCEROvA et al. 2007). All
+vectors are present in Europe. The occurrence of pear decline and apple proliferation
+diseases in apple and pear trees was first reported in Croatia
+in the nineteen hundred seventies and eighties (CvseTKovic
+1976; Sari¢ and CweTKovic 1985; CverKovic et al. 1987), re-
+spectively. Williams pear trees grafted on pear seedling root-
+stocks from Dalmatia (coastal part of Croatia) were severely
+affected at the time. Besides typical leaf reddening and down-
+ward curling, midvein necrosis and general decline symp-
+toms, discoloured necrotic line at the graft union were regu-
+larly recorded (pers. obs.). The proliferation symptoms were
+
+J.Plant Dis.Protect. 5/2010
+
+Krizanac et al. : Fruit tree phytoplasmas and vectors in Croatia
+
+207
+
+ 
+
+the most prominent in Red Delicious apples of Ormoz (Slove-
+nia) and north-western Croatia, however, without clear indi-
+cation of the Croatian locations. Over 70% of apple trees in
+those areas had proliferation symptoms. Their fruits were very
+small and insipid. The presence of phytoplasma cells in leaf
+mid vein sieve tubes of apples and pears was demonstrated by
+electron microscopy. Oxytetracycline therapy of pear trees
+over a period of two years resulted in recovery (Sari¢ and Cv-
+JETKOVIC 1985). In spite of the economic importance of fruit tree phyto-
+plasmas in Croatia, a systematic survey of these pathogens
+and their potential insect vectors is lacking. In the last decade,
+PD symptoms have been frequently observed, especially in
+newly planted pear orchards of continental Croatia. In 2002,
+the first monitoring of symptoms of phytoplasma in pears was
+started. The detection of phytoplasma in pears, apples, as well
+as in their vectors was done in 2003 and 2004 (KriZanac et al. 2008). The aim of the current research was to extend the
+survey by including observations from more locations and
+years, and by including more fruit types, namely stone fruits
+in addition to pome, as well as their potential psyllid vectors. 2 Materials and methods
+2.1 Materials
+
+Collection of plant and insect samples. Thirty-two commer-
+cial orchards, which grew either pome or stone fruits, and
+were located in one of the three fruit growing regions in Croatia
+(Fig. 1) were chosen for the survey. The separation in regions
+is based on agro-climatical zoning (Fig. 1). The regions also
+differ in the way orchards are managed. They will be referred
+to as continental west (CW), continental east (CE) and Adri-
+atic (AD). The orchards were visually inspected for the pres-
+ence of AP-, PD- and ESFY-like symptoms during summer and
+autumn in four consecutive years (2002-2005). Leaf and twig
+samples were collected from symptomatic fruit trees and spo-
+radically from adjacent asymptomatic wild Prunus species and
+transferred to CaCl to dry. In 2004 and 2005, potential insect
+vectors were monitored and collected using the beating meth-
+
+od (STEINER 1967) from seven orchards distributed throughout
+the three regions. In addition, in 2006 and 2007, psyllids were
+monitored in ten pear and three apple orchards located in the
+CW and CE regions. Five to fifteen psyllids were captured per
+location and kept in 95% ethanol until species identification
+and nucleic acids extraction. Phytoplasma reference strains. The phytoplasma reference
+strains were obtained from the collection of DiSTA Phytoplas-
+mology laboratory, University of Bologna, Italy (IRPCM 2004;
+http://137.204.42.130/person/collection-september_2003. pdf) either as nucleic acids extracts or micropropagated plants
+of Catharanthus roseus L. Don, the main experimental phyto-
+plasma plant host. The following reference strains were used
+in PCR and RFLP analysis for comparison: AP-15 (ribosomal
+subgroup 16SrX-A); GSFY-1, GSFY-2 (16SrX-B); PD (16SrX-C);
+SA-1, STOL (16SrXII-A) and HYDB (16SrI-B). 2.2 Methods
+
+Nucleic acids extraction. Total nucleic acid (TNA) was ex-
+tracted from plant samples following the procedure described
+by ANcELINI et al. (2001) with modifications introduced by
+Seruca et al. (2003). Approximately 200 mg of CaCl-dried
+leaf midribs and/or phloem tissue scrapings was used. After
+insect species identification, TNA was extracted from batches
+of five insects per species. Per location, at least one batch of
+insects per species was analyzed for phytoplasma presence. DNA amplification. Direct PCR assays were performed using
+phytoplasma universal primers R16F1/RO (Lee et al. 1995)
+and first nested PCR was primed by R16F2n/R2 (GUNDERSEN
+and Lee 1996). Nested PCRs, using group specific primers
+R16(X)F1/R1 and R16(1I)F1/R1 on R16F2n/R2 amplicons as
+templates, were performed (Lex et al. 1994) for the confirma-
+tion of phytoplasma identity in mixed infections as well as for
+obtaining more sensitive diagnosis. For all other experimental
+conditions and procedures see Seruca et al. (2003). ‘Candidatus Phytoplasma prunorum
+
+“Candidatus Phytoplasma pyri! A Apricot
+4 Japanese plum
+Y Peach
+
+> Prunussp. @cacopsyla pruni
+
+© Pear
+= Cacopsylia pyri
+1 Cacopsylia pyrisuga
+
+tree cultivation region borders
+continental west (CW)
+continental east (CE)
+____ Adriatic (AD)
+
+Fig.1: Geographical distribution
+of fruit trees and psyllids infected
+by phytoplasma of ribosomal
+group 16SrX in Croatia. J.Plant Dis.Protect. 5/2010
+
+208
+
+Krizanac et al. : Fruit tree phytoplasmas and vectors in Croatia
+
+ 
+
+RFLP analysis. R16F2n/R2 and R16(1)F1/R1 amplicons were
+digested with Tru91 (= Msel) restriction endonuclease (Roche
+Diagnostics GmbH, Mannheim, Germany). For samples show-
+ing profiles of the 16SrX group, additional digestions of
+R16F2n/R2 amplicons with Rsal and SspI (Fermentas, Vilnius,
+Lithuania) were performed in order to determine the ribo-
+somal subgroup affiliation. Obtained fragments were sepa-
+rated by electrophoresis through 5% polyacrylamide gel and
+stained with ethidium-bromide. RFLP patterns were com-
+pared with those of reference strains. 3. Results
+3.1 Symptoms
+
+The most prominent symptoms of all monitored fruit tree
+species were observed in pear orchards, especially those in the
+CW region (Fig. 1). In the majority of the sampled pear trees,
+symptoms reminiscent of PD were observed, encompassing
+slow decline with leaf reddening and curling, reduced plant
+vigour, as well as decreased fruit set and size. In apple trees,
+small fruits with elongated peduncles and enlarged leaf
+stipules were observed, which suggests AP, although these
+symptoms are not necessarily indicative of AP. In stone fruit
+trees, symptoms were less prominent and varied considerably. Leaf rolling and yellowing, or reddening, were mostly ob-
+served in apricot and peach, respectively. The development of
+leaves and flowers late in the vegetative season (autumn bud
+break) was observed in some samples of sweet and sour cher-
+ry, peach and Japanese plum, while proliferation mostly oc-
+curred in the European plum and almond. No symptoms,
+which could indicate phytoplasma presence, were recorded in
+wild Prunus spp. (P. cerasifera, P. mahaleb, P. spinosa, Prunus
+sp.) neighbouring some of the monitored orchards. 3.2 Insect vectors
+
+Five known phytoplasma psyllid vectors, namely Cacopsylla
+melanoneura, C. picta, C. pruni, C. pyri and C. pyricola were
+identified in all surveyed parts of Croatia and throughout the
+years 2002-2007. Their population density varied and could
+be correlated to the insecticide treatments performed in the
+orchard for controlling economically important insect pests
+(e.g. leaf roller, leaf miner, codling moth, aphids) emerging at
+the same time in the season as the psyllids. The exception to
+this observation was C. pyri, which is resistant to most insecti-
+cides. ‘AP vector C. melanoneura was more widespread and
+numerous than C. picta in apple orchards. Of all psyllid species
+captured on apples, C. melanoneura represented 50.9%,
+76.3% and 60.2%, while C. picta represented 45.4%, 22% and
+38.4% in 2005, 2006, and 2007, respectively. The remainder
+of psyllid populations in apple consisted of C. crataegi, whose
+share in the populations varied from 1.4-3.7%, depending on
+the year. However, the geographical distribution of C. crataegi
+was rather limited. It was found only in two locations (Jastre-
+barsko and Skudelin). Throughout the monitoring period, C. pyri was the most
+prevalent psyllid in pear (76.4%-80.8%), while the other
+known PD vector, C. pyricola, was present only in 2.4%, 1.7%
+and 8.5% of the populations in 2005, 2006, and 2007, respec-
+tively. A potential PD vector, C. pyrisuga, was consistently the
+second most abundant psyllid in pear, with 19.1%, 21.6% and
+10.7% in 2005, 2006 and 2007, respectively. C. bidens was
+found only sporadically in 2005 and 2006, with 1.6% and
+0.3%, respectively. As expected, psyllid population density in
+intensively managed pears was higher, but diversity was low-
+er, than in extensively managed pears. In the intensively man-
+aged orchards, the average number of psyllids per orchard col-
+lected at one trial was about 200, and consisting mainly of one
+
+species (C. pyri). In contrast, in extensively managed orchards,
+the average number of psyllids was 5-10 individuals per or-
+chard, and the diversity was greater. Relatively low population density of C. pruni, a known vec-
+tor of ESFY, were found in plum, apricot, peach, wild Prunus
+cerasifera and P. spinosa. This vector was absent from sweet
+and sour cherry orchards. The average number of C. pruni
+adults varied per year and per monitoring between 10 and 26
+per orchard. The presence of vectors was not monitored in al-
+mond orchards. 3.3 Phytoplasma detection and identification
+
+In the first nested PCR assay, 1.2 kb products were used for
+phytoplasma identification based on the R16F2nR2/Tru9I
+system (Fig. 2). In the case of infection with ribosomal group
+X phytoplasmas or stolbur alone (Tables 1 and 2), identifying
+group affiliation was possible solely on the basis of the
+R16F2nR2/Tru9I system. Second nested PCR primed by group
+specific R16(X)F1/R1, confirmed the identification for riboso-
+mal group X phytoplasmas. PCR amplifications, using primers
+R16(DF1/R1 (Fig. 3) specific for ribosomal groups 16Srl,
+16SrII and 16SrXII (Ler et al. 1994; Totu et al. 2006) and
+digestion of the resulting 1.1 kb long products using Tru9I,
+enabled identification of mixed infections in several samples of
+fruit trees and vectors yielding additional positives and thus in-
+creasing the sensitivity of detection (Tables 1 and 2, Fig. 3). From 35 out of 78 samples obtained from fruit trees or wild
+Prunus sp. (Table 1), as well as from 10 out of 24 insect samples,
+phytoplasma 16S rDNA was amplified (Table 2, Fig. 1). Besides
+single infections, one pear harboured phytoplasmas belonging
+both to the ribosomal subgroups 16SrX-C and 16SrXII-A, and
+one Japanese plum harboured phytoplasmas belonging to both
+the ribosomal subgroups 16SrI-B (‘Ca. P. asteris’, Lee et al. 2002) and 16SrX-B. Phytoplasmas from different subgroups
+were also found in single or mixed infections in C. pyri samples
+(Table 2, Fig. 3). However, since DNA was extracted from
+batches of 5 insects, it is also possible that individual insects
+harboured different phytoplasmas in single infections. 4 Discussion
+
+Management strategies of phytoplasmoses presently rely on
+disease prevention through quarantine measures, eradication
+programs, production of pathogen free planting material and
+chemical control of insect vectors. The implementation of
+these measures is not possible without sensitive diagnostic
+tools, and basic knowledge of phytoplasma occurrence in fruit
+trees and of their potential vectors in the fruit growing areas. Apart from early efforts in identifying phytoplasmoses of ap-
+ples and pears (CvseTKoviG 1976; Saric and CvJerKovic 1985),
+very little was known about the occurrence of phytoplasmoses
+in fruit trees in Croatia, even though AP, PD and ESFY can be
+quite devastating diseases. Moreover, there is no data regard-
+ing phytoplasma occurrence in fruit tree planting material
+that is either produced in the country or imported from
+abroad. The results of a pilot study, investigating the phyto-
+plasma presence by PCR-RELP in pomatious fruits and their
+potential psyllids vectors (KriZanac et al. 2008), confirmed
+the occurrence of various ‘Candidatus Phytoplasma’ taxa in
+both plants and psyllids. At the time, only nine pear and three
+apple orchards were investigated, and insects were collected
+only in five pear orchards. In view of this and the reports of
+fruit tree phytoplasma presence in neighbouring countries
+(Brzin et al. 2003; Emper et al. 2004; Deti¢ et al. 2005; Dupuk
+et al. 200Sa; Dupux et al. 2005b), it was deemed important to
+continue the survey on phytoplasma presence in both pome
+and stone fruit trees and their potential psyllid vectors. The occurrence of PD-like symptoms in pear was positively
+correlated with the occurrence of phytoplasma infections. No
+
+ 
+
+J.Plant Dis.Protect. 5/2010
+
+Krizanac et al. : Fruit tree phytoplasmas and vectors in Croatia
+
+209
+
+ 
+
+ 
+
+ 
+
+fas]
+
+ 
+
+oa)
+
+ 
+
+ 
+
+Fig. 2:
+
+Representative RFLP patterns of phytoplasma 16S rDNA amplified from various samples by using R16F2nR2 primers. Restriction enzymes used are marked on the corresponding parts of the figure. Reference phytoplasma strains AP-15 (‘Candidatus
+Phytoplasma mali’, 16SrX-A), GSFY-1 (‘Ca. P. prunorum’, 16SrX-B) and PD (‘Ca. P. pyri’, 16SrX-C) are marked A, B and C, respectively,
+HYDB (‘Ca. P. asteris’, 16Srl-B) is marked D and SA-1 (16SrXII-A) is S. Panel a) - stone fruit samples from Skudelin: Prunus salicina
+(1), P. armeniaca (2), and Prunus sp. (3) infected by ‘Ca. P. prunorum’. Panel b) - psyllid samples from Osijek: Cacopsylla pruni (4)
+from European plum infected by ‘Ca. P. prunorum’ and C. pyri (5) from pear harbouring ‘Ca. P. pyri’. Panel c) - Pyrus communis
+samples from Voloder (6), Skudelin (7) and Jastrebarsko (8) infected by stolbur (16SrXII-A), and one from Jastrebarsko infected by
+“Ca. P. pyri’ (9). DNA molecular standards: M8 - pUC Mix Marker (with fragment sizes in base pairs from top to bottom: 1118, 881,
+692, 501, 489, 404, 331, 242, 190, 147, 111/110) and M9 - Phix174, Hindill digested (fragment sizes: 1353, 1078, 872, 603, 310,
+
+281, 271, 234, 194, 118). Fig.3: Representative RFLP patterns of phytoplasma 16S
+TDNA amplified by using R16(I)F1/R1 primers. Restriction
+enzyme used is Tru9I. Reference phytoplasma strains are D
+(HYDB, ‘Ca. P. asteris’, 16SrI-B) and S (SA-1, 16SrXII-A). For
+Cacopsylla pyri sample (1 batch of 5 individual insects) from
+Jastrebarsko (10), mixed profile for 16Srl-B and 16SrXII-A
+phytoplasmas is discernable. In C. pyri from Sv. Marija sample
+(11) only 16SrXxiI-A phytoplasma pattern is detectable. M8 -
+the same DNA molecular standard as in Fig. 2. J.Plant Dis.Protect. 5/2010
+
+correlation was found between severity and type of symp-
+toms, and phytoplasma type. Orchards in Jastrebarsko and
+Voloder that were included in the study by Krizanac et al. (2008) were revisited. A roughly equal proportion of pear samples were infected
+by either ‘Ca. P. pyri’ or stolbur (16SrXII-A). According to our
+knowledge, this is an unprecedented finding for pear. The
+relatively high incidence of stolbur in pears, in one sample
+probably mixed with ‘Ca. P. pyri’ (Table 1), indicates that stol-
+bur is common in pears, in contrast to ‘Ca. P. asteris’ in a pear
+in Jastrebarsko (CW region). The finding of stolbur in pear is
+epidemiologically important because stolbur is widespread in
+Croatia, especially in vineyards (SeRuGA Music et al. 2009),
+which are often situated in the vicinity of orchards. Stolbur
+was not only found in pears, but also in both known PD vec-
+tors, C. pyri and C. pyricola, as well as in the suspected vector
+C. pyrisuga (Table 2). C. pyri was investigated in three addi-
+tional locations (Ciée, St. Petrovo selo, Vucjak Feri¢anacki),
+and C. pyrisuga in two (Osijek and Vuéjak Feri¢anaéki) with
+regard to the previous study (KriZanac et al. 2008), while oth-
+er locations were continued to be monitored until 2007. In the
+psyllid populations obtained from pear, the abundance of C.
+pyri was the highest, averaging 78%, followed by C. pyrisuga
+(17.3%) and C. pyricola (4.2%). This trend remained constant
+throughout the investigation period. Unlike the oligophagous
+psyllids present in pears (JarauscH and JarauscH 2010), cixiid
+vectors that transmit stolbur in other crops and weeds are
+polyphagous (Malxner 2010). One could easily envisage a sce-
+nario in which cixiids could transmit stolbur from grapevines
+and/or weed reservoirs to pear. However, to investigate this
+was beyond the scope of this study and the epidemiological
+significance of these findings remains to be investigated. Phytoplasma infections of apples, so far, could not be
+ascribed to the common agent ‘Ca. P. mali’. Previously, ‘Ca. P. pyr? and stolbur phytoplasma have been found in a few
+apple orchards (KriZAnac et al. 2008). The samples of
+C. melanoneura and C. picta from two locations in the CW and
+CE regions (Table 2) probably did not represent the natural
+psyllid populations in apple, because sampling was allowed
+only in a few commercial orchards that were heavily treated
+with insecticides. Historical AP findings (Sari¢ and CvseTKovic
+
+210 _KriZanac et al. : Fruit tree phytoplasmas and vectors in Croatia
+
+ 
+
+Table 1: Number and location of plant samples with phytoplasma ribosomal subgroup identification. Species Sampling locations (region) No. positives/tested  Phytoplasma 16Sr subgroup* No. positives/total
+Pear Cige (CW) V1 XC + XI-A
+Pyrus Communis L. Imotski (AD) yl XC
+
+Jastrebarsko (CW) 3/3 XC; XI-A; FB
+
+St. Petrovo selo (CE) yi XI-A
+
+Sv. Marija (CW) yi XC
+
+Skudelin (AD) 2/2 XI-A
+
+Varazdin Breg (CW) yl xc
+
+Voloder (CW) 3/3 XC; 2 XIFA
+
+Vuéjak Feriganacki (Ce) yi xc 14/14
+Apple Kohanjac (CW) yl XI-A
+Malus domestica Borkh. Susnjari (Cw) Wi XC
+
+Varazdin Breg (CW) yi XI-A 3/3
+Apricot Aljmaé (CE) 2/2 xB
+Prunus armeniaca L. Bastica (AD) yi XI-A
+
+Cres (AD) yi XB
+
+Sladojevci (CE) of. -
+
+Skudelin (AD) 2/2 xB 6/7
+Peach Aljmas (CE) oft -
+Prunus persica (L) Batsch —_gastica (AD) oft -
+
+Cige (CW) 1/2 xB
+
+Donji Kraljevec (CW) 0/2 -
+
+Erdut (CE) ofl -
+
+Gornja Trebinja (CW) yl IB
+
+Molvice (CW) o/1 -
+
+sr3ici (CW) yi XI-A
+
+StaSevica (AD) 0/1 -
+
+Skudelin (AD) V1 XI-A
+
+Vuéjak Feriganacki (Ce) 2/2 XI-A; I-B
+
+Zagreb (CW) o/1 - 6/15
+European plum Bastica (AD) ofl -
+Prunus domestica L Cres (AD) ofl -
+
+Imotski (AD) of. -
+
+Lepoglava (CW) 0/1 -
+
+Opatovac (CE) 0/1 -
+
+Opuzen (AD) oft -
+
+Orahovica (CE) oft -
+
+StaSevica (AD) oft -
+
+Skudelin (AD) 0/1 -
+
+Varazdin Breg (CW) oft - 0/10
+Japanese plum Imotski (AD) oft -
+Prunus salicina Lindl. Kutjevo (CE) yi xB
+
+Sladojevei (Ce) yl xB
+
+Skudelin (AD) yi xB
+
+Vuéjak Feriganacki (CE) yl XB+1-B 4/5
+Almond Vrana (AD) 0/2 -
+Prunus amygdalus L. Zemunik (AD) ofl - 0/3
+
+ 
+
+J.Plant Dis.Protect. 5/2010
+
+Krizanac et al. : Fruit tree phytoplasmas and vectors in Croatia 211
+
+ 
+
+Table 1: (Continued)
+
+ 
+
+Species
+
+Sampling locations (region)
+
+No. positives/tested
+
+Phytoplasma 16Sr subgroup"
+
+No. positives/total
+
+ 
+
+Sweet cherry
+Prunus avium L.
+
+Sour cherry
+Prunus cerasus L.
+
+wild
+Prunus sp. Total samples:
+
+Bastica (AD)
+
+Cres (AD)
+
+Gornja Trebinja (CW)
+Kaitela (AD)
+Orahovica (CE)
+Skudelin (AD)
+Varazdin Breg (CW)
+Zezevica (AD)
+
+Orahovica (Ce)
+Prkos (AD)
+Sv. Marija (CW)
+
+Cres (AD)
+Skudelin (AD)
+
+Vuéjak Feriéanacki (Ce)
+Cige (cw)
+
+0/1
+0/3
+ofl
+0/1
+yi
+ofl
+0/1
+ofl
+
+0/1
+0/2
+0/1
+
+0/3
+yi
+0/2
+ofl
+
+1/10
+
+o/4
+
+7
+
+35/78
+
+ 
+
+* Phytoplasma ribosomal subgroup names separated by “;
+
+ 
+
+subgroups and those separated by + indicate a mixed infection
+
+indicate individual samples infected by phytoplasmas belonging to different
+
+Table 2: Number and location of psyllid samples with phytoplasma ribosomal subgroup identification. Each number represents. a batch of 5 individual insects. Psyllid species Sampling locations (region) Plant host No. positives/tested Phytoplasma 16Sr subgroup No. positives/total
+Cacopsylla pyri Ciée (CW) Pear 0/1 -
+
+Jastrebarsko (CW) yi XI-A +B
+
+Osijek (CE) 2/2 XC; XIFA
+
+St. Petrovo selo (CE) oft -
+
+Sv. Marija (CW) yl XIFA
+
+Skudelin (AD) 1/2 1B
+
+Voloder (CW) yi XC +B
+
+Vuéjak Feriéanacki (CE) oft - 6/10
+C. pyricola Jastrebarsko (CW) Pear 42 XIFA y2
+C. pyrisuga Jastrebarsko (CW) Pear 12 xc
+
+Osijek (CE) oft -
+
+Voloder (CW) yi XIFA
+
+Vuéjak Feriéanacki (CE) oft - 2/5
+C. picta Jastrebarsko (CW) Apple of -
+
+Trnjani (CE) oft - 0/2
+C.melanoneura —Obre8ka (CW) Apple oft -
+
+Trnjani (CE) oft - 0/2
+C. pruni Jastrebarsko (CW) European plum 0/1 -
+
+Osijek (CE) yi xB
+
+Skudelin (AD) Apricot 0/1 - 13
+Total samples: 10/24
+
+ 
+
+* Phytoplasma ribosomal subgroup names separated by ‘ indicate individual samples infected by phytoplasmas belonging to different
+subgroups and those separated by + indicate a mixed infection. J.Plant Dis.Protect. 5/2010
+
+212
+
+Krizanac et al. : Fruit tree phytoplasmas and vectors in Croatia
+
+ 
+
+1985) together with recent AP reports in neighbouring states
+(Brzin et al. 2003; Deuic et al. 2005; Dupuk et al. 2008) and
+the occurrence of known AP-vectors, C. melanoneura and
+C. picta, in surveyed apple orchards, can be taken as strong
+indications of AP presence in Croatia. The observed higher
+abundance of C. melanoneura compared to C. picta in apple
+poses an interesting starting point for epidemiological and/or
+insecticide resistance investigations. The recent increase in
+apple production in the country, the predominant use of local
+planting material and the scarcity of molecular data on phyto-
+plasma identity, call for the continuation of the study in apples
+and AP vectors before drawing relevant epidemiological and
+disease management conclusions. In the framework of this study, 61 new samples of stone
+fruits and three samples of C. pruni were analysed. Phytoplas-
+mas could not be identified in European plum, almond or sour
+cherry even though samples were taken from plants with
+symptoms potentially indicative of phytoplasmoses. Due to
+the rigorous detection system that included a second round of
+nested PCR with group specific R16(X)F1/R1 in addition to
+the more general R16(I)F1/R1 primers, we can exclude the
+possibility that phytoplasmas at very low concentrations were
+missed. This suggests that symptoms in plum, almonds, and
+sour cherry could have been caused by other biotic or abiotic
+agents. Oniy one sweet cherry sample from CE region harboured
+stolbur phytoplasma (Table 1). Tree decline (PaLTRINIERI et al. 2008) or other severe symptoms that could specifically be
+associated with phytoplasma presence were not observed in
+sweet cherry. The ESFY agent ‘Ca. P. prunorum’ was identified
+in its main vector C. pruni, in one asymptomatic wild Prunus,
+and in the majority of symptomatic apricot and Japanese plum. samples, but only in one peach (Fig. 1; Table 1). In five more
+peach samples stolbur (16SrXII-A) and aster yellows (16SrI-B)
+phytoplasmas were identified which was unusual, but not
+unprecedented for these hosts (PALTRINIERI et al. 2001; Dupuk
+et al. 2008). With three phytoplasma taxa, peach hosts the
+most types of phytoplasmas of all the stone fruittrees, whilst
+apricot and Japanese plum follow by hosting two, sometimes
+in mixed infection (Table 1). This is in accordance with the
+postulated higher susceptibility of the three above-mentioned
+hosts to phytoplasma infections (Carraro et al. 1998b). As yet,
+phytoplasma infection in peach, apricot or Japanese plum has
+not resulted in a severe disease development that could poten-
+tially endanger local production. The results presented here suggest the widespread occur-
+rence of ‘Ca. P. pyri’ and ‘Ca. P. prunorum’ in Croatia, the most
+important pear and stone fruit phytoplasma agents, respec-
+tively, as well as their psyllids vectors. This calls for implemen-
+tation of comprehensive control strategies for fruit tree phyto-
+plasmas and their vectors. High incidence and wide geograph-
+ical distribution of stolbur phytoplasma in pears suggests its
+involvement in pear decline in Croatia. This is also true for a
+suspected new ‘Ca. P. pyri’ vector, C. pyrisuga, that harboured
+stolbur phytoplasma. The epidemiological relevance of the
+latter two findings, as well as the epidemiology of phytoplas-
+moses in apples needs to be investigated further. Acknowledgements
+
+The Croatian Ministry of Agriculture, Forestry and Water
+Management financed this research. The technical assistance
+of Ana Babi¢ and Ana Calija is gratefully acknowledged. This
+work is dedicated to our deceased colleague and friend Ivan
+Mikec (1948-2010). References
+ANGELINI, E., D, CLAIR, M. Borco, A. BERTACCINI, E. BOUDON-PADIEU,
+
+2001: Flavescence dorée in France and Italy - occurrence of
+closely related phytoplasma isolates and their near relation-
+
+ships to Palatinate grapevine yellows and an alder yellows
+phytoplasma. Vitis 40, 79-86. Berraccini, A., 2003: URL: http://137.204.42.130/person/
+collection-september_2003.pdf. Date of last accession: June
+8, 2004. BERTACCINI, A., 2007: Phytoplasmas: diversity, taxonomy, and
+epidemiology. Front. Biosci. 12, 673-689. BrZIN, J., P. ERMACORA, R. OSLER, N. Lol, M. RAVNIKAR, N. PETROVIC,
+2003: Detection of apple proliferation phytoplasma by ELISA
+and PCR in growing and dormant apple trees. J. Plant Dis. Protect. 110, 476-483. Carraro, L., N. Lol, P. ERMACORA, A. GREGORIS, R. OSLER, 1998a:
+Transmission of pear decline by using naturally infected
+Cacopsylla pyri. Acta Hort. 472, 665-668. ‘Carraro, L., R. OsLer, N. Lot, P. ERMACORA, E. REFATTI, 1998b:
+Transmission of European stone fruit yellows phytoplasma
+by Cacopsylla pruni. J. Plant Pathol. 80, 233-239. CvueTKovic, B., 1976: Decay of pears in Dalmatia. Biljna zastita
+3, 104-105. CvueTKovic, B., I. Mikec, V. Kasic, 1987: Apple proliferation. Glasnik zaitite bilja 9, 349-351. DeLi¢, D., M. MartinI, P. ERMACORA, L. CARRARO, A. Myra, 2005:
+First report of fruit tree phytoplasmas and their psyllid
+vectors in Bosnia and Herzegovina. J. Plant Pathol. 87, 150. Dubux, B., S. Borti, V. TRKULJA, M. Ivanovic, J. STOJCIC,
+A. BERTACCINI, 2005a: Occurrence of pear decline in Bosnia
+and Herzegovina. J. Plant Pathol. 87, 75. Dupuk, B., M. IVANovIC, A. OBRADOVIC, S. PALTINIERI, A. BERTACCINI,
+2005b: First report of pear decline phytoplasmas on pear in
+Serbia. Plant Dis. 89, 774. Dupuk, B., M. Ivanovic, S. PALTRINIERI, A. BERTACCINI, 2008:
+Phytoplasmas infecting fruit trees in Serbia. Acta Hort. 781,
+351-358. Emp, I., M. NEMETH, L. KRIZBAI, M. KOLBER, M. SzaKaL, S. BOTTI,
+A. BerTACcINI, G.Y. BoHar, R. ZSOvAK-HANGYAL, 2004: Identi-
+fication of phytoplasmas on pomaceous fruit tree species in
+Hungary. Acta Hort. 657, 443-448. FRISINGHELLI, C., L. DELAITI, M.S. GRANDO, D. ForT!, M.E. VINDIMIAN,
+2000: Cacopsylla costalis (Flor 1861), as a vector of apple
+proliferation in Trentino. J. Phytopathol. 148, 425-431. GUNDERSEN, D.E., I.-M. Leg, S.A. REHNER, R.E. Davis, D.T. Kincspury, 1994: Phylogeny of mycoplasmalike organisms
+(phytoplasmas): a basis for their classification. J. Bacteriol. 176, 5244-5254. GunperseN, D.E., I.-M. Lee, 1996: Ultrasensitive detection of
+phytoplasmas by nested-PCR assays using two universal
+primer pairs. Phytopathol. Mediterr. 35, 144-151. HOGENHOUT, S.A., K. OsHIMA, E.D, Ammar, S. Kakizawa, H.N. Kincpom, S. Nampa, 2008: Phytoplasmas: bacteria that ma-
+nipulate plants and insects. Mol. Plant. Pathol. 9, 403-423. IRPCM PxytopiasMma/SPIROPLASMA WORKING TEAM-PHYTOPLASMA
+‘TAXONOMY GROUP, 2004: ‘Candidatus Phytoplasma’, a taxon for
+the wall-less, non-helical prokaryotes that colonize plant
+phloem and insects. Int. J. Syst. Evol. Microbiol. 54,
+1243-1255. JarauscH, B., N. ScHWIND, W. JARAUSCH, G. KRCZAL, E. DICKLER,
+E. SEEMULLER, 2003: First report of Cacopsylla picta as a vector
+of apple proliferation phytoplasma in Germany. Plant Dis. 87, 101. JARAUSCH, B., W. JARAUSCH, 2010: Psyllid vectors and their
+control. In: P.G. Weintraub, P. Jones (eds. hytoplasmas:
+genomes, plant hosts and vectors, pp. 250-271. CAB Inter-
+national, Wallingford, United Kingdom. JENSEN, D.D., W.H. Griccs, C.Q. GoNnzALEs, H. SCHNEIDER, 1964:
+Pear decline virus transmission by pear psylla. Phytopathol-
+ogy 54, 1346-1351. _ .
+
+Krizanac, I., I. Mikgc, Z. BUDINSCAK, M. SERUGA Music, M.
+Kraacic, D. Sxoric, 2008: Pomaceous fruit tree phyto-
+plasmas and their potential vectors in Croatia. Acta Hort. 781, 477-482. Kuk, M., B. SCHNEIDER, H. KUHL, T. DANDEKAR, K. HEITMANN,
+A.M. Micbout, R. REINHARDT, E. SEEMULLER, 2008: The linear
+
+ 
+
+ 
+
+ 
+
+J.Plant Dis.Protect. 5/2010
+
+Krizanac et al. : Fruit tree phytoplasmas and vectors in Croatia
+
+213
+
+ 
+
+chromosome of the plant pathogenic mycoplasma ‘Candida-
+tus Phytoplasma mali’. BMC Genomics 9: 306 (doi: 10.1186/
+1471-2164-9-306). KuCerova, J., L. TALACKO, P. LAUTERER, M. NAVRATIL, R. FIALOVA,
+2007: Molecular tests to determine ‘Candidatus Phytoplasma
+pyri’ presence in psyllid vectors from a pear tree orchard in
+the Czech Republic - a preliminary report. Bull. Insectol. 60,
+191-192. Lek, I.-M., D.E. GUNDERSEN, R.W. HAMMOND, R.E. Davis, 1994:
+Use of mycoplasmalike organism (MLO) group-specific
+oligonucleotid primers for nested-PCR assays to detect
+mixed-MLO infections in a single host plant. Phytopathology
+84, 559-566. Lee, I.-M., A. BERTACCINI, M. ViBio, D.E. GUNDERSEN, 1995:
+Detection of multiple phytoplasmas in perennial fruit trees
+with decline symptoms in Italy. Phytopathology 85,
+728-735. Leg, I.-M., R.E. Davis, D.E. GUNDERSEN-RINDAL, 2000: Phyto-
+plasma: phytopathogenic Mollicutes. Annu. Rev. Microbiol. 54, 221-255. Lek, I.-M., D.E. GUNDERSEN-RINDAL, R.E. Davis, K.D. BOTTNER,
+C. Marcone, E. SEEMULLER, 2002: ‘Candidatus Phytoplasma
+asteris’, a novel phytoplasma taxon associated with aster
+yellows and related diseses. Int. J. Syst. Evol. Microbiol. 54,
+1037-1048. Marxner, M., 2010: Phytoplasma epidemiological systems with
+multiple plant hosts. In: P.G. Weintraub, P. Jones (eds. ): Phy-
+toplasmas: genomes, plant hosts and vectors, pp. 213-232. CAB International, Wallingford, United Kingdom. PALTRINIERI, S., M. MARTINI, E. STEFANI, M. PONDRELLI, C. FIDEGHELLI,
+A. BerTaccini, 2001: Phytoplasma infection in peach and
+cherry in Italy. Acta Hort. 550, 365-370. J.Plant Dis.Protect. 5/2010
+
+PALTRINIERI, S., A. BERTACCINI, C. LUGARESI, 2008: Phytoplasmas
+in declining cherry plants. Acta Hort. 781, 409-415. SEEMULLER, E., B. SCHNEIDER, 2004: ‘Candidatus Phytoplasma
+mali’, ‘Candidatus Phytoplasma pyri’ and ‘Candidatus Phyto-
+plasma prunorum’, the causal agents of apple proliferation,
+pear decline and European stone fruit yellows, respectively. Int. J. Syst. Evol. Microbiol. 54, 1217-1223. SreiNER, H., 1967: Die Anwendungsméglichkeiten der Klopf-
+methode bei Arbeiten iiber die Obstbaumfauna. Entomo-
+
+_ Phaga H. S. 3, 17-20. Saric, A., B. CvJerKovic, 1985: Mycoplasma-like organism
+associated with apple proliferation and pear decline- like
+
+_ disease of pears. Agric. Conspec. Sci. 68, 61-67. Seruca, M., D. Skoric, S. Borti, S. PALTRINIERI, N. JURETIC,
+A.F. BERTACCINI, 2003: Molecular characterization of a phyto-
+plasma from the aster yellows (16Sr1) group naturally infect-
+ing Populus nigra L. ‘Italica’ trees in Croatia. Forest Pathol. _ 33, 113-125. .
+
+SERUGA Music, M., D. SkoRIC, Z. BUDINSCAK, I. KRIZANAG, I. MIKEC,
+2009: Survey of phytoplasma diversity in heavily grapevine
+yellows affected areas of Croatia. Extended abstractsm 16th
+Meeting ICVG, Dijon, France, 31 Aug - 4 Sep, 2009, Le
+Progrés Agricole et Viticole, Hors Série, 206-207. TEDESCHI, R., C. VISENTIN, A. ALMA, D. Bosco, 2003: Epidemiology
+of apple proliferation (AP) in northwestern Italy: evaluation
+of the frequency of AP-positive psyllids in naturally infected
+populations of Cacopsylla melanoneura (Homoptera: Psyl-
+lidae). Ann. Appl. Biol. 142, 285-290. ToLu, G., S. Bort, R. GaRAU, V.A. Prota, A. SECHI, U. PROTA,
+A. BERTACCINI, 2006: Identification of a 16SrIl-E Phytoplasma
+in Calendula arvensis, Solanum nigrum and Chenopodium
+spp. Plant Dis. 90, 325-330.

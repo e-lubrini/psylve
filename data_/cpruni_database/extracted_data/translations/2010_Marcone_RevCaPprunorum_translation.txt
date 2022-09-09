@@ -1,0 +1,1675 @@
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+® Bdizioni ETS Pisa, 2010 19
+
+OFFERED REVIEW
+
+CANDIDATUS PHYTOPLASMA PRUNORUM, THE CAUSAL AGENT
+OF EUROPEAN STONE FRUIT YELLOWS: AN OVERVIEW
+
+C. Marcone!, B. Jarausch? and W. Jarausch?
+
+' Dipartimento di Scienze Farmaceutiche, Universita degli Studi di Salerno,
+Via Ponte Don Melillo, 84084 Fisciano (Salerno), Italy
+2 RLP AgroScience GmbH AlPlanta, Institute for Plant Research, Breitenweg 71, 67435 Neustadt, Germany
+
+SUMMARY
+
+‘Candidatus Phytoplasma prunorum’ is an important
+prokaryotic pathogen that infects stone fruits in Europe. It is known to cause several economically relevant disor-
+ders of Prunus spp. which are collectively referred to as
+European stone fruit yellows (ESFY). This organism is
+phylogenetically closely related to other important fruit
+trees pathogens such as apple proliferation (AP), pear
+decline (PD) and peach yellow leaf roll (PYLR) agents. Together they form a distinct phylogenetic cluster, the
+AP or 16SrX group. Like the other fruit tree phytoplas-
+mas of the AP group, ‘Ca. P. prunorum’ exhibits a high
+host specificity. In nature, this pathogen has been re-
+ported to infect only plants in the genus Prunus and to
+be transmitted by one insect vector species, the psyllid
+(Psyllidae) Cacopsylla pruni. Also, ‘Ca. P. prunorum’ in-
+cludes strains which greatly differ in virulence. This re-
+view summarizes the current knowledge of ‘Ca. P.
+prunorum’ with emphasis on advances that have been
+made during the last two decades in understanding mo-
+lecular and epidemiological aspects. Prospects for dis-
+ease management and future research which could pro-
+vide insights into the largely unknown mechanisms in-
+volved in pathogenicity of ‘Ca. P. prunorum’, are also
+critically discussed. Key words: phytoplasmas, phytoplasma detection,
+phytoplasma characterization, phytoplasma transmis-
+sion, stone fruits, Cacopsylla pruni, epidemiology, dis-
+ease management. INTRODUCTION
+
+‘Candidatus Phytoplasma prunorum’ is an important
+prokaryotic pathogen that infects stone fruits in Europe
+and is known to cause apricot chlorotic leaf roll of apri-
+cot (Prunus armeniaca), leptonecrosis of Japanese plum. (BP. salicina) and yellows and decline diseases of peach
+
+Corresponding author. C. Marcone
+Fax: +39.089.969602
+E-mail: cmarcone@unisa.it
+
+(P. persica), European plum (P. domestica), almond (P.
+dulcis) and flowering cherry (P. serrulata). All these dis-
+orders are collectively referred to as European stone
+fruit yellows (ESFY) (Lorenz et al., 1994; Seemiiller and
+Foster, 1995; Seemiiller et al., 1998a). The largest eco-
+nomic losses are recorded in apricot and Japanese plum
+orchards where infection rates of susceptible cultivars
+can be up to 50% and orchards are rendered unproduc-
+tive eight to ten years after planting. ESFY has become
+a major obstacle for successful production of apricot in
+all central and southern European countries. Due to its
+economic importance, ‘Ca. P. prunorum’ is one of the
+most intensively studied phytoplasmas. Molecular stud-
+ies using Southern blot hybridization and restriction
+fragment length polymorphism (RFLP) and sequence
+analyses of polymerase chain reaction (PCR)-amplified
+ribosomal DNA (rDNA) and _ non-ribosomal DNA
+showed that ‘Ca. P. prunorum’ is a relatively homoge-
+neous organism throughout Europe (Ahrens et al.,
+1993; Lorenz et al., 1994; Kison et al., 1997; Jarausch et
+al., 1998a, 2000a; Seemiiller et al., 1998b; Seemiiller and
+Schneider, 2004). This pathogen is phylogenetically
+closely related to the apple proliferation (AP), pear de-
+cline (PD), and peach yellow leaf roll (PYLR) agents,
+the causes of other major diseases of deciduous fruit
+trees, which are members of a distinct phylogenetic
+cluster, the AP or 16SrX group within the phytoplasma
+clade (Seemiiller et al., 1998a; IRPCM, 2004; Seemiiller
+and Schneider, 2004). The ESFY agent is distinctly dif-
+ferent from the X-disease phytoplasma, a major stone
+fruit pathogen of North America and from ‘Ca. P.
+phoenicium’ that infects Prunus spp. in Asian and
+North African countries. The ESFY agent also differs
+from various phytoplasma strains that have been trans-
+mitted from diseased apricot, cherry, and Japanese plum
+trees to the experimental host Catharanthus roseus (peri-
+winkle). These strains are members of either the aster
+yellows or the stolbur or X-disease phytoplasma group
+(Ahrens et al., 1993; Lorenz et al., 1994; Seemiiller et
+al., 1998a; Marcone et al., 1999a). ‘Ca. P. prunorum’ is
+known to occur in most southern and central European
+countries and as far north as in south-east England
+(Seemiiller et al., 1998a, 1998b; Davies and Adams,
+2000; Topchiiska et al., 2000; Deli¢ et al., 2008; Laimer
+
+ 
+
+ 
+
+ 
+
+20  ‘Candidatus Phytoplasma prunorum’
+
+and Bertaccini, 2008). It has also been reported in
+Turkey and Azerbajdzhan (Jarausch et al., 2000a;
+Sertkaya et al., 2005; Danet et al., 2007). It is likely that
+the pathogen is present wherever stone fruits are grown
+in Europe and non-European Mediterranean countries
+(Seemiiller and Foster, 1995). Like the other fruit tree
+phytoplasmas of the AP group, ‘Ca. P. prunorum’ ex-
+hibits a very high host specificity. In nature, this
+pathogen seems to infect only plants in the genus
+Prunus and appears to be transmitted by one insect vec-
+tor species, the psyllid (Psyllidae) Cacopsylla pruni
+(Scopoli) (Carraro et al., 1998a; Weintraub and Bean-
+land, 2006). Also, the pathogen exists in strains which
+greatly differ in aggressiveness, ranging from avirulent
+(or nearly avirulent) to highly virulent (Kison and
+Seemiiller, 2001). The aim of this review is to summarize
+the current knowledge about the ESFY agent ‘Ca. P.
+prunorum’. Emphasis is placed on advances that have
+been made during the last two decades in understand-
+ing molecular and epidemiological aspects. MOLECULAR CHARACTERIZATION
+OF ‘CA. P. PRUNORUM’
+
+Molecular taxonomy. According to the phylogenetic
+phytoplasma classification, which is largely based on se-
+quence analysis of 16S rDNA, ‘Ca. P. prunorum’ is a
+member of the AP group (IRPCM, 2004). Other mem-
+bers of this group are ‘Ca. P. mali’ (the AP agent), ‘Ca. P.
+pyri’ (the PD agent), the PYLR agent, and the newly
+identified PD (PDTW) agent infecting pear in Taiwan
+(Lee et al., 2000, 2007; Seemiiller and Schneider, 2004;
+Liu et al., 2007). Nucleotide sequence comparisons re-
+vealed that the 16S rDNA sequences of five ‘Ca. P.
+prunorum’ strains from Germany, Austria and Czech Re-
+public are identical or nearly identical, showing similari-
+ty values between 99.8 and 100%. There is no indication
+of sequence heterogeneity between the two rRNA oper-
+ons of ‘Ca. P. prunorum’ (Seemiiller and Schneider,
+2004). In interspecific comparisons of the ESFY/AP, ES-
+FY/PD, ESFY/PYLR and ESFY/PDTW agents, differ-
+ences in 16S rDNA sequences were 1.3-1.5, 1.2-1.3, 1.4-
+1.6 and 1.2-1.4%, respectively (Seemiiller and Schneider,
+2004; Liu et al., 2007). More distantly related to ‘Ca. P.
+prunorum’ are four other phytoplasmas that cluster in
+the same subclade as the AP-group members: ‘Ca. P.
+spartii’ (associated with spartium witches’-broom), ‘Ca. P. rhamni’ (associated with buckthorn witches’-broom),
+‘Ca. P. allocasuarinae’ (associated with allocasuarina yel-
+lows), and ‘Ca. P. tamaricis’ (associated with salt cedar
+witches’-broom). These phytoplasmas share between 94
+and 97.1% 16S rDNA sequence similarity with ‘Ca. P.
+prunorum’ (Marcone et al., 2004; Zhao et al., 2009). The
+16S/23S rDNA spacer region sequences of the above-
+mentioned ‘Ca. P. prunorum’ strains are also identical. Journal of Plant Pathology (2010), 92 (1), 19-34
+
+At 16S8/23S rDNA spacer region sequence level, ‘Ca. P.
+prunorum’ differs from the other AP group fruit tree
+phytoplasmas in 1.2-3.0% of nucleotide positions and
+from the other phytoplasmas clustering in the AP group
+in more than 11% of positions (Marcone et al., 2004;
+Seemiiller and Schneider, 2004; Liu et al., 2007). Also,
+by RFLP analysis of PCR-amplified rDNA using several
+restriction enzymes, no genetic polymorphisms were ob-
+served among numerous ‘Ca. P. prunorum’ isolates col-
+lected at various locations in European countries and
+from various stone fruit species (Marcone et al., 1996a;
+Seemiiller et al., 1998b; Topchiiska et al., 2000; Jarausch
+et al., 2001a; Laimer Da Camara Machado et al., 2001;
+Deli¢ et al., 2008) whereas the ESFY agent can clearly
+be distinguished from the other AP-group fruit tree phy-
+toplasmas using RFLP analysis of PCR-amplified 16S
+rDNA sequences employing Sspl, BsaAT and Rsal re-
+striction endonucleases (Marcone et al., 1996a;
+Seemiiller et al., 1998b). Genetic characterization. Sequence alignment of
+less-conserved, non-ribosomal genes has shown a con-
+siderable genomic variability among ‘Ca. P. prunorum’
+isolates in the imp gene, which encodes an immun-
+odominant membrane protein, with similarity values
+ranging from 95.4 to 99.8%. Less genetic variability oc-
+curred in the aceF, secY and pnp genes encoding a com-
+ponent of pyruvate dehydrogenase, a translocase pro-
+tein and a polynucleotide phosphorylase, respectively. For tuf and tlyC genes, which encode the elongation
+factor Tu (EF-Tu) and a hemolysin known as a mem-
+brane-damaging agent and important virulence factor of
+many bacteria, respectively, ‘Ca. P. prunorum’ isolates
+proved to be identical or nearly identical with similarity
+values between 99.7 and 99.9%, and 99.8 and 100%,
+respectively. No dissimilarities were observed in both
+rpsC and fol genes, encoding a ribosomal protein and an
+enzyme essential for folate biosynthesis, respectively
+(Danet et al., 2007, 2008; Marcone et al., 2009). Analy-
+sis using aceF sequences generated a tree in which
+French hypovirulent strains of the ESFY agent, namely
+peach vein clearing, B7 and E22, clustered together and
+were thus distinguished from the other strains of the
+same pathogen (Danet et al., 2008). However, phylogenetic trees inferred from imp, secY
+and pnp genes had different topology and did not allow
+differentiation of the mentioned hypovirulent strains. Also, phylogenies based on imp and secY genes clus-
+tered some ‘Ca. P. prunorum’ strains which are sup-
+posed to be non-circulative in a monophyletic group. In
+phylogenetic trees based on aceF and imp sequences, an
+isolate from Azerbajdzhan was delineated as a distinct
+lineage among the ‘Ca. P. prunorum’ strains (Danet et
+al., 2007, 2008). Also, maximal dissimilarities identified
+between ‘Ca. P. prunorum’ and AP and PD agents were
+36 and 29% on the basis of imp gene, 11 and 12% in
+
+   
+
+ 
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+aceF, 7 and 6% in pnp, 8 and 7% in secY, and 5.4 and
+5.9% for ribosomal protein (rpsV and rpsC) genes, re-
+spectively (Morton et al., 2003; Danet et al., 2007, 2008;
+Lee et al., 2007; Martini et al., 2007a). Recent work has
+shown that ‘Ca. P. prunorum’ shares 84.6-87.8% and
+89.6% hfIB gene sequence similarity with ‘Ca. P. mali’
+strains and ‘Ca. P. pyri’, respectively (Schneider and
+Seemiiller, 2009). RFLP analysis of PCR-amplified tuf gene sequences
+was also employed to differentiate ‘Ca. P. prunorum’
+strains. Following separate digestion with Alul, Rsal,
+Sau3AI, Msel, Hhal, Hinfl, Hpall and HaellI, more
+than a hundred isolates infecting peach, apricot and
+plum trees in southern Italy had similar RFLP profiles. When the same tuf gene fragments were digested with
+TaqI restriction endonuclease, two distinct restriction
+profiles were identified among the ‘Ca. P. prunorum’
+isolates examined (Marcone et al., 2002; C. Marcone,
+unpublished data). Similar results were obtained by
+Ferretti et al. (2007, 2008, 2009) who employed RFLP
+analysis of PCR-amplified tuf gene sequences using
+NlalII restriction enzyme to examine genetic polymor-
+phism among ‘Ca. P. prunorum’ strains which were de-
+tected in both stone fruit trees and C. pruni individuals. Work by Martini et al. (2009) showed that four RFLP
+subgroups designed Acef-A, -B, -C, and -D, could be
+identified among ‘Ca. P. prunorum’ strains originating
+from several European countries when aceF gene se-
+quences were digested with HaelII and Tsp509I restric-
+tion endonucleases. One hundred and seventy-five ‘Ca. P. prunorum’ iso-
+lates, which were collected from 14 Prunus species and
+4 hybrids in four Mediterranean countries, were ana-
+lyzed by RFLP using several restriction enzymes of a
+PCR-amplified non-ribosomal fragment which included
+a putative nitroreductase gene, an intergenic region and
+a truncated open reading frame of unknown function. All isolates proved to be identical. However, ‘Ca. P.
+prunorum’ could clearly be differentiated from the AP
+and PD agents. An overall sequence similarity of 89.6%
+between ‘Ca. P. prunorum’ and ‘Ca. P. mali’ occurred
+on this fragment (Jarausch et al., 1994a, 2000a). By
+Southern blot hybridization of HindIII- or EcoRI-di-
+gested DNA from over 60 ‘Ca. P. prunorum’ isolates us-
+ing a mixture of randomly cloned chromosomal DNA
+fragements from the ‘Ca. P. mali’ as probes, polymor-
+phisms were only observed in two isolates. However,
+hybridization patterns of ‘Ca. P. prunorum’ strains dif-
+fered significantly from those of ‘Ca. P. mali’, ‘Ca. P.
+pyri’ and PYLR strains (Ahrens et al., 1993; Lorenz et
+al., 1994; Kison et al., 1997; Kison and Seemiiller, 2001). Pulsed-field gel electrophoresis (PFGE) analysis re-
+vealed a uniform chromosome size of 630 kb for three
+strains of ‘Ca. P. prunorum’ including the reference
+strain GSFY1. This size is in the same range as that of
+“Ca. P. mali’ and ‘Ca. P. pyri’ strains (Marcone et al.,
+
+ 
+
+Marcone etal. 21
+
+1999b; Seemiiller and Schneider, 2007). Physical maps
+have been constructed from the chromosomes of ‘Ca. P.
+prunorum’ and ‘Ca. P. mali’ (Lauer and Seemiiller,
+2000; Marcone and Seemiiller, 2001). The physical map
+of ‘Ca. P. prunorum’ strain GSFY1 chromosome is dif-
+ferent from that of ‘Ca. P. mali’, as evidenced by fre-
+quency and location of restriction sites, but the overall
+genetic arrangement of chromosomes is similar (Mar-
+cone and Seemiiller, 2001). Work by Kube et al. (2008)
+showed that chomosome of ‘Ca. P. mali’, ‘Ca. P. pruno-
+rum’ and ‘Ca. P. pyri’ was linear and not circular as pre-
+viously known. To prove chromosome linearity, the
+PFGE-purified, agarose-embedded full-length chromo-
+somes of the three mentioned phytoplasmas were di-
+gested with I-Ceul, an intron-encoded endonuclease
+that cleaves specifically in the 238 rRNA gene of many
+bacteria. This digestion yielded three macrorestriction
+fragments, as expected for linear chromosomes having
+two rRNA operons whereas I-Ceul restriction of the
+‘Ca. P. australiense’ resulted in only two fragments, as
+expected for a circular chromosome with two rRNA
+operons. Detection. Molecular characterization of ‘Ca. P.
+prunorum’ has also enabled the development of sensitive
+and specific methods for detection. All attempts to devel-
+op direct serological detection methods failed. Currently,
+PCR technology is the method of choice and has com-
+pletely replaced the other techniques like dot and South-
+ern blot hybridization. A drawback of molecular detec-
+tion is the requirement of purified total DNA extracted
+from infected plants or insects. Several extraction proto-
+cols have successfully been applied, e.g., the phytoplas-
+ma-enrichment procedure described by Ahrens and
+Seemiiller (1992) or the simplified CTAB-based extrac-
+tion protocol first published by Maixner et al. (1995). Re-
+liable diagnosis is also dependent on the sampled organ
+and tissue as well as on the sampling time. The seasonal colonization pattern of ‘Ca. P. pruno-
+rum’ has been studied in France in apricot, Japanese
+plum and European plum (Jarausch et al., 1999a). Al-
+though the pathogen was detectable throughout the
+year in the aerial parts, the most reliable detection was
+achieved during summer (July-September) whereas
+sampling in springtime was not recommended. The
+pathogen can be detected in roots throughout the year. Detection in phloem preparations from stem and root is
+usually more reliable than detection in leaf petioles (Ja-
+rausch et al., 1999a). PCR technology offers the advantage of the use of
+primers with different degrees of specificity. Universal
+phytoplasma primers as well as AP group-specific
+primers have been designed in ribosomal DNA se-
+quences (Lorenz et al., 1995; Seemiiller et al., 1998b). Due to the close relationship of ‘Ca. P. prunorum’ with
+the other AP-group fruit tree phytoplasmas, primers de-
+
+ 
+
+22 ‘Candidatus Phytoplasma prunorum’
+
+signed in ribosomal DNA sequences for the specific de-
+tection of the ESFY agent cross-amplify DNA from oth-
+er AP-group fruit tree phytoplasmas, especially PD and
+PYLR agents (Lorenz et al., 1995; Smart et al., 1996; Ki-
+son et al., 1997; Seemiiller et al., 1998b). Thus, reliable
+direct identification of ‘Ca. P. prunorum’ could be
+achieved with non-ribosomal primers selected in the se-
+quence of a putative nitroreductase gene and an inter-
+genic region (Jarausch et al., 1998a, 2000a). Very recent-
+ly, Yvon et al. (2009) published 16S rDNA and 16S/23S
+rDNA spacer region-based primers which proved to be
+specific for ‘Ca. P. prunorum’ and which did not show
+PCR signals with several reference strains of ‘Ca. P.
+mali’ and ‘Ca. P. pyri’. As mentioned above, ‘Ca. P.
+prunorum’ can also be distinguished from the other AP-
+group fruit tree phytoplasmas by RFLP analysis of PCR-
+amplified rDNA using suitable restriction enzymes
+(Marcone et al., 1996a; Seemiiller et al., 1998b). The
+sensitivity of detection can be increased by nested PCR
+which is currently one of the most sensitive means suit-
+able for detecting extremely low-titer infections in
+woody plants. For this, different combinations of ribo-
+somal primers can be used. A PCR-ELISA procedure has been described by
+Poggi Pollini et al. (1997) using a ‘Ca. P. prunorum’-
+specific biotinylated probe for detection. This proce-
+dure which has been applied for detection of several
+phytoplasmas other than the ESFY agent, proved to be
+10 to 15 times more sensitive than the electrophoretical
+detection of amplicons (Poggi Pollini et al., 1997, 2001). Unspecific detection of ‘Ca. P. prunorum’ infections
+is also possible by microscopic examination of phloem
+tissue sections stained with the DNA fluorochrome 4’-
+6-diamidino-2-phenylindole (DAPI) (Seemiiller, 1976). However, this method is not as sensitive as PCR (Ja-
+rausch et al., 1998a). Visual assessment of characteristic
+symptoms as described below is possible but not always
+reliable because symptom expression is largely depend-
+ent on the genotype and the season and can be masked
+by unrelated pathogens or environmental factors. The correlation between typical symptoms and PCR
+detection of the pathogen was studied by Jarausch et al. (1998a) in France and by Jarausch et al. (2008) in Ger-
+many. In the first study typical symptoms in a wide range
+of species and cultivars were highly (95%) correlated to
+the presence of the pathogen. However, trees showing
+an unclear symptomatology tested positive for “Ca. P.
+prunorum’ in 51% of the cases. These data were con-
+firmed in the study conducted in Germany under differ-
+ent climatic conditions. Early bud break in late winter
+was the most reliable symptom for ESFY diagnosis in
+apricot, European plum, almond and flowering cherry. In certification or quarantine programs, detection
+still involves indexing using a sensitive indicator host
+such as peach GF305 seedlings and Japanese plum
+“Ozark Premier’ and ‘Red Heart’. The lengthy proce-
+
+   
+ 
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+dure and low sensitivity are major drawbacks of the in-
+dexing approach. ‘Ca. P. prunorum’ detection in quar-
+antine programs might in future rely on the simultane-
+ous detection of a wide range of pathogens by diagnos-
+tic DNA microarrays. Prototypes of such a microarray
+have been developed (Hadidi et al., 2004; Pelludat et
+al., 2009). Quantification of ‘Ca. P. prunorum’ by real-time
+PCR. Determination of absolute quantity of the
+pathogen in plants and insects has gained increasing im-
+portance in recent years to study the plant response in
+resistance screenings or to characterize insect transmis-
+sion parameters. The development of real-time PCR
+technology has greatly facilitated these investigations and
+several assays for detection and quantification of “Ca. P.
+prunorum’ have been published. Torres et al. (2005) first
+reported a real-time assay with ribosomal primers using
+the fluorescent SYBR Green I dye for the simultaneous
+detection and quantification of phytoplasmas of the AP
+group. Absolute quantification was achieved with the
+standard curve calibration method using a plasmid as
+template. The measured phytoplasma concentration in
+the sample was referred to the weight of the plant tissue
+used for DNA extraction. By this method the authors
+determined concentrations of 9.7x10? to 3.0x10° phyto-
+plasma cells per gram of tissue of Japanese plum of apri-
+cot buds. Martini et al. (2007b) were the first to publish
+a specific real-time assay based on primers selected in
+the rplV (rpl22) gene of ‘Ca. P. prunorum’. These au-
+thors also used the SYBR Green technology and the
+standard curve method for absolute quantification. However, they referred the measured concentration of
+phytoplasma cells to concentration of plant DNA in the
+analysed extract. The reported phytoplasma concentra-
+tions of 1.55x10? to 6.18x10* genome units per
+nanogram plant DNA of infected apricot trees is there-
+fore not comparable to the data of Torres et al. (2005). Martini et al. (2007b) determined also the phytoplasma
+concentration in infested insects of the vector species C.
+pruni and found 1.07x107 to 4.24x10’ phytoplasma cells
+per tested insect. Finally, ‘Ca. P. prunorum’ primers
+ECAI1/ECA2 (Jarausch et al., 1998) have also been em-
+ployed in real-time PCR using SYBR Green I dye (Ja-
+rausch et al., 2009). In this work higher phytoplasma
+concentrations were determined: up to 10° phytoplasma
+cells per gram freshweight of infected apricot and up to
+108 phytoplasma cells per individual of C. pruni. TaqMan probes for the specific detection of ‘Ca. P.
+prunorum’ were first described by Pignatta et al. (2008)
+who adapted a multiplex TaqMan assay published by
+Baric and Dalla-Via (2004) for the simultaneous detec-
+tion of the phytoplasma and the plant host DNA. Whereas these authors did not quantify the phytoplas-
+ma, Thébaud et al. (2009) developed a new TaqMan as-
+say with specific primers and probes in the ‘Ca. P.
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+prunorum’ 16S rDNA and specific primers and probes
+in the C. pruni 18S rDNA for the absolute quantifica-
+tion of ‘Ca. P. prunorum’ in its vector. These authors
+could show that the DNA extraction yield from single
+psyllids varied little as determined with the C. pruni-
+specific TaqMan assay. Therefore, they were able to re-
+fer the phytoplasma concentration to the tested insect as
+it was done in the other reports. Thébaud et al. (2009)
+measured the highest phytoplasma concentration of
+4.9x 107 cells per insect in overwintered adults of C.
+pruni. Thus, the data of the different authors for the
+phytoplasma load of psyllids are all in a similar range of
+107 to 108 phytoplasma cells per individual. The use of real-time PCR for sensitive detection of
+“Ca. P. prunorum’ showed that the detection threshold
+of real-time PCR is largely similar to that of nested PCR
+while real-time PCR assays greatly reduce the risk to ob-
+tain false positives due to contamination of laboratories
+arising from previous amplifications (Torres et al., 2005;
+Pignatta et al., 2008). INTERACTION OF ‘CA. P. PRUNORUM’
+WITH THE PLANT
+
+Host range. ‘Ca. P. prunorum’ preferentially infects
+plants in the genus Prunus. It occurs in nature mainly
+on apricot, Japanese plum, and peach. However, the
+pathogen is also common on almond and flowering
+cherry (Seemiiller et a/., 1998a). On the basis of primer
+specificity and RFLP analysis of PCR-amplified DNA,
+‘Ca. P. prunorum’ infections have also been observed in
+naturally infected plants of P. domestica, P. avium (sweet
+cherry) and P. cerasus (sour cherry), P. mahaleb, P.
+cerasifera, P. bokhariensis, P. brigantina, P. cocomilia, P.
+hollywood, P. orthosepal, P. simonii, P. spinosa, P. subcor-
+data, P. cerasifera x P. munsoniana (P. ‘Marianna’ GF
+8/1), and P. besseyi x P. hortulana (Jarausch et al., 1994a,
+1998a, 2000a; Poggi Pollini et al., 1995, 2005; Navratil
+et al., 2001; Paltrinieri et al., 2001; Carraro et al., 2002). However, its causative role in yellows diseases of these
+taxa is not as clear, mainly because they are usually less
+affected and/or tolerant (Carraro et al., 1998b; Kison
+and Seemiiller, 2001). By grafting and insect vector, ‘Ca. P. prunorum’ was experimentally transmitted to several
+Prunus taxa listed above including P. insititia, P tomen-
+tosa, P. padus, P. laurocerasus, P. cerasus x P. canescens, P.
+fructicosa x P. avium, P. fructicosa x P. cerasus (Kison and
+Seemiiller, 2001; Carraro et al., 2004a). It has also been
+transmitted from diseased stone fruit trees to periwinkle
+and from periwinkle to tobacco (Nicotiana tabacum) via
+dodder (Cuscuta campestris and C. reflexa) bridges (Loi
+et al., 1995; Marcone et al., 1999a; Marcone and
+Seemiiller, 2001). Moreover, ‘Ca. P. prunorum’ was
+transmitted by grafting from N. tabacum to several other
+Nicotiana species and other solanaceous plants, includ-
+
+ 
+
+ 
+
+Marcone etal. — 23
+
+ing tomato (Lycopersicon esculentum) (Marcone and
+Seemiiller, 2001). By PCR assays using specific non-ri-
+bosomal primers and RFLP analysis of PCR-amplified
+non-ribosomal and/or rDNA sequences, ‘Ca. P. pruno-
+rum’ was detected in naturally infected plants of ash
+(Fraxinus excelsior), dog rose (Rosa canina), hackberry
+(Celtis australis), European hazel (Corylus avellana) and
+grapevine (Vitis vinifera) (Marcone et al., 1996b; Varga
+et al., 2000; Jarausch et al., 2001a; Duduk et al., 2004). However, further work based mainly on graft inocula-
+tion and vector transmission studies is needed to evalu-
+ate the significance of these non-Prunus species as alter-
+native hosts of ‘Ca. P. prunorum’. Symptom expression. ‘Ca. P. prunorum’ induces
+symptoms mainly on leaves and shoots which can vary
+considerably depending on plant species, rootstock,
+scion cultivar, strain virulence, phytoplasma concentra-
+tion, climatic condition, age of trees and insect vector
+population (Seemiiller and Foster, 1995; Kison and
+Seemiiller, 2001; Thébaud et al., 2006). The most char-
+acteristic symptoms which can be observed in most of
+the infected Prunus species are off-season growth and
+premature break of leaf buds before flowering. In sum-
+mer, leaf yellowing or reddening in combination with
+leaf roll is the most common symptom. Detailed de-
+scriptions of symptoms are available elsewhere (Lederer
+and Seemiiller, 1992; Seemiiller and Foster, 1995;
+Laimer and Bertaccini, 2008). Also, trees intensively
+colonized in the aerial parts usually develop characteris-
+tic symptoms (Jarausch et al., 1998a, 2008). One major
+aspect of ‘Ca. P. prunorum’ infections is the high mor-
+tality rate of apricot, Japanese plum and peach on sus-
+ceptible rootstocks. Even more tolerant species like Eu-
+ropean plum may die after strong winter frosts when
+they are grafted on susceptible rootstocks. Typical ES-
+FY symptoms are common in southern European re-
+gions but they have been recently observed in a similar
+way also in Germany (Jarausch et al., 2008). Colonization behavior. Phytoplasmas differentially
+colonize plants, depending on the pathogen type, prop-
+erties of the host and its specific reactions. ‘Ca. P.
+prunorum’ can persist in the aerial parts of diseased
+trees during the dormant season whereas it is always
+present at root level throughout the year (Seemiiller et
+al., 1998c; Jarausch et al., 1999a). Furthermore, Ja-
+rausch et al. (1999a) proved by tissue culture techniques
+that the ESFY pathogen colonizing the aerial parts dur-
+ing winter is viable. This behavior is in contrast to AP
+and PD agents, which owing to the degeneration of
+sieve tubes in the above-ground parts of apple and pear
+trees in late autumn and early winter, are, in almost all
+cases, eliminated in the aerial parts during winter while
+they persist in the roots where intact sieve tubes are
+present throughout the year. From the roots both
+
+24 ‘Candidatus Phytoplasma prunorum’
+
+pathogens may recolonize the aerial parts in spring
+when new phloem is being formed (Schaper and
+Seemiiller, 1984). However, monitoring of the ‘Ca. P.
+prunorum’ population by DAPI fluorescence method
+and PCR assays has shown that the pathogen slowly col-
+onized the leaves in spring, yielding thus a colonization
+pattern like AP and PD agents. Systemic colonization of
+diseased trees occurred from July throughout late fall. Responses of Prunus genotypes to ESFY infections. It is well known that rootstocks significantly affect the
+response of grafted trees to ‘Ca. P. prunorum’ infections. Thus, 23 established and experimental Prunus root-
+stocks, which are used in Europe were examined by
+graft-inoculation, PCR assays and DAPI fluorescence
+method to identify ESFY resistance in stone fruits (Ki-
+son and Seemiiller, 2001). For inoculation, twenty differ-
+ently virulent ‘Ca. P. prunorum’ strains, which were col-
+lected from diseased almond, apricot, flowering cherry,
+Japanese plum and peach trees, were used. Inoculations
+were performed by grafting infected tissue onto healthy
+rootstocks and the inoculated plants were trained in a
+way that the shoot that developed from the inoculum
+was grown as scion. Symptom development was moni-
+tored over a 5 to 8-year observation period. The root-
+stocks examined showed considerable differences in
+their response to ‘Ca. P. prunorum’ infections. The
+symptoms induced included foliar yellowing, foliar red-
+dening, leaf roll, premature defoliation, off-season
+growth, reduced vigor, phloem necrosis, and death of
+trees. Also, mortality within the same rootstock and
+scion often varied considerably, depending on strain vir-
+ulence. Trees on P domestica stocks Achermann’s,
+Brompton and P 2175 and P. cerasifera stock Myrabi (P
+2032) were little affected. Most of these trees did not
+suffer from death of rootstock and scion nor showed fo-
+liar symptoms and reduced vigor. Moreover, phloem
+necrosis was rare and the scion was usually less affected
+than on other rootstocks, even in presence of severe
+strains. Slightly more damage occurred in trees on root-
+stocks GF 677 (P. dulcis x P. persica), P. ‘Marianna’ GF
+8/1, and P. insititia stocks St Julien A and St Julien GF
+655/2. However, some scion genotypes grown on these
+stocks were markedly damaged, as evidenced by mortali-
+ty, foliar symptoms and phloem necrosis. Ishtara [(P.
+cerasifera x P. persica) x P. salicina], Myrobalan (P
+cerasifera), and peach rootstocks Higama and GF 305
+were found to be moderately to highly susceptible. Mild
+strains and also some severe strains only affected these
+rootstocks slightly. However, they were severely dam-
+aged by other highly aggressive strains. The most suscep-
+tible were peach rootstocks Montclar, Rutgers Red Leaf,
+Rubira, peach seedlings, apricot seedlings, and P.insititia
+stock St Julien 2. Losses up to 100% were recorded on
+trees of apricot and all of the most susceptible peach
+rootstocks. Trees on apricot rootstocks were most se-
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+verely affected when the scion was apricot and the in-
+fecting strain was originating from apricot. In contrast,
+the susceptibility of trees on peach rootstocks appeared
+not to be affected by the kind of scion and origin of the
+inoculum. Off-season growth depended on both host
+and pathogen. It usually occurred in combinations of the
+more virulent strains and the more susceptible host. Of
+the flowering cherry trees grown on various rootstocks. the least susceptible were those on Gisela 3 (P. fruticosa
+x P. avium) and F 12/1 (P. avium) whereas Gisela 1 (P.
+cerasus x P. canescens), Weihroot 158 (P. cerasus) and
+Gisela 5 (P. fruticosa x P. cerasus) were more affected. The mortality of flowering cherry scions was often high-
+er than that of the rootstocks. Phytoplasmal infections
+were detected by either DAPI fluorescence test or PCR
+assays, in all inoculated Prunus genotypes, irrespective of
+symptom expression. The colonization density was lower
+in little or not affected rootstocks than in susceptible
+rootstocks. There were also differences between colo-
+nization of the roots and the aerial parts of rootstocks. Usually phytoplasma population was higher in the roots
+than in the stem of the same genotype. In some root-
+stocks, infections were not found in the stem but only in
+the roots. Colonization appeared to be persistent over
+the observation period even in the least affected root-
+stocks such as P. domestica stocks Achermann’s, Bromp-
+ton and P 2175 and P. cerasifera stock Myrabi. Since
+trees on these rootstocks were also slightly damaged, and
+no recovery was observed, none of the examined geno-
+types could be considered resistant. Jarausch et al. (2000b) examined the response of six-
+teen P. domestica genotypes which were grown as scion
+on P. ‘Marianna’ GF 8/1 to a French strain of the ESFY
+agent. Following graft-inoculation, the plants were ob-
+served over a 6-year period. Of the material tested,
+Prune d’Ente genotypes were shown to be moderately
+to highly susceptible. Among them, scion cultivars Pri-
+macotes, Tardicotes, Lorida and Spurdente were con-
+siderably damaged, as expressed by symptoms such as
+leaf roll, off-season growth, reduced vigor and produc-
+tivity, and plant death. Little or not affected were sever-
+al hybrids and X-ray mutants of Reine Claude (green-
+gage) cultivars as they exhibited no mortality while only
+a few ‘Fermareine’ and P9184 trees showed off-season
+growth. By PCR assays, phytoplasmal infections could
+be detected in all inoculated genotypes, irrespective of
+symptom expression. However, detection frequency and
+phytoplasma concentrations were usually lower in the
+more tolerant hosts than in susceptible genotypes. For
+the Reine Claude genotypes P1771 and P1119, infec-
+tions could only be detected in the rootstocks. Experi-
+mental inoculations of thirteen sweet cherry cultivars
+demonstrated a high level of resistance in P avium to-
+wards ‘Ca. P. prunorum’ (Jarausch et al., 1999b). Audergon et al. (1991) reported that 155 cultivars
+and selections of apricot grown on apricot seedling
+
+ 
+
+ 
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+A1236 Manicot, greatly differed in their susceptibility to
+the strain G 32 Noves of apricot chlorotic leaf roll, fol-
+lowing experimental inoculation. Some of them, e.g.,
+‘Tardif de Bordaneuil’, ‘Caid Azdz 1’, and ‘Bebeco LA
+2-A’ proved highly susceptible to be used as indicators
+whereas other, e.g., ‘Jaubert Foulon’, ‘Max Gold’, and
+‘Chastemi do’ resulted tolerant or not infected. Maintenance of ‘Ca. P. prunorum’ in micropropagat-
+ed plants. So far, biological studies on interactions of
+‘Ca. P. prunorum’ with its plant host are restricted to
+field-grown plants which are subjected to the vegetative
+cycle. As these experiments are long-lasting, attempts
+have been made to maintain the ESFY agent in micro-
+propagated plants. This can be achieved by introducing
+ESFY-infected plant material into tissue culture as it has
+been first reported by Jarausch et al. (1994b). These mi-
+cropropagated ESFY-infected cultures of P. ‘Marianna’
+GF 8/1 were maintained up to now proving a stable cul-
+ture of ‘Ca. P. prunorum’ in its host plant for more than
+18 years (W. Jarausch, unpublished data). ESFY-infect-
+ed tissue cultures of P. domestica, P. ‘Marianna’, P. ar-
+meniaca and P. persica, have also been established by M.
+Laimer and co-workers (Laimer, 2003; Laimer and
+Bertaccini, 2008). These cultures have then been used
+to develop protocols for the elimination of ‘Ca. P.
+prunorum’ from micropropagated plant material. ES-
+FY-elimination could be achieved applying a combina-
+tion of in vitro thermotherapy and meristem prepara-
+tion (Laimer, 2003; Laimer and Bertaccini, 2008). In
+these studies, forty-three out of 48 plantlets regenerated. from meristematic tissue of ‘Ca. P. prunorum’-infected
+peach proved to be healthy while the rate of the
+pathogen-free plants in regeneration of apricot plantlets
+was about 80%. Data reported by Jarausch et al. (1998b) indicate that simple axillary bud culture of ES-
+FY-infected in vitro shoots is not sufficient to eliminate
+the phytoplasma. Plantlets regenerated from buds of
+only 2 mm in size remained still infected by ‘Ca. P.
+prunorum’ as demonstrated by PCR detection. These
+data indicate that micropropagated plants are homoge-
+neously infected with the pathogen and that reliable
+phytoplasma elimination can only be achieved by com-
+bining in vitro thermotherapy and meristem prepara-
+tion. Plant tissue culture has also successfully been used
+to transmit ‘Ca. P. prunorum’ by in vitro grafting (Ja-
+rausch et al., 1999c). By this approach, ESFY-infected
+micropropagated P. ‘Marianna’ GF 8/1 scions were
+grafted onto healthy rootstocks of the same genotype. High transmission rates up to 94% were achieved with-
+in three months of growth. Thus, it could be shown that
+in vitro grafting may be useful for a preliminary screen-
+ing of Prunus genotypes for ESFY resistance (Jarausch
+et al., 1999c). Actually, this approach has regained new
+interest as the development of quantitative real-time
+PCR assays for determining the phytoplasma concentra-
+
+ 
+
+ 
+
+Marcone etal. 25
+
+tion in the inoculated genotype has provided new tools
+for resistance evaluation (Jarausch et al., 2009). Recovery. Studies conducted in France and Italy have
+shown that in apricot orchards severely damaged by ‘Ca. P. prunorum’, some trees recovered spontaneously while
+the vast majority of them declined (Morvan et al., 1986,
+1991; Castelain et al., 1997; Loi et al., 2008; Ermacora et
+al., 2009). In recovered trees a permanent disappearance
+of symptoms in the above-ground parts but not of the
+‘Ca. P. prunorum’ infections, occurred. However, the
+phenomenon of recovery or reduction of strain virulence
+is still poorly understood especially on molecular and
+biochemical basis. Musetti et al. (2005) investigated the
+effect of reactive oxygen species (ROS) on the recovery
+phenomenon in ESFY-affected apricot trees by compar-
+ing hydrogen peroxide and related metabolites and en-
+zymes in leaves from recovered, symptomatic, and non-
+symptomatic infected plants. Substantial amounts of hy-
+drogen peroxide occurred in the sieve tube plasma
+membranes of leaves from recovered plants but not in
+those from symptomatic and non-symptomatic plants. Leaves from recovered plants had a guaiacol peroxidase
+(GPX) activity, which keeps under control ROS genera-
+tion, lower than that of leaves from symptomatic plants
+whereas the lowest GPX activity level occurred in non-
+symptomatic leaves. Also, the reduced glutathione,
+which can be oxidized to glutathione disulfide in pres-
+ence of unstable molecules such as ROS, showed a con-
+tent which was higher in recovered leaves than in symp-
+tomatic leaves. In contrast, the highest content of re-
+duced glutathione was recorded in non-symptomatic
+leaves. From these data the authors concluded that the
+overproduction of hydrogen peroxide in recovered
+plants owing to a non-very active oxidant-scavenging
+system may account for reduction of strain virulence and
+disease severity, thereby playing a major role in the re-
+covery of ESFY-infected apricot trees. Also, the study by
+Musetti et al. (2005) provided further evidence that *Ca. P. prunorum’ infections persist in the aerial parts of re-
+covered apricot trees. Host plant genes differentially expressed upon ‘Ca. P. prunorum’ infections. In contrast to progress made in
+detection, differentiation and phylogenetic classification
+of phytoplasmas, very little is known about the mecha-
+nisms by which phytoplasmas induce disease in plants
+and the reason for different reactions of the host plants
+to phytoplasmal infections. Carginale et al. (2004) re-
+ported on the identification of apricot genes whose pat-
+tern of expression changed in response to ‘Ca. P. pruno-
+rum’ infections by using the differential display tech-
+nique of mRNAs. Among the genes identified, a gene
+encoding the heat-shock protein HSP70, a gene encod-
+ing a metallothionein and another homologous to the ex-
+pressed sequence tag 673 cDNA clone of P. armeniaca,
+
+26  ‘Candidatus Phytoplasma prunorum’
+
+whose function was unknown, were up-regulated where-
+as a gene encoding a protein which showed a significant
+homology to an amino acid transporter of Arabidopsis
+thaliana was down-regulated. Heat-shock and metalloth-
+ionein proteins are known to be produced in plants and
+many other living organisms to a high level in response
+to a variety of stress conditions. Thus, as concluded by
+the authors, a possible role of the induced metalloth-
+ionein proteins in ESFY-infected apricot may be to re-
+duce the concentration of free metal ions in the cell un-
+der pathogen attack and preventing an increase in reac-
+tive oxygen species. Metal ions may arise from enzymatic
+degradation of substances contained in the plant cells. Therefore, metallothionein proteins may be involved in
+sequestering and transport of metal ions from infected
+tissue to developing areas of the plant. Also, the fact that
+the expression level of an amino acid transporter gene is
+greatly reduced by ‘Ca. P. prunorum’ infections indicates
+that the transport of amino acids which are essential for
+growth and development, to various plant parts includ-
+ing sink organs, is impaired in diseased plants. Amino
+acid transport also plays a key role in leaf senescence
+which is a well-controlled process during which the
+plant recycles substances from cells before death eventu-
+ally occurs. Thus, the impaired amino acid transport that
+occurs in infected plants may account for some of the
+symptoms exhibited by these plants. TRANSMISSION OF ‘CA. P. PRUNORUM’
+
+Graft transmission. ‘Ca. P. prunorum’ can be tran:
+mitted from tree to tree by grafting. Usually, it is effi-
+ciently transmitted by chip-budding from a suitable
+donor host to a recipient tree throughout the year in-
+cluding the winter because this pathogen is present in
+the aerial parts of trees even during the dormant season
+and is viable and transmissible (Seemiiller et al., 1998c;
+Jarausch et al., 1999a). ‘Ca. P. prunorum’ is not seed-
+transmissible. However, a recent work by Necas et al. (2008) has shown that ‘Ca. P. prunorum’ infections oc-
+curred in a few fruits and seeds collected from ESFY-af-
+fected apricot trees, as revealed by PCR assays. Also,
+seeds from ‘Ca. P. prunorum’-infected apricot trees had
+a viability which was 4.5 times lower than that of
+healthy seeds while the germination rate was 7 times
+lower than the healthy control. No phytoplasmal infee-
+tions occurred in apricot seedlings originating from ES-
+FY-affected trees. The ESFY pathogen has also been
+transmitted by the in vitro grafting technique (Jarausch
+et al., 1999c). Insect vector transmission. In the recent years,
+progress has been made in understanding the epidemi-
+ology of the ESFY agent, in particular in insect vector
+transmission. The psyllid Cacopsylla pruni has been
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+shown to vector the pathogen in various European
+countries such as Italy, France and Germany (Carraro et
+al., 1998a, 2001; Jarausch et al., 2001b, 2007a, 2007b,
+2008). C. pruni is a European-Middle Asiatic species
+which is known to occur in several European countries
+(Lauterer, 1999). This psyllid is strictly oligophagous on
+Prunus spp., completes one generation per year and
+overwinters as adult on shelter plants, usually conifers. At the end of winter/early spring, overwintering adults
+move from the shelter plants back to stone fruit trees
+(primary hosts) for oviposition (Thébaud et al., 2009). The insects of the new generation feed on the primary
+hosts until the beginning of July when they leave the
+stone fruits as adults to move to overwintering hosts. Studies by Carraro et al. (2001, 2004b) have shown that
+both springtime and overwintered adults were able to
+transmit the ESFY agent to healthy plants, and that the
+re-immigrant adults transmitted the winter-retained
+phytoplasma that had been acquired the previous year. In spring, 8.6% of overwintered adults proved to be in-
+fested by the ESFY agent and were highly infectious. A
+similar percentage of springtime adults proved to be
+phytoplasma-positive but showed a transmission effi-
+ciency lower than that of the overwintered adults. The
+authors concluded that most insects of the new genera-
+tion, although having acquired the phytoplasma from
+the primary host, could not complete the latency on
+them. In experimental transmission trials, a minimum
+acquisition access period (AAP) between 2 and 4 days,
+a minimum latent period of 2-3 weeks and a minimum
+inoculation period of 1-2 days, could be defined. It also
+was shown that the psyllid transmitted the pathogen in
+a persistent manner. In Germany, studies performed by
+Jarausch et al. (2007a, 2007b, 2008) revealed that in
+spring 2-3% of the field-collected overwintered adults
+were infested by ‘Ca. P. prunorum’. Also, in experimen-
+tal transmission trials the vector capacity of both over-
+wintered and springtime adults proved to be lower than
+that described by Carraro et al. (2001, 2004a). Similar
+low infestation and transmission rates were recorded in
+France by Jarausch et al. (2001b) and Thébaud et al. (2008). The latter found that in transmissi
+0.5% of the sampled re-immigrants were infectious
+whereas springtime adults of the new generation reared
+on infected plants showed a transmission efficiency of
+0.6%. Recent work by Thébaud et al. (2009) has shown
+that the ESFY agent multiplied in its vector after acqui-
+sition by the emerging generation also during overwin-
+tering, therefore it is transmitted in a persistent-prop-
+agative manner. The full acquisition-latency-inoculation
+sequence could be accomplished only by a few spring-
+time adults before migrating from Prunus spp. to
+conifers. In contrast, most new adults born on infected
+plants reached their maximum phytoplasma titer only
+after migrating to conifers in mountainous areas and
+that, after a latency of eight months, when migrated
+
+ 
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+back to Prunus spp., had a very high transmission effi-
+ciency (60%). Thus, secondary spread of the ESFY
+agent during the growing season appeared to be mar-
+ginal in comparison to primary infections which origi-
+nate from outside a given orchard. Individuals of C. pruni which were naturally infested
+by the ESFY agent as revealed by PCR assays, and for
+which no transmission data are available, have been
+found in several European countries like Italy (Carraro
+et al., 1998a, 2001; Pollini et al., 2004; Ferretti et al.,
+2009), France (Jarausch et al., 2001b; Yvon et al., 2004,
+2009), Spain (Lavifia et al., 2004), Czech Republic (Fi-
+alova et al., 2004, 2007), Germany (Jarausch et al.,
+2007a, 2007b) and Bosnia and Herzegovina (Deli¢ et
+al., 2008). A vertical (= transovarial) transmission of the
+ESFY agent by C. pruni was not observed by Carraro et
+al. (1998a). However, Tedeschi et al. (2006) found indi-
+cations for a possible transovarial transmission of ‘Ca. P.
+prunorum’ by C. pruni. In this work, different develop-
+mental stages of the progeny of infested C. pruni fe-
+males were examined by PCR technology. ‘Ca. P. pruno-
+rum’ could be detected in eggs, nymphs and newly
+emerged adults. Also, in transmission experiments using
+nymphs and newly emerged adults originating from in-
+fested females, successful transmission of the ESFY
+agent to healthy plum plants was achieved in one case. Poggi Pollini et al. (2009), were also able to detect the
+ESFY pathogen in some eggs of C. pruni, by using the
+highly sensitive real-time PCR assays. Wild Prunus spp. play an important role in the epi-
+demiology of ‘Ca. P. prunorum’. Several studies in dif-
+ferent European countries have shown that C. pruni
+prefers wild Prunus spp. as main host plants (Carraro et
+al., 2002; Deli¢ et al., 2008; Fialova et al., 2004, 2007;
+Jarausch et al., 2001a, 2001b, 2008; Labonne and Li-
+chou, 2004; Lavifia et al., 2004; Pollini et al., 2004;
+Ramel and Gugerli, 2004). During these studies many
+cultivated and wild Prunus spp. have been monitored
+for the presence of both the ESFY agent and the insect
+vector. Among the cultivated taxa, P. armeniaca, P. persi-
+ca and P. dulcis were the most affected plants by ‘Ca. P.
+prunorum’ but with generally low populations of the
+vector. In contrast, the highest vector densities were
+mainly recorded for wild Prunus spp. such as P. spinosa,
+P. cerasifera, P. domestica and P. salicina. Interestingly, P.
+spinosa and P. cerasifera which acted as reservoirs for
+the pathogen and the vector rarely showed typical
+symptoms (Carraro et al., 2002; Jarausch et al., 2008). Carraro et al. (2004a) investigated the susceptibility of
+12 wild and cultivated Prunus spp. to ‘Ca. P. prunorum’
+as well as their capability to host the vector. They found
+that P. armeniaca, P. cerasifera, P. domestica, P. persica, P.
+salicina and P. spinosa can be considered as common
+and natural hosts of ‘Ca. P. prunorum’, P. avium and P.
+mahaleb can be considered as non-common natural
+
+Marcone et al. 27
+
+hosts of the agent, P Jaurocerasus and P. padus can be
+considered as experimental hosts of the phytoplasma
+and P. dulcis and P. tormentosa can be considered as po-
+tential common and natural hosts. These findings indi-
+cate the epidemiological relevance of some wild Prunus
+genotypes which allow to both the ESFY agent and the
+insect vector to complete the cycle regardless of the
+presence of cultivated stone fruit trees. BIOLOGICAL CHARACTERIZATION
+OF DIFFERENT STRAINS
+
+Strain differences and strain interference. ‘Ca. P.
+prunorum’ has been shown to exist as several strains,
+each varying in virulence and the ability to induce spe-
+cific symptoms. Dosba et al. (1991) found differences in
+virulence when several French strains of ‘Ca. P. pruno-
+rum’ were characterized pathologically by graft-inocula-
+tion to various Prunus genotypes. Also, some strains of
+the ESFY pathogen are known to induce off-season
+growth and premature bud break in a given rootstock-
+scion combination while other strains do not (Lorenz et
+al., 1994; Seemiiller and Foster, 1995). ESFY-affected
+peach trees with symptoms which were very similar to
+those described for PYLR in California, have been ob-
+served in southern Italy (Marcone et al., 1996a). The
+most characteristic symptom of the affected trees is a
+pronounced enlargement of midribs and major lateral
+veins. Infection of peach by the ESFY agent is known to
+result sometimes in swollen veins whose occurrence and
+intensity may vary from year to year and with cultivars. However, it has never been observed in other areas in
+Europe at the same severity as in southern Italy. Al-
+though the cause for the pronounced symptom expres-
+sion is not clear, it might be due to a specific strain or
+pathotype (Marcone et al., 1996a). In France, during a 8-year survey of ESFY-infested
+apricot orchards in the Pyréneés-Orientales, among the
+diseased apricot trees, some trees were found to be little
+affected and never declined. From the latter trees, a
+strain which clearly differed from the more aggressive
+strains on the basis of symptoms induced in peach GF
+305 seedling, following graft-inoculation experiments,
+was identified. This strain was designed as peach vein
+clearing (PVC) due to the leaf vein-clearing symptoms
+induced in peach GF 305 seedlings and subsequently
+was molecularly identified as ‘Ca. P. prunorum’ (Cor-
+naggia et al., 1995; Danet et al., 2007, 2008). Evidence
+that variation in symptom expression in a given plant
+host may be due to the occurrence of different strains
+also stems from Gentit et al. (1998). These authors used
+differences in symptomatology in peach GF 305 after
+graft-inoculation to distinguish ‘Ca. P. prunorum’
+strains from various Prunus genotypes from each other
+and from PVC. A severe strains of the X-disease phyto-
+
+28  ‘Candidatus Phytoplasma prunorum’
+
+plasma which infects peach in North America could be
+distinguished from the ‘Ca. P. prunorum’ strains as well. In Germany, work by Kison and Seemiiller (2001)
+has shown that twenty strains of the ‘Ca. P. prunorum’
+greatly differed in virulence when examined by graft-in-
+oculation of trees on peach (Rubira, Rutgers Red Leaf,
+Montclar, GF 305), peach hybrid GF 677 and P. ‘Mari-
+anna’ GF 8/1 rootstocks. While some strains were near-
+ly avirulent or weakly virulent and induced only mild
+foliar symptoms and slightly reduced vigor but no mor-
+tality, others were highly virulent and caused severe
+symptoms and a high mortality rate of affected trees. The scions were often more severely affected than the
+rootstocks. Also, severe strains caused distinctly more
+phloem necrosis than mild strains. Virulence often de-
+pended on the pathogen-scion combination and was in
+several cases most severe when a strain was maintained
+in or grafted to its original host which was grown as
+scion. However, in some instances the origin of the
+strain and the kind of scion were not crucial for strain
+virulence, as trees on peach rootstocks were severely af-
+fected when grafted with strains from sources other
+than peach. Furthermore, strains showing pathological
+differences were indistinguishable with techniques for
+routine phytoplasma differentiation and characteriza-
+tion such as sequence and RFLP analysis of PCR-ampli-
+fied rDNA as well as Southern blot hybridization using
+probes suitable for differentiation of the fruit tree phy-
+toplasmas of the AP group (Kison and Seemiiller, 2001). Recent work by Marcone et al. (2009) using sequence
+analyses of less-conserved, non-ribosomal genes has re-
+vealed that genetic variability occurred among the
+above-mentioned strains within some genes. However,
+the genetic differences observed are neither suitable
+markers for strain differentiation nor linked to patho-
+logical traits. Differences in virulence were also identified among
+‘Ca. P. prunorum’ strains infecting apricot trees in an
+orchard located in northeastern Italy in which infected
+trees and symptom development under natural infection
+conditions have been monitored since 1990 (Loi et al.,
+2008; Ermacora et al., 2009). Among severely affected
+trees, non-symptomatic infected trees and trees which
+showed a complete disappearance of symptoms while
+being ‘Ca. P. prunorum’-positive (recovered trees), were
+observed. Healthy apricots were graft-inoculated with
+scion wood from these three kinds of inocula and moni-
+tored for disease development over a 6-year period. The
+trees inoculated with symptomatic scions developed se-
+vere symptoms and these strains were accordingly clas-
+sified as hypervirulent strains whereas trees inoculated
+with non-symptomatic scions remained non-sympto-
+matic and these strains were thus regarded as hypoviru-
+lent strains. Also, transmission rates in graft-inoculation
+experiments were higher for hypervirulent strains than
+for hypovirulent strains. By quantitative real-time PCR
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+assays, the phytoplasma concentration in trees infected
+by hypovirulent strains proved to be lower than in trees
+infected by hypervirulent strains (Loi et al., 2008; Erma-
+cora et al., 2009). Hypovirulent strains of ‘Ca. P. prunorum’ have also
+been identified in recovered apricot trees in France
+(Morvan et al., 1986, 1991; Castelain et al., 1997). Healthy apricot trees inoculated with scions from recoy-
+ered trees and grown under high infection pressure con-
+ditions developed no or only mild symptoms while non-
+inoculated healthy trees became severely diseased due
+to natural infection. Thus, recovered trees were harbor-
+ing avirulent or low-virulent strains (protectant strains)
+which protect the plant from subsequent infection by
+virulent (severe) strains. As mentioned above, some of
+these strains along with PVC are distinguishable from
+severe strains of ‘Ca. P. prunorum’ on the basis of
+branching patterns using phylogenetic analysis of aceF
+sequences (Danet ef al., 2007, 2008). It is conceivable
+that strain interference (or cross protection) play a key
+role in the recovery phenomenon in which protectant
+strains may suppress severe strains. Interference be-
+tween two strains of the ‘Ca. P. prunorum’ has also been
+reported by Cornaggia et al. (1995). When peach GF
+305 seedlings were graft-inoculated first with the severe
+ACLR strain and then with the low-avirulent PVC
+strain, the inoculated plants developed mainly leaf vein-
+clearing symptoms, indicative of PVC strain infections. However, in plants inoculated first with the PVC strain
+and then challenged by the ACLR strain, mild symp-
+toms of the first strain developed. Plants inoculated
+with ACLR strain alone, died within four months. The
+results indicated a cross protection reaction. Interfer-
+ence between strains of the same taxon is also known
+for other phytoplasma-plant host combinations (Freitag,
+1964; Sinclair and Griffiths, 2000). MANAGEMENTS APPROACHES
+
+Like other phytoplasmas, direct protection of trees
+from ‘Ca. P. prunorum’ cannot be achieved by chemical
+control measures. However, the incidence of ESFY
+agent can be reduced significantly if proper attention is
+given to several other control measures. These include
+mainly the use of healthy planting material, effective
+control of the insect vector, removal of diseased trees
+and orchard management. Furthermore, data on experi-
+mental biological control by cross protection are also
+available. The most promising approach to control ES-
+FY agent would be through the use of resistant plants. Healthy planting material. The use of certified
+pathogen-free trees is recommended for establishing
+new orchards. Strategies to screen stone fruit crops for
+graft-transmissible agents including phytoplasmas, have
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+advanced substantially over the past decade (Rowhani et
+al., 2005). As ‘Ca. P. prunorum’ persists in the stem dur-
+ing winter it can also be transmitted by infected dor-
+mant bud wood (Seemiiller et al., 1998c). This has great
+implications for epidemiological and quarantine pur-
+poses. In the case of no persistence such as for ‘Ca. P.
+mali’ and ‘Ca. P. pyri’, dormant scion wood can be
+grafted and shipped with no risk of pathogen transmis-
+sion and spread. If the pathogen persists, dormant scion
+wood should be treated like bud wood during the grow-
+ing season. Because nearly all stone fruit plants are pro-
+duced by vegetative propagation, ESFY pathogen
+spread by latently infected, symptomless planting mate-
+rial is a great risk. Nowadays, nuclear stocks for root-
+stocks and scion wood have to be tested regularly with a
+highly sensitive and specific PCR procedure to ensure
+that they are free from infections. The propagation ma-
+terial in the nursery has then to be protected from natu-
+ral infections by vector control. In vitro thermotherapy and meristem tip culture
+techniques have been used for eradication of ‘Ca. P.
+prunorum’ infections in diseased Prunus plants (Laimer,
+2003; Laimer and Bertaccini, 2008). Furthermore,
+cryotherapy of shoot tips which is known as a newly
+pathogen eradication method, has been successfully ap-
+plied to eliminate several graft-transmissible pathogens
+including phytoplasmas from crop plants belonging to
+six families. Although this method has not yet extended
+to ESFY-infected Prunus genotypes, it has the potential
+to replace more traditional methods like meristem cul-
+ture for production of healthy planting material (Wang
+et al., 2009). Vector control. As overwintering as well as spring-
+time generation of the vector C. pruni may transmit the
+pathogen, vector control has to start in early spring with
+insecticide treatments directed against the re-immigrant
+adults which are highly infectious (Carraro et al., 1998a,
+2001). A second treatment at the period of egg deposi-
+tion should prevent the development of a new genera-
+tion in the orchard. Another spray program may focus
+on the control of the developing new generation as the
+new generation is potentially infective when born on
+diseased trees and is able to transmit the pathogen when
+leaving the primary hosts. However, insecticide applica-
+tion might not be possible during blossom and has to be
+selective in late spring and summer in order to minimize
+damage to beneficial insects. Furthermore, insecticides
+efficient for the control of psyllids in stone fruits have
+still to be evaluated and/or are not authorized in every
+country. Early detection and uprooting of infected trees
+is of paramount importance to reduce the inoculum
+sources and the further spread of the pathogen. In addi-
+tion, wild Prunus species such as P. spinosa, P. cerasifera
+and P. domestica present a further risk for the disease
+spread. They may harbor the pathogen without obvious
+
+Marcone etal. 29
+
+symptoms and are known to be preferred hosts of the
+psyllid C. pruni (Carraro et al., 2002). Therefore, wild
+Prunus species present within or around ESFY-infested
+orchards should be carefully monitored and removed if
+they test phytoplasma-positive. Orchard management. Another important control
+measure to slow down the disease spread can be appro-
+priate orchard management. Most of the commonly
+used rootstock genotypes based on P. domestica, P.
+cerasifera or P. salicina tend to produce more or less im-
+portant rootstock suckers. However, these young devel-
+oping suckers are the preferred host plants of C. pruni
+(Labonne and Lichou, 2004). Much higher psyllid pop-
+ulations have been found on the suckers than on the
+scion cultivar. A consequent elimination of the root-
+stock suckers before the migration period of C. pruni is
+therefore strongly recommended (Labonne and Lichou,
+2004). Resistance. Since ‘Ca. P. prunorum’ is able to over-
+winter in the above-ground parts of the trees, resistance
+of both rootstock and scion cultivars is required to pre-
+vent damage by the disease. Also, as rootstocks signifi-
+cantly affect the response of grafted trees to ‘Ca. P.
+prunorum’ infections, the choice of a suitable rootstock
+may prolong productivity of infected trees. In a previ-
+ous work, many established and experimental root-
+stocks and scion cultivars were examined by graft-inoc-
+ulation, PCR assays and DAPI fluorescence tests to
+identify resistance in stone fruits. For inoculation, sever-
+al differently virulent ‘Ca. P. prunorum’ strains were
+used (Kison and Seemiiller, 2001). Both rootstocks and
+scion cultivars showed considerable differences in their
+response to ‘Ca. P. prunorum’ infections. However, sat-
+isfactory ESFY resistance could not be detected. Only
+trees on P. domestica stocks Achermann’s, Brompton
+and P 2175 and P. cerasifera stock Myrabi were litte af-
+fected. Slightly more damage occurred in trees on root-
+stocks GF 677, GF 8/1, and P. insititia stocks St Julien
+A and St Julien GF 655/2. The remaining tested geno-
+types including Ishtara, Myrobalan, peach and apricot
+rootstocks were found moderately to highly susceptible
+and, thus, cannot be recommended for commercial
+growing (Kison and Seemiiller, 2001). Also, the scions
+were often more severely affected than the rootstocks. An interesting level of resistance has been observed in
+several hybrids and X-ray mutants of Reine Claude cul-
+tivars (Jarausch et al., 2000b). Cross protection with avirulent, or weakly virulent
+strains. Control of ESFY has been attempted by cross
+protection in France (Morvan et al., 1986, 1991; Caste-
+lain et al., 1997). The cross protection effect among ‘Ca. P. prunorum’ strains has been observed over 20 years,
+indicating therefore a stable establishment of the causal
+
+30 ‘Candidatus Phytoplasma prunorum’
+
+agent. However, information on a detailed molecular
+characterization, mode of action, insect vector transmis-
+sibility, and safety aspects of protectant strains is still
+lacking. Also, it is largely unknown whether protectant
+strains identified in apricot trees in France show cross
+protection efficiency either on other stone fruit species
+or against severe strains occurring in other geographic
+areas of Europe. CONCLUDING REMARKS
+
+The wealth of molecular and epidemiological data
+available highlights the unique properties of ‘Ca. P.
+prunorum’, which is relatively homogeneous genetically
+although it infects a range of different Prunus species. Although ‘Ca. P. prunorum’ infections have been de-
+tected in other plant species than stone fruits, the rele-
+vance of the occurrence of ESFY agent in other plants
+is not clear. Its detection is mainly based on the highly
+sensitive nested PCR assays with no data from patholog-
+ical studies. Therefore, ‘Ca. P. prunorum’ appears to be
+a highly Prunus-specific pathogen. Also, it is transmitted
+by only one vector, C. pruni, and all attempts to find
+further vector species failed (J.L. Danet and W. Ja-
+rausch, unpublished information). Increasing amount of
+reports on the occurrence of ‘Ca. P. prunorum’ in Eu-
+rope and neighbouring Mediterranean regions is a clear
+evidence for a dynamic spread of the pathogen but also
+for an increased alertness of growers and advisors for
+this economically damaging agent. The relatively genetic
+homogeneity and a high plant host and insect vector
+specificity rise interesting questions about the evolution
+of the causal agent and the disease. The most suscepti-
+ble Prunus genotypes originate from Asia while tolerant
+ones are native to Europe. Tolerance or resistance to
+‘Ca. P. prunorum’ would be expected in regions where
+the pathogen and its plant hosts have co-evolved, while
+lack of tolerance or resistance could indicate recent in-
+troduction of either the pathogen or the host. Also, the
+vector C. pruni is a European species with limited
+spread in adjacent Asian countries. Thus, it appears that
+the distribution of ‘Ca P. prunorum’ is tightly linked to
+the distribution of its vector and that the economic inci-
+dence of ESFY has raised dramatically with the intro-
+duction of highly susceptible genotypes into Europe. Ongoing phylogeographic studies on the ESFY agent
+and its vector will shed light into the evolution of the
+disease in near future. Recent data indicating a
+monophasic spread of ESFY offers new insights into the
+efficacity of vector control strategies and the risk assess-
+ment and management (Thébaud et al., 2009). Despite
+its apparent genetic homogeneity, several strains of ‘Ca. P. prunorum’ with varying degrees of virulence have
+been described. Although preliminary attempts to ex-
+ploit avirulent strains in cross protection strategies have
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+been made in restricted areas where these strains were
+discovered, new research is needed to develop cross
+protection procedures as an efficient, safe and environ-
+ment-friendly tool to control ESFY on larger scale. This
+research can now be addressed since molecular tools to
+characterize protectant strains and elucidate their mode
+of action, are available. Natural resistance to ‘Ca. P.
+prunorum’ is still poorly understood and needs further
+investigations. The role played by the rootstocks for the
+spread of the disease has not been taken into account
+sufficiently. Resistant rootstocks may limit the incidence
+of the disease in the scion cultivar whereas rootstock
+suckers, especially in susceptible genotypes, may be im-
+portant entry ports for ‘Ca. P. prunorum’ as they are at-
+tractive for its vector. In contrast to progress made in understanding mo-
+lecular detection and characterization, taxonomy, phy-
+logeny, and epidemiological aspects of ‘Ca. P. pruno-
+rum’, very little is known about genes mediating patho-
+genicity or virulence. A number of putative pathogenici-
+ty factors are known from the complete genome se-
+quences of the few phytoplasmas which have been de-
+termined so far (Hogenhout et al., 2008; Kube et al.,
+2008; Tran-Nguyen et al., 2008). However, sequence
+comparisons of the entire genome from a virulent and
+an avirulent strain of ‘Ca. P. prunorum’, would provide
+insights into the largely unknown mechanisms involved
+in pathogenicity of this Prunus-infecting agent. REFERENCES
+
+Ahrens U., Seemiiller E., 1992. Detection of DNA of plant
+pathogenic mycoplasmalike organisms by a polymerase
+chain reaction that amplifies a sequence of the 16S rRNA
+gene. Phytopathology 82: 828-832. Ahrens U., Lorenz K.-H., Seemiiller E., 1993. Genetic diversi-
+ty among mycoplasmalike organisms associated with stone
+fruit diseases. Molecular Plant-Microbe Interactions 6: 686-
+691. Audergon J.M., Castelain C., Morvan G., Chastellitre M.G.,
+1991. Behaviour of 150 apricot varieties after apricot
+chlorotic leaf roll inoculation. Acta Horticulturae 293: 593-
+598. Baric S., Dalla-Via J., 2004. A new approach to apple prolifer-
+ation detection: a highly sensitive real-time PCR assay. Journal of Microbiological Methods 57: 135-145. Carginale V., Maria G., Capasso C., Ionata E., La Cara F,, Pa-
+store M., Bertaccini A., Capasso A., 2004. Identification of
+genes expressed in response to phytoplasma infection in
+leaves of Prunus armeniaca by messenger RNA differential
+display. Gene 332: 29-34. Carraro L., Osler R., Loi N., Ermacora P., Refatti E., 1998a. Transmission of European stone fruit yellows phytoplasma
+by Cacopsylla pruni. Journal of Plant Pathology 80: 233-
+239. Carraro L., Loi N., Ermacora P., Osler R., 1998b. High toler-
+
+  
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+ance of European plum varieties to plum leptonecrosis. European Journal of Plant Pathology 104: 141-145. Carraro L., Loi N., Ermacora P, 2001. Transmission charac-
+teristics of the European stone fruit yellows phytoplasma
+and its vector Cacopsylla pruni, European Journal of Plant
+Pathology 107: 695-700. Carraro L., Ferrini F,, Ermacora P., Loi N., 2002. Role of wild
+Prunus species in the epidemiology of European stone fruit
+yellows. Plant Pathology 51: 513-517. Carraro L., Ferrini R, Ermacora P., Loi N., 2004a, Transmis-
+sion of European stone fruit yellows phytoplasma to
+Prunus species by using vector and graft transmission. Acta
+Horticulturae 657: 449-453. Carraro L., Ferrini E, Labonne G., Ermacora P., Loi N.,
+2004b. Seasonal infectivity of Cacopsylla pruni, the vector
+of European stone fruit yellows phytoplasma. Annals of
+Applied Biology 144: 191-195. Castelain C., Chastelligre M.-G., Jullian J-P., Morvan G.,
+Lemaire J.-M., 1997. La prémunition contre 'enroulement
+chlorotique de labricotier, Bilan de dix annés d’observa-
+tions sur huit vergers. Phytoma 493: 39-44. Cornaggia D., Gentit P,, Boyé R., Desvignes J.C., 1995. A new
+phytoplasma disease of apricot trees: the peach vein clear-
+ing. Acta Horticulturae 386: 448-453. Danet J.-L. Bonnet P,, Jarausch W., Carraro L., Skoric D.,
+Labonne G., Foissac X., 2007. Imp and secY, two new
+markers for MLST (multilocus sequence typing) in the
+16SrX phytoplasma taxonomic group. Bulletin of Insectol-
+ogy 60: 339-340. Danet J.-L., Bahriz H., Cimerman A., Foissac X., 2008. New
+molecular typing tools to monitor fruit tree phytoplasma
+variability in the 16SrX taxonomic group. Acta Horticul-
+turae 781: 343-349. Davies D.L., Adams A.N., 2000. European stone fruit yellows
+phytoplasmas associated with a decline disease of apricot
+in southern England. Plant Pathology 49: 635-639. Deli¢ D., Martini M., Ermacora P., Carraro L., Myrta A.,
+
+2008. Identification of fruit tree phytoplasmas and their vec-
+
+tors in Bosnia and Herzegovina. Acta Horticulturae 781: 429-
+
+434,
+
+Dosba F, Lansac M., Mazy K., Garnier M., Eyquard J.P.,
+1991. Incidence of different diseases associated with my-
+coplasmalike organisms in different species of Prunus. Acta
+Horticulturae 283: 311-320. Duduk B., Botti S., Ivanovic M., Krsti¢ B., Duki¢ N., Bertac-
+cini A., 2004. Identification of phytoplasmas associated
+with grapevine yellows in Serbia. Journal of Phytopathology
+152: 575-579. Ermacora P., Loi N., Ferrini F, Loschi A., Martini M., Osler R.,
+Carraro L., 2009. Hypo and hyper-virulence in apricot trees
+infected by European stone fruit yellows. Proceedings of the
+21* International Conference on Virus and other Graft Trans-
+missible Diseases of Fruit Crops, Neustadt 2009: 48. Ferretti L., Pasquini G., Albanese G., Barba M., 2007. Molec-
+ular investigation on the genetic polymorphism of ‘Candi-
+datus Phytoplasma prunorum’ detected in plum and apri-
+cot fruit trees. Bulletin of Insectology 60: 337-338. Ferretti L., Gentili A., Poggi Pollini C., Ermacora P., Pasquini
+G., 2008. Caratterizzazione molecolare di isolati di ‘Candi-
+datus Phytoplasma prunorum’ identificati in pesco, susino
+
+ 
+
+ 
+
+ 
+
+     
+
+Marcone etal. 31
+
+e albicocco. Petria 18: 178-181. Ferretti L., Gentili A., Poggi Pollini C., Ermacora P,, Pasquini
+G., 2009. Individuation of Candidatus Phytoplasma pruno-
+rum type a and type b in Cacopsylla pruni individuals. Pro-
+ceedings of the 21 International Conference on Virus and
+other Graft Transmissible Diseases of fruit Crops, Neustadt
+2009: 82. Fialova R., Navratil M., Valova P., Lauterer P,, Kocourek F,
+Poncarova-Vorickova Z., 2004. Epidemiology of European
+stone fruit yellows phytoplasma in the Czech Republic. Ac-
+ta Horticulturae 657: 483-487. Fialova R., Navratil M., Lauterer P,, Navrkalova V., 2007. ‘Candidatus Phytoplasma prunorum’: the phytoplasma in-
+fection of Cacopsylla pruni from apricot orchards and from
+overwintering habitats in Moravia (Czech Republic). Bul-
+etin of Insectology 60: 183-184. Freitag J.H., 1964. Interaction and mutual suppression among
+three strains of aster yellows virus. Virology 24: 401-413. Gentit P,, Cornaggia D., Desvignes J.C., 1998. Identification
+and comparison of different Prunus phytoplasma diseases
+by indexing on GF305 peach seedlings in the greenhouse. Acta Horticulturae 472: 723-729. Hadidi A., Czosnek H., Barba M., 2004. DNA microarrays
+and their potential applications for the detection of plant
+viruses, viroids, and phytoplasmas. Journal of Plant Pathol-
+ogy 86: 97-104. Hogenhout $.A., Oshima K., Ammar E.-D., Kakizawa S.,
+Kingdom H.N., Namba S., 2008. Phytoplasmas: bacteria
+that manipulate plants and insects. Molecular Plant Pathol-
+ogy 9: 403-423,
+
+IRPCM Phytoplasma/Spiroplasma Working Team — Phyto-
+plasma taxonomy group, 2004. ‘Candidatus Phytoplasma’,
+a taxon for the wall-less, non-helical prokaryotes that colo-
+nize plant phloem and insects. International Journal of Sys-
+tematic and Evolutionary Microbiology 54: 1243-1255. Jarausch B., Mithlenz I, Fuchs A., Lampe I. Harzer U., Ja-
+rausch W., 2007a. Untersuchungen zur Europiischen
+Steinobstvergilbung (ESFY) in Deutschland. Gesunde
+Pflanzen 59: 183-192. Jarausch B., Fuchs A., Mithlenz I., Lampe I, Harzer U., Ja-
+rausch W., 2007b. Research on European stone fruit yel-
+lows (ESFY) in Germany. Bulletin of Insectology 60: 389-
+390. Jarausch B., Miihlenz I. Beck A., Lampe I, Harzer U., Ja-
+rausch W., 2008. Epidemiology of European stone fruit
+yellows in Germany. Acta Horticulturae 781: 417-422. Jarausch W., Saillard C., Dosba F, Bove J.M., 1994a. Differ-
+entiation of mycoplasmalike organisms (MLOs) in Euro-
+pean fruit trees by PCR using specific primers derived
+from the sequence of chromosomal fragment of the apple
+proliferation MLO. Applied and Environmental Microbiol-
+ogy 60: 2916-2923. Jarausch W., Lansac M., Dosba F, 1994b. Micropropagation
+for maintenance of mycoplasma-like organisms in infected
+Prunus mariana GF 8-1. Acta Horticulturae 359: 169-176. Jarausch W., Lansac M., Saillard C., Broquaire J.M., Dosba F,
+1998a, PCR assay for specific detection of European stone
+fruit yellows phytoplasmas and its use for epidemiological
+studies in France. European Journal of Plant Pathology 104:
+17-27. Jarausch W., Brison M., Gabova R., Lansac M., Pierronnet A.,
+
+32 ‘Candidatus Phytoplasma prunorum’
+
+Decroocq V., Helliot B., de Boucaud M., 1998b. Prunus-
+and Malus-infecting phytoplasmas are not eliminated from
+in vitro shoot cultures by passage through axillary bud cul-
+ture. Proceedings of the IX International Congress on Plant
+Tissue and Cell Culture - Plant Biotechnology and In vitro
+Culture, Jerusalem 1998: 14-19. Jarausch W., Lansac M., Dosba F, 1999a. Seasonal coloniza-
+tion pattern of European stone fruit yellows phytoplasmas
+in different Prunus species detected by specific PCR. Jour-
+nal of Phytopathology 147: 47-54. Jarausch W., Eyquard J.P., Mazy K., Lansac M., Dosba F,
+1999b. High level of resistance of sweet cherry (Prunus avi-
+um L.) towards European stone fruit yellows phytoplas-
+mas. Advances in Horticultural Science 13: 108-112. Jarausch W., Lansac M., Bliot C., Dosba F,, 1999c. Phytoplas-
+ma transmission by in vitro graft inoculation as a basis for
+a preliminary screening method for resistance in fruit trees. Plant Pathology 48: 283-287. Jarausch W., Saillard C., Broquaire J.M., Garnier M., Dosba
+F, 2000a. PCR-RFLP and sequence analysis of a non-ribo-
+somal fragment for genetic characterization of European
+stone fruit yellows phytoplasmas infecting various Prunus
+species. Molecular and Cellular Probes 14: 171-179. Jarausch W., Eyquard J.P., Lansac M., Mohns M., Dosba F,,
+2000b. Susceptibility and tolerance of new French Prunus
+domestica cultivars to European stone fruit yellows phyto-
+plasmas. Journal of Phytopathology 148: 489-493. Jarausch W., Jarausch-Wehrheim B., Danet J.L., Broquaire
+J.M., Dosba E, Saillard C., Garnier M., 2001a. Detection
+and identification of European stone fruit yellows and oth-
+er phytoplasmas in wild plants in the surroundings of apri-
+cot chlorotic leaf roll-affected orchards in southern France. European Journal of Plant Pathology 107: 209-217. Jarausch W., Danet J.L., Labonne G., Dosba FE, Broquaire
+M., Saillard C., Garnier M., 2001b. Mapping the spread
+of apricot chlorotic leaf roll (ACLR) in southern France
+and implication of Cacopsylla pruni as a vector of Euro-
+pean stone fruit yellows (ESFY) phytoplasmas. Plant
+Pathology 50: 782-790. Jarausch W., Fuchs A., Jarausch B., 2009. Establishment of a
+quantitative real-time PCR assay for the specific quantifica-
+tion of Candidatus Phytoplasma prunorum in plants and
+insects. Proceedings of the 21* International Conference on
+Virus and other Graft Transmissible Diseases of Fruit Crops,
+Neustadt 2009: 80-81. Kison H., Seemiiller E., 2001. Differences in strain virulence
+of the European stone fruit yellows phytoplasma and sus-
+ceptibility of stone fruit trees on various rootstocks to this
+pathogen. Journal of Phytopathology 149: 533-541. Kison H., Kirkpatrick B.C., Seemiiller E., 1997. Genetic com-
+parison of the peach yellow leaf roll agent with European
+fruit tree phytoplasmas of the apple proliferation group. Plant Pathology 46: 538-544. Kube M., Schneider B., Kuhl H., Dandekar T., Heitmann K.,
+Migdoll A.M., Reinhardt R., Seemiiller E., 2008. The linear
+chromosome of the plant-pathogenic mycoplasma ‘Candi-
+datus Phytoplasma mali’. BMC Genomics 9: 306. Labonne G., Lichou J., 2004. Data on the life cycle of Cacop-
+sylla pruni, Psyllidae vector of European stone fruit yellows
+(ESFY) phytoplasma, in France. Acta Horticulturae 657:
+465-470. Journal of Plant Pathology (2010), 92 (1), 19-34
+
+Laimer M., 2003. Detection and elimination of viruses and
+phytoplasmas from pome and stone fruit trees. Horticultur-
+al Reviews 28: 187-236. Laimer M., Bertaccini A., 2008. European stone fruit yellows. In: Harrison N.A, Rao G.P., Marcone C. (eds. ), Characteri-
+zation, Diagnosis and Management of Phytoplasmas, pp. 73-92, Studium Press, LLC, Houston, Texas, USA. Laimer Da Camara Machado M., Paltrinieri $., Hanzer V.,
+Arthofer W., Strommer $., Martini M., Pondrelli M.,
+Bertaccini A., 2001. Presence of European stone fruit yel-
+lows (ESFY or 16SrX-B) phytoplasmas in apricots in Aus-
+tria, Plant Pathology 50: 130-135. Lauer U., Seemiiller E., 2000. Physical map of the chromo-
+some of the apple proliferation phytoplasma. Journal of
+Bacteriology 182: 1415-1418. Lauterer P,, 1999. Results of investigations on Hemiptera in
+Moravia, made by Moravian Museum (Psylloidea 2). Acta
+Musei Moraviae Scientiae Biologicae 84: 71-151. Lavifia A., Sabaté J., Garcia-Chapa M., Batlle A., Torres E.,
+2004. Occurrence and epidemiology of European stone
+fruit yellows phytoplasma in Spain. Acta Horticulturae 657:
+489-494,
+
+Lederer W., Seemiiller E., 1992. Demonstration of mycoplas-
+mas in Prunus species in Germany, Journal of Phytopatholo-
+gy 134: 89-96. Lee L-M., Davis R.E., Gundersen-Rindal D.E., 2000. Phyto-
+plasma: phytopathogenic mollicutes. Annual Review of Mi-
+crobiology 54: 221-255. Lee I-M., Zhao Y., Davis R.E., Wei W., Martini M., 2007. Prospects of DNA-based systems for differentiation and
+classification of phytoplasmas. Bulletin of Insectology 60
+(2): 239-244,
+
+Liu H-L., Chen C.-C., Lin C.-P., 2007. Detection and identi-
+fication of the phytoplasma associated with pear decline in
+Taiwan. European Journal of Plant Pathology 117: 281-291. Loi N., Carraro L., Musetti R., Pertot I., Osler R., 1995. Dod-
+der transmission of two different MLOs from plum trees af
+fected by “Leptonecrosis”, Acta Horticulturae 386: 465-470. Loi N., Ferrini F, Loschi A., Martini M., Carraro L., 2008. Fenomeni di recovery in albicocchi infetti da European
+stone fruit yellows. Petria 18: 377-379. Lorenz K.-H., Dosba F, Poggi Pollini C., Llécer G.,
+Seemiiller E., 1994. Phytoplasma diseases of Prunus
+species in Europe are caused by genetically similar organ-
+isms. Zeitschrift fiir Pflanzenkrankheiten und Pflanzen-
+schutz 101: 567-575. Lorenz K.H., Schneider B., Ahrens U., Seemiiller E., 1995. Detection of the apple proliferation and pear decline phy-
+toplasmas by PCR amplification of ribosomal and nonribo-
+somal DNA. Phytopathology 85: 771-776. Maixner M., Ahrens U., Seemiiller E., 1995. Detection of the
+German grapevine yellows (Vergilbungskrankheit) MLO
+in grapevine, alternative hosts and a vector by a specific
+PCR procedure. European Journal of Plant Pathology 101:
+241-250. Marcone C., Seemiiller E., 2001. A chromosome map of the
+European stone fruit yellows phytoplasma. Microbiology
+147; 1213-1221. Marcone C., Ragozzino A., Seemiiller E., 1996a. European
+stone fruit yellows phytoplasma as the cause of peach vein
+
+Journal of Plant Pathology (2010), 92 (1), 19-34
+
+enlargement and other yellows and decline diseases of
+stone fruits in southern Italy. Journal of Phytopathology
+144; 559-564. Marcone C., Ragozzino A., Seemiiller E., 1996b. Association
+of phytoplasmas with the decline of European hazel in
+southern Italy. Plant Pathology 45: 857-863. Marcone C., Hergenhahn F, Ragozzino A., Seemiiller E.,
+1999a, Dodder transmission of pear decline, European
+stone fruit yellows, rubus stunt, picris echioides yellows
+and cotton phyllody phytoplasmas to periwinkle. Journal of
+Phytopathology 147: 187-192. Marcone C., Neimark H., Ragozzino A., Lauer U., Seemiiller
+E,, 1999b. Chromosome sizes of phytoplasmas composing
+major phylogenetic groups and subgroups. Phytopathology
+89: 805-810. Marcone C., Camele I., Lanzieri A., Rana G.L., 2002. Individ-
+uazione dei fitoplasmi del giallume europeo delle drupacee
+e della moria del pero in specie arboree da frutto in Cal-
+abria e Basilicata, Petria 12: 423-425. Marcone C., Gibb K.S,, Streten C., Schneider B., 2004. ‘Can-
+didatus Phytoplasma sparti’, ‘Candidatus Phytoplasma
+rhamni’ and Candidatus Phytoplasma allocasuarinae’, re-
+spectively associated with spartium witches’-broom, buck-
+thorn witches’-broom and allocasuarina yellows diseases. International Journal of Systematic and Evolutionary Micro-
+biology 54: 1025-1029. Marcone C., Schneider B., Seemiiller E., 2009. Comparison of
+European stone fruit yellows phytoplasma strains differing
+in virulence by multi-gene sequence analyses. Proceedings
+of the 21 International Conference on Virus and other
+Graft Transmissible Diseases of fruit Crops, Neustadt 2009:
+47-48. Martini M., Lee L.-M., Bottner K.D., Zhao Y., Botti S., Bertac-
+cini A., Harrison N.A., Carraro L., Marcone C., Khan AJ.,
+Osler R., 2007a. Ribosomal protein gene-based phylogeny
+for finer differentiation and classification of phytoplasmas. International Journal of Systematic and Evolutionary Micro-
+biology 57: 2037-2051. Martini M., Loi N., Ermacora P,, Carraro L., Pastore M.,
+2007b. A real-time PCR method for detection and quan-
+tification of ‘Candidatus Phytoplasma prunorum’ in its nat-
+ural hosts. Bulletin of Insectology 60: 251-252. Martini M., Ferrini F,, Danet J.-L., Ermacora P,, Sertkaya G.,
+Deli¢ D., Loi N., Foissac X., Carraro L., 2009. PCR/RFLP
+based method for molecular characterization of *Candida-
+tus Phytoplasma prunorum’ strains using aceF gene. Pro-
+ceedings of the 21" International Conference on Virus and
+other Graft Transmissible Diseases of Fruit Crops, Neustadt
+2009: 80. Morton A., Davies D.L., Blomquist C.L., Barbara D.J., 2003. Characterization of homologues of the apple proliferation
+immunodominant membrane protein gene from three re-
+lated phytoplasmas. Molecular Plant Pathology 4: 109-114. Morvan G., Arnoux M., Castelain C., 1986. Prospective for
+the control of apricot chlorotic leaf roll a mycoplasma dis-
+ease, by cross protection. Acta Horticulturae 193: 359-366. Morvan G., Castelain C., Chastellitre M.-G., Audergon J.M.,
+1991. An account of the attempts at controlling apricot
+chlorotic leaf roll with cross protection. Acta Horticulturae
+293: 555-561. Musetti R., Sanita di Toppi L., Martini M., Ferrini F, Loschi
+
+Marcone etal. 33
+
+A,, Favali M.A., Osler R., 2005. Hydrogen peroxide local-
+ization and antioxidant status in the recovery of apricot
+plants from European stone fruit yellows. European Jour-
+nal of Plant Pathology 112: 53-61. Navratil M., Vélové P,, Fialové R., Petrova K., Poncarové-
+Vorackova Z., Frénova J., Nebesdrova J., Karesova R.,
+2001. Survey for stone fruit phytoplasmas in the Czech Re-
+public, Acta Horticulturae 550: 377-382. Necas T., Maskova V., Krska B., 2008. The possibility of ES-
+FY phytoplasma transmission: through flowers and seeds. Acta Horticulturae 781: 443-447. Paltrinieri S., Martini M., Stefani E., Fideghelli C., Pondrelli
+M., Bertaccini A., 2001. Phytoplasma infection in peach
+and cherry in Italy. Acta Horticulturae 550: 365-369. Pelludat C., Duffy B., Frey J., 2009. Design and development
+of a DNA microarray for rapid identification of multiple
+European quarantine phytopathogenic bacteria. European
+Journal of Plant Pathology 125: 413-423. Pignatta D., Poggi Pollini C., Giunchedi L., Ratti C., Reggiani
+N., Forno F, Mattedi L., Gobber M., Miorelli P., Ropelato
+E,, 2008. A real-time PCR assay for the detection of Euro-
+pean stone fruit yellows phytoplasma (ESFYP) in plant
+propagation material. Acta Horticulturae 781: 499-504. Poggi Pollini C., Bissani R., Giunchedi L., Vindimian E.,
+1995. Occurrence of phytoplasma infection in European
+plums (Prunus domestica). Journal of Phytopathology 143:
+701-703. Poggi Pollini C., Giunchedi L., Bissani R., 1997. Immunoen-
+zymatic detection of PCR products for the identification of
+phytoplasmas in plants, Journal of Phytopathology 145:
+371-374,
+
+Poggi Pollini C., Bissani R., Giunchedi L., 2001. Occurrence
+of European stone fruit yellows phytoplasma (ESFYP) in-
+fection in peach orchards in Northern-Central Italy, Jour-
+nal of Phytopathology 149: 725-730. Poggi Pollini C., Giunchedi L., Gobber M., Miorelli P., Pignat-
+ta D., Terlizzi F, 2005. Indagini sulla presenza del giallume
+europeo delle drupacee (ESFY) e di altri fitoplasmi in pi-
+ante spontanee in provincia di Trento, Petria 15: 201-202. Poggi Pollini C., Forno F, Franchini $., Gobber M., Lanzoni
+C., Mattedi L., Miorelli P., Profaizer D., Ratti C., 2009. De-
+tection and distribution of European stone fruit yellows in
+apricot cv, Bergeron and epidemiological studies in the
+province of Trento (Italy). Proceedings of the 21% Interna-
+tional Conference on Virus and other Graft Transmissible
+Diseases of Fruit Crops, Neustadt 2009: 79-80. Pollini C.P,, Bissani R., Giunchedi L., Mori N., Dradi D., Visi-
+galli T., 2004, Detection of European stone fruit yellows
+phytoplasma (ESFYP) in Homoptera insects and in wild
+stone fruit trees collected in peach orchards in northern
+Italy, Acta Horticulturae 657: 513-518. Ramel M.E., Gugerli P,, 2004. Epidemiological survey of Eu-
+ropean stone fruit yellows phytoplasma in two orchards in
+western Switzerland. Acta Horticulturae 657: 459-463. Rowhani A., Uyemoto J.K., Golino D.A., Martelli G.P., 2005. Pathogen testing and certification of Vitis and Prunus
+species. Annual Review of Phytopathology 43: 261-278. Schaper U., Seemiiller E., 1984, Recolonization of the stem of
+apple proliferation and pear decline-diseased trees by the
+causal organisms in spring. Zeitschrift fiir Pflanzenkrankheit-
+en und Pflanzenschutz 91: 608-613. 34 ‘Candidatus Phytoplasma prunorum’
+
+Schneider B., Seemiiller E., 2009. Strain differentiation of
+Candidatus Phytoplasma mali by SSCP- and sequence
+analyses of the HFLB gene. Journal of Plant Pathology 91:
+103-112. Seemiiller E., 1976. Investigations to demonstrate mycoplas-
+ma-like organisms in diseased plants by fluorescence mi-
+croscopy. Acta Horticulturae 67: 109-112. Seemiiller E., Foster A., 1995. European stone fruit yellows. In: Ogawa J.M., Zehr ELL, Bird G.W., Ritchie D.F, Uriu
+K,, Uyemoto J.K. (eds.). Compendium of Stone Fruit Dis-
+eases, pp. 59-60. APS Press, St. Paul, MN, USA. Seemiiller E., Schneider B., 2004. ‘Candidatus Phytoplasma
+mali’, ‘Candidatus Phytoplasma pyri’ and ‘Candidatus Phy-
+toplasma prunorum’, the causal agents of apple prolifera-
+tion, pear decline and European stone fruit yellows, re-
+spectively. International Journal of Systematic and Evolu-
+tionary Microbiology 54: 1217-1226. Seemiiller E., Schneider B., 2007. Differences in virulence and
+genomic features of strains of ‘Candidatus Phytoplasma
+mali’, the apple proliferation agent. Phytopathology 97:
+964-970. Seemiiller E., Marcone C., Lauer U., Ragozzino A., Géschl
+M., 1998a. Current status of molecular classification of the
+phytoplasmas. Journal of Plant Pathology 80: 3-26. Seemiiller E., Kison H., Lorenz K.-H., Schneider B., Marcone
+C.,, Smart C.D., Kirkpatrick B.C., 1998b. Detection and
+identification of fruit tree phytoplasmas by PCR amplifica-
+tion of ribosomal and nonribosomal DNA. In: Manceau
+C,, Spak J. (eds.). COST 823 -New technologies to im-
+prove phytodiagnosis. Advances in the detection of plant
+pathogens by polymerase chain reaction, pp. 56-66. Office
+for Official Publications of the European Communities,
+Luxembourg. Seemiiller E., Stolz H., Kison H., 1998c. Persistence of the
+European stone fruit yellows phytoplasma in aerial parts of
+Prunus taxa during the dormant season. Journal of Phy-
+topathology 146: 407-410. Sertkaya G., Martini M., Ermacora P., Musetti R., Osler R.,
+2005. Detection and characterization of phytoplasmas in
+diseased stone fruits and pear by PCR-RFLP analysis in
+Turkey. Phytoparasitica 33: 380-390. Sinclair W.A., Griffiths H.M., 2000. Variation in aggressiveness
+of ash yellows phytoplasmas. Plant Disease 84: 282-288. Smart C.D., Schneider B., Blomquist C.L., Guerra L.J., Harri-
+son N.A., Ahrens U., Lorenz K.-H., Seemiiller E., Kirk-
+patrick B.C., 1996. Phytoplasma-specific PCR primers
+based on sequences of the 168/238 rRNA spacer region. Applied and Environmental Microbiology 62: 2988-2993. Tedeschi R., Ferrato V., Rossi J., Alma A., 2006. Possible phyto-
+plasma transovarial transmission in the psyllids Cacopsylla
+melanoneura and Cacopsylia pruni. Plant Pathology 55: 18-24. Journal of Plant Pathology (2010), 92 (1), 19-34
+
+Thébaud G., Sauvion N., Chadeeuf J., Dufils A., Labonne G.,
+2006. Identifying risk factors for European stone fruit yel-
+lows from a survey. Phytopathology 96: 890-899. Thébaud G., Yvon M., Labonne G., Alary R., 2008. European
+stone fruit yellows: consequences of the life cycle of the
+vector and of the multiplication of the phytoplasma in the
+insect on the epidemiology of the disease. Acta Horticultur-
+ae 781: 423-428. Thébaud G., Yvon M., Alary R., Sauvion N., Labonne G.,
+2009. Efficient transmission of ‘Candidatus Phytoplasma
+prunorum’ is delayed by eight months due to a long latency
+in its host-alternating vector. Phytopathology 99: 265-273. Topchiiska M., Marcone C., Seemiiller E., 2000. Detection of
+pear decline and European stone fruit yellows in Bulgaria. Zeitschrift fiir Pflanzenkrankheiten und Pflanzenschutz 107
+(6): 658-663. Torres E., Bertolini E., Cambra M., Montén C., Martin M.P.,
+2005. Real-time PCR for simultaneous and quantitative de-
+tection of quarantine phytoplasmas from apple prolifera-
+tion (16SrX) group. Molecular and Cellular Probes 19: 334-
+340. Tran-Nguyen L.T.T., Kube M., Schneider B., Reinhardt R.,
+Gibb K.S., 2008. Comparative genome analysis of “Candi-
+datus Phytoplasma australiense” (subgroup tuf-Australia I;
+rp-A) and “Ca. Phytoplasma asteris” strains OY-M and AY-
+WB. Journal of Bacteriology 190: 3979-3991. Varga K., Kélber M., Martini M., Pondrelli M., Ember I.,
+Tékés G., Lazar J., Mikulas J., Szendrey G., Schweigert A.
+Bertaccini A., 2000. Phytoplasma identification in Hungar-
+ian grapevines by two nested-PCR systems. Proceedings of
+the 13'" Meeting of ICVG, Adelaide 2000: 113-115. Wang Q.C., Panis B., Engelmann F., Lambardi M., Valkonen
+L.PT., 2009. Cryotherapy of shoot tips: a technique for
+pathogen eradication to produce healthy planting materials
+and prepare healthy plant genetic resources for cryopreser-
+vation. Annals of Applied Biology 154: 351-363. Weintraub P.G., Beanland L., 2006. Insect vectors of phyto-
+plasmas. Annual Review of Entomology 51: 91-111. Yvon M., Labonne G., Thébaud G., 2004. Survival of Euro-
+pean stone fruit yellows phytoplasma outside fruit crop
+production areas: a case study in southeastern France. Acta
+Horticulturae 657: 477-481. Yvon M., Thébaud G., Alary R., Labonne G., 2009. Specific
+detection and quantification of the phytopathogenic agent
+‘Candidatus Phytoplasma prunorum’. Molecular and Cellu-
+Jar Probes 23: 227-234. Zhao Y., Sun Q., Wei W., Davis R.E., Wu W., Liu Q., 2009. ‘Candidatus Phytoplasma tamaricis’, a novel taxon discov-
+ered in witches’-broom-diseased salt cedar (Tamarix chi-
+nensis Lour.). International Journal of Systematic and Evo-
+Jutionary Microbiology 59: 2496-2504.

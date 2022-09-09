@@ -1,0 +1,496 @@
+1248
+
+ 
+
+Bulgarian Journal of Agricultural Science, 21 (No 6) 2015, 1248-1253
+
+Agricultural Academy
+
+DETECTION OF EUROPEAN FRUIT TREE PHYTOPLASMAS AND
+THEIR INSECT VECTORS IN IMPORTANT FRUIT-GROWING REGIONS
+
+IN BULGARIA
+
+A. ETROPOLSKA'’, W. JARAUSCH", B. JARAUSCH! and G. TRENCHEV? ‘AlPlanta-IPR, RLP AgroScience, D-67435 Neustadt an der WeinstraBe, Germany
+? University of Forestry, Department of Plant Protection, 1756 - Sofia, Bulgaria
+
+Abstract
+
+ETROPOLSKA, A., W. JARAUSCH, B. JARAUSCH and G. TRENCHEV, 2015. Detection of European fruit
+tree phytoplasmas and their insect vectors in important fruit-growing regions in Bulgaria. Bulg. J. Agric. Sci., 21:
+1248-1253
+
+Apple proliferation (AP), caused by ‘Candidatus Phytoplasma mali’, European stone fruit yellows (ESFY), caused by
+‘Candidatus Phytoplasma prunorum’ and Pear decline (PD) caused by ‘Candidatus Phytoplasma pyri’ are one of the most
+important fruit tree diseases in Europe, but their distribution in Bulgaria is not well known, During 2010 — 2013, the presence
+and the spread of the fruit tree phytoplasmas and their vectors were investigated in one of the major fruit tree growing regions
+in Bulgaria. All psyllid species described as vectors of fruit tree phytoplasmas were present in the investigated areas. Phyto-
+plasma infection in plant and psyllid samples was analyzed by universal and specific PCR. A total of 86 plant samples and
+1569 insect samples obtained from I! different sites were tested. As result, all three phytoplasmas were detected in their hosts
+and vectors in five different geographical regions of Bulgaria. This is the first report of ‘Ca. P. mali’ and ‘Ca. P. pyri’ in Sofia
+region as well as of ‘Ca. P. prunorum’ in Sofia and Kjustendil regions. This is also the first report of a ‘Ca. P. pyri’ detection in
+Cacopsylla bidens which might be a further vector of PD. Key words: ‘Candidatus Phytoplasma mali’, ‘Candidatus Phytoplasma prunorum’, ‘Candidatus Phytoplasma pyri’,
+
+apple proliferation, European stone fruit yellows, pear decline, PCR detection, psyllid vectors
+
+Introduction
+
+In recent years, phytoplasma diseases have become one
+of the most important diseases of fruit trees in Bulgaria but
+until now the existence and the spread of fruit tree phytoplas-
+mas and their vectors have not been studied in detail. Apple
+proliferation (AP) is caused by ‘Candidatus Phytoplasma
+mali’, ‘Candidatus Phytoplasma prunorum’ is the agent of
+Apricot chlorotic leafroll mycoplasma (European stone fruit
+yellows — ESFY) and ‘Candidatus Phytoplasma pyri’ is the
+agent of Pear decline (PD) (Seemiiller and Schneider, 2004;
+Jarausch and Jarausch, 2010). Phytoplasmas are cell wall-
+less Gram-positive bacteria of the class Mollicutes, and both
+their cell and genome size are the smallest among bacteria. Phytoplasmas are restricted to the phloem of infected plants
+and are naturally transmitted by phloem-feeding vectors — in
+
+Email: wolfgang .jarausch@agroscience.rlp.de, etropolska@gmx.ch
+
+the case of European fruit tree phytoplasmas psyllids of the
+family Psyllidae, However, phytoplasmas can also be trans-
+mitted through infected propagating material (Bertaccini,
+2007). Because of the high risk of phytoplasma spreading
+on new territories, the three fruit tree phytoplasmas are still
+on the EU and EPPO quarantine lists, and are under spe-
+cial regulations (Council Directive 2000/29/EC; EPPO A2
+list). In Bulgaria, ‘Ca. P. prunorum’ and ‘Ca. P. pyri? have
+been first detected near the town of Plovdiv (Topchiiska et
+al., 2000; Topchiiska and Sakalieva, 2001, 2002). In 1960,
+AP has been reported to occur in Bulgaria by Blattny, Sen
+and Blattny Jun, ref. by Trifonov (1972). In 2012, the first
+summarized results of the official phytosanitary monitor-
+ing program during the period 2007 — 2011 of the Bulgarian
+Food Safety Agency (BFSA) were published (Etropolska and
+Laginova, 2012). Article Title European Fruit Tree Phytoplasmas in Bulgaria
+
+1249
+
+ 
+
+A few species of the psyllid genus Cacopsylla (Hemiptera:
+Psyllidae) have been demonstrated to be vectors of Europe-
+an fruit tree phytoplasmas. Two psyllids, Cacopsylla picta
+(Foerster) and Cacopsylla melanoneura (Foerster) are recog-
+nized vectors of ‘Ca. P. mali’. The psyllid Cacopsylla pruni
+Scopoli was described as vector of ‘Ca. P. prunorum’ where-
+as three psyllid species also of the genus Cacopsylla are rec-
+ognized or presumed vectors of ‘Ca. P. pyri’: Cacopsylla pyri
+(Linnaeus), C. pyricola (Foerster) and C. pyrisuga (Foerster),
+reviewed by Jarausch and Jarausch (2010). All those Cacopsylla species have been described for
+Bulgaria by psyllid taxonomists in the 60s of the last cen-
+tury (Harizanov, 1966a, 1966b, 1982), long before they have
+been identified as phytoplasma vectors. As phytoplasma
+vectors, they have never been studied in Bulgaria. In 2011,
+we published the first report about PCR detection of ‘Ca. P.
+prunorum’ in individuals of their vector Cacopsylla pruni
+from two geographically different regions — Sofia and Kjust-
+endil districts (Etropolska et al., 201 1a). However, up to the beginning of our work in 2010 al-
+most nothing was known about the incidence and the spread
+of these quarantine diseases and their vectors in Bulgaria. Therefore, the objective of this study was to elucidate the ac-
+tual status of European fruit tree phytoplasma infections in
+Bulgaria as well as the presence of the known or putative in-
+sect vectors. Materials and Methods
+
+Sampling of plant and insect material
+A survey was conducted from the end of August till the
+end of October during the period 2010 - 2013 in 11 different
+sampling sites with conventional or uncultivated fruit tree or-
+chards as well as in nurseries in six different districts in Bul-
+garia. The sampling sites are given in Table | and Table 2. Plant material was derived from symptomatic and non-
+symptomatic trees from Malus, Prunus and Pyrus spp. in au-
+tumn when the concentration of the phytoplasma in the upper
+parts of the tree is highest. Insects were caught using sweep-netting during the pe-
+riod March-July of each year, Captured psyllids were frozen
+at -20°C and psyllid species identification was done using dif-
+ferent determination keys (Hodkinson and White, 1979; Os-
+siannilsson, 1992; Burckhardt and Jarausch, 2007). In 2013,
+some of the species were confirmed by Dr. Daniel Burckhardt
+from Naturhistorisches Museum, Basel, Switzerland. Molecular test for phytoplasma infection in
+plants and insects
+
+Phloem was prepared from branches of plant samples
+and was extracted with a modified CTAB-based protocol as
+described by Jarausch et al. (2011). After the morphological
+identification, DNA was extracted from single psyllid indi-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 1
+Total number of plants samples, analyzed for European fruit tree phytoplasmas with universal and specific primers
+Number of PCR positive/ total number of samples
+Host plant Location ‘San sles Phytoplasma type ECA
+P fUsiU4 fPD/rPD | AP3/AP4
+ECA2
+stic PL, DAI, “ i
+M. domestica PH. SOFi 29 ‘Ca. P. mali 24/29 - - 24/24
+P. domestica DA2, SOF1, 27 “Ca. P. prunorum’” 18/27 16/18 - -
+P. armeniaca PH 2 “Ca. P. prunorum’ 0/2 - - -
+P. persica SL 10 “Ca. P. prunorum’ 2/10 02
+P. persica PH 1 “Ca. P. prunorum’ O/1 - - -
+P. comunnis DA2 FH, 7 “Ca. P. pyri’ 15/17 - 14/17 -
+Total: 86
+
+ 
+
+ 
+
+PL - Plovdiv (Zelenikovo village, Plovdivski region); DAI - Dupnica I (Piperovo village, Kjustendilski region);
+DA2 Dupnica 2 (Djakovo village, Kjustendilski region); SOFI - Sofia | Gorni Lozen village, Sofiiski region);
+SL - Sliven (Dotluka, Slivenski region); PH - Petrich (Rupi village, Blagodevgradski region). 1250 A, Etropolska, W. Jarausch, B. Jarausch and G. Trenchev
+Table 2
+Total number of insects samples, analyzed for European fruit tree phytoplasmas with universal and specific primers
+PCR positive! Insect . N° of. Phyto- total number of samples
+species Host plant Location samples | plasma type | fUS/ | ECAL/ | PD! |apyy ap4
+P7_| ECA? | _ PD
+oe ; DA2, SOFI, “Ca. P.
+C. pruni Pedomestica ROP SRE 565 prodewm’ 13/565 13/13 - -
+DAI, DA2, KLI,
+C.picta M. domestica. ~~ KL2, SOF 1, 7 “Ca. P. mali’ 2/71 : : 22
+SOF?, SOF3
+C. melanoneura M. domestica’ DA2,SOF1,PL 233. ‘Ca. P. mali’ 0/233 - 17233 O/l
+C. affinis Crataegus spp DA2, SOF | 42 ‘Ca. P.mali? 0/42 - - -
+C. mali M. domestica SOF, KLI 1 “Ca. P.mali’ —O/L - - -
+C pyri Pcomunnis  SORSOFH, 358 “Ca. P. pyri? 1/358 - Vi -
+C. pyricola Pcomunnis  RA2,SOFI. 82 “Ca. P. pyri? — 2/82 - 22 -
+C. pyrisuga Pcomunnis PAZ KLRT2, 189 “Ca. P. pyri? 0/189 - - -
+C. bidens Pcomunnis — PAZSKLI, 28 “Ca. P. pyri? 1/28 : Vi -
+Total: 1569
+
+ 
+
+ 
+
+ 
+
+PL - Plovdiv (Zelenikovo village, Plovdivski region); DA2 Dupnica 2 (Djakovo village, Kjustendilski region);
+
+KLI — (Jabulkovo village, Kjustendilski region); KL2 (Nikolich«
+
+evei village, Kjustendilski region); PH - Petrich (Rupi
+
+village, Blagodevgradski region); SOF1 - Sofia 1 (Gorni Lozen village, Sofiiski region); SOF2 — Sofia (Pancharevo, Sofiiski
+region); SOF3 — Sofia (Simeonovo village, Sofiiski region); SOF4 — Sofia (Vragdebna village, Sofiiski region)
+
+viduals with a modified CTAB-based protocol as described
+by Jarausch et al. (2011) or by the TNES protocol of Sauvion
+(2012). PCR amplification of phytoplasma DNA was achieved
+with universal ribosomal primers: fU5/rU4 in the plant sam-
+ples (Lorenz et al., 1995) and fUS/rP7 in the insect samples
+(Lorenz et al., 1995; Schneider et al., 1995). All positive sam-
+ples were tested with the group specific primers fO1/rOl
+(Lorenz et al., 1995). For the confirmation of ‘Ca. P. mali’ the
+specific primers AP3/AP4 (Jarausch et al., 1994) were used;
+for the confirmation of ‘Ca. P. prunorum’, the ESFY-specific
+non-ribosomal primers ECA1/ECA2 were applied (Jarausch
+et al., 1998) and ‘Ca. P. pyri’ was identified with the specific
+primer pair fPD/rPD developed by Etropolska et al. (2011b). Results and Discussion
+
+During the survey period from 2010 to 2013, AP, ESFY
+and PD were found in commercial or uncultivated orchards
+in five of the most important fruit-growing regions of
+
+Bulgaria: Sofiiski, Blagoevgradski, Plovdivski, Kjustendilski
+and Slivenski region. Infected apple trees showed typical
+symptoms of AP, like ‘witches’ - broom’ and enlarged stipules
+inall fourregions. Typical symptoms of ESFY like preliminary
+blooming in late winter, apricot and peach chlorotic leaf
+roll, plum leptonecrosis and decline of branches or entire
+trees were found in Sofiiski, Kjustendilski and Slivenski
+region. Pear trees with small, leathery and up-rolled leaves,
+abnormal leaf reddening and premature leaf drop, or decline
+of branches and trees were the most common symptoms of
+PD in Sofiiski, Kjustendilski and Blagoevgradski region. In
+total, 86 plant samples were tested by PCR for the presence
+of European fruit tree phytoplasmas. As shown in Table. 1,
+phytoplasmas were detected in most of the samples using
+universal phytoplasma detection primers. The only exception
+was peach which had low infection rates. However, this has
+already been reported from Germany where in particular
+in peach no good correlation between symptoms and PCR
+detection of the phytoplasma was obtained (Jarausch et al.,
+2008). Specific identification primers were used to confirm
+
+Article Title European Fruit Tree Phytoplasmas in Bulgaria
+
+1251
+
+ 
+
+the presence of ‘Ca. P. mali’ in 24 apple samples, the presence
+of ‘Ca. P. prunorum’ in 16 European plum samples and the
+identity of ‘Ca. P. pyri’ in 14 pear samples. In the surveyed fruit tree orchards all known and puta-
+tive psyllid vectors of fruit tree phytoplasmas were identi-
+fied: C. pruni, C. picta, C. melanoneura, C. affinis, C. pyri,
+C. pyrisuga, C. pyricola and C. bidens, As shown in Table 2,
+more than 1500 individuals of the Cacopsylla species were
+collected in the different fruit tree orchards and individually
+analyzed by PCR for the presence of phytoplasmas. Ina total
+of 565 individuals tested, ‘Ca. P. prunorum’ was identified
+in 13 specimen of its known vector Cacopsylla pruni. This
+represents an infection rate of 2.3% which is in the range of
+the infection rates reported from Germany and France, were
+annually 2 - 3% of C. pruni were found infected (Jarausch et
+al., 2001; Jarausch et al, 2007, 2007b). ‘Ca. P. mali’ was found only in its acknowledged vec-
+tor Cacopsylla picta which is considered as main vector
+of AP (Jarausch et al., 2011). It was not found in Cacops-
+ylla melanoneura which is the most important vector only
+in Northwestern Italy (Tedeschi et al., 2002; Tedeschi and
+Alma, 2004) but not in Germany (Mayer et al., 2009). C.
+melanoneura was found in mixed population with C. picta
+on Malus, and also in mixed population with C. affinis on
+Crataegus spp. One out of 233 individuals was tested posi-
+tive for a phytoplasma which could be identified with spe-
+cific primers as ‘Ca. P. pyri’. As PD-infected pear trees were
+in the neighborhood of the C. me/anoneura sampling site it
+cannot be ruled out that this individual acquired the phyto-
+plasma there. So far, it is not known whether C. melanon-
+eura can be a vector of ‘Ca. P. pyri’. The only way to proof
+this hypothesis is through the method of transmission trials
+(Jarausch and Jarausch, 2010). Ina total of 71 individuals of C. picta, two of them were
+found infected with ‘Ca. P. mali’. The percentage of infec-
+tion is 2.8%, which is very low in comparison with other
+regions like Germany and South Tirol where every year the
+percent of infection is around 10% (Baric et al., 2010; Ja-
+rausch et al., 2011). Ina total of 358 tested individuals of the main vector Ca-
+copsylla pyri (Carraro et al., 1998), only one individual was
+confirmed to be infected with ‘Ca. P. pyri’, and the percent-
+age of infection is 0.28% respectively. Infection with ‘Ca. P. pyri’ was found also in two individuals out of 82 test-
+ed of the other main vector Cacopsylla pyricola (Foerster)
+(Davies et al., 1992). The percentage of infection is around
+2.4%. In comparison, in England this percentage is around
+17% (Davies and Eyre, 1996). In addition two other Cacop-
+sylla species, Cacopsylla pyrisuga and Cacopsylla bidens,
+were found in some of the observed pear orchards (Table
+
+ 
+
+2). More than 180 individuals of Cacopsylla pyrisuga were
+tested, but no phytoplasma infection was detected. Cacop-
+sylla bidens is reported by Burckhardt and Jarausch (2007)
+and Jerinié—Prodanovié (2010, 2011) to be present in Bul-
+garia and in some neighboring countries, but for Bulgaria
+any additional information about the distribution and the
+biology of this species is missing. In our study Cacopsylla
+bidens was found in three different pear orchards (Table 2). Furthermore, one out of 28 individuals was confirmed to be
+infected with ‘Ca. P. pyri’. The calculated infection rate of
+3.6% would be the highest for all putative PD vectors in Bul-
+garia. To our knowledge, this species has never been tested
+for its phytoplasma vectoring capacity. Thus, our result is
+the first report of an infection of C. bidens with ‘Ca. P. pyri’. Transmission trials with this species are now needed to con-
+clude if C. bidens is a vector of ‘Ca. P. pyri’ in Bulgaria. * Distribution of ‘Ca. P. mali’, the agent of Apple prolifera-
+tion, in Bulgaria
+
+AP was found in our survey in the following districts of Bul-
+garia: Plovdiv, Kjustendil, Sofia and Blagoevgrad (Figure 1). *
+Ca. P. mali’ was confirmed in Veliko Turnovo district as well
+(Etropolska and Laginova, 2012). Infected individuals of Ca-
+copsylla picta were found in Kjustendil and Sofia districts. This is the first confirmation of ‘Ca. P. mali’ on the territory
+of Sofia districts. In total, the results of our survey and from the data of
+the official monitoring program of BFSA showed that AP
+is spread on the territory of 5 out of all 28 districts in Bul-
+garia. ‘Veliko Turnovo ¢
+
+Author of the map: Iplika Ftropolska NIMH -BAS, Bulgaria
+
+ 
+
+Fig. 1. Distribution of ‘Candidatus Phytoplasma mali’
+“a”- Detection of AP per region in our survey; “6” -
+Detection of AP per region by the official control (BFSA)
+
+1252
+
+A, Etropolska, W. Jarausch, B. Jarausch and G. Trenchev
+
+ 
+
+¢ Distribution of ‘Ca. P. prunorum’, the agent of Apricot
+chlorotic leafroll (European stone fruit yellows — ESFY),
+in Bulgaria
+ESFY was found for first time in insect samples collected
+in orchards on the territory of Sofia (Gorni Lozen) and Kjus-
+tendil (Djakovo village) districts (Etropolska et al., 2011a)
+(Figure. 2). In 2012 we confirmed the presence of ESFY in
+plant samples on the territory of Sliven district. The pub-
+lished data from the official monitoring showed that ESFY
+is present also in Burgas, Pazardjik, Dobrich and Yambol
+districts (Etropolska and Laginova, 2012). Together with our
+results ESFY is confirmed in 7 out of the 28 districts in Bul-
+garia. * Distribution of ‘Ca. P. pyri’, the agent of Pear decline,
+in Bulgaria
+
+PD was confirmed in plant samples from Kjustendilski
+and Blagoevgradski regions. Infection was confirmed also
+in insects from two geographically isolated orchards on the
+territory of Sofia district. This is the first report of ‘Ca. P.
+pyri’ in Sofia district. Together with the data of BFSA, this phytoplasma is
+present on the territory of 8 out of 28 districts of Bulgaria
+(Figure 3). Conclusion
+
+In conclusion all three European fruit tree phytoplasmas
+‘Ca. Phytoplasma mali’ (apple proliferation), ‘Ca. Phyto-
+
+Distribution of ESEY
+Dobrich «
+Slivena’
+
+Simeonovo +
+Pancharevo =, $0884 ‘Dotluka ‘Burgas ¢
+
+- Djskovo A Yambol +
+
+‘Kjustendil ae a
+
+Blagoevgrad ¢
+
+Author of the map: IglkaEtropolska NIMH ~BAS, Bulgaria
+
+plasma pyri’ (pear decline) and ‘Ca. Phytoplasma pruno-
+rum’ (European stone fruit yellows) are present in Bulgaria. This work is the first report of ‘Ca. P. mali’ and ‘Ca. P. pyri’
+in Sofia region. In our survey ‘Ca. P. prunorum’ was found
+for the first time in spring of 2011 in Sofia and Kjustendil
+regions (Etropolska et al. 01a). Infection was confirmed in
+samples from symptomatic and non-symptomatic trees and
+also in the psyllid species known as main or putative fruit
+tree phytoplasma vectors. From all three phytoplasmas, pear decline is the
+most spread phytoplasma disease in Bulgaria. However,
+important questions remain open: where is the origin of the
+phytoplasma infections or how long do they already exist
+on the Bulgarian territory? Which are the main vectors of
+the respective phytoplasma diseases in Bulgaria? Molecular
+approaches of phytoplasma characterization and specific
+transmission trials with candidate vector species are needed
+to answer these questions. Acknowledgements
+
+All results presented in this paper are part of the PhD
+work: “Molecular characterization of fruit tree phytoplas-
+mas and their vectors in Bulgaria” by Aneliya Etropolska. The work of A. Etropolska was kindly supported by DAAD,
+COST action FA 0807, and several projects of AIPlanta In-
+stitute, Neustadt/W, Germany. We would like to thank Dr.
+Daniel Burckhardt from Naturhistorisches Museum, Basel,
+Switzerland for his support by the morphological determi-
+nation of some of the psyllid species. Fig. 2. Distribution of ‘Candidatus Phytoplasma
+prunorum’ “A”- Detection of ESFY per region in our
+survey; “#” - Detection of ESFY per region by the
+official control (BFSA)
+
+Fig. 3. Distribution of ‘Candidatus Phytoplasma pyri’
+“a”- Detection of PD per region in our survey; “#” -
+Detection of PD per region by the official control (BFSA)
+
+Article Title European Fruit Tree Phytoplasmas in Bulgaria
+
+1253
+
+ 
+
+References
+
+Baric, S., S. Ottl and J. D. Via, 2010. Infection rates of natural psyl-
+lid populations with *Candidatus Phytoplasma mali’ in South Tyrol
+(Northern Italy). Julius-Kithn-Archiv, 427: 189-192,
+
+Bertaccini, A., 2007, Phytoplasmas: diversity, taxonomy, and epidemiol-
+ogy. Frontiers in Bioscience, 12: 673-689,
+
+Burckhardt, D. and W, Jarausch, 2007. Pictorial Key of Central Euro-
+pean Cacopsylla Species Associated with Rosaceae. httpy/www.psyllidkey.eu
+
+Carraro, L., N. Loi, P. Ermacora, A. Gregoris and R. Osler, 1998. Transmission of pear decline by using naturally infected Cacopsylla
+pyri. Acta Horticulturae, 472: 665-668,
+
+Couneil Directive 2000/29/EC, 2000. Protective Measures against the
+Introduction into the Community of Organisms Harmful to Plants or
+Plant Products and Against their Spread within the Community, Coun-
+cil Directive 2000/29/EC, 8 May 2000,
+
+Davies, D. L. and S. Eyre, 1996. Detection of phytoplasmas associated
+with pear decline in pear psylla by polymerase chain reaction, Diag-
+nostics in Crop Protection. Proc. Brit. Crop. Prot. Symp., 65: 67-72. Davies, D. L., C. M. Guise, M. F. Clark and A. N, Adams, 1992. Par-
+ty’s disease of pears is similar to pear decline and is associated with
+mycoplasma-like organisms transmitted by Cacopsylla pyricola. Plant
+Pathology, 41: 195-203
+
+Etropolska, A. and M. Laginova, 2012, Monitoring of the distribution
+of fruit tree phytoplasmas in Bulgaria from 2007 until 2011. Petria,
+22 (3): 123-459,
+
+Etropolska, A., B. Jarausch, M. Herdemertens and W. Jarausch,
+2011b, Development of specific detection primers for ‘Candidatus Phy-
+toplasma pyri’, Bulletin of Insectology, 64: S87-S88. Etropolska, A., B. Jarausch, G. Trenchey and W. Jarausch, 201 1a. Sur-
+vey of psyllid vectors of fruit tree phytoplasmas in Bulgaria: a prelimi-
+nary report. Bulletin of Insectology, 64: $261-S262. Harizanov, A., 1966. Chemical experiments for control of the psyl-
+lids in the fruit crops. Horticultural and Viticultural Science, 3 (2):
+143-149 (Bg). Harizanoy, A., 1966b. Biological studies of Psylla costalis, Psylla pruni,
+and Psylla pyrisuga. Research papers of Agricultural Institute ‘V. Ko-
+larov’, XV (2) (Bg). Harizanoy, A., 1982. The pear psyllas. Plant Protection Newsletter, 4:
+23-27 (Bg). Hodkinson, I. D. and I. M. White, 1979, Homoptera: Psylloidea. Hand-
+book for the Identification of British Insects, 2 (Sa): 1-98. Jarausch, B. and W. Jarausch, 2010. Psyllid vectors and their control. In:
+P. G. Weintraub and P. Jones (Eds. Phytoplasmas ~ Genomes, Plant
+Hosts and Vectors, CABI, England, pp. 250-271. Jarausch, B., N. Schwind, A. Fuchs and W. Jarausch, 2011. Character-
+istics of the spread of apple proliferation by its vector Cacopsyllla picta. Phytopathology, 101: 1471-1480. Jarausch, B., A. Fuchs, I. Miihlenz, I. Lampe, U. Harzer and W.
+Jarausch, 2007. Research on European stone fruit yellows (ESFY) in
+Germany, Bulletin of Insectology, 60 (2): 389-390. Jarausch, B., A. Fuchs, I. Miihlenz, I. Lampe, U. Harzer and W.
+Jarausch, 2007b. Untersuchung zur Europiischen Steinobstvergil-
+bung (ESFY) in Deutschland. Gesunde Pflanzen, 59: 183-192. Jarausch, B., A. Fuchs, I. Miihlenz, I. Lampe, U. Harzer and W.
+Jarausch, 2008. Epidemiology of European stone fruit yellows in
+Germany. Acta Horticulturae, 781: 417-422. Jarausch, W., C. Saillard, F. Dosba and J.-M. Bové, 1994. Differentia-
+tion of mycoplasmalike organisms (MLOs) in European Fruit trees by
+PCR using specific primers derived from the sequence of a chromo-
+somal fragment of the apple proliferation MLO. Applied and Environ-
+mental Microbiology, 60 (8): 2916-2923. Jarausch, W., M. Lansac, C. Saillard, J. M. Broquaire and F. Dosba,
+1998. PCR assay for specific detection of European stone fruit yellows
+phytoplasmas and its use for epidemiological studies in France. Euro-
+pean Journal of Plant Pathology, 104: 17-27. Jarausch, W., J. L. Danet, G. Labonne, F. Dosba, J. M. Broquaire, C.
+Saillard and M. Garnier, 2001. Mapping the spread of apricot chloro-
+tic leaf roll (ACLR) in southern France and implication of Cacopsylla
+pruni as a vector of European stone fruit yellows (ESFY) phytoplas-
+mas. Plant Pathology, 50: 782-790. Jerinit-Prodanovié, D., 2010. Checklistofjumping plant-lice (Hemiptera:
+Psylloidea) in Serbia. Acta entomologica serbica, 15 (1): 29-59. Jerinig-Prodanovig, D., 2011. The jumping plant-lice Cacopsylla (He-
+patopsylla) bidens (Sule, 1907) (Hemiptera, Psyllidae) a new pear pest
+in Serbia. Pestic. Phytomed., 26 (2): 147-157 (St). Lorenz, K.-H., B. Schneider, U. Ahrens and E. Seemiiller, 1995. Detec-
+tion of the apple proliferation and pear decline phytoplasmas by PCR
+amplification of ribosomal and nonribosomal DNA. Phytopathology,
+85: 771-776. Mayer, C. J., B. Jarausch, W. Jarausch, A. Vileinskas and J. Gross,
+2009. Cacopsylla melanoneura has no relevance as vector of apple pro-
+liferation in Germany. Phytopathology, 99: 729-738. Ossiannilsson, F., 1992. The Psylloidea (Homoptera) of Fennoscandia
+and Denmark. Fauna Entomologica Scandinavica, 29: 1-346. Sauvion, N., 2012. Minutes of the training school for molecular identifica-
+tion of psyllid vectors, Montpellier 2012.
+hitp:/www.costphytoplasma.ipwenet.org/WG2.htm
+
+Schneider, B., E. Seemiiller, C. D, Smart and B. C. Kirkpatrick, 1995. Phylogenetic classification of plant pathogenic mycoplasma-like or-
+ganisms or phytoplasmas. In: S. Razin and J. C. Tully (Eds.) Molecu-
+lar and Diagnostic Procedures in Mycoplasmology, Vol. 1, Academic
+Press Inc., San Diego, California, pp. 369-380. Seemiiller, E. and B. Schneider, 2004. ‘Candidatus Phytoplasma mali’,
+“Candidatus Phytoplasma pyri’ and ‘Candidatus Phytoplasma pruno-
+rum’, the casual agents of apple proliferation, pear decline and Europe-
+an stone fruit yellow, respectively. Jnternational Journal of Systematic
+and Evolutionary Microbiology, 54: 1217-1226. Tedeschi, R. and A. Alma, 2004, Transmission of apple Proliferation
+Phytoplasma by Cacopsylla melanoneura (Homoptera: Psyllidae). Journal of Economical Entomology, 97: 8-13. Tedeschi, R., D. Bosco and A. Alma, 2002. Population dynamics of Ca-
+copsylla melanoneura (Homoptera: Psyllidae), a vector of apple pro-
+liferation phytoplasma in northwestern Italy. Journal of Economical
+Entomology, 95: 544-551. Topchiiska, M. and D. Sakalieva, 2001. Detection of Pear decline phyto-
+plasma by Polymerase chain reaction in Bulgaria. Bulgarian Journal
+of Agricultural Science, 7: 611-614. Topchiiska, M. and D. Sakalieva, 2002. PCR procedure for detection
+and identification of European stone fruit yellows (ESFY) phytoplas-
+ma on tree of Prunus varieties. Bulgarian Journal of Agricultural Sci-
+ence, 8: 19-22. Topchiiska, M., E. Seemiiller and C, Marcone, 2000. Detection of pear
+decline an European Stone fruit yellows in Bulgaria. Zeitschrift fiir
+Pflanzenkrankheiten und Pflanzenschutz, 658-663. Trifonoy, D., 1972. Fruit Tree Virus Diseases, Zemizdat, Sofia (Bg). Received June, 26, 2015; accepted for printing October, 5, 2015

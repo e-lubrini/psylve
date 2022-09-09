@@ -1,0 +1,741 @@
+Zootaxa 4238 (4): 531-$61 ISSN 1175-5326 (print edition)
+
+http://vww.mapress.com//2t/ Article ZOOTAXA
+
+Copyright © 2017 Magnolia Press ISSN 1175-5334 (online edition)
+
+https://doi.org/10.11646/zootaxa.4238.4.3
+http://zoobank.org/urn:Isid:zoobank.org:pub:20A7B437-D92C-4874-AB01-74FFD9 153194
+
+ 
+
+On the taxonomy of Korean jumping plant-lice (Hemiptera: Psylloidea)
+
+GEONHO CHO', DANIEL BURCKHARDT? & SEUNGHWAN LEE"
+
+‘Insect Biosystematics Laboratory, Research Institute of Agriculture and Life Science, Department of Agricultural Biotechnology,
+Seoul National University, 151-921, Korea
+
+’Naturhistorisches Museum, Augustinergasse 2, CH-4001 Basel, Switzerland
+
+‘Corresponding author. E-mail: seung@snu.ac.kr
+
+  
+
+Abstract
+
+The taxonomy of jumping plant-lice from South Korea is revised based on extensive, recently collected material and spec-
+imens preserved in several collections. Three species are described as new (Craspedolepta yongjungi, Cacopsylla bacca-
+tae and Cyamophila floribundae spp. nov.) and 11 species are recorded from South Korea for the first time (Aphalaridae
+2, Homotomidae 1, Liviidae 1, Psyllidae 6, Triozidae 1). One genus and 13 species are synonymised, two species are re-
+moved from synonymy and two species are recombined. Comments on the taxonomy are provided and previous misiden-
+tifications are discussed. Key words: psyllids, taxonomy, Aphalaridae, Calophyidae, Homotomidae, Psyllidae, Macrocorsinae, Psyllinae, Triozi-
+dae, new species, new records, South Korea
+
+Introduction
+
+Psyllids or jumping plant-lice are small, phloem-feeding insects which are best known for a few economically
+important pests such as Diaphorina citri Kuwayama, 1908 and Bactericera cockerelli (Sulc, 1909). The knowledge
+on the other almost 4,000 described psyllid species (Li, 2011; Burckhardt & Ouvrard 2012) is, however, limited
+and many taxonomic problems remain to be solved. In East Asia, 1,001 species have been reported from China (Li 2011), 152 from Japan (Ouvrard 2016), 98 from
+Korea (Kwon ef al. 2015a) and 132 from the Russian Far East (Konovalova 1988). Considerable confusion exists
+in the taxonomy of East Palaearctic psyllids due to insufficient reference between the faunas of the four countries
+and the uncritical use of old names, particularly from Europe. Here we focus on the Korean fauna. The first and only major treatment of Korean psyllids is the book by Kwon
+(1983) which is a milestone in the studies of the East Asian psyllids. Its publication was followed by several
+checklists (The Entomological Society of Korea & Korean Society of Applied Entomology 1994; Park 1996; Paek
+et al. 2010; Lee et al. 2014; Kwon et al. 2015a). Whereas most of these lists are mere compilations that of Park
+(1996) contains some new synonymies and combinations, and that of Kwon ef al. (2015a) introduces some
+taxonomic changes and new species records though without providing details. The aim of the present paper is,
+based on recent fieldwork throughout South Korea, to revise critically the status of some species, to describe some
+new taxa, to record some species for the first time from Korea and to provide collecting data for others. Material and methods
+
+Material for this study was examined from following institutions: BMNH—Natural History Museum, London,
+UK; MHNG—Muséum d’histoire naturelle, Genéve, Switzerland; NHMB—Naturhistorisches Museum Basel,
+Switzerland; NIBR—National Institute of Biological Resources, Incheon, South Korea; SNU—Seoul National
+University, Seoul, South Korea. The NHMB houses a small collection by Y. J. Kwon, originally deposited in the
+
+ 
+
+Accepted by D. Ouvrard: 12 Jan. 2017; published: 7 Mar. 2017 531
+
+National Museum Wales, Cardiff, UK, and acquired by the NHMB through an exchange of material. This
+collection contains 34 species, including paratypes, which are identified by Y. J. Kwon. The Korean provinces are abbreviated as follows: CB—Chuncheongbuk-do; GB—Gyeongsangbuk-do; GG—
+Gyeonggi-do; GN—Gyeongsangnam-do; GW—Gangwon-do; JB—Jeollabuk-do; JJ—Jeju-do; JN—Jeollanam-do. The information on host plants provided for each species refers to records from Korea. The plant names follow
+The Plant List (2016). Systematics
+Aphalaridae: Aphalarinae
+
+Aphatara avicularis Ossiannilsson, 1981
+(Fig. 1)
+
+Aphalara avicularis Ossiannilsson, in Ossiannilsson & Jansson, 1981: 24. Aphalara polygoni sensu Park & Lee, 1982b: 13; Kwon 1983: 18, p.p., nec Foerster, 1848: 90, misidentifications. Material examined. South Korea (all identified as Aphalara polygoni): | 3,3 2, GB, Gyeongsan-gun, Hayang-
+eup, 21.v.1980, 5.vii.1980 (Y. J. Kwon) (NHMB); same data but 2 3, 3 Q, 5.vii.1980 (Y. J. Kwon) (NIBR); 1 2,
+GN, Samnam-myeon, 21.iii.1982 (Y. J. Kwon) (NIBR); 1 9, GB, Cheongsong-gun, Budong-myeon, Mt. Juwang,
+19.vii.1981 (Y. J. Kwon) (NIBR); 1 3,3 2, GB, Daegu City, 22.iii.1982 (Y. J. Kwon) (NIBR). —South Korea (GB,
+GN, JN) (NHMB, NIBR, SNU). Host plant. Polygonum aviculare L. (Polygonaceae). Comments. Park & Lee (1982b) list Aphalara polygoni Foerster, 1848 collected on Polygonum aviculare
+which suggests that their specimens belong to A. avicularis. Their material was not available for examination for
+confirmation. Kwon (1983) reported Aphalara polygoni from seven provinces in South Korea, indicating that the
+host plants are Polygonum spp. Kwon’s (1983: 179, plate XXXI fig. 11) illustration of the distal portion of the
+aedeagus resembles that of 4. avicularis. We examined specimens identified by Kwon as A. polygoni that are A.
+avicularis. We do not know, however, whether the material listed by Kwon (1983) under A. polygoni contains also
+A. freji Burckhardt & Lauterer, 1997, another species associated with Persicaria spp. and Polygonum spp. or
+genuine A. polygoni which develops on Rumex spp. (Burckhardt & Lauterer 1997). We have not seen specimens of
+the latter and its presence in Korea is currently not confirmed. Aphatara freji Burckhardt & Lauterer, 1997
+(Fig. 2)
+Aphalara freji Burckhardt & Lauterer, 1997: 296. Material examined. South Korea (GN, JN) (NIBR, SNU). Host plant. Persicaria lapathifolia (L.) Delarbre (Polygonaceae). Comments. See under Aphalara avicularis. Craspedolepta formosa Loginova, 1962
+(Figs. 3-4)
+Craspedolepta formosa Loginova, 1962: 196. Material examined. South Korea (GW) (NHMB, SNU). Host plant. Artemisia cf. indica Willd. (Asteraceae). Comments. New record for Korea. 532 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. FIGURES 1-8. Habitus. 1. Aphalara avicularis, adult male. 2. Aphalara freji, adult male. 3. Craspedolepta formosa, adult
+male. 4, Craspedolepta formosa, adult female. 5. Craspedolepta yongjungi sp. nov., adult male. 6. Craspedolepta yongjungi
+sp. nov., adult female. 7. Craspedolepta yongjungi sp. nov., fifth instar immature. 8. Calophya nigridorsalis, adult male. TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 533
+
+Craspedolepta yongjungi Cho & Burckhardt, sp. nov.
+(Figs. 5-7, 15-20)
+
+Craspedolepta conspersa sensu Kwon, 1983: 24, nec Low, 1888: 31. Xanioptera japonica sensu Park, 1996: 268, nec Klimaszewski, 1989: 7. Diagnosis. Adults of the new species resemble those of Craspedolepta conspersa (Léw, 1888), C. spinosa Park &
+Lee, 1982, C. japonica (Klimaszewski, 1989), comb. nov. and C. kwonii (Klimaszewski, 1997), comb. nov. in the
+narrow forewings bearing small dots, the apically broad paramere, that is bent in the middle, and the female
+proctiger bearing a long apical process. It differs from the first species in the forewing that is narrowly rounded
+apically and bears more homogeneously distributed dark dots, the female proctiger that is stronger curved and the
+female subgenital plate whose ventral margin is angled in the middle and not evenly curved as in C. conspersa. From the other three species C. yongjungi differs in the brown dots that are denser and confluent in apical half of
+the forewing. Description. Adult. Body colour (Figs. 5—6) green (yellow in ethanol preserved specimens), with indistinct
+whitish pattern consisting of dots and longitudinal stripes on the dorsum of head and thorax, respectively. Head and
+thorax covered in short macroscopic setae. Vertex with each half evenly rounded anteriorly; preocular sclerite
+distinctly developed. Antenna 10-segmented, 1.17—1.24 as long as head width. Forewing slender, 2.72—3.09 times
+as long as wide, narrowly rounded apically; cell m, relatively narrow, cell cu, long; pattern consisting of small
+brown spots that are relatively evenly covering wing membrane, denser in apical half where they are confluent;
+membrane lacking setae on dorsal surface; surface spinules fine, dense, leaving spinule-free rows along the veins. Terminalia as in Figs. 17-20. Paramere curved in the middle with broad apical half; apico-posterior edge angular. Female proctiger 1.06—1.12 times as long as head width, with concave dorsal margin and long apical process. Female subgenital plate with long apical process; ventral margin angular in the middle. Measurements (in mm; 3 3, 3 2): head width 4 0.52-0.55, 2 0.56-0.62; antenna length 3 0.63-0.66, 2
+0.67-0.72; forewing length 3 1.77-1.84, 2 2.20-2.30; metatibia length 3 0.46-0.47, 2 0.47-0.49; proctiger
+length 3 0.20-0.22, 2 0.63-0.66. Fifth instar immature. Body (Fig. 7) greenish or yellowish, elongate. Antenna 7-segmented. Forewing-pads
+with small humeral lobes. Margin of wing-pads and abdomen bearing lanceolate setae. Tarsal arolium
+membranous, sessile. Caudal plate angular posteriorly. Anus in ventral position; circumanal ring small, in distance
+from posterior abdominal margin by more than its own length, consisting of a single row of pores. Measurements (in mm; 3 immatures): body length 1.73-1.92; body width 1.14-1.22; antenna length
+0.77-0.80; forewingpad length 0.68-0.69; metatibia length 0.30-0.32; caudal plate length 0.52—0.57; caudal plate
+width 0.83—0.95; circumanal ring width 0.10-0.11. Type material. Holotype 4, South Korea, GW, Hongcheon-gun, Nae-myeon, Myeonggae-ri, N37°51'37.44"
+E128°32'36.72", 900 m, 07.vi.2015, Artemisia cf. indica (G. Cho) (SNU; dry mounted).—Paratypes: 42 3, 25 9,
+same data as holotype but (NHMB, SNU; dry and slide mounted, in 95% ethanol); 26 4, 24 2, 33 immatures, same
+but 17.v.2016 (D. Burckhardt & G. Cho) (BMNH, NHMB, SNU; dry, in 70% and 95% ethanol); 2. 3, 3 Q, same but
+Hwacheon-gun, Sangseo-myeon, Damok-ri, Sillnae Hill, N38°09'24.4" E127°31'23.3", 850 m, 25.v.2016,
+Artemisia cf. indica (D. Burckhardt & G. Cho) (NHMB, SNU; dry and slide mounted, preserved in 70% and 95%
+ethanol). Host plant. Artemisia cf. indica Willd. (Asteraceae), confirmed by the presence of immatures. Etymology. Named in honour of Professor Yong Jung Kwon for his pioneering work on Korean psyllids. Comments. Craspedolepta conspersa was originally described from Romania [Siidungarn, Langenfeld bei
+Weisskirchen] (L6w 1888; see also Conci & Tamanini 1983) and not Germany as stated by Kwon (1983). Subsequently the species was reported from Hungary (Klimaszewski 1961), Moldova (Loginova 1966), Japan
+(Miyatake 1969), Italy (Conci & Tamanini 1983), Korea (Kwon 1983), the Russian Far East (Konovalova 1988),
+Slovenia (Seljak 2006), Switzerland (Burckhardt & Lauterer 2009) and Serbia (Jerinié-Prodanovié 2010). The
+record of Bulgaria by Klimaszewski (1973) is a likely error (Conci & Tamanini 1983). Klimaszewski (1989)
+described Xanioptera (Loginovia) japonica from Japan, apparently not aware of the reports of C. conspersa from
+Japan, Korea and the Russian Far East (Miyatake 1969; Kwon 1983; Konovalova 1988). Klimaszewski (1989)
+suggested that X. japonica is very close to C. conspersa differing in the longer antennae and relative lengths of the
+forewing veins M+Cu and Cu. For unknown reasons, Park (1996) suggested that Craspedolepta conspersa sensu
+
+  
+
+ 
+
+534 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. Kwon (1983) from Korea is conspecific with Xanioptera japonica. Comparison of material from Japan identified
+as Xanioptera japonica and from Korea fitting Kwon’s description of C. conspersa shows subtle, though constant
+differences between the two taxa. The brown dots on the forewing are sparser and rarely coalesce in the former but
+are quite dense and confluent in the apical half of the forewing in the latter. The paramere in the former is slightly
+more rounded at the apico-posterior edge and slightly more angular in the latter. Further, the Korean populations
+differ from European C. conspersa in the more homogeneously spaced dark dots on the forewing, the apically more
+narrowly rounded forewing and the more curved female terminalia. In this context, two other species are of
+interest, viz. Craspedolepta spinosa Park & Lee, 1982 and Xanioptera (Loginovia) kwonii Klimaszewski, 1997. Both species are from Korea, poorly described and based on insufficient material lacking males, the former from 2
+females, one of which damaged, from Mount Hallasan on Jeju Island, the latter from 2 or 3 females from Mount
+Myohyang, respectively. Both share the narrow forewings bearing brown dots, but differ from the Korean material
+referred to C. conspersa in the dots on the forewing that are not confluent. We conclude that 1. Craspedolepta
+japonica (Klimaszewski, 1989), comb. nov. is a good species, currently known only from Japan; 2. C. spinosa and
+C. kwonii (Klimaszewski, 1997), comb. nov. are distinct from both C. japonica and from Korean populations
+previously referred to C. conspersa but their identity is doubtful; 3. the European and Korean populations referred
+to C. conspersa are not conspecific. For this reason, we describe the latter under the name of Craspedolepta
+yongjungi sp. nov.
+
+Klimaszewski (1987), using a phenetic approach to analyse the phylogenetic relationships between Palaearctic
+species, split Craspedolepta s. |. into four genera including the subgenera Xanioptera s. str. and Xanioptera
+(Loginovia). This analysis is flawed with methodological shortcomings and mistakes in the observation of some
+characters (Burckhardt & Lauterer 1997) and is, therefore, rejected. Here we follow the generic concepts of
+Burckhardt & Ouvrard (2012) and Burckhardt & Queiroz (2013). Aphalaridae: Togepsyllinae
+Togepsylla matsumurana Kuwayama, 1949
+
+Togepsylla matsumurana Kuwayama, 1949: 48. Material examined. South Korea (JJ) (NHMB). Host plant. Probably Litsea Lam. spp. (Lauraceae). Comments. New record for Korea. Calophyidae: Calophyinae
+
+Calophya nigridorsalis Kuwayama, 1908
+(Figs. 8-10)
+
+Calophya nigridorsalis Kuwayama, 1908: 159. Material examined. South Korea (JJ, JN) (NHMB, SNU). Host plant. Rhus chinensis Mill., Toxicodendron succedaneum (L.) Kuntze, T. sylvestre (Siebold & Zucc.) Kuntze, T. trichocarpum (Miq.) Kuntze (Anacardiaceae), confirmed by the presence of immatures. Comments. Calophya nigridorsalis has been reported from Korea though without locality data (Cho & Lee
+2015b; Kwon et al. 2015a). Homotomidae: Homotominae
+
+Homotoma unifasciata Yu, 1956
+(Figs. 11-13)
+
+Homotoma unifasciata Yu, 1956: 45. TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 535
+
+Material examined. South Korea (JJ) (NHMB, SNU). Host plant. Ficus erecta Thunb. (Moraceae), confirmed by the presence of immatures. Comments. New record for Korea. FIGURES 9-14. Habitus. 9. Calophya nigridorsalis, adult female. 10. Calophya nigridorsalis, fifth instar immature. 11. Homotoma unifasciata, adult male. 12. Homotoma unifasciata, adult female. 13. Homotoma unifasciata, fifth instar immature. 14. Livia khaziensis, adult male. Livia khaziensis Heslop-Harrison, 1949
+(Fig. 14)
+
+Livia khaziensis Heslop-Harrison, 1949: 256. Material examined. South Korea (JJ, JN) (NIBR, SNU). 536 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. Host plant. Juncus cf. decipiens (Buchenau) Nakai (Juncaceae). Comments. New record for Korea. FIGURES 15-20. Craspedolepta yongjungi sp. nov. 15. Head, dorsal view. 16. Forewing. 17. Male terminalia, in profile. 18. Female terminalia, in profile, 19. Paramere, outer surface. 20. Distal segment of aedeagus. Scale = 0.Imm. Psyllidae: Macrocorsinae
+
+Colophorina flavivittata (Li, 1992)
+(Fig. 21)
+
+Euphalerus flavivittatus Li, 1992a: 144. Colophorina flavivittata; Li, 2011: 510. Material examined. South Korea (GG, GN) (NHMB, NIBR, SNU). Host plant. Gleditsia sinensis Lam. (Fabaceae), confirmed by the presence of immatures. Comments. New record for Korea. The material from Korea differs from the description of C. flavivittata in
+
+ 
+
+TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 537
+
+the more truncate genal processes (Li 1992a, 2011). More material, including specimens from China, are necessary
+to evaluate these differences. Colophorina robinae (Shinji, 1938)
+(Figs. 22-25)
+
+Metapsylla robinae Shinji, 1938: 147. Euphalerus robinae: Miyatake, 1973: 24. Colophorina robinae: Li, 2011: 511. Material examined. South Korea (GG, JN) (NHMB, NIBR, SNU). Host plant. Gleditsia japonica Miq. (Fabaceae), confirmed by the presence of immatures. Comments. In recent Korean checklists (Lee et al. 2014; Kwon et al. 2015a) this species is still listed under
+Euphalerus. Epiacizzia kawayamai (Crawford, 1911)
+(Figs. 26-27)
+
+Psylla kuwayamai Crawford, 1911: 432; replacement name for Psylla tripunctata Kuwayama, 1908: 172, nec Fitch, 1851: 64,
+primary homonym. Epiacizzia kuwayamai; Li, 2011: 546. Material examined. South Korea (JJ) (NHMB, SNU). Host plant. Neolitsea sericea (Blume) Koidz. (Lauraceae), confirmed by the presence of immatures. Comments. New record for Korea. Inoue (2010) suggested that Japanese populations differ morphologically
+from those of Taiwan, the type locality of the species. Our specimens resemble the Japanese form conforming to
+the description of Miyatake (1981). Psyllidae: Psyllinae
+
+Cacopsylla abdominalis (Meyer-Diir, 1871)
+(Figs. 28-29)
+
+Psylla abdominalis Meyer-Diir, 1871: 394. Cacopsylla (Hepatopsylla) abdominalis; Burckhardt, 1983: 62. Psylla (Hepatopsylla) seonhyeongae Kwon, 1983: 58, syn. nov.
+Cacopsylla seonhyeongae; Park, 1996: 272. Material examined. South Korea: 1 2 paratype of Psylla (Hepatopsylla) seonhyeongae, GB, Mt. Juwangsan,
+19.vii.1981, Salix sp. (Y. J. Kwon) (NHMB).—South Korea (CB, GW) (NHMB, SNU), Europe (Austria, Germany,
+Switzerland) (MHNG, NHMB). Host plant. Salix caprea L., Salix sp. (Salicaceae), confirmed by the presence of immatures. Comments. Comparison of material of C. abdominalis from Europe (MHNG, NHMB) and of a paratype of C.
+seonhyeongae from Korea (NHMB) shows that the two taxa are conspecific. For this reason, they are synonymised
+here. Cacopsylla albopontis (Kuwayama, 1908), stat. rev. et comb. nov.
+(Fig. 30)
+
+Psylla albopontis Kuwayama, 1908: 164. 538 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. Psylla danpunga Park & Lee, 1982: 197, syn. nov.
+2Psylla (Hepatopsylla) abieti sensu Kwon, 1983: 69, p. p., nec Kuwayama, 1908: 175. Psylla moni Konovalova & Loginova, 1985: 21, syn. nov.
+
+Cacopsylla danpunga; Park, 1996: 271. Material examined. South Korea (GB, GW, JN, GN, JB) (NHMB, NIBR, SNU). Host plant. Acer pictum Thunb. var. mono Maxim., A. pseudosieboldianum (Pax) Kom. (Sapindaceae),
+confirmed by the presence of immatures. Comments. Psylla albopontis, originally described from Japan, is closely related to Cacopsylla abieti
+(Kuwayama, 1908) with which it was synonymised by Miyatake (1964a). It differs from C. abieti in the forewing
+which has dark patches along the apical and posterior margins rather than completely yellow to brown, the denser
+setae on the inner face of the paramere and the more rounded, rather angular apical dilatation of the distal segment
+of the aedeagus. We consider P. albopontis a good species of Cacopsylla, remove it from synonymy and transfer it
+to Cacopsylla. Psylla danpunga Park & Lee, 1982, and Psylla moni Konovalova & Loginova, 1985 display the
+same diagnostic characters as C. albopontis suggesting they are conspecific. We, therefore, synonymise them with
+Cacopsylla albopontis. We have not examined material of P abieti sensu Kwon (1983). Judging from the
+description it is a mix of C. albopontis and C. pseudosieboldiani (Konovalova & Loginova, 1985). The species is
+associated with several Acer spp. (Sapindaceae). Cacopsylla araliae (Konovalova, 1981), comb. nov.
+(Figs. 31-34)
+
+Psylla araliae Konovalova, 1981: 11. Material examined. South Korea (JN, GW, GG) (NHMB, SNU). Host plant. Aralia elata (Miq.) Seem. (Araliaceae), confirmed by the presence of immatures. Comments. New record for Korea. This species was described in Psylla from the Russian Far East
+(Konovalova 1988). Cho & Lee (2015a) reported a Cacopsylla sp. from Korea without further locality data
+associated with Aralia elata (Miq.) Seem. (Araliaceae) which is referable to C. araliae. The species is congeneric
+with Cacopsylla fatsiae (Jensen, 1957) and C. hederae (Miyatake, 1964), two species also associated with
+Araliaceae. For this reason, it is formally transferred here to Cacopsylla. Cacopsylla baccatae Cho & Burckhardt, sp. nov.
+(Figs. 35-36, 61-68)
+
+Diagnosis. Adults of the new species resemble those of Cacopsylla malivorella (Matsumura, in (Sasaki, 1915)] and C.
+myriacantha Li, 2011 in the forewing with a straight fore margin and a broadly rounded apex, as well as the short
+broad paramere with a prominent antero-apical beak-like process and two groups of strongly sclerotised peg setae on
+its inner face. It differs from both species in the narrower paramere whose fore margin is hardly curved in the apical
+two thirds (rather than strongly curved), and in the strongly inflated apical dilatation of the distal segment of the
+aedegus (rather than flattened and weakly inflated)—Immatures mostly lack capitate setae, bearing 13-15 long
+marginal slightly rod-shaped setae on forewing pad and 11 on caudal plate on either side, the latter also with 2+2
+marginal sectasetae. Abdomen with three large lateral and two large and a small submedian free sternites on either
+side of mid-line. Circumanal ring small, close to posterior margin of subgenital plate, consisting of a single row of
+pores. Description. Adult. Body colour in recently emerged specimens light green with yellow longitudinal stripes on
+thorax, translucent forewings with light veins (Fig. 35); overwintered specimens dark brown to black with lighter
+pattern on head and thorax, forewing greyish with dark brown veins more or less expanded dark brown pattern in apical
+half, sometimes restricted to narrow stripes along the veins in overwintered specimens. Antenna light brown, segments
+4-8 dark brown to black apically, segments 9 and 10 entirely black. Hindwing almost colourless, transparent. Legs
+brown; tibiae and basitarsi light greyish. Head (Fig. 61) as broad as thorax; vertex subtrapezoidal, covered in
+microscopic setae; preocular sclerite small and narrow; genal processes 0.7-0.9 times as long as vertex along midline,
+
+ 
+
+TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 539
+
+relatively evenly conical, subacute apically, their longitudinal axis subparallel. Antenna 1.1—1.2 times as long as head
+width; segment 3 the longest but not much longer than segment 4; relative length of flagellar segments as | : 0.8 : 0.7:
+0.7: 0.7: 0.7 : 04 : 0.5; segments 4-8 subequal in length; relative lengths of segment 10 and terminal setae as | : 0.9
+0.3. Forewing oblong oval, with straight anterior margin and broadly, slightly asymmetrically rounded apex (Fig. 62);
+pterostigma evenly narrowing to apical third of r,; vein C+Sc evenly curved in the middle, cell c+sc broad; vein Rs
+imperceptibly sinuous, weakly curved towards fore margin apically; veins M and M,,, distinctly curved, M,,, almost
+straight; cell m, triangular; vein Cu,, moderately curved in the middle, vein Cu,, short, curved at apex; cell cu, small and
+irregularly triangular; surface spinules densely spaced, present in all cells covering membrane up to the veins; veins
+clothed in very short macroscopic setae. Hindwing simple, membraneous; costal setae not grouped; vein M+Cu
+developed. Metatibia 0.59-0.60 times as long as head width, with well-developed genual spine and 1+3+1 sclerotised
+apical spurs; metabasitarsus with two sclerotised spurs. Terminalia as in Figs. 63-66. Male proctiger slender, strongly
+curved subapically, hairy. Male subgenital plate slightly elongate, hairy in the middle and ventrally. Paramere
+securiform, slender basally, wide apically, fore margin of apical portion forming anteriorly extended to form narrow,
+outer lobe, antero-apical edge drawn into obliquely upwards directed point; outer surface covered with simple setae,
+inner surface with two groups of sclerotised peg setae (Fig. 65). Distal segment of aedeagus straight in basal two thirds,
+strongly dilated apically to form an irregular sphere (Fig. 66); sclerotised end tube of ductus ejaculatorius short, weakly
+sinuous. Female terminalia cuneate (Fig. 64). Female proctiger 0.70 times as long as head width, with concave, though
+slightly sinuous, dorsal outline and narrowly rounded apex; base around circumanal ring membranous; long setae in
+apical half of proctiger arranged in an irregular longitudinal row on either side; circumanal ring relatively short,
+consisting of two unequal rows of pores, distally slightly extended to contain three rows. Subgenital plate cuneate,
+dorsal margin irregularly concave, ventral margin slightly curved at base, otherwise relatively straight, pointed apically,
+sparsely covered in moderately long hairs except for bare base. Lateral valvulae bluntly rounded apically; dorsal
+valvulae cuneate, weakly curved; ventral valvulae weakly curved with subapical tooth. Measurements (in mm; | 3, 1 head width 3 0.71, 2 0.75; antenna length 4 0.82, ° 0.85; forewing length ¢
+2.18, 2 2.41; metatibia length 3 0.42, 2 0.44; proctiger length 3 0.43, 2 0.53. Fifth instar immature. Body green with white longitudinal stripe in the middle, elongate, 1.42—1.62 times as
+long as broad (Figs. 36, 67-68). Antenna 7-segmented, 0.92-1.00 times as long as forewing pad, off-white with dark
+apices of segments 5 and 6, and entire segment 7. Forewing pad oblong oval, lacking humeral lobes and macroscopic
+dorsal setae. Legs moderately long, lacking capitate setae. Caudal plate evenly rounded, 1.49-1.69 times as wide as
+long, lacking long dorsal setae, 2+2 marginal sectasetae. Abdominal venter with three large lateral and two large and a
+small submedian free sternites on either side of mid-line. Circumanal ring almost circular (Fig. 68), small, close to
+hind margin, distance between hind margins of circumanal ring and caudal plate about a third of that between fore and
+hind margins of circumanal ring; composed of a single row of small pores, broken anteriorly. Body margin with
+following numbers of long simple, slightly rod-shaped setae (one side only): anterior head margin in front of eye 5-7,
+on eye I, behind eye 2-3, forewing pad 13-15, hindwing pad 2, precaudal area 6-7, caudal plate 11. Measurements (in mm; 4 specimens): body length 1.88—2.03; antenna length 0.70-0.78; forewing pad length
+0.75--0.78; metatibia length 0.30-0.31; caudal plate length 0.53-0.56. Type material. Holotype @, South Korea, GW, Pyeongchang-gun, Daegwanryeong-myeon, Hoenggye-ri,
+31.iii.2016 (SNU, dry mounted).—Paratypes: | J, 1 2, same data as holotype but (SNU, slide mounted); 1 3,2 9,5
+immatures, same but Hongcheon-gun, Nae-myeon, Myeonggae-ri, 7.vi.2015, Malus baccata (G. H. Cho) (SNU; slide
+mounted and 95% ethanol); 1 2, 3 immature, same data but 18.v.2016 (D. Burckhardt & G. H. Cho) (NHMB, SNU;
+dry and slide mounted, preserved in 70% and 95% ethanol). Host plant. Malus baccata (L.) Borkh. (Rosaceae), confirmed by the presence of immatures. Etymology. Named after its host Malus baccata. Comments. Cacopsylla baccatae shares with C. malivorella from Japan and the Russian Far East and C.
+myriacantha Li, 2011 from China the shape of the forewing, the peculiar built of the paramere and, with the former,
+the host Malus, that of the latter being unknown. This suggests that the three species are closely related. C. baccatae
+differs from the other two species in details of the paramere, e. g. the length/width ratios which are as follows: C.
+baccatae 2.0, C. malivorella 1.7 and C. myriacantha 1.4. C. baccatae differs from the other two species also in the
+more inflated, subspherical apical dilatation of the distal portion of the aedeagus which is more flattened in the other
+two species. 540 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. Jophorina robinae, adult male. 23. Colophorina
+
+FIGURES 21-28. Habitus. 21. Colophorina flavivittata, adult male. 22
+ophorina robinae. 26.
+
+robinae, adult female. 24. Colophorina robinae, fifth instar immature. 25. Leaf galls induced by
+Epiacizzia kuwayamai, adult male. 27. Epiacizzia kuwayamai, adult female. 28, Cacopsylla abdominalis, adult male. Zootaxa 4238 (4) © 2017 Magnolia Press - 541
+
+TAXONOMY OF KOREAN PSYLLIDS
+
+ 
+
+ 
+
+FIGURES 29-36. Habitus. 29. Cacopsylla abdominalis, adult female. 30. Cacopsylla albopontis, adult female. 31. Cacopsylla
+araliae, adult male of autumn generation, 32. Cacopsylla araliae, adult female of spring generation. 33. Cacopsylla araliae,
+fifth instar immature. 34. Microhabitat of Cacopsylla araliae, interpetiolar space. 35. Cacopsylla baccatae sp. nov., adult male. 36. Cacopsylla baccatae sp. nov., fifth instar immature
+
+542 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. 4
+
+FIGURES 37-44. Habitus. 37. Cacopsylla bibari, adult male. 38. Cacopsylla bibari, adult female. 39. Cacopsylla bibari, fifth
+instar immature. 40. Cacopsylla lineaticeps, adult female. 41. Cacopsylla nopeunsanicola, adult male. 42. Cacopsylla
+nopeunsanicola, adult female. 43. Cacopsylla nopeunsanicola, fifth instar immature. 44. Cacopsylla peninsularis, adult male. TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 543
+
+ 
+
+FIGURES 45-52. Habitus. 45. Cacopsylla peninsularis, adult female. 46. Cacopsylla pseudosieboldiani, adult male. 47. Ila pseudosieboldiani, adult female. 48. Cacopsylla pseudosieboldiani, fifth instar immature. 49. Cacopsylla pulchra,
+adult female, 50. Cacopsylla sangjaei, adult male. 51. Cacopsylla sangjaei, adult female. 52, Cacopsylla sangjaei, fifth instar
+immature. 544 + Zootaxa 4238 (4) 7 Magnolia Press
+
+ 
+
+FIGURES 53-60. Habitus. 53. Cacopsylla satsumensis, adult male. 54. Cyamophila floribundae sp. nov., adult female. 55. Psylla alniformosanaesuga, adult male. 56. Psylla alniformosanaesuga, adult female. 57. Psylla alniformosanaesuga, fourth
+instar immature. 58. Psylla longicauda, adult male. 59. Psylla longicauda, teneral adult female. 60. Psylla longicauda, fifth
+instar immature. IMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnoli
+
+ 
+
+ 
+
+FIGURES 61-66. Cacopsylla baccatae sp. nov. 61. Head, dorsal view. 62. Forewing, dashed line represents the areas with
+surface spinules. 63. Male terminalia, in profile. 64. Female terminalia, in profile. 65. Paramere, inner surface. 66. Distal
+segment of aedeagus. Scale = 0.1mm. 546 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. “nw
+
+Mn
+
+ro
+
+ 
+
+ 
+
+FIGURES 67-68. Cacopsylla baccatae sp. nov., fifth instar immature. 67. Habitus, dorsal aspect (Left) and ventral aspect
+
+(right). 68. Circumanal ring. Scale = 0.1mm. TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 547
+
+Cacopsylla bibari (Kwon, 1983)
+(Figs. 37-39)
+
+Psylla (Hepatopsylla) bibari Kwon, 1983: 65. Cacopsylla bibari, Park, 1996: 271. Psylla (Hepatopsylla) quelparticola Kwon, 1983: 64, syn. nov.
+Cacopsylla quelparticola, Park, 1996: 272. Cacopsylla sp. 1, Hayashi & Miyatake, 2012: 39. Material examined. South Korea (JJ, JN) (NHMB, SNU). Host plant. Pittosporum tobira (Thunb.) W.T. Aiton (Pittosporaceae), confirmed by the presence of
+immatures. Comments. Kwon (1983) described both Cacopsylla quelparticola and C. bibari based on a single male each
+from Jeju Island. The major difference between the two is, according to Kwon (1983), the spinule free stripes on
+the forewing which are ‘apparently broad’ in the former and ‘prominent but relatively narrower’ in the latter. We
+collected large series of specimens in several localities on Jeju Island and in the South of the Peninsula, along with
+Cacopsylla tobirae on Pittosporum tobirae (Pittosporaceae), which suggest that these differences are within the
+range of intraspecific variation. For this reason, we synonymise the two taxa. As both species have been described
+in the same publication we chose Psylla bibari as senior name as it is more euphonious and, thus, complies better
+with recommendation 25C of the International Commission on Zoological Nomenclature (1999). Cacopsylla sp. 1
+by Hayashi & Miyatake (2012) from Japan, collected on Pittosporum tobirae, is referrable to C. bibari. Cacopsylla lineaticeps (Kwon, 1983)
+(Fig. 40)
+
+Psylla (Hepatopsylla) lineaticeps Kwon, 1983: 69. Cacopsylla lineaticeps; Li et al., 1993: 12; Park, 1996: 271. Psylla ginnali Konovalova & Loginova, 1985: 20, syn. nov.
+Cacopsylla ginnali; Labina et al., 2014: 327. 3, 1 9, GB, Mt. Juwangsan, 19.vii.1981 (Y. J. Kwon) (NHMB).—South
+
+ 
+
+Material examined. South Korea:
+Korea (GB, GG, GW) (NHMB, SNU). Host plant. Acer tataricum L. subsp. ginnala (Maxim.) Wesm. (Sapindaceae), confirmed by the presence of
+immatures. Comments. The narrow forewing bearing an apical, well defined dark band, the male and female terminalia,
+as well as the host, ie. Acer tataricum L. subsp. ginnala (Maxim.) Wesm. (Sapindaceae) define this species. Psylla
+ginnali Konovalova & Loginova (1985) shares these characters suggesting that it is conspecific with C. lineaticeps. This has been previously presumed by Labina er al. (2014) and we formally synonymise the two taxa. Cacopsylla nopeunsanicola (Kwon, 1983)
+(Figs. 41-43)
+
+Psylla (Hepatopsylla) nopeunsanicola Kwon, 1983: 72. Cacopsylla swidae Inoue, 2004b: 144, syn. nov.
+
+Material examined. South Korea: | 3 paratype of Psylla (Hepatopsylla) nopeunsanicola, GW, Mt. Seolagsan,
+30.vii. 1982 (Y. J. Kwon) (NHMB). —South Korea (GB, GG, GW, JN) (NHMB, SNU), Japan (SNU). Host plant. Cornus controversa Hemsl. (Cornaceae), confirmed by the presence of immatures. Comments. Kwon (1983) described Psylla nopeunsanicola from each locality in GW and JJ, respectively. We
+collected the species in many places on Cornus controversa (Cornaceae), which is its host plant, not Abies sp. as
+suggested by Kwon (1983). Inoue (2004b) pointed out that the Japanese populations previously referred to the
+European Cacopsylla melanoneura in fact belong to a different species, which he named C. swidae after its host
+
+ 
+
+548 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. Swida controversa, a synonym of Cornus controversa. Comparison of specimens of C. swidae from Japan and of
+C. nopeunsanicola from Korea suggests that the two taxa are conspecific and, for that reason, they are
+synonymised here. Cacopsylla peninsularis (Kwon, 1983)
+(Figs. 44-45)
+
+Psylla (Cacopsylla) peninsularis Kwon, 1983: 46. Cacopsylla penninsularis [sic], Park, 1996: 272. Psylla (Cacopsylla) peninsularis hanlasanensis Kwon, 1983: 46, synonymised by Park, 1996: 272. Cacopsylla (Hepatopsylla) sorbicoccinea Inoue, 2004a: 409, syn. nov.
+
+Material examined. South Korea: 1 9 paratype of Psylla (Cacopsylla) peninsularis, GB, Mt. Palgongsan,
+27.v.1981 (Y. J. Kwon) (NHMB); | @ paratype of Psylla (Cacopsylla) peninsularis hanlasanensis, JJ, Mt. Hanlasan, 23.vii.1981 (Y. J. Kwon) (NHMB).—South Korea (GB, GG, GW) (NHMB, SNU), Japan (SNU). Host plant. Sorbus alnifolia (Sieb. & Zucc.) K. Koch (Rosaceae), confirmed by the presence of immatures. Comments. The comparison of paratypes of Cacopsylla peninsularis and C. peninsularis hanlasanensis with
+Japanese specimens of C. sorbicoccinea showed that the three taxa are conspecific. For this reason, we synonymise
+C. sorbicoccinea with C. peninsularis. We also confirm the synonymy of C. peninsularis hanlasanensis with the
+latter suggested by Park (1996). Cacopsylla pseudosieboldiani (Konovalova & Loginova, 1985)
+(Figs. 46-48)
+
+Psylla pseudosieboldiani Konovalova & Loginova, 1985: 22. Cacopsylla pseudosieboldiani; Labina et al. 2014: 327. Psylla (Hepatopsylla) abieti sensu Kwon, 1983: 69, p. p., nec Kuwayama, 1908: 175. Psylla koreana Park, 1992: 22, syn. nov.
+
+Cacopsylla koreana; Park, 1996: 271. Cacopsylla sieboldiana Li, 2011: 1106, syn. nov.
+
+Material examined. South Korea: | 3, 1 9, identified as Psylla abieti, JJ, Mt. Hanlasan, 22.vii.1981 (Y. J. Kwon)
+(NHMB).—South Korea (GB, GG, GN, GW, JB, JJ, JN) (NHMB, NIBR, SNU). Host plant. Acer pseudosieboldiani (Pax) Kom., A. pictum Thunb. var. mono (Maxim.) Maxim. (Sapindaceae), confirmed by the presence of immatures. Comments. Among the East Asian Cacopsylla species associated with Acer spp. (Sapindaceae) (Konovalova
+& Loginova 1985; Park & Lee 1992), two species, i.e. C. abieti and C. pseudosieboldiani, are characterised by
+massive, apically truncate genal processes and by relatively broad, yellow to ochreous forewings, lacking a dark
+pattern except for the dark claval apex and bearing very dense surface spinules, covering the entire wing
+membrane. The paramere of C. abieti is broad subapically, that of C. pseudosieboldiani slender. Psylla koreana
+Park (1992) and Cacopsylla sieboldiana Li (2011) display these head and forewing characters and, in particular the
+apically slender paramere, suggesting that they are conspecific with C. pseudosieboldiani. For this reason, we
+synonymise them. We have examined specimens from JJ identified by Y. J. Kwon as P. abieti that are C.
+pseudosieboldiani. Judging from his description, it appears that the specimens treated by Kwon (1983) under P.
+abieti are a mix of C. albopontis and C. pseudosieboldiani. Cacopsylla pulchra (Zetterstedt, 1840)
+(Fig. 49)
+
+Chermes pulchra Zetterstedt, 1840: 309. Psylla sapporensis Kuwayama, 1908: 166; synonymised by Miyatake, 1964b: 7. TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 549
+
+Psylla (Hepatopsylla) kwonnabiae Kwon, 1983: 71, syn. nov.
+Cacopsylla kwonnabiae; Park, 1996: 271. Material examined. South Korea: | ¢, 1 Q paratypes of Psylla (Hetatopsylla) kwonnabiae, GG, Mt. Myeongseongsan, 16.v.1982 (Y. J. Kwon) (NHMB).—South Korea (GB, GG, GW), Europe (Austria, Czech
+Republic, France, Germany, Italy, Russia, Switzerland) (MHNG, NHMB, SNU). Host plant. Salix gracilistyla Miq. (Salicaceae), confirmed by the presence of immatures. Comments. The comparison of specimens of Cacopsylla pulchra from Europe with paratypes of C.
+kwonnabiae shows that they are conspecific. For this reason, they are synonymised here. Cacopsylla sangjaei (Kwon, 1983)
+(Figs. 50-52)
+
+Psylla (Hetatopsylla) sangjaei Kwon, 1983: 72. Cacopsylla sangjaei; Park, 1996: 272. Cacopsylla idiocrataegi Li, 1992b: 91, syn. nov.
+
+Material examined. South Korea (GG, GW) (NHMB, SNU). Host plant. Crataegus pinnatifida Bunge (Rosaceae), confirmed by the presence of immatures. Comments. Cacopsylla sangjaei develops on Crataegus pinnatifida on which it is commonly found. The
+description of C. idiocrataegi by Li (1992b), that develops also on Crataegus pinnatifida, suggests that this species
+is conspecific with C. sangjaci. The two taxa are, therefore, synonymised. Cacopsylla satsumensis (Kuwayama, 1908)
+(Fig. 53)
+
+Psylla satsumensis Kuwayama, 1908: 177. Cacopsylla satsumensis; Inoue, 2010: 352. Psylla (Hepatopsylla) truncaticephala Kwon, 1983: 70, syn. nov.
+Cacopsylla truncaticephala; Park, 1996: 272. Material examined. | 3, 1 2 paratypes of Psylla (Hetatopsylla) truncaticephala, JN, Hongdo Island, 11.viii.1981
+CY. J. Kwon) (NHMB).—South Korea (JJ, JN) (NHMB, SNU), Japan (SNU). Host plant. Rhaphiolepis indica (L.) Lindley (Rosaceae), confirmed by the presence of immatures. Comments. The comparison of paratypes of P. truncaticephala with specimens of C. satsumensis from Japan
+shows that they are conspecific, sharing the brown cloudy pattern in the apical half of the forewing and the host
+plant Rhaphiolepis indica (L.) Lindl. (Rosaceae), not Camellia japonica as suggested by Kwon (1983). For this
+reason, we synonymise the two taxa here. Cacopsylla visci (Curtis, 1835)
+Psylla visci Curtis, 1835: 565. Material examined. South Korea (GW) (SNU), Europe (Austria, France, Germany, Spain, Switzerland) (MHNG,
+NHMB). Host plant. From Korea only adults are available which were collected in a light trap. It is likely that the
+species develops on Viscum coloratum (Kom.) Nakai (Viscaceae), the only species of this genus occurring in
+Korea. Comments. New record for Korea. 550 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. Cacopsylla zinovjevi (Loginova, 1965)
+
+Psylla zinovjevi Loginova, 1965: 203. Cacopsylla zinovjevi; Li & Yuang, 1995: 138. Material examined. South Korea (GW) (NHMB), Russia (MHNG). Host plant. Salix sp. (Salicaceae). Comments. New record for Korea. Cyamophila floribundae Cho & Burckhardt, sp. nov.
+(Figs. 54, 69, 71, 73, 75, 77, 79-80)
+
+Diagnosis. The new species is similar to Cyamophila hexastigma (Horvath, 1899). It differs in the surface spinules
+of the forewing which are denser and irregularly spaced, leaving only narrow spinule-free stripes along the veins. It
+differs from C. hexastigma also in the host: Maackia floribunda, rather than M. amurensis. Description. Adult. Colour and structure similar to C. hexastigma. Body colour greenish (Fig. 54), yellowish
+in ethanol preserved specimens, with whitish pattern on head and thorax in young specimens becoming dark brown
+in overwintered individuals. Antenna yellow, segments | and 2, greyish brown, segments 4—7 brown apically, dark
+portion becoming larger in more distal segments, segments 8-10 brown to almost black. Forewing transparent,
+veins yellow or brown; membrane transparent, slightly yellowish, particularly towards the wing apex and in older
+specimens; in old specimens also sometimes yellow or ochreous stripes along veins in apical part; with each a
+conspicuous brown spot in the middle of cells m,, m, and cu, along wing margin; surface spinules present in all
+cells, densely spaced forming irregular transverse rows, leaving only narrow, spinule-free stripes along the veins. Terminalia as in Figs. 75, 77, 79-80. Measurements (in mm; 3 3, 3 2): head width 3 0.92-0.97, 2 0.98-1.05; antenna length 3 2.08-2.34, 2
+2.16-2.39; forewing length 3 2.86-3.10, 2 3.12-3.31; metatibia length 3 0.60-0.65, 2 0.66-0.69; proctiger
+length 3 0.39-0.44, 9 0.77-0.83. Type material. Holotype 3, South Korea, JJ, Jeju-si, Halla Arboretum, 04.viii.2015, Maackia floribunda (G.
+Cho) (SNU; dry mounted).—Paratypes, South Korea: same data as holotype but, 10 3, 20 2, 1 immatures, (SNU,
+dry and slide mounted, in 95% ethanol); same data but, 1 3, 2 2, 5 immatures, 29.iv.2016 (D. Burckhardt & G. H.
+Cho) (NHMB, SNU; 70% and 95% ethanol). Host plant. Maackia floribunda (Miq.) Takeda (Fabaceae), confirmed by the presence of immatures. Etymology. Named after its host plant Maackia floribunda. Comments. Cyamophila floribundae is morphologically similar to C. hexastigma and differs mostly in the
+distribution of the surface spinules. The male paramere is in average slightly stronger widened towards the apex in
+the former. Psylla alniformosanaesuga Lauterer et al., 1988
+(Figs. 55-57)
+
+Psylla alniformosanaesuga Lauterer et al., 1988: 72. Psylla alni, Kwon, 1983: 40, nec Linnaeus, 1758: 454, misidentification. Material examined. South Korea: 1 3, 1 9 identified as Psylla aini, GB, Mt. Palgonsan, 18.vi.1983 (Y. J. Kwon)
+(NHMB).—South Korea (GB, GN, GW) (NHMB, SNU), Taiwan (NHMB). Host plant. A/nus incana (L.) Medik. subsp. hirsuta A.Léve & D.Léve (Betulaceae), confirmed by the
+presence of immatures. Comments. All previous records of Psylla alni from Korea (Kwon 1983; Park 1996; Kwon ef al. 2015a)
+concern P. alniformosanaesuga. The former is excluded from the psyllid fauna of Korea. TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 551
+
+ 
+
+FIGURES 69-76. Comparison between Cyamophila floribundae sp. nov. (69, 71, 73, 75) and Cyamophila hexastigma (70, 72,
+74, 76). 69-70. Head, dorsal view. 71-72. Forewing. 73-74. Forewing surface spinulation. 75-76. Female terminalia, in
+profile. Scale = 0.1mm. 552 + Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. id p a
+FIGURES 77-82. Comparison between Cyamophila floribundae sp. nov. (77, 79, 80) and Cyamophila hexastigma (78, 81,
+82). 77-78. Male terminalia, in profile. 79, 81. Paramere, outer surface. 80, 82. Distal segment of aedeagus. Scale = 0.1mm. TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 553
+
+Psylla longicauda Konovalova, 1986
+(Figs. 58-60)
+
+Psylla longicauda Konovalova, 1986: 148. Material examined. South Korea (GG, GW) (NHMB, SNU). Host plant. Prunus padus L. (Rosaceae), confirmed by the presence of immatures. Comments. New record for Korea. Triozidae
+
+Eotrioza ussuriensis Konovalova, 1987
+(Figs. 83-84)
+
+Eotrioza ussuriensis Konovalova, 1987: 35. Trachotrioza beijingensis Li, 2011: 1350, syn. nov.
+
+Material examined. South Korea: | 3, 3 2, GW, Hongcheon-gun, Nae-myeon, Myeonggae-ri, 17.v.2016 (G. Cho
+& D. Burckhardt) (NHMB, SNU). Host plant. Unknown. Comments. Previously reported from Korea from a single female specimen without exact locality information
+(Kwon et al. 2015b). Li (2011) erected Trachotrioza for two new Chinese species, 7. beijingensis based on one male and one female,
+and &. apicinigra based on two males. Li’s (2011) description leaves little doubt that Zrachotrioza beijingensis is a
+junior synonym of £otrioza ussuriensis originally described from the Russian Far East (Konovalova 1987). The
+differences between 7. beijingensis and T. apicinigra mentioned in the original description (Li 2011), mostly size
+and colour, are more difficult to interpret. As we have not examined Li’s types, we keep the two as separate species
+and transfer the latter to Eotrioza. This results in following nomenclatorial changes: Eotrioza Konovalova, 1987 =
+Trachotrioza Li, 2011, syn. nov., Eotrioza ussuriensis Konovalova, 1987 = Trachotrioza beijingensis Li, 2011,
+syn. nov., Eotrioza apicinigra (Li, 2011), comb. nov. from Trachotrioza. Trioza chilgia Park & Lee, 1980, stat. rev. (Figs. 85-86)
+
+Trioza camphorae sensu Kim, 1965: 53, nec Sasaki, 1910: 277. Trioza chilgia Park & Lee, 1980: 15. Heterotrioza (Dyspersa) chilgia, Kwon & Lee, 1981: 159. Heterotrioza (Dyspersa) noknamui Kwon & Lee, 1981: 159; synonymised by Park, 1996: 275. Trioza brevifrons sensu Kwon & Lee, 1981: 160, nec Kuwayama, 1910: 61, misidentification
+Metatriozidus brevifrons sensu Kwon et al., 2015d: 1, nec Kuwayama, 1910: 61. Material examined. South Korea: 2 3, 4 2 identified as Heterotrioza noknamui, JJ, Jungmun, 23.vii.1981 (Y. J.
+Kwon) (NHMB).—South Korea (GG, JJ, JN) (NHMB, SNU). Host plant. Celtis sinensis Pers. (Ulmaceae). Comments. Kwon et al. (2015b, c) synonymised Trioza chilgia, including its junior synonym Heterotrioza
+noknamui, and the Chinese Trioza bifasciaticeltis Li & Yang, 1991 with Trioza brevifrons Kuwayama, 1910, a
+species described from Taiwan. They also transferred the species to the artificial genus Metatriozidus which was
+synonymised with Zrioza by Yang et al. (2013). The ‘revisionary survey’ of the ‘four species’ by Kwon et al. (2015d) suffers from some misconceptions. Trioza brevifrons was described by Kuwayama (1910) from a single female from Taiwan. Miyatake (1964b)
+reported the species from Japan though pointing out that the two Japanese specimens at hand differ from 7.
+brevifrons in the longer genal processes. Later, Miyatake (1969) listed two additional specimens, one from Celtis
+
+ 
+
+554 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. sinensis var. japonica, as Trioza sp. 1 suggesting it may belong to a new species. Miyatake (1971) identified a
+single female from Korea (as Zrioza sp.) ‘as the species which the author is ready to describe from Japan in the near
+future.” Miyatake (1976) listed another female (as Trioza sp.) from Japan from Celtis sinensis var. japonica. Miyatake (1979), finally, reported again T. brevifrons from Japan suggesting that the population from Japan may
+represent a new species. Kwon & Lee (1981) listed 7 brevifrons from Korea referring to a personal communication
+of Y. Miyatake to Y. J. Kwon. In his book, Kwon (1983) reproduced an English translation of the original German
+description of T. brevifrons almost verbatim. Apparently, he has not seen the holotype nor other material of 7.
+brevifrons from Taiwan. It is difficult to understand why he decided that the species should have 1+3 metatibial
+spurs, a character not mentioned in the original description. There is also no information given by Kuwayama
+(1910) on the host plant. Park (1996) synonymised 1 chilgia and H. noknamui, and suggested that T. brevifrons
+sensu Kwon (1983) is a misidentification, probably following Miyatake (1979). Neither Yang (1984) nor Yang et
+al. (2013) treated 7. brevifrons due to the lack of material. They certainly did not exclude the species from the
+Taiwanese fauna as was erroneously suggested by Kwon er al. (2015b). According to Kuwayama’s (1910)
+description, 7. brevifrons has an almost straight vein Rs (‘Radius fast gerade’) which is relatively long
+(‘Radialstiick der Costa 2mal so lang wie das Spitzenstiick derselben’). The Japanese and Korean species
+associated with Celtis has, however, a distinctly curved, short vein Rs and the portions of the fore margin between
+the apices of veins R, and Rs, and between the apices of veins Rs and M,,, are subequal in length. We conclude that
+the Taiwanese T. brevifrons and the triozids on Celtis sinensis var. japonica reported under various names from
+China, Japan and Korea are not conspecific. The former, whose holotype seems lost, has to be regarded as a nomen
+dubium whereas the latter should be named Trioza chilgia with the junior synonym Heterotrioza noknamui. Not
+having seen relevant material of 7. brevifrons sensu Kwon (1983) nor of Trioza bifasciaticeltis we cannot comment
+on their identity. In any case, currently there are no reliable records of 7. brevifrons from outside Taiwan. Judging
+from the description of Ceropsylla celticola Li, 2011 from China collected on Celtis tetrandra, this species is
+probably also closely related to 7. chilgia. According to Kwon & Lee (1981) the records of Trioza camphorae Sasaki, 1910 from Korea (Kim 1965; see
+also Kwon 1983: 95) concern all Trioza chilgia. It is difficult to understand why Kwon et al. (2015a, c) list Trioza
+camphorae from Korea citing Kim (1965) as source. There are so far no reliable records of Trioza camphorae from
+Korea. The genus Metatriozidus was synonymised by Yang er al. (2013) for its artificial nature and not lack of
+definition as suggested by Kwon et al. (2015c, d). We firmly believe that any biologically meaningful classification
+of organisms should reflect phylogeny and not mere resemblance between taxa. Trioza cinnamomi (Boselli, 1930), comb. rev. (Figs. 87-90)
+
+Spanioza cinnamomi Boselli, 1930: 201. Metatriozidus cinnamomi, Kwon et al., 2015d: 1. Material examined. South Korea (JJ, JN) (NHMB, SNU). Host plant. Cinnamomum yabunikkei H.Ohba (Lauraceae), confirmed by the presence of immatures. Comments. Our specimens of Trioza cinnamomi were collected on Cinnamomum yabunikkei H. Ohba
+(Lauraceae). For the use of Metatriozidus by Kwon et al. (2015a, d) see comments under 7. chilgia. Trioza machilicola Miyatake, 1968, comb. rev. (Figs. 91-94)
+
+Trioza machilicola Miyatake, 1968: 1. Metatriozidus machilicola, Kwon et al., 2015c: 1. Material examined. South Korea (JJ, JN) (NHMB, SNU). Host plant. Machilus thunbergii Sieb. & Zucc. (Lauraceae), confirmed by the presence of immatures. TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 555
+
+nsis, adult female. 85. Trioza chilgia,
+
+-a chilgia, adult female of winter generation. 87. Trioza cinnamomi, adult male. 88. ‘a cinnamomi, fifth instar immature. 90. Galls induced by immatures of Trioza
+
+FIGURES 83-90. Habitus. 83. Eotrioza ussuriensis, adult male. 84. Eotrioza ussuric
+
+adult male of summer generation. 86. 7
+Trioza cinnamomi, adult female. 89. Tri
+
+cinnamomi. 56 © Zootaxa 4238 (4) © 2017 Magnolia Press
+
+ 
+
+ 
+
+FIGURES 91—96. Habitus. 91. Trioza machilicola, adult female. 92. First and second instar immatures of Trioza machilicola. 93. Parasitized fifth instar immature of Trioza machilicola. 94. Infected symptoms of Trioza machilicola. 95. Trioza quercicola,
+adult male. 96. Trioza quercicola, adult female. Comments. Trioza machilicola has been reported from Korea previously (Cho & Lee 2015b; Kwon ef al. 2015a, d). For the use of Metatriozidus by Kwon et al. (2015a, d) see comments under 7. chilgia. Trioza quercicola Shinji, 1944
+
+(Figs. 95-96)
+
+Trioza quercicola Shinji, 1944: 455. Material examined. South Korea (JN) (SNU). Host plant. Quercus myrsinifolia Blume (Fagaceae). Comments. New record for Korea. TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 557
+
+Trioza stackelbergi Loginova, 1967, comb. rev. (Figs. 97-100)
+
+Trioza stackelbergi Loginova, 1967: 345. Heterotrioza (Dyspersa) ukogi, sensu Kwon, 1983: 94, nec Shinji, 1940: 66, misidentification. Trioza ukogi, sensu Park, 1996: 275, nec Shinji, 1940: 66, misidentification. Metatriozidus stackelbergi, Kwon et al., 2015d: 1. Material examined. South Korea (GB, GG, GW, JN) (NHMB, SNU). Host plant. Eleutherococcus sessiliflorus (Rupr. & Maxim.) S.Y.Hu (Araliaceae), confirmed by the presence
+of immatures. Comments. Trioza stackelbergi was reported as new for Korea by Kwon et al. (2015a, d) which is not correct,
+as the species was already known from Korea under the name Heterotrioza (Dyspersa) or Trioza ukogi which is, in
+fact, a misidentification. For the use of Metatriozidus by Kwon et al. (2015a, d) see comments under T. chilgia. FIGURES 97-100. Habitus. 97. Trioza stackelbergi, adult male. 98. Trioza stackelbergi, adult female. 99. Immature of Trioza
+stackelbergi. 100. Gall induced by immature of Trioza stackelbergi. Acknowledgements
+
+We thank Hiromitsu Inoue (Institute of Fruit Tree and Tea Science, National Agriculture and Food Research
+Organization, Japan) for donating comparative material and generously sharing his profound knowledge on
+Japanese psyllids with us, Mike Wilson (National Museum Wales) for exchange of material and Taewoo Kim
+(National Institute of Biological Resources) for the loan of material, Valentina Kuznetsova and Eugenia Labina
+(Zoological Institute, Russian Academy of Sciences, St. Petersburg, Russia) for providing literature, as well as
+Hyewon Kim (Laboratory of Plant Taxonomy, Seoul National University) and Kyoungok Jee (Gonchung Nara
+Sikmul Nara) for the identification of plants. We are also indebted to Sangsoo Kim and Wongeun Kim (Gonchung
+
+ 
+
+558 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. Nara Sikmul Nara) and Jongkab Kim (Halla Arboretum) for collecting permits and help in the field. Hiromitsu
+Inoue (National Agriculture and Food Research Organization, Hiroshima), David Ouvrard (Natural History
+Museum, London) and an anonymous reviewer provided useful comments on a previous manuscript draft for
+which we are grateful. This work was partly supported by a grant from the National Institute of Biological Resources (NIBR), funded
+by the Ministry of Environment (MOE) of the Republic of Korea (NIBR 201601203). References
+
+Boselli, F.B. (1930) Studii Sugli Psyllidi (Homoptera: Psyllidae 0 Chermidae) VI. Psyllididi di Formosa raccolti dal Dr. R.
+Takahashi. Bolletino del Laboratoria di zoologia generale e agraria della Facolta agraria di poltici, 24, 175-210. Burckhardt, D. (1983) Beitréige zur Systematik und Faunistik der schweizerischen Psyllodea (Sternorrhyncha). Entomologica
+Basiliensia, 8, 43-83. Burckhardt, D. & Lauterer, P. (1997) Systematics and biology of the Aphalara exilis (Weber & Mohr) species assemblage
+(Hemiptera: Psyllidae). Entomologica scandinavica, 28 (3), 271-305.
+https://doi.org/10.1163/18763 1297X00088
+
+Burckhardt, D. & Lauterer, P. (2009) Faunistic and taxonomic notes on jumping plant-lice from the Alps (Hemiptera:
+Psylloidea: Aphalarinae). Contribution to Natural History, 12, 341-348. Burckhardt, D. & Ouvrard, D. (2012) A revised classification of the jumping plant-lice (Hemiptera: Psylloidea). Zootaxa, 3509
+(1), 1-34.
+https://doi.org/10.11646/zootaxa.3509.1.1
+
+Burckhardt, D. & Queiroz, D.L. (2013) Phylogenetic relationships within the subfamily Aphalarinae including a revision of
+Limataphalara (Hemiptera: Psylloidea: Aphalaridae). Acta Musei Moraviae, Scientiae biologicae, 98 (2), 35-56. Cho, G. & Lee, S. (2015a) Four new species of Genus Cacopsyila Ossiannilsson (Hemiptera: Psylloidea: Psyllidae) from Korea
+[Abstract]. Proceeding of Korean Society of Applied Entomology, 2015 autumn, pp. 98. Cho, G. & Lee, S. (2015) Four Psyllids (Hemiptera: Sternorrhyncha: Psylloidea), new to Korea [Abstract]. Proceeding of
+Korean Society of Applied Entomology, 2015 spring, pp. 167. Conci, C. & Tamanini, L. (1983) Craspedolepta conspersa, nuova per Vtalia, da Artemisia vulgaris (Insecta: Homoptera:
+Psylloidea). Studi Trentini di Scienze Naturali Acta Biologica, 60, 77-85. Crawford, D.L. (1911) American psyllidae III (Triozinae). Pomona College of Entomology, 3, 422-453. Curtis, L. (1835) British Entomology, being illustrations and descriptions of the genera of insects found in Great Britain and
+Ireland. Vol. 12. The author, London, 565 pp. Fitch, A. (1851) Catalogue with references and descriptions of the insects collected and arranged for the state cabinet of natural
+history. Fourth Annual Report of the Regents of the University on the condition of the state cabinet of natural history and
+the historical and antiquarian collection annexed thereto, made to the senate January 14, 1851, 4, 43-69. Foerster, A. (1848) Uebersicht der Gattungen und Arten in der Familie der Psylloden. Verhandlungen des Naturhistorischen
+Vereins der Preussischen Rheinlande, 5, 65-98. Hayashi, M. & Miyatake, Y. (2012) Psylloidea of the San-in District, West Japan (Insecta: Hemiptera). Special Bulletin of the
+Hoshizaki Green Foundation, 6, 1-97. Heslop-Harrison, G. (1949) The subfamily Liviinae Low of the Homopterous Family Psyllidae II. Annals and Magazine of
+Natural History, 12 (2), 241-270.
+https://doi.org/10.1080/00222934908653986
+
+Horvath, G. (1899) Hémiptéres de l'ile de Yesso (Japon). Termeszetrajzi fuzetek, 22, 369-374.
+
+International Commission on Zoological Nomenclature (1999) International Code of Zoological Nomenclature. 4" Edition. The International Trust for Zoological Nomenclature, London, 306 pp. Inoue, H. (2004a) Descriptions of two new and one little known species of the genus Cacopsylla (Hemiptera: Psyllidae) on
+Sorbus japonica (Rosaceae) and an observation of their biology. Entomological Science, 7, 399-413.
+https://doi-org/10.1111/j.1479-8298.2004.00089.x
+
+Inoue, H. (2004b) Descriptions of two new species of the genus Cacopsylla (Hemiptera: Psyllidae) in Japan. Esakia, 44,
+143-152. Inoue, H. (2010) The generic affiliation of Japanese species of the subfamily Psyllinae (Hemiptera: Psyllidae) with a revised
+checklist. Journal of Natural History, 44 (5-6), 333-360.
+https://doi.org/10.1080/00222930903437325
+
+Jensen, D.D. (1957) A new genus and five new species of Psyllidae from California and Lower California (Homoptera). Yasmann Journal of Biology, 15, 15-34.
+
+é-Prodanovié, D. (2010) Checklist of jumping plant-lice (Hemiptera: Psylloidea) in Serbia. Acta entomologica serbica, 15
+(1), 29-59. Kim, C.H. (1965) A list of insects of Mt. Jiri (3). Research Bulletin of Chinju Agricultural College, 4, 53-55. Klimaszewski, $.M. (1961) Psyllidologische Notizen I-II (Homoptera). Annales Zoologici, 19, 113-123. Klimaszewski, $.M. (1973) The jumping plant lice or Psyllids (Homoptera, Psylloidea) of the Palaearctic: an annotated check
+list. Annales Zoologici, Warszawa, 30, 155-286. Jeri
+
+ 
+
+ 
+
+TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 559
+
+Klimaszewski, $.M. (1987) Relationships within the Aphalarinae Léw subfamily (Homoptera, Psylloidea). Polskie Pismo
+Entomologic=ne (Bulletin Entomologique de Pologne), 57 (2), 211-233. Klimaszewski, S.M. (1989) Two new psyllid species of Japan (Homoptera, Psylloidea). Acta Biologica Silesiana, 13 (30),
+7-13. Klimaszewski, S.M. (1997) New data on the jumping plant-lice: I-III] (Homoptera, Psylloidea). Acta Biologica Silesiana, 29,
+56-64. Konovalova, Z.A. (1981) New species of Psylloidea (Homoptera) from Far East. /n: Krivoluskaya, G.O., Egorov, A.B.,
+Fedikova, V.S. (Ed. ), Novye svedeniya 0 nasekomykh dal'nego Vostoka (Hoseie ceedenua 0 nacexomox Jatenezo
+Bocmoxa) [New information on insects of the Far East]. Dal nevostochnyi nauchnyi tsentr AN SSSR, USSR, Vladivostok,
+pp. 9-17. [in Russian]
+
+Konovalova, Z.A. (1986) Hospiii sua nuctoGnomu pona Psylla, Geoffr. (Homoptera, Psyllidae) 13 npumopcKoro kpaa [A new
+species of the genus psylla Psyl/a Geoff. (Homoptera, Psyllidae) of the Primorsky Territory]. Cucmemamuka u 9ko10zun
+nacexomelx Jlanoneeo Bocmoxa, 1986, 148-150. [in Russian]
+
+Konovalova, Z.A. (1987) Hospie pox # Bu nicuiag cem. Triozidae (Homoptera, Psyllinea) 13 npumopcKoro Kpaa. Jn: Ler,
+P.A. & Kanyukova, E.V. (1987) Taxconomua nacexomorx cudupu u daneuezco 6ocmoxa CCCP [Taxonomy of the insects of
+Siberia and Far East USSR]. Axanemua Hayk CCCP, JlaHesocrounii Hay4nbiii WeHTp Onosoro-nowBeHHbIi MHCTHTYT
+[The USSR Academy of Sciences, Far East Research Center of Biology and Soil Sciences], Vladivostok, pp. 34-36. Konovalova, Z.A. (1988) Suborder Psyllinea. /n: Lehr, P.A. (Ed. ), Opredelitel’ nasekomykh Dal’nego Vostoka SSSR [Keys to
+the insects of the USSR Far East], 2, 495-540. Konovalova, Z.A. & Loginova, M.M. (1985) JIucto6noumu Pona Psylla Geoff. (Homoptera, Psylloidea, Psyllidae)
+O6uraromme Ha Knenax Ha JlanbHem Boctoxe [Plant suckers of the genus Psylla Geoffr. (Homoptera, Psylloidea,
+Psyllidae), living on maple trees in the Far East]. /n: Ler, P.A. & Storozhenko, S.Y. (Eds. ), Taxconamua u skonoeua
+wrenucmonoeux Jlarenezo Bocmoxa. Céopnuk nayunetx mpyoos [Taxonomy and ecology of arthropods from the Far East. Collected scientific works]. Far Eastern Scientific Centre, Vladivostok, pp. 18-25. [in Russian]
+
+Kuwayama, S. (1908) Die Psylliden Japans. I. Transaction of the Sapporo Natural History Society, 2, 149-189. Kuwayama, S. (1910) Die Psylliden Japans. II. Transactions of the Sapporo Natural History Society, 3, 53-66. Kuwayama, S. (1949) On a new species of the genus Togepsylla from Japan. Insecta Matsumurana, 17, 48-49. Kwon, J.H., Suh, S.J. & Kwon, YJ. (2015a) A preliminary check list of jumping plant-lice from Korea (Homoptera:
+Psylloidea) [Abstract]. Proceeding of the Entomological Society of Korea, 32. Kwon, J.H., Suh, S.J. & Kwon, Y.J. (2015b) First record of the jumping plant louse genus Eotrioza Konovalova from Korea
+(Homoptera: Triozidae) [Abstract]. Proceeding of the Entomological Society of Korea, 2015, 29. Kwon, J.H., Suh, S.J. & Kwon, Y.J. (2015c) On the identity of a triozid jumping plant-louse, Trioza brevifrons Kuwayama
+dwelling on oriental hackberry trees in East Asia (Homoptera: Triozidae) [Abstract]. Proceeding of the Entomological
+Society of Korea, 2015, 31. Kwon, J.H., Suh, S.J. & Kwon, Y.J. (2015d) Taxonomic revision of the jumping plant-louse genus Metatriozidus Li from Korea
+(Homoptera: Triozidae) [Abstract]. Proceeding of the Entomological Society of Korea, 2015, 1-28. Kwon, Y.J. (1983) Psylloidea of Korea (Homoptera: Sternorrhyncha). Insecta Koreana, Series 2, 1-181. Kwon, Y.J. & Lee, H.S. (1981) Classification of the Triozidae from Korea. Korean Journal of Plant Protection, 20 (3),
+155-167. Labina, E.S., Maryafiska-Nadachowska, A., Burckhardt, D. & Kuznetsova, V.G. (2014) Variation in sperm formation patterns
+in jumping plant-lice (Hemiptera: Psylloidea): a light microscopic study. Folia Biologica (Krakéw), 62, 321-333.
+https://doi.org/10.3409/fb62_¢
+
+Lauterer, P., Yang, C.T. & Fang, S.J. (1988) Changes in the nomenclature of five species of psyllids from Taiwan (Homoptera:
+Psylloidea), with notes on the genus Bactericera. Journal of Taiwan Museum, 41 (2), 71-74. Lee, S., Lee, Y., Cho, G., Song, H., Choi, J. & Seo, H. (2014) National List of Species of Korea [Insect] (Hemiptera Il). National Institute of Biological Resources, Incheon, 408 pp. Li, F. (1992a) On new genus and five new species of Psyllids from Shandong, China (Homoptera: Psylloidea). Journal of
+Laiyang Agricultural College, 9 (2), 143-149. Li, F. (1992b) Two new and two record species of genus Cacopsylla Ossiannilsson from China (Homoptera: Psylloidea:
+Psyllidae). Acta Agriculturae Universitatis Pekinensis, 18 (1), 91-98. Li, F. (2011) Psyllidomorpha of China (Insecta: Hemiptera). Science Press, Beijing, xli + 1976 pp. Li, F, Liu, Y. & Yang, C.K. (1993) The psyllids (Homoptera: Psylloidea) of Ningxia, China: Annotated checklist. Acta
+Agriculturae Universitatis Pekinensis, 2, 6-12
+
+Li, F. & Yang, C.K. (1991) Six new species of Trioza (Homoptera: Psylloidea: Triozidae) from China. Entomotaxonomia, 13
+(4), 263-274. Li, F. & Yuang, R. (1995) One new species and three new records of the genus Cacopsylla Oss. From China (Homoptera:
+Psylloidea: Psyllidae). Journal of Laiyang Agricultural College, 12 (2), 134-139. Linnaeus, C. (1758) Systema naturae per regna tri naturae, secundum classes, ordines, genera, species, cum characteribus,
+differentiis, synonymis, locis. Vol. 1. Editio decimal, reformata, Holmiae, Impensis Direct. Laurentii Salvii, Stockholm,
+824 pp. Loginova, M.M. (1962) New psyllids (Homoptera, Psylloidea) from the USSR. Trudy Zoologicheskogo Instituta, 30, 185-220. Loginova, M.M. (1965) New species of psyllid (Homoptera, Psylloidea) in the faunas of the USSR. Zoologicheskii Zhurnal,
+44, 198-208. Loginova, M.M. (1966) New and little-known psyllids (Homoptera, Psylloidea) from the USSR. Trudy Zoologicheskogo
+
+ 
+
+  
+
+ 
+
+ 
+
+560 - Zootaxa 4238 (4) © 2017 Magnolia Press CHO ET AL. Instituta, 37, 3-35. Loginova, M.M. (1967) New psyllids (Homoptera, Psylloidea) from the Far East of the USSR. Entomologicheskoe Obozrenie,
+46, 336-347. Low, F. (1888) Uebersicht der Psylliden von Oesterreich-Ungarn mit Einschluss von Bosnien und der Herzegowina, nebst
+Beschreibung neuer Arten. Verhandlungen der Zoologischbotanischen Gesellschaft in Wien, 38, 5-40. Meyer-Diir, R. (1871) Die Psylloden. Skizzen zur Einfiihrung in das Studium dieser Hemipternfamilie. Mitteilungen der
+schweizerischen entomologischen Gesellschaft, 3 (8), 377-406. Miyatake, Y. (1964a) A revision of the subfamily Psyllinae from Japan. II (Hemiptera: Psyllidae). Journal of Faculty of
+Agriculture, Kyushu University, 13 (1), 1-37. Miyatake, Y. (1964b) Psyllidae in the collection of the Osaka Museum of Natural History, with description of a new species
+(Hemiptera: Homoptera). Bulletin of Osaka Museum of Natural History, 17, 19-32. Miyatake, Y. (1968) A new Japanese species of from Machilus thunbergii, with descriptions of the immature stages and
+notes on biology (Hemiptera: Psyllidae). Transactions of the Shikokiu Entomological Society, 10 (1), 1-10. Miyatake, Y. (1969) On the Psyllidae from Niigata Prefecture, North Honshu, Japan I (Hemiptera). Bulletin of Osaka Museum
+of Natural History, 22, 63-83. Miyatake, Y. (1971) On some species of Psyllidae from Korea (Hemiptera: homoptera). Bulletin of Osaka Museum of Natural
+History, 24, 1-4. Miyatake, Y. (1973) Notes on the genus Euphalerus of Japan, with description of a new species (Homoptera: Psyllidae). Bulletin of the Osaka Museum of Natural History, 27, 23-28. Miyatake, Y. (1976) Psyllidae (Hemiptera) of Tsushima Island. In: Zsushima no Seibutsu. Nagasaki Biological Society,
+Nagasaki, pp. 487-495. Miyatake, Y. (1979) Psyllidae of Niigata Prefecture. /n: Baba, K. (Ed. ), Niigata: Niigata-ken no Konchii, 1979, pp. 211-230. Miyatake, Y. (1981) Studies on Psyllidae of Nepal I. Results of the survey in the Kathmandu Valley, 1979. Part I (Hemiptera:
+Homoptera). Bulletin of Osaka Museum of Natural History, 34, 47-60. Ossiannilsson, F. & Janson, M. (1981) Designation of a lectotype and description of Aphalara rumicicola avicularis n. ssp. (Homoptera: Psylloidea). Entomologica Scandinavica, 12, 22-26.
+https://doi.org/10.1163/18763 1281X00300
+
+Ouvrard, D. (2016) Psyl’list—The World Psylloidea Database. Available from: http://www.hemiptera-databases.com/psyllist
+(accessed 5 June 2016)
+
+Paek, M.K., Hwang, J.M., Jung, K.S., Kim, T.W., Kim, M.C., Lee, Y.J., Cho, Y.B., Park, S.W., Lee, H.S., Ku, D.S., Jeong, J.C.,
+Kim, K.G., Choi, D.S., Shin, E.H., Hwang, J.H., Lee, J.S., Kim, S.S. & Bae, Y.S. (2010) Checklist of Korean Insects. In:
+Paek, M.K. & Cho, Y.K. (Eds. ), Nature & Ecology, Academic Series 2 , pp. 598. Park, H.C. (1996) Taxonomy of Korean psyllids (Homoptera: Psylloidea) 1. A revised checklist. Korean Journal of
+Entomology, 26 (3), 267-278. Park, H.C. & Lee, C.E. (1980) A new species of Trioza from Korea (Homoptera: Psyllidae). Nature and Life (Kyungpook
+Journal of Biological Sciences), 10 (2), 15-17. Park, H.C. & Lee, C.E. (1982a) On some species from Jeju island and Geomoon island (Korea), with the description of a new
+species. Journal of Natural Science, 2, 195-200. Park, H.C. & Lee, C.E. (1982b) Psyllids of Family Aphalaridae from Korea, with descriptions of a new genus and two new
+species. (Homoptera: Psylloidea). Nature and Life (Kyungpook J. Bio. Scis. ), 12 (1), 13-18. Park, H.C. & Lee, C.E. (1992) On some psyllids from Mt. Sobaek, with the descriptions of one new species arising on the Acer
+(Homoptera: Psylloidea). Korean Journal of Zoology, 35, 107-114. Sasaki, C. (1910) On the life history of Trioza camphorae n.sp. of camphor tree and its injuries. Journal of the College of
+Agriculture of the Imperial University of Tokyo, 2, 277-285. Sasaki, T. (anonymous in the original paper) (1915) [On Psylla malirorella Mats.]. Byéchtigai Zasshi, 2, 301-304. Seljak, G. (2006) An overview of the current knowledge of jumping plant-lice of Slovenia (Hemiptera: Psylloidea). Acta
+
+Entomologica Slovenica, 14 (1), 1-34. Shinji, O. (1938) Five new species of Psylla from North-Eastern Japan. Kontyai, 4, 149-151. Shinji, O. (1940) A new species of Japanese Psyllidae (Hemip.). Konchii sekai [Insect World], 44, 66-67. Shinji, 0. (1944) Chuei to chuei-konchu [Galls and Gall Making Insects]. Shuny6do, Tokyo, 17 pp. [pp. 440-456]
+
+Sule, K. (1909) Trioza cockerelli n.sp, novinka ze Severni Ameriky, majici i hospodatsky vyznam [Trioza cockerelli n.sp., a
+novelty from North America, being also of economic importance]. Acta Societatis Entomologicae Bohemiae, 6 (4), 102—
+108. The Entomological Society of Korea & Korean Society of Applied Entomology (1994) Check list of Insects from Korea. Kon-
+Kuk University Press, Seoul, 744 pp. The Plant List (2016) Version 1.1. Published on the Internet. Available from: http://www.theplantlist.org/ (accessed 5 June
+2016)
+
+Yang, C.T. (1984) Psyllidae of Taiwan. Taiwan Museum Special Publication Series 3, 1-305. Yang, M.M., Burckhardt, D. & Fang, S.J. (2013) Psylloidea of Taiwan. Vol. Il. Family Triozidae. National Chung Hsing
+University, Taichung, 160 pp. Yu, F.L. (1956) Notes on Psyllidae (Homoptera) from Fukien and Taiwan, China, 1. Memoirs of the College of Agriculture
+National University of Taiwan, 4 (3), 43-54. Zetterstedt, J.W. (1840) Insecta Lapponica. Voss, Leipzig, 314 pp. https://doi.org/10.5962/bhl.title.8242
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TAXONOMY OF KOREAN PSYLLIDS Zootaxa 4238 (4) © 2017 Magnolia Press - 561
