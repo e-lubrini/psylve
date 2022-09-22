@@ -1,0 +1,7109 @@
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Biodiversity in an orchard —
+An inventory in Bochum/North Rhine-Westphalia*
+
+ARMIN JAGEL, CORINNE BUCH & CHRISTIAN SCHMIDT
+
+summary
+
+On an approximately 0.5 hectare orchard on the Schattbach penalty in Bochum-Querenburg/Laer, from May
+2018 to July 2019 Flora, fauna and funga recorded as far as possible. The list of species should serve as a basis
+to analyze changes in species number and species composition in a later study
+know. These changes take place through the conversion of the former fallow meadow with occasional
+Grazing in a two-shed smooth oat meadow in the sense of a "historical meadow". A total of 710
+Species detected, among them 183 plant species (168 vascular plants, 13 mosses, 2 algae), 32 species of fungi, 13
+Lichen species and 482 animal species. In the case of the animals, the insects (400 species), in particular the
+Percentage of pollinators (158 species, 40%), in focus. Due to the change in use to a meadow full of flowers
+positive changes are most likely to be expected in this group. The pollinators will respect their
+Flower visits analyzed and the main plant species on which they were observed are listed. Included
+next to the fruit trees there are five species of the herbaceous layer (Senecio jacobaea, Heracleum sphondylium,
+Daucus carota, Anthriscus sylvestris and Cirsium arvense) each with 20 or more different ones
+Bestdubern as the most visited species. In pollination, hymenoptera species dominate with 38%
+(Hymenoptera), followed by dipterans (Diptera, 26%), beetles (Coleoptera, 18%) and butterflies
+(Lepidoptera, 18%). The proportion of endangered species with 9 (1.7%) (additional 9 species of the early warning list) and the
+Neobiota with 32 species (4.5%, 19 neophytes, 10 of which are impermanent, and 13 animal species) are relatively small. the
+The selected meadow development measures, which include mowing and sowing, are explained
+and numbers of species as well as prospects for success are also discussed against the background of climatic changes. Abstract: Biodiversity in an orchard — an inventory in Bochum (North Rhine-Westphalia/Germany)
+
+From May 2018 to July 2019, flora, fauna and funga were recorded on a 0.5 ha large orchard on
+Schattbachstrasse in Bochum-Querenburg/Laer. The list of species should serve as the basis for being able to
+analyze changes in the number of species and their composition in a later investigation. These changes are made
+by transforming the fallow grassland with occasional grazing and mowing (twice per year) into a tall oatgrass
+meadow in the sense of a "historic meadow'. A total of 710 species were identified, including 183 plant species
+(168 vascular plants, 13 mosses, 2 algae), 32 fungus species, 13 lichen species and 482 animal species. In the
+case of animals, the focus was on insects (400 species), in particular the proportion of pollinators (158 species,
+40%). Due to the transformation process from grassland into a flowery meadow, positive changes are most likely
+to be expected in this group. The pollinators are analyzed with regard to their flower visits and the most important
+plant species on which they were observed. In addition to the fruit trees, five herbaceous species (Senecio
+jacobaea, Heracleum sphondylium, Daucus carota, Anthriscus sylvestris and Cirsium arvense), each with 20 or
+more different pollinators, turned out to be the most visited species. Pollination is dominated by 38%
+hymenoptera species, followed by the true flies (Diptera, 26%), beetles (Coleoptera, 18%) and butterflies
+(Lepidoptera, 18%). The proportions of the endangered species with 9 (1.7 %) (additionally 9 species from the
+pre-warning list) and the Neobiota with 32 species (4.5 %, 19 neophytes, 10 of which are volatile, and 13 animal
+species) are relatively low. The selected development measures of the meadow, which in addition to mowing also
+include sowing, are explained and number of species and prospects of success are also discussed against the
+background of climatic changes. contents
+
+ 
+
+ 
+
+ 
+ 
+ 
+  
+  
+ 
+
+1 Introduction . 2 study area ...
+
+3 Nursing measures and development goals
+
+4 Registration of species
+
+5 results ..
+
+5.1 Plants (Flora). 5.1.1. Vascular plants (flowering plants, conifers, ferns) ..
+5.1.2 Cryptogams: Mosses (Bryophyta) and Algae (Algae)
+
+* Also published as Veréff on December 21, 2019. Bochum Bot. Ver. 11(9): 86-160. —~96-—
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lichens ....
+Mushrooms (Funga). animals (fauna)
+Invertebrate
+Insects...
+Beetles (Coleoptera)
+Flies (Diptera) .....
+Hymenoptera. Butterflies (Lepidoptera). Bugs (Heteroptera) ...
+Cicadas (Auchenorrhyncha)
+Plant lice (Stenorrhycha
+Dustbug (Psocodea)..
+Grasshoppers (Saltatoria) . other insects
+Spiders (Arachnida)
+Isopods (/sopoda)..
+Centipedes (Myriapoda). Snails (Gastropoda)
+Ringworm (Annelida)
+vertebrates
+amphibians and reptiles
+Vogel (Aves). mammals (mammalia,
+Discussion.....
+care and development measures
+Mowing versus grazing
+sowing...
+nesting opportunities . species groups
+Flora...
+Lichens and Fungi
+Fauna..
+dust
+Endangered and protected species
+neobiota
+species counts
+Outlook...
+
+   
+
+ 
+ 
+ 
+  
+  
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+
+1 Introduction
+
+If you deal with orchards, you inevitably come across statements like 'orchards
+are among the most species-rich habitats in Central Europe" and there are numbers of species
+from 3000 (e.g. B. MUNLV 2009, HINTERMEIER & HINTERMEIER 2017, INGENHORST 2019) or
+even 5000 (e.g. B. KONIGS 2017, BUND NIEDERSACHSEN 2016). exact species lists,
+which support these figures and in which all groups of species are listed apparently exist
+not, so there are no comparative values. The numbers mentioned are based on most
+of today's orchards can hardly be reached in their current state. In 2017, the two first authors planned a grazing and
+otherwise unkempt meadow under fruit trees in Bochum's Siden into a classic one
+two-sheared smooth oat meadow to transfer, which due to their botanical diversity and the
+abundance of flowers is particularly attractive for pollinating insects. The meadow is in
+Owned by the city of Bochum and was leased by the BUND Bochum in 2015,
+
+-~97-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+but until then only considered with regard to welfare. Since at the planned
+development of the meadow, sowing should also take place, the question arose right at the beginning
+what is the best way to measure the success of such care measures. So became
+decided to capture not only the plants but also the fungi, lichens and animal species, too
+driven by curiosity. how many species were already present in the orchard. The determination of the species inventory of the meadow should serve to identify the changes in the
+to be able to check the fauna at a later date. It was between
+Mapped May 2018 and July 2019. Even if not all taxa found down to species level
+could be determined and from a completeness of coverage in most
+Groups cannot be mentioned due to the short recording period, should
+the results are presented and discussed here. fig 1: Orchard on Schattbachstrasse to Pflau- Fig. 2: Orchard at the Schattbach penalty, more to the south
+menbliite, northern part (07.04.2018, A. JAGEL). Part (04/07/2019, A. JAGEL). 2 study area
+
+The orchard is in the Stiden Bochum and is part of the landscape protection area, Groes
+Holz, Laerheide, Haus Laer in Bochum-Ost* (CITY OF BOCHUM 1998, MTB 4509/23). Of the
+The main part to the west of Schattbachstrasse belongs to the district of Laer (Fig. 3:1), the smaller
+Part opposite to Querenburg (Fig. 3: 2 & 3). The meadow is right on the border of
+Ruhr Valley (Stiderbergland, Niederbergisch-Markisches Unterland) to Westenhellweg (West
+false bay). The study area is located in the sub-Atlantic climate area. In the Bochum
+The long-term average annual precipitation in the city center was 842 mm (measurements 1888-
+2010, Ludger-Mintrop urban climate station, Bochum city center, GRUDZIELANEK & al. 2011). At
+the Rudolf Geiger outdoor air conditioning station on the Kalwes in Bochum-Querenburg,
+Bochumer Sitiden and thus the orchard is much closer, even 914 mm were
+annual precipitation measured (measurements 1991-2018, climate data from the Rudolf Geiger
+Outdoor station, information from S. BLock, Climatology working group, Ruhr-Universitat Bochum). the low
+The busiest months in downtown Bochum are July and August (measuring
+gen 1888-2010, Ludger-Mintrop-Stadtklimastation, GRUDZIELANEK & al. 2011), in Bochum
+After December, Querenburg has the second rainiest month in July (climate data from the
+Rudolf Geiger outdoor station, information from S. BLOCK, working group on climatology, Ruhr University
+Bochum). The orchard has on the one hand an agricultural environment with arable land, sheep pasture and
+Horse pasture, but on the other hand also borders on residential buildings and a cemetery (Fig. 3)
+The river flows between the directly adjoining spur road in the north and a horse pasture
+
+—~ 98 —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+Schattbach, which is contained in a concrete channel and therefore hardly any underwater or Ufervege
+station. Often only a trickle can be observed here and in phases with little rain
+the stream dries up completely. bah)
+
+2
+ss
+cy
+i
+
+hey
+
+   
+
+fig 3: Aerial photo of the orchard on Schattbachstrasse in Bochum from a height of about 80 m. In the centre
+the triangular, fenced main part (1), to the right of Schattbachstrasse the unfenced areas (2 & 3)
+(October 26, 2019, M. SCHLEIMER). The study area is 0.52 hectares in size. The main part of about 0.42 ha
+west of the Schattbachstrake is fenced (Fig. 3:1). This is the area that the
+Mainly focus investigations and vegetation development. The smaller one
+Part on the other side of the street (Fig. 3: 2 & 3) is not fenced and is therefore controlled by the
+population in various ways (dog meadow, storage of garden waste and rubble,
+fruit harvest, ornamental lawn etc.). Nursing measures are here due to the multitude of disorders
+difficult. As can be seen from the historical aerial photos of the area (REGIONALVERBAND RUHR 2019),
+goes, stood on the meadow in the western part for at least 70 years a house, surrounded
+from an extensive garden. In the early 1980s the house was demolished and that
+Gelande fell fallow until an orchard was planted between 2006 and 2008 (written mid P. GAUSMANN, BOCHUM CITY). Apparently there were also sowings, whereupon the
+Occurrence of seed trefoil (Lotus corniculatus var. sativus) indicates. One
+there was no continuous and even maintenance of the area as a meadow, it was
+only sporadically grazed by a flock of sheep. Today 47 fruit trees grow in the meadow (29 apple trees, five pear trees, five cherry
+baume, six plum trees, a plum tree, a quince tree), three of which
+
+—~99—
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mighty plum trees and some apple trees in the outskirts still from the time
+come from the garden. The majority of the fruit trees were planted when the orchards were
+se planted, three trees (quince, mirabelle plum, cherry) were planted in 2016,
+a pear in 2019. In the case of a plum tree, the rootstock is cherry plum (Prunus
+cerasifera) so strongly that they grow through and around the entire tree
+Has. Other trees in the meadow are a sal willow (Salix caprea), an approximately 8 m tall one
+Hawthorn (Crataegus spec.) and two 18-20 m tall spruces (Picea abies, Fig. 2 & 3). In 2015, BUND Bochum cut down a hedge on the western border
+planted with native shrubs (Cornus mas, Crataegus spec., Euonymus europaeus,
+Ilex aquifolium, Rosa canina, Sambucus nigra, S. racemosa, Viburnum opulus). close your door
+At the border of a footpath, look at some large planted trees: sycamore (Acer
+pseudoplatanus), English oak (Quercus robur) and field elm (U/mus minor). Soil is Léss Uber Carboniferous solid-
+rock. The clayey silt soil type causes a very high effective field capacity
+(Storage capacity for plant-available soil water), which is a relatively good
+water supply for the plants even in dry periods. Together with one
+great rooting depth and a high cation exchange capacity, this results in
+an overall high soil quality (GEOLOGISCHER SERVICE NRW 2019). However is
+the soil has been anthropogenically over-formed, since it is not just the foundations of the house that are here
+are in the ground, but during the demolition apparently also trimmers of the house Uber parts of the
+Flat were distributed. The pH value therefore indicates after measurement with the Hellige pH meter
+very different values ​​in different places. In the area of ​​​​the house foundation and
+in the northern part the values ​​are between pH 6-7, in the south a pH value was higher
+measured in the acidic range around 4-5, under the spruce the pH value is even lower. 3 Nursing measures and development goals
+
+Care
+
+The aim of the maintenance measures, apart from the zoning, is the development of a species-
+rich smooth oat meadow (Dauco-Arrhenatheretum), as it used to be in the lowlands of North Rhine-
+widespread in Westphalia (FOERSTER 1983, VERBUCHELN 1992, DIERSCHKE 1997,
+NETZKE 2011). This company became the first “Plant Company of the Year” in 2019
+chosen (TISCHEW & al. 2018, UNTERLADSTETER 2020). Due to the border location of the
+search area to the low mountain range, montane elements such as e.g. the meadow
+Kummel (Carum carvi, HUMPERT 1887: "generally widespread") or lady's mantle (A/chemilla
+vulgaris agg., HUMPERT 1887: "Alchemilla vulgaris: [...] not common") appear in it. The maintenance measures took place from the summer of 2017 as a two-barreled mowing. The mowing finds —
+as far as time permits — with a scythe (Fig. 4). Remaining areas are marked with a
+Bar mower mowed to complete mowing at a reasonable time. At everyone
+A part of the area is left out during mowing and only during the following mowing, partly during the
+Mowing the next day, cut again. Such flats are available from year to year
+different places in order not to damage the meadow in its development (cf. MULLER &
+Bosshard 2010). The grass cuttings are left on the field for a few days so that
+Diaspores can fall out. A part of the cuttings is disposed of via a container. Since
+From the spring of 2019, the material from the fenced area will be dried (here
+if it is not contaminated by gauze and dog excrement) on haylofts (Fig. 5). The hay will
+Taken over from NABU Bochum, stored and then for the winter feeding of sheep
+used (NABU BOCHUM 2019). — 100 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+fig 4: Scythe mowing in early summer Fig. 5: Mowing material for drying on hay racks
+(06/04/2019, M. KRisch). (06/08/2019, A. JAGEL). The spring mowing begins after the beginning of flowering of the black elder or about to
+Whole flowers of the common oat as phanological indicator species for the flowers of numerous meadow
+graser (FULLEKRUG 1967, DIERSCHKE 1995, DROBNIK & POSCHLOD 2011). in the
+search area, this is currently the case around the beginning of June due to climate change (cf. WIDEN
+2004). Phanologically oriented mowing has the advantage over fixed-term mowing
+that the course of the weather in the spring is taken into account and that the hay is
+obtained at the optimal time in terms of seed maturity and feed value
+(DROBNIK & POSCHLOD 2011). The mowing period lasts about three to four weeks
+there. The autumn mowing is carried out more flexibly between mid-September and the beginning of October
+led. After the autumn mowing, the dense layer of moss is gradually removed. The goal is,
+to increasingly thin out the meadow and to take care of free spots on the ground where
+on the one hand be able to regenerate meadow herbs and on the other hand provide a habitat for
+inhabiting insects is created. sowing and planting
+
+Through the publication of the flora of Bochum by HUMPERT (1887) there are sufficient
+Information about the plant species Bochum meadows from the time of the outgoing
+19 century ago. Species typical for the habitat that are not (any longer) on the
+Orchards occur should be re-established by sowing. The seed comes from
+from the area and was collected there by hand or is used as regional seed Uber
+related to the seed trade. Some species are also preferred in pots and as
+Set young plants in the meadow. Plant species that grow despite being sown or planted
+not last for years or cannot multiply and spread on their own
+initially abandoned and possibly retested at a later date,
+when the condition of the meadow has evolved. This is taken into account
+supported that the establishment of certain low-growing species in the currently still
+eutrophic and mostly high-growth meadow can not yet be realized. The goals formulated in this way led to the project being called “Historic Meadow”. Species that have found themselves or are still finding themselves in the meadow, too
+if they were not yet growing in the area in HUMPERT's time, e.g. B. the neophyte in NRW
+Table hairy bittercress (Cardamine hirsuta) or Cuban spinach (Claytonia
+perfoliata), are still not removed from the meadow. =101-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+nesting opportunities
+
+After BUND Bochum began leasing the meadow in 2015,
+Orchard various nesting aids attached, next to nest boxes for birds on the
+fruit trees also a row of bee nesting stones on fence posts (Fig. 6); 2019 became
+In addition, a large insect hotel was built (Fig. 7). At different sunny places
+is piled up and left lying. Until autumn 2017 stood on the
+Meadow still several hives by the beekeeper due to insufficient
+honey crops have been removed. Due to competition from honey bees to wild insects
+this was also desirable on the part of nature conservation (cf. STEFFAN DEWENTER 1998,
+EVERTS 1995, BUCH & JAGEL 2019). BEY a
+
+    
+
+fig 6: Bee nest block with red mason bee (Osmia Fig. 7: Build a bee hotel on the orchard
+bicornis) on a fence post in an orchard (May 31, 2019, A. JAGEL). (04/09/2019, A. JAGEL). 4 Registration of species
+
+While the flowering plants are almost completely covered over the two-year period
+were allowed to be, the mapping of mosses, lichens and fungi has so far only been incomplete. Species that were easy to identify were noted, species and taxa that were more difficult to identify
+photographed from critical forms and sent to experts for assessment
+(Mosses and lichens: Dr. F. WOLFGANG BOMBLE, Dr. NORBERT STAPPER, fungi: THOMAS
+CALVERAM, KLAUS SIEPE). So far, however, nothing has been collected and the crown areas
+Some of the trees that may be important for mosses and lichens have not yet been identified
+searched. In 2018, animals were initially only noted or recorded. photographed. But there is a multitude
+of the arthropods cannot be determined with certainty without evidence, a
+Collection permit applied for, so that from August 2018 it was also possible to collect. For this
+found several times a week, almost daily in the spring and summer months,
+inspections take place. For each animal species, the exact place where the animals were found was noted
+and in many cases the behavior was noted (eating, hunting,
+mating, etc.). Since it is part of the project to develop a colorful blooming
+Glatthaferwiese is primarily about the promotion of pollinators, this was
+Group of animals given special attention during mapping and flowering
+Plants specifically searched. Where possible, the animals were photographed and (if necessary for identification)
+Glass tube caught (Fig. 8), converted to 70% alcohol and later by the third-party author
+definitely. At 6. October 2018 and the 3. July 2019 found additional collections Uber
+
+— 102 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+six or eight hours with the safety net (Fig. 9). Finds by the end of July 2019, the
+could be determined at least down to the family were included in the lists. fig 8: Male of a sociable sand bee Fig. 9: Gathering with the fishing net. (Andrena scotica), caught in a glass (04/11/2019, (10/06/2018, A. JAGEL). A. JAGEL). The recording of animal species was limited to direct catches during the day. were insect traps
+has not yet been set up and no night-time investigations have been carried out. You are for them
+Registration of certain groups is essential (e.g. B. in butterflies) and should
+follow in the years to come. Taxonomy and nomenclature for vascular plants are based on BUTTLER, THIEME & al. (2018), for mosses according to SCHMIDT (2011), for fungi according to SiePE & WOLFEL (2011) and for
+Animals according to SCHMIDT (2019). The assignment of plant species to plant families is directed
+based on PAROLLY & ROHWER (2016). All photos shown in the publication
+come from the study area. 5 results
+
+In the years 2018 and 2019, a total of
+710 species recorded. With more than two thirds (68%), the animals make up the largest proportion,
+This is followed by plants (26%) with a good quarter, lichens and fungi with around 4.5 and 4.5% respectively. 1.8% (Fig. 10). Mushrooms: 32 Lichens: 13
+
+Plant
+183
+
+ 
+
+fig 10: Number of all on the
+Species recorded in orchards
+divided into large groups. — 103 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.1 Plants (Flora)
+
+5.1.1 Vascular plants (flowering plants, conifers, ferns)
+
+Within the plants, the vascular plants take 92% compared to the mosses (7%).
+and algae (1%) make up by far the largest part (Tab. 1 & 2). Conifers and ferns are
+represented by two species each: spruce (Picea abies) and yew (Taxus baccata) or Horsetail (Equisetum arvense) and Lady Fern (Athyrium filix-femina). Species that, as part of the meadow development that has already been initiated, by seeding or
+Plantings that have entered the area are not taken into account. Total
+accordingly 168 vascular plant species for the flora of the orchard. Of them, 141 earn the
+floristic status "permanently resident" (D = | + E). fee
+
+19 of the 33 Gehdlzsippen were planted. Some of them are from the plantings
+out wild. Other walkers have settled spontaneously, e.g. B. Ivy (Hedera
+helix), blackberry (Rubus spec. ), common privet (Ligustrum vulgare) and common
+che horse chestnut (Aesculus hippocastanum). Some other types of wood, such as red beech
+(Fagus sylvatica), Lime (Tilia spec.) and European yew (Taxus baccata), germinate regularly
+mafRig in the meadow. Experience has shown that they will become permanent if they don't
+were removed by mowing. With regard to the floristic status, they are therefore still valid
+as permanent resident. In the multi-flowered rose (Rosa multiflora) and the spruce (Picea
+abies) are neophytes in NRW. Tab. 1: Gehdlzarten on the orchard on Schattbachstrasse in Bochum. Statuses: D =
+permanent (| + E), K = planted, S = synanthropic (from overgrown plantation
+emerged and probably not naturalized, / = either/or); N = neophyte, F = floral
+color in insect-pollinated species: b = blue, g = yellow, gr = grin, r = red, rs = pink, vb = blue-violet, vr
+= red-violet, w = white. lat. name German Name Family Place of Growth and Origin Status N F
+Acer campestre Field Maple Sapindac. | Seedlings in the meadow D gr
+Acer platanoides | Norway maple Sapindac. | Seedlings in the meadow, D gr
+Young plants in the hedge
+Acer Sycamore Sapindac. |Border planting, seedlings | D big
+pseudoplatanus in the meadow, young plants
+in the hedge
+Aesculus Ordinary Sapindac. | Seedlings in the meadow Ss w
+hippocastanum horse chestnut
+Carpinus betulus _| Hornbeam Betulac. Seedlings in the meadow D
+Cornus mas Cornus Cornac. Hedge planted, blooming, K g
+not yet fruiting
+Corylus avellana | Common hazel | betulac Hedge planted, not yet K
+fertile
+Crataegus sp. | Weif&dorn Rosac. Meadow and hedge planted, D w
+Young plants in the meadow
+Cydonia oblonga _| Quince Rosac. Orchard, planted K w
+Euonymus Pfaffenhiitchen Celastrac. | Hedge, planted, 2019 first- | K+S large
+europaeus mally flowering, young plants
+in the meadow
+Fagus sylvatica European beech Fagac. Seedlings in the meadow D
+Hedera helix ivy araliac. On WeifSdorn and in D gr
+hedge
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+= 104 -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+lat. name German Name Family Place of Growth and Origin Status F
+Ilex aquifolium Ordinary Aquifoliac. | Hedge planted, not yet K
+Holly fertile
+Juglans regia walnut tree Juglandac. | Young plant in the meadow D
+Ligustrum vulgare | Ordinary Oleac. spontaneously at the foot of the D w
+Privet hawthorn
+Malus domestica _| Apple tree rosac. Obstgehdlz, planted K w
+Picea abies Norway Spruce | Pinac. meadow, planted, seedlings | K+S
+in the meadow
+Prunus avium SU Cherry Rosac. Obstgehdlz, planted K w
+Prunus cerasifera_| Cherry Plum Rosac. Obstgehdlz, planted K w
+Prunus domestica | Plum Tree Rosac. Obstgehdlz, planted K w
+Prunus domestica | Mirabelle Rosac. Obstgehdlz, planted K w
+subsp. syriaca
+Pyrus communis _ | Pear tree rosac. Orchard, planted K w
+Quercus robur English oak Fagac. Border planting, seedlings D
+in the meadow and in the
+hedge
+Rosa canina Dog-Rose Rosac. probably in the meadow | D+K ts
+spontaneous, planted in hedge
+Rosa multiflora Multi-flowered rose Rosac. Wiese, probably spontaneously KIS? w
+Rubus fruticosus | Blackberry Rosac. Wiese, spontaneously D w
+agg. Salix caprea Sal willow Salicac. Wiese, probably spontaneously K/D?. G
+Sambucus nigra Black Elder | Adoxac. Unter dem Wei&dorn and D+K w
+the spruces spontaneously, in the
+Hedge also planted
+Sambucus Grape Elderberry | Adoxac. Hedge, planted K 9g
+racemosa
+Taxus baccata Yew Taxac. Seedlings in the meadow D
+Tilia spec. Linden Tiliac. Seedlings in the meadow D g
+Ulmus minor field elm Ulmac. border planting K
+Viburnum opulus | Ordinary Adoxac. hedge, planted K w
+snowball
+Tab. 2: Herbaceous species of the orchard on Schattbachstrasse in Bochum: growth location: W = meadow, G =
+
+ 
+
+one year old/ biennial, 2! = perennial, N = neophyte, F = flower color. Latin name German name Family Place | GL LF Status | N | f
+wWw/|G a|o|D BF
+Achillea millefolium common yarrow Asterac. + + [+ + w
+Aegopodium podagraria | Giersch, Gei®fuR Brassicac. + + + w
+Agrimonia eupatoria Agrimony Rosac. + + + 9
+Agrostis stolonifera White Bentgrass Poac. + + [+ +
+Agrostis tenuis Red Bentgrass Poac. + + [+ +
+Ajuga reptans Creeping Ginsel Lamiac. + + [+ + b
+Alliaria petiolata Garlic mustard Brassicac. + + + w
+Allium siculum Sicilian honey leek | amaryllidac. + + + | ve
+Allium ursinum wild garlic amaryllidac. + + w
+Allium vineale Vineyard Leek Amaryllidac. +] tie] t + ve
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+105 —
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+Latin name German name Family Place | GL LF Status | N | f
+W/G al DiU BF
+
+Alopecurus pratensis Meadow Poac. + + | + +
+
+foxtail grass
+
+Anthriscus sylvestris Meadow Chervil Apiac. + + | + + w
+
+Arabidopsis thaliana Thale cress Brassicac. + + www
+
+Armoracia rusticana Horseradish Brassicac. @ + + www
+
+Arrhenatherum elatius _| Smooth Oat Poac. + + [+ +
+
+Athyrium filix-femina Woodsiac Lady Fern. + + +
+
+Bellis perennis daisy Asterac. + + [+ +
+
+Brassica napus oilseed rape Brassicac. + +]+]g
+
+Bromus hordeaceus Soft brome Poac. + + +
+
+Bromus sterilis Pigeon brome poac. + +
+
+Calystegia sepium Bindweed Convolvulac. + + + w
+
+Cardamine flexuosa bittercress Brassicac. @ + ww
+
+Cardamine hirsuta Hairy bittercress__| Brassicac. + + + |w
+
+Cardamine pratensis Cuckoo Flower Brassicac. + + + rs. Carex hirta Hairy Sedge Cyperac. + + [+ +
+
+Cerastium glomeratum _| Knauel's chickweed Caryophyllac. | + + + w
+
+Cerastium holosteoides_| Hornwort | caryophyllac. | + + [+ + w
+
+Circaea lutetiana GroRes Witch's-weed Onagrac. + + + w
+
+Cirsium arvense Creeping Thistle Asterac. + + + rs. Cirsium vulgare Creeping Thistle_| Asterac. + + + rs
+
+Claytonia perfoliata Cuban Spinach Montiac. + + +l[w
+
+Convolvulus arvensis Convolvulac._| + + + www
+
+Crepis capillaris Small-headed Pippau Asterac. + +] + + g
+
+Crocus xstellaris Gold Crocus Iridac. + + +]+]g
+
+Crocus tommasinianus _| Fairy Crocus Iridac. + + + | + | vb
+
+Cynosurus cristatus Crested Poac. + + [+ +
+
+Dactylis glomerata Orchard Grass Poac. + + | + +
+
+Daucus carota Wilde Méhre Apiac. + + + w
+
+Draba verna agg. Species group Brassicac. + + w
+
+hungry flowers
+
+Elymus repens Creeping Wheatgrass Poac. + + | + +
+
+Epilobium hirsutum Shaggy willow ruffle__| Onagrac. + + + rs
+
+Epilobium montanum Berg-Weidenréschen Onagrac. + + + [+rs
+
+Epipactis Helleborine Broad-leaved Helleborine | Orchidac. + + + ve
+
+Equisetum arvense field horsetail Equisetac. + + +
+
+Euphorbia lathyris Cruciform Spurge | euphorbiac. + + | + | big
+
+Euphorbia peplus Garden Spurge Euphorbiac. + gr
+
+Festuca arundinacea Tall Fescue Poac. + + [+ +
+
+Festuca gigantea Giant Fescue Poac. + + +
+
+Festuca pratensis Meadow Fescue Poac. + + | + +
+
+Festuca rubra Red Fescue Poac. + + [+ +
+
+Ficaria verna Lesser Celandine Ranunculac. +] + + + g
+
+Fragaria vesca Wild Strawberry Rosac. + + + w
+
+Fritillaria meleagris Checkered Lilyac. + + + vr
+
+Galanthus nivalis Lesser Snowdrop | amaryllidac. + + + +[f
+
+Galeopsis tetrahit Stinging Hohifang Lamiac. + + w
+
+Galium album White Bedstraw_| Rubiac. i + [+ + Ww
+
+Galium aparine Bedstraw Rubiac. + + w
+
+ 
+
+ 
+
+ 
+
+ 
+
+— 106 -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+Latin name German name Family Place | GL LF Status | N | f
+W/G al Diu BF
+Geranium dissectum Slit-leaved Geraniac. + +rs
+cranesbill
+Geranium robertianum | Stinking Geraniac. + + ts
+cranesbill
+Geum urbanum Rosac. + + + g
+Glechoma hederacea Gundermann Lamiac. i + [+ + vb
+Heracleum sphondylium | Meadow Barenklau Apiac. + + | + + w
+Holcus lanatus Woolly Honeygrass Poac. + + [+ +
+Holcus mollis Soft Honeygrass Poac. + + +
+Hypercum dubium Spotted St. John's Wort_| Hypericac. + + [+ + g
+Hypericum tetraptera | Winged Hypericac. + + + g
+Johannis herbs
+Hypochaeris radicata Pigletwort Asterac. + +] + + g
+Juncus effusus European Rush Juncac. i + | + +
+Lamium album White Deadnettle Lamiac. + + w.
+Lamium maculatum Spotted Deadnettle Lamiac. + + vr
+Lamium purpureum Purple Deadnettle Lamiac. + + vr
+Lactuca serriola Compass Lettuce Asterac. + + +19
+Lapsana communis Rainkohl Asterac. + + g
+Lathyrus pratensis Meadow Vetchling Fabac. + + [+ + g
+Lolium perenne Perennial Poac. + +] + +
+ryegrass
+Lotus comiculatus seed trefoil Fabac. + +] + + +\g
+var. sativus
+Lotus uliginosus marsh trefoil Fabac. + + [+ + g
+Luzula campestris Field grove rush, Juncac. + + | + +
+rabbit bread
+Lysimachia nummularia_| Pennywort Primulac. + + + g
+Lythrum salicaria Loosestrife Lythrac. + + + vr
+Matricaria discoidea Rayless Chamomile Asterac. + + + | w
+Matricaria recutita Real Chamomile Asterac. i + www
+Montia arvensis wildflower Montiac. + + w.
+Muscari botryoides Small Grape Hyacinth | Asparagac. + + + b
+Myosotis arvensis field forget-me-not _ | Boraginac. + + b
+Myosotis sylvatica Garden Forget-Me-Not_| Boraginac. + + b
+Narcissus Yellow Narcissus Amaryllidac. + + + g
+pseudonarcissus
+Narcissus hybrids Narcissus varieties Amaryllidac. + + +]+]g
+Oxalis stricta Stiff Wood Sorrel Oxalidac. + + +l1g
+Paeonia officinalis Peony Paeoniac. + + +] 4+] vr
+Papaver rhoeas Common Poppy Papaverac. + + a
+Phalaris arundinacea Poac. + + +
+Phlieum pratense Timothy Poac. + + | + +
+Plantago lanceolata Plantain Plantaginac. + + [+ +
+Plantago major plantain Plantaginac. + + +
+Poa annua Annual bluegrass Poac. + +
+Poa humilis Blue Meadow Poac. - +] + +
+bluegrass
+Poa pratensis Bluegrass Poac. + + | + +
+Poa trivialis habit. Bluegrass Poac. + | + +
+
+ 
+
+-107-
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Latin name German name Family Place | GL LF Status | N | f
+W/G aj/o|}Di|U BF
+Potentilla anserina Goose Cinquefoil Rosac. + + + g
+Potentilla indica Indian mock strawberry | rosacea + + + +] g
+Prunella vulgaris Common Accentor Lamiac. + + [+ + vb
+Pulmonaria officinalis Ordinary Boraginac. + + + vr
+lungwort
+Ranunculus acris Sharp HahnenfuR Ranunculac. + +] + + g
+Ranunculus repens Creeping buttercup & __| Ranunculac. + + | + + g
+Rumex acetosa Greater Sorrel Polygonac. + + [+ +
+Rumex crispus Curled dock Polygonac. + + +
+Rumex obtusifolius Blunt dock | Polygonac. + + +
+Senecio jacobaea Ragweed Asterac. + + [+ + g
+Silene vulgaris Common Catchfly | caryophyllac. | + + [+ + w
+Sinapis arvensis Field Mustard Brassicac. + + g
+Sonchus asper Rough Sow-thistle Asterac. + + g
+Sonchus oleraceus Cabbage Thistle Asterac. + + g
+Stachys sylvatica Forest Ziest Lamiac. + + + ve
+Stellaria graminea Grass Chickweed Caryophyllac. | + + [+ + w
+Stellaria media Chickweed Caryophyllac. | + + 1+ w
+Taraxacum officinale species group Dandelion | Asterac. + + | + + g
+agg. Trifolium dubium Little Clover Fabac. + + +] + g
+Trifolium pratense meadow clover Fabac. + + | + +rs. Trifolium repens Wei-Clover Fabac. + + | + + w
+Trisetum flavescens Golden Oat Poac. i + [+ +
+xTriticale rimpaui Triticale Poac. + + +] +
+Urtica dioica Greater Nettle Urticac. cel++
+Veronica arvensis Field Speedwell Plantaginac. + +] + b
+Veronica chamaedry's Germander Speedwell Plantaginac. + + [+ + b
+Veronica hederifolia Ivy-Leaf Speedwell | Plantaginac. + + b
+Veronica persica Persian Speedwell Plantaginac. + + +|b
+Veronica serpyllifolia Sweet-leaved Plantaginac. + +] + + vr
+speedwell
+Veronica sublobata Hedge Speedwell Plantaginac. +i + +] +ve
+Vicia cracca Vetch Fabac. + + [+ + vr
+Vicia hirsuta Hairy Vetch Fabac. + + vb
+Vicia segetalis Vetch Fabac. + + vr
+Vicia sepium fence vetch Fabac. + + | + + vb
+Vicia tetrasperma Four-seeded vetch Fabac. + + vb
+Viola arvensis field pansy Violac. + + w.
+117 | 27 | 55 | 94 | 41 | 123 | 12 | 17
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Of the 135 herbaceous species, 123 can be considered permanent residents. For this
+also count two overgrown ornamental plants, the yellow daffodil (Narcissus pseudo-
+narcissus, Fig. 11) and the small grape hyacinth (Muscari botryoides, Fig. 12), the
+are at home in NRW, but not in the study area (cf. e.g. B. HAEUPLER & al. 2003). They probably come from the garden that used to be here. Other
+Ornamental plants, such as the elf crocus (Crocus tommasinianus), can also be in
+Introduce meadows and ornamental lawns, also via generative propagation. The two so far
+
+— 108 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+existing plants of the elf crocus have so far been classified as unstable
+grades They were probably abducted from the neighboring cemetery. fig 11: Yellow daffodil (Narcissus pseudo-
+narcissus), naturalized from a former
+Planting (03/25/2017, A. JAGEL). fig 12: Small Grape Hyacinth (Muscari
+botryoides), incorporated from a former
+Planting (04/09/2017, A. JAGEL). On the smaller area east of Schattbachstrasse there are even more ornamental plants
+find, which again and again with garden waste or through targeted planting of
+known page get here. For this pay e.g. Sicilian honey leek (Allium
+siculum), golden crocus (Crocus xstellaris), mini daffodil (Narcissus 'Téte-a-Téte') and
+other varieties of daffodil, checkered flower (Fritillaria meleagris) and peony (Paeonia
+officinalis). Experience has shown that such species last for a few years and spread as they do so
+but not and are therefore classified as unstable. While the early bloomers
+bulb and tuber plants are not affected by mowing, the Pentecost
+rose already disappeared after the first mowing in May 2017. Almost a third of all herbs are one or two years old. 17 of the herbaceous species number im
+Area to the neophytes, nine of which are naturalized. Of the permanent residents
+117 herbaceous species grow in the meadow, 55 of which can be classified as characteristic
+Greenland species can be viewed. About a third of the latter consists of representatives
+the SiiRgrasser (Poaceae). The most strongly represented plant family within the vascular plants are with 24
+species) the grasses (Poaceae), followed by the rose plants (Rosaceae, 15 species).
+to which all fruit trees belong, daisy flowers (Asteraceae, 14 species), butterfly flowers
+(Fabaceae, 11 species) and cruciferous flowers (Brassicaceae, 10 species) (Fig. 13). 125 of the 168 mapped plant species are pollinated by insects (Fig. 14), among them
+with almost 38% (48 species), the white-flowering species clearly dominate and also the
+The absolute number of white blossoms must be by far the greatest when you think of them
+Sum of the fruit blossoms and the individual blossoms of the umbelliferous plants and in quantities
+occurring hairy bittercress. The yellow flowering species follow with 26% (32
+species) and the species with violet flowers with about 16% (20 species). — 109 -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+Poac. : 24
+Ib: 32 . Other: 69 rosac ge + because: 48
+Va |
+Asterac. :
+way ‘4 grin: WW
+Ud Fabac. : 11 blue \
+| aa | 7 5
+apiac. :3 4 / | \ | Brassicac. : 10 blue violet: 6 [ a
+ir “ red:
+Boraginac. :-3L Lamiac. : 8 red-violet: 14
+
+caryophyllac. : 57 amaryllidac. : 6
+
+fig 13: Vascular plant species in the orchard, breakdown Fig. 14: Insect-pollinated vascular plant species on the
+according to plant families. Orchard, division according to the color of the flowers. The only endangered plant species is the wild herb (Montia arvensis, Fig. 15), it will
+in the Red List of North Rhine-Westphalia (RAABE & al. 2011) fir the federal state as strong
+classified as endangered (RL 2), for the greater Stiderbergland landscape there is a ,endangerment
+unknown extent* (category D). On the Red List of Germany, the species
+classified as endangered (RL 3, METZING & al. 2018). The wild herb came as
+Arable weeds used to be found on wet fields in Bochum (HUMPERT 1887). since the 19th In the 19th century it was no longer detected in the city area and was fragrant on the orchard
+have been reactivated by tending the meadows from the seed bank. An introduction
+can be ruled out. The crested grass (Cynosurus cristatus, Fig. 16) will be on the
+Alert list maintained. Phytosociologically it is considered a characteristic species of willows, but occurs
+definitely also regularly in extensive hay meadows. It is possible that the species
+by the former sheep grazing begins. fig 15: Field herb (Montia arvensis), a plant shown in Fig. 16: comb grass (Cynosurus cristatus), typically fir
+NRW highly endangered weeds in wet fields, pastures, type of pre-warm list NRW (05.06.2019,
+(04/17/2019, A. JAGEL). C. book). The small grape hyacinth (Muscari botryoides) is also one of the most endangered
+Species of North Rhine-Westphalia and their occurrence are like those of the yellow daffodil
+(Narcissus pseudonarcissus) protected by law. However, this protection does not apply to
+neophytic occurrences, even if they are embanked. The orchard on Schattbachstrasse is undoubtedly in the Ruhr area, for sure
+Scope of the Red List of the Ruhr area (RAABE & al. 2011) but a definition
+
+-110-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+tion is used that only takes into account the densely populated quarter quadrants (cf. THIMM &
+Weiss 2011). According to this definition, the meadow does not belong in their sphere of activity. Legally protected (§) is next to the planted resp. overgrown and therefore not here
+species considered (small snowdrop [Galanthus nivalis], Hilse [/lex aquifolium],
+Small grape hyacinth [Mucari botryoides] and yew [Taxus baccata]) only the
+Broad-leaved Helleborine (Epipactis Helleborine). 5.1.2. Cryptogams: Mosses (Bryophyta) and Algae (Algae)
+
+So far, 13 species of moss have been found on the meadow, seven of them in the meadow
+Species (Brachythecium rutabulum, Calliergonella cuspidata, Eurhynchium hians, Plagiomnium
+affine, Plagiomnium undulatum, Rhytidiadelphus squarrosus, Scleropodium purum), the
+mostly considered nutrient-loving (FRAHM & FREY 2004, DULL & DULL-WUNDER 2008). Among them, the sparse wrinkled peter (Rhytidiadelphus squarrosus) and the
+Spie&moos (Calliergonella cuspidata), which indicate the rather damp meadow. they form
+in places dense, tall stands and almost fill up, especially in the northern area
+entire space between the grazers. The epiphytic mosses have not yet been
+systematically recorded, six species were distinguished (Brachythecium rutabu-
+lum, Dicranum tauricum, Orthotrichum affine, Orthotrichum diaphanum, Orthotrichum
+pumilum, Orthotrichum spec., Tortula papillosa, all det. F.W. BOMBLE). they grow
+focusing on the trunks of the old trees that are still from the original
+garden planting come from. All moss species recorded so far are widespread in the region,
+among them is neither an endangered species nor a neophyte. A green alga grows on two young fruit trees (plum and pear) which are
+a Klebsormidium species may act (N. STAPPER., written Mitt, det. according to photo). on one
+In addition, overgrown stump in the meadow could be a previously undetermined
+Blue-green algae species can be found. In addition, there are a number of other algae
+expect. 5.2 Lichens
+
+Up to now, 13 types of lichens could be distinguished on the basis of photos, whose identi-
+tat has not yet been clarified in each case. All grow epiphytically and are, like the mosses, with
+can be found with a clear focus on the bark of the old fruit trees. Hypotrachyna afrorevoluta (det. F. W. BOMBLE) is in the species catalog of lichens
+North Rhine-Westphalia (BULTMANN & al. 2011) not yet included. She won't be long
+distinguished from H. revoluta, but according to FRAHM & al. (2010) in western Germany
+Slightly more common than H. revoluta. H. afrorevoluta belongs to the warmth-loving species that
+benefit from climate change and therefore spread (BOMBLE & al. 2012, BOMBLE 2017). Caperat lichen (Flavoparmelia caperata), common brown lichen (Melanelixia
+glabratula), sulcat lichen (Parmelia sulcata), curly spotted lichen (Punctelia jeckeri)
+and yellow spot lichen (P. subrudecta) (all det. F. W. BOMBLE) are after
+BULTMANN & al. (2011) protected by law (§). 5.3 Mushrooms (Funga)
+
+A total of 32 fungal species were recorded. Since so far no microscopic checks
+were made, a complete list of species is not included here. With 19 species, the Saprobion
+
+=111-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ten by far the largest share. On old rotting tree stumps grow e.g. B. Humpback
+Tramete (Trametes gibbosa, on Acer pseudoplatanus), Green-leaved Sulphurhead (Hypho-
+loma fasciculare) and mutabilis (Kuehneromycetes mutabilis, both on one
+fruit tree stump). In the moss on the ground near the spruces grows in abundance a so far
+Pseudohelmling species not yet identified (Hemimycena spec., Fig. 17, dec. K
+SIEPE), between moss on a broken branch of a pedunculate oak of the blue bark
+helmling (Mycena pseudocorticola, Fig. 18, dec. T. KALVERAM). In the meadow you will find u.
+Gold Dung Mushroom (Bolbitius titubans), Wrinkled Inkling (Coprinus atramentarius), Crested Inkling
+(Coprinus comatus), Brown Bushelrasling (Lyophyllum decastes agg., det. T.KALVERAM)
+and Pink-leaved Egerling (Leucoagaricus leucothites, det. T. KALVERAM), species,
+which can also be found in parks and gardens. Four species belong to the mycorrhizal fungi: pigeon (Russula spec., in spruce), black
+spotted Schneckling (Hygrophorus pustulatus, in spruce, det. T. KALVERAM), woolly threaders
+Fissure fungus (Inocybe sindonia, Fig. 19, near Fichte, det. T. KALVERAM) and Dinnschaliger
+Potato puffball (Scleroderma verrucosum, in English oak, det. K. SIEPE). mushrooms with
+Mycorrhiza in fruit trees did not occur. ae a.
+fig 17: Pseudohelmling species (Hemimycena spec.) fig 18: Blue Bark Helmling (Mycena pseudo-
+between moss (Rhytidiadelphus squarrosus) corticola) between moss (Hypnum cupressiforme s. None (09.12.2018, A. JAGEL). on an oak branch (10/27/2018, A. JAGEL). fig 19: Woolly filamentous crack fungus (Inocybe sindonia), Fig. 20: Orange-yellow pupal mace (Cordyceps
+Mycorrhizal fungus on one of the spruces (10/10/2018, militaris), on underground pupa
+A. JAGEL). growing, highly endangered in NRW (14.11.2018,
+
+A. JAGEL). -112-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Five species belong to the parasites. The most striking is the Sulfur Porling (Laetiporus
+sulphureus), which grows on the trunks of the three old plum trees. On autumn leaves of
+sycamore maples (Acer pseudoplatanus) one finds maple wrinkle scab (Rhytisma acerinum),
+on dying nettle stalks (Urtica dioica) the nettle powdery mildew (Erisyphe
+urticae). On the ground, a specimen of the orange-yellow pupal club (Cordyceps
+militaris, Fig. 20) can be found. It is also the only endangered species of fungus on the
+Orchard and is classified as highly endangered (RL 2) on the red list of fungal species in North Rhine-Westphalia
+(SIEPE & WOLFEL 2011). 5.4 Animals (fauna)
+
+A total of 482 animal species were recorded. The largest group with 400 species (83%) are the
+Insects are represented, followed by arachnids with 32 species (7%) and birds with 25 species
+(5%) (Fig. 21). Herpetofauna: 2
+
+Crustaceans.5 | Thousand FiBler: 2
+
+Snails: 7
+
+Ringworms: 1
+
+sucker: 8
+
+   
+
+bird: 25
+
+Arachnids: 32
+
+Insects: 400
+
+fig 21: Number of animal species in the orchard, broken down by large groups. 5.4.1 Invertebrates
+5.4.1.1 Insects
+
+The largest group of invertebrates is made up of insects, of which 400 species
+could be distinguished. They are divided into 12 orders, whose respective share in
+fig 22 is shown. -113-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Beak flies: 2
+Dragonflies-4
+Locusts: 5
+Dustbug: 10 ——
+
+ 
+
+>\ Netafligler: 2
+—Earwig: 1
+
+   
+   
+ 
+  
+  
+ 
+  
+
+—<_Plead: 1
+
+Plant lice: 12 _——
+
+—— Beetles: 86
+Cicadas: 31
+Bugs: 39_—
+Butterflies: 41 _/ »
+butterflies: 41 _, flies: 85
+
+Hautfldgler: 81_/
+
+fig 22: Number of insects in the orchard, broken down by order. 5.4.1.1.1 Beetles (Coleoptera)
+
+Within the insects, the beetles (Tab. 3) with 86 species (21.5%) the most species-rich
+Order of insects on the orchard, including the ladybirds (Coccinellidae) with ten
+Species the largest group. Longhorn beetles (Cerambycidae) follow with nine, and crack beetles
+(Curculionidae) with eight and scarab beetles (Scarabaeidae) with seven species. many beetle
+types can only be determined on the basis of supporting documents, e.g. B. The species of the family of
+Spiny beetle (Mordellidae, Mordella holomelaena, Fig. 23, Variimorda villosa, Fig. 24). at
+29 species of beetles can be assumed to be on the basis of their regular visits to flowers
+that they are involved in pollination. Five species are to be included in NRW as neozoa
+levels, including e.g. B. Epuraea ocularis, a species of blackhead beetle from Asia, first seen in 1999 in
+Germany (RENNER 2000). right
+
+ 
+
+fig 23: Spiny beetle species (Mordella holomelaena, Fig. 24: Banded spiny beetle (Variimorda villosa,
+Mordellidae) on meadow chervil (Anthriscus sylvestris) _ Mordellidae) on wild carrot (Daucus carota)
+(05/19/2018, A. JAGEL). (08/02/2018, A. JaGEL). =114-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig 25: Glossy jewel beetle (Anthaxia Fig. 26: Leather ground beetle (Carabus coriaceus,
+nitidula, Buprestidae) on crowfoot Carabidae), legally protected species (09.06.2018,
+(Ranunculus acris), legally protected species A. JAGEL). (06/08/2019, A. JAGEL). fig 27: Blood-red buck (Anastrangalia sanguino- Fig. 28: Dull black beetle (Grammoptera
+lenta, Cerambycidae), proprietary species ruficornis, Cerambycidae) on ordinary
+(07/13/2019, A. JAGEL). Snowball (Viburnum opulus), proprietary
+
+Art (05/18/2018, A. JAGEL). fig 29: Four-banded beetle (Leptura Fig. 30: lesser beetle (Stenurella melanura,
+quadrifasciata, Cerambycidae) on wild blackberry Cerambycidae) on ragweed (Senecio jacobaea),
+(Daucus carota), legally protected species legally protected species (06/23/2018, A. JAGEL). (07/02/2019, A. JAGEL). -115-
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+A red list of beetles exists in North Rhine-Westphalia only for ground beetles (Carabidae). Of the six species found in the study area so far, none is considered to be in NRW
+endangered (HANNIG & KAISER 2011). All jewel beetle species found in the meadow
+(Buprestidae, e.g. B. Anthaxia nitidula, Fig. 25), the Carabus species (Carabidae, e.g. B. Carabus
+coriaceus, Fig. 26) and the longhorn beetle (Cerambycidae, e.g. B. Anastrangalia sanguinolenta,
+fig 27, Grammoptera ruficornis, Fig. 28, Leptura quadrifasciata, Fig. 29, and Stenurella
+melanura, fig. 30) are protected by law. A total of 12 of the
+Beetle species found in the search area are protected by law (§). Tab. 3: List of beetles (Coleoptera) in the orchard. Legend: B = pollinator, N = neozoan, ' = det. T
+ROUTENBERG, ? = det. V. UNTERLADSTETTER. lat her name German name B | N | locality
+Anthicidae — Neck Beetles
+Omonadus floralis Meadow
+Apionidae — Black-necked Weevil
+Taeniapion urticarium Nettle - Urtica dioica (leaf)
+sharp-jaw ripper
+Buprestidae — jewel beetles
+Anthaxia nitidula Brilliant flowering + Anthriscus sylvestris (Blite), Daucus
+beetle carota (flower), Malus domestica (flower),
+Potentilla indica (flower), Ranunculus
+acris (flower), Ranunculus repens
+(Blite), Rosa canina (Blite), Senecio
+jacobaea (flower)
+Trachys minutus Common Dwarf Salix caprea (leaf)
+Beetle
+Byrrhidae — Pill Beetles
+Cytilus sericeus* Variegated Pill Beetle Meadow
+Byturidae — flower eaters
+Byturus ochraceus + Ranunculus acris (flower)
+Byturus tomentosus raspberry beetle + Rosa multiflora (flower), Sambucus nigra
+(flower)
+Cantharidae — soft beetles
+Cantharis fusca Common Soldier Beetle Anthriscus sylvestris (Blite)
+Cantharis pellucida Red-black soft beetle + meadow
+Rhagonycha fulva red beetle + Cirsium arvense (flowers), Daucus carota
+
+(Blite), Heracleum sphondylium (Blite),
+Hypericum dubium (Blite), Salix caprea
+(leaf), Senecio jacobaea (flower)
+
+ 
+
+Carabidae — ground beetles
+
+ 
+
+Amara familiaris
+
+Yellow-legged sewer beetle
+
+Cardamine pratensis (flower)
+
+ 
+
+Carabus coriaceus
+
+Leather Beetle
+
+on the ground, in the moss
+
+ 
+
+ 
+
+ 
+
+ 
+
+Carabus nemoralis Grove Ground Beetle Meadow
+Paradromius linearis common creeper Prunus cerasifera (leaf)
+Poecilus versicolor? Smooth-necked mottled grass meadow
+Pterostichus melanarius Common Tomb Beetle Meadow
+
+ 
+
+Cerambycidae — longhorn beetles
+
+ 
+
+Anastrangalia
+sanguinolenta
+
+ 
+
+ 
+
+Crimson Halsbock
+
+ 
+
+ 
+
+ 
+
+Cirsium arvense (Blite), Daucus carota
+(flower)
+
+ 
+
+-116-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+Latin name German name B Locality
+
+Corymbia rubra red-necked buck + Heracleum sphondylium (Blite)
+
+Grammoptera ruficornis Matt black beetle + Viburnum opulus (flower)
+
+Leptura quadrifasciata Four-legged beetle + Daucus carota (Blite), Heracleum
+sphondylium (flower)
+
+Oberea oculata Willow beetle Salix caprea (leaf)
+
+Pogonocherus hispidus Thorny beetle Picea abies (twig)
+
+Pyrrhidium sanguineum Red-headed Buck fence post
+
+Stenopterus rufus Braunrétlicher + Daucus carota (Blite)
+
+Pointed blanket trestle
+Stenurella melanura Lesser Schmalbock + Senecio jacobaea (Blite)
+
+ 
+
+Chrysomelidae — Leaf Beetles
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Crepidodera aurata willow flea Salix caprea (leaf)
+Lochmaea crataegi Hawthorn Leaf Beetle Crataegus spec. (Sheet)
+Longitarsus pratensis Red-yellow buckhorn meadow
+flea
+Oulema Dustyschmidi Red-necked Meadow
+grain chicken
+Psylliodes napi Meadow
+
+ 
+
+Pyrrhalta viburni
+
+Snowball Leaf Beetle
+
+Viburnum opulus (leaf)
+
+ 
+
+Clambidae — spotted beetles
+
+ 
+
+clambus cf. punctulum
+
+Picea abies (branch)
+
+ 
+
+Coccinellidae — Ladybirds
+
+ 
+
+Calvia decemguttata
+
+Ten-spotted ladybug
+
+Picea abies (twig), Viburnum opulus
+(Sheet)
+
+ 
+
+Calvia
+quatuordecimguttata
+
+Fourteen-drop figure
+ladybug
+
+Salix caprea (leaf), Crataegus spec. (Sheet)
+
+ 
+
+Chilocorus bipustulatus
+
+Streak-spotted ladybug
+
+Salix caprea (leaf)
+
+ 
+
+coccinella
+
+Seven Spot Ladybug
+
+Cirsium vulgare (with aphids), Malus
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+septempunctata domestica (twig), meadow
+
+Exocomus Four-spotted Malus domestica (leaf)
+
+quadripustulatus spherical ladybird
+
+Harmonia axyridis Asian Ladybird Acer pseudoplatanus (twig),
+Crataegus sp. (Leaf, Bllite), malus
+domestica (leaf), Rosa multiflora
+(leaf), Salix caprea (flower, larva and
+pupa on leaf)
+
+Propylaea Fourteen-spot Ladybird Crataegus (leaf), meadow
+
+quatuordecimpunctata
+
+Psyllobora twenty-two-spot Galium aparine (leaf), Malus domestica
+
+vigintiduopunctata ladybird (leaf)
+
+Stethorus punctillum Black Malus domestica (leaf), Urtica dioica
+
+Globe Ladybug (leaf)
+Tytthaspis sixteen spotted ladybird meadow
+sedecimpunctata
+Corylophidae — alder beetle
+Orthoperus nigrescens Urtica dioica (leaf)
+Sericoderus lateralis in moldy hay
+
+ 
+
+Curculionidae - weevils
+
+ 
+
+Ceutorhynchus obstructus
+
+Cabbage pod shredder
+
+Cardamine pratensis (flower)
+
+ 
+
+ 
+
+ 
+
+Curculio spec. glans drill
+
+ 
+
+ 
+
+ 
+
+Quercus robur (Lécher in acorns)
+
+ 
+
+-117-
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+Latin name
+
+German name
+
+locality
+
+ 
+
+Larinus turbinatus
+
+Thistle cracker
+
+Cirsium vulgare (leaf, flower)
+
+ 
+
+ 
+
+Mononychus white-spotted Armoracia rusticana (flower),
+punctumalbum Iris rissler Ranunculus acris (Bliite)
+Nedyus quadrimaculatus Spotted Meadow, Urtica dioica (leaf)
+
+nettle cracker
+
+ 
+
+Phyllobius pomaceus
+
+nettle leaf weevil
+
+Urtica dioica (leaf)
+
+ 
+
+Phyllobius pyri
+
+Pear Griinrißler
+
+Crataegus sp. (Branch)
+
+ 
+
+Rhynchaenus spec. Salix caprea (leaf)
+
+ 
+
+Dermestidae — bacon beetle
+
+ 
+
+Anthrenus verbasci
+
+Woolly Flower Beetle
+
+Anthriscus sylvestris (bloom)
+
+ 
+
+Elateridae — click beetles
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Agrypnus murinus Mouse gray click beetle meadow
+Hydrophilidae - water friends
+
+Megasternum obscurum Meadow
+Lathridiidae - Rot beetles
+
+Aridius bifasciatus Striped mold beetle meadow
+
+ 
+
+Cortinicara gibbosa
+
+Meadow, Picea abies (twig)
+
+ 
+
+Melyridae — Woolly Beetle
+
+ 
+
+Axinotarsus pulicarius
+
+Small wart beetle
+
+Meadow
+
+ 
+
+Malachius bipustulatus
+
+Two-spotted ear beetle
+
+Alopecurus pratensis (flowers), Anthriscus
+sylvestris (Blite), Crataegus spec. (Blite), Cynosurus cristatus (Flower),
+Taraxacum spec. (flower)
+
+ 
+
+Mordellidae — Spiny Beetles
+
+ 
+
+Mordella holomelaena
+
+Anthriscus sylvestris (bloom)
+
+ 
+
+Variimorda villosa
+
+Daucus carota (Blite), Heracleum
+sphondylium (flower)
+
+ 
+
+Mycetophagidae — Tobacco Beetles
+
+ 
+
+Berginus tamarisci
+
+Tamarisk mycelium beetle
+
+Picea abies (twigs), Urtica dioica
+(Sheet)
+
+ 
+
+Nitidulidae - Glossy beetles
+
+ 
+
+Brassicogethes aeneus
+
+rape pollen beetle
+
+Pyrus communis (Blite)
+
+ 
+
+Carpophilus hemipterus
+
+baked fruit beetle
+
+of rotten apples on the ground
+
+ 
+
+Cychramus luteus
+
+Brown lust beetle
+
+Picea abies (branch)
+
+ 
+
+Epuraea aestiva
+
+Flat gloss beetle
+
+Pyrus communis (Blite)
+
+ 
+
+Epuraea ocularis
+
+of rotten apples on the ground
+
+ 
+
+Meligethes flavimanus
+
+Anthriscus sylvestris (Blite)
+
+ 
+
+Oedemeridae — Longhorn Beetles
+
+ 
+
+Edema lurida
+
+Greenish Longhorn Beetle
+
+Anthriscus sylvestris (Blite),
+Convolvulus arvensis (Billite), Daucus
+carota (Blite), Ranunculus acris (Blite),
+Rosa multiflora (Blite), Rubus spec. (flower)
+
+ 
+
+Edema nobilis
+
+Green billy beetle
+
+Alopecurus pratensis (flowers), Anthriscus
+sylvestris (Blite), Hypericum dubium
+(Blite), Rosa canina (Blite)
+
+ 
+
+Ptilidae — dwarf beetles
+
+ 
+
+ 
+
+Acrotrichis fascicularis
+
+ 
+
+ 
+
+ 
+
+ 
+
+Urtica dioica (leaf)
+
+ 
+
+-—118-
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+Latin name
+
+German name
+
+locality
+
+ 
+
+Scarabaeidae — scarab beetles
+
+ 
+
+Cetonia aurata
+
+Gold Shiny Rose Beetle
+
+Cirsium arvense (Blite)
+
+ 
+
+Melonontha melonontha
+
+field cockchafer
+
+Crataegus sp. (bloom)
+
+ 
+
+Oxythyrea funesta
+
+Mourning Rose Beetle
+
+Cirsium arvense (Blite), Heracleum
+sphondylium (flower)
+
+ 
+
+Phyllopertha horticola
+
+garden beetle
+
+Rosa multiflora (flower)
+
+ 
+
+ 
+
+Serica brunnea Red-brown leaf beetle meadow (dead find)
+
+ 
+
+Trichius sp. Paint brush beetle + Anthriscus sylvestris (blossom), Cirsium
+arvense (Blite), Daucus carota (Blite),
+Cirsium vulgare (Blite), Heracleum
+
+sphondylium (flower)
+
+ 
+
+Anthriscus sylvestris (Blite), Allium
+ursinum (Blite), Armoracia rusticana
+(Blite), Crataegus spec. (Bloom), Malus
+domestica (Billite), Viburnum opulus
+(flower)
+
+Valgus hemipterus trip beetle +
+
+ 
+
+Scraptiidae — Silk Beetles
+
+ 
+
+Anaspis frontalis Red-fronted +
+
+mock spiny beetle
+
+Viburnum opulus (flower)
+
+ 
+
+Silphidae - carrion beetles
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Silpha tristis carrion beetle meadow
+Staphylinidae — Short-winged
+
+Ocypus olens Meadow black mold beetle
+
+Quedius invreae Urtica dioica (leaf)
+
+Stenus impressus meadow
+
+Tachyporus obtusus Blunt Fastrobber Meadow
+
+ 
+
+Tenebrionidae — dark beetles
+
+ 
+
+in dead Sulfur Porling
+fruiting bodies at the bottom
+
+Diaperis boleti yellow-banded black beetle
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lagria hirta Meadow beetle
+
+ 
+
+ 
+
+5.4.1.1.2 Flies (Diptera)
+
+From the order of the Diptera, 85 species could be identified at least down to the family,
+that is about 21% of insect species. They are often very small, nimble species
+are more difficult to catch than e.g. B. Beetles or Hymenoptera. Based on photos they are in
+cannot be determined with certainty in most cases. It can therefore be assumed that numerous
+presumably existing species have not yet been recorded and it is with the Diptera
+the orchard is currently the most species-rich group of diurnal insects
+smelled Hoverflies (Syrphidae, Fig. 31-35) by grofer
+Meaning. With 13 species on the orchard, they represent the most species-rich family. the
+Grove hoverfly (Episyrphus balteatus) and the long-bellied hoverfly
+(Sphaerophoria scripta) have been observed on the greatest number of plant species. When
+The second largest group are the fruit flies (Drosophilidae) with eight species. the
+Larvae of many species develop in rotting fruit, and the adults often suckle as well
+of fruit, so that the species are typical orchard dwellers. Below are also
+the three proven neozoa among the Diptera, including the feared one in fruit growing
+
+-119-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Spotted Drosophila (Drosophila suzukii, cf. TOSS 2016). Dance flies (Empididae) are included
+seven species represented. The species of the subfamily Empidinae (e.g. genus Empis,
+fig 36) prey on smaller insects, but also regularly visit flowers and suckle
+nectar, making them potential pollinators. From the grass flies (Opomyzidae),
+whose larvae mine in grazers, six species have been identified. About 39 Diptera species come because of the regularity of flower visits and
+their known preference for nectar as pollinators in question, as well as the dominant ones
+hoverflies e.g. also species of bladderhead flies (Conopidae, Fig. 37), mosquitoes
+(Tipulidae, Fig. 38), goldflies (Lucilia spp., Fig. 39) and caterpillar flies (Tachinidae,
+fig 40-42), even if they are very different overall for the pollination of the plants.
+have real meaning. fig 31: Common harlequin hoverfly (Eristalis Fig. 32: Late large-fronted hoverfly (Scaeva
+pertinax, Syrphidae) searching for nectar on meadows- pyrastri, Syrphidae) searching for nectar on multi-
+Barenklau (Heracleum sphondylium) (07/27/2019, ger Rose (Rosa multiflora) (06/08/2019, A. JAGEL). A. JAGEL). fig 33: Hornet hoverfly (Volucella zonaria, Fig. 34: Common club hoverfly (Syritta
+Syrphidae) searching for nectar on Wiesen-Barenklau _ pipiens, Syrphidae) searching for nectar on Jakobs-
+(Heracleum sphondylium) (07/26/2019, A. JAGEL). Groundsel (Senecio jacobaea) (07.07.2018, A. JAGEL). -120-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig 35: Common long-bellied hoverfly Fig. 36: Dancing fly species (Empis spec., Empididae) at
+(Sphaerophoria scripta, Syrphidae) searching for nectar on meadow chervil (Anthriscus
+search on Creeping Thistle (Cirsium vulgare) sylvestris) (12.05.2018, A. JAGEL). (07/15/2019, A. JAGEL). fig 37: Broad-fronted bladderhead fly (Sicus ferrugineus, Fig. 38: Spotted meadow crane fly (Nephrotoma
+Conopidae) searching for nectar on Ragwort appendiculata, Tipulidae) searching for nectar
+(Senecio jacobaea) (06/18/2018, A. JAGEL). Hawthorn (Crataegus spec.) (05/09/2019, A. JAGEL). fig 39: Goldfly species (Lucilia spec., Calliphoridae) Fig. 40: caterpillar fly species (Cylindromyia bicolor,
+searching for nectar on hawthorn (Crataegus spec.) Tachinidae) searching for nectar on meadow hogweed
+(May 1, 2019, A. JAGEL). (Heracleum sphondylium) (07/27/2019, T. SCHMITT). =121-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        
+
+dy . ‘ x we
+
+fig 41: Caterpillar fly species (Phasia hemiptera, Fig. 42: Broad-winged caterpillar fly (Ectophasia
+Tachinidae) looking for nectar on meadow hogweed —_crassipennis, Tachinidae) looking for nectar
+(Heracleum sphondylium) (07/29/2019, A. JAGEL). Meadow Barenklau (Heracleum sphondylium)
+
+(07/26/2019, A. JAGEL). Tab. 4: List of the two-winged insects (Diptera) on the orchard on the Schattbachstrake in Bochum. Legend: B =
+Bestauber, N = Neozoon, ' = This includes all observations of Lucilia species that have not been determined up to the species
+became. Latin name German name BN | locality
+
+ 
+
+Anthomyidae — flower fly
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anthomyidae gen. spec. _| Flower fly species + Heracleum sphondylium (flower)
+Asilidae — predator flies
+
+Dioctria cf. rufipes hawk fly meadow
+
+Leptogaster cylindrica Common Meadow fly
+Asteidae
+
+Asteia amoena meadow
+
+ 
+
+Bibionidae - hairy gnats
+
+ 
+
+ 
+
+Bibio johannis Johannis hairy mosquito + Malus domestica (Blite)
+Bibio marci St. Mark's fly, March fly + Crataegus spec. (flower), Malus domestica
+(blite)
+
+ 
+
+Bombylidae - Wool Floaters
+
+ 
+
+Bombylius major Großer Wollschweber + Cardamine pratensis (flowers), Malus
+domestica (Blite), Prunus avium (Blite),
+Prunus domestica (flower)
+
+ 
+
+Calliphoridae — blowflies
+
+ 
+
+ 
+
+ 
+
+Calliphora spec. Blowfly species + Crataegus spec. (Sheet)
+Lucilia silvarum + Anthriscus sylvestris (Blite)
+Lucilia spec." Goldfly species + Anthriscus sylvestris (Bliite), Crataegus
+
+spec. (flower), Daucus carota (flower),
+Heracleum sphondylium (Blite), Senecio
+jacobaea (flower)
+
+ 
+
+Cecidomyiidae — gall midges
+
+ 
+
+Dasyneura aparines Galium aparine (galls on leaves)
+
+ 
+
+Iteomyia capreae Small willow cartilage galls on leaves of Salix caprea
+gall midge
+
+ 
+
+Chloropidae — stalk flies
+
+ 
+
+Thaumatomyia notata Ordinary + Meadow
+grass fly
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+-122-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Latin name
+
+German name
+
+locality
+
+ 
+
+Conopidae — bladder head fl
+
+fly
+
+ 
+
+Myopa testacea
+
+Humpback Bubblehead Fly
+
+Circium arvense (Blite), Crataegus spec. (flower)
+
+ 
+
+Physocephala rufipes
+
+red-legged
+sticky fathead fly
+
+Senecio jacobaea (Blite)
+
+ 
+
+Sicus ferrugineus
+
+Broad-fronted Bladderhead Fly
+
+Cirsium arvense (flower), Senecio jacobaea
+(flower)
+
+ 
+
+Dolichopodidae — long-legged flies
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dolichopus trivialis Meadow
+Sciapus platypterus Meadow
+Drosophilidae — fruit flies
+Cacoxenus indagator at nesting aid
+Chymomyza amoena on rotten apples
+Drosophila immigrans on rotten apples
+Drosophila melanogaster | Black-bellied to rotten apples
+fruit fly
+
+ 
+
+Drosophila simulans
+
+of rotten apples
+
+ 
+
+Drosophila subobscura
+
+of rotten apples
+
+ 
+
+Drosophila suzukii
+
+cherry vinegar fly
+
+of rotten apples
+
+ 
+
+Scaptomyza pallida
+
+Meadow
+
+ 
+
+Empididae — dance flies
+
+ 
+
+Empis ciliata
+
+Black dance bow tie
+
+Malus domestica (flower), meadow
+
+ 
+
+Empis livida
+
+Bright dance bow tie
+
+Meadow
+
+ 
+
+Empis tesselata
+
+Twirled Dance Fly
+
+Malus domestica (flower)
+
+ 
+
+Empis spec. 1
+
++l ft ]e
+
+Cirsium arvense (flower), Senecio jacobaea
+(flower)
+
+ 
+
+Empis spec. 2
+
++
+
+Anthriscus sylvestris (Blite)
+
+ 
+
+Empis spec. 3
+
+Crataegus sp. (blite)
+
+ 
+
+Rhamphomyia spec. Veronica chamaedrys (Blite)
+
+ 
+
+Heleomyzidae — scrub flies
+
+ 
+
+ 
+
+ 
+
+Suillia similis Meadow
+Lonchopteridae — Lanceflies
+Lonchoptera furcata meadow
+
+ 
+
+Lonchoptera lutea
+
+Stachys sylvatica (leaf)
+
+ 
+
+Muscidae — True Flies
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Graphomya maculata Spotted Housefly Meadow
+
+Phaonia subventa meadow
+Opomyzidae - grass flies
+
+Geomyza combinata meadow
+
+Geomyza hendeli. Prunus domestica (leaf)
+
+Geomyza tripunctata Meadow
+
+Opomyza florum meadow
+
+Opomyza germinationis meadow
+
+Opomyza petrei meadow
+Psilidae — Naked flies
+
+Psilidae gen. spec. Naked Fly Species Malus (Leaf)
+Rhagionidae — snipe flies
+
+Chrysopilus aureus Meadow
+
+ 
+
+ 
+
+Rhagio tringarius
+
+Golden snipe fly
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quercus robur (leaf)
+
+ 
+
+—123-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+Latin name German name B Locality
+Sarcophagidae — flesh flies
+Discachaeta pumila meadow
+Heteronychia vagans meadow
+Sarcophaga variegata meadow
+Thyrsocnema meadow
+incisilobata
+Scathophagidae — dung flies
+Scathophaga stercoraria_| Yellow dung fly meadow
+Sciaridae — Fungus Gnats
+Sciaridae gen. spec. Anthriscus sylvestris (Blite)
+Sciomyzidae — horn flies
+Limnia unguicornis meadow
+Sepsidae — swing flies
+Sepsis fulgens Shining fly meadow
+Sepsidae gen. spec. Malus domestica (leaf)
+Stratiomyidae — Gun Flies
+Chloromyia formosa Golden Green Gun Fly Rosa multiflora (leaf)
+Chorisops tibialis Malus domestica (leaf)
+Pachygaster atra Malus domestica (leaf)
+Syrphidae — hoverflies
+Episyrphus balteatus Grove hoverfly + Cirsium vulgare (Blite), Daucus carota
+(Blite), Galium aparine (Blite), Hypericum
+dubium (Blite), Rosa multiflora (Blite),
+Taraxacum spec. (blite)
+Eristalis pertinax Common + Heracleum sphondylium (Blite)
+harlequin hoverfly
+Eristalis tenax dung bee + Prunus domestica (flower), Senecio
+jacobaea (flowers)
+Eristalis spec. Crataegus sp. (blite)
+Helophilus pendulus wt. Allium ursinum (Blite), swamp hover fly, at bird bath
+Myathropa florea Daucus carota (Bliite), Heracleum
+sphondylium (Blite)
+Paragus haemorrhous + Circaea lutetiana (Blite)
+Scaeva pyrastri Spate + Rosa multiflora (Blite)
+Greater Hoverfly
+Sphaerophoria scripta Common long-bellied + Cirsium arvense (flower), Cirsium vulgare
+Hoverfly (Blite), Daucus carota (Blite), Hypericum
+dubium (Blite), Senecio jacobaea (Blite)
+Syritta pipiens Cirsium arvense (flower), Senecio jacobaea
+Hoverfly (Bloite)
+Syrphus ribesii Large hoverfly + Sambucus nigra (flower), Senecio jacobaea
+(flower)
+Volucella bombylans Rosa canina (Bliite)
+Volucella zonaria Hornet Hoverfly Cirsium arvense (Bliite), Heracleum
+sphondylium (Blite)
+Tabanidae - horseflies
+Haematopota pluvialis rainfly sucking on first author
+Tachinidae — caterpillar flies
+Cylindromyia bicolor + Heracleum sphondylium (Blite)
+
+ 
+
+= 124-
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Latin name German name B Locality
+Ectophasia crassipennis | Broad-winged Caterpillar Fly | + Heracleum sphondylium (flower)
+Periscepsia spathulata + meadow
+Phasia hemiptera bug fly + Heracleum sphondylium (flower)
+Tephritidae — bore flies
+Rhagoletis cerasi cherry fruit fly in cherry (larva)
+
+ 
+
+Xyphosia miliaria
+
+Thistle Borefly
+
+Cirsium arvense (flowers, bud)
+
+ 
+
+Tipulidae — gnats
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Nephrotoma Spotted Crane-Bucket + Crataegus (Bliite)
+appendiculata
+Nephrotoma cornicina meadow
+Tipula cf. paludosa meadow cranefly
+Trichoceridae — Winter Gnats
+Trichocera saltator meadow
+Ulidiidae —- Jewel flies
+Seioptera vibrans Red-fronted Jewel Fly Quercus robur (Leaves)
+
+ 
+
+ 
+
+ 
+
+5.4.1.1.3 Hymenoptera (Hymenoptera)
+With 81 species, the Hautfligler form the third-largest order of insects on the orchard (20%
+of insect species). 60 species can be counted among the pollinators, including
+bees (Apidae) dominate with 29 species. The vast majority of them are poly
+lectic. Only the two-humped mason bee (Osmia leaiana, Fig. 43)
+and the common lecher bee (O. truncorum, Fig. 44) on Korbblitler (Asteraceae)
+restricted, as well as the crowfoot scissor bee (Osmia florisomnis, Fig. 45) that on
+Ranunculus & Blossoms specializes. She is an example of a typical one
+orchard dwellers. The species likes to nest in the study area as it does elsewhere
+Insect nesting aids, but naturally uses e.g. B. Deadwood structures that are based on well-developed
+orchards are regularly available (WESTRICH 2018). A total of nine Andrena species were found (e.g. fig 46-47), mainly as
+Pollinator of fruit trees and hawthorn. From small wild bee species, e.g. from the
+genus Lasioglossum, not all species have been identified so far. The biggest
+Number of plant species visited by honey bees. Apparently she is too
+the most individual species among the Hymenoptera of the meadow, even after the end
+2018 the beehives had been removed. Especially on the nesting aids you will find
+allegedly species of cuckoo wasp (Chrysididae, Fig. 49 & 50). ~ marie
+
+    
+
+fig 44: Common lecher bee (Osmia truncorum,
+Apidae) on a nesting aid (07/30/2018, A. JAGEL). fig 43: Two-humped mason bee (Osmia leaiana,
+Apidae) on Spear Thistle (Cirsium vulgare)
+(07/01/2019, A. JAGEL). —125-
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig 45: HahnenfuR scissor bee (Osmia florisomnis, | Fig. 46: Glossy dister bee (Andrena nitida,
+Apidae) on a nesting aid (06/06/2019, D. MAHRMANN). Apidae), female on plum blossoms (04/10/2019,
+A. JAGEL). oe hci '
+%Fs ~ %a
+
+a "Pim" mi i os) oe
+
+fig 47: White sand bee (Andrena gravida, Fig. 48: Yellow-banded furrow bee (Halictus
+
+Apidae), male on an apple tree (Malus scabiosae, Apidae) on Spear Thistle
+domestica) (04/21/2019, A. JAGEL). (Cirsium vulgare) (08/01/2019, A. JAGEL). fig 49: species group common cuckoo wasp Fig. 50: Blue-green cuckoo wasp (Chrysis fulgida,
+
+(Chrysis ignita agg., Chrysididae) on wild blackberry Chrysididae) on a nesting aid (06/10/2019, A. JAGEL). (Daucus carota) (07/12/2018, A. JAGEL). The species-rich groups belong to the skin wings that are particularly critical for identification
+of parasitic wasps (/chneumonidae, Fig. 51 & 52) and braconid wasps (Braconidae, Fig. 53
+& 54). The gouty wasps (Gasteruptiidae, Fig. 55 & 56) are usually not based
+reliably determinable from photos. — 126 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fhe
+
+ 
+
+>
+
+-
+fig 51: species of parasitic wasp (Ichneumonidae).
+Meadow chervil (Anthriscus sylvestris) (13.05.2018,
+A. JAGEL). A ik
+fig 53: Braconid species (Braconidae) on wild animals
+Moor (Daucus carota) (07/26/2018, D. MAHRMANN). fig 55: Black-eyed gout wasp (guest eruption
+jaculator, Gasteruptiidae) on a nesting aid (07/19/2018,
+C. book). fig 52: patch parasitic wasp (/chneumon sarcitorius,
+Ichneumonidae) on meadow hogweed (Heracleum
+sphondylium) (07/29/2019, A. JAGEL). fig 54: Braconid species (Cremnops desertor,
+Braconidae) on meadow hogweed (Heracleum
+sphondylium) (07/22/2019, A. JAGEL). "www
+
+   
+
+\re-
+e
+
+= te
+
+fig 56: Gout wasp species (Gas eruption spec.,
+Gasteruptiidae) on Wild More (Daucus carota)
+(07/27/2018, A. JAGEL). So far, 16 species have been identified from the group of plant wasps (Symphyta). she
+belong to the families of ragweed sawflies (Argidae, Fig. 57), eye wasps (Cephidae,
+fig 58), web sawflies (Pamphiliidae, Fig. 59) and sawflies (Tenthredi-
+nidae, Fig. 60-62). -127-
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig 57: Brushhorn sawfly species (Arge cyano- Fig. 58: Sawfly species (Cephus spinipes,
+crocea, Argidae), plant wasp on meadow chervil Cephidae), plant wasp on sharp HahnenfuR
+(Anthriscus sylvestris) (05/22/2019, A. JAGEL). (Ranunculus acris) together with greenish pseudo-
+
+longhorn beetle (Oedemera lurida, Oedemeridae)
+(06/04/2019, A. JAGEL). fig 59: Pear sawfly (Neurotoma Fig. 60: Apple Sawfly (Hoplocampa testudinae,
+saltuum, Pamphiliidae), larvae on pear tree (Pyrus Tenthredinidae), sawfly in a glass
+communis) (05/23/2019, A. JAGEL). pipe marriage (04/23/2019, A. JAGEL). fig 61: Sawfly species (Tenthredo zonula, Tenthre- Fig. 62: Beet sawfly (Athalia rosae, Tenthredi-
+dinidae), plant wasp on meadow chervil nidae), plant wasp on meadow hogweed
+(Anthriscus sylvestris) (05/19/2018, A. JAGEL). (Heracleum sphondylium) (04.08.2019, C. BucH). — 128 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In NRW there are only red lists for some of the families of the Hymenoptera. For the
+species found on the orchard, this concerns the Apidae, Chrysididae, Crabronidae,
+Formicidae and Vespidae (ESSER & al. 2011, SONNENBURG & SONNENBURG 2011). osmia
+leaiana is considered nationally endangered (RL 3, Fig. 43), in the Stderbergland as strong
+endangered (RL 2). The cuckoo wasp Chrysis fulgida (Fig. 50) is endangered in NRW (RL 3), im
+Stiderbergland is even threatened with extinction (RL 1). Andrena labiata and Astata boops
+(Fig. 63) are endangered in the Stiderbergland (RL 3), Andrena gravida (Fig. 47), A. helvola and
+Bombus lapidarius are on the early warning list for this large landscape. Nationwide on the
+The early warning list is the saber-thorn knot ant (Myrmica sabuleti). Halictus scabiosae
+(Fig. 48) and Osmia cornuta for the Stiderbergland with R (rare by nature)
+guided. fig 64: Two hornet workers (Vespa crabro,
+Vespidae) fighting on the ground (05/23/2018, A. JAGEL). fig 63: Digger wasp (Astata boops, Crabro-
+nidae) on Wild Méhre (Daucus carota) (24.07.2018,
+A. JAGEL). All bees (Apidae) and the wasps (Vespidae) are legally protected (§).
+the hornet (Vespa crabro, Fig. 64), altogether there are 31 species in the orchard. Under
+there is no neozoon in the Hymenoptera determined so far. Tab. 5: List of Hymenoptera on the orchard. Legend: B = pollinator, ' = det. B. JAcoBiI, ? =
+de. V. UNTERLADSTETTER, * = det. F. SONNENBURG, 4 = This includes B. /ucorum, B. cryptarum, B. magnum and
+B. terrestris, which is known as ground beetle and which cannot be determined with certainty without proof (EsseER & al. 2011). So far, B. terrestris has been documented in meadows. However, since it cannot be ruled out that
+If other small species occur, the aggregate was used to record the pollinated plant species. Latin name
+
+German name
+
+locality
+
+ 
+
+Apidae - Bees
+
+ 
+
+ 
+
+Andrea cineraria? Grey-black + Crataegus spec. (flower), Malus domestica
+Diister sand bee (Blite), foraging on the ground
+
+Andrena fulva Fuchsrote + | Prunus domestica (Blite)
+curling sand bee
+
+ 
+
+andrena gravida
+
+White Banded Sand Bee
+
+Malus domestica (Blite)
+
+ 
+
+Andrena haemorrhea
+
+Red-headed Sand Bee
+
+Crataegus sp. (flower), Prunus avium
+(Blite), Taraxacum spec. (flower)
+
+ 
+
+andrena helvola
+
+sloe curls
+
+Prunus avium (Blite)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+sand bee
+
+Andrena labiata ® Red Speedwell + | Taraxacum spec. (flower)
+sand bee
+
+Andrena nitida' Glossy Dister + | Prunus domestica (Blite)
+sand bee
+
+ 
+
+-129-
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Latin name
+
+German name
+
+locality
+
+ 
+
+Andrena scotica
+(= A.carantonica)'
+
+Sociable sand bee
+
+Crataegus sp. (Bllite), Picea abies (on
+branch dormant), on the ground
+
+ 
+
+Andrea spec. Taraxacum spec. (flower)
+
+ 
+
+Apis mellifera
+
+honey bee
+
+Anthriscus sylvestris (Blite), Cirsium
+arvense (Blite), Cirsium vulgare (Blite),
+Crataegus sp. (flower), Daucus carota
+(blossom), Glechoma hederacea (blossom),
+Heracleum sphondylium (Blite), Hypericum
+dubium (Blite), Ligustrum vulgare (Blite),
+Malus domestica (Blite), Prunus avium
+(Flower), Prunus domestica (Flower), Rosa
+canina (Blite), Rosa multiflora (Blite),
+Rubus spec. (flower), Salix caprea (flower)
+Senecio jacobaea (Bltite), Taraxacum spec. (Blite), Viburnum opulus (Blite)
+
+ 
+
+Bombus lapidarius
+
+Stone Bumblebee
+
+Hypericum dubium (Blite), Lathyrus
+pratensis (flower), Lotus corniculatus var. sativus (Blite), Senecio jacobaea (Blite)
+
+ 
+
+Bombus lucorum agg.4
+
+group of species of bumblebee
+
+Ajuga reptans (Blite), Cirsium arvense
+(Blite), Heracleum sphondylium (Blite),
+Hypericum dubium (Blite), Ligustrum
+vulgare (flower), Lotus corniculatus var. sativus (Blite), Malus domestica (Blite),
+Prunus avium (Blite), Rosa canina (Blite),
+Rosa multiflora (Blite), Trifolium pratense
+s. |. (flower)
+
+ 
+
+Bombus pascuorum
+
+field bumblebee
+
+Ajuga reptans (Blite), Cirsium arvense
+(Bloom), Cirsium vulgare (Blite), Lathyrus
+pratensis (flower), Lotus corniculatus var. sativus (Blite), Rosa multiflora (Blite),
+Rubus spec. (flower), Senecio jacobaea
+(blossom), Trifolium pratense s.|. (Bliite), Vicia
+sepium (blite)
+
+ 
+
+Bombus sylvestris
+
+Forest Cuckoo Bumblebee
+
+Prunus avium (Blite)
+
+ 
+
+Bombos terrestrial
+
+Dark bumblebee
+
+Hypericum dubium (Blite), found dead
+
+ 
+
+Halictus scabiosae'
+
+Yellow-banded furrow bee
+
+Cirsium vulgare (flower)
+
+ 
+
+Lasioglossum calceatum
+
+Ordinary narrow bee
+
+Heracleum sphondylium (Blite)
+
+ 
+
+Lasioglossum spec. Malus domestica (flower)
+
+ 
+
+Nomada fabriciana
+
+Red-black wasp bee
+
+Taraxacum spec. (flower)
+
+ 
+
+Nomada flava"
+
+Yellow wasp bee
+
+Malus domestica (leaf)
+
+ 
+
+Nomada fucata
+
+Ordinary wasp bee
+
+Senecio jacobaea (Blite)
+
+ 
+
+Nomada goodeniana''
+
+Field Wasp Bee
+
+searching on the ground
+
+ 
+
+Nomada lathburiana
+
+Redhead wasp bee
+
+trelelale]+ fe fe] + fe
+
+Malus domestica (Blite), Taraxacum spec. (Blite), searching on the ground
+
+ 
+
+Nomada panzeri
+
+Panzer's wasp bee
+
++
+
+Taraxacum spec. (flower)
+
+ 
+
+Nomada succinta'
+
+Coated wasp bee
+
+Malus domestica (Blite)
+
+ 
+
+Osmia bicornis
+
+Red mason bee
+
+Crataegus sp. (flowers), Malus domestica
+(flower), Pyrus domestica (flower), nesting aid
+
+ 
+
+Osmia cornuta
+
+Horned mason bee
+
+Prunus avium (Blite), Prunus cerasifera
+(Blite), Prunus domestica (Blite), nesting aid,
+
+ 
+
+ 
+
+Osmia florisomnis
+
+ 
+
+Ranunculus & Scissor Bee
+
+ 
+
+ 
+
+Ranunculus acris (Bite), nesting aid
+
+ 
+
+— 130-
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Latin name
+
+German name
+
+locality
+
+ 
+
+Osmia leaiana
+
+Two-humped mason bee
+
++\o0
+
+Cirsium vulgare (flower)
+
+ 
+
+Osmia truncorum
+
+Ordinary lecher bee
+
+Senecio jacobaea (Blite), nesting aid
+
+ 
+
+Argidae — birstenhorn sawflies
+
+ 
+
+Argue cyanocrocea
+
+Pearhorn sawfly
+
+Anthriscus sylvestris (Blite)
+
+ 
+
+Braconidae — braconid wasps
+
+ 
+
+Cheloninae gen. spec. Daucus carota (Blite)
+
+ 
+
+Cremnops desertor
+
+Heracleum sphondylium (Blite)
+
+ 
+
+Earinus elator
+
+Picea abies (branch), Ulmus minor (leaf)
+
+ 
+
+Cephidae — stalk wasps
+
+ 
+
+Cephus spinipes
+
+Geum urbanum (Billite), Ranunculus acris
+
+ 
+
+ 
+
+ 
+
+ 
+
+(blite)
+Cephidae gen. spec. + meadow
+Chrysididae - cuckoo wasps
+Chrysis fulgida' Blue-green cuckoo wasp + nesting aid
+Chrysis ignita agg. Species group Ordinary + | Daucus carota (Blite), nesting aid
+
+gold wasp
+
+ 
+
+Trichrysis cyanea
+
+Blue wasp
+
+nesting aid
+
+ 
+
+Crabronidae — digger wasps
+
+ 
+
+Astata boops
+
+Bug Digger Wasp
+
+Daucus carota (Blite)
+
+ 
+
+ 
+
+Cerceris rybyensis bee hunting + Cirsium arvense (flowers), Daucus carota
+Knot Wasp (Blite)
+Trypoxylon figulus digger wasp + | on nesting aid
+
+ 
+
+Crabronidae gen. spec. Heracleum sphondylium (Blite)
+
+ 
+
+   
+
+Cynipidae - gall wasps
+
+ 
+
+ 
+
+Cynips longiventris
+
+Striped oak gall wasp
+
+Galls on leaf of Quercus robur
+
+ 
+
+Diplolepis eglanteriae
+
+Galls on leaf of Rosa canina
+
+ 
+
+Diplolepis rosae
+
+sleeping apple gall wasp
+
+Galls on sprouts of Rosa canina
+
+ 
+
+Diplolepis rosarum
+
+Galls on leaf of Rosa canina
+
+ 
+
+Liposthenes glechomae
+
+ground ivy gall wasp
+
+Galls on Glechoma hederacea
+
+ 
+
+Diapriidae
+
+ 
+
+Diapriidae gen. spec. Salix caprea (leaf)
+
+ 
+
+Dryinidae - cicada wasps
+
+ 
+
+Lonchodryinus ruficornis
+
+Meadow
+
+ 
+
+Formicidae —- Ants
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Lasius brunneus Brown garden ant on Cirsium vulgare on aphid
+Lasius niger black garden ant on Anthriscus sylvestris on aphid
+Myrmica rubra Red garden ant meadow
+Myrmica sabuleti Sabuleti Meadow
+
+knot ant
+Myrmica scabrinodes dry grass meadow
+
+knot ant
+
+ 
+
+Gasteruptiidae — Gout wasps
+
+ 
+
+gas eruption jaculator
+
+Black-eyed gout wasp
+
+Heracleum sphondylium (Blite), nesting aid
+
+ 
+
+gas eruption spec. 1
+
+Daucus carota (Blite)
+
+ 
+
+gas eruption spec. 2
+
+Heracleum sphondylium (Blite)
+
+ 
+
+Ichneumonidae — parasitic wasps
+
+ 
+
+Ichneumon sarcitorius
+
+Patch parasitic wasp
+
+Heracleum sphondylium (Blite)
+
+ 
+
+ 
+
+Ichneumonidae gen. spec. 1
+
+ 
+
+ 
+
+ 
+
+Anthriscus sylvestris (Blite), Galium aparine
+(flower)
+
+ 
+
+= 131 =
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+Latin name German name B_| locality
+Ichneumonidae gen. spec. 2 + | Anthriscus sylvestris (flower)
+Ichneumonidae gen. spec. 3 Malus domestica (leaf)
+Pamphiliidae —- Web sawflies
+Neurotoma saltuum pear sawfly Pyrus communis (larvae in web)
+Tenthredinidae — Sawflies
+Athalia pink rib sawfly + Heracleum sphondylium (Blite)
+Dolerus niger Black + Meadow
+grain sawfly
+Eutomostethus sawfly Salix caprea (leaves)
+ephippium
+Hoplocampa testudinea apple sawfly + Malus domestica (Blite)
+Macrophya annulata Ringed sawfly Rosa multiflora (leaf)
+Tenthredo brevicornis +__| Anthriscus sylvestris (Blite)
+Tenthredo campestris Field sawfly + Corylus avellana (leaf), Rosa multiflora
+(Sheet)
+Tenthredo zonula + | Anthriscus sylvestris (flower)
+Tenthredopsis sordida + Malus domestica (leaf)
+Tenthredinidae gen. spec. 1 + Crataegus spec. (flower)
+Tenthredinidae gen. spec. 2 + meadow
+Tenthredinidae gen. spec. 3 + meadow
+Vespidae — wasps
+Ancistrocerus nigricornis' masonry wasp nesting aid
+
+ 
+
+Dolichovespula saxonica
+
+Saxon wasp
+
+Daucus carota (Blite), Heracleum
+sphondylium (Blite)
+
+ 
+
+Pollistes dominula
+
+Gallic paper wasp
+
+of plum
+
+ 
+
+Symmorphus bifasciatus
+
+Two-striped clay wasp
+
+Heracleum sphondylium (Blite)
+
+ 
+
+Vespa crabro
+
+hornet
+
+fighting in the grass, overflight, fallen fruit
+
+ 
+
+Vespula germanica
+
+German wasp
+
+scraping at the wooden post
+
+ 
+
+ 
+
+Vespula vulgaris
+
+ 
+
+Ordinary wasp
+
+ 
+
+ 
+
+Nest in the ground, fallen fruit
+
+ 
+
+5.4.1.1.4 Butterflies (Lepidoptera)
+
+ 
+
+ 
+
+A total of 41 species of butterflies were detected (10% of insect species), among
+them a neozoan, the boxwood crayfish (Cydalima perspectalis). He multiplies ver-
+probably in the neighboring cemetery, where the caterpillar food plant boxwood (Buxus
+sempervirens) is abundant. For the butterflies, this is particularly true
+the number of nocturnal species is greater than that of diurnal species, so that
+hen is that not even half of the species have been recorded so far due to a lack of night catches
+became. At least 28 of the butterfly species found were allowed to pollinate
+belong. The nutrient-poor ground owl (Agrotis clavis, Fig. 65) and the common scurf (Tyria
+jacobaeae, Fig. 66) are on the nationwide early warning list in North Rhine-Westphalia, the former
+also in the Bergisches Land (SCHUMACHER 2011). Legally protected (§) is the rest-hock
+Blueling (Polyommatus icarus, Fig. 67-68). — 132-
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig 65: nutrient-poor ground owl (Agrotis clavis,
+Noctuidae) in the grass (06/11/2018, A. HOGGEMEIER). I A
+
+fig 66: Jacobskrautbar (Tyria jacobaeae, Erebidae)
+resting on creeping thistle (Cirsium arvense)
+(06/11/2019, C. Buch). fig 67: Common blue (Polyommatus icarus,
+Lycaenidae) on meadow vetchling (Lathyrus pratensis) Lycaenidae) on seed trefoil (Lotus corniculatus var. (07/29/2019, A. JAGeL). fig 68: Common blue (Polyommatus icarus,
+
+sativus) (06/08/2019, A. JAGEL). Tab. 6: List of butterflies (Lepidoptera) in the orchard. Legend: B = Bestduber, N = Neozoon, ' = det. Tosias RAUTENBERG, 7 = det. FRANCESCA VEGLIANTE. Latin name German name B N | locality
+Adelidae — longhorn moths
+
+Cauchas rufimitrella' Red Silver + Cardamine pratensis (flower)
+
+longhorn moth
+
+Caucha's spec. + Armoracia rusticana (flower)
+
+Nematopogon sp. + Viburnum opulus (leaf)
+
+Nemophora spec. + Urtica dioica (leaf)
+Choreutidae — Spreader Wings
+
+Anthophila fabriciana spreader butterfly + Anthriscus sylvestris (flower)
+Crambidae—Risselziinsler
+
+Chrysoteuchia culmella bluegrass on meadow
+
+Meadow crambus pascuellus
+
+Crambus perlla' meadow
+
+Cydalima perspectalis boxwood zinsler + | Viburnum opulus (leaf)
+
+Pyrausta despicata? Olive-brown Ziinsler + Senecio jacobaea (Bliite)
+Depressariidae — flat-bellied moths
+
+Depressaria radiella flat-bellied moth + Heracleum sphondylium (caterpillar)
+
+ 
+
+ 
+
+ 
+
+ 
+
+— 133 -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+Latin name German name B Locality
+Erebidae
+
+Euclidia glyphica Brown Day-Owl + Ajuga reptans (Blite), Malus domestica
+
+(Sheet)
+
+Tyria jacobaea Jacobskrautbar + Senecio jacobaea (caterpillar), in flight
+Geometridae — Spanner
+
+Chiasmia clathrata Lattice Tensioner + Anthriscus sylvestris (Blite), Ranunculus
+
+acris (flower)
+
+ 
+
+Glyphipterigidae — Round-fronted moths
+
+ 
+
+Glyphipterix simpliciella
+
+Round-fronted moth type +
+
+Anthriscus sylvestris (Blite), Armoracia
+rusticana (Blite), Bellis perennis (Blite),
+Veronica chamaedrys (Billites)
+
+ 
+
+Hesperiidae — skipper butterfly
+
+ 
+
+ 
+
+ 
+
+ 
+
+Ochlodes sylvanus Rusty + Lathyrus pratensis (Blite), Vicia sepium
+Skipper Butterfly (Blite)
+Thymelicus lineola' Schwarzkolbiger + Senecio jacobaea (Blite)
+Brown Skipper
+Lycaenidae - Bluelings
+Polyommatus icarus Common Blue + Cirsium arvense (Blite), Lathyrus pratensis
+
+(Blite), Lotus corniculatus var. sativus
+(Blite), Senecio jacobaea (Blite), Trifolium
+dubium (flower)
+
+ 
+
+Lymantriidae - support spinners
+
+ 
+
+Calliteara pudibunda
+
+beech stretch foot
+
+Malus domestica (caterpillar)
+
+ 
+
+Nepticulidae
+
+ 
+
+Stigmella centifoliella
+
+Lead in leaf of Rosa canina
+
+ 
+
+Noctuidae — Owl moths
+
+ 
+
+acronictinae
+
+perched on Laetiporus sulphureus
+
+ 
+
+Agrotis clavis'
+
+nutrient-poor ground owl | +
+
+Meadow
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Autographa gamma Gammaeule + Wiese
+Nymphalidae - Noble Butterflies
+
+Aglais io peacock butterfly + Cirsium vulgare (Blite), Crataegus spec. (Blite), Prunus avium (Blite), Senecio
+jacobaea (Blite)
+
+Aphantopus hyperantus Brown Forest Bird + Cirsium arvense (Blite), Daucus carota
+(Blite), Heracleum sphondylium (Blite),
+Rubus spec. (flower), Senecio jacobaea
+(flower)
+
+Araschnia levana maple + Daucus carota (Blite), Heracleum
+
+sphondylium (flower), meadow
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Maniola jurtina GroRes Oxeye + Cirsium arvense (Blite), Rubus spec. (Flower), Senecio jacobaea (Blite), Trifolium
+pratense (flower)
+
+Pararge aegeria forest board game + Crataegus spec. (flowers), Malus domestica
+(Sheet)
+
+Polygonia c-album C moth + Senecio jacobaea (Bliite)
+
+Vanessa atalanta admiral + to plum on the ground
+
+Vanessa cardui Painted Lady + Cirsium arvense (Blite)
+
+Pieridae — Females
+Anthocharis cardamines_| Aurora Butterfly + Cardamine pratensis (Blite)
+
+ 
+
+= 134 -
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Latin name German name B Locality
+Gonepterix rhamni. Brimstone Butterfly + Overflight
+Pieris napi Rapsweifiling + Hypericum dubium (Bliite), Senecio
+jacobaea (flower)
+Pieris rapae Small Cabbage White + Cirsium arvense (flower), Prunella vulgaris
+
+(Blite), Senecio jacobaea (Blite),
+Taraxacum spec. (blite)
+
+ 
+
+Pterophoridae — feather moths
+
+ 
+
+Pterophorus
+pentadactyla
+
+sloe
+feather ghost
+
+Meadow
+
+ 
+
+Tortricidae — moth moths
+
+ 
+
+Cydia funebrana
+
+plum moth
+
+Prunus domestica (larva in plum)
+
+ 
+
+Cydia pomonella
+
+codling moth
+
+Malus domestica (larva in apple)
+
+ 
+
+Lathronympha strigana
+
+Hypericum dubium (leaf)
+
+ 
+
+Yponomeutidae - Web moths
+
+ 
+
+ 
+
+Yponomeuta cagnagelia | Spindle tree - Euonymus europaea (caterpillar)
+web moth
+
+Yponomeuta plum - Crataegus spec. (Caterpillar)
+
+padella spider moth
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.4.1.1.5. Bugs (Heteroptera)
+
+39 species of bugs have been identified, 14 of which are (predominantly) predatory and
+28 feed (almost) exclusively on plant juices. With 16 species (41%) predominate
+the soft bugs (Miridae). Most species are polyphagous, but some species are on
+certain groups of plants are restricted or show a marked preference for them, e.g. B. the
+Cinnamon bug (Corizus hyoscyami, Fig. 69) for daisy flowers (Asteraceae), the striped bug
+(Graphosoma lineatum) for umbelliferae (Apiaceae) and cabbage bug (Eurydema
+oleraceum, Fig. 70) for cruciferous plants (Brassicaceae, but was also used on the orchard
+Meadow Barenklau, Apiaceae, observed). Thomson's ground bug (Scolopostethus
+thomsoni) is polyphagous, but the development of the nymphs depends on the presence
+be dependent on stinging nettles (here Urtica dioica). Six species suck exclusively
+on sweet grasses (Poaceae): Amblytylus nasutus, Megaloceroea recticornis, Aelia acuminata,
+Notostira elongata, Pachytomella parallela and Stenodema laevigata (information according to
+WACHMANN & al. 2004, 2007, 2008)
+
+  
+
+fig 69: Cinnamon bug (Corizus hyoscyami, Rhopalidae)
+on the fruit of the dandelion (Taraxacum
+spec. ), mainly sucks on baskets
+(05/25/2019, A. JAGEL). fig 70: cabbage bug (Eurydema oleraceum,
+Pentatomidae) on horseradish (Armoracia rusticana),
+mainly sucks on cruciferous vegetables (23.05.2019,
+A. JAGEL). — 135 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig 71: Spotted nettle bug (Liocoris tripustu- Fig. 72: Witch-weed stilt bug (Metatropis
+
+latus) on large nettle (Urtica dioica), sucks rufescens) on large witch's herb (Circaea lutetiana),
+exclusively on stinging nettles (04/24/2019, sucks exclusively on witch herb (07/03/2019,
+
+A. JAGEL). A. JAGEL). Two species are monophagous and thus (at least in area) dependent on the presence of one
+single plant species. This is the spotted nettle bug
+(Liocoris tripustulatus, Fig. 71), which probably lives purely phytophagous on stinging nettles,
+on the other hand, the witch's weed stilt bug (Metatropis rufescens, Fig. 72) attached to that
+presence of the common witch's herb (Circaea /utetiana). There is not yet a red list of bugs for NRW, but it is in the species directory
+Danger levels given for the amendment of the German Red List. Here will
+Pachytomella parallela put on the early warning list (HOFFMANN & al. 2011). At two
+Species of bugs, the plane tree bug (Arocatus longiceps, Fig. 73) and the pine bug
+(Leptoglossus occidenalis, Fig. 74), these are neozoa (HOFFMANN & al. 2011). The latter comes from western North America and has only been present in Europe (Northern
+Italy, TAYLOR & al. 2001) and proven in Germany since 2006 (WERNER 2006). ek) |
+fig 73: Plane bug (Arocatus longiceps) on Fig. 74: Pine bug (Leptoglossus occidentalis) on
+Hand, Neozoan from South Europe and Asia Minor Pear Blossoms (Pyus communis), Neozoan from the
+(08/04/2018, A. JAGEL). Western North America (April 15, 2019, A. JAGEL). — 136 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170
+
+ 
+
+ 
+
+ 
+
+2020
+
+ 
+
+ 
+
+Tab. 7: List of bugs (heteroptera) in the orchard. Legend: R = rapacious, P = away from
+
+nourishing plant juices. Latin name German name Locality R_|P
+Anthocoridae — flower bugs
+Anthocoris nemorum Forest flower bug Salix caprea (leaf) + (+)
+Cardiastethus fasciiventris Picea (branch) + |)
+Orius minutus Tiny flower bug Prunus cerasifera (twig) +
+Orius vicinus Picea abies (branch) + [+
+Berytidae — stilt bugs
+Metatropis rufescens witch-weed bug Circaea lutetiana (leaf) +
+Coreidae —- Rim Bugs
+Ceraleptus lividus Anthriscus sylvestris (Stem)
+Leptoglossus occidentalis American pine bug | Crataegus sp. (Blite), Pyrus
+communis (blite)
+Lygaeidae —- Ground Bugs
+Arocatus longiceps sycamore bug back of hand +
+Miridae — soft bugs
+Adelphocoris seticornis yellow-fringed bug Senecio jacobaea (leaf)
+Amblytylus nasutus meadow
+Campyloneura virgula Meadow +
+Deraeocoris lutescens Malus domestica (branch), Picea +
+abies (branch)
+Deraeocoris ruber Red soft bug Rosa canina (leaf), meadow +
+Dicyphus pallidus Stachys sylvatica + +
+Heterotoma planicornis thick feeler bug meadow + (+)
+Liocoris tripustulatus Spotted nettle bug Urtica dioica (leaf) +
+Lygus pratensis Common meadow bug Rosa canina (leaf) +
+Malacocoris chlorizans Grine Tender Malus domestica (leaf) +
+Meadow + Megaloceroea recticornis
+Notostira elongata grass bug meadow +
+Pachytomella parallela Meadow +
+Polymerus holosericeus Shining Schwalm Meadow +
+Stenodema laevigata Grass bug Picea abies, Meadow +
+Stenotus binotatus Holcus lanatus +
+Nabidae — sickle bugs
+Himacerus mirmicoides ant bug Daucus carota (blossom) +
+Nabis ferus Wild sickle bug meadow +
+Nabis rugosus Red-brown sickle bug Urtica dioica (leaf), meadow +
+Pentatomidae —- Stink Bugs
+Aelia acuminata grain bug meadow
+Dolycoris baccarum berry bug Cirsium vulgare (leaf) (+)
+Eurydema oleracea cabbage bug Armoracia rusticana (Bliite),
+Heracleum sphondylium (flower)
+Graphosoma lineatum striped bug Daucus carota (fruit), Heracleum +
+sphondylium (fruit)
+Palomena prasina Green Stink Bug Rosa multiflora (leaf), fence post
+Pentatoma rufipes Red-legged stink bug Malus domestica (leaf), Picea +
+abies (branch)
+Podops inunctus anvil bug meadow +
+Pyrrhocoridae — Fire Bugs
+Pyrrhocoris apterus Meadow common fire bug +
+
+ 
+
+- 137 -
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Latin name German name Locality R_|P
+Rhopalidae — glass wing bugs
+Corizus hyoscyami cinnamon bug Allium ursinum (Bliite), Cirsium +
+vulgare (fruit), Taraxacum spec. (Fruit)
+Rhopalidae gen. spec. Glasswing Bug Type Meadow +
+Rhyparochromidae
+Rhyparochromus vulgaris Common ground bug Picea abies (branch)
+Scolopostethus thomsoni Thomson's ground bug Urtica dioica (leaf)
+
+ 
+
+ 
+
+5.4.1.1.6 Cicadas (Auchenorrhyncha)
+
+Cicadas were predominantly collected by net trapping. 31 species were identified
+of which 26 (84%) are dwarf planthoppers (Cicadellidae). Neozoa were not detected. 13 species (42%) can be considered typical for meadows (or Greenland) are considered, such as B.
+the meadowfoam planthopper (Philaenus spumarius, Fig. 75). The other species are predominantly
+bound to Gehdlze (MUHLETALER & al. 2019), such as B. the leopard leafhopper
+(Typhlocyba quercus, Fig. 76) and the firehopper (Zygina flammigera,
+fig 77). The majority of the species is polyphagous, the forest
+Nettle leafhopper (Eupteryx urticae, an Urtica dioica) and diadem leafhopper (Zyginella
+pulchra, an Acer) can be found, as well as Cicada persimilis (Cicadula persimilis) and Cicada
+planthopper (Stenocranus minutus), both of which live on cocksfoot (Dactylis). A red list of cicadas does not yet exist for North Rhine-Westphalia. To
+MUHLETHALER & al. (2019, if listed there), none of the species found so far is in
+Rarely in Germany, but in some species it is due to overly intensive management
+of Greenland and melioration declines in the Greenland economy, such as
+e.g. B. in the planthopper (Cercopis vulnerata, Fig. 78) and the orchard grasshopper (Cicadula
+persimilis). fig 75: Meadow leafhopper (Philaenus spumarius) Fig. 76: Leopard leafhopper (Typhlocyba quercus)
+
+of ragweed (Senecio jacobaea), typical of cherry plum (Prunus cerasifera) in the
+
+Meadow cicada (06/16/2018, A. HOGGEMEIER). Catching shell, kind that also lives on
+fruit trees can be found (July 3rd, 2019, A. JAGEL). — 138 -
+
+ 
+
+year Bochum Bot. Ver. 11
+
+96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig 77: Firehopper (Zygina
+flammigera) from cherry plum (Prunus cerasifera) in
+the catching shell, often on hardwoods with heavy
+point rose plants (03.07.2019, A. JAGEL). fig 78: Planthopper (Cercopis vulnerata) on smooth oats
+(Arrhenatherum elatius), species with a strong decrease in
+Economic Greenland, according to MUHLETHALER & al. (2019) Mahwiesen (05/20/2019, A. JAGEL). Tab. 8: List of cicadas (Auchenorrhyncha) on the orchard. Legend: G = typical Greenland species. Latin name German name G Locality
+Aphrophoridae —- Leafhoppers
+Aphrophora alni Alder Leafhopper + Rosa canina (twig), Ulmus
+minor (leaf)
+Philaenus spumarius meadowfoam planthopper + Senecio jacobaea (stem)
+Cercopidae — bloodhoppers
+Cercopis vulnerata Common bloodhopper + Armoracia rusticana (leaf),
+Arrhenatherum elatius (flower)
+Cicadelidae — Leafhoppers
+Acericerus heydenii Sycamore Planthopper Picea abies (twig)
+Allygus cf. mixtus Treehopper Rosa canina (leaf)
+Alnetoidia alneti Leafhopper Malus domestica (leaf)
+Anaceratagallia ribauti Meadow Skipjack Meadow
+Arthaldeus pascuellus halberd chirp meadow
+Balclutha punctata Common Winterhopper Picea abies (twig), Urtica
+dioica, meadow
+Cicadella viridis rush cicada meadow
+Cicadula persimilis Cocksfoot Meadow
+Cicadula quadrinotata Meadow sedgehopper
+Deltocephalus pulicaris Meadow flea chirp + meadow
+Edwardsiana rosae Planthopper Malus domestica (leaf)
+Empoasca decipiens Gemise leafhopper Urtica dioica (leaf)
+Empoasca vitis vine leafhopper Malus domestica, Picea abies
+(Branch)
+Eupteryx florida Leafhopper Stachys sylvatica (leaf)
+Eupteryx urticae Forest leafhopper Urtica dioica
+Frutioidia bisignata Hawthorn planthopper Malus domestica (leaf)
+Macrosteles laevis Ackerwandzirpe Meadow
+Megophthalmus scanicus Leafhopper Prunus cerasifera (leaf)
+
+ 
+
+— 139-
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Latin name German name G Locality
+Ribautiana debilis Blackberry leafhopper Malus domestica (leaf)
+Streptanus aemulans Meadow grass chirp + meadow
+Typhlocyba quercus Leopard leafhopper Prunus cerasifera (leaf)
+
+ 
+
+Zygina angusta
+
+Slenderfire Cicada
+
+Malus domestica (leaf)
+
+ 
+
+Zygina flammigera
+
+Ordinary fire cicada
+
+Malus domestica (leaf),
+Prunus cerasifers (branch)
+
+ 
+
+ 
+
+ 
+
+Zygina tiliae Leafhopper Picea abies (twig)
+Zyginella pulchra Leafhopper Acer pseudoplatanus (leaf)
+Zyginidia scutellaris leafhopper + meadow
+
+ 
+
+Delphacidae — Leafhoppers
+
+ 
+
+Delphacodes venosus
+
+cicadas
+
+Meadow
+
+ 
+
+Stenocranus minutus
+
+ 
+
+ 
+
+Orchard grasshopper
+
+ 
+
+Meadow
+
+ 
+
+ 
+
+5.4.1.1.7 Plant lice
+
+(Stenorrhycha)
+
+ 
+
+ 
+
+A total of 12 species could be distinguished from the exclusively plant-sucking species
+but they have not been systematically collected so far. belong to this group
+e.g. the frequently encountered aphids (Aphididae, Fig. 79) directly from the
+host plants were collected. After HINTERMEIER & HINTERMEIER (2017) become alone
+of them 30 species indicated as meadow dwellers. Underneath the net catch securely
+certain species there is no neozoon. fig 79: Aphids (Aphididae) with mealybug (cf. Atrococcus spec. ), brown garden ant (Lasius
+brunneus) and seven-spot ladybird (Coccinellia
+septempunctata) on the stalk of an ordinary one
+Spear thistle (Cirsium vulgare) (07/03/2019, A. JAGEL). Tab. 9: List of plant lice (Stenorrhyncha) in the orchard. Latin name German name Locality
+
+ 
+
+Aphididae - aphids
+
+ 
+
+ 
+
+ 
+
+Aphis brohmeri/fabae Anthriscus sylvestris (Stem)
+Aphis fabae Black bean aphid Euonymus europaea (Stalk)
+Atheroides serrulatus Meadow
+
+ 
+
+Eriosoma ulmi. Elm leaf roller aphid Ulmus minor (leaf)
+
+ 
+
+Acer pseudoplatanus, Euonymus
+europaea, Rosa multiflora
+
+Aphidinae gen. spec. Pseudococcidae — mealybugs
+
+ 
+
+cf. atrococcus
+
+ 
+
+ 
+
+ 
+
+Cirsium vulgare
+
+ 
+
+ 
+
+—140-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+Latin name German name Locality
+Psyllidae — leaf fleas
+Cacopsylla mali. Prunus cerasifera (branch)
+Cacopsylla melanoneura Picea abies (twig)
+Cacopsyla peregrina Prunus cerasifera (twig)
+Cacopsylla picta Picea abies (twig)
+Cacopsyla pruni Prunus cerasifera (branch)
+Cacopsylla pyricola meadow
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.4.1.1.8 Dust louse (Psocodea)
+
+Dust lice are a group often neglected in zoological mapping
+distribution in North Rhine-Westphalia is not yet sufficiently known. they eat
+Lichens, fungi and "deposits" on leaves, bark or fruits such as e.g. e.g. apple
+and plums. In the intestinal contents one can find sticks of fungal hyphae, fungal spores, pollen and
+sometimes also find remains of insects. The ten identified species were identified using
+Netting collected, except for Stenopsocus stigmaticus, which is used to perch on one arm
+came (Fig. 80). All proven dust lice species are native. cia
+fig 80: Stenopsocus stigmaticus, dust louse species
+an arm (06.10.2018, A. JAGEL). Tab. 10: List of dust lice (Psocodea) on the orchard. lal her name locality
+
+Caecilius fuscopterus Picea abies (twigs)
+
+Cerobasis guestfalica Picea abies (twigs)
+
+Ectopsocus briggsi Malus domestica (leaf), Picea
+abies (branch)
+
+Ectopsocus petersi Malus domestica (leaf), Prunus
+avium (leaf)
+
+Graphopsocus cruciatus Malus domestica (leaf)
+
+Loensia variegata Malus domestica (branch)
+
+Stenopsocus stigmaticus on arm
+
+Trichopsocus dalii Picea abies (twig)
+
+Valenzuela burmeisteri Picea abies (twig), meadow
+
+Valenzuela flavidus Salix caprea (branch)
+
+ 
+
+=141-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.4.1.1.9 Grasshoppers (Saltatoria)
+
+Three of the five proven grasshopper species are typical meadow species
+(Chorthippus biguttulus, C. parallelus, Fig. 81, and Metrioptera roeselii, fig. 82). The two
+the latter can still occur in over-fertilized fertilized meadows (BELLMANN 1993). the
+Spotted cricket (Leptophyes punctatissima, Fig. 83) tends to stay in the mountains
+and at the edges of forests and can also be found in parks and gardens. The southern oak
+grasshopper (Meconema meridionale, Fig. 84) comes from the Mediterranean area and only occurs
+recently in Germany (HELVERSEN 1965). She lives on Gehdlzen. fig 81: Common grass hipper (Chorthippus fig. 82: Résel's cricket (Metrioptera roeselii),
+parallelus), common species, also in overwatered meadows
+Wiesen can still live (07/15/2018, A. HOGGEMEIER). can live (08/23/2018, A. JAGEL). fig 83: Spotted grasshopper (Leptophyes Fig. 84: Southern oak cricket (Meconema
+punctatissima) on a leaf of the multiflowered rose meridionale), larva on the leaf of a sal willow
+(Rosa multiflora) (06/20/2018, A. JAGEL). (Salix caprea), neozoan from the Mediterranean area
+
+(06/27/2018, A. JaGEL). Tab. 11: List of grasshoppers (Saltatoria) in the orchard. lat her name German name locality
+
+Chorthippus biguttulus Nightingale Grasshopper Meadow
+
+Chorthippus parallelus Common Grass Hipper Meadow
+
+Leptophyes punctatissima Spotted Grasshopper Rosa multiflora (leaf), Viburnum
+opulus (leaf)
+
+Meconema meridionale Southern oak cricket Salix caprea (leaf)
+
+Metrioptera roeselii Roesel's Beif&Schricke Wiese
+
+ 
+
+—142-
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.4.1.1.10 Other insects
+
+The other insects are divided into five different orders, each with few
+Species. The two very similar scorpion fly species are regularly found in May
+Panorpa communis (Fig. 85) and P. vulgaris (Fig. 86). Dragonflies only search the meadow
+to hunt. The banded demoiselle (Ca/opteryx splendens) probably flies
+lich from the nearby Ruhr Uber the canalised Schattbach. All dragonflies are
+protected by law (§). Chicken flea (Ceratophyllus gallinae) accumulates in large quantities
+
+an entry hole of a tit box. etc
+
+(05/23/2018, A. JAGEL). fig 85: Scorpion fly species (Panorpa communis)
+
+Tab. 12: List of other insects in the orchard. fig 86: Scorpion fly species (Panorpa vulgaris)
+(05/24/2018, A. JAGEL). Latin name
+
+German name
+
+locality
+
+ 
+
+Dermaptera —- Earwigs
+
+ 
+
+Forficula auricularia
+
+Ordinary catchy tune
+
+Malus domestica (leaf), Picea
+abies (twig), Rosa multiflora
+(leaf), Urtica dioica (leaf)
+
+ 
+
+Mecoptera — Beakflies
+
+ 
+
+Panorpa communis
+
+scorpion fly
+
+Corylus avellana (leaf)
+
+ 
+
+Panorpa vulgaris
+
+scorpion fly
+
+Cornus sanguinea (leaf), pink
+multiflora (leaf), meadow
+
+ 
+
+Odonata - dragonflies
+
+ 
+
+Anax imperator
+
+Large king dragonfly
+
+in flight, sitting in the grass
+
+ 
+
+Calopteryx splendens
+
+Banded dragonfly
+
+in flight
+
+ 
+
+Enallagma cyathigerum
+
+Ordinary mug damsel
+
+sitting in the grass
+
+ 
+
+Isnura elegans
+
+Big pitch dragon
+
+sitting in the grass
+
+ 
+
+Planipennia — Webflyer
+
+ 
+
+Chrysoperla carnea
+
+Common lacewing
+
+Heracleum sphondylium (larva),
+Malus domestica (flowers,
+Blatter), fence post
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Micromus variegatus Spotted Diurnal Meadow
+Siphonaptera — supplication
+Ceratophyllus gallinae chicken flea bird nest box
+
+ 
+
+= 143 -
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.4.1.2 Arachnids (Arachnida)
+
+A total of 32 species could be detected in this group, 25 (78%) of which are
+Web spiders (Fig. 87). The numerical ratios can be explained by the fact that mites mean
+tend to be more difficult to determine and with the collection methods used to date
+are recorded less frequently than spiders. Harvesters: 1
+
+Mites: 6. fig 87: species number of
+Arachnids on the
+Web Spiders: 25 Orchard, divided
+according to orders. The typical Grinland species can e.g. the wasp spider (Argiope bruennichi,
+fig 88) and the proven wolf spider species (e.g. B. Pardosa palustris, Fig. 89)
+be paid. The ant spider (Synageles venator, Fig. 90) is regularly sent to the
+to find nesting aids. This is a species of jumping spider known as Fraschutz
+mimics an ant in appearance and behavior (ant mimicry). Of the six species of mites, three are gall mites. They lead to gall formation
+on leaflets from lumberjacks, e.g. B. the plum leaf bag gall mite (Eriphyes similis,
+fig 91) on the leaves of the plum tree (Prunus domestica). parasitus crinitus
+found on a dead bumblebee (Bombus terrestris). This is — different
+than the name would suggest — not a parasite on bumblebees, but one
+"Stowaway". The deutonymphs of the species (third juvenile stage) use bumblebee
+as porters to carry out a change of location (phoresis). There are no endangered species among the mapped species, a red list for NRW
+exists only for the Araneae (BUCHHOLZ & al. 2011). The Harvester
+Dicranopalpus ramosus is the only neozoon among the orchard arachnids. the
+Species has only been documented for Germany since 2002, the first finding was in Bochum
+(SCHMIDT 2004). 5 rooms
+fig 88: Wasp spider (Argiope bruennichi) with fig. 89: Marsh Wolf Spider (Pardosa palustris)
+Trapped grasshopper in a net and cicada in a trapping bowl (May 23, 2019, A. JAGEL). Chelicerae (09/04/2018, A. JAGEL).
+
+ 
+
+) in
+
+—144-
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig 90: Ant spider (Synageles
+Nesting aid (08/02/2018, A. JaGeL). venator) at a
+
+ 
+
+fig 91: Plum leaf pouch gall mite (Eriophyes
+
+similis) on the leaf of a plum tree (Prunus
+domestica) (06/20/2018, A. JAGEL). Tab. 13: List of arachnids (arachnida) in the orchard. Latin name German name Locality
+Acari mites
+Ceratozetidae
+Trichoribates novus horn mite meadow
+Eriophyidae — gall mites
+Aceria campestricola Elm Leaf Bag Galimite Ulmus minor (Leaves)
+
+ 
+
+Aceria macrorhyncha
+
+herring gall mite
+
+Acer pseudoplatanus (leaves)
+
+ 
+
+Eriophyes similis
+
+Plum leaf pouch gall mite
+
+Prunus domestica (leaves)
+
+ 
+
+Eugamasidae
+
+ 
+
+parasitus crinitus
+
+to dead bumblebee
+
+ 
+
+Ixodidae — ticks
+
+ 
+
+Ixodes ricinus
+
+Ordinary wooden stand
+
+Meadow
+
+ 
+
+Araneae — Web Spiders
+
+ 
+
+Agelenidae — Funnel Spiders
+
+ 
+
+Agelena labyrinthica
+
+maze spider
+
+Rosa multiflora (net)
+
+ 
+
+Anyphaenidae — tender spiders
+
+ 
+
+Anyphaena accentuata
+
+Striking tender spider
+
+Urtica dioica
+
+ 
+
+Araneidae — Orb-weaver spiders
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Araneus diadematus garden spider web on trash
+Araniella cucurbitina Squirrel Spider Rosa canina (Bliite)
+Araniella opisthographa Crataegus spec. Argiope bruennichi wasp spider meadow
+Mangora acalypha Striped orb weaver meadow
+Linyphiidae - canopy spiders
+Araeoncus humilis meadow
+Centromerita bicolor among hay
+Linyphia triangularis Meadow Triangular Canopy Spider
+Pelecopsis parallela among hay
+Lycosidae —- Wolf Spider
+Pardosa palustris Marsh Wolf Spider Meadow
+Pardosa prativaga Meadow wolf spider Meadow
+Pardosa pullata Meadow clad in black
+wolf spider
+
+ 
+
+= 145 -
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+Latin name German name Locality
+Trochosa terricola Earth wolf spider meadow
+Pisauridae — predatory spiders
+Pisaura mirabilis list spider meadow
+Salticidae - jumping spiders
+Synageles venator ant spider nesting aid
+
+ 
+
+Theriidae — Crested Web Spiders
+
+ 
+
+Anelosimus vittatus
+
+leaf ball spider
+
+Prunus cerasifera
+
+ 
+
+Thomisidae — crab spiders
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Diaea dorsata Green crab spider meadow
+Misumena vatia Variegated Crab Spider Meadow
+Ozyptila praticola Pinus sylvestris bark crab spider (branch)
+Xysticus cristatus Brown Crab Spider Meadow
+Xysticus ulmi Marsh Crab Spider Meadow
+
+ 
+
+Tetragnathidae — stretcher spiders
+
+ 
+
+Metellina segmentata
+
+autumn spider
+
+Urtica dioica
+
+ 
+
+Pachygnatha degeeri
+
+Ground Stretcher Spider
+
+Meadow
+
+ 
+
+Opiliones - harvestmen
+
+ 
+
+Phalangiidae — Schneider
+
+ 
+
+ 
+
+ 
+
+Dicranopalpus ramosus
+
+ 
+
+ 
+
+Prunus domestica (branch)
+
+ 
+
+5.4.1.3 Woodlice (/sopoda)
+
+A total of five species could be detected in this group, all of which are native and
+are common, such as B. the woodlice (Armadillidium vulgare, Fig. 92) and the woodlice
+
+(Porcellio scaber, Fig. 93). Tab. 14: List of isopods (/sopoda) on the orchard. latin name
+
+German name
+
+locality
+
+ 
+
+Armadillidium vulgare
+
+Common roller isopod
+
+under evidence mat
+
+ 
+
+ 
+
+ 
+
+Oniscus asellus woodlouse among deadwood
+Philoscia muscorum moss isopod under deadwood
+Porcellio scaber Woodlice among deadwood
+
+ 
+
+ 
+
+ 
+
+Trachelipus rathkii
+
+ 
+
+ 
+
+under deadwood
+
+ 
+
+ 
+
+   
+
+fig 93: Woodlice (Porcellio scaber), male
+(left) and females on a detection mat
+(09/11/2018, D. MAHRMANN). fig 92: Woodlouse (Armadillidium vulgare) in the moss
+(05/24/2018, C. Buch). — 146 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.4.1.4 Centipedes (Myriapoda)
+
+Two species of centipedes have been identified so far: the stonecreeper (Lithobius
+forficatus) under wood and a string fiiR (Leptoiulus kervillei) under hay. With more targeted
+Other species from the group are to be expected to search for them. 5.4.1.5 Snails (Gastropoda)
+Snails have not been specifically collected either, so here is another one
+A number of other species are to be expected. So far, seven species have been identified (Tab. 15). Tab. 15: List of snails (Gastropoda) in the orchard. Latin name German name Locality
+Arionidae — slugs
+Arion spec. Slug meadow, moss
+Helicidae — snail snails
+Cepaea hortensis garden band snail meadow
+Cepaea nemoralis grove band snail Malus domestica (leaf), Ulmus minor (twig),
+Meadow
+Helicigona lapicida Steinpicker
+Hygromiidae - leaf snails
+Hygromiidae gen. Rumex acetosa (Stangel)
+spec. Limacidae - slugs
+Limax maximus slug meadow
+
+ 
+
+ 
+
+Vertiginidae — whorl snails
+Vertigo pygmaea common whorl snail | among sulfur polypore on Prunus domestica
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.4.1.6 Ringworms (Annelida)
+The common earthworm (Lumbricus terrestris) was often found in orchards
+the. Occurrence of other annelid species on the area is likely. 5.4.2 Vertebrates
+
+5.4.2.1. Amphibians and reptiles (herpetofauna)
+Occasionally, toadstools (Bufo bufo, Fig. 94) especially when mowing and when it is damp
+Observe the weather digging into the meadow. Twice a blind
+creep (Anguis fragilis, Fig. 95) sighted. Both types are protected by law (§), the
+Slow worm is on the early warning list in North Rhine-Westphalia (SCHLUPMANN & al. 2011). Say a TPR: 7 "4 r)
+
+   
+
+   
+
+fig 94: Créte (Bufo bufo) (08/16/2018,
+A.HOGGEMEIER). fig 95: Slow Worm (Anguis fragilis) (17.05.2018,
+A. JAGEL). —147-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.4.2.2 Védgel (Aves)
+
+A total of 25 species were recorded on the meadow. So far, broods have been of four species
+observed: wood pigeon (apple trees), firecrest (spruce) and blue tit and
+Great tit in nest box. The meadow is used more frequently by birds for foraging,
+either on the ground (ex. g. magpie, carrion crow, wood pigeon, green woodpecker, gray heron), especially
+especially after mowing as well as in autumn and winter, or on the tree trunk (great woodpecker,
+garden treecreeper). Trees often serve as seating and singing stations (e.g. B. Song Thrush,
+robin, blackbird, coal tit). A tree sparrow (Passer montanus) was found on Red List species (NWO & LANUV 2017) in
+a fruit tree observed (RL 3), a swarm of starlings (Sturnus vulgaris) rested on the
+large hawthorn (RL 3). The kestrel (Falco tinnunculus) is on the early warning list
+led. All bird species mapped are protected by law (§), common buzzard and
+Kestrel are strictly split (§§). Tab. 16: List of birds (aves) in the orchard on Schattbachstrasse in Bochum. Latin name German name Place
+
+ 
+
+Apodiformes — glider birds
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Apus apus Common Swift Overflight, hunting
+Ciconiiformis — Heron
+
+Ardea cinerea Gray Heron meadow, foraging
+Columbiformis—pigeons
+
+Columba palumbus Wood Pigeon meadow, foraging; Brood on apple tree
+Falconiformes - Falcon-like
+
+Buteo buteo Common buzzard overflight, hunting
+
+Falco tinnunculus Kestrel overflight, riitteInd
+Passeriformes — passerine birds
+
+Carduelis carduelis Goldfinch fruit tree
+
+Carduelis chloris Greenfinch fruit tree, singing
+
+Certhia brachydactyla Treecreeper fruit tree, maple, singing
+
+Corvus corone Carrion Crow meadow, foraging
+
+Erithacus rubecula Robin fruit tree, singing; Meadow, foraging
+
+Fringilla coelebs chaffinch fruit tree
+
+Garrulus glandarius Jay Meadow, foraging
+
+Parus caeruleus blue tit fruit tree; brood in nest box
+
+Parus major common tit fruit tree, brood in nest box
+
+Passer montanus tree sparrow fruit tree
+
+Pica pica magpie meadow, foraging
+
+Prunella modularis dunnock spruce, singing
+
+Regulus ignicapilla Firecrest Spruce, singing
+
+Regulus regulus Goldcrest Spruce, singing; Brood in spruce
+
+Sturnus vulgaris Starling swarm on Hawthorn
+
+Troglodytes troglodytes wren meadow, foraging; Crataegus spp.,
+
+singing
+
+Turdus merula blackbird meadow, foraging
+
+Turdus philomenos Song Thrush Spruce, singing
+Piciformes — woodpecker birds
+
+Dendrocopos major Great Spotted Woodpecker fruit tree, foraging on trunk
+
+Picus viridis Green Woodpecker meadow, foraging
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+—148-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.4.2.3 Mammals (Mammalia)
+
+So far, eight species of mammals have been observed in the meadow. Three of them can as
+permanent residents are considered: mole (Ta/pa europaea), which has not yet been identified
+certain WuhImause and the forest mouse (Apodesmus sylvaticus). From the latter became
+caught an animal with a live trap on the edge of one of the spruce trees. It disappeared after
+releasing it in a hole under the spruces. Young roe deer (Capreolus
+capreolus) can be observed grazing. Wild rabbit (Oryctolagus cuniculus) and
+Red foxes (Vulpes vulpes) have been identified by their droppings. bats
+were regularly observed in the twilight flying over the meadow, the species(s)
+however, has not been determined to date. Hedgehog (Erinaceus europaeus) and squirrel
+(Sciurus vulgaris), which are widespread in the Bochum city area, have not been able to
+observed, but regularly visited at least two different ones
+domestic cats the meadow to hunt. With the exception of the vole and domestic cats, all species are protected by law (§),
+bats are strictly pocketed (§§). Wild rabbits are in North Rhine-Westphalia
+on the early warning list (MEINIG & al. 2011). 6 Discussion
+6.1 Maintenance and development measures
+
+In the care of orchards, even within nature conservation, the 6ecological
+Neglected upgrading of the Grinlands, while the focus is mainly on the
+fruit trees. However, this is insufficient thought, since the fruit blossoms only Uber
+extends a few weeks, but then a blitendkologische collapse occurs, provided that in the
+following time there will not be a sufficient supply of flowers. This is
+rich Greenland has done, especially if it is mowed in sections. That's how it is
+main goal of the care measures chosen here, apart from the wintry one
+Gehdlzschnitt, the development of a species-rich meadow of smooth oats (Dauco carotae-
+Arrhenatheretum elatioris). 6.1.1 Mowing versus grazing
+
+When maintenance and development measures are planned, there are often discussions
+between the various interest groups, which measures and how often
+and on which dates should be elected in order to achieve which goal. Often
+the zoological position dominates, also because species groups are in the planning area
+such as B. birds or bats compared to plants a disproportionately large lobby
+to have. It is not uncommon for a small group of target species (or even just one
+target species) that do not occur in the area or even never occurred. looks fatal
+out when the needs of different required target types contradict what
+in the worst case, a nature conservation discussion in public is implausible
+let appear. In the planning, for purely practical reasons, a proof is often
+tion is given preference if flocks of sheep are available in the area. Or but
+the area is mowed* by the competent authorities without professional conditions, because
+this appears to be less time consuming and less expensive than a targeted one
+extensive mowing. With all this, we often lose sight of the fact that pastures and meadows
+have different flora and fauna. When selecting the development measures for the orchard on Schattbachstrasse
+we were not subject to any constraints, since no species were known at the beginning of the project,
+to which care had to be coordinated. The decision fell on the development
+
+—149-
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+a hay meadow, because this increases the botanical diversity of species and, as a result, also the
+target group of pollinating insects is best promoted. It is about hay meadows
+around one of the most flower- and species-rich habitats, the pollinators a rich one
+pollen and nectar supply (e.g. STEFFAN DEWENTER 2001, SCHIESS 2010, VAHLE
+2015, HINTERMEIER & HINTERMEIER 2017, WESTRICH 2018). Unlike willows are
+Meadows in Bochum are also significantly more endangered or actually exist
+no longer sense. The approach was therefore comparatively simple: care measures for
+Development of a meadow based on historical models to promote the entirety of the
+area possible meadow flora and fauna. Some zoologists consider mowing whole as the most destructive type of grassland management
+rejected. They complain that a 'clear cut' at the peak of the development of the
+vegetation in the summer the animals would be deprived of any resource and the immediate
+Animal mortality from mowing is high. The disadvantages of a mowing formulate very harshly
+MUHLETHALER & al. (2019: 37), who even write: 'Objections, the animal world had in
+Adapted to the editing rhythm over time, based on individual cases, missing
+otherwise any empirical basis and correspond more to the wishful thinking of
+Landscape caretakers*. Such a rating is surprising
+because the botanical diversity of species in hay meadows inevitably also has a corresponding
+corresponding biodiversity in the insect world. It is also indisputable that historically
+seen meadows and pastures, since it used to be a big problem, grazing cattle
+also to provide with hay in winter (e.g. B. KAUTER 2002). For that reason alone it is
+does not make sense to exclude one of the two forms of use if you want old cultivated land
+communities and preserve their characteristic environment. is a prerequisite for receipt
+in any case, that the use is extensive. Of course, any kind of
+Grassland care, whether mowing or grazing, represents an intervention with far-reaching consequences
+(MULLER & BOSSHARD 2010). Species react differently to this and gof disappear. permanently, while others depend on precisely this care. The killing of animals
+is reduced to the maximum when mowing the scythe and also the use of a bar mower
+is animal friendly. The demonization of mowing as an anti-insect maintenance method is
+therefore a one-sided view of interest groups, which rather the living world of the
+Focus on pastures. An aspect that is actually discussed in this context nowadays
+the isolation of small project areas such as the orchard on the shady
+bachstraRe if you don't find an equivalent in the area. Previously, the
+Meadow mowing in a region over a longer period of time and therefore meant at that time
+no such rigorous intervention for the meadow fauna as today. At any time there was
+Alternative options on neighboring areas and edge structures, where still sufficient
+food supply could be found. This is different today, since often even the smallest habitats, the
+could function as alternative biotopes, ,maintained away*, e.g. B. by too frequent mowing
+of roadsides and meadows in settlement areas. In order to avoid having to completely mow the project area in one day
+If there is too much intervention, the mowing on the orchard on Schattbachstrasse will be almost over
+extended a month. In addition, about 5-10% of the area is mowed in one mowing period
+left out and only cut again during the following mowing or the one after that. This is intended to create retreat areas and places for egg-laying for certain groups of species (e.g. B.
+locusts and cicadas) are offered and to some extent a continuous
+Blossom offer remain guaranteed (cf. MULLER & BOSSHARD 2010, DROBNIK & POSCHLOD
+2011, MUHLETHALER & al. 2019). The mowing with the scythe also offers the possibility
+
+— 150 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+selectively omit individual areas when deemed appropriate. This procedure
+is time-consuming and cannot be taken over within the framework of generally applicable care concepts.
+be taken, but is important at least in the first few years when new
+established species have not yet spread far enough to make a one-off
+to be able to survive "inappropriate" mowing. 6.1.2 Sowing
+
+Further discussions revolve around the question: Is it allowed in meadows or in the ,free
+landscape* be sown or planted? In particular, the "anointing" of reds
+List species (Fig. 96 & 97) was still at the beginning of the 21st century. century in nature conservation
+pented. Corresponding measures were particularly popular among scientists
+"Biotope gardening* dismissed, which should be left to the botanical gardens. Such
+However, attitude fails to recognize that earlier meadows were also sown (e.g. B. KAUTER 2002, VAHLE
+2015) and how successful species protection botanical gardens can be if they
+appropriately imitate historical cultural landscapes and at the same time think outside the box of botany
+look out. Several publications on the fauna of the botanical garden in Bochum
+(see. HAGEN & Roos 1979, HOFFMANN & SCHUMACHER 1982, KUPPER 1999, KRAUSA &
+KIRCHNER 2012, SCHMIDT 2019) show how zoologically rich the area of ​​a botanical
+schen garden can be, especially when the conception is geobotanical and
+native plant communities are appropriately recreated. are in Bochum
+comparable floristically and faunistically rich places "in the wild" today hardly
+to be found elsewhere. As long as the so-called ,Natural landscape* increasingly impoverished, leads
+a "biotope nursery" in the garden or on nature conservation areas is an invaluable asset
+provided retreats for endangered species that would otherwise have long been extinct in the region
+could be. fig 96: Large Rattle (Rhinanthus serotinus), Fig. 97: Devil's Bit (Succisa pratensis), planted
+Seedlings (04/15/2018, A. JAGEL). Young plants (04/28/2019, A. JAGEL). When the authorities rejected seeding "in the landscape" it often did
+the impression that it was also disliked because of the classification
+of certain species into the Red Lists is made more difficult. At best, a precisely documented
+Good transfer or transfer of hay threshing for inoculation of newly planted areas
+were accepted, although the donor areas are often already depleted of plant species
+are. To what extent the introduced and established plant species also for the reds
+Lists need to be evaluated is against the aspect that endangered insect species
+the said plant species need to survive, are of secondary importance. = 151 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Like the experience in nature conservation, but also many years of scientific research
+show, come solely through a resumption of adequate care of a meadow
+Species that have been lost for decades either not at all or only to a very limited extent
+zurtick (VAHLE 2015, HOLZEL & KLAUS 2017). The majority of species in a smooth oat meadow
+does not form a long-lasting seed bank and immigration from the area is
+not only made it more difficult, but these species often no longer occur there today. So will
+now increasing against the background of the dramatic decline in meadow flora
+Switched to using regional seeds to bring the species back into the area. This
+Rethinking and the fact that the decline of the "bees" is finding its way into the media
+found and "one wants to do something about it" (cf. BUCH & JAGEL 2019) led in the year
+In 2019 there were even significant bottlenecks on the regional seed market. 6.1.3 Nesting Opportunities
+
+A classic orchard offers numerous nesting possibilities for insects, e.g. B.
+Piles of dead wood, bark of old trees, dead plant stems and abandoned insects
+fra&gange, and has therefore for numerous groups of insects, e.g. wild bees, a big one
+importance (WESTRICH 2018). The construction of artificial nesting possibilities can help
+fill in missing habitats, especially on younger orchards. Fir plays numerous ways
+but the ground also plays a prominent role as a nesting habitat, with about 70% of the nesting
+Wild bees in the soil (endogaic) (SCHWENNINGER 2013), such as B. sand bees and in the
+Follow the species of wasp bees parasitizing on them (Fig. 98 & 99). All-
+However, a gap vegetation with open, warming ground areas is more necessary than ever
+wetter and cooler the microclimate and the denser the vegetation cover, the less attractive
+ver is the location for the majority of wild bees. Therefore, the protection of wildlife
+bees or of the animal species as a whole not just the provision of sufficient
+food sources, but also the protection of habitats as a whole
+(SCHEUCHL & WILLNER 2016). Through the initiated, two-stage mowing and clearing
+of the accrued cuttings, such nesting possibilities arise in the ground almost incidentally. eg ? CEES Fi .§y
+fig 98: Grey-black dister bee (Andrena Fig. 99: Red-headed wasp bee (Nomada lathburi-
+cineraria) on the ground (04/20/2019, A. JAGEL). ana) searching on the ground, a "cuckoo*" of gray
+
+black sand bee (Fig. 98) (04/28/2019,
+A. JAGEL). 6.2 Species Groups
+
+The listed species inventory represents the state of a hitherto not optimally used
+Orchard in the Ruhr area, which was transformed into a hay meadow cultivated according to historical methods
+is transferred. Although the range of recorded species groups has some gaps,
+
+— 152 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+gives the list of species together with the numerous records of density of individuals,
+Behavior and whereabouts of the individual species already provide plenty of information about the
+existing ecological structure of the meadow. By the biology of
+individual species is illuminated, statements about the functionality of the
+food web, the functionality of the meadow as a breeding and wintering habitat
+respectively. the role of adjacent biotope types and many other factors for the occurrence of the
+species are met. Last but not least, this first analysis plays a role in further orientation
+of the care measures with regard to the establishment of a "historical meadow".
+central role. 6.2.1 Flora
+
+At the beginning of the maintenance measures, the meadow was to be classified as eutrophic fallow land. It was dominated by overweight grazers, was densely matted due to lack of mowing,
+wisely a 10-15 cm layer of moss covered the ground between the grazers. Various types indicated an omission, e.g. B. Large nettle (Urtica dioica) and
+ground elder (Aegopodium podagraria). Areas with flowering herbs were only isolated
+represented and were often shaped only by individual species. But as the species list of Gefa plants shows, the orchard is on the Schattbachstrake
+nevertheless already at the beginning of the recording of the mowing comparatively species-rich and ghdért
+certainly one of the most species-rich meadows in the Bochum city area. However, this is not
+necessarily a positive quality assessment, but also indicates the overall poor condition of the
+Grinlands in Bochum, where meadows essentially as so-called cultivated grass field
+in which hardly anything can be found on some cultivated grasses and dandelion species
+is. Of the total of 168 plant species found in the orchard, 55 species can be classified as
+grassland species can be classified (cf. Tab. 2). So that grow on the meadow at the
+Schattbachstrake after all about a third of the approximately 170 Grinland species that HUMPERT
+(1887) in the "Flora von Bochum" for Greenland. One reason for this relatively high
+number of species is certainly the past of the meadow as a garden and above all the fact
+that intensive agriculture was never practiced on the area. had a positive impact
+have also found that no care has taken place here, that of a suitable one
+Meadow development is fundamentally opposed, such as too often or incorrectly terminated
+mowing or mulching. However, the sheer number of meadow species suggests a better condition than he does
+actually exists. Most occurrences of the Grinlandarten are only
+around scattered growing individuals or small groups. For example, there was in
+in 2018 only a single flowering plant of meadow chervil (Anthriscus sylvestris),
+a small stock each of the Germander Speedwell (Veronica chamaedrys) and the
+Grass Chickweed (Stellaria graminea) and three small groups of White Meadow
+bedstraw (Galium album). In summer e.g. B. only about ten wild Méhren (Daucus
+carota) and from the per se abundant Barenklau plants (Heracleum
+sphondylium) only a handful flowered. In 2018, the meadow was therefore in the state of an impressive, colorfully blooming,
+species-rich flower meadow far away. The taunting accusation on every roadside
+a highway blooms more” could not be dismissed out of hand. But that's exactly what he shows
+Problem of our meadow landscapes: Formerly typical in meadows and according to HUMPERT (1887)
+"common species" such as B. the marguerite (Leucanthemum vulgare agg. ), come in the city
+area today almost exclusively at roadsides. The same applies e.g. B. also for
+
+— 153 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Meadow knapweed (Centaurea jacea agg. ), bedstraw (Galium verum) and white
+Meadow bedstraw (G. album). But other species could also be there because of too early and
+frequent mowing do not survive and are therefore extinct in the urban area, such as B. the
+both Rattlepot species Rhinanthus minor and R. serotinus. In addition, he misjudges
+Comparison of the meadow with the flowering roadsides that there is not in meadows
+exclusively about the flowering aspect and the nectar or Pollen supply goes, but also
+a flat habitat in which insects, in addition to the food supply, also
+suitable nesting opportunities in close proximity. The meadow species already present in the orchard were able to change after the beginning of the
+Care measures so far hardly multiply by self-sowing, because almost all
+Seedlings on the meadow under the difficult conditions in 2018 (snail damage,
+summer drought) were lost. However, numerous species were able to
+develop better under the best lighting conditions and flowered more frequently in 2019. What was also noticeable after a short time due to the care was the
+significantly increased proportion of annual species, both in terms of proportion
+of almost 25% as well as in the number of individuals. By removing the grass thatch
+Decimate the dense moss layer and also the footsteps when picking fruit become seeds
+reactivated from the seed bank. Accordingly, the one-year-olds are involved
+More than 60% of typical field weeds, such as B. Pigeon brome (Bromus sterilis), hairy
+bittercress (Cardamine hirsuta), slit-leaved cranesbill (Geranium dissectum),
+Field forget-me-not (Myosotis arvensis), field speedwell (Veronica arvensis) and
+Four-seeded vetch (Vicia tetrasperma). Also the field spring herb (Montia arvensis) belongs
+into this group. 6.2.2 Lichens and fungi
+
+Remarkable finds among the lichens have not been made so far. When it comes to mushrooms,
+Predominant part on the high nutrient content of the meadow (K. SIEPE, written middle) and
+can often be found in gardens and parks. One species, however, represents an important find
+, namely the orange-yellow pupal mace (Cordyceps militaris). in North Rhine-
+Westphalia highly endangered species (RL 2) parasitizes on moths buried in the ground
+dolls. In the Ruhr area it is considered quite rare (T. KALVERAM, written middle) and also
+nationally as rare (K. SIEPE, written mid.). What species of butterflies are they on the
+Bochumer Obstwiese parasitized, was not examined, since the specimen due to the
+rarity should not be dug up. 6.2.3 Fauna
+
+With the recording of the fauna in 2018 and 2019, the basic equipment of the
+Wiese to be held at the beginning of the new care measures to a
+to obtain a basis for comparison, which species are appearing over time and which are disappearing
+the. In order to be able to estimate the position of the meadow in the fabric of the surroundings, a
+precise analysis of which animal species depend directly on the meadow. One
+such a general overview is, however, extremely difficult given the large number of species and their
+complex way of life cannot be afforded at this point. It should be noted, however, that there are animals
+exist, which can go through their entire life cycle on the meadow, but also numerous
+rich species that they visit only occasionally. As a species from the first group, the hous-
+hackle blue (Polyommatus icarus) apply. The most important ones are standing in the meadow
+Caterpillar food plants, e.g. Seed trefoil (Lotus corniculatus var. sativus), lesser clover
+(Trifolium dubium) and white clover (Trifolium repens), abundantly available. He is
+adapts to one to two blade mowing and is therefore considered a typical moth of an unfertilized one
+
+— 154 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Smooth oat meadow (EBERT & RENNWALD 1991). It also benefits him that the
+Horn clover blooms again after the first mowing. Also the imagines
+have a distinct preference for Horntrefoil flowers (as well as other Fabaceae, EBERT &
+RACING FOREST 1991). Byturus ochraceus, a species of beetle from the bliss-eater family, can also be used as a
+residents of the meadow can be viewed. The species only lays its eggs on real ones
+avens (Geum urbanum) and has a predilection for yellow flowers when foraging,
+which she then flies to (VoGT 1967). On the orchard she became in 2019
+regularly on buttercups (Ranunculus acris, Fig. 100) encountered. Many more
+Examples can be given from this group, although in each case the
+have to ask whether the food supply on the meadow is (already) sufficient. fig 100: Byturus ochraceus, a leaf eater Fig. 101: White-spotted iris tearer
+(Byturidae) on Spicy Hahnenfu8 (Ranunculus (Mononychus punctumalbum) on Spicy
+acris) (05/19/2019, A. JAGEL). Buttercup (Ranunculus acris) (01.06.2019, A. JAGEL). The orchard also plays an important role for many animal species, which they only use for feeding.
+look up, but do not multiply here, e.g. B. the majority of the birds and the
+dragonflies. As an example among the beetles, the white-spotted iris ripper
+(Mononychus punctumalbum, Fig. 101), which appears several times on the flowers of
+Spicy crowfoot (Ranunculus acris) and horseradish (Armoracia rusticana)
+was observed. It is intended for propagation on /ris species (usually on the only one here
+native swamp iris, /ris pseudacorus), but neither in the meadow
+grow, still channeled in the adjacent section of the one flowing past the meadow
+Schattbachs. 6.3 Poller
+
+Limits are reached when assessing which insects act as pollinators. That is
+the role of many species is known and if insects are regularly carried out by us at the pollen or
+nectar intake were observed, they were also used as pollinators for the orchard
+classified. However, not every visit to a flower automatically leads to pollination and at least
+At least for an effective pollination a certain flowering consistency of the visitors is necessary. In front
+Above all, the role of some nocturnal species remains unclear, as they have so far only been active during the day
+were caught with nets and therefore own observations on their food intake
+not available. A total of 158 insects were counted as pollinators. With a total
+number of 400 species of insects, that is almost 40%. Make the largest group of pollinators
+according to the current data situation, as expected, the Hymenoptera with 60 species (38%) (including
+29 wild bee species), the rest are divided into flies (41 species, 26%), beetles (29
+species, 18%) and butterfly species (28 species, 18%) (Fig. 102). — 155 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Butterflies Hautfligler: 60
+
+   
+
+Beetle: 29
+
+Two Wings: 41
+fig 102: Proportion of pollinators on the orchard according to insect orders. Of the 125 insect-pollinated plant species (cf. Tab. 1 & 2) on the orchard
+observed on 40 species of flower visitors. The 20 most common plants are shown in Fig. 103
+drives. The fruit trees were grouped together because they were in a relatively narrow
+Flowering period in early spring. Since their flowers are very similar in structure (all belong to
+grown with the roses), they may attract essentially the same pollinators. Lotus corniculatus: 4
+Cardamine pratensis. 3
+
+Lathyrus pratensis: 4 Ajuga reptans: 3
+Viburnum opulus: 4 Trifolium pratense: 3
+Rubus spec. :5
+
+  
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+
+fruit trees: 27
+Rosacanina:5
+
+Ranunculusacris: 7
+
+s baea: 26
+Cirsium vulgare: 8eneciojacobaea
+
+Taraxacum spp. :9
+
+Hypercium dubiur. 9
+
+Heracleum
+
+sphondylium: 26
+Rosa multiflora: 10 i a
+
+Crataegus sp. : 17 Daucus carota: 21
+
+Cirsium arvense: 20 Anthriscus sylvestris:
+20
+
+fig 103: Top 20 plant species on the orchard with number of observed pollinator species. — 156 -
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+As nectar and pollen donors, the fruit-growing
+me a big role. In our investigations in 2019, 27 species were classified as
+Pollinators paid to fruit tree blossoms. The main flowering took place this year essentially
+in the very sunny and unusually warm Easter week with almost no wind at all
+and plum, cherry, apple and pear trees were in blossom. That was the optimal position
+Conditions for pollination and thus also for the mapping of pollinators. In this
+Weekly pollinators were recorded twice a day for 1.5 hours at different times of the day. It was striking that honey bees were identified as by far the most common pollinators
+could become. Among the mapped pollinators of fruit trees, 14 hyme-
+nopteren (12 wild bees), eight fly and four beetle species as well as a butterfly
+lings type. According to HINTERMEIER & HINTERMEIER (2017), more than 30 wild bee species could
+be observed in the pollination of fruit trees. After the fruit blossom, a solitary, powerful hawthorn played an important role for
+Pollinator, since its flowering time follows the fruit blossom and produces plenty of flowers here
+will. A total of 17 insects were observed pollinating on it
+(seven fly, six hymenoptera, two beetle and two butterfly species). Considering all plant species, 27 pollinators visited fruit trees, 29
+Shrubs and 101 were found on herbs, with some species on more than one group
+could be found, such as B. the honey bee (Apis mellifera), red-headed sand bee (Andrena
+haemorrhoa) and redhead wasp bee (Nomada lathburiana, Fig. 99). It appears,
+that even in the current state of the meadow, the far greater diversity of pollinators
+Meadow plants are to be looked for and not on the fruit trees, which is only a comparative
+cover a short flowering period (Fig. 104). Hymenoptera are particularly important for the
+pollination of fruit trees, but occur in even higher numbers on herbs. Also the
+The number of all other insect orders is significantly higher here. Also Fig. 105 shows the role of the hymenoptera for the pollination of the fruit trees, but also
+that they can be found in even greater numbers on meadow herbs. The other pollinator groups
+do not play a major role with regard to the pollination of the fruit trees, especially the
+butterflies, and are even more prominent on the hedge shrubs. The
+Shrubs also come into play, especially for generalists among the pollinators
+an important role, because they protect the flowers after the fruit trees have blossomed
+e.g. T. considerable number of flowers extend backwards. So closes on the
+Meadow whitethorn blossom (Crataegus spec.) directly to the fruit blossom, followed by Pfaffenhit
+chen (Euonymus europaea), snowball (Viburnum opulus), dog rose
+(Rosa canina), Multi-flowered rose (Rosa multiflora), Black elder (Sambucus nigra),
+Privet (Ligustrum vulgare) and most recently blackberry (Rubus spec.). — 157 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+160
+
+140
+
+120
+
+100
+
+i
+3
+
+0 I |. all all —
+
+Fauna total Hymenoptera Zweifldgler Beetle Butterflies
+
+mTotal number of pollinators fruit trees = shrubs/hedge meadow
+
+fig 104: Number of pollinating insect species on the orchard according to orders on fruit trees, hedge
+shrubs and meadow plants. 160
+140
+120
+
+100
+
+60
+40 :
+0 li: li ais. left
+
+Total| Pollinators fruit trees shrubs / hedge meadow
+
+is
+3
+
+=fauna total mHautfiligler = Zweifligler = beetles = butterflies
+
+fig 105: Number of pollinators on fruit trees, hedge shrubs and meadow plants broken down by insect
+regulations. For comparison, the total number of detected species per order and the absolute number
+the pollinator among these. — 158 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The high values ​​of the pollinators are remarkable because the herbaceous layer is still relatively
+is poor in flowers, especially in 2018, as well as the poor maintenance status
+also made the heavy damage caused by snail damage noticeable. After that prevented
+the exceptional summer drought a rich summer blooms. In 2019 there was
+significantly more flowering herbs, which on the one hand had to do with the less drought,
+but probably also related to the now better condition of the meadow. fig 106: Meadow chervil (Anthriscus sylvestris), fig. 107: Ragwort (Senecio jacobaea),
+Inflorescence with chafer sawfly (Arge Inflorescence with peacock butterfly (Ag/ais io), stone
+cyanocraea), cotton weed beetle (Anthrenus bumblebee (Bombus l/apidarius) and broad-fronted blister
+
+verbasci) and a fly species (05/22/2019, A. JAGEL). _head fly (Sicus ferrugineus) as a pollinator and the
+Ragwort caterpillar (Tyria jacobaeae)
+(07/06/2018, A. JAGEL). A PS ae A
+fig 108: Wild Moor (Daucus carota), part of a Fig. 109: Meadow Barenklau (Heracleum sphondy
+inflorescence with common long-bellied lium), inflorescence with squirrel hoverfly
+hoverfly (Sphaerophoria scripta) and one (Myathropa florea), Red Soldier Beetle (Rhagonycha
+ant, which is often very numerous on Méhrenbliiten fulva), another beetle (cf. dasytes spec.,
+stop (07/14/2019, A. JAGEL). Melyridae, Déldchen far right), two fly species,
+
+a kind of bug (cf. Orius spec., on the left edge of the picture)
+and a Hymenoptera (cf. Braconidae, right the
+middle) (07/27/2019, A. JAGEL). Meadow chervil (Anthriscus sylvestris), which blooms before the first mowing, came in both
+Years only a single plant bloomed, but a total of 20
+different species can be observed as pollinators (9 beetles, 2 flies, 6 hymenopte-
+reindeer, 3 butterfly species). According to MULLER (1873, cit. according to HINTERMEIER & HINTERMEIER
+2009) over 70 flower guests were observed on meadow chervil. After the spring mowing
+three plant species played a major role for pollinators in 2018 and 2019
+
+— 159 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Jacob's groundsel (Senecio jacobaea) and the two umbelliferous wild moors (Daucus
+carota) and meadow hogweed (Heracleum sphondylium). At HINTERMEIER & HINTERMEIER
+(2014) more than 50 different flower visitors were reported for Jacob’s groundsel.
+bees, including almost two dozen butterfly species and around 18 wild bee species. On the
+Orchard only six plants flowered in 2018, 26 of them grew
+Pollinators mapped (10 butterfly, 8 fly, 5 hymenoptera, 3 beetle species). In the year
+In 2019, the ragweed did not flower at all on the orchard because the plants had been
+caterpillars of the Jacobean bar (Tyria jacobaeae) had been eaten. About ten plants of the Wild Méhre flowered in 2018, in 2019 the
+Situation improved and dozens of specimens of different sizes bloomed. In both
+Years together, 21 pollinators were found (8 beetles, 7 hymenoptera, 4 diptera
+and 2 butterfly species). MULLER (1876 cit. according to HINTERMEIER & HINTERMEIER 2014)
+number in the 19th Century more than 60 flower guests on multiflora. Even more pollinators
+he states 118 species on the Wiesen-Barenklau. On the orchard at the Schattbachstrake
+the situation here was similar to that of the Wilde Méhre. In 2018 only five plants of the
+Wiesen-Barenklaus to the Blite, all others were damaged by snails and
+could not recover because of the drought. In 2019, on the other hand, more than
+Whole meadow distributed dozens of plants to bloom. Turned 26 in both years combined
+Pollinators determined at least down to the family (11 hymenopteran, 7 dipteran, 6 beetle, 2
+butterfly species). The field thistle is also of great importance, which mainly grows in the marginal
+areas of the meadow occurs. The species belongs to phytosociological standards
+not among the meadow plants, but occurs regularly in meadows and meadow fringes. A total of 20 different species could be observed on the flowers (6 Diptera,
+5 beetles, 5 butterflies, 4 hymenoptera species). The butterfly flowers (Fabaceae) of the meadow, e.g. Meadow vetchling (Lathyrus
+pratensis), seed trefoil (Lotus corniculatus var. sativus), meadow clover (Trifolium pratense
+s. None and common vetch (Vicia sepium), barrier by building their blossoms (,butterfly
+ling flowers*) greatly reduce the number of pollinators, so they will not grow on the orchard
+pollinated by as many species as the rose family (Rosaceae), daisy flowers (Asteraceae)
+and umbellifers (Apiaceae). They were pollinated by a total of only six species of insects,
+those to the bumblebees (field bumblebee, species group earth bumblebee, stone bumblebee) and
+Butterflies (Large Oxeye, Common Blue, Rusty Skipper)
+belong. The Labiatae (Lamiaceae, on the orchard z. B. Creeping gi island
+and Common Accentor) restrict the pollinators by building their "lip flowers".
+number one; five species were observed on them and here too there are bumblebee and
+Butterfly species (field bumblebee, species group earth bumblebee, brown day owl, honey
+bee, small cabbage white) that pollinate. 6.4 Endangered and protected species
+
+A total of nine Red List species were found on the orchard, two of them from the
+Category R (inherently rare). Nine others are on the early warning list (Tab. 17). the
+compared to the total number of species, the number of endangered species was only about 1.3%
+to be expected, since the meadow at the time of the first recording for the occurrence
+rare and endangered species was not in optimal condition. In the animal species
+but it must also always be taken into account that with a large number of groups
+no red list or early warning lists exist yet. The majority of the
+mapped animal species is mentioned in the literature for Germany as common and
+
+— 160 -
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+give, but the information refers to large rooms and often outdated quickly. In the meantime, even the mighty smooth oat meadows in the Ruhr area are also part of this
+Such information is available for the highly valuable habitats and for grassland species
+generally no longer meaningful today, since the habitat has been greatly changed,
+so that the species can no longer use it. As far as it is possible for them, they give way
+now often in settlement areas, where they colonize substitute sites, such as parks,
+Gardens or brownfield sites (e.g. B. JAGEL & GAUSMANN 2010). Tab. 17: Red List species. Legend: D = BGL Bergisches Land (for butterflies, SBGL Siiderbergland). Latin name German name NRW SBGL/BGL
+Mushrooms
+Cordyceps militaris Orange-yellow pupal mace 2
+Plant
+Montia arvensis field spring herb 2 D
+Animals
+Agrotis clavis nutrient-poor ground owl Vv
+Andrena gravida White Banded Sand Bee Vv
+Andrena helvola Blackthorn bee Vv
+Andrena labiata Red speedwell sand bee 3
+Astata boops bug digger wasp 3
+Bombus lapidarius stone bumblebee Vv
+Chrysis fulgida Blue-green cuckoo wasp 3 1
+Falco tinnunculus Kestrel Vv
+Halictus scabiosae Yellow-banded rust bee R
+Myrmica sabuleti Sabuleti Knot Ant Vv
+Oryctolagus cuniculus Wild Rabbit Vv Vv
+Osmia cornuta Horned mason bee R
+Osmia leaiana Two-tailed mason bee 3 2
+Passer montanus Tree Sparrow 3
+Sturnus vulgaris Star Vv
+Tyria jacobaeae Jacobskrautbar Vv
+
+ 
+
+The only plants that are legally protected are those that are widespread and widespread in North Rhine-Westphalia
+unthreatened Broad-leaved Helleborine (Epipactis Helleborine), which is under collective protection
+of all orchids falls. Yew (Taxus baccata), yellow daffodil (Narcissus
+pseudonarcissus) and small grape hyacinth (Muscari botryoides), this applies
+but not for wild occurrences. In addition, five lichen species are included
+protection, seven species of mammals, toad and slow worm, and all 25 species of birds. at
+the arthropods are all wild bees (31 species), hornets, all dragonfly species (4 species),
+12 species of beetles and the common blue butterfly among butterflies. total are
+accordingly 57 species protected by law, of which strictly protected buzzard, kestrel
+and bats, which only visit the meadow for food. 6.5 Neobiota
+
+The proportion of the 32 neobiota is low at around 4.5% of the total number of species. From the 19
+Furthermore, only nine neophytes are permanent residents, the rest becoming impermanent
+carried away, planted or entered the area with garden mill. Only four of the permanent
+resident neophytes (hairy bittercress, snowdrop, Cuban spinach and Persian
+
+—161-
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+speedwell) grow in the meadow habitat. Ten of the neophytes are from the
+Mediterranean, South-Eastern Europe or other continents, four are garden hybrids or
+Cultivated plants, the rest comes from other regions of Germany and was classified as
+Ornamental plant brought to North Rhine-Westphalia (e.g. B. snowdrops) or abducted
+(e.g. B. Hairy bittercress). Of the total of 13 neozoa, six come from Asia,
+four from the Mediterranean region, two from North America and one from Australia. Locusts: 1 Arachnids: 1
+
+Butterflies: 1
+
+Bugs: 2
+
+Fly: 3
+
+Beetle: 5
+
+fig 110: proportion of
+Neobiota on the
+
+Dangerous Plants: 19 Orchard. Tab. 18: Overview of the neobiota recorded on the orchard on Schattbachstrasse in Bochum and their
+
+Origin. Latin name
+
+German name
+
+origin
+
+ 
+
+Plant
+
+ 
+
+Allium siculum
+
+Sicilian honey leek
+
+Ornamental plant from Sid-Europa, made from garden waste
+
+ 
+
+Brassica napus
+
+canola. crop
+
+ 
+
+Cardamine hirsuta
+
+Native to parts of Germany but not NRW
+
+ 
+
+Claytonia perfoliata
+
+Cuban spinach
+
+North America
+
+ 
+
+Crocus xstellaris
+
+Gold Crocus
+
+Ornamental plant, garden hybrid, from garden waste
+
+ 
+
+Crocus tommasinianus
+
+Fairy Crocus
+
+Ornamental plant from Stido-East Europe, probably spontaneous
+
+ 
+
+Euphorbia lathyris
+
+Cruciform Spurge
+
+Ornamental plant from Asia, from garden waste
+
+ 
+
+Galantus nivalis
+
+Little snowdrop
+
+Mountains of Europe, probably a relict from the garden, enclosed
+
+ 
+
+Lactuca serriola
+
+Compass Cos
+
+Mediterranean area, weed
+
+ 
+
+Lotus corniculatus
+var. sativus
+
+seed trefoil
+
+crop
+
+ 
+
+Matricaria discoidea
+
+Radiant chamomile
+
+North America, Northeast Asia
+
+ 
+
+Narcissus hybrid
+
+Ornamental, garden hybrid
+
+ 
+
+Oxalis stricta
+
+Stiff wood sorrel
+
+North America, East Asia, weeds
+
+ 
+
+Paeonia officinalis
+
+peony
+
+Ornamental plant from the Alps, made from garden waste
+
+ 
+
+Picea abies
+
+Ordinary spruce
+
+Mountains Germany, planted in NRW neophyte
+
+ 
+
+Potentilla indica
+
+Indian mock strawberry
+
+Ornamental plant South-East Asia, naturalized
+
+ 
+
+Pink multiflora
+
+Multi-flowered rose
+
+Ornamental plant from East Asia, well planted
+
+ 
+
+xTriticale rimpaui
+
+triticale
+
+crop
+
+ 
+
+Veronica persica
+
+Persian speedwell
+
+Caucasus, weed
+
+ 
+
+ 
+
+Animals
+
+ 
+
+Aridius bifasciatus
+
+Striped mold beetle
+
+Australia
+
+ 
+
+ 
+
+Arocatus longiceps
+
+ 
+
+plane bug
+
+ 
+
+South Europe, Asia Minor
+
+ 
+
+— 162 -
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Latin name
+
+German name
+
+origin
+
+ 
+
+Berginus tamarisci
+
+Tamarisk mycelium beetle
+
+Mediterranean area
+
+ 
+
+Carpophilus hemipterus
+
+baked fruit beetle
+
+tropical Asia
+
+ 
+
+Chymomyza amoena
+
+Fruit Fly Art
+
+North America
+
+ 
+
+Cydalima perspectalis
+
+Boxwood interesters
+
+East Asia
+
+ 
+
+Dicranopalpus ramosus
+
+Harvester Art
+
+western Mediterranean area
+
+ 
+
+Drosophila immigrans
+
+Fruit Fly Art
+
+Asia
+
+ 
+
+Drosophila suzukii
+
+cherry vinegar fly
+
+Asia
+
+ 
+
+Epuraea ocularis
+
+Far East, Orient
+
+ 
+
+Harmonia axyridis
+
+Asian ladybug
+
+Asia
+
+ 
+
+Leptoglossus occidentalis
+
+pine bug
+
+western North America
+
+ 
+
+Meconema meridionale
+
+Southern oak cricket
+
+Mediterranean area
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.6 Species Numbers
+
+With the number of species regularly given for orchards of 3000, 5000 or even
+Furthermore, it is difficult to understand where these figures come from. Possibly
+once they were put into the world (whether on a scientific basis or a shadow
+tongue? ), then became independent and were also filled with subjective ideas
+lungs further enriched (and that in just one meadow!). However, it remains unclear
+which groups of organisms are taken into account (soil organisms, microfungi
+and other microorganisms?) and it is not clear to which space such
+Obtain information (a meadow or all meadows in a region and in which reference area
+these lie — Germany? Central Europe?). These numbers probably serve by now
+only to emphasize that there are "very many species", which means for orchards,
+which are managed and cared for in a traditional way, certainly applies. to the
+potentially already high numbers of species in a well-developed smooth oat meadow
+an orchard also add the species that are directly or indirectly affected by the presence
+because the trees hang down. These include e.g. B. Species by tree as habitat
+benefit directly (bird's nest, singing station, bark as shelter and breeding chamber, place of growth
+for mosses, lichens and algae). The shading also leads to a
+diverse light mosaic on the ground, which is important for species with a preference for penumbra.
+tion is. Furthermore, orchards cannot be considered as isolated habitats
+but are traditionally dovetailed with the structural variety in the rural area
+the environment such as forest edges, pastures, hedges, fields, dirt roads, etc., which also changes
+affect biodiversity (cf. STEFFAN DEWENTER 2001). A number of animal species depend
+not directly from the meadow plants or fruit tree species, but from the
+Edge structures as habitat. It therefore belongs to the fauna of an orchard in the
+historical sense. Against the background that many orchards today but in the undergrowth
+("Underuse") a poorly or incorrectly maintained meadow or have an ornamental lawn,
+the idea of ​​a species number of 5000 is absurd (cf. also UNTERLADSTETTER 2018). There are exact numbers of species with lists of groups of organisms that reach such numbers
+apparently not yet from at least one single area. Clues to the number of species
+selected groups of organisms on orchards can be found e.g. B. RUHL (1978), MADER
+(1982), MOHR et al. (1992), KORNPROBST (1994), BUNGER & KOLBACH (1995), SSYMANK
+(2000), ACID (2016). Although orchards at the moment in official and voluntary nature conservation as well
+experienced a kind of hype in the perception of the public, according to surveys by the
+Total species numbers hardly occur, so that no suitable comparative
+figures are available. Reasons for this are probably to be found in the fact that it is becoming increasingly difficult
+
+— 163 -
+
+ 
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+will find species experts for the large number of species groups. The relevant training
+at the universities is declining, acquiring knowledge of species is becoming increasingly important
+Leave to volunteers (JAGEL & al. 2017, FROBEL 2019), but often not the financial ones
+and logistical possibilities to carry out larger-scale projects. Tries
+are complete recordings of the lifeworld still in the so-called ,GEO Days of Species-
+diversity". However, the intention here is to record the species within
+half of 24 hours and often there is a focus on public relations, communication
+and environmental education to the detriment of systematic scientific recording. on
+on the other hand, more and more zoological species lists are being made using DNA barcoding
+created by quasi "automatically" generating lists of species after mass collection. For this it is sufficient if the corresponding gene sequences of the species are known, the collector
+itself no longer needs any species knowledge. Ecological connections are thereby
+however, not recorded as e.g. B. Pollination data. Our investigations in the orchard on Schattbachstrasse resulted in a
+Total species number of 710 species in just over 1% years on about half a hectare about 14%
+of the value of the 5000 species postulated for orchards. But probably in the present
+condition of the orchard, a number of 1000 (even without microorganisms)
+table if the groups of organisms that have not been adequately investigated up to now have been recorded
+was. On the one hand, there are still a number of species in the moss and lichen groups
+to add and the year 2018 was a bad year for mushrooms due to the drought, whereby
+it takes several years to record this group anyway. The greatest potential
+But it shows up in the area of ​​arthropods and especially in the nocturnal fauna. Nevertheless, the number of species of 710 appears to be very high, especially for laypeople,
+especially if you look at the orchard on SchattbachstraRe on site, because there
+such a high number never catches the eye. Thank passers-by is not
+aware that not every species appears (conspicuously) in every season. laypersons under
+do not distinguish between species similar to them, like 'dandelions' in spring
+(Taraxacum) and 'Dandelion' in autumn (Leontodon and other yellow-flowered daisies)
+or the different "wasps", "bees", "moths" or even "fruit flies". Out of
+From a scientific point of view, however, the question arises of how to estimate this total number of species
+is. In doing so, one should not lose sight of the fact that the absolute diversity of species is neither a
+Quality judgment is still the goal of the project, but the optimal restoration
+of the meadow habitat with the associated species. A disturbed habitat can
+definitely show higher numbers of species than an undisturbed one and one can count species
+of course continue to increase by creating additional micro-habitats
+become, like a pond and a dry stone wall, or by bringing in
+Plant species known to attract specialized insect species. 7 Outlook
+
+The list of species should include a large part in the Bochum area in corresponding habitats
+contain extant species and gives a clue as to what is in a
+corresponding habitat can also be found in neighboring regions. She forms
+the basis of what species were present at the start of mowing. After renewed
+If the species is recorded at a later date, the current value can be better classified
+will. Only then will it become clear to what extent the number of species will increase with an optimized one
+Have the state of care increased or in our case the number of pollinators increased
+could become. However, the switch to mowing also means accepting that
+that certain species that do not like this use disappear. So it is for example-
+wisely planned to remove the spruces because they do not have traditional elements of a fruit
+
+— 164 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+are meadows and compete with the fruit trees for light and water (cf. fig 2 & 3). At
+However, the occurrence of spruces is linked to a large number of creatures, such as e.g. Legs
+number of fungal species that will then disappear. Also moisture-loving species
+are likely to decline as a result of mowing. If the meadow is mowed regularly with two blades, it can be expected that it will continue to receive nutrients
+loses substances, develops increasingly licky and becomes richer in blossoms. With that, the
+Meadow plants are given the opportunity to reproduce by self-seeding
+and the availability of nesting opportunities in the ground close to the flowering ones
+Planting for wild bees is increased. With the establishment of new plant species it should
+also to an increase in the number of species among insects and in particular the
+pollinators come. There are also studies that indicate the dominance of honey bees
+the pollination of fruit trees only by the unfavorable living conditions fir
+wild bees on orchards comes about, whereas with an improvement in the
+Conditions Wild bees can certainly dominate in fruit tree pollination
+(SCHWENNINGER 2013). However, the question also arises as to what extent formerly
+More specialized animal species present in the area can find their way back at all or
+whether they have already declined too much in the region. To what extent is the project in the sense of a "historical meadow" from the 19th century
+but can still be realized at all, is not least due to the climatic changes that have taken place
+Changes since the 19th Century questionable (cf. WIDEN 2004). As in many places in
+Germany also became Bochum in June and July 2018 and 2019 previous climate records
+Broken. June 2019 was on average the warmest ever measured in Bochum (Ludger
+Mintrop city climate station) and was 3.6 °C above the long-term measured since 1912
+Average. The number of hours of sunshine also reached 325.5 in June 2019
+new maximum value. In July 2019, the highest ever measured in the city area
+Temperature of 40.5 °C exceeded the 40 °C mark for the first time. Nine out of ten of the am
+The highest temperatures measured in Bochum come from this millennium, six
+out of ten from the last five years (LINDEN 2019). Fir the vegetation of the orchard
+not only the rising temperatures are likely to have an effect, but also the
+decreasing precipitation and the increase of dry periods. So fell in otherwise
+second rainiest month July in Bochumer Stiden average 88 mm precipitation,
+but only 22.4 mm in 2018 and 67.3 mm in 2019 (Rudolf-Geiger-
+Field station, Kalwes, Bochum-Querenburg). The year 2018 was in Querenburg with only
+about two-thirds of the average rainfall by far the driest
+Year since records began in 1991 (Fig. 111). Also the period of April
+until July 2019 was 150 mm, far below the average of 275 mm measured so far
+(Fig. 112). This period in 2019 was therefore drier than at any time since 1991
+(Climate data from the Rudolf Geiger outdoor station, information from S. BLOCK, AG Klimatologie, Ruhr-
+University of Bochum). Under changed climatic conditions, a different vegetation appears over time. This should have a particular effect if summer time, which otherwise occurs in the area
+rainiest time, becomes a dry period. There is a short-term impact on
+the already established plants of the smooth oat meadow cannot be observed in the short term because they
+can generally recover after periods of drought. The survival or establishment of seedlings However, young plants could be increasingly difficult as it
+it takes a while for them to develop enough root systems. This can do that
+Species endangered, as was the case in 2018 with the
+Loss of almost all seedlings and young plants characteristic of the smooth oat meadow
+from the autumn and spring became clear (Fig. 111). — 165 —
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+fig 111: Common pigletweed (Hypochaeris Fig. 112: Dry orchard in summer 2019 with
+radicata), young plant withered in summer when wild carrot (Daucus
+(07/27/2018, A. JAGEL). carota) (05.07. 2019, A. JAGEL). Against this background, the question arises as to which plant species should be sown at all
+should be when the classic smooth oat meadow under the new climatic conditions
+should turn out to be no longer appropriate to the location. It will therefore be interesting to
+observe which species fail under the changing climatic conditions
+can keep more and which of the introduced species can establish themselves in the long term,
+which until now have not been considered typical for such meadow communities. thanks
+
+For the provision of the orchard on SchattbachstraRe for fruit tree and meadow care as well as fir
+We would like to thank the UMweLT- UND
+GREEN AREA OFFICE OF THE CITY OF BOCHUM. We would like to thank Mr. VOLKER UNTERLADSTETTER (KG6In) for the numerous
+discussions on all areas related to the topic "meadow". Dr. TILL KASIELKE (Milheim/Ruhr)
+supported us in evaluating the literature on climate and geology. Ms. SicRiD BLock from the Climatology working group
+We thank the Ruhr-Universitat Bochum for providing the climate data of the Rudolf Geiger climate station in
+Bochum-Querenburg and MischHA SCHLEIMER (Bochum) for the preparation of the aerial photo. The following people helped us with the determination: Dr. F. WOLFGANG BOMMBLE
+(Aachen): Mosses and lichens, BERNHARD JACOB! (Oberhausen): wild bees, THOMAS KALVERAM (Essen): mushrooms,
+ToBiAS RAUTENBERG (Duisburg): various types of insects, KLAUS SiEPE (Velen): mushrooms, FRANK SONNENBURG
+(Velbert): ants, VOLKER UNTERLADSTETTER (K6ln): various species of insects and FRANCESCA VEGLIANTE
+(Dresden): Butterflies. Many thanks to them too. Our thanks also go to everyone who has either regularly helped with the maintenance of the meadows or with the
+Erecting nesting aids and planting fruit trees and hedges, etc. involved: PATRICK &
+STEPHANIE BEDNARZ (Bochum), CLAUS DREVERMANN (Bochum), MARLENE & SIMON ENGELS (Milheim/Ruhr), JAN
+MICHAEL HAFERKAMP (Witten), JONAS HILLER (Bochum), ANNETTE HOFFSTIEPEL (Bochum), ANNETTE HOGGEMEIER
+(Bochum), CAROLINE Homm (Bochum), IRIs KaBUS (Bochum), ANGELIKA KLASK (Bochum), Doris & MATHIAS KRISCH
+(Bochum), ULRICH KUCHMEISTER (Bochum), MARCUS & REGINA LUBIENSK! (Hagen), ANJA, DETLEF, JOSHUA & NOAH
+MAHRMANN (Castrop-Rauxel), VERENA NIEHUIS (Oberhausen), THERESA SISNAISKE (Bochum), STEFAN ULBRICH
+(Bochum), VOLKER UNTERLADSTETTER (K6In) and HEIKO UNVERRICHT (Bochum). Photos for this publication
+The following people kindly prepared and made it available to us: ANNETTE HOGGEMEIER
+(Bochum), MATHIAS KRiSCH (Bochum), DeTLEF MAHRMANN (Castrop-Rauxel) and Prof. Dr. THOMAS SCHMITT
+(Bochum). literature
+
+BELLMANN, H. 1993: Locusts, observe, determine. — Oldenburg. Bome.e, F. W. 2017: Notable epiphytic mosses and lichens in Aachen and adjacent areas. — year Bochum Bot. Ver. 8:7-19. Bomete, F. W., JouBeEN, N. & WoLGaRTEN, H. 2012: Remarkable and formerly rarer large lichens in the
+Aachen urban area and the northwestern Eifel. — year Bochum Bot. Ver. 3:115-132. — 166 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Buch, C. & JAGEL, A. 2019: Butterfly Meadow, Bee Feast and Bumblebee Magnet — Insect Rescue from the
+seed tiite? — Ver6ff. Bochum Bot. Ver. 11(2): 9-24. BUCHHOLZ, S., HARTMANN, V. & KREUELS, M. 2011: Red list and index of species of spiders - Araneae - in
+North Rhine-Westphalia, 3. Edition, August 2010. In LANUV (ed. ): Red List of Threatened Plants,
+Mushrooms and animals in North Rhine-Westphalia, 4. fssg. - LANUV specialist 36(2): 565-613. BULTMANN, H., GUDERELY, E. & ZIMMERMANN, G. 2011: Red List and List of Species of Lichens and Lichen-
+inhabiting fungi in North Rhine-Westphalia, 2. Edition, as of October 2011. In LANUV (ed. ): Red list of
+endangered plants, fungi and animals in North Rhine-Westphalia, 4. fssg. - LANUV specialist 36(1): 301-344. FEDERATION OF LOWER SAXONY 2016: Manual of meadow orchard practice. Tips for new creation, care and development. —
+Hanover. BUNGER, L. & KOLBACH, D. 1995: Orchards - link between nature conservation and landscape. - Documentation
+Nature and landscape, special issue 23, bibliography no. 69, Bonn, Federal Agency for Nature Conservation. BUTTLER, K.P., THIEME, M. & al. 2018: Florenliste von Deutschland — Vessels & Plants, Version 10 (August 2018). —
+http://www.kp-buttler.de/florenliste/index.htm [13.10.2019]. DIERSCHKE, H. 1995: Phanological and symphdnological groups of species of flowering plants in Central Europe. —
+Tuexenia 15: 523-560. DIERSCHKE, H. 1997: Synopsis of the plant communities in Germany: Molinio-Arrhenatheretea (E1). Culture-
+grasslands and related types of vegetation, part 1: Arrhenatheretalia: meadows and pastures of fresh sites. —
+Gottingen. Drosnik, J. & POSCHLOD, P. 2011: Literature study on the management of (FFH) Greenland with regard to maintaining
+development/increase of the typical diversity of species. — Report commissioned by the Baden-Württemberg State Institute for Environmental Protection
+Wirttemberg. — Karlsruhe. DULL, R. & DULL-WuNpeR, B. 2008: Determining mosses easily and reliably. — Stuttgart. Esper, G. & RENNWALD, E. 1991: The butterflies of Baden-Wirttemberg, vol. 2: Butterflies II. — Stuttgart. Esser, J., FUHRMANN, M. & VENNE, C. 2011: Red List and Total Species List of Wild Bees and Wasps —
+Hymenoptera - Aculeata - in North Rhine-Westphalia, 1. Edition November 2009. In LANUV (ed. ): Red
+List of endangered plants, fungi and animals in North Rhine-Westphalia fssg. - LANUV specialist 36(2):
+332-398. Everts, S. 1995: Interspecific competition between honey bees (Apis mellifera) and solitary wild bees
+(Hymenoptera, Apoidea). — Nature & Landscape 70: 165-172. FoeRSTER, E. 1983: Plant communities of the Greenland in North Rhine-Westphalia. — Document No. LOBF 8. FRanM, J.-P. & FREY, W. 2004: Moosflora, 4. edition — Stuttgart. FRAHM, , SCHUMM, F. & STAPPER, N.J. 2010: Epiphytic lichens as indicators of environmental quality. — Norderstedt. FROBEL, K. 2019: Save the species experts! - BUNDmagazin 2019(3): 16-17. FULLEKRUG, E. 1967: Phanological diagrams of smooth oat meadows and semi-arid grasslands. — Wednesday flor.-soc. AG, N.F. 14:255-273. GEOLOGICAL SERVICE NRW 2019: Information system soil map of North Rhine-Westphalia on a scale of 1:50000
+(IS BK 50) [WMS: https://www.wms.nrw.de/gd/bk050?]. — di-de/by-2-0 http://www.govdata.de/dl-de/by-2-0
+[2019-11-04]. REGIONAL ASSOCIATION RUHR 2019: https://luftbilder.geoportal.ruhr/ [18.11.2019]. GRUDZIELANEK, M., STEINBRUCKE, M., EGGENSTEIN, J., HOLMGREN, D., AHLEMANN, D. & ZIMMERMANN, B. 2011: That
+Climate in Bochum. Over 100 years of urban climate measurements. — GeoLoge 1: 64-42. HAEUPLER, H., JAGEL, A. & SCHUMACHER, W. 2003: Distribution atlas of ferns and flowering plants in North Rhine-
+Westphalia. — Recklinghausen. HacEN, H. VON & Roos, P. 1979: About dragonflies and their habitats in the southern Ruhr area. — Wednesday Westphalia. Entomol. (Bochum) 3(3): 27-30. HANNING, K. & KAISER, M. 2011: Red list and list of species of ground beetles — Coleoptera: Carabidae — in
+North Rhine-Westphalia, 2. Fssg, as of October 2011. In LANUV (ed. ): Red List of Threatened Plants,
+Mushrooms and animals in North Rhine-Westphalia, 4. fssg. - LANUV specialist 36(2): 423-452. HELVERSEN, O. FROM 1965: Meconoma meridionale (Costa 1860) in the southern Upper Rhine plain (Orth. Ensifera). — Wednesday German from total 28:19-22. HINTERMEIER, H. & HINTERMEIER, M. 2009: flowering plants and their guests, part 2, 2. edition - Bad Windsheim. HINTERMEIER, H. & HINTERMEIER, M. 2014: Flowering plants and their guests, part 4. - Bad Windsheim. HINTERMEIER, H. & HINTERMEIER, M. 2017: Meadow orchards, habitat for animals, 2. edition -Munich. HOFFMANN, H.-J., KoTT, P. & SCHAFER, P. 2011: Annotated list of species of bugs - Heteroptera - in
+North Rhine-Westphalia, 1. Fssg, as of January 2011. In LANUV (ed. ): Red List of Threatened Plants,
+Mushrooms and animals in North Rhine-Westphalia, 4. fssg. - LANUV specialist 36(2): 453-458. — 167 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HOFFMANN, H. & SCHUMACHER, H. 1982: The syrphid fauna in the vicinity of the Ruhr University Bochum
+(Diptera, Syrphidae). — Decheniana 135: 37-44. HOuzeL, N. & KLaus, V. H. 2017: Biodiversity in Greenland. — Nature in NRW 42(2): 34-39. Humperr, F. 1887: The flora of Bochum. - City. gymnastics Bochum. Ax. annual report School year 1886/87. Bochum
+
+INGENHORST, F.-W. 2019: Beautiful, species-rich and yet endangered. Meadow orchards: Help for Little Owl, Sieben-
+schlafer and Co. — Nature Conservation in NRW 3/2019: 8-9. JAGEL, A. & GAUSMANN, P. 2010: On the change in flora from Bochum in the Ruhr area (North Rhine-Westphalia) to the
+last 120 years. — year Bochum Bot. Ver. 1:7-53. JAGEL, A., UNTERLADSTETTER, V. & MATUSZEWski, P. 2018: Species knowledge on the Red List? — https://www.bund-
+bochum.de/fileadmin/bochum/Meldungen_und_einmale_Projekte/2018/ArtenwissenBUND.pdf
+[2019-11-27]. KauTer, D. 2002: 'Sauergras*' and 'Webreit*'. The development of meadows in Central Europe between 1500 and 1500
+1900 — Ber. inst. Landscape and Plant Ecology Univ. Hohenheim, Beih. 14:1-226. Konics, B 2017: Joint project "Network meadow orchard protection NRW". — Nature conservation in NRW 2017(4):
+3. KornprossT, M. 1994: Habitat orchards. Landscape maintenance concept Bavaria, vol. 2(5). — Bavarian
+State Ministry for Regional Development and Environmental Issues and Bavarian Academy for Nature Conservation and
+Landscaping (ed.). - Munich. Krausa, K. & KIRCHNER, W. H. 2012: Diversity and phenology of wild bees (Hymenoptera, Apoidea) im
+Botanical Garden Bochum. — Entomology Today 24: 103-111. KUPPER, G. 1999: Wild bees (Hymenoptera, Apidae) in settlement areas. A study of the bee fauna
+in the botanical garden of the Ruhr University Bochum. — Nature & Homeland (Minster) 59(2): 45-52. LINDEN, L. VAN DER 2019: Record months June and July 2019: Also in Bochum more sun and heat than ever
+before. - www.geography. ruhr-uni-bochum.de/news/details/article/record-months-june-and-july-2019/
+[2019-11-28]. MaoeRr, H.J. 1982: The wildlife of orchards and intensively managed orchards in quantitative terms
+Comparison. — Nature and Landscape 57(11): 371-377. MeINiG, H., VIERHAUS, H., TRAPPMANN, C. & HUTTERER, R. 2011: Red list and list of species of mammals —
+Mammalia — in North Rhine-Westphalia, 4. Edition, August 2011. In LANUV (ed. ): Red List of Dangerous
+th plants, fungi and animals in North Rhine-Westphalia, 4. fssg. - LANUV specialist 36(2): 49-78. Metzine, D., GaRve, E. & MATZKE-HAJEK, G. (Ed.) 2018: Red List and Total Species List of Ferns and Flowers
+plants (Trachaeophyta) of Germany. — Conservation and Biodiversity 70(7): 13-358. Mohr, N., RISCH, S. & SORG, M. 1992: Comparative studies on the fauna of selected hymenoptera taxa
+(Hymenoptera) from meadow orchards in the North Palatinate Uplands. — Contribution Landespfl. Rhineland-Palatinate 15: 409—
+493. MUHLETHALER, R., HOLZINGER, W. E., NICKEL, H. & WaCHMANN, E. 2019: The cicadas of Germany, Austria and
+Switzerland. — Wiebelsheim. MOLLER, M. & BossHarD, A. 2010: Old grass strips call for locusts in organic meadows. A possibility for
+Structural improvement in Mahgriinland. — Conservation & Landscape Planning 42(7), 212-217. MUNLYV (Ed.) 2009: Protection of meadow orchards in North Rhine-Westphalia — preservation of the habitat, plant,
+care, product marketing. — Brochure (www.umwelt.nrw.de). NABU BocHum 2019: NABU pasture meets BUND meadow. — https://www.nabu-bochum.de/2019/06/05/nabu-weide-
+meets federal meadow/ [08/19/2019]. NWO (North Rhine-Westphalian Ornithological Society) & LANUV (State Office for Nature, Environment and Consumer
+cherschutz NRW) 2017: Red list of breeding bird species in North Rhine-Westphalia, 6. fssg. — Charadrius 52(1/2):
+1-66. ParoLLy, G. & ROHWER, J. G. 2016: Schmeil-Fitschen: The flora of Germany and neighboring countries, 96. edition —Wiebelsheim. Raabe, U., BUSCHER, D., FASEL, P., FOERSTER, E., GOTTE, R., HAEUPLER, H., JAGEL, A., KAPLAN, K., KEIL, P.,
+KuBrock, P., Loos, G. H., NEIKES, N., SCHUMACHER, W., SuMSER, H. & VANBERG, C. 2011: Red list and
+List of species of ferns and flowering plants, Pteridophyta et spermatophyta, in North Rhine-Westphalia, 4. barrel —- LANUV specialist 36(1):51-183. RENNER, K. 2000: Epuraea ocularis FaImaiRE, a new adventitious species in Germany (Coleoptera, Nitidufae). —
+Coleo 1: 1-3. RUHL, D. 1978: Studies on Hymenoptera in a near-natural habitat, a fallow area and each
+of an alternatively and conventionally cultivated orchard (Hymenoptera: Symphyta, Aculeata). — Diss. university Bonn, institute Agriculture]. Zoology & Beekeeping. — 168 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Saure, C. 2016: Orchard meadows in Saxony-Anhalt and their importance for bees, wasps and hoverflies
+(Hymenoptera part. ; Diptera: Syrphidae). — natural State of Saxony-Anhalt 53. 3-54. SCHEUCHL, E. & WILLNER, W. 2016: Pocket dictionary of wild bees in Central Europe. All species in portrait. —
+Wiebelsheim. Scniess, H. 2010: Meadows for butterflies - a plea for the fearless mowing. — Butterfly Club
+development in the canton of Zirich. SCHLUPMANN, M., MuTz, T., KRONSHAGE, A., GEIGER, A. & HACHTEL, M. 2011; Red list and index of species
+Reptiles - Reptilia - in North Rhine-Westphalia, 4. Issue September 2011. In LANUV (ed. ): Red
+List of endangered plants, fungi and animals in North Rhine-Westphalia fssg. - LANUV specialist 36(2):
+159-222. ScumipT, C. 2004: The harvestman Dicranopalpus ramosus (SIMON, 1909) (Arachnida, Opiliones, Phalangiidae)
+new for Germany. — Wednesday working group western Ent. 20(1): 1-12. ScumipT, C. 2019: Fauna of Bochum. A compilation of the so far in the city of Bochum
+designated animal species - http://www.botanik-bochum.de/fauna/Fauna_Bochum_Schmidt.pdf [24.10.2019]. Scumipt, C. M. 2011: Red List and Species Directory of Mosses — Anthocerotophyta, Bryophyta et
+Hepaticophyta - in North Rhine-Westphalia, 3. fssg. As of August 2011. In LANUV (ed. ): Red list of
+endangered plants, fungi and animals in North Rhine-Westphalia, 4. fssg. - LANUV specialist 36(1): 185-272. SCHUMACHER, H. 2011: Red list and list of species of butterflies - Lepidoptera - in North Rhine-
+Westphalia, 4. Issue July 2010. In LANUV (ed. ): Red list of endangered plants, fungi and animals
+in North Rhine-Westphalia, 4. fssg. - LANUV specialist 36(2): 239-332. SCHWENNINGER, H. R. 2013: Wild bees in meadow orchards. — Nature Conservation Info (LUBE Baden-Wiirttemberg)
+1/2013: 10-12. Siepe, K. & WOLFEL, G 2011: Red list and index of species of the core fungi — Pyrenomycetes — in North Rhine-
+Westphalia. - LANUV specialist 36(1): 345-524. SONNENBURG, H. & SONNENBURG, F. 2011: Red List and Total Species List of Ants — Hymenoptera —
+Formicidae—in North Rhine-Westphalia, 1. Fssg, as of November 2010. In LANUV (ed. ): Red list of
+endangered plants, fungi and animals in North Rhine-Westphalia, 4. fssg. - LANUV specialist 36(2): 399-422. Symank, A. 2000: Flowering phanology and syrphid diversity (Diptera, Syrphidae) in meadow orchards and intensive orchards
+stood. A contribution to the evaluation of cultural landscapes. — Wednesday German total general Angew. Ent. 12:395—
+400 STapT BocHum 1998: Landscape plan Bochum Central/East. STEFFAN DEWENTER, |. 1998: Wild bees in agricultural landscapes: habitat choice, succession, pollination
+and competition from honey bees. — Agroecology 27: 1-134. STEFFAN DEWENTER, |. 2001: Species diversity and abundance of bees and wasps on meadow orchards: Der
+Influence of area size, cultivation and landscape integration. — Wednesday German total general Angew. Ent. 13:339-342. TAYLOR, S.J., TESCARI, G., & VILLA, M. 2001: A Nearctic pest of Pinaceae accidentally introduced into Europe:
+Leptoglossus occidentalis (Heteroptera: Coreidae) in northern Italy. — ent News. 112(2): 101-103. THimm, S. & Weiss, J. 2011: Red list of endangered plants, fungi and animals in North Rhine-Westphalia - 4.
+overall version. In LANUV (ed. ): Red list of endangered plants, fungi and animals in North Rhine-
+Westphalia, 4. fssg. - LANUV specialist 36(1):7-47. TischHEW, S., DIERSCHKE, H., SCHWABE, A., GARVE, E., HEINKEN, T., HOLZEL, N., BERGMEIER, E., Remy, D. &
+HARDTLE, W. 2018: Plant community of the year 2019: The smooth oat meadow. — Tuexenia 38: 287-295. Toss, K. 2016: The Asian spotted wing fly (Drosophila suzukii): A new neozoon in the western
+Ruhr area. — electr. Onto. biologist. Western Ruhr area station 30: 1-6
+
+UNTERLADSTETTER, V. 2018.: At least 5,000 species... The vegetation of meadow orchards and their contribution to
+Biotopqual - Network orchard protection.NRW (https://www.streuobstwiesen-
+nrw.de/fileadmin/PDF/Mindestens_5000_Arten_Volker_Unterladstetter.pdf) [04.11.2019]. UNTERLADSTETTER, V. 2020: Arrhenatheretum elatioris — smooth oat meadow, plant community of the year 2019. —
+year Bochum Bot. Ver. 11 (in press). VAHLE, H.-C. 2015: Healing landscapes through species-rich mowing methods. — Academy for Applied
+vegetation science. Witten. VERBUCHELN, G. 1992: Emergence, differentiation and impoverishment of Greenland societies in North Rhine-
+Westphalia. — Nature in NRW 17/3: 38-41. Voer, H. 1967: Byturidae. In: FREUDE, H., HARDE, KW & Louse, GA. (Ed. ): The beetles of Central Europe, Vol. 7:
+19-20 — Krefeld. WACHMANN, E., MELBER, A. & DECKERT, J. 2004 bugs, vol. 2: Cimicomorpha, Microphysidae, Miridae. - The
+Animal world of Germany, 75. Part. — 169 -
+
+ 
+
+year Bochum Bot. Ver. 11 96-170 2020
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WACHMANN, E., MELBER, A. & DECKERT, J. 2007 bugs, vol. 3, Pentatomorpha |, Aradidae, Lygaeidae,
+Piesmatidae, Berytidae, Pyrrhocoridae, Alydidae, Coreidae, Rhopalidae, Stenocephalidae. - The animalworld
+of Germany, 78. Part. WACHMANN, E., MELBER, A. & DECKERT, J. 2008 bugs, vol. 4, Pentatomorpha ||, Pentatomoidea. - The animalworld
+Germany's 81st Part. WERNER, D.J. 2006: Leptoglossus occidentalis now also in Germany. - Heteropteron 23:38. WesTRICH, P. 2018: The wild bees of Germany, 2. edition — Stuttgart.4100/
+
+WiepdeN, M. 2004: June 15, overtaken by climate change? Long-term results of contractual nature conservation
+Controls in the district of GieRen. In: REITER, K., SCHMIDT, A. & STRATMANN, U. 2004: No use of grassland
+the 15 June. Sense and nonsense of officially prescribed fixed dates in agriculture. — BfN-
+Scripts 124:9-20. addresses of the authors
+
+dr ARMIN JAGEL
+
+Gdansk street 2
+
+4478 Bochum
+
+Email: armin.jagel[at]botanik-bochum.de
+
+CorINNE BUCH
+
+Block dent 7a
+
+45472 Milheim/Ruhr
+
+Email: corinne.buch[at]botanik-bochum.de
+
+dr CHRISTIAN SCHMIDT
+
+Senckenberg Natural History Collections Dresden
+Museum of Zoology
+
+Königsbrücker Landstrasse 159
+
+01109 Dresden
+
+Email: christian.schmidt[at]senckenberg.de
+
+-170-

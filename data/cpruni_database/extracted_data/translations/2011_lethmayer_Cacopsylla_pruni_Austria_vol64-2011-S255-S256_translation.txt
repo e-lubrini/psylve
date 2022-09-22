@@ -1,0 +1,191 @@
+Bulletin of Insectology 64 (Supplement): S255-S256, 2011
+ISSN 1721-8861
+
+The importance of psyllids (Hemiptera Psyllidae) as vectors
+of phytoplasmas in pome and stone fruit trees in Austria
+
+Christa LETHMAYER, Hermann Hausporr, Betty SUAREZ-MAHECHA, Helga REISENZEIN
+Austrian Agency for Health and Food Safety, Institute for Plant Health, SpargelfeldstraBe 191, 1220 Vienna, Austria
+
+Abstract
+
+To study the occurrence and distribution of psyllids as potential vectors of European stone fruit yellows (ESFY), pear decline
+(PD) and apple proliferation (AP) a survey was conducted in Austrian orchards during the last years. Specimens were collected by
+using the beating tray method in apricot, pear and apple tree orchards. The obtained psyllids were analysed by PCR and RFLP
+assays for the presence of phytoplasmas. Molecular analyses showed few infections of Cacopsylla pruni with ‘Candidatus Phyto-
+plasma prunorum’ and few individuals of Cacopsylla pyricola, C. pyri and C. pyrisuga were carrier of 'Candidatus Phytoplasma
+
+pyri’. The data presented in this study are a preliminary report beca
+
+ 
+
+se analyses of apple psyllids are still in progress. Key words: Cacopsylla spp., European stone fruit yellows, pear decline, apple proliferation
+
+Introduction
+
+European stone fruit yellows (ESFY), pear decline (PD)
+and apple proliferation (AP) are quarantine diseases as-
+sociated with phytoplasmas (‘Candidatus Phytoplasma
+prunorum’, ‘Ca. P. pyri’ and 'Ca. P. mali'), which are re-
+sponsible for great economic losses in fruit production
+(Seemiiller and Schneider, 2004). The spread of these
+phytoplasmas is due to infected planting material or in-
+sect vectors, especially psyllids (Hemiptera Psyllidae). The occurrence of these diseases has been described in
+Austria by Richter (1999), Spornberger ef al. (2006),
+Steffek and Altenburger (2008). A literature review re-
+vealed a lack of data on potential vectors in Austria. The
+aim of this study was to gain more information on the
+occurrence of these potential vectors and the phyto-
+plasma infection status of psyllids from pome and stone
+fruit trees in Austria. Materials and methods
+
+Investigation sites were located in the Eastern part of
+Austria - 10 apricot orchards in Lower Austria, Bur-
+genland and Vienna, 5 pear orchards and 3 apple or-
+chards in Lower Austria. Samples were collected by us-
+ing the beating tray method with 100 beats respectively
+100 branches (trees) per sampling date and orchard. Psyllid captures were done in the period from March to
+July, on apricot trees in 2005 and 2006, on pear and ap-
+ple trees in 2009 and 2010. Collected psyllids were
+identified according to Ossiannilsson (1992) and Burck-
+hardt and Jarausch (2007). Molecular analyses for phytoplasma infection of psyl-
+lids were carried out with 1 to 8 individuals per sample
+taken for testing: CTAB-method for the DNA-extraction
+of psyllids (Maixner et al., 1995), qualitative PCR for
+the detection of phytoplasmas in the psyllid samples us-
+ing universal primers fU5/rU3 (Lorenz et al., 1995) and
+then for nested PCR using phytoplasma specific primer
+pairs P1/P7 primer (Deng and Hiruki, 1991; Schneider
+
+et al., 1995) and f01/r01 primer (Lorenz et al., 1995)
+respectively. RFLP assays using restriction enzymes
+Sspl and Rsal were applied to discriminate among the
+three fruit tree phytoplasmas AP, PD and ESFY
+(Tedeschi et al., 2009). Results
+
+The plum psyllid Cacopsylla pruni was found in all in-
+vestigated apricot orchards. The first report of C. pruni
+on apricot trees in Austria was mentioned in Lethmayer
+and Hausdorf (2005). Interesting was the high number
+of Cacopsylla melanoneura on apricot trees at some
+investigation sites which was due to hawthorn hedges
+near the apricot orchards. The three pear psyllid species
+Cacopsylla pyricola, Cacopsylla pyri, Cacopsylla
+
+pyrisuga and the hawthorn psyllid C. melanoneura
+
+were the main species on pear trees. C. pyricola was
+the most abundant species. On apple trees the psyllids
+C. melanoneura and Cacopsylla picta were mainly cap-
+tured. Molecular analyses of C. pruni showed five positive
+samples (with 30 individuals in total) out of 37 tested
+samples (with 142 individuals in total) with 'Ca. P.
+prunorum'. These samples originated from four sites in
+Lower Austria. All individual of C. melanoneura
+caought on the apricot and pear trees tested negative for
+phytoplasmas. All three pear psyllid species, C. pyri-
+cola, C. pyri and C. pyrisuga, were found infected with
+Ca. P. pyri’ comprising 16 positive samples (with 48
+individuals in total) out of 33 tested samples (with 118
+individuals in total). Positive samples were obtained at
+three pear sites in Lower Austria. First analyses showed
+that the all psyllids collected on apple were infected
+with 'Ca. P. mali’. An overview of the molecular analy-
+ses is given in table 1. Other studies have already confirmed that the psyllid
+species which were tested positive in our study are vec-
+tors of the respective phytoplasmas (rewieved by
+Jarausch and Jarausch, 2010). Working Group 2 - Epidemiology and vector ecology
+
+Table 1. Results of the RFLP analyses of the Cacopsylla samples taken in fruit tree orchards in Austria. orchard/ . . ositive (+)/negative (-) tested for
+date orchard psyllid species espantine (inegative () tested for
+2005 apricot C. pruni + - -
+2006 apricot C. pruni - - -
+2006 apricot C. melanoneura 5 5 5
+2009 pear Cc. icola - + -
+2009 pear C. pyri - + -
+2009 pear C. pyrisuga - + -
+2009 pear C. melanoneura - - -
+2009 apple C. melanoneura 5 5 5
+2010 apple C. melanoneura - - -
+2010 apple C.picta : Z Z
+
+ 
+
+C. pyrisuga has been found infected with ‘Ca. P. pyri’
+(Kucerova et al., 2007) but its ability of transmission is
+still not verified (Jarausch and Jarausch, 2010). Due to
+the geographical position of Austria it is interesting which
+of the two psyllid species found on apple can be identify-
+ind as main vector for transmission of AP in Austria. First
+investigations did not indicate a particular vector capacity
+for ‘Ca. P. mali’ by C. melanoneura or C. picta '. How-
+ever, due to the low number of investigated apple psyllids
+further analyses are necessary to clarify the vector role
+and therefore this issue is still in progress. Discussion
+
+One of the main phytosanitary measures for preventing
+phytoplasma diseases spread is the control of their vec-
+tors. The use of insecticides in sustainable production
+methods is restricted. Therefore, knowledge on the vec-
+tors (mainly psyllids), their distribution and biology is
+strongly needed for control strategies, especially for
+new approaches on integrated control strategies. Acknowledgements
+
+We are very grateful to all growers who made their or-
+chards available to us for carrying out the investigations
+and to Christoph J. Mayer for advice in psyllids identifi-
+cation. The present work has been carried out in the
+frame of COST action FA0807 “Integrated Management
+of Phytoplasma Epidemics in Different Crop Systems”. References
+
+   
+
+BURCKHARDT D., JARAUSCH W., 2007.- Bestimmungsschliissel
+fiir Psylliden auf Rosaceen in Mitteleuropa.- [online] URL:
+http://www. psyllidkey.info [accessed 20 March 2011]. DENG S., HiRUKI C., 1991.- Genetic relatedness between two
+non-culturable micoplasma-like organisms revealed by nu-
+cleic acid hybridization and polymerase chain reaction.-
+Phytopathology, 81: 1475-1479. JARAUSCH B., JARAUSCH W., 2010.- Psyllid vectors and their
+control, pp. 250-270. In: Phytoplasmas: Genomes, Plant
+Hosts and Vectors (WEINTRAUB P. G., JONES P., Eds).-
+CABI, Wallingford, UK. S256
+
+KUCEROVA J., TALACKO L., LAUTERER P., NAVRATIL M., FIA-
+LovA R., 2007.- Molecular tests to determine 'Candidatus
+Phytoplasma pyri’ presence in psyllid vectors from a pear
+tree orchard in the Czech Republic - a preliminary report.-
+Bulletin of Insectology, 60(2): 191-192. LETHMAYER C., HAusporF H., 2005.- Der Pflaumenblattsau-
+ger: Ubertrager der Steinobstvergilbungskrankheit.- Besse-
+res Obst, 7: 8-9. LORENZ K.H., SCHNEIDER B., AHRENS U., SEEMULLER E.,
+1995.- Detection of the apple proliferation and pear decline
+phytoplasmas by PCR amplification of ribosomal and non
+ribosomal DNA.- Phytopathology, 85: 771-776. MAIXNER M., AHRENS U., SEEMULLER E., 1995.- Detection of
+the German grapevine yellows (Vergilbungskrankheit) MLO
+in grapevine, alternative hosts and a vector by a specific
+PCR procedure.- European Journal of Plant Pathology, 101:
+241-250. OSSIANNILSSON F., 1992.- The Psylloidea (Homoptera) of
+Fennoscandia and Denmark. Brill Verlag, Leiden, 347 pp. RICHTER S., 1999.- Apricot chlorotic leaf roll - first report in
+Austria, diagnosis and epidemiology of a quarantine pest.-
+Mitteilungen Klosterneuburg, Rebe und Wein, Obsthau und
+
+Friichteverwertung, 49(6); 245-249. SCHNEIDER B., SEEMULLER E., SMART C. KIRKPATRICK B.
+C., 1995.- Phylogenetic classification of plant pathogenic
+mycoplasma-like organisms or phytoplasmas, pp. 369-380. In: Molecular and Diagnostic Procedures in Mycoplasmol-
+ogy, Vol. I (RAZIN S., TULLY, J. G., Eds).- Academic Press,
+San Diego, CA, USA. SEEMULLER E., SCHNEIDER B., 2004.- ‘Candidatus Phyto-
+plasma mali’, ‘Candidatus Phytoplasma pyri’ and ‘Candida-
+tus Phytoplasma prunorum’, the causal agents of apple pro-
+liferation, pear decline and European stone fruit yellows, re-
+spectively.- International Journal of Systematic and Evolu-
+tionary Microbiology, 54: 1217-1226. SPORNBERGER A., STEFFEK R., ROSLER M., 2006.- Neues zu
+Feuerbrand, Birnenverfall und Apfeltriebsucht — Bericht
+einer internationalen Streuobsttagung in Dossenheim.-
+Besseres Obst, 2: 12-14. STEFFEK R., ALTENBURGER J., 2008.- Eine Quarantinekrank-
+heit erkennen: Dem Birnenverfall auf der Spur.- Besseres
+Obst, 9: 4-5. TEDESCHI R., LAUTERER P., BRUSETTI L., TOTA F., ALMA A...
+2009.- Composition, abundance and phytoplasma infection
+in the hawthorn psyllid fauna of northwestern Italy.- Euro-
+pean Journal of Plant Pathology, 123: 301-310. Corresponding author: Christa LeTHMAYER (e-mail:
+christa.lethmayer@ages.at), Austrian Agency for Health and
+Food Safety, Institute for Plant Health, SpargelfeldstraBe 191,
+1220 Vienna, Austria.

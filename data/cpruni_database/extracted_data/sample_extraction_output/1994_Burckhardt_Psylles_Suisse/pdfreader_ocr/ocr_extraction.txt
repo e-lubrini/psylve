@@ -1,0 +1,805 @@
+
+ q
+365.4001007 0 0 530.2801056 0 0 cm
+/Im0 Do
+ Q
+ BT
+/T1_0 1 Tf
+0.0017 Tc
+3 Tr
+8.2 0 0 8.2 80.24 487.81 Tm
+(BULLETIN ) Tj
+ ET
+ BT
+/Suspect <</Conf 0>> BDC
+/T1_0 1 Tf
+-0.0013 Tc
+8.2 0 0 8.2 122.36 487.81 Tm
+(ROMAND ) Tj
+ EMC
+/Suspect <</Conf 0>> BDC
+0.0153 Tc
+4.698 0 Td
+(D'ENTOMOLOGIE ) Tj
+ EMC
+ ET
+ BT
+/T1_0 1 Tf
+0.05 Tc
+9.9265 0 0 8.2 231.5 487.81 Tm
+(12: ) Tj
+-0.0119 Tc
+8.2 0 0 8.2 248.84 487.81 Tm
+(109 ) Tj
+ ET
+ BT
+/Suspect <</Conf 0>> BDC
+/T1_0 1 Tf
+0 Tc
+8.2 0 0 8.2 263.07 487.81 Tm
+(-) Tj
+ EMC
+ ET
+ BT
+/T1_0 1 Tf
+-0.0119 Tc
+8.2 0 0 8.2 268.64 487.81 Tm
+(115 ) Tj
+0.015 Tc
+1.778 0 Td
+(\(1994\) ) Tj
+0.0499 Tc
+10.1 0 0 10.1 15.16 447.49 Tm
+(Notes ) Tj
+0.05 Tc
+11.3824 0 0 10.1 47.36 447.49 Tm
+(sur ) Tj
+0.0438 Tc
+10.1 0 0 10.1 69.03 447.49 Tm
+(la ) Tj
+0.05 Tc
+10.5844 0 0 10.1 83.86 447.49 Tm
+(répartition ) Tj
+10.3571 0 0 10.1 139.93 447.49 Tm
+(en ) Tj
+0.0379 Tc
+10.1 0 0 10.1 156.78 447.49 Tm
+(Suisse ) Tj
+0.0284 Tc
+3.394 0 Td
+(de ) Tj
+0.049 Tc
+1.675 0 Td
+(quelques ) Tj
+0.0415 Tc
+4.597 0 Td
+(espèces ) Tj
+0.05 Tc
+10.2439 0 0 10.1 294.74 447.49 Tm
+(de ) Tj
+ ET
+ BT
+/Suspect <</Conf 0>> BDC
+/T1_0 1 Tf
+0.0416 Tc
+10.1 0 0 10.1 14.71 436.69 Tm
+(Psylles ) Tj
+ EMC
+ ET
+ BT
+/T1_0 1 Tf
+0.05 Tc
+10.3655 0 0 10.1 52.8 436.69 Tm
+(\(Hemiptera, ) Tj
+0.0366 Tc
+10.1 0 0 10.1 114.43 436.69 Tm
+(Psylloidea\), ) Tj
+0.05 Tc
+10.0074 0 0 9.7 15.14 405.01 Tm
+(par ) Tj
+0.0202 Tc
+9.7 0 0 9.7 32 405.01 Tm
+(Daniel ) Tj
+0.0101 Tc
+3.118 0 Td
+(Burckhardt, ) Tj
+0.0151 Tc
+5.27 0 Td
+(Muséum ) Tj
+0.0091 Tc
+3.929 0 Td
+(d'histoire ) Tj
+0.0051 Tc
+4.128 0 Td
+(naturelle, ) Tj
+0.0035 Tc
+-13.556 -1.113 Td
+(Case ) Tj
+0.0063 Tc
+2.238 0 Td
+(postale ) Tj
+0.0004 Tc
+3.104 0 Td
+(6434, ) Tj
+ ET
+ BT
+/Suspect <</Conf 0>> BDC
+/T1_0 1 Tf
+-0.0166 Tc
+9.7 0 0 9.7 136.34 394.21 Tm
+(CH-1211 ) Tj
+ EMC
+ ET
+ BT
+/T1_0 1 Tf
+0.0089 Tc
+9.7 0 0 9.7 175.22 394.21 Tm
+(Genève ) Tj
+-0.0202 Tc
+3.375 0 Td
+(6, ) Tj
+-0.035 Tc
+10.0684 0 0 10.1 15.85 351.73 Tm
+(1. ) Tj
+0.0179 Tc
+9.7 0 0 9.7 26.93 351.73 Tm
+(Introduction ) Tj
+0.0088 Tc
+1.264 -2.19 Td
+(Les ) Tj
+0.0132 Tc
+1.894 0 Td
+(Psylles ) Tj
+0.014 Tc
+3.333 0 Td
+(forment ) Tj
+0.0025 Tc
+3.686 0 Td
+(une ) Tj
+0.0141 Tc
+1.878 0 Td
+(superfamille ) Tj
+-0.0062 Tc
+5.535 0 Td
+(de ) Tj
+0.026 Tc
+1.327 0 Td
+(Sternorrhycha ) Tj
+0.0416 Tc
+6.319 0 Td
+(dont ) Tj
+0.0098 Tc
+2.265 0 Td
+(les ) Tj
+0.0213 Tc
+-28.794 -1.076 Td
+(membres ) Tj
+0.0098 Tc
+4.144 0 Td
+(sont ) Tj
+0.0126 Tc
+1.971 0 Td
+(exclusivement ) Tj
+-0.012 Tc
+6.199 0 Td
+(des ) Tj
+-0.0004 Tc
+1.665 0 Td
+(suceurs ) Tj
+-0.0062 Tc
+3.308 0 Td
+(de ) Tj
+0.0106 Tc
+1.257 0 Td
+(sève ) Tj
+-0.012 Tc
+2.084 0 Td
+(des ) Tj
+0.0068 Tc
+1.643 0 Td
+(plantes. ) Tj
+0.0355 Tc
+3.445 0 Td
+(La ) Tj
+0.0185 Tc
+1.379 0 Td
+(plupart ) Tj
+0.0437 Tc
+-27.103 -1.113 Td
+(des ) Tj
+0.0331 Tc
+2.003 0 Td
+(espèces ) Tj
+0.0469 Tc
+3.781 0 Td
+(sont ) Tj
+0.0279 Tc
+2.314 0 Td
+(hautement ) Tj
+0.0282 Tc
+4.923 0 Td
+(spécifiques ) Tj
+0.0242 Tc
+5.311 0 Td
+(envers ) Tj
+0.0193 Tc
+3.305 0 Td
+(leurs ) Tj
+0.031 Tc
+2.57 0 Td
+(plantes ) Tj
+0.0304 Tc
+3.598 0 Td
+(hôtes ) Tj
+0.05 Tc
+10.0491 0 0 9.7 14.3 298.81 Tm
+(contrairement ) Tj
+0.0449 Tc
+9.7 0 0 9.7 84.5 298.81 Tm
+(aux ) Tj
+0.05 Tc
+9.8372 0 0 9.7 107.54 298.81 Tm
+(espèces ) Tj
+9.7408 0 0 9.7 148.95 298.81 Tm
+(d'Aleyrodoidea, ) Tj
+9.803 0 0 9.7 226.44 298.81 Tm
+(une ) Tj
+9.9189 0 0 9.7 250.06 298.81 Tm
+(superfamille ) Tj
+0.0206 Tc
+9.7 0 0 9.7 14.77 288 Tm
+(phylogénétiqucment ) Tj
+0.0015 Tc
+8.796 0 Td
+(proche, ) Tj
+0.0378 Tc
+-6.277 -2.189 Td
+(Meyer-Dür ) Tj
+0.0107 Tc
+5.3 0 Td
+(fut ) Tj
+/T1_1 1 Tf
+0.0139 Tc
+9.1 0 0 9.1 106.75 266.77 Tm
+(le ) Tj
+/T1_0 1 Tf
+0.0282 Tc
+9.7 0 0 9.7 119.17 266.77 Tm
+(premier ) Tj
+0 Tc
+3.774 0 Td
+(à ) Tj
+0.0329 Tc
+0.965 0 Td
+(essayer ) Tj
+-0.0062 Tc
+3.638 0 Td
+(de ) Tj
+0.03 Tc
+1.492 0 Td
+(traiter ) Tj
+0.0282 Tc
+3.073 0 Td
+(d'une ) Tj
+0.0338 Tc
+2.754 0 Td
+(manière ) Tj
+0.0444 Tc
+-26.505 -1.076 Td
+(globale ) Tj
+0.0098 Tc
+3.823 0 Td
+(les ) Tj
+0.0318 Tc
+1.748 0 Td
+(Psylles ) Tj
+0.0309 Tc
+3.595 0 Td
+(de ) Tj
+0.0375 Tc
+1.56 0 Td
+(la ) Tj
+0.025 Tc
+1.296 0 Td
+(faune ) Tj
+0.0163 Tc
+2.929 0 Td
+(suisse, ) Tj
+0 Tc
+3.39 0 Td
+(A ) Tj
+0.0314 Tc
+1.293 0 Td
+(l'exception ) Tj
+0.0244 Tc
+5.232 0 Td
+(d'un ) Tj
+0.0379 Tc
+2.374 0 Td
+(article ) Tj
+0.0329 Tc
+-27.23 -1.113 Td
+(préliminaire ) Tj
+ ET
+ BT
+/Suspect <</Conf 0>> BDC
+/T1_0 1 Tf
+0.0165 Tc
+9.7 0 0 9.7 69.73 245.53 Tm
+(\(Meyer-Dül; ) Tj
+ EMC
+ ET
+ BT
+/T1_0 1 Tf
+0.0006 Tc
+9.7 0 0 9.7 124.94 245.53 Tm
+(1871\) ) Tj
+0.0169 Tc
+2.742 0 Td
+(mentionnant ) Tj
+-0.035 Tc
+9.6688 0 0 9.7 205.59 245.53 Tm
+(17 ) Tj
+0.0139 Tc
+9.7 0 0 9.7 218.78 245.53 Tm
+(espèces, ) Tj
+0.0248 Tc
+3.787 0 Td
+(ce ) Tj
+0.0257 Tc
+1.309 0 Td
+(projet ) Tj
+0.0252 Tc
+2.819 0 Td
+(ne ) Tj
+0.0107 Tc
+-28.959 -1.113 Td
+(fut ) Tj
+0.0433 Tc
+1.482 0 Td
+(jamais ) Tj
+0.0057 Tc
+3.204 0 Td
+(réalisé, ) Tj
+ ET
+ BT
+/Suspect <</Conf 0>> BDC
+/T1_0 1 Tf
+0.0254 Tc
+9.7 0 0 9.7 92.34 234.73 Tm
+(Schaefer ) Tj
+ EMC
+ ET
+ BT
+/T1_0 1 Tf
+0.005 Tc
+9.7 0 0 9.7 131.29 234.73 Tm
+(\(1949\) ) Tj
+0.0183 Tc
+3.119 0 Td
+(énumérait ) Tj
+-0.0101 Tc
+4.49 0 Td
+(95 ) Tj
+0.0145 Tc
+1.411 0 Td
+(espèces ) Tj
+0.0309 Tc
+3.527 0 Td
+(de ) Tj
+ ET
+ BT
+/Suspect <</Conf 0>> BDC
+/T1_0 1 Tf
+0.0231 Tc
+9.7 0 0 9.7 266.22 234.73 Tm
+(Suisse ) Tj
+ EMC
+ ET
+ BT
+/T1_0 1 Tf
+0.0417 Tc
+9.7 0 0 9.7 295.46 234.73 Tm
+(en ) Tj
+0.0308 Tc
+-28.939 -1.076 Td
+(révisant ) Tj
+0.0098 Tc
+3.815 0 Td
+(les ) Tj
+0.0186 Tc
+1.595 0 Td
+(données ) Tj
+-0.0062 Tc
+3.86 0 Td
+(de ) Tj
+0.0004 Tc
+1.411 0 Td
+(la ) Tj
+0.0218 Tc
+1.151 0 Td
+(littérature ) Tj
+0.042 Tc
+4.526 0 Td
+(et ) Tj
+0.0046 Tc
+1.151 0 Td
+(en ) Tj
+0.0097 Tc
+1.406 0 Td
+(se ) Tj
+0.026 Tc
+1.277 0 Td
+(basant ) Tj
+0.014 Tc
+3.139 0 Td
+(sur ) Tj
+0.0027 Tc
+1.685 0 Td
+(un ) Tj
+0.0266 Tc
+1.445 0 Td
+(matériel ) Tj
+0.0315 Tc
+-26.505 -1.113 Td
+(important ) Tj
+0.0111 Tc
+4.527 0 Td
+(du ) Tj
+0.0199 Tc
+1.461 0 Td
+(Nord-ouest ) Tj
+-0.0062 Tc
+5.071 0 Td
+(de ) Tj
+0.0375 Tc
+1.374 0 Td
+(la ) Tj
+ ET
+ BT
+/Suspect <</Conf 0>> BDC
+/T1_0 1 Tf
+0.0157 Tc
+9.7 0 0 9.7 145.98 213.49 Tm
+(Suisse ) Tj
+ EMC
+ ET
+ BT
+/T1_0 1 Tf
+0.0155 Tc
+9.7 0 0 9.7 175.59 213.49 Tm
+(collecté ) Tj
+0.016 Tc
+3.647 0 Td
+(par ) Tj
+0.0228 Tc
+1.698 0 Td
+(lui-même ) Tj
+0.042 Tc
+4.414 0 Td
+(et ) Tj
+0.0326 Tc
+1.146 0 Td
+(sur ) Tj
+0.0375 Tc
+1.676 0 Td
+(la ) Tj
+0.0266 Tc
+-29.209 -1.113 Td
+(collection ) Tj
+0.0111 Tc
+4.565 0 Td
+(du ) Tj
+0.0179 Tc
+1.41 0 Td
+(chanoine ) Tj
+0.0177 Tc
+4.119 0 Td
+(Cerutti ) Tj
+0.0156 Tc
+3.266 0 Td
+(englobant ) Tj
+0.0178 Tc
+4.449 0 Td
+(surtout ) Tj
+0.0111 Tc
+3.234 0 Td
+(du ) Tj
+0.016 Tc
+1.418 0 Td
+(matériel ) Tj
+0.0151 Tc
+3.786 0 Td
+(valaisan. ) Tj
+0.05 Tc
+9.9015 0 0 9.7 14.35 192.25 Tm
+(La ) Tj
+0.0163 Tc
+9.7 0 0 9.7 28.71 192.25 Tm
+(dernière ) Tj
+0.0149 Tc
+3.749 0 Td
+(liste ) Tj
+-0.012 Tc
+2.077 0 Td
+(des ) Tj
+0.007 Tc
+1.712 0 Td
+(Psylles ) Tj
+0.0055 Tc
+3.256 0 Td
+(suisses ) Tj
+0.01 Tc
+3.195 0 Td
+(finalement ) Tj
+0.0121 Tc
+4.752 0 Td
+(est ) Tj
+0.0167 Tc
+1.448 0 Td
+(celle ) Tj
+-0.0062 Tc
+2.301 0 Td
+(de ) Tj
+0.0225 Tc
+1.304 0 Td
+(Burckhardt ) Tj
+0.0124 Tc
+-25.244 -1.113 Td
+(\(1983\) ) Tj
+0.0161 Tc
+3.12 0 Td
+(qui ) Tj
+0.0118 Tc
+1.678 0 Td
+(répertoriait ) Tj
+-0.0277 Tc
+4.976 0 Td
+(129 ) Tj
+0.0033 Tc
+1.806 0 Td
+(espèces, ) Tj
+0.0336 Tc
+-9.049 -2.153 Td
+(Depuis, ) Tj
+0.0378 Tc
+3.966 0 Td
+(davantagc ) Tj
+0.0309 Tc
+4.973 0 Td
+(de ) Tj
+0.0319 Tc
+1.603 0 Td
+(matériel ) Tj
+0 Tc
+4.148 0 Td
+(a ) Tj
+0.0407 Tc
+1.039 0 Td
+(été ) Tj
+0.0368 Tc
+1.857 0 Td
+(collecté ) Tj
+0.05 Tc
+9.744 0 0 9.7 248.42 160.57 Tm
+(par ) Tj
+0.0419 Tc
+9.7 0 0 9.7 267.49 160.57 Tm
+(plusieurs ) Tj
+0.0281 Tc
+-26.128 -1.113 Td
+(personnes, ) Tj
+0.0288 Tc
+4.963 0 Td
+(complètant ) Tj
+0.0045 Tc
+5.121 0 Td
+(ainsi ) Tj
+0.0098 Tc
+2.377 0 Td
+(les ) Tj
+0.0218 Tc
+1.558 0 Td
+(connaissances ) Tj
+0.0179 Tc
+6.385 0 Td
+(lacunaires ) Tj
+-0.0062 Tc
+4.675 0 Td
+(de ) Tj
+0.0375 Tc
+1.374 0 Td
+(la ) Tj
+0.0157 Tc
+1.185 0 Td
+(faune ) Tj
+0.0101 Tc
+-27.615 -1.076 Td
+(suisse. ) Tj
+0.011 Tc
+3.047 0 Td
+(Quelques-unes ) Tj
+-0.0062 Tc
+6.385 0 Td
+(de ) Tj
+-0.0151 Tc
+1.262 0 Td
+(ces ) Tj
+0.0062 Tc
+1.559 0 Td
+(données ) Tj
+0.0098 Tc
+3.632 0 Td
+(sont ) Tj
+0.0089 Tc
+1.982 0 Td
+(présentées ) Tj
+-0.0015 Tc
+4.555 0 Td
+(dans ) Tj
+0.0075 Tc
+2.153 0 Td
+(cette ) Tj
+-0.0092 Tc
+2.235 0 Td
+(note. ) Tj
+-0.0074 Tc
+2.297 0 Td
+(Je ) Tj
+0.0487 Tc
+-29.094 -1.076 Td
+(tiens ) Tj
+0 Tc
+9.1 0 0 9.1 41.67 128.89 Tm
+(à ) Tj
+0.0461 Tc
+9.7 0 0 9.7 52.91 128.89 Tm
+(remercier ) Tj
+/T1_1 1 Tf
+0.05 Tc
+9.6651 0 0 9.1 100.4 128.89 Tm
+(y, ) Tj
+/T1_0 1 Tf
+0.0396 Tc
+9.7 0 0 9.7 115.52 128.89 Tm
+(Basset ) Tj
+0.0307 Tc
+3.481 0 Td
+(\(Genève\), ) Tj
+-0.035 Tc
+9.5478 0 0 9.7 196.88 128.89 Tm
+(M, ) Tj
+0.0395 Tc
+9.7 0 0 9.7 214.52 128.89 Tm
+(Brancucci ) Tj
+0.0343 Tc
+5.04 0 Td
+(\(Bâle\), ) Tj
+-0.035 Tc
+8.1587 0 0 9.7 298.81 128.89 Tm
+(p, ) Tj
+0.0297 Tc
+9.7 0 0 9.7 14.36 118.08 Tm
+(Hattenschwiler ) Tj
+0.0134 Tc
+6.822 0 Td
+(\(Uster\), ) Tj
+-0.035 Tc
+9.6346 0 0 9.7 115.46 118.08 Tm
+(C, ) Tj
+0.0221 Tc
+9.7 0 0 9.7 128.11 118.08 Tm
+(Lienhard ) Tj
+0.0122 Tc
+4.151 0 Td
+(\(Genève\), ) Tj
+-0.035 Tc
+9.2158 0 0 9.7 212.36 118.08 Tm
+(B, ) Tj
+0.0184 Tc
+9.7 0 0 9.7 224.96 118.08 Tm
+(Merz ) Tj
+0.0149 Tc
+2.591 0 Td
+(\(Zürich\) ) Tj
+0.042 Tc
+3.861 0 Td
+(et ) Tj
+/T1_1 1 Tf
+-0.035 Tc
+8.1136 0 0 9.6 298.38 118.08 Tm
+(J, ) Tj
+/T1_0 1 Tf
+0.026 Tc
+9.7 0 0 9.7 14.22 107.65 Tm
+(Steffen ) Tj
+0.0125 Tc
+3.385 0 Td
+(\(Genève\) ) Tj
+-0.0025 Tc
+4.159 0 Td
+(qui ) Tj
+0.0212 Tc
+1.633 0 Td
+(ont ) Tj
+0.0154 Tc
+1.634 0 Td
+(généreusement ) Tj
+0.0134 Tc
+6.457 0 Td
+(contribué ) Tj
+0 Tc
+4.193 0 Td
+(à ) Tj
+-0.0123 Tc
+0.78 0 Td
+(ce ) Tj
+0.0022 Tc
+1.232 0 Td
+(travail ) Tj
+0.0126 Tc
+2.924 0 Td
+(avec ) Tj
+0.0065 Tc
+2.191 0 Td
+(des ) Tj
+0.0414 Tc
+-28.614 -1.113 Td
+(dons ) Tj
+-0.0147 Tc
+2.635 0 Td
+(ou ) Tj
+0.0271 Tc
+1.643 0 Td
+(prêts ) Tj
+-0.0062 Tc
+2.662 0 Td
+(de ) Tj
+0.0282 Tc
+1.516 0 Td
+(spécimens. ) Tj
+-0.0016 Tc
+5.316 0 Td
+(Le ) Tj
+0.0319 Tc
+1.636 0 Td
+(matériel ) Tj
+0.05 Tc
+9.9896 0 0 9.7 202.57 96.85 Tm
+(est ) Tj
+0.0332 Tc
+9.7 0 0 9.7 219.87 96.85 Tm
+(déposé ) Tj
+-0.0041 Tc
+3.525 0 Td
+(au ) Tj
+0.0448 Tc
+1.528 0 Td
+(Muséum ) Tj
+0.0214 Tc
+-26.281 -1.077 Td
+(d'histoire ) Tj
+0.0092 Tc
+4.239 0 Td
+(naturelle, ) Tj
+0.009 Tc
+4.222 0 Td
+(Genève, ) Tj
+0.0349 Tc
+3.744 0 Td
+(sauf ) Tj
+0.0166 Tc
+2.344 0 Td
+(indiqué ) Tj
+0.0081 Tc
+3.412 0 Td
+(autrement. ) Tj
+ ET
+ BT
+/Suspect <</Conf 0>> BDC
+/T1_0 1 Tf
+0.05 Tc
+8.7139 0 0 8.6 153.78 39.25 Tm
+(109 ) Tj
+ EMC
+ ET

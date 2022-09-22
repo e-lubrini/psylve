@@ -1,0 +1,642 @@
+ISSN 1211-8788 Acta Musei Moraviae, Scientiae biologicae (Brno)
+90: 195-207, 2005
+
+Leafhoppers, planthoppers and psyllids (Hemiptera: Cicadomorpha,
+Fulgoromorpha, Psylloidea) in ruderal habitats: material attracted
+by light in the suburbs of Brno (Czech Republic)
+
+IGoR MALENOvsKY & PAVEL LAUTERER
+
+Department of Entomology, Moravian Museum, Hviezdoslavova 29a, 627 00 Brno, Czech Republic;
+e-mail: i:malenovsky@volny.cz, ento.laut@volny.cz
+
+MALENOVSKY I, & LAUTERER P. 2005: Leafhoppers, planthoppers and psyllids (Hemiptera: Cicadomorpha,
+Fulgoromorpha, Psylloidea) in ruderal habitats: material attracted by light in the suburbs of Bro (Czech
+Republic). Acta Musei Moraviae, Scientiae biologicae (Brno) 90: 195-207. ~ Leafhoppers, planthoppers and
+psyllids light-trapped into streetlamps were examined at two sites in complex ruderal habitats (fields, annual
+and perennial ruderal vegetation, scrub with ruderal and alien species) in Slatina, on the periphery of the city
+of Bmo in South Moravia. A total of 1628 specimens and 61 species were found. Among the dominant species
+were Empoasca vitis, E. decipiens, E. pteridis, Macrosteles laevis, Psammotettix alienus, Javesella pellucida,
+Laodelphax striatella, Zyginidia pullula, Kybos lindbergi, and Edwardsiana rosae. Noteworthy are records of
+Kybos calyculus and Oncopsis appendiculata (both new for the Czech Republic), several rare species living in
+dry ruderal grassland (Recilia horvathi, Macrosteles quadripunctulatus, Balclutha saltuella), and hygrophilous
+species caught on dispersal flight (Pentastiridius leporinus, Calamotettix taeniatus, Cicadula placida,
+Limotettix striola, and Paramesus major). Key words. Hemiptera, Auchenorrhyncha, Psylloidea, ruderal habitats, city fauna, light traps, streetlamps,
+Czech Republic, South Moravia, faunistics, new records,
+
+Introduction
+
+Leafhoppers (Cicadomorpha), planthoppers (Fulgoromorpha) and_psyllids
+(Sternorrhyncha: Psylloidea) are phytophagous insects belonging to the order Hemiptera. They suck plant sap, mostly from phloem vessels, some groups feed on xylem or
+mesophyll tissues. Leafhoppers and planthoppers (also known collectively and frequently
+as Auchenorrhyncha) occur in almost all terrestrial ecosystems, often in high densities
+and species numbers. Knowledge of the Auchenorrhyncha in Central Europe has
+substantially improved in the course of recent decades thanks to progress in studies of
+both their taxonomy and biology (HOLzINGER et al. 2003, NICKEL 2003). Most Central-
+European habitats have been sampled for Auchenorrhyncha, including ruderal habitats
+and cultivated fields (ACHTZIGER 1999 and NICKEL et al. 2002 give a review of most
+community-based studies). Here, leafhoppers and planthoppers often attract the attention
+of scientists as a model group for studies of secondary succession (BROWN et al. 1992,
+HOLLIER et al. 1994, NovoTNY 1994, 1995) and some species as pests liable to reduce
+yields of agricultural products either by direct damage or by a transmission of various
+viruses and phytoplasmas, agents of plant diseases (BRCAK 1979, KUDELA & KOCOUREK
+2002). Psyllids occur also in most ecosystems in Central Europe, even if they are not
+represented here in such quantity as the Cicadomorpha or Fulgoromorpha. A great
+
+195
+
+1. MALENOvSKY & P. LAUTERER
+
+majority of species are closely associated with dicotyledonous plants, on which they are
+narrowly host-specific (HODKINSON 1974, BURCKHARDT 2002). Recently a few species of
+Psylloidea have also proved to be vectors of phytoplasmas seriously damaging fruit trees
+(Tepescui et al. 2003). Currently, about 580 species of Auchenorrhyncha and 124 species of Psylloidea are
+known from the Czech Republic (MALENovsky & LAUTERER in press, LAUTERER &
+MALENOVSkyY in press). Several studies have dealt with insect communities, including the
+Hemiptera, in cultivated fields (SKUHRAVY & NOVAK 1957, SKUHRAVY et al. 1959,
+StusAk 1962, OBRTEL 1969, MALENOVSKY & LAUTERER 2002). Some data on individual
+leathopper, planthopper and psyllid species from ruderal habitats are scattered among
+faunistic papers (e.g. DLABOLA 1954, LAUTERER 1957, 1958, and many others). For other
+Hemiptera groups, there is a study of the Heteroptera in ruderal vegetation in the city of
+Brno by Raus (1990), based on a considerable quantity of material. Leafhoppers, planthoppers and psyllids can be sampled in many more or less
+effective ways (STEWART 2002). Among them, light-trapping is not used very frequently,
+at least in temperate climates. STEWART (2002) reports that Rothamsted light traps
+sporadically catch a limited range of species in modest numbers. However, the potential
+of light-trapping for sampling Auchenorthyncha has been amply demonstrated by the
+work of SODERMAN (2004) who used it extensively over large areas in Finland and found
+a considerable proportion of Auchenorrhyncha to be nocturnally active. He also
+discussed the restrictions and benefits of the method: light-traps cover only strongly-
+flying species, so brachypterous planthoppers and leafhoppers, for example, are missing
+from the samples, and such traps do not often allow links to be made between a species
+and its host-plant, or even a habitat. On the other hand, light-trap samples have a
+beneficial sex-ratio for identification down to species, as males are mostly represented in
+high numbers, and they often include species that are only rarely collected by other
+sampling methods. Light-trapping is also suitable for a fairly complete species survey in
+areas that are difficult to sample evenly, such as city centres, considerably fragmented by
+built-up space. Here, the Hemiptera material that gathers in the domes of streetlamps, city
+transport lights and other lighting elements can be put to good use for this purpose too:
+LAUTERER (1995) studied Auchenorrhyncha and Psylloidea collected in this way in the
+centre of Brno, LAUTERER & MALENOVSKY (1997) reported on Psylloidea of the centre of
+Strasbourg in France. Recently, we have evaluated leafhopper, planthopper, and psyllid material light-
+trapped in streetlamps in a complex of ruderal habitats in the suburbs of the city of Brno,
+addressed in this paper. Material and Methods
+The material for this study was collected at two sites in South Moravia (Czech
+Republic) in the eastern periphery of the city of Bo, in the city district of Slatina, field
+6866 of the Central European grid system for mapping flora and fauna (EHRENDORFER &
+HAMANN 1965, PRUNER & Mika 1996). The distance between the sites was 1.8 km. In
+
+196 Acta Mus. Moraviae, Sci. Biol, (Brno), 90, 2005
+
+Hemiptera attracted by light (Bmo, Czech Republic)
+
+both places, the sewerage and water supply systems along the roads were under
+reconstruction and the street lamp-posts had to be temporarily removed. Thanks to the
+kind assistance of the construction supervisor, we were allowed to open the domes of the
+lamps and collect the insect material that had gathered there over the course of several
+years. Insects attracted by the light penetrated the domes through cracks and chinks in the
+sealing and were killed and conserved by the heat. The lamp acted in this respect as a
+primitive light-trap. The lighting element was in the both cases a 250-W high-pressure
+mercury discharge lamp, which emits white light with bands in the entire spectral range. Due to the long-term effect of intensive light and heat, a part of the insect material was
+considerably discoloured, but otherwise in fair condition. In the laboratory, leafhoppers,
+planthoppers and psyllids were sorted out, determined, dry-mounted, and deposited in the
+collections of Moravian Museum, Department of Entomology. They accounted for
+approximately 5—10 % of all insects; the most numerous group in the lamp domes were
+Diptera: Nematocera. The method used is thus similar to that of LAUTERER (1995) and
+LAUTERER & MALENOVSKY (1997). The nomenclature in the paper follows HOLzINGER et al. (1997) for leafhoppers,
+HOLZINGER et al. (2003) for planthoppers, BURCKHARDT (2002) for psyllids, and KUBAT
+et al. (2002) for plants. Vegetation units are named according to Moravec et al. (1995)
+and CuyTry & TicHY (2003). Both sites lie in the Pannonian biogeographical province, near its northernmost limit
+(CULEK 1996). The geological substrates of the habitats under study are largely
+Pleistocene loess, loess loams and fluvial sandy gravels (MULLER & Novak 2000). The “Cernovické terasa” site is located where Turanka street and the Brno-Veseli
+nad Moravou railway line cross one another, at 49°10°17”N, 16°40°48”E, an altitude of
+230 m. On 8th November 2002, the domes of two street lamps here were examined for
+insects. The lamp-posts were cca 10 m high, lighting the ground below (only species able
+to fly strongly could thus be collected). They were situated on the edge of an urbanized
+area, built-up with warehouses, foundries and other industrial buildings, and a vast open,
+flat field, previously used as an intensively managed agricultural zone, where rotating
+crops of maize (Zea mays), rape (Brassica napus subsp. napus), sunflower (Helianthus
+annuus), wheat (Triticum aestivum), barley (Hordeum vulgare), and peas (Pisum sativum)
+were once grown. Because the area became bureaucratically designated for industry,
+cultivation was abandoned a few years before the study and annual ruderal vegetation of
+the class Chenopodietea Br.-Bl. in Br.-Bl. et al., 1952 developed there, being close to the
+annual ruderal grassland of the alliance Bromo-Hordeion murini Hejny in Hejny et al. 1979. In 2003, it was already merging into the perennial thermophilous ruderal
+vegetation (Artemisietea vulgaris Lohmeyer et al. ex von Rochow 1951): Bromus
+tectorum, Carduus acanthoides, Arctium spp., and Taraxacum Sect. Ruderalia dominated
+over large areas, other frequent but less dominant herbs included Achillea millefolium
+agg., Artemisia vulgaris, Arrhenatherum elatius, Capsella bursa-pastoris, Cardaria
+draba, Cirsium arvense, Dactylis glomerata, Descurainia sophia, Echium vulgare,
+Festuca rubra agg., Lolium perenne, Medicago lupulina, Pastinaca sativa, Reseda lutea,
+Rumex crispus, Saponaria officinalis, and Tripleurospermum inodorum. Bare ground and
+
+Acta Mus. Moraviae, Sci. Biol. (Brno), 90, 2005 197
+
+1. MALENOvSKY & P. LAUTERER
+
+trampled parts of construction sites and overburden were also present in the area and
+approximately 500 m from the lamps were dumps from the foundry with slopes almost
+monodominantly overgrown with Calamagrostis epigejos (an area known as “Svédské
+Sance”). Worthy of note, and not far from the lamps, a relatively species-rich perennial
+thermophilous ruderal vegetation on gravelly soil (Dauco-Melilotion Gérs 1966) arose
+around railway track-works, e.g. with Artemisia campestris, A. vulgaris, Echium vulgare,
+Galium mollugo agg., Geranium robertianum, Hieracium bauhini, H. pilosella,
+Medicago sativa, Melilotus officinalis, Potentilla argentea, P. reptans, Sambucus ebulus,
+Sanguisorba minor, Securigera varia, Viola arvensis, and the embankment of the railway
+track itself was dominated by Arrhenatherum elatius. In the close vicinity of the lamps
+were several old trees of Betula pendula. Other woody plants along the railway
+embankment, the road, in the field drainage and on the dumps included Acer negundo, A.
+pseudoplatanus, Cornus sanguinea, Fraxinus excelsior, Juglans regia, Populus *
+canadensis, P. tremula, Prunus avium, P. mahaleb, Robinia pseudacacia, Rosa spp.,
+Sambucus nigra, Symphoricarpos albus, Syringa vulgaris, and Tilia cordata. The “Stranska” site is located in the street of the same name, at 49°11714”N,
+16°40°17”E, at an altitude of 250 m. Here, insects were collected on 14th April 2004 in
+five lamp domes that had stood 6 m above the ground. On one side, the lamps were
+adjacent to an intensively cultivated field where the same agricultural plants had been
+rotated as in “Cernovicka terasa”. The borders of the field consisted of strips of annual
+and perennial thermophilous ruderal vegetation, including especially Arctium sp.,
+Artemisia vulgaris, Arrhenatherum elatius, Bromus sterilis, Capsella bursa-pastoris,
+Cardaria draba, Cirsium arvense, Convolvulus arvensis, Echium vulgare, Elytrigia
+repens, Festuca pratensis, Hordeum murinum, Reseda lutea, Taraxacum Sect. Ruderalia,
+Trifolium repens, and Tripleurospermum inodorum. On the other side of the road was an
+older ruderal area already completely dominated by grasses, especially Arrhenatherum
+elatius and Dactylis glomerata. In the gardens of houses nearby, apple (Malus
+domestica), apricot (Prunus armeniaca), and plum trees (P. domestica) had been planted. Some fifty metres off is a motorway adjoined by scrub consisting of Acer
+pseudoplatanus, Cornus sanguinea, Corylus avellana, Crataegus monogyna, Eleagnus
+angustifolia, Ligustrum vulgare, Lonicera tatarica, Prunus avium, Rosa spp., Sorbus
+aucuparia, and Tilia cordata. Three hundred metres from the lamps, the south-facing
+slopes of the Stranska skala Hill are covered with a species-rich, narrow-leaved dry
+grassland (Festucion valesiacae Klika 1931) on Jurassic limestone; this area is protected
+as a nature reserve (VALOCH & Musi 2000). Results
+
+A total of 1628 specimens and 61 species were found. Leafhoppers (Cicadomorpha)
+prevailed with 1486 specimens and 50 species (all belonging to Cicadellidae), while
+
+198 Acta Mus. Moraviae, Sci. Biol, (Brno), 90, 2005
+
+Hemiptera attracted by light (Bmo, Czech Republic)
+
+Fulgoromorpha (120 exx., 3 spp.) and Psylloidea (22 exx., 8 spp.) material was less
+prolific and less species-rich. Fifty-seven species and 1298 specimens were caught at the
+“Cernovicka terasa” site, compared to 32 species and 330 specimens in “Stranska”. Twenty-two species (i.e. 36 %) were shared by the both sites. The material is listed in
+Table 1. As usual in light-collected material (LAUTERER 1995, SODERMAN 2004), males
+(1044 exx.) distinctly prevailed over females (584 exx.). SODERMAN (2004) explained this
+by differing sex-specific activity peaks in the Auchenorrhyncha. In “Cernovicka terasa”, Empoasca spp. dominated. Empoasca vitis was the most
+numerous, totalling more than a third of all Hemiptera material from the site. It was
+followed by E. decipiens and E. pteridis. These three leafhoppers are extremely
+polyphagous, living on a wide range of plants. E. vitis is preferentially arboricolous,
+whereas E. pteridis feeds on dicotyledonous herbs, and E. decipiens can be found both
+on herbs and leafy shrubs (NICKEL 2003). Other abundant species included the
+leafhoppers and planthoppers Macrosteles laevis, Psammotettix alienus, Javesella
+pellucida, Zyginidia pullula, Kybos lindbergi, and Laodelphax striatella. Kybos lindbergi
+is monophagous on birch (Betula pendula and B. pubescens), the other species feed on
+various grasses (Poaceae), although the host range of J. pellucida, L. striatella, and
+especially M. laevis may be broader (NOVOTNY 1995, NICKEL 2003). Noteworthy for
+“Cemovicka terasa” was a relatively high proportion of specimens (587 exx., 45 %) and
+species (27 spp., 47 %) of arboricolous Hemiptera, apparently due to trees and shrubs
+growing in the close vicinity of the lamps. Except for the euryoecious E. vitis, these
+included leafhoppers and psyllids confined to birch (Betula pendula: Kybos lindbergi, K.
+calyculus, Oncopsis spp., Chamaepsylla hartigii), poplars (Populus * canadensis:
+Macropsis graminea, Populicerus nitidissimus, Rhytidodus decimusquartus, Kybos
+abstrusus), and woody Rosaceae (Edwardsiana rosae, E. crataegi, E. prunicola,
+Typhlocyba quercus, Zygina angusta, Z. flammigera, Cacopsylla pruni). A few
+individuals also belonged to specialists on ash (Fraxinus excelsior: Psyllopsis
+JSraxinicola), willows (Salix spp. : Cacopsylla brunneipennis, C. group saliceti) and some
+other more oligophagous arboricolous species (Aguriahana stellulata, Edwardsiana
+ampliata, E. lethierryi). The nymphs of the rare thermophilous leafhopper Allygidius
+furcatus dwell in the herb layer while its adults move upward onto trees and shrubs. In “Stranska” the dominant species composition was similar. However, Macrosteles
+Jaevis was the most abundant, followed by Empoasca pteridis and Psammotettix alienus. Further, Laodelphax striatella, Edwardsiana rosae, Empoasca decipiens, Javesella
+pellucida, and Empoasca vitis ranked between ten and two per cent of the total at the site. Due particularly to the lower numbers of Empoasca vitis, the proportion of arboricolous
+species was lower than in “Cernovicka terasa” (54 exx., 16 %, 12 species). The most
+abundant from them, Edwardsiana rosae, is oligophagous on roses (Rosa spp.) and other
+related woody trees (Malus, Sorbus, Rubus, Prunus), including their domestic cultivars
+(NICKEL 2003). Acta Mus. Moraviae, Sci. Biol. (Brno), 90, 2005 199
+
+1. MALENOvSKY & P. LAUTERER
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Species Cernovicka terasa Stranska
+¢ ot % |e oT %
+
+Cicadomorpha
+
+CICADELLIDAE
+
+Agurighana stellulata (Burmeister, 1841) 2 ois | 4 0.30
+
+Allygidius furcatus (Ferrari, 1882) 1 0.08
+
+Anoplotettix sp, 1 | 030
+
+Arthaldeus striifrons (Kirschbaum, 1868) 1 | 030
+
+Balclutha calamagrostis Ossiannilsson, 1961 1 | 0.08
+
+Balclutha ef. rhenana Wagner, 1939 41 | 039 1 | 030
+
+Balclutha saltuelta (Kirschbaum, 1868) 2 2 | 031
+
+Calamotettic taeniatus (Horvath, 1911) 1 0.08
+
+Cicadula placida (Horvath, 1897) 9s | 108 | 1 2 | oo
+
+Edwardsiana ampliata (Wagner, 1948) 1 0.08
+
+Edwardsiana crataegi (Douglas, 1876) 1 0.08 | 1 030
+
+Edwardsiana flavescens (Fabricius, 1794) 1 0.08
+
+Edwardsiana lethierryi (Edwards, 1881) 1 0.08
+
+Edwardsiana prunicola (Edwards, 1914) i 0.08
+
+Edwardsiana rosae (Linnaeus, 1758) 5 039) 22 788
+
+Edwardsiana spinigera (Edwards, 1924) 1 030
+
+Edwardsiana cf, stehliki Lauterer, 1958 1 0.08
+
+Edwardsiana spp. 7 | 04 4 | 121
+
+Elymana sulphurella (Zetterstedt, 1828) 1 | 030
+
+Empoasca affinis Nast, 1937 ge | 169 | 4) 12d
+
+Empoasca decipiens Paoli, 1930 157 89% | 1895) 17 7 | 727
+
+Empoasca pteridis (Dahlbom, 1850) 100 57" | 12.10 | 30 13* | 13.03
+
+Empoasea vitis (Goethe, 1875) 31773760] 9 ae | 3.94
+
+Empoasca spp. 331 26
+
+Eupteryx atropunctata (Goeze, 1775) 2 ois | 32 | 452
+
+Eupteryx florida Ribaut, 1936 3 091
+
+Eupteryx stachydearum (Hardy, 1850) 2 1 | 03) 1 030
+
+Eupteryx tenella (Fallén, 1806) 1 030
+
+Eupterys cf. urticae (Fabricius, 1803) 1 | 0.08 |
+
+Eurhadina concinna (Germar, 1831) 1 0.08
+
+Chlorita paolii (Ossiannilsson, 1939) 1 0.08
+
+Kybos abstrusus Linnavuori, 1949 1 0.08
+
+Kybos calyculus Cerutti, 1939 4 4 | 0.62
+
+Kybos lindbergi Linnavuori, 1951 ase | 277 | ot | 182
+
+Kybas spp. 2 5
+
+Limotettix striota (Falién, 1806) 2 2 | 031 1 | 030
+
+Macropsis graminea (Fabricius, 1798) 1 008 | 1 030
+
+Macrosteles cristatus (Ribaut, 1927) 3 | 152
+
+Macrosteles laevis (Ribaut, 1927) 4433" | 5.93 | 55 334 | 2667
+
+Macrosteles quadripunctulatus (Kirschbaum, 1868) 1 ot | ous
+
+Macrosteles spp. 34 35
+
+Oncopsis appendiculata Wagner, 1944 1 0.08
+
+Oncopsis flavicollis (Linnaeus, 1761) 1 008 | 1 0.30
+
+Oncopsis subangulata (J. Sahlberg, 1871) 2 1 | 023
+
+Oncopsis tristis (Zetterstedt, 1840) 1 0.08
+
+Paramesus major Haupt, 1927 1 | 008 1 | 030
+
+Populicerus nitidissimus (Hervich-Schaffer, 1835) 1 1 | 04s
+
+Psammotettix alienus (Dahlbom, 1850) 30° 22 | 401 | 20 21 | 1242
+
+Recilia horvathi (Then, 1896) 2 O15
+
+Rhytidodus decimusquartus (Schrank, 1776) 1 1 | ous) 2 061
+
+Typhlocyba (Typhlocyba) quercus (Fabricius, 1777) 1 030
+
+Zygina angusta Lethierry, 1874 1 0.08
+
+Zygina flammigera (Geottroy, 1785) 1 0.08
+
+Zyginidia pullula (Boheman, 1843) 32.7 | 3.00 | 4 1 | 1s2
+200 Acta Mus. Moraviae, Sci. Biol. (Brno), 90, 2005
+
+ 
+
+Hemiptera attracted by light (Bmo, Czech Republic)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Species Cernovické terasa Stranska
+3g 2 % | 4 2 %
+Eulgoromorpha
+CIXIIDAE
+Pentastiridius leporinus (Linnaeus, 1761) 1 1 | oot
+DELPHACIDAE
+Javesella pellucida (Fabricius, 1794) 46 1) 36 | 9 5 | 424
+Laodelphax striatella (Fallén, 1826) is 3] 216 | 18 1 | 879
+Psvlloidea
+PSYLLIDAE
+Aphalara avicularis Ossianilsson,1981 1 0.08
+Cacopsylla (Cacopsylla) ulmi (Foerster, 1848) 3 0.23
+Cacopsylla (Hepatopsylla) brunneipennis (Edwards, 1896) 1 0.08
+Cacopsylla (Hepatopsylla) sp., saliceti (Foerster, 1848) group 4 | 031
+Cacopsylla (Thamnopsylla) melanoneura (Foerster, 1848) 1} 030
+Cacopsylia (Thamnopsylla) prunt (Scopoli, 1763) 1 | 008
+Chamaepsylla hartigii (Flor, 1861) 3 4 | osa
+Psyllopsis fraxinicola (Foerster, 1848) 31 | 031
+Total 834464 | 100.00 | 210 120 | 100.00
+
+ 
+
+Table 1. List of Psylloidea, Fulgoromorpha, and Cicadomorpha light-trapped in streetlamps in Brno-Slatina. ¢
+— number of male specimens; 2 — number of female specimens (for Empoasca, Kybos, and Macrosteles
+spp., the females of which cannot be identified to species level with certainty, a number corresponding to
+the proportion of the males is given and marked with an asterisk); % — percentage dominance of specie
+the site total. Discussion
+
+ 
+
+Macrosteles laevis, Psammotettix alienus, Empoasca pteridis, Javesella pellucida,
+and Laodelphax striatella are typical pioneer species, readily colonizing disturbed sites
+and habitats in the early successional stages (NOVOTNY 1994, NICKEL 2003, NICKEL &
+HILDEBRANDT 2003). They are usually the dominant species of leafhoppers and
+planthoppers in cultivated fields (AFSCHARPOUR 1960, EMMRICH 1966, OBRTEL 1969,
+GROMADZKA 1970, RAATIKAINEN & VASARAINEN 1976, MALENOVSKY & LAUTERER 2002). Empoasca decipiens and Zyginidia pullula in South Moravia also prefer these kinds of
+sites. Similarly, among the arboricolous species, Empoasca vitis is one of the first
+colonizers of newly-planted shrubs and trees (ACHTZIGER 1994). All these leafhoppers
+and planthoppers exhibit “colonization syndrome” (NOVOTNY 1995): they have versatile
+dispersal abilities, wide host plant ranges, large geographical distribution and two or
+more generations per year. In contrast, colonization syndrome is unknown in Psylloidea. Several Central European psyllids typical of ruderal habitats are narrowly confined to
+single plant species or genera, e.g. Polygonum, Persicaria, Artemisia, Chenopodium,
+Atriplex, Cirsium arvense (BURCKHARDT 2002), and they probably do not differ from
+their relatives living in more permanent habitats in other life-styles mentioned either. Acta Mus. Moraviae, Sci. Biol. (Brno), 90, 2005 201
+
+1. MALENOvSKY & P. LAUTERER
+
+From among these species at the lights in Slatina we recorded only Aphalara avicularis,
+monophagous on the Polygonum aviculare species complex (other Psylloidea found were
+arboricolous). In Heteroptera communities in ruderal habitats, species with distinct host-
+preferences also seem to be represented to a greater extent than in Auchenorrhyncha
+(Raus 1990). Some records are especially remarkable. Kybos calyculus and Oncopsis
+appendiculata were found in the Czech Republic for the first time. Both live on birch. On
+21st May 2003 an additional excursion was made to the nearby housing quarters of Brno-
+Slatina, and both K. calyculus (3 33) and O. appendiculata (4 33,7 99) were found
+there too, in alleys and on solitary trees of Betula pendula together with greater numbers
+of Kybos lindbergi, Oncopsis flavicollis, O. subangulata, and O. tristis (P. Lauterer & R.
+Miihlethaler leg.). To date, K. calyculus has been reported from Betula pubescens from
+only a very few sites in Poland, England, Switzerland, and eastern Germany
+(DworakowskA 1976, SCHIEMENZ 1990). O. appendiculata is widely distributed through
+northern, western and central Europe (Sweden, Finland, Latvia, Lithuania, Netherlands,
+Belgium, France, Germany, Poland, Austria, ex-Yugoslavia: Nast 1972, 1987); however,
+it also seems to be collected quite rarely. Both species are apparently confined to lower
+altitudes in Central Europe (NICKEL 2003). Recilia horvathi had previously been found in the Czech Republic only three-times,
+in the 1950’s at light and by sweeping in alfalfa fields and fallow in the western periphery
+of Brno: Pisarky, Myslivna, and the Brno Reservoir (LAUTERER 1958, 1995). Recently,
+the species has also been recorded from green vineyards in Mikuloy, the Pavlovské vrehy
+Hills (Lauterer & Hluchy in litt.). All these records from South Moravia, including the
+specimens from Slatina, come from open, dry ruderal habitats. In Germany, R. horvathi
+has been recorded at only two sites in the northern upper Rhine plain on inland sand-
+dunes on Corynephorus canescens (HELLER 1996, NICKEL 2003). This grass is absent
+from all known Czech localities. R. horvathi is widespread in southern and south-eastern
+Europe, Tunisia, Georgia, Kazakhstan, and Mongolia (NAST 1972, 1987, REMANE &
+FROHLICH 1994),
+
+The habitat preferences of Macrosteles quadripunctulatus are apparently similar to
+those of the preceding species. M. quadripunctulatus has also been found in the Czech
+Republic only infrequently. The published records include Celdkovice in central Bohemia
+(DLABOLA 1954), a red clover field in Stielice near Brno (LAUTERER 1957), and the city
+of Brno (LAUTERER 1995). It has been recently found in vineyards in the Pavlovské vrehy
+Hills as well. The species is reported from grasses (Setaria, Panicum) but also from
+Chenopodiaceae (Corispermum) (NICKEL 2003). Balclutha saltuella is another uncommon leafhopper in dry ruderal sites. Its
+distribution in the Czech Republic seems to be more or less limited to the Pannonian
+province, where it occurs sporadically, e.g. in disturbed dry grassland, pastures, and
+inland salt marshes. In spite of the dry character of both sites under study, five hygrophilous species were
+present in the material: Pentastiridius leporinus, Calamotettix taeniatus, Cicadula
+placida, Limotettix striola, and Paramesus major. All of them were found in the
+
+202 Acta Mus. Moraviae, Sci. Biol, (Brno), 90, 2005
+
+Hemiptera attracted by light (Bmo, Czech Republic)
+
+agricultural landscape adjacent to the south-eastern quarters of Brno on other occasions
+as well, mostly in depressions, wet fields, along streams and canals or by roads, in
+ditches. Such small-scale habitats were, however, relatively distant from the places under
+study (at least 3 km) and the individuals (14 males, 13 females) found in the lamps must
+have been trapped on their dispersal flight. A similar phenomenon has been described
+from Finland as well (SODERMAN 2004). Pentastiridius leporinus and Calamotettix taeniatus feed on reeds (Phragmites
+australis). Only one record, DLABOLA (1970), has been published for P. /eporinus from
+the Czech Republic (South Bohemia: Dobev) so far. The species has, however, also been
+listed without exact data from Bohemia by Dupa (1892) and from Moravia by DLABOLA
+(1977). In the Brno environs it has also been swept in ruderal habitats in RebeSovice
+(RebeSovice, 6865, Zadni dil, 15.viii.1968, 12, P. Lauterer leg.). To date, C. taeniatus has been reported from only a single locality in South Moravia,
+the shores of the Nesyt Pond (LAUTERER 1986). It seems to be strongly attracted by light
+(LAUTERER 1980, SODERMAN 2004). Another 2 29 were caught in 2002 at light in Brno-
+Stytice, 6865, Hergpické Street (P. Lauterer & J. Chromy leg.) Cicadula placida is a hygrophilous and thermophilous species living on tall sedges. LAUTERER (1986) gives Carex acuta (= C. gracilis) as the host-plant. C. placida is
+probably also present in the Czech Republic only in the Pannonian province and Brno
+could well be close to the northern edge of its range. In the South Moravian lowlands it
+occurs on eutrophic shores of rivers and ponds, open marshy sites in floodplain forests
+and wet depressions in fields (Brno-Chrlice, 6865, Dolni louky, 16.x.1999, Carex sp., 2
+Sd, 1 2; Moravsky Pisek, 7070, 2 km S, wetland in field at road to Veseli, 15.ix.1999,
+6 33,1 9; both I. Malenovsky leg.). In Brno it has occasionally been found on disturbed
+sites (Brno-Stary Liskovec and Bohunice, 6865, banks of the Leskava stream, 10.x.2004,
+2.34, 1. Malenovsky leg.) and in great numbers at light (Brno-Stytice, 6865, Herspicka
+Street, 2002, many exx., P. Lauterer & J. Chromy leg.). Limotettix striola is widespread in the Czech Republic on the shores of ponds, bogs,
+meadow springs, and inland salt marshes (DLABOLA 1954), but also in ephemeral habitats
+such as the exposed beds of regularly drained fish-ponds (Novotny 1994). According to
+NICKEL (2003), it is also a pioneer species in sand and gravel pits and may feed on
+Cyperaceae, mainly Eleocharis spp. Paramesus major is trophically confined to Bolboschoenus maritimus agg. FROHLICH (1997) classifies the leafhopper as halobiont. In the Czech Republic, P. major
+lives in inland salt marshes (LANG 1945, DLABOLA 1970, STREJCEK & Honct 1977). In
+the basins of South Moravia it also successfully colonizes the annual stands of its host-
+plants in wet depressions of cultivated fields on loamy substrates and their margins
+(Brno-Chrlice, 6865, Dolni louky, red clover and maize fields, 27.vi.1999, 733, 229;
+Slavkov u Brna, 6867, maize field at the bypass road 1.5 km SE the town, 15. ix.1999,
+27 33, 16 29, 2 LS; Moravsky Pisek, 7070, 2 km S, wet depression in maize field,
+15.ix.1999, 3 3d, 1 Q; all on Bolboschoenus maritimus agg., I. Malenovsky leg.). The habitats under study belong to group X (“Habitats strongly influenced or
+created by man”) in the habitat classification of the Czech Republic (CuyTry et al. 2001). Acta Mus. Moraviae, Sci. Biol. (Brno), 90, 2005 203
+
+1. MALENOvSKY & P. LAUTERER
+
+As such, they are not considered as valuable for nature conservation. Nevertheless, they
+may well be important from the biodiversity point of view. As in former brown-coal
+mining areas (FUNKE & WITSACK 1998), small-scale patches in ruderal habitats or
+cultivated fields can even harbour a number of rare species. Calamotettix taeniatus,
+Paramesus major, Pentastiridius leporinus, Recilia horvathi, Allygidius furcatus, and
+Cicadula placida are listed by MALENOVSKY & LAUTERER (in press) as endangered or
+vulnerable members of the Czech fauna. Any conservative protection of ruderal habitats
+is, however, generally problematic because of their direct association with human
+economic activities. Acknowledgements
+We are obliged to Ing. Jiti Chromy (Brnénské komunikace, Brno) who kindly
+provided us access to the insect material from the lamps on the construction sites. Roland
+Miihlethaler (Naturhistorisches Museum, Basel) and Toma’ Vymyslicky (Research
+Institute for Fodder Crops, Troubsko) helped us in the field. Our work was supported by
+the City of Brno and the long-term research plan of the Moravian Museum
+MK00009486201 (Ministry of Culture of the Czech Republic). Souhrn
+
+ 
+
+V praci vyhodnocujeme materiél polokiidlého hmyzu — a mer (Hemiptera:
+Cicadomorpha, Fulgoromorpha, Psylloidea), uloveny na svétlo na pfedmésti Brna. Na
+dvou lokalitach v okrajovych partiich méstské ésti Slatina (étverec 6866 stiedoevropské
+sit pro mapovani fléry a fauny) jsme v letech 2002 a 2004 v komplexu nékolika typi
+biotopa ruderalni povahy (intenzivné obhospodafovana pole, jednoleté a vytrvala
+ruderdlni bylinna vegetace, kioviny s ruderdlnimi a nepavodnimi druhy) odebrali hmyz z
+chraniga pouliéniho osvétleni (celkem 7 lamp se rtullovymi vybojkami, ve vyice 6 a 10
+m nad zemi), ktery se v nich hromadil po nékolik piedchozich let. Celkem jsme
+determinovali 1628 jedincii kiisti a mer, piislusejicich 61 druhim (Tabulka 1). Mezi
+nejpovetngjsi pattily Empoasca vitis, E. decipiens, E. pteridis, Macrosteles laevis,
+Psammotettix alienus, Javesella pellucida, Laodelphax striatella, Zyginidia pullula,
+typické druhy kolonizujici stanovisté v raném stadiu sukcese a éasto naruSované plochy,
+a arborikolni druhy Kybos lindbergi a Edwardsiana rosae. Z dal8ich jsou vyznamné
+piedevaim ndlezy dvou druhit kiisti novych pro Ceskou republiku, Kybos calyculus a
+Oncopsis appendiculata (éeled’ Cicadellidae). Oba jsou v Brné-Slatiné vazany na stromy
+biizy bélokoré (Betula pendula). Za zminku stoji také tii v Ceské republice dosud
+sporadicky nalézané druhy ruderdlnich travnikii na suchych stanovistich (Recilia
+horvathi, Macrosteles quadripunctulatus a Balclutha saltuella) a nékolik hygrofilnich
+druhtt (Pentastiridius leporinus, Calamotettix taeniatus, Cicadula placida, Limotettix
+striola a Paramesus major), odchycenych ziejmé v letu na vétsi vzdalenost (alespoi 3
+km). 204 Acta Mus. Moraviae, Sci. Biol. (Brno), 90, 2005
+
+Hemiptera attracted by light (Bmo, Czech Republic)
+
+References
+
+AcHtziGER R. 1994: Zikaden (Homoptera, Auchenorthyncha) an neu angelegten Waldrindern — Erste
+Ergebnisse zur Besiedlung und Sukzession in Strauch- und Krautschicht. Pp. 45-59, In: WiTSACK W. &
+BIEDERMANN R. [eds. ]: Mitteilungen 1. Auchenorrhyncha Tagung 23.9. bis 25.9.1994 Halle/Saale, Martin-
+Luther-Universitit Halle/Saale, 82 pp. Acutzicer R. 1999: Méglichkeiten und Ansitze des Einsatzes von Zikaden in der Naturschutzforschung
+(Hemiptera: Auchenorrhyncha). Reichenbachia 33: 171-190. AFSCHARPOUR F, 1960: Okologische Untersuchungen iiber Wanzen und Zikaden auf Kulturfelderm in
+Schleswig-Holstein. Zeitschrift fiir angewandte Zoologie 47: 257-301. BrCAK J. 1979: Leathopper and planthopper vectors of plant disease agents in central and southern Europe. Pp. 97-154, In: Maramoroscu K. & Harris K. F. (eds. ): Leafhopper vectors of plant disease agents. Academic Press, New York. Brown V. K., GiBsoN C. W. D. & KarHiRITHAMBY J. 1992: Community organization in leaf hoppers. Oikos 65:
+97-106. BurckHarbt D, 2002: Vorkiufiges Verzeichnis der Blattfléhe Mitteleuropas mit Wirtpflanzenangaben (Insecta,
+Hemiptera, Psylloidea). Beitriige zur Zikadenkunde (Halle/Saale) 5: 1-9. Cuyrry M., Kucera T. & Koti M. (eds.) 2001: Katalog biotopii Ceské republiky. [Habitat Catalogue of the
+Czech Republic.] Agentura ochrany piirody a krajiny CR, Praha, 304 pp. CuyTRY M. & Ticu¥ L. 2003: Diagnostic, constant and dominant species of vegetation classes and alliances of
+the Czech Republic: a statistical revision. Folia Facultatis Scientiarum Naturalium Universitatis
+Masarykianae Brunensis, Biologia 108: 1-231. CULEK M. (ed.) 1996: Biogeografické élenéni Ceské republiky. Enigma, Praha, 347 pp. Dianova J. 1954: Kiisi— Homoptera, Fauna CSR, svazek 1. Nakladatelstvi CSAV, Praha, 339 pp. DiaBota J. 1970: Beitrag zur Taxonomie und Chorologie einiger palacarktischer Zikadenarten (Homoptera,
+Auchenorthyncha). Mitteilungen der Miinchner Entomologischen Gesellschaft 59: 90-107. Dianota J. 1977: Homoptera Auchenorrhyncha. Pp. 83-96. In: Diasota J. (ed. ): Enumeratio insectorum
+bohemoslovakiae. Check list tschechoslowakische Insektenfauna. Acta faunistica entomologica Musei
+nationalis Pragae 15, Suppl. 4: 1-158. Dupa L. 1892: Hmyz polokidly (Rhynchota). Catalogus insectorum faunae bohemicae 1: 1-44. Dworakowska I. 1976: Kybos Fieb., subgenus of Empoasca Walsh (Auchenorthyncha, Cicadellidae,
+Typhlocybinae) in Palaearctic. Acta Zoologica Cracoviensia (Krakéw) 31: 387-463. EHRENDORFER F. & HAMANN U. (1965): Vorschlage zu einer floristischen Kartierung von Mitteleuropa. Berichte
+der Deutschen Botanischen Gesellschaft 78: 35-50. Emrich R. 1966: Faunistisch-ékologische Untersuchungen tiber die Zikadenfauna (Homoptera,
+Auchenorthyncha) von Griinlandflichen und Landwirtschafilichen Kulturen des Greifswalder Gebietes. Mitteilungen aus dem Zoologischen Museum in Berlin 42: 61-126. FROHLICH W, 1997: Zur Salzvertriglichkeit einiger Zikadenarten mitteleuropiischer Salzwiesen. Beitrdge zur
+Zikadenkunde (Halle/Saale) 1: 17-33. FUNKE T, & WITSACK W. 1998: Zur Zikadenfauna der Bergbaufolgelandschaft chemaliger Braunkohlegebaue
+in Sachsen-Anhalt (Homoptera, Auchenorrhyncha) ~ Vorliufige Bestandsliste. Beitriige zur Zikadenkunde
+2: 39-52
+
+Gromanzka J. 1970: The occurrence of leathoppers (Homoptera, Auchenorthyncha) on rye grown near
+shelterbelts. Ekologia Polska (Warszawa) 18: 291-306. HELLER F. 1996: Vier fiir Deutschland neue Zikaden. Megadelphax haglundi (J. Sahlbg. ), Arboridia erecta (Rib. 1931), Fruticidia sanguinosa (Rey 1891) und Recilia horvathi (Then 1896) (Homoptera:
+Auchenorthyncha). Mitteilungen des entomologischen Vereins Stuttgart 31: 112-116. HopkKINSON I. D. 1974: The biology of the Psylloidea (Homoptera): a review. Bulletin of entomological
+Research 64: 325-329. HoLLier J.A., BRowN V. K, & EDWARDS-JONES G. 1994: Successional leafhopper assemblages: Pattern and
+process. Ecological Research 9: 185-191. Acta Mus. Moraviae, Sci. Biol. (Brno), 90, 2005 205
+
+1. MALENOvSKY & P. LAUTERER
+
+HoLzinGER W.E., FROHLICH W, GONTHART H., LAUTERER P., NICKEL H., ORosz A., SCHEDL W. & REMANE R.
+1997: Vorliufiges Verzeichnis der Zikaden Mitteleuropas (Insecta: Auchenorthyncha). Beitrdge zur
+Zikadenkunde (Halle/Saale) 1: 43-62. HowziNcer W.E., KAMMERLANDER I. & Nicket H. 2003: The Auchenorthyncha of Central Europe. Die Zikaden
+Mitteleuropas. Volume 1: Fulgoromorpha, Cicadomorpha excl. Cicadellidae, Brill, Leiden — Boston, 673
+pp. Kunar K., HRoupA L., CHRTEK J. JUN., KAPLAN Z., KIRSCHNER J. & STEPANEK J. (eds.) 2002: Klié ke kvétené
+Ceské republiky. [Key to the Flora of the Czech Republic]. Academia, Praha, 928 p.
+
+Kueta & Kocourex F, (eds.) 2002: Seznam skodlivych organisma rostlin, List of pests injurious to plants. Agrospoj, Praha, 342 pp. Lane V, 1945: Cikady moravskych slanisk. Sesty pfispévek k poznéni naSich cikad. [Cicadas of the Moravian
+salt-marshes. Sixth contribution to the knowledge of our cicadas]. Entomologické listy 8: 129-136. Lavrerer P, 1957: Prispévek k poznani kisi CSR (Hom., Auchenorrhyncha). Contribution f la connaissance
+des Cicadines de la Tehécoslovaquie (Hom., Auchenorthyncha). Casopis éeskoslovenské Spolecnosti
+entomologické 54: 1-3
+
+Laurerer P. 1958: Pfispévek k pozndni ktist CSR (Hom., Auchenorrhyncha) II. A contribution to the
+knowledge of the leaf-hoppers of Czechoslovakia (Hom., Auchenorthyneha) II. Acta Musei Moraviae,
+Scientiae naturales (Brno) 43: 125-136. Laurerer P. 1980: New and interesting records of leathoppers from Czechoslovakia (Homoptera,
+Auchenorthyncha). Acta Musei Moraviae, Scientiae naturales (Brno) 65: 117-140. Laurerer P. 1986: New and interesting records of leathoppers from Czechoslovakia (Homoptera,
+Auchenorrhyncha) III. Acta Musei Moraviae, Scientiae naturale (Brno) 71: 179-187. Lavrerer P, 1995: Leafhoppers and psyllids (Homoptera: Auchenorrhyncha and Psylloidea) collected in lamp
+domes in the city of Brno (Czech Republic). Acta Musei Moraviae, Scientiae naturales (Bo) 79(1994):
+169-175
+
+LAUTERER P. & MALENOVSKY I. 1997: Psyllids (Homoptera: Psylloidea) of a city: findings in lamp domes in the
+centre of Strasbourg (France). Acta Musei Moraviae, Scientiae naturales (Brno) 81(1996): 405-409. LaurerER P. & MALENovSKY I. (in press): Stenorthyncha: Psylloidea (mery). ~ In: FarKAC J., KRAL D. &
+Skorpik M. (eds. ): Cerveny seznam bezobratlych Zivotichti Ceské republiky. [Red list of invertebrates of
+the Czech Republic.] Priroda (Praha). MALENovskY I. & LAUTERER P. (2002): Spoleéenstva kfisit (Hemiptera, Auchenorthyncha) a mer (Hemiptera,
+Psylloidea) na polnich kulturach jetele luéniho v okoli Brna. [Species assemblages of Auchenorthyncha
+and Psylloidea (Hemiptera) in red-clover fields in the Brno environs.] Pp. 69-70. In: Brvsa J. & ZUKAL J.:
+Zoologické dny Brno 2002, Abstrakta referdtd z konference, 14.15. tinora 2002. Ustav biologie obratloveti
+AV CR, Brno, 191 pp. MALeNovsky I. & LAUTERER P. (in press): Auchenorrhyncha (ktisi). — In: FARKAC J., KRAL D. & Skorpik M. [eds. ]: Cerveny seznam bezobratlych Zivotichi Ceské republiky. [Red list of invertebrates of the Czech
+Republic.] Priroda (Praha). Moravec J., BALATOVA-TULACKOVA E., BLAZKOVA D., Hapac E., Hemny S., Husk &., Jenix J., KoLnex J.,
+KRAHULEC F., KRopAC Z., NEUHAUSL R., RYBNICEK K., Renorek V, & VicHEREK J. 1995: Rostlinna
+spolegenstva Ceské republiky a jejich ohrozeni (Red list of plant communities of the Czech Republic and
+their endangerment). 2nd edition. Severoceskou prirodou, Suppl. 1995: 1-206. Mote P. & Novak Z. (ed.) 2000: Geologie Bma a okoli. [Geology of Bro and its surroundings]. Cesky
+geologicky tistav, Praha, 92 pp., 12 pl., 1 map,
+
+Nasr J, 1972: Palaearctic Auchenorrhyncha (Homoptera). An annotated check list. Polish Scientific Publishers,
+Warszawa, 550 pp. Nast J, 1987: The Auchenorrhyncha (Homoptera) of Europe. Annales zoologici, Warszawa, 40(15): 535-661. Nicket H. 2003: The leafhoppers and planthoppers of Germany (Hemiptera, Auchenorrhyncha): Patterns and
+strategies in a highly diverse group of phytophagous insects. Pensoft Publishers et Goecke & Evers,
+Moscow — Keltern, 460 pp. NicKEL H. & HILDEBRANDT J. 2003: Auchenorrhyncha communities as indicators of disturbance (Insecta,
+Hemiptera) — a case study from the Elbe flood plains (northern Germany). Agriculture, Ecosystems and
+Environment 98: 183-199. 206 Acta Mus. Moraviae, Sci. Biol, (Brno), 90, 2005
+
+Hemiptera attracted by light (Bmo, Czech Republic)
+
+NICKEL H., HOLZINGER W. E, & WACHMANN E. 2002: Mitteleuropiische Lebensriiume und ihre Zikadenfauna
+(Hemiptera: Auchenorrhyncha). Denisia 4: 279-328. Novotny V. 1994: Association of polyphagy in leathoppers (Auchenorthyncha, Hemiptera) with unpredictable
+environments. Oikos 70: 223-232. Novorny V. 1995: Relationships between life histories of leafhoppers (Auchenorrhyncha — Hemiptera) and
+their host plants (Juncaceae, Cyperaceae, Poaceae). Oikos 73: 33-42. Onrret R. 1969: The insect fauna of the herbage stratum of lucerne fields in southern Moravia
+(Czechoslovakia). Acta scientiarum Naturalium Academiae Scientiarum Bohemoslovaceae Brno 3 (10):
+1-49. PRUNER L. & MIKA P, 1996: Seznam obci a jejich Zasti v Ceské republice s éisly mapovych poli pro sitlové
+mapovani fauny. List of settlements in the Czech Republic with associated map field codes for faunistic
+gtid mapping system, Klapalekiana 32 (Suppl. ): 1-175. RAATIKAINEN M. & VaSARAINEN A. 1976: Composition, zonation and origin of the leafhopper fauna of oatfields
+in Finland. Annales Zoologici Fennici 13: 1-24. Raus P. 1990: Die Wanzen (Heteroptera) der Ruderalvegetation der Stadt Brno (Tschechoslowakei). Acta Musei
+Moraviae, Scienties naturales 76: 225-239. ReMANE R. & FROHLICH W. 1994: Beitrige zur Chorologie einiger Zikaden-Arten (Homoptera
+Auchenorthyncha) in der Westpaliarktis. Marburger Entomologische Publikationen 2(8): 131-188. ScitemeNz H. 1990: Beitriige zur Insektenfauna der DDR: Homoptera ~ Auchenorthyncha (Cicadina) (Insecta). Teil III: Unterfamilie Typhlocybinae, Faunistische Abhandlungen Staatliches Museum fiir Tierkunde
+Dresden 17: 141-187. SkuHRAVY V. & Novak K, 1957: Entomofauna brambofisté a jeji vyvoj. Rozpravy CSAV, Rada matematickyich
+a piirodnich véd 67: 1-50. Skunravy V., Novak K. & Stary P. 1959: Entomofauna jetele Trifolium pratense L. a jeji vyvoj. Rozpravy
+CSAV, Rada matematickych a prirodnich véd 69: 1-83. SODERMAN G, 2004: Auchenorrhyncha captured at light in Finland (Hemiptera, Fulgoromorpha et
+Cicadomorpha. Beitriige zur Zikadenkunde (Halle/Saale) 7: 17-28. Stewart A. J. A. 2002: Techniques for sampling Auchenorrhyncha in grasslands. Denisia 4: 491-512. SrreiceK J. & Honct M. 1977: Prizkum hmyzu stitni pHirodni rezervace Slanisko na Mostecku. Erforschung
+der Insekten des staatlichen Naturschutzgebietes Slanisko in der Nhe von Most. Sbornik Severoceského
+Musea, Ser. Natur, Liberec) 9: 31-45
+
+Srusak J. M. 1962: Entomofauna vojtékového pole na Karlstejnsku. Rozpravy CSAV, Rada matematickych a
+pitrodnich véd 72: 1-17. Tevescit R., ViseNtin C., ALMA A. & Bosco D. 2003: Epidemiology of apple proliferation (AP) in
+northwestern Italy: evaluation of the frequency of AP-positive psyllids in naturally infected populations of
+Cacopsylla melanoneura (Homoptera: Psyllidae). Annals applied Biology 142: 285-290. VaLocu K. & Musi R. 2000 (eds. ): Strinské skala, vgjimetnd lokalita. [Strinska skéla, an extraordinary
+locality]. Moravské zemské muzeum, Brno, 37 pp. Acta Mus. Moraviae, Sci. Biol. (Brno), 90, 2005 207

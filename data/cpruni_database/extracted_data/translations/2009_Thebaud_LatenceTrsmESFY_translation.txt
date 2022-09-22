@@ -1,0 +1,1258 @@
+Ecology and Epidemiology
+
+Efficient Transmission of ‘Candidatus Phytoplasma prunorum
+
+’
+
+Is Delayed by Eight Months Due to a Long Latency
+in Its Host-Alternating Vector
+
+Gaél Thébaud, Michel Yvon, Rémi Alary, Nicolas Sauvion, and Gérard Labonne
+
+First, second, fourth, and fifth authors: Institut National de la Recherche Agronomique (INRA), UMR BGPI, CIRAD TA A-54/K, Campus
+international de Baillarguet, 34398 Montpellier cedex 5, France; and third author: INRA, UMR DAP, 2 Place Viala, 34060 Montpellier
+
+cedex 1, France. Accepted for publication 5 December 2008. ABSTRACT
+
+Thébaud, G., Yvon, M., Alary, R., Sauvion, N., and Labonne, G. 2009. Efficient transmission of *Candidatus Phytoplasma prunorum’ is delayed
+by eight months due to a long latency in its host-alternating vector. Phytopathology 99:265-273. Understanding at which spatiotemporal scale a disease causes signifi-
+cant secondary spread has both theoretical and practical implications. We
+investigated this issue in the case of European stone fruit yellows (ESFY),
+a quarantine vector-borne phytoplasma disease of Prunus trees. Our work
+was focused on the processes underlying disease spread: the interplay
+between the life cycles of the pathogen (‘Candidatus Phytoplasma
+prunorum’) and of the vector (Cacopsylla pruni). We demonstrated ex-
+perimentally that C. pruni has only one generation per year and we
+showed that, at least in southeastern France, C. pruni migrates between
+conifers in mountainous regions (where it overwinters) and Prunus spp. at
+lower altitude (where it breeds). In acquisition-inoculation experiments
+performed with C. pruni over its period of presence on Prunus spp., both
+
+     
+
+immature and mature C. pruni were hardly infectious (0.6%) despite
+effective phytoplasma acquisition and multiplication, We demonstrated
+that most immature vectors born on infected plants reach their maximum
+phytoplasma load (10’ genomes per insect) only after migrating to
+conifers and that, after a life-long retention of the phytoplasma, their
+transmission efficiency was very high (60%) at the end of winter (when
+they migrate back to their Prunus host). Thus, most transmissions occur
+only after an effective latency of 8 months, following vector migrations
+and overwintering on conifers in mountainous regions. From this
+transmission cycle, we can infer that local secondary spread of ESFY in
+apricot orchards is marginal, and recommend that disease management
+strategies take more into account the processes occurring at a regional
+scale, including the role of wild Prunus spp. in ESFY epidemics. Additional keywords: blackthor, monocyclic, polycyclic, polyetic, pri-
+mary infection, Prunus spinosa, psyllid, real-time PCR. The concepts of primary and secondary infections have both
+theoretical and practical implications in epidemiology. Primary
+infections originate from outside a given host population, whereas
+secondary infections originate from within it. On this basis, dis-
+eases are commonly classified as monocyclic (where only pri-
+mary infections occur during one growing season of the host) or
+polycyclic (where an infected plant can give rise to further
+infections within the same growing season) (3,42). Both types
+exhibit different spatiotemporal patterns of spread (3,15,39) that
+have to be taken into account in the definition of relevant control
+strategies. Vector-borne diseases are generally polycyclic within a
+year and sometimes between years; thus, in perennial crops, the
+roguing of infected plants is often suggested to prevent an expo-
+nential increase in disease incidence. Implementing or enforcing
+this control method can be economically and socially costly. Thus, it is desirable to make sure that roguing is likely to be
+efficient, which requires identifying the spatial and temporal
+scales at which secondary transmissions can occur. However, such
+crucial biological information is lacking for a number of diseases,
+including European stone fruit yellows (ESFY). ESFY is a quarantine disease affecting mainly apricot (Prunus
+armeniaca) and Japanese plum (P. salicina) orchards in Europe
+
+Corresponding author: G. Thébaud; E-mail address: thebaud @supagro.inra.fr
+
+ 
+
+doi:10.1094/PHYTO-99-3-0265
+
+This article is in the public domain and not copyrightable. It may be freely
+printed with customary crediting of the source. The American Phytopathological
+Society, 2009. (23). The disease can be graft- or vector-transmitted to most
+Prunus species (5,27); however, different species, cultivars, and
+rootstocks have a different susceptibility (4,19,40). ESFY is caused
+by a phytoplasma (28) for which the name ‘Candidatus Phyto-
+plasma prunorum’ has been proposed (36). The disease is charac-
+terized by various physiological disorders (9,27): short internodes,
+early leafing, leaf rolling, and chlorosis, late and scarce flowering,
+premature fruit fall, increased frost sensitivity and, depending on
+weather conditions, sudden or slow tree death. Because of the
+‘obvious economic consequences of these symptoms, ESFY is
+recorded as a quarantine disease by the main national and inter-
+national organizations in charge of plant protection. Up to now, only one insect species has been identified as a
+vector for ‘Ca. P. prunorum’: Cacopsylla pruni (8). In the scarce
+entomological records concerning this psyllid, it is described as a
+European and Middle-Asiatic univoltine species: after winter, the
+mature (dark-winged) adults breed on blackthorn (P. spinosa)
+where five larval instars can be observed, and the subsequent
+immature (light-colored) adults disappear from Prunus spp. at the
+beginning of the summer; during the rest of the year this species
+is reported mainly on conifers (16,21,31). The temporal dynamics
+of C. pruni population density has been assessed on different
+Prunus hosts, showing the synchronous presence of the psyllid on
+different Prunus spp. from the beginning of February to the end
+of June or July in all the French areas where C. pruni has been
+searched (20). This multihost multisite field survey and measures
+of mortality and fecundity in experimental conditions (5) pro-
+vided a congruent hierarchy of host preference for C. pruni:
+blackthorn > plum (European, Japanese, myrobalan) >> apricot >
+
+ 
+
+Vol. 99, No. 3, 2009 265
+
+peach > almond >> cherry. In contrast, nothing is known about
+the long period spent by C. pruni on conifers, and the biological
+cycle of the species has never been completed in controlled
+conditions; thus, the hypotheses regarding C. pruni life cycle still
+have to be tested. During recent years, several aspects of the transmission proper-
+ties of ESFY by its vector have been revealed. ESFY-positive C.
+pruni have been found in several countries: Italy (8), France (18),
+Spain (22), Switzerland (33), Czech Republic (12), and Bosnia
+Herzegovina (10). ESFY-positive and infectious C. pruni have
+been detected among both immature and mature adults sampled
+from natural populations (6). It has been shown that ‘Ca. P.
+prunorum’ is transmitted in a persistent manner, with minimum
+acquisition, latency, and inoculation periods of 2 to 4 days, 2 to
+3 weeks, and I to 2 days, respectively (7). Although these are
+minimum times and not median times, such biological features
+generally lead to local secondary spread and polycyclic diseases
+(or polyetic, for long latent periods in perennial piants), However,
+three crucial points for the epidemiology of ESFY remain
+unclear; (i) the transmission efficiency of immature vectors before
+leaving their Prunus hosts, (ii) the persistence and infectivity of
+the phytoplasma until the end of the period spent by the vector on
+conifers, and (iii) whether a healthy adult can acquire the phyto-
+plasma after migrating back on Prunus spp. and transmit it before
+the end of its life. These three unresolved points determine whether
+transmission from infected to healthy plants occurs mainly within
+or between years; depending on the distances involved in C. pruni
+biannual host alternations, these points may also define the basic
+spatial scale of ESFY epidemics, which is of major concern to
+control strategies. In the work presented here, our aim was to improve the
+knowledge of ESFY epidemiology by confronting the biology of
+the vector C. pruni with the biology of ‘Ca. P. prunorum’ trans-
+mission. More specifically, we demonstrate experimentally the
+life cycle of C. pruni, and assess the possibility for the psyllid to
+complete the acquisition-latency-inoculation’ sequence within
+each period spent on Prunus spp. by comparing transmission
+experiments and phytoplasma load in the vector throughout its
+lifetime. MATERIALS AND METHODS
+
+Insect collection and rearing. Adult C. pruni were collected
+from plants with a 0.5-m? white beating tray. For the acquisition-
+inoculation tests, mature adults were gathered between February
+and May from blackthorn (P. spinosa) mainly on the 800-m-high
+Larzac plateau (55 km northwest of Montpellier, France). For the
+study of C. pruni life cycle, blackthorn bushes in the plain to the
+north of Montpellier (site 3) were used as a source of mature adults
+for caging experiments and for weekly surveys of adult C. pruni
+density in comparison with a conifer forest located on the 700-m-
+high Séranne mountain (site 1, 35 km northwest of Montpellier). For density surveys, the sampling effort was standardized on coni-
+fers (20 minutes) and on blackthorn (20 plants). The insects were
+reared on P. marianna under fine-meshed sleeve cages in climatic
+chambers (23°C, 16-h day length, relative humidity 280%). Demonstration of C. pruni life cycle. To test whether some C.
+pruni overwinter within blackthorn bushes, part of a bush was
+enclosed under two fine-meshed cages in December 2002, after
+the departure of the immature adults but before the arrival of the
+mature insects. Each cage contained two sticky blue traps (attrac-
+tive to C. pruni) and covered 3.24 m? of ground. In spring 2003,
+the traps were checked under the cages after the arrival of C.
+pruni on the neighboring blackthorn bushes. The experiment was
+replicated over the next winter. In addition, a survey was carried
+out from 2003 to 2007 in the whole Languedoc area in order to
+identify natural overwintering sites for C. pruni. The resulting
+count data were analyzed using a generalized linear model (GLM)
+
+266 PHYTOPATHOLOGY
+
+accounting for overdispersed Poisson data (2) as implemented in
+the dispmod R package. To complete C. pruni life cycle, we reared mature insects in the
+laboratory. Their eggs hatched and, after five larval instars, they
+developed into immature adults, 2,935 of which were transferred
+in June and August 2004 on conifers at three sites: on Abies sp. in
+site 1, on Picea abies at an altitude of 1,260 m in the Aigoual
+massif (site 2), and on Pinus halepensis in site 3. The psyllids
+were maintained until February inside fine-meshed sleeve cages
+enclosing conifer shoots. Within each site, the standard deviation
+(SD) survival rates between cages was compared with the
+expected SD under the hypothesis of binomial distribution of
+survival rates within each cage. Survival was analyzed with a
+GLM accounting for overdispersed binomial data (43) as imple-
+mented in the dispmod R package. Experimental acquisition-inoculation of ‘Ca. P. prunorum’
+by C. pruni. To investigate the acquisition-latency-inoculation
+sequence, 10 Prunus marianna plants were graft-inoculated with
+‘Ca. P. prunorum’ strain POOO. At least 18 months later, mature
+C. pruni collected on blackthorn were reared on these ESFY-
+infected (tested positive using polymerase chain reaction [PCR])
+plants. On some plants, the mature insects were removed 20 days
+after laying eggs, and the nymphs and immature adults obtained
+from their progeny were kept on the infected plant. A sample of
+immature adults was transferred to the experimental overwinter-
+ing sites, subsequently maturing into adults with a known history
+of exposure to the phytoplasma. Mature adults (and their progeny)
+reared on four healthy plants were used as controls. After an acquisition access period (AAP) of 1 to 20 days (ma-
+ture adults) or 16 to 65 days (immature adults), a sample of the
+psyllids was conserved at -80°C and the remainder of the experi-
+mental population was set on healthy test plants (young P. mari-
+anna cuttings) in groups of 2 to 15 individuals, or individually at
+the end of the overwintering experiment. After a subsequent 20-day
+inoculation access period (IAP), the surviving psyllids were
+recovered and conserved at —80°C until DNA extraction. Phyto-
+plasma presence was assessed using PCR for 475 C. pruni
+(including 330 controls), and the transmission tests involved
+6,633 C. pruni (including 3,408 controls). The test plants were
+sprayed with an insecticide and incubated in an insect-proof
+greenhouse or in climatic chambers. Because of the slow phyto-
+plasma multiplication, the plants were tested for ESFY infection
+at least 7 months later, using PCR. The experiments were repli-
+cated on a smaller scale with other field isolates and other source
+species (P. armeniaca and P. salicina) in order to check the
+generality of the results regarding ‘Ca. P. prunorum’ isolate and
+Prunus species. Fisher’s exact test (13) was used to compare
+proportions. All reported confidence intervals (CI) are exact 95%
+CI (1) as implemented in the binGroup R package. DNA extraction and ‘Ca. P. prunorum’ detection. Total DNA
+was extracted as previously described from 0.5 g of plant phloem
+(24) and whole insects (26). The reproducibility of insect DNA
+extraction was assessed from 10 individual C. pruni with the
+PicoGreen dsDNA quantification kit (Molecular Probes) using
+DNA as a standard; after excitation at 480 nm, the fluorescence
+emission was measured at 526 nm with an LS50B fluorescence
+spectrophotometer (Applied Biosystems). Plant and insect DNA
+was stored at 20°C after resuspension in 100 and 30 ull, respec-
+tively, of water treated with diethylpyrocarbonate (DEPC). The
+primer pair ESFYf/r (Table 1) was used to specifically detect ‘Ca. P. prunorum’ in plants and individual insects (38). Each amplifi-
+cation reaction was performed in 20 pl containing | ul of template
+DNA, 1x PCR buffer, and 0.5 units of Tag DNA polymerase
+(Invitrogen), 1.5 mM MgCh, 125 uM each dNTP, and 0.35 uM
+each primer. The PCR conditions were as follows: denaturation at
+94°C for 1 min; followed by 20 cycles at 94°C for 30 s, 65°C for
+20 s, and 72°C for 45 s; and then 20 cycles at 94°C for 30 s, 62°C
+for 20 s, and 72°C for 45 s.
+
+‘Ca. P. prunorum’ quantification. The timing of ‘Ca. P. pru-
+norum’ accumulation in its vector was investigated through esti-
+mating the number of copies of ‘Ca. P. prunorum’ genome present
+in 139 individual psyllids (including 13 controls) sampled during
+the acquisition-inoculation experiment after several combinations
+of AAP and IAP. To this aim, we developed a new real-time PCR
+assay based on TaqMan technology. Using Clustal W v1.83 (41),
+we identified fragments in ‘Ca. P. prunorum’ rDNA region with
+enough divergence across taxa to provide a good level of speci-
+ficity in the detection of the phytoplasma. ‘Ca. P. prunorum’ 16S
+rDNA region was screened with the software Primer Express v1.5
+(Applied Biosystems) to design the primers ECAQf/r (delimiting
+a 108-bp fragment) and the probe ECAQp (Fig. 1). Extensive
+BLAST searches in GenBank confirmed that ECAQf/p/t were
+highly unlikely to detect DNA from organisms outside the 16SrX
+phytoplasma group (Fig. 1). The primers CPf/r and probe ‘Ca. P.
+prunorum’ complementary to a 92-bp fragment of C. pruni 18S
+rDNA (Table 1) were used as a control of DNA extraction in
+insects. The probes ECAQp and ‘Ca. P. prunorum’ were labeled at
+the 5’ end with the fluorescent dyes VIC and FAM, respectively,
+and at the 3’ end with the quencher TAMRA (Applied Biosystems). We used the following real-time PCR conditions: 5 il of plant
+or insect total DNA extract, 0.2 uM (CPf/t) or 0.6 WM (ECAQfir)
+each primer, 0.2 uM (CPp) or 0.25 tM (ECAQp) probe, adjusting
+the volume to 25 yl with TaqMan Universal PCR Master Mix
+(Applied Biosystems), according to the manufacturer’s instruc-
+tions. An initial cycle of 2 min at 50°C and 10 min at 95°C was
+followed by 40 cycles alternating between 95°C for 15 s and 60°C
+for 1 min. The analyses were performed in triplicates with an ABI
+Prism 7700 and the Sequence Detector software (v.1.9.1; Applied
+Biosystems). The number of phytoplasma genomes per insect
+(Np) was estimated as Np = a x Ny/2 = 3.75 Nr, where a is the
+overall dilution factor and N;/2 is the number of phytoplasma
+genomes in the sample, because there are 2 rRNA operons per
+“Ca. P, prunorum’ genome (25). The results were analyzed with
+the R statistical software (34). RESULTS
+
+Demonstration of C. pruni life cycle. No C. pruni were
+trapped in the blackthorn bushes caged during two consecutive
+
+winters whereas, at the end of each winter, mature C. pruni were
+found on the rest of the bush; in addition, during the survey
+carried out from 2003 to 2007, no C. pruni were found in winter
+on blackthorn bushes or in their immediate surroundings. Thus, it
+is at best infrequent and maybe impossible for C. pruni to over-
+winter within blackthorn bushes. Moreover, during the same sur-
+vey (Table 2), only two overwintering C. pruni were found in the
+plain (in December, on Pinus halepensis), while their density was
+much higher (P = 1.7 x 10) on the nearby plateau and mountains
+on conifers of the genera Abies, Picea, or Pinus (but not Cedrus). Overall, the Larzac plateau and Aigoual massif had similar psyllid
+densities (Table 2), but the distribution of C. pruni was hetero-
+geneous within each zone, with sites 1 and 2 consistently shelter-
+ing more individuals than their respective vicinities (P = 4.7 x
+10"); even within site 1 and site 2, C. pruni appeared to
+congregate in restricted parts of the forests (G. Labonne, personal
+observation). Few insects survived until the end of the experimental over-
+wintering, and survival was very irregular between cages (on
+average, 2.8 times more variable than expected if insect deaths
+were independent), indicating that individuals within a given cage
+share many risk factors, such as predators and pathogens; for
+example, entomopathogenic fungi killed many psyllids in both
+natural and caged populations at site 2 (Table 3). Survival in site 1
+(8.2%), at higher altitude, was significantly greater than in the
+other sites (P = 0.021). Survival on conifers in the plain (site 3)
+was lower but 1.9% of the caged insects still managed to survive
+until the following year, contrasting with their quasi-absence in
+the field survey. The 136 C. pruni that survived the overwintering
+experiment at altitude were caged on P. marianna, where they laid
+eggs that developed normally into nymphs and immature adults,
+thus completing the experimental replication of C. pruni
+biological cycle. Ina C. pruni population density survey in spring 2004 (Fig. 2),
+the highest number of immature adults on P. spinosa in site 3
+occurred in a narrow peak during the first 2 weeks of June, fol-
+lowed by a sudden drop and a complete absence after early July,
+defining a maximum 5-week-long period during which an imma-
+ture adult might stay on its Prunus host. On conifers in site 1, the
+first C. pruni was collected in mid-June, and the highest density
+was reached in mid-July. Thus, the emigration period of the im-
+
+TABLE I. Primers and probes for the detection and quantification of *Candidatus Phytoplasma prunorum’ and Cacopsylla pruni targets
+
+ 
+
+Oligonucleotide name
+
+Sequence (5'93")
+
+ 
+
+“Ca. P. prunorum’ 168 rDNA
+
+ESFYf (forward) CCATCATTTAGTTGGGCACT
+
+ESFYr (reverse) ATAGGCCCAAGCCATTATTG
+
+ECAQf (forward) AAACGACTGCTAAGACTGGATATGAA
+
+ECAQp (probe) VIC-CCCGCAAGGGTATGCTGAGAGATGG-TAMRA
+
+ECAQr (reverse)
+C. pruni 18S rDNA
+
+TTACCAACTAACTAATGTGCCGCA. Pf (forward) CAAGTACGTCCCCGTTGATCA
+CPp (probe) FAM-TTAGAGGTTCGAAGGCGATCAGATACCGC-TAMRA
+Pr (reverse) GCTGGCTGACATCGTITATGG
+
+ 
+
+ECAQf
+
+ECAQp ECAQr
+ESFY G1 (X) [AAACGACTGCTAAGACTGGATATGAAK- 30 bp ICCCGC----AAGGGTATGCTGAGAGATG! 'GCGGCACATTAGTTAGTTGGTAA|
+
+ESFY G2 (x)
+AP158 (X)
+PD18 (X)
+SpaWB (X)
+BWB (X)
+OY-M (I)
+AlmWB (IX)
+WX (Ill)
+
+   
+
+Fig. 1. Aligned 16S rDNA sequences for phytoplasma occurring in stone fruit trees or in the 16SrX group, showing the primers and probe (ECAQf/p/r) designed
+
+for the real-time polymerase chain reaction assay. Vol. 99, No. 3, 2009 267
+
+mature adults from P. spinosa in the plain corresponded roughly
+to their arrival period on conifers 27 km away, after a gap of at
+least 2 weeks (Fig. 2). Acquisition and inoculation of ‘Ca. P. prunorum’ by C.
+pruni. In the acquisition-inoculation experiments, the ESFY
+phytoplasma could be detected in 2.8% (CI: 1.2 to 5.2%) of the
+control mature adults (overwintering on conifers), increasing to
+85% (CI: 63.1 to 95.8%) after only a 1-day AAP (Fig. 3A). However, most of them appeared to lose the phytoplasma when
+acquisition stopped, because only 25% of the insects were still
+ESFY-positive (highly significant difference: P = 3.3 x 10“) after
+subsequently feeding on a healthy plant until day 20 (Fig. 3A,
+solid arrow). After 2 to 20 days of AAP, 96% of the mature adults
+were ESFY-positive; likewise, all the tested immature adults were
+ESFY-positive after spending 30 days on infected plants (Fig. 3A); thus, phytoplasma ingestion is easy for both mature and im-
+mature C. pruni. The progeny of adults exposed to the phyto-
+plasma for 1 and 20 days was ESFY-negative (0/40, CI: 0 to 8%),
+showing no evidence of transovarial transmission of the phyto-
+plasma (Fig. 3A). For mature controls, transmission rate (0.47%; CI: 0 to 0.8%)
+was five times smaller than infection rate (P = 3.8 x 10+), After
+acquisition on infected plants, almost all the insects were ESFY-
+positive (Fig. 3A); despite that, subsequent inoculations proved to
+be inefficient for all stages (Fig. 3B). In fact, the transmission
+rates after acquisition were not even significantly different from
+the respective controls (Fig. 3B, inset): of 900 immature insects,
+0.56% (CI: 0.21 to 1.3%) were infectious after an AAP of 16 to
+37 days, of 2,315 immature insects, 0.65% (0.36 to 1.1%) were
+infectious after an AAP of 1 to 20 days; in the linear model built
+to analyze these results, neither acquisition nor stage nor their
+interaction was significant (0.13 < P < 0.37). There was no sig-
+nificant difference in the transmission efficiency between nymphs
+and immature adults (not shown). Among the insects that survived
+until the end of the experimental overwintering, 10 had been born
+on ESFY-infected plants (AAP: 57 to 65 days); 80% of them (Fig. 3A) were ESFY-positive (CI: 34 to 99%) and, in striking contrast
+with all the other transmission rates, 60% of these insects (Fig. 3B) were infectious (CI: 28 to 85%), indicating that transmission
+
+ 
+
+was efficient after a long latency and providing, in addition, a
+useful positive control for the whole acquisition-inoculation ex-
+periment. We found no indication of different transmission effici-
+ency between source species or ‘Ca. P. prunorum’ isolates. Quantification of ‘Ca. P. prunorum’ in C. pruni. The extrac-
+tion yield varied little, producing very stable DNA concentrations
+(mean + SD: 246.3 + 6.17 ng.ml''). The standard curves (not
+shown) indicated that real-time amplification performed well,
+with a consistent and high PCR efficiency (95.4% for ‘Ca. P.
+prunorum’ and 98.2% for C. pruni). For mature and immature C. pruni reared on ESFY-infected
+plants, phytoplasma load measured at any time between | and 65
+days was significantly higher than phytoplasma load in the
+control groups; thus, both mature and immature vectors were able
+to ingest the phytoplasma, even after just 1 day of AAP (Fig. 4A). We built a series of nested models (not shown) relating the
+logarithm of the number of phytoplasma genomes to vector stage
+and AAP, and the best model had one slope for each stage (where
+
+ 
+
+     
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+354 apie
+E
+2°] g
+z H12 2
+& 254 8
+= f10 <
+= 5
+5 20-4 >
+2 rs @
+| 2
+215 Pe jaameiersncaaa| eee
+s |-O- Immature adults on blackthorn) =
+= 104 PS Adults on conifers
+= 10 ae
+2 9 &
+a n 6
+Ss 54 \ h2
+
+0-4 @&--00-0- © ©0900 fo
+
+ 
+
+Feb! Mar ‘April! May June’ July ‘Aug ‘Sept’ Oct ‘Nov
+
+Fig. 2. Temporal dynamics of Cacopsylla pruni density on blackthorn (Prunus
+spinosa) and conifers. Numbers are standardized by the sampling effort (20
+plants for blackthorn; 20 minutes for conifers). TABLE 2. Occurrence and number of overwintering Cacopsylla pruni collected during surveys on conifers in the Languedoc area (20 minutes per sampling)
+
+ 
+
+ 
+
+Location (no. of sites) Altitude (m) Host plant Occurrence* Total? Mean‘ Sb! Significance®
+Aigoual massif (7) 1,100-1,400 Abies alba, Picea abies, Pinus nigra 22/26 157 6.04 6.22 -
+Site 2 1,260 A. alba, P. abies, P. nigra 1717 138 8.12 6.58 Al
+Others A. alba, P. abies 5/9 19 241 2.76 By
+Montagne Noire (1) 1,000 P. nigra, P. sylvestris VW 2 2.00 0 -
+Larzac plateau (13) 550-800. nigra, P. sylvestris, Abies sp. 39/52 267 5.14 5.17 -
+Site | 700 Abies sp. 31/32 250 7.82 4.87 Ay
+Others P. nigra, P. sylvestris, Abies sp. 8/20 7 0.85 1.31 B,
+Herault plain (8) 100-300 P. nigra, P. halepensis 220 2 0.10 0.31 c
+
+ 
+
+* Occurrence: (number of samplin;
+
+» Total number of C. pruni individuals collected at each location. © Mean number of C. pruni individuals collected per 20-min sampling. @ Standard deviation. © Significance group (— = not tested): different letters stand for si
+A») = 0.85, P(B; = B>) = 0.10, P(A = B) = 4.7 x 10-8, P(B =
+
+ 
+
+  
+
+       
+
+= 17x 105,
+
+   
+
+which at least one C. pruni was collected)/(total number of samplings). icantly different means (overdispersed Poisson generalized linear model; 5% level). P(Ay =
+
+TABLE 3. Survival of Cacopsylla pruni during experimental overwintering on conifers
+
+ 
+
+ 
+
+Location Cages Caged Recovered Survival (%) Obs. SD (%)* __ Exp. SD (%)? Significance®
+Site 1 (Séranne) 43 1,380 113 8.19 147 4.45 A
+Site 2 (Aigoual) 30 920 re 1.20 4.57 1.88 B
+Site 3 (Montpellier) 21 635 12 1.89 4.74 1.86 B
+
+ 
+
+* Observed standard deviation (SD) of the survival rate between cages. » Expected SD under the assumption of binomial distribution of survival rates within each cage. © Significance group: different letters stand for significantly different means (overdispersed binomial generalized linear model; 7? test at the 5% level). P(A = B) =
+
+0.021. ¢ Many psyllids were killed by entomopathogenic fungi
+
+268 PHYTOPATHOLOGY
+
+only the slope for the immature insects was significantly different
+from 0; P = 8.11 x 10) and a common intercept. All points but
+one lied on the regression line fitted for the immature insects,
+which could also be extrapolated up to 85 days after acquisition
+start because this regression line was an excellent predictor of the
+overplotted phytoplasma load after an AAP of 65 days followed
+by 20 days of IAP on a healthy plant. Later on, there was no sig-
+nificant difference between 85, 181, and 325 days after acquisi-
+tion start: there was a plateau at ~10’ phytoplasma genomes per
+insect (Fig. 4B), and the insect with the highest number of phyto-
+plasma genomes (4.9 x 10) was found at the end of the over-
+wintering period (325 days after acquisition start). The comparison between four AAP modalities observed 20 days
+after acquisition start unveils important characteristics of the
+phytoplasma—vector interaction (Fig. 5): after 20 days of AAP,
+immature insects harbored significantly more phytoplasmas than
+mature insects; in addition, phytoplasma load in mature insects
+was significantly higher after 20 days of AAP than after 1 day but
+not 2 days, indicating that, after at least a 2-day AAP, most C.
+pruni can keep a high phytoplasma load throughout the sub-
+sequent IAP. Where the AAP is followed by an IAP, the larger
+variance is noteworthy even if it is not statistically significant
+(Fig. 5); it can be explained by a decrease in phytoplasma load in
+some insects during the IAP. Finally, after a 20-day AAP, phyto-
+plasma load was not significantly different between four males
+and nine females (not shown). Phytoplasma multiplication can be inferred from the nature of
+the increase in phytoplasma load for the immature insects in
+continuous AAP, which is not linear but exponential (Fig. 4A). To
+test whether multiplication occurs in mature insects, we compared
+the distribution of the number of phytoplasma genomes just after
+an AAP of 2 to 20 days and after 20 to 30 days of subsequent IAP. There was no difference between the means of the two distribu-
+tions but the variance was significantly higher after the IAP (P =
+3.6 x 10°; Ansari-Bradley test) because many individuals had
+extremely low or high phytoplasma loads (Fig. 6A). This experi-
+ment demonstrates that, after AAP, the phytoplasma disappears. from some insects and multiplies in others. Just after a 1-day
+AAP, the distribution (not shown) matched the solid curve but,
+after a subsequent 19-day IAP (Fig. 6A, dashed line), most insects
+had lost the phytoplasma (P = 1.2 x 10°; Mann-Whitney test). Similarly, we compared the distribution of the number of phyto-
+plasma genomes in immature insects at the end of a 65-day AAP
+and after 20 days of subsequent IAP (Fig. 6B); the mean phyto-
+plasma load was significantly higher after the IAP (P = 2.4 x 107;
+Mann-Whitney test) and, despite the long AAP, the phytoplasma
+had disappeared from some insects, leading to a bimodal
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Log(number of phytoplasma genomes) 5,
+=
+i
+
+25 24
+4 i
+@ Mature C. pruni ~
+© Immature C. pruni
+0+ oO
+T T T T 1 TTT
+0 2 40 60 80 85 181 325
+
+Time after acquisition start (days)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A1o0+ Fig. 4. Logarithm of the number of phytoplasma genomes per individual
+= ‘acopsyllapruni estimated by quantitative polymerase chain reaction at
+I 20 ifferent times after acquisition start. A, Mean phytoplasma load and associ-
+ated 95% confidence intervals for mature and immature vectors after con-
+3 tinuous acquisition access period (AAP) on ESFY-infected plants. The solid
+8 604 and dotted lines represent the best-fitting linear models for immature and
+a mature insects, respectively. Extrapolating the regression line for immature
+3 sects predicts phytoplasma load for a 65-day AAP followed by a 20-day
+< 40+ joculation access period (IAP) (distribution represented by the overplotted
+2 gray boxplot). B, Boxplot showing the plateau reached when the AAP is
+5 20 7 followed by a 20-day IAP or by an experimental overwintering period (140
+20 . pruni ig
+$ Poet immestnd eee and 244 days) on conifers; there is no statistically significant difference in the
+« medians. OP it
+0 10 20 30 40 50 60 270 300 330
+Broo z P=00535 __P=08891__P=0,0008
+= E °
+= oo 8 64
+8 5
+3 &
+= £ —
+2° / 3 —
+£ =. /:. = a0 3 =
+2 0 10 20 30 40 50 60 2 °
+2 24 s °
+8 3 24
+a s
+z
+|_ e—————————
+° ot 2 90 «40-6060 0" “sb0" “380 z
+S04 Mature C. pruni
+Time after acquisition start (days) 3 o tt inmature © prunt
+Fig. 3. Infection status of Cacopsylla pruni (mature and immature insects) in i aa 5
+
+relation to the time after acquisition start. The bars define 95% confidence
+intervals, and the points after the temporal gap on the x-axis correspond to
+tests made after the experimental overwintering. A, Proportion of ESFY-
+positive C. pruni; each inoculation access period (IAP) following an acqui-
+sition access period is represented by an arrow which base and head corre-
+sponds to the beginning and end of the IAP, respectively. B, Proportion of
+infectious C. pruni. The inset is a close-up view of the low transmission rates. Acquisition access period (days)
+
+Fig. 5. Logarithm of the number of phytoplasma genomes per individual
+Cacopsylla pruni estimated by quantitative polymerase chain reaction 20 days
+after acquisition start. The P values correspond to pairwise comparisons for
+the medians between groups with a different acquisition access period (Mann-
+‘Whitney tests, with Holm multiple testing correction). Vol. 99, No. 3, 2009 269
+
+distribution. The same pattern was observed (Fig. 6B, dashed
+line) for the insects overwintering on conifers tested long after
+acquisition start (181 and 325 days; AAP: 41 and 65 days). DISCUSSION
+
+The goal of this work was to better understand the biological
+processes that determine the spatiotemporal scale at which secon-
+dary transmission of ESFY occurs, We established important fea-
+tures of the interactions between the transmission cycle of the
+phytoplasma and the life cycle of its vector (Fig. 7): we provided
+the first experimental demonstration of C. pruni life cycle, we
+showed that ‘Ca. P. prunorum’ multiplies in both immature and
+
+ 
+
+2
+¢
+
+Mature C. pruni
+
+ 
+
+ 
+
+S
+@
+
+ 
+
+Density estimate
+oo
+sf
+r 7
+
+‘
+
+ 
+
+T T T T T T T T T
+0 1 2 3 4 5 6 7 8
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Boel — AApsts tape Immature C. pruni
+2
+2 AA
+£06:
+20.44
+2
+80.24
+00-4
+
+ 
+
+T T T T T T T T T
+o 4 #2 3 4 5 6 7 8
+Log(number of phytoplasma genomes)
+
+Fig, 6. Estimated distribution of the logarithm of the number of phytoplasma
+genomes per A, mature and B, immature individual Cacopsylla pruni. Each
+line represents a different combination of acquisition access period (AAP) and
+inoculation access period (IAP). A
+
+Acquisition of the:
+phytoplasma? Retention of the
+3 phytoplasma?
+
+. Back
+
+on Prunus
+
+ 
+
+Prunus
+(plain)
+
+‘Acquisition of
+the phytoplasma
+
+Ey
+re iS
+Ns
+
+ 
+
+October i April
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+ 
+   
+ 
+  
+
+mature vectors, and we proved that the full acquisition-latency-
+inoculation sequence can be completed only by a few immature
+adults before emigrating from Prunus hosts and by very few, if
+any, mature adults before their death. In contrast, after acquisition
+by the immature vectors, ‘Ca. P. prunorum’ can be conserved
+throughout the 8 months they spend on conifers (where phyto-
+plasma load reaches a plateau) and can be transmitted very
+efficiently without additional acquisition when the vectors
+migrate back to Prunus hosts. C. pruni biology. Our results on C. pruni life cycle validate
+previous assertions based on entomological observations (16,21,
+31): C. pruni is a univoltine species breeding on Prunus spp. in
+spring and spending the rest of the year on conifers, However,
+contrasting with observations in the Czech Republic (21), we
+found no indication that C. pruni might overwinter within P.
+spinosa bushes: in winter, we could not find a single C. pruni in
+two caged blackthorn bushes or during intensive searches on
+Prunus spp. Indeed, it has been previously noticed that “caged
+insects die in the greenhouse when in nature the new adults are
+abandoning the primary hosts” (7). This period at the beginning
+of summer corresponded to a sharp drop in C. pruni population
+density on Prunus spp. (Fig. 2). We also documented a surprising
+feature of the overwintering sites: even if some individuals could
+survive an experimental host alternation in the plain (Table 3), C.
+pruni density on conifers in the plain next to blackthorn hedges
+was 8 to 80 times lower than in mountains several kilometers
+away from Prunus spp. (Table 2). Taken together, these lines of
+evidence show that host alternation is obligatory for C. pruni; in
+southeastern France, migrations occur between Prunus spp. and
+conifers over several kilometers, probably helped by the dominant
+winds blowing from the sea toward the mountains in summer and
+in the opposite direction in spring. Characteristics of ‘Ca. P. prunorum’ transmission by C.
+pruni. Thanks to the breeding of C. pruni in seminatural con-
+ditions, we obtained, for the first time, several mature adults
+known to be born on ESFY-infected plants. This technical progress
+enabled us to unveil the interactions between the life cycle of the
+vector and the growth rate of the phytoplasma, As shown by PCR
+tests and phytoplasma quantification, both mature and immature
+vectors needed at least a 2-day AAP to conserve the acquired
+
+ 
+
+Acquisition of thi
+phytopl:
+
+  
+       
+ 
+  
+
+Retention of
+
+phytoplasma
+
+  
+
+ 
+
+Prunus
+(plain)
+
+ 
+
+Conifers in
+mountainous
+areas
+
+ 
+  
+
+Departure
+{from Prunus
+
+ 
+
+Fig. 7. Summary of Cacopsylla pruni life cycle (inner circle) and transmission cycle (outer circle). Comparison between A, initial questions and B, direct evidence
+from this study. Striped and dashed arrows and dotted frames correspond to suspected processes. 270 PHYTOPATHOLOGY
+
+phytoplasma, which is consistent with previous results (7). The
+significant difference in phytoplasma load between immature and
+mature vectors observed after a 20-day AAP may be caused by a
+slower phytoplasma multiplication in mature vectors. A previous
+study on ‘Ca. P. prunorum’ showed that, after an initial latency, C.
+pruni is infectious until its death (7); through quantifying ‘Ca. P.
+prunorum’ in C. pruni, we demonstrated that ‘Ca. P. prunorum’
+multiplies in both mature and immature insects and, therefore, is
+transmitted in a persistent-propagative manner. However, the
+short-term transmission rate by mature and immature insects
+remained very low (0.6%). To explain this low transmission rate, it has been hypothesized
+that a number of immature insects complete the latency on the
+secondary host (6). Here, we provided three lines of evidence sup-
+porting this hypothesis. First, only the few vectors that survived
+85 days on Prunus spp. in laboratory conditions could reach the
+phytoplasma load observed in overwintering adults (and, in
+nature, most of them would have migrated to conifers before
+reaching such high values). Second, the proportion of infectious
+control mature adults (coming from natural populations and, as
+such, only partly exposed to the phytoplasma when they were
+immature) was the same as in the group of immature insects fully
+exposed to the phytoplasma in controlled conditions (Fig. 3B,
+inset). A third and more direct demonstration is that the trans-
+mission rate for adults born on ESFY-infected plants is strikingly
+higher after overwintering than before; thus, the vast majority of
+ESFY-positive immature insects are not infectious before migrat-
+ing from Prunus spp. to conifers. As a result, the mean latency is
+much longer than the minimum latency of 2 to 3 weeks estab-
+lished previously on 500 immature C, pruni (7); in fact, minimum
+values are almost uninformative (if not misleading) on the median
+values of the corresponding variables. Previous studies had con-
+vincingly suggested that mature adults could conserve the phyto-
+plasma acquired in the previous year, based on phytoplasma
+detection in the first mature adults appearing in the orchards at the
+end of winter (6,7), or in mature adults collected on conifers in
+winter (11,44). Our work provides direct proofs of phytoplasma
+retention and infectivity after the 8 months spent by the vector on
+conifers: once exposed to the phytoplasma, C. pruni is an efficient
+vector, but only the following year. After spending several weeks
+on conifers, most exposed C. pruni probably excrete enough
+phytoplasma in their saliva to be infectious, thereby ending the
+latency as defined by Nault (29). However, under this mechanistic
+definition, latency might be impossible to measure because no
+Prunus spp. can be inoculated at that time. Instead, we use a defi-
+nition of more direct epidemiological relevance (referred to as the
+“effective latency” below): the delay between pathogen acquisi-
+tion and first inoculation by an individual vector in field condi-
+tions. The 8-month-long effective latency reported here is, to our
+knowledge, unprecedented for any vector-borne disease; it is
+more than three times higher than the maximum values for other
+phytoplasmas (17) and for viruses (30). There is some heterogeneity within the species C. pruni regard-
+ing phytoplasma-vector interactions, with vectors being in major-
+ity “competent”, sporadically “hypercompetent” (right tail in Fig. 6A), and “resistant” for ~20% of the vectors (Figs. 3A and 6). This heterogeneity may have a genetic basis, with important epi-
+demiological consequences if competent and resistant insects also
+differ in their geographic range or biology. Epidemiological consequences. Combining the results on ‘Ca. P. prunorum’ transmission and on C. pruni life cycle suggests that
+ESFY is likely spread according to the following scenario: im-
+mature C. pruni acquire ‘Ca. P. prunorum’ while feeding on an
+infected Prunus sp. (wild or cultivated) and migrate soon after
+onto conifers located in mountainous regions; C. pruni stays there
+for 8 months, during which ‘Ca. P. prunorum’ has enough time to
+multiply and colonize the salivary glands; at the end of winter, C.
+pruni migrates back to the plains to reproduce on Prunus spp.,
+
+and infects susceptible plants while feeding. In this scenario, host
+alternation involves two long-distance migrations between acqui-
+sition and inoculation, leading to long-distance dissemination of
+the disease. This aspect of ESFY transmission cycle has two
+major epidemiological implications. First, it means that ESFY is
+essentially a monocyclic disease, with the annual rate of increase
+in a given orchard depending on the product between the total
+number of trees in the orchard fed upon by all the mature C. pruni
+and the proportion of infectious vectors in the regional popu-
+lation. Second, long-distance dissemination implies that the pro-
+portion of infectious vectors depends on the relative contribution
+of wild and domesticated Prunus species to the regional pool of
+infectious C. pruni; their relative contribution is itself determined
+by their relative abundance, infection frequency, infectivity, and
+host value for C. pruni. These two points affect the potential effectiveness of different
+disease management strategies. The first point implies that the
+same effectiveness can be achieved through reducing by a similar
+proportion either vector density or vector mobility or the propor-
+tion of infectious vectors. The second point implies that regional
+disease management strategies implemented at a scale matching
+the scale of vector dispersion should take into account the wild
+reservoirs of ‘Ca. P. prunorum’ and C. pruni: P. spinosa, P. do-
+mestica, and P. cerasifera (4). Where these wild hosts are a sig-
+nificant source of infectious vectors, any control strategy coordi-
+nated at a regional scale is likely to be inefficient (e.g., removing
+the source trees in all the orchards), unreasonable (e.g., removing
+wild source trees), or unpredictable (e.g., biological control of
+natural C. pruni populations); however, where wild Prunus species
+play a negligible role in the pathosystem, the regional control of
+immature C. pruni in the infected orchards should efficiently
+reduce the number of infectious vectors, as should the widespread
+removal of infected cultivated trees. Paradoxically, control methods
+focused on the orchard scale are more likely to bear fruit re-
+gardless of the role of wild Prunus species; in principle, disease
+incidence can be lowered through reducing either vector infec-
+tivity, the density of mature C. pruni, or the number of trees
+visited by each vector. The best way to reduce vector infectivity in
+the orchard would be to plant less-susceptible trees. When this is
+not an option, chemical (or microbiological) control of mature C.
+pruni should enable limiting both vector density and the number
+of trees fed upon by each vector; vector density should also
+decrease through a reduction in orchard attractiveness to C. pruni
+(e.g., cutting shoots of the attractive myrobalan or plum root-
+stocks). General insights into phytoplasma-vector-plant pathosys-
+tems. To what extent are our results generic or completely
+specific to ESFY in southern France? First of all, the entomo-
+logical records on C. pruni across Europe are fully consistent with
+the demonstrated life cycle (including host alternation). In
+addition, C. pruni preference for overwintering at altitude has also
+been reported in Italy (32) and the Czech Republic (11), where
+ESFY is thus expected to spread at a regional scale. However, in
+northern Europe, there is no mention that C. pruni favors over-
+wintering sites located at higher altitude; therefore, this feature
+might be an adaptation to warmer summers, increasing survival
+until the next breeding season through a reduction in the number
+of degree-days. If host alternation happens between closely lo-
+cated Prunus spp. and conifers, the disease should spread locally;
+more generally, local secondary spread of the disease might occur
+where different environmental conditions prevail. The findings of this study also shed light on the transmission of
+the Apple proliferation (AP) phytoplasma. Like C. pruni, the
+psyllid vectors of AP (C. melanoneura and C. picta) are univol-
+tine, overwinter on alternative hosts (conifers, for C. melano-
+neura), and spend only a small fraction of their life on their culti-
+vated host (31). Moreover, both AP vectors have low transmission
+rates in experimental conditions, and the proportion of infectious
+
+Vol. 99, No.3, 2009 271
+
+insects is higher among mature adults without controlled acqui-
+sition than among immature insects with controlled acquisition
+(35,37). Thus, AP and ESFY vectors have similar biological
+cycles and transmission features. These two pathosystems are also
+closely related in evolutionary terms: AP and ESFY phytoplasmas
+belong to the same clade (16SrX) within the genus *Candidatus
+Phytoplasma’, their vectors belong to the same genus (Caco-
+psylla), and their host plants belong to the same family (Rosaceae). Because of this evolutionary and biological proximity, we hy-
+pothesize that AP and ESFY transmission cycles are identical
+(long effective latency included); other examples of this original
+transmission cycle may exist among the univoltine psyllid species
+overwintering as adults on alternative hosts (generally conifers),
+which represent a third of the species listed in Hodkinson and
+White (16). Finally, this pathosystem raises puzzling evolutionary ques-
+tions. ‘Ca. P. prunorum’ would have an obvious selective advan-
+tage if a full transmission cycle could be completed within each
+period spent by C. pruni on Prunus spp. So, why has ‘Ca. P.
+prunorum’ life history not evolved toward a faster multiplication
+and translocation within the vector, which would lead to short-
+term transmission? One hypothesis is that there may be a trade-off
+between intra- and interannual transmission resulting from a
+trade-off between pathogen growth rate and vector longevity and
+fecundity (14). If short-term transmission could only be increased
+at the expense of a decrease in C. pruni longevity, the infected
+vectors would die before migrating back to Prunus spp., reducing
+both vector population size and interannual transmission by
+mature adults; thus, the cost would likely overcome the benefit,
+which may explain the observed 8-month-long effective latency. Indeed, a formal study of the evolutionary epidemiology of this
+pathosystem would be interesting. ACKNOWLEDGMENTS
+
+We thank S, Duriez for her help with the initial work on transmission
+rates, and we are also grateful to S. Dallot, D. Haydon, V. Marie-Jeanne,
+J.-L. Nottéghem, and M. Peterschmitt for their critical review of this
+manuscript. The C. pruni overwintering experiment was undertaken in
+collaboration with the Office national des foréts (ONF) and Pare national
+des Cévennes. This work was partly founded by the PSDR program
+(INRA/Région Languedoc-Roussillon) and by the AIP EpiEmerge
+(INRA). LITERATURE CITED
+
+1. Blaker, H. 2000, Confidence curves and improved exact confidence
+intervals for discrete distributions. Can, J. Stat. 28:783-798
+
+2. Breslow, N. E, 1984. Extra-Poisson variation in log-linear models. J. R.
+Stat. Soc. C 33:38-44
+
+3. Campbell, C. L., and Madden, L. V. 1990. Introduction to Plant Disease
+Epidemiology. Wiley, New York. 4, Carraro, L., Ferrini, F, Ermacora, P, and Loi, N. 2002. Role of wild
+Prunus species in the epidemiology of European stone fruit yellows. Plant
+Pathol. 51:513-517,
+
+5. Carraro, L., Ferrini, F., Ermacora, P., and Loi, N. 2004. Transmission of
+European stone fruit yellows phytoplasma to Prunus species by using
+vector and graft transmission. Acta Hortic. 657:449-453. 6. Carraro, L., Ferrini, F, Labonne, G., Ermacora, P., and Loi, N. 2004. Seasonal infectivity of Cacopsylla pruni, vector of European stone fruit
+yellows phytoplasma. Ann. Appl. Biol. 144:191-195. 7. Carraro, L., Loi, N., and Ermacora, P. 2001. Transmission characteristics
+of the European stone fruit yellows phytoplasma and its vector
+Cacopsylla pruni. Eur. J, Plant Pathol. 107:695-700. 8. Carraro, L., Osler, R., Loi, N., Ermacora, P, and Refatti, E. 1998,
+Transmission of European stone fruit yellows phytoplasma by Cacopsylla
+pruni. J, Plant Pathol, 80:233-239. 9. Chabrolin, C. 1924. Quelques maladies des arbres frui
+Rhone. Ann. Epiphyties 10:263-338. 10. Delic, D., Martini, M., Ermacora, P., Carraro, L., and Myrta, A. 2005. First report of fruit tree phytoplasmas and their psyllid vectors in Bosnia
+and Herzegovina. J. Plant Pathol. 87:149-150. 11, Fialova, R., Navrétil, M., Lauterer, P, and Navrkalové, V. 2007.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+  
+
+ 
+
+   
+
+ 
+
+ 
+
+rs de la vallée du
+
+ 
+
+272 PHYTOPATHOLOGY
+
+18. 19. 20. 2. 22. 23. 24. 26. 27. 28. 38.
+
+. Fi
+
+. Hodkinson, I. D., and White, 1. M.
+
+). Nault, L. R., and Ammar,
+
+. Ramel, M-E., Gugerli, P,, Bourquin, L., de Meyer, J., and Sel
+
+. Tedeschi,
+
+“Candidatus. Phytoplasma prunorum’: The phytoplasma infection of
+Cacopsylla pruni from apricot orchards and from overwintering habitats
+in Moravia (Czech Republic). Bull. Insectol. 60:183-184.
+
+ 
+
+. Fialové, R., Navratil, M., Valova, P., Lauterer, P., Kocourek, F., and
+
+Poncarova-Vorickova, Z. 2004. Epidemiology of European stone fruit
+yellows phytoplasma in the Czech Republic. Acta Hortic, 657:483-487
+
+er, R. A. 1935. The logic of inductive inference. J. R. Stat. Soc. A
+98:39-54,
+
+ 
+
+. Galvani, A. P. 2003. Epidemiology meets evolutionary ecology. Trends
+
+Ecol. Evol. 18:132-139. Gibson, G. J. 1997. Investigating mechanisms of spatiotemporal epidemic
+spread using stochastic models. Phytopathology 87:139-146. 1979. Homoptera. Psylloidea. Handbooks for the Identification of British Insects vol. II, Part 5(a). Royal
+Entomological Society of London, London. Hogenhout, S. A., Oshima, K., Kingdor
+H.N., and Namba, S. 2008. Phytoplasmas: Bacteria that manipu
+plants and insects. Mol. Plant Pathol. 9:403-423
+
+Jarausch, W., Danet, J-L., Labonne, G., Dosba, F., Broquaire, J-M.,
+Saillard, C., and Garnier, M. 2001. Mapping the spread of apricot
+chlorotic leaf roll (ACLR) in southern France and implication of
+Cacopsylla pruni as a vector of European stone fruit yellows (ESFY)
+phytoplasmas, Plant Pathol, 50:782-790. Kison, H., and Seemilller, E. 2001. Differences in strain virulence of the
+European stone fruit yellows phytoplasma and susceptibility of stone fruit
+trees on various rootstocks to this pathogen. J. Phytopathol. 149:5
+Labonne, G., and Lichou, J. 2004. Data on the life cycle of Cacopsy
+pruni, Psyllidae vector of European stone fruit yellows (ESFY)
+phytoplasma, in France, Acta Hortic. 657:465-470. Lauterer, P. 1999. Results of the investigations on Hemiptera in Moravia,
+made by the Moravian museum (Psylloidea 2), Acta Musei Moraviae Sci
+
+ 
+
+    
+
+   
+
+ 
+
+ 
+   
+
+Biol. 84:71-151
+Lavifia, A., Sabaté, J., Garefa-Chapa, M., Batlle, A., and Torres, E. 2004. Occurrence and epidemiology of European stone fruit yellows
+
+phytoplasma in Spain, Acta Hortic. 657:489-494,
+Lorenz, K.-H., Dosba, F., Poggi Pollini, C., Llécer, G., and Seemiiller, E.
+1994. Phytoplasma diseases of Prunus species in Europe are caused by
+genetically similar organisms. Z. Pflanzenkrankh, Pflanzenschutz
+101:567-575. Maixner, M., Ahrens, U., and Seemiiller, E. 1995. Detection of the
+German grapevine yellows (Vergilbungskrankheit) MLO in grapevine,
+alternative hosts and a vector by a specific PCR procedure. Eur. J. Plant
+Pathol. 101:241-250.
+
+   
+
+ 
+
+. Marcone, C., and Seemiiller, E. 2001. A chromosome map of the
+
+European stone fruit yellows phytoplasma. Microbiology 147:1213-1221. Marzachi, C., Veratti, F, and Bosco, D. 1998. Direct PCR detection of
+phytoplasmas in experimentally infected insects. Ann. Appl. Biol. 133:45-
+54
+
+Morvan, G. 1977. Apricot chlorotic leaf roll. EPPO Bull. 7:37-55
+
+Morvan, G., Giannotti, J., and Marchoux, G. 1973. Studies on the
+aetiology of apricot chlorotic leaf roll: Detection of mycoplasmas. Phytopathol. Z. 76:33-38
+
+. Nault, L. R. 1997. Arthropod transmission of plant viruses: A new
+
+synthesis. Ann, Entomol. Soc. Am. 90:521-541. -D. 1989, Leafhopper and planthopper
+transmission of plant viruses. Annu, Rev. Entomol. 34:503-529. Ossiannilsson, F, 1992. The Psylloidea (Homoptera) of Fennoscandia and
+Denmark. Fauna Entomolog’ vol. 26. Brill E. J., Leiden,
+
+ 
+
+ 
+
+ 
+
+. Poggi Pollini, C., Bissani, R., Giunchedi, L., Mori, N., Dradi, D., and
+
+Visigalli, T. 2004, Detection of European stone fruit yellows phytoplasma
+(ESFYP) in Homoptera insects and in wild stone fruit trees collected in
+peach orchards in Northern Italy. Acta Hortic. 657:513-518. 2001. Caractérisation de Venroulement chlorotique de I’abricot
+détection du phytoplasme ESFY en Suisse romande. Rev. S
+Arboric. Hortic. 33:279-286.
+
+     
+
+. R Development Core Team. 2004. R: A Language and Environment for
+
+ 
+   
+
+|| Computing. R Foundation for Stat
+
+ 
+
+ical Computing, Vienna.
+
+. Seemiiller, E., Dickler, E., Berwarth, C., and Jelkmann, W. 2004.
+
+ 
+
+urrence of Psy! apple orchards and transmission of apple
+ration by Cacopsylla picta (syn. C. costalis) in Germany. Acta
+Hortic. 657:533-537.
+
+. Seemiiller, E., and Schneider, B. 2004. ‘Candidatus Phytoplasma mali’,
+
+*Candidatus Phytoplasma pyri’ and *Candidatus phytoplasma prunorum’,
+the causal agents of apple proliferation, pear decline and European stone
+fruit yellows, respectively. Int. J. Syst. Evol. Microbiol, 54:1217-1226. R., and Alma, A. 2004. Transmission of apple proliferation
+phytoplasma by Cacopsylla melanoneura (Homoptera: Psyllidae). J.
+Econ, Entomol. 97:8-13. Thébaud, G. 2005. Studying the spatio-temporal spread of a vector-borne
+
+39. 40. 4l. disease by the integration of statistical modelling and experimentation:
+The case of ESFY (European stone fruit yellows). Ph.D. dissertation,
+Ecole Nationale Supérieure Agronomique de Montpellier, France. Thébaud, G., Peyrard, N., Dallot, S., Calonnee, A., and Labonne, G. 2005. Investigating disease spread between two assessment dates with
+permutation tests on a lattice. Phytopathology 95:1453-1461
+
+‘Thébaud, G., Sauvion, N., Chadeeuf, J., Dufils, A., and Labonne, G. 2006. Identifying risk factors for European stone fruit yellows from a survey. Phytopathology 96:890-899. Thompson, J. D., Higgins, D. G., and Gibson, T. J. 1994, Clustal W:
+
+Improving the sensitivity of progressive multiple sequence alignment
+through sequence weighting, position-specific gap penalties and weight
+matrix choice. Nucleic Acids Res. 22:4673-4680.
+
+ 
+
+. van der Plank, J. E. 1963. Plant Diseases: Epidemics and Control. Academic Press, New York. Williams, D. A. 1982. Extra-binomial variation in logistic linear models. Appl. Stat. 31:144-148. Yvon, M., Labonne, G., and Thébaud, G. 2004. Survival of European
+stone fruit yellows phytoplasma outside fruit crop production areas: A
+case study in southeastern France. Acta Hortic. 657:477-481
+
+Vol. 99, No. 3, 2009 273

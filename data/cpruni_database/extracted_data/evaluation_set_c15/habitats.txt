@@ -1,0 +1,927 @@
+	1880_Scott_psyllids_Russia_translation	abstract	13-22	Selandria	Selandria	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	282-285	Poa	Poa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	368-374	marshy	marshy	OBT:001198	marsh	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000964/OBT:001198			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	963-970	PSYLLID	PSYLLID	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	1400-1403	box	box	OBT:001186	lunch box	/OBT:000001/OBT:000006/OBT:000098/OBT:000330/OBT:000909/OBT:001186	lunch box	box	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	1537-1545	Aphalara	Aphalara	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	1663-1675	Tamarix laxa	Tamarix_laxa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	1685-1693	Aphalara	Aphalara	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	1747-1756	Rhinocola	Rhinocola	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	1786-1798	Tamarix laxa	Tamarix_laxa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	1834-1840	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	1890-1897	Sarepta	Sarepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	1899-1905	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	2016-2024	Atriplex	Atriplex	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	2088-2092	Head	Head	OBT:001142	head	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001142			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	2573-2577	apex	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apex	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	2591-2602	costal cell	costal cell	OBT:000061	cell	/OBT:000001/OBT:000014/OBT:000061	cell	cell	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	2640-2646	dorsal	dorsal	OBT:000204	back	/OBT:000001/OBT:000014/OBT:000039/OBT:000204			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	2682-2687	nerve	nerve	OBT:000765	nerve	/OBT:000001/OBT:000014/OBT:000039/OBT:000357/OBT:000765			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	2695-2706	costal cell	costal cell	OBT:000061	cell	/OBT:000001/OBT:000014/OBT:000061	cell	cell	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	2829-2833	apex	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apex	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	2923-2934	inner nerve	inner nerve	OBT:000765	nerve	/OBT:000001/OBT:000014/OBT:000039/OBT:000357/OBT:000765	nerve	nerve	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	2956-2960	apex	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apex	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	3001-3005	Legs	Leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	3025-3030	joint	joint	OBT:001166	joint	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001166			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	3085-3089	apex	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apex	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	3180-3190	food-plant	food - plant	OBT:000815	plant product and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815	food processing plant	plants	0.6666666666666666
+	1880_Scott_psyllids_Russia_translation	abstract	3223-3227	Head	Head	OBT:001142	head	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001142			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	3447-3453	joints	joint	OBT:001166	joint	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001166			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	3524-3528	head	head	OBT:001142	head	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001142			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	3682-3686	eyes	eye	OBT:000627	eye	/OBT:000001/OBT:000014/OBT:000039/OBT:000364/OBT:000627			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	3901-3918	costal basal cell	costal basal cell	OBT:000061	cell	/OBT:000001/OBT:000014/OBT:000061	cell	cell	0.3333333333333333
+	1880_Scott_psyllids_Russia_translation	abstract	3972-3976	apex	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apex	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	4057-4061	apex	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apex	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	4130-4135	cells	cell	OBT:000061	cell	/OBT:000001/OBT:000014/OBT:000061			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	4191-4195	Legs	Leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	4287-4294	genital	genital	OBT:000272	extra-genital	/OBT:000001/OBT:000014/OBT:000039/OBT:000272	extra - genital	genital	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	4585-4592	Sarepta	Sarepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	4606-4616	food-plant	food - plant	OBT:000815	plant product and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815	food processing plant	plants	0.6666666666666666
+	1880_Scott_psyllids_Russia_translation	abstract	5200-5204	apex	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apex	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	5407-5411	Legs	Leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	5621-5626	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	5675-5686	individuals	individual	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	5909-5913	Head	Head	OBT:001142	head	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001142			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	6009-6013	eyes	eye	OBT:000627	eye	/OBT:000001/OBT:000014/OBT:000039/OBT:000364/OBT:000627			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	6163-6166	eye	eye	OBT:000627	eye	/OBT:000001/OBT:000014/OBT:000039/OBT:000364/OBT:000627			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	6328-6343	fine pale hairs	fine pale hair	OBT:000301	hair	/OBT:000001/OBT:000014/OBT:000039/OBT:000301	hair	hairs	0.3333333333333333
+	1880_Scott_psyllids_Russia_translation	abstract	6406-6410	apex	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apex	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	6484-6490	joints	joint	OBT:001166	joint	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001166			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	6568-6572	head	head	OBT:001142	head	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001142			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	6987-6991	apex	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apex	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	7117-7125	junction	junction	OBT:000844	road junction	/OBT:000001/OBT:000006/OBT:000066/OBT:000412/OBT:000844	road junction	junction	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	7152-7156	apex	apex	OBT:002741	shoot apex	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:001123/OBT:001766/OBT:002015/OBT:002433/OBT:002741	shoot apex	apex	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	7158-7162	Legs	Leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	7226-7235	malachite	malachite	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	7278-7294	fine white
+hairs	fine white hair	OBT:000301	hair	/OBT:000001/OBT:000014/OBT:000039/OBT:000301	hair	hairs	0.3333333333333333
+	1880_Scott_psyllids_Russia_translation	abstract	7324-7340	fine white hairs	fine white hair	OBT:000301	hair	/OBT:000001/OBT:000014/OBT:000039/OBT:000301	hair	hairs	0.3333333333333333
+	1880_Scott_psyllids_Russia_translation	abstract	7342-7349	genital	genital	OBT:000272	extra-genital	/OBT:000001/OBT:000014/OBT:000039/OBT:000272	extra - genital	genital	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	7465-7471	breast	breast	OBT:001017	breast	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000723/OBT:001017			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	7476-7490	neck of a bird	neck of a bird	OBT:001229	neck	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001229	neck	neck	0.5
+	1880_Scott_psyllids_Russia_translation	abstract	7486-7490	bird	bird	OBT:001446	bird	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001446			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	7500-7506	breast	breast	OBT:001017	breast	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000723/OBT:001017			1.0
+	1880_Scott_psyllids_Russia_translation	abstract	7531-7540	malachite	malachite	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1880_Scott_psyllids_Russia_translation	abstract	7586-7593	genital	genital	OBT:000272	extra-genital	/OBT:000001/OBT:000014/OBT:000039/OBT:000272	extra - genital	genital	0.5
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	63-72	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	216-222	people	people	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	409-410	}	}	OBT:002127	marine sediment	/OBT:000001/OBT:000013/OBT:000079/OBT:000428/OBT:000885/OBT:001303/OBT:001430/OBT:002127	pelagic sediment { alternative name }	}	0.16666666666666666
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	691-696	Livia	Livia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	741-747	Juncus	Juncus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	812-818	larval	larval	OBT:001609	larvae	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001609			1.0
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	867-873	Juncus	Juncus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	922-938	Rhinocola aceris	Rhinocola_aceris	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	972-976	Acer	Acer	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	1106-1122	Populus nigra L.	Populus_nigra_L.	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	1241-1249	Aphalara	Aphalara	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	1280-1299	Polygonum fagopyrum	Polygonum_fagopyrum	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	1447-1455	Aphalara	Aphalara	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	1512-1523	Hypochoeris	Hypochoeris	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	1588-1599	alpine peas	alpine pea	OBT:001696	pea and related product	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001177/OBT:001696	pea	peas	0.5
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	1728-1742	Fraxinus ornus	Fraxinus_ornus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	2273-2277	note	note	OBT:000206	banknote	/OBT:000001/OBT:000006/OBT:000098/OBT:000206	bank note	note	0.5
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	2391-2397	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	2482-2487	Fagus	Fagus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	2571-2580	Crataegus	Crataegus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	2584-2590	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	2646-2659	Alnus viridis	Alnus_viridis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	2802-2813	Psylla alni	Psylla_alni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	2847-2852	Alnus	Alnus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	2910-2925	Alnus glutinosa	Alnus_glutinosa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	2996-3002	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	3084-3096	Alnus incana	Alnus_incana	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	3169-3180	Psylla buxi	Psylla_buxi	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	3285-3306	Buxus sempervirens L.	Buxus_sempervirens_L.	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	3420-3426	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	3595-3603	Arytaina	Arytaina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	3604-3611	montana	montana	OBT:002651	winter savory	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001126/OBT:001433/OBT:002312/OBT:002651	Satureja montana	montana	0.5
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	3654-3669	Genista radiata	Genista_radiata	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	3796-3803	Cytisus	Cytisus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	3886-3900	Livilla ulicis	Livilla_ulicis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	3931-3936	Carex	Carex	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4082-4096	Homotoma ficus	Homotoma_ficus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4122-4134	Ficus carica	Ficus_carica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4223-4254	woods of lati-
+
+% Daiano leaves	wood of lati - % Daiano leaf	OBT:001383	wood	/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000927/OBT:001383	wood	woods	0.2
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4232-4254	lati-
+
+% Daiano leaves	lati - % Daiano leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174	leaf	leaf	0.25
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4285-4300	Erica carnea L.	Erica_carnea_L.	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4329-4335	plants	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4383-4393	host plant	host plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4401-4415	Trioza alacris	Trioza_alacris	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4446-4463	Laurus nobilis L.	Laurus_nobilis_L.	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4548-4554	laurel	laurel	OBT:002501	laurel	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001126/OBT:001433/OBT:002098/OBT:002501			1.0
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4592-4609	greenhouse lemons	greenhouse lemon	OBT:002103	lemon and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001487/OBT:002103	lemon	lemons	0.5
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4592-4602	greenhouse	greenhouse	OBT:000095	greenhouse	/OBT:000001/OBT:000004/OBT:000095			1.0
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4611-4625	Trioza urticae	Trioza_urticae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4657-4669	Urtica urens	Urtica_urens	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	4948-4957	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	5409-5418	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	5506-5513	insects	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	5524-5563	arthropods of medical-hygienic interest	arthropod of medical - hygienic interest	OBT:000496	arthropod	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496	arthropod	arthropods	0.25
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	5603-5610	Perigea	Perigea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	5626-5635	Caradrina	Caradrina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	5672-5681	Noctuidae	Noctuidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1955_Tamanini_Cacopsylla_pruni_Italie_première_identification_translation	abstract	5803-5810	Diptera	Diptera	OBT:004129	Diptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004129			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	95-101	Betula	Betula	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	151-156	Salix	Salix	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	157-181	Aulacorthum circumflexus	Aulacorthum_circumflexus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	201-207	Betula	Betula	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	208-222	Myzus persicae	Myzus_persicae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	234-242	Triticum	Triticum	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	245-248	Zea	Zea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	281-290	Agropyron	Agropyron	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	291-302	Macrosiphum	Macrosiphum	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	334-343	Melilotus	Melilotus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	344-366	Macrosiphum euphorbiae	Macrosiphum_euphorbiae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	373-379	Cherry	Cherry	OBT:002391	cherry as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001946/OBT:002391			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	384-390	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	414-420	Valley	Valley	OBT:000944	valley	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000944			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	425-436	Maianthemum	Maianthemum	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	451-459	Mountain	Mountain	OBT:000747	mountain	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000935/OBT:000747			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	468-474	Sorbus	Sorbus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	504-512	Fragaria	Fragaria	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	513-535	Macrosiphum euphorbiae	Macrosiphum_euphorbiae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	562-567	Malus	Malus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	586-590	Wood	Wood	OBT:001383	wood	/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000927/OBT:001383			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	645-650	Salix	Salix	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	694-699	Salix	Salix	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	746-751	Salix	Salix	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	782-787	Salix	Salix	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	846-850	Tree	Tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	855-863	Euonymus	Euonymus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	910-914	Wood	Wood	OBT:001383	wood	/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000927/OBT:001383			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	925-931	Oxalis	Oxalis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	945-951	plants	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	1062-1066	NOTE	NOTE	OBT:000206	banknote	/OBT:000001/OBT:000006/OBT:000098/OBT:000206	currency note	note	0.5
+	1973_Hodkinson_psyllids_Canada_translation	abstract	1225-1234	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	1277-1285	Arytaina	Arytaina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	1445-1453	Arytaina	Arytaina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	1667-1671	note	note	OBT:000206	banknote	/OBT:000001/OBT:000006/OBT:000098/OBT:000206	bank note	note	0.5
+	1973_Hodkinson_psyllids_Canada_translation	abstract	1896-1902	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	1928-1935	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	1953-1959	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	2054-2060	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	2319-2327	Arytaina	Arytaina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	2444-2453	Psyllinae	Psyllinae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	2662-2666	legs	leg	OBT:001176	leg	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000751/OBT:001176			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	2689-2694	Livia	Livia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	2820-2825	Ameri	Ameri	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	2855-2863	Aphalara	Aphalara	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	2889-2897	Aphalara	Aphalara	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	2916-2929	Craspedolepta	Craspedolepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3005-3013	Aphalara	Aphalara	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3150-3157	Alberta	Alberta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3244-3262	jumping plant lice	jumping_plant_lice	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3266-3275	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3310-3313	Mus	Mus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3363-3372	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3373-3383	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3408-3415	Insecta	Insecta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3445-3454	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3498-3507	Psyllinae	Psyllinae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3509-3518	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3519-3528	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3674-3683	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3812-3817	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3859-3866	insects	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	3975-4010	psyllids of America north of Mexico	psyllid of America north of Mexico	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllids	0.25
+	1973_Hodkinson_psyllids_Canada_translation	abstract	4012-4021	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	4022-4031	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	4132-4141	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	4147-4152	notes	note	OBT:000206	banknote	/OBT:000001/OBT:000006/OBT:000098/OBT:000206	bank note	note	0.5
+	1973_Hodkinson_psyllids_Canada_translation	abstract	4218-4228	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	4334-4342	Arytaina	Arytaina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	4372-4383	Arytainilla	Arytainilla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	4542-4546	Food	Food	OBT:000008	food	/OBT:000001/OBT:000008			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	4854-4858	Food	Food	OBT:000008	food	/OBT:000001/OBT:000008			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	4945-4949	food	food	OBT:000008	food	/OBT:000001/OBT:000008			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	5429-5433	food	food	OBT:000008	food	/OBT:000001/OBT:000008			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	5551-5622	over-processed
+conver
+
+        
+
+sea
+
+  
+
+ 
+
+     
+
+  
+
+    
+ 
+
+¢ foods	over - processed conver sea ¢ food	OBT:000828	processed commodity and food	/OBT:000001/OBT:000008/OBT:000094/OBT:000397/OBT:000828			
+	1973_Hodkinson_psyllids_Canada_translation	abstract	5551-5622	over-processed
+conver
+
+        
+
+sea
+
+  
+
+ 
+
+     
+
+  
+
+    
+ 
+
+¢ foods	over - processed conver sea ¢ food	OBT:001729	pressure treated food	/OBT:000001/OBT:000008/OBT:000094/OBT:000397/OBT:000828/OBT:001266/OBT:001729	pressure processed food	foods	0.3333333333333333
+	1973_Hodkinson_psyllids_Canada_translation	abstract	5584-5587	sea	sea	OBT:000338	marine environment	/OBT:000001/OBT:000013/OBT:000047/OBT:000338			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	5696-5714	farm-factory foods	farm - factory food	OBT:000008	food	/OBT:000001/OBT:000008	food	foods	0.3333333333333333
+	1973_Hodkinson_psyllids_Canada_translation	abstract	5696-5708	farm-factory	farm - factory	OBT:001097	factory	/OBT:000001/OBT:000006/OBT:000100/OBT:000324/OBT:000683/OBT:001097	factory	factory	0.5
+	1973_Hodkinson_psyllids_Canada_translation	abstract	5696-5700	farm	farm	OBT:000091	farm	/OBT:000001/OBT:000004/OBT:000091			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	5841-5848	Insects	Insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	5968-5974	insect	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	6144-6151	insects	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	6187-6194	insects	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	6202-6217	unhealthy plant	unhealthy plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	0.5
+	1973_Hodkinson_psyllids_Canada_translation	abstract	6239-6250	sound plant	sound plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	0.5
+	1973_Hodkinson_psyllids_Canada_translation	abstract	6374-6381	animals	animal	OBT:000193	animal	/OBT:000001/OBT:000010/OBT:000089/OBT:000193			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	6394-6397	man	man	OBT:003451	man	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003245/OBT:003451,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:001192/OBT:003451,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488/OBT:003245/OBT:003451			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	6417-6422	lakes	lake	OBT:001171	lake	/OBT:000001/OBT:000013/OBT:000047/OBT:000326/OBT:000705/OBT:001171			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	6562-6566	farm	farm	OBT:000091	farm	/OBT:000001/OBT:000004/OBT:000091			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	6571-6577	forest	forest	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	6989-6996	compost	compost	OBT:000571	compost	/OBT:000001/OBT:000013/OBT:000079/OBT:000365/OBT:000585/OBT:000571			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	7025-7031	fruits	fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	7036-7046	vegetables	vegetable	OBT:001126	garden vegetable and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001126			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	7123-7129	insect	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	7552-7558	people	people	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	7848-7852	soil	soil	OBT:000427	soil	/OBT:000001/OBT:000013/OBT:000158/OBT:000427			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	7899-7913	organic matter	organic matter	OBT:000365	organic matter	/OBT:000001/OBT:000013/OBT:000079/OBT:000365			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	7931-7935	soil	soil	OBT:000427	soil	/OBT:000001/OBT:000013/OBT:000158/OBT:000427			1.0
+	1973_Hodkinson_psyllids_Canada_translation	abstract	7960-7964	soil	soil	OBT:000427	soil	/OBT:000001/OBT:000013/OBT:000158/OBT:000427			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	142-152	plant-lice	plant - lice	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.5
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	142-147	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	166-175	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	177-187	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	263-274	plant-louse	plant - louse	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	louse	louse	0.5
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	263-268	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	410-419	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	421-431	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	539-548	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	550-560	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	954-968	high mountains	high mountain	OBT:000747	mountain	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000935/OBT:000747	mountain	mountains	0.5
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	981-993	deep valleys	deep valley	OBT:000944	valley	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000944	valley	valleys	0.5
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	1502-1512	plant-lice	plant - lice	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.5
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	1502-1507	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	1980-1986	insect	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2053-2063	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2171-2194	Bactericera albiventris	Bactericera_albiventris	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2206-2229	Bactericera nigricornis	Bactericera_nigricornis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2275-2285	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2305-2325	Cacopsylla peregrina	Cacopsylla_peregrina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2337-2352	Cacopsylla pyri	Cacopsylla_pyri	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2365-2378	Craspedolepta	Craspedolepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2403-2416	Craspedolepta	Craspedolepta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2480-2490	Cyamophila	Cyamophila	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2514-2524	Cyamophila	Cyamophila	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2558-2579	Euphyllura phillyreae	Euphyllura_phillyreae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2589-2594	Livia	Livia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2617-2633	Livilla horvathi	Livilla_horvathi	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2643-2665	Psyllopsis fraxinicola	Psyllopsis_fraxinicola	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2680-2694	Trioza urticae	Trioza_urticae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2757-2766	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2768-2789	Aphalara maculipennis	Aphalara_maculipennis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2830-2835	weeds	weed	OBT:001845	weed	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001135/OBT:001845			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2865-2885	Petroselinum sativum	Petroselinum_sativum	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	2996-3018	Craspedolepta nebulosa	Craspedolepta_nebulosa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	3093-3098	weeds	weed	OBT:001845	weed	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001135/OBT:001845			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	3328-3346	Livia mediterranea	Livia_mediterranea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	3573-3578	Livia	Livia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	3641-3656	L. mediterranea	L._mediterranea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	3703-3713	Cyamophila	Cyamophila	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	3935-3945	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	4003-4008	weeds	weed	OBT:001845	weed	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001135/OBT:001845			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	4056-4061	weeds	weed	OBT:001845	weed	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001135/OBT:001845			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	4108-4113	weeds	weed	OBT:001845	weed	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001135/OBT:001845			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	4144-4161	Helianthus annuus	Helianthus_annuus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	4299-4303	hand	hand	OBT:001589	hand	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000723/OBT:001268/OBT:001589			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	4474-4490	Prunus domestica	Prunus_domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	4593-4602	Triozidae	Triozidae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	4604-4625	Bactericera femoralis	Bactericera_femoralis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	4865-4874	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	4876-4886	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	4988-5013	Palaearctic pear psyllids	Palaearctic pear psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllids	0.3333333333333333
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5000-5004	pear	pear	OBT:003012	pear	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003012,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003012			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5015-5024	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5026-5035	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5165-5175	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5271-5281	plant-lice	plant - lice	OBT:002116	louse	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002116	lice	lice	0.5
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5271-5276	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5283-5292	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5294-5304	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5314-5320	suisse	suisse	OBT:003564	petit-suisse	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000489/OBT:001208/OBT:001480/OBT:002043/OBT:003556/OBT:003561/OBT:003564,/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000489/OBT:001208/OBT:001480/OBT:003381/OBT:003556/OBT:003561/OBT:003564,/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000489/OBT:001208/OBT:003093/OBT:003381/OBT:003556/OBT:003561/OBT:003564,/OBT:000001/OBT:000008/OBT:000094/OBT:000397/OBT:000828/OBT:001266/OBT:001546/OBT:003093/OBT:003381/OBT:003556/OBT:003561/OBT:003564	petit - suisse	suisse	0.5
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5405-5415	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5720-5729	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5731-5741	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5861-5866	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5883-5892	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	5894-5904	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6019-6037	jumping plant lice	jumping_plant_lice	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6049-6058	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6060-6070	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6168-6186	jumping plant lice	jumping_plant_lice	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6188-6197	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6199-6209	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6311-6321	Agonoscena	Agonoscena	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6382-6391	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6393-6403	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6513-6520	Psyllid	Psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6522-6531	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6772-6790	jumping plant lice	jumping_plant_lice	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6800-6809	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6811-6821	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6918-6928	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	6930-6939	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	7119-7128	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	7134-7143	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	7167-7170	Mus	Mus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	7870-7874	Emma	Emma	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	1996_Guclu_&_Burckhardt_Turquie_Cacopsylla_pru_translation	abstract	8047-8050	Fax	Fax	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2000_Maw_Hemiptera_Canada_&_Alaska_translation	abstract	365-366	}	}	OBT:002127	marine sediment	/OBT:000001/OBT:000013/OBT:000079/OBT:000428/OBT:000885/OBT:001303/OBT:001430/OBT:002127	pelagic sediment { alternative name }	}	0.16666666666666666
+	2000_Maw_Hemiptera_Canada_&_Alaska_translation	abstract	376-377	}	}	OBT:002127	marine sediment	/OBT:000001/OBT:000013/OBT:000079/OBT:000428/OBT:000885/OBT:001303/OBT:001430/OBT:002127	pelagic sediment { alternative name }	}	0.16666666666666666
+	2000_Maw_Hemiptera_Canada_&_Alaska_translation	abstract	865-866	}	}	OBT:002127	marine sediment	/OBT:000001/OBT:000013/OBT:000079/OBT:000428/OBT:000885/OBT:001303/OBT:001430/OBT:002127	pelagic sediment { alternative name }	}	0.16666666666666666
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	16-26	fruit tree	fruit tree	OBT:001567	fruit tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	16-21	fruit	fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	50-57	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	609-618	Thesaurus	Thesaurus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	834-844	fruit tree	fruit tree	OBT:001567	fruit tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	834-839	fruit	fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	868-875	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	1387-1392	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	1686-1691	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	1712-1716	pear	pear	OBT:003012	pear	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003012,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003012			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	1734-1754	European stone
+fruit	European stone fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796	stone fruit	fruit	0.6666666666666666
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	1833-1843	laboratory	laboratory	OBT:001169	laboratory	/OBT:000001/OBT:000006/OBT:000066/OBT:000403/OBT:000838/OBT:001169			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	1886-1909	symptomless fruit trees	symptomless fruit tree	OBT:001567	fruit tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567	fruit tree	trees	0.6666666666666666
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	1898-1903	fruit	fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	1940-1946	spring	spring	OBT:001333	spring	/OBT:000001/OBT:000013/OBT:000047/OBT:000326/OBT:000713/OBT:001333			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	1968-1978	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	1989-1995	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2010-2024	C. melanoneura	C._melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2048-2055	C. pyri	C._pyri	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2067-2075	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2154-2164	Laboratory	Laboratory	OBT:001169	laboratory	/OBT:000001/OBT:000006/OBT:000066/OBT:000403/OBT:000838/OBT:001169			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2285-2291	apples	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2315-2329	C. melanoneura	C._melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2393-2398	pears	pear	OBT:003012	pear	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003012,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003012			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2406-2413	C. pyri	C._pyri	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2486-2494	apricots	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2499-2506	peaches	peach	OBT:003011	peach	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003011,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003011			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2514-2522	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2596-2603	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	2803-2807	Pisa	Pisa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	3265-3276	pear psylla	pear_psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	3278-3293	Cacopsylla pyri	Cacopsylla_pyri	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	3409-3413	cell	cell	OBT:000061	cell	/OBT:000001/OBT:000014/OBT:000061			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	3768-3778	fruit tree	fruit tree	OBT:001567	fruit tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	3768-3773	fruit	fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	3802-3809	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	3880-3902	Cacopsylla melanoneura	Cacopsylla_melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	3904-3920	Cacopsylla picta	Cacopsylla_picta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	3922-3937	Cacopsylla pyri	Cacopsylla_pyri	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	3939-3944	Malus	Malus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	3946-3958	Malus pumila	Malus_pumila	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4009-4015	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4017-4023	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4035-4049	Prunus persica	Prunus_persica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4051-4057	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4059-4064	Pyrus	Pyrus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4066-4080	Pyrus communis	Pyrus_communis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4098-4104	apples	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4106-4114	apricots	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4171-4178	peaches	peach	OBT:003011	peach	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003011,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003011			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4180-4185	pears	pear	OBT:003012	pear	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003012,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003012			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4187-4192	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4203-4208	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4230-4235	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4283-4299	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4359-4363	pear	pear	OBT:003012	pear	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003012,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003012			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4421-4426	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4449-4455	Psylla	Psylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4466-4484	Psylla melanoneura	Psylla_melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4551-4561	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4563-4572	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4574-4584	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4586-4600	Sternorrhyncha	Sternorrhyncha	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4602-4611	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4613-4620	insects	insect	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4622-4630	Hexapoda	Hexapoda	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4632-4642	arthropods	arthropod	OBT:000496	arthropod	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4644-4657	invertebrates	invertebrate	OBT:000694	invertebrate species	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000694			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4659-4666	animals	animal	OBT:000193	animal	/OBT:000001/OBT:000010/OBT:000089/OBT:000193			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4668-4678	eukaryotes	eukaryote	OBT:000089	eukaryote host	/OBT:000001/OBT:000010/OBT:000089			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4680-4688	Rosaceae	Rosaceae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4690-4697	Rosales	Rosales	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4699-4707	eudicots	eudicot	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4709-4720	angiosperms	angiosperm	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4722-4735	Spermatophyta	Spermatophyta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4737-4743	plants	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4745-4750	Malus	Malus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4852-4858	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2005_Delic_First_report_of_fruit_tree_phytopl1_translation	abstract	4860-4865	Pyrus	Pyrus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	72-88	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	92-112	different fruit tree	different fruit tree	OBT:001567	fruit tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567	fruit tree	trees	0.6666666666666666
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	102-107	fruit	fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	379-395	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	416-436	different fruit tree	different fruit tree	OBT:001567	fruit tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567	fruit tree	trees	0.6666666666666666
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	426-431	fruit	fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	587-595	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	653-661	Valencia	Valencia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	686-697	individuals	individual	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	701-709	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	728-748	European stone fruit	European stone fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796	stone fruit	fruit	0.6666666666666666
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	959-975	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1034-1054	European
+stone fruit	European stone fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796	stone fruit	fruit	0.6666666666666666
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1097-1102	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1237-1244	apricot	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1255-1259	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1404-1415	stone fruit	stone fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1455-1460	plums	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1465-1473	apricots	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1507-1515	Valencia	Valencia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1580-1590	plum
+trees	plum tree	OBT:002192	plum tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567/OBT:002192,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567/OBT:002192			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1580-1584	plum	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1625-1631	shoots	shoot	OBT:001890	bamboo shoot and related product	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001126/OBT:001789/OBT:001890	bamboo shoot	shoots	0.5
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1739-1744	peach	peach	OBT:003011	peach	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003011,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003011			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	1860-1864	tree	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2047-2054	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2055-2081	Cacopsylla pruni (Scopoli)	Cacopsylla_pruni_(Scopoli)	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2238-2246	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2259-2263	plum	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2341-2347	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2434-2439	trees	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2444-2451	insects	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2520-2525	adult	adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.5
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2540-2554	shelter
+plants	shelter plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	0.5
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2556-2573	coniferous plants	coniferous plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	0.5
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2556-2566	coniferous	coniferous	OBT:001498	conifer	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360/OBT:001498			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2584-2598	forest species	forest specie	OBT:001119	forest	/OBT:000001/OBT:000013/OBT:000158/OBT:000446/OBT:000969/OBT:001119	forest	forest	1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2620-2633	spring adults	spring adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.3333333333333333
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2620-2626	spring	spring	OBT:001333	spring	/OBT:000001/OBT:000013/OBT:000047/OBT:000326/OBT:000713/OBT:001333			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2644-2648	eggs	egg	OBT:002981	egg	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:002981,/OBT:000001/OBT:000014/OBT:000039/OBT:000463/OBT:000613/OBT:002981			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2671-2677	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2759-2767	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2787-2807	different fruit tree	different fruit tree	OBT:001567	fruit tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567	fruit tree	trees	0.6666666666666666
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	2797-2802	fruit	fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3002-3006	plum	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3008-3013	peach	peach	OBT:003011	peach	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003011,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003011			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3015-3022	apricot	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3024-3033	nectarine	nectarine	OBT:002533	nectarine as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:002150/OBT:002533			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3038-3050	cherry trees	cherry tree	OBT:003694	cherry tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567/OBT:003694,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567/OBT:003694			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3038-3044	cherry	cherry	OBT:002969	cherry	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002969,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002969			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3120-3128	Valencia	Valencia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3130-3137	Insects	Insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3291-3303	soil surface	soil surface	OBT:000427	soil	/OBT:000001/OBT:000013/OBT:000158/OBT:000427	soil	soil	1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3361-3368	insects	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3657-3665	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3892-3900	Valencia	Valencia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	3965-3973	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4097-4107	fruit tree	fruit tree	OBT:001567	fruit tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4097-4102	fruit	fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4166-4177	Individuals	Individual	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4181-4189	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4346-4354	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4358-4362	plum	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4453-4461	Valencia	Valencia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4547-4552	trees	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4597-4608	individuals	individual	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4612-4620	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4686-4690	tray	tray	OBT:000666	high chair tray	/OBT:000001/OBT:000006/OBT:000098/OBT:000330/OBT:000666	high chair tray	tray	0.3333333333333333
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4712-4720	P. avium	P._avium	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4768-4781	P. cerasifera	P._cerasifera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4797-4808	P. salicina	P._salicina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4830-4843	P. cerasifera	P._cerasifera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4888-4899	P. salicina	P._salicina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	4954-4965	P. salicina	P._salicina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	5024-5036	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	5160-5168	Valencia	Valencia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	5179-5191	P. armeniaca	P._armeniaca	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	5211-5223	P. armeniaca	P._armeniaca	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	5340-5351	individuals	individual	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	5355-5363	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	5549-5557	Santiago	Santiago	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	5682-5690	Valencia	Valencia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	5867-5872	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	6096-6116	European stone fruit	European stone fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796	stone fruit	fruit	0.6666666666666666
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	6142-6158	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	6171-6176	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	6505-6510	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	6529-6533	pear	pear	OBT:003012	pear	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003012,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003012			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	6919-6932	Japanese plum	Japanese_plum	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	6933-6938	trees	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	6981-6989	Valencia	Valencia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2007_Sabate_BI_vol60-193-194_Cacopsylla_pruni_translation	abstract	7174-7179	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	71-78	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	454-486	Cacopsylla melanoneura (Forster)	Cacopsylla_melanoneura_(Forster)	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	558-563	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	626-631	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	692-707	psyllid species	psyllid specie	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllids	1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	728-736	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	868-878	beat trays	beat tray	OBT:000666	high chair tray	/OBT:000001/OBT:000006/OBT:000098/OBT:000330/OBT:000666	high chair tray	tray	0.25
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	956-974	Crataegus monogyna	Crataegus_monogyna	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	983-989	plants	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1033-1042	vineyards	vineyard	OBT:004121	vineyard	/OBT:000001/OBT:000004/OBT:000067/OBT:004121			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1068-1073	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1084-1098	C. melanoneura	C._melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1139-1151	C. peregrina	C._peregrina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1350-1364	C. melanoneura	C._melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1369-1381	C. peregrina	C._peregrina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1412-1430	Crataegus monogyna	Crataegus_monogyna	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1432-1454	Cacopsylla melanoneura	Cacopsylla_melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1456-1474	Cacopsylla affinis	Cacopsylla_affinis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1476-1486	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1499-1518	Cacopsylla crataegi	Cacopsylla_crataegi	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1593-1625	Cacopsylla melanoneura (Forster)	Cacopsylla_melanoneura_(Forster)	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1701-1706	Apple	Apple	OBT:002341	apple as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001722/OBT:001879/OBT:002341			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1831-1835	Alma	Alma	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1865-1870	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1894-1899	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1941-1949	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	1950-1957	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2017-2024	insects	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2029-2044	hawthorn plants	hawthorn plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	0.5
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2192-2203	wild plants	wild plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	0.5
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2207-2225	Crataegus monogyna	Crataegus_monogyna	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2269-2278	vineyards	vineyard	OBT:004121	vineyard	/OBT:000001/OBT:000004/OBT:000067/OBT:004121			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2303-2308	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2405-2420	Psyllid species	Psyllid specie	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllids	1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2431-2446	hawthorn plants	hawthorn plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	0.5
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2504-2510	adults	adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.5
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2550-2564	C. melanoneura	C._melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2596-2616	Cacopsylla peregrina	Cacopsylla_peregrina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2638-2667	Cacopsylla crataegi (Schrank)	Cacopsylla_crataegi_(Schrank)	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2676-2686	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2710-2736	Cacopsylla pruni (Scopoli)	Cacopsylla_pruni_(Scopoli)	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2744-2763	Cacopsylla pyrisuga	Cacopsylla_pyrisuga	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2781-2807	Baeopelma foersteri (Flor)	Baeopelma_foersteri_(Flor)	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2815-2833	Psyllopsis fraxini	Psyllopsis_fraxini	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2847-2870	Trioza rhamni (Schrank)	Trioza_rhamni_(Schrank)	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	2967-2974	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	3009-3019	beat trays	beat tray	OBT:000666	high chair tray	/OBT:000001/OBT:000006/OBT:000098/OBT:000330/OBT:000666	high chair tray	tray	0.25
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	3188-3196	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	3269-3278	Beat tray	Beat tray	OBT:000666	high chair tray	/OBT:000001/OBT:000006/OBT:000098/OBT:000330/OBT:000666	high chair tray	tray	0.25
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	3373-3381	psyllids	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	3417-3421	male	male	OBT:001192	male animal	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:001192			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	3519-3538	species of
+psyllids	specie of psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllids	1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	3566-3580	C. melanoneura	C._melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	3624-3654	Cacopsylla peregrina (Forster)	Cacopsylla_peregrina_(Forster)	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	3729-3744	psyllid species	psyllid specie	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllids	1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	3773-3783	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	3845-3850	trees	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4023-4031	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4113-4137	Cacopsylla affinis (Low)	Cacopsylla_affinis_(Low)	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4160-4174	C. melanoneura	C._melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4341-4346	males	male	OBT:001192	male animal	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:001192			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4469-4475	adults	adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.5
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4580-4590	C. affinis	C._affinis	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4603-4615	C. peregrina	C._peregrina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4644-4658	C. melanoneura	C._melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4705-4716	apple trees	apple tree	OBT:001880	apple tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567/OBT:001880,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567/OBT:001880			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4705-4710	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4804-4823	Overwintered adults	overwintered adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.3333333333333333
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4868-4874	adults	adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.5
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4957-4961	eggs	egg	OBT:002981	egg	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:002981,/OBT:000001/OBT:000014/OBT:000039/OBT:000463/OBT:000613/OBT:002981			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	4965-4980	hawthorn plants	hawthorn plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	0.5
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	5038-5044	adults	adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.5
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	5181-5198	occasional plants	occasional plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	0.5
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	5375-5386	C. crataegi	C._crataegi	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	5415-5423	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	5541-5555	C. melanoneura	C._melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	5605-5610	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	5646-5657	C. monogyna	C._monogyna	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	5879-5887	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	5888-5895	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	5959-5973	C. melanoneura	C._melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	6081-6095	C. melanoneura	C._melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	6305-6313	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	6314-6321	psyllid	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	6629-6639	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	6653-6660	Insecta	Insecta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	6857-6867	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	6958-6968	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	7086-7091	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	7123-7145	Cacopsylla melanoneura	Cacopsylla_melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	7160-7169	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	7280-7302	Cacopsylla melanoneura	Cacopsylla_melanoneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	7304-7313	Homoptera	Homoptera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	7315-7324	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2008_Tedeschi_hawthorn_psyllids_fauna_translation	abstract	7341-7346	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	106-117	plantations	plantation	OBT:004180	plantation	/OBT:000001/OBT:000004/OBT:000067/OBT:004180			1.0
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	444-460	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	462-469	inconnu	inconnu	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	596-607	Stone Fruit	Stone Fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796			1.0
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	602-607	Fruit	Fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	760-771	plantations	plantation	OBT:004180	plantation	/OBT:000001/OBT:000004/OBT:000067/OBT:004180			1.0
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	1324-1340	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	1638-1644	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	2006-2013	C.pruni	C.pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	2022-2028	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	2320-2326	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	2379-2395	Prunus armeniaca	Prunus_armeniaca	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	2419-2430	P. salicina	P._salicina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	2463-2473	P. persica	P._persica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	2535-2547	P. amygdalus	P._amygdalus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	2677-2685	P. avium	P._avium	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	2750-2756	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	3274-3279	comet	comet	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	3621-3627	fruits	fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	3879-3887	P. padus	P._padus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	3951-3961	P. spinosa	P._spinosa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	3977-3989	P. insititia	P._insititia	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	4061-4072	P. salicina	P._salicina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	4083-4093	P. persica	P._persica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2011_Hmimina_Cacopsylla_pruni_Maroc_translation	abstract	5004-5010	Suisse	Suisse	OBT:003564	petit-suisse	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000489/OBT:001208/OBT:001480/OBT:002043/OBT:003556/OBT:003561/OBT:003564,/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000489/OBT:001208/OBT:001480/OBT:003381/OBT:003556/OBT:003561/OBT:003564,/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000489/OBT:001208/OBT:003093/OBT:003381/OBT:003556/OBT:003561/OBT:003564,/OBT:000001/OBT:000008/OBT:000094/OBT:000397/OBT:000828/OBT:001266/OBT:001546/OBT:003093/OBT:003381/OBT:003556/OBT:003561/OBT:003564	petit - suisse	suisse	0.5
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	42-51	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	136-146	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	148-157	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	278-283	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	417-427	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	481-486	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	618-628	Cyamophila	Cyamophila	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	658-669	Spanioneura	Spanioneura	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	775-781	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	810-818	Aphalara	Aphalara	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	850-856	Trioza	Trioza	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	912-922	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	962-972	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	994-1004	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2012_Ozgen_Psyllids_Anatolie_translation	abstract	1033-1053	Agonoscena pistaciae	Agonoscena_pistaciae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Jerinic-Prodanovic_translation	abstract	745-752	droplet	droplet	OBT:000956	water droplet	/OBT:000001/OBT:000013/OBT:000079/OBT:000468/OBT:000956	water droplet	droplet	0.5
+	2013_Jerinic-Prodanovic_translation	abstract	1109-1118	leaf flea	leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2013_Jerinic-Prodanovic_translation	abstract	1109-1113	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2013_Jerinic-Prodanovic_translation	abstract	1119-1127	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Jerinic-Prodanovic_translation	abstract	1233-1240	Apricot	Apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2013_Jerinic-Prodanovic_translation	abstract	1469-1473	Bela	Bela	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Jerinic-Prodanovic_translation	abstract	1691-1696	Cells	Cell	OBT:000061	cell	/OBT:000001/OBT:000014/OBT:000061			1.0
+	2013_Jerinic-Prodanovic_translation	abstract	1957-1962	PLANT	PLANT	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2013_Jerinic-Prodanovic_translation	abstract	3035-3041	office	office	OBT:000773	office	/OBT:000001/OBT:000006/OBT:000066/OBT:000403/OBT:000773			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	22-38	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	616-625	Thesaurus	Thesaurus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	847-857	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	945-961	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	1668-1682	pear
+
+psyllids	pear psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllids	0.5
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	1668-1672	pear	pear	OBT:003012	pear	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003012,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003012			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	1684-1693	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	1744-1752	psyllids	psyllid	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	1832-1836	pear	pear	OBT:003012	pear	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003012,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003012			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	1901-1905	root	root	OBT:002850	root	/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002850,/OBT:000001/OBT:000014/OBT:000140/OBT:000411/OBT:002850			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	2776-2792	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	2803-2812	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	2814-2828	Sternorrhyncha	Sternorrhyncha	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	2830-2839	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	3014-3034	European stone fruit	European stone fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796	stone fruit	fruit	0.6666666666666666
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	3092-3098	insect	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	3121-3127	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	3238-3244	adults	adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.5
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	3390-3409	first summer adults	first summer adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.25
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	3446-3452	insect	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	3502-3513	host plants	host plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	3628-3642	Prunus spinosa	Prunus_spinosa	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	3647-3659	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4103-4119	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4255-4260	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4732-4742	arthropods	arthropod	OBT:000496	arthropod	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4744-4754	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4756-4763	insects	insect	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4765-4771	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4773-4789	Prunus domestica	Prunus_domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4791-4797	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4829-4838	arthropod	arthropod	OBT:000496	arthropod	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4839-4844	pests	pest	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pests	0.5
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4870-4882	insect pests	insect pest	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pests	0.3333333333333333
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4870-4876	insect	insect	OBT:001163	insect	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4884-4889	pests	pest	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pests	0.5
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4891-4902	plant pests	plant pest	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pests	0.3333333333333333
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4891-4896	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4904-4909	plums	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4936-4952	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4954-4958	pest	p	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pest	0.5
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4959-4969	arthropods	arthropod	OBT:000496	arthropod	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4971-4975	pest	pest	OBT:000184	agricultural pest	/OBT:000001/OBT:000004/OBT:000035/OBT:000184	agricultural pest	pests	0.5
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	4976-4983	insects	insect	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5040-5049	Psyllidae	Psyllidae	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5051-5061	Psylloidea	Psylloidea	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5063-5077	Sternorrhyncha	Sternorrhyncha	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5079-5088	Hemiptera	Hemiptera	OBT:004130	Hemiptera	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5090-5097	insects	insect	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5099-5107	Hexapoda	Hexapoda	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5109-5119	arthropods	arthropod	OBT:000496	arthropod	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5121-5134	invertebrates	invertebrate	OBT:000694	invertebrate species	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000694			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5136-5143	animals	animal	OBT:000193	animal	/OBT:000001/OBT:000010/OBT:000089/OBT:000193			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5145-5155	eukaryotes	eukaryote	OBT:000089	eukaryote host	/OBT:000001/OBT:000010/OBT:000089			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5157-5165	Rosaceae	Rosaceae	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5167-5174	Rosales	Rosales	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5176-5184	eudicots	eudicot	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5186-5197	angiosperms	angiosperm	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5200-5213	Spermatophyta	Spermatophyta	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5215-5221	plants	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5223-5229	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2013_Seljak_Study_of_bionomics_of_Cacopsylla_pruni_in_the_Primorska_region._translation	abstract	5581-5591	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	62-66	LEAF	LEAF	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	74-82	APRICOTS	APRICOTS	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	128-143	psyllid species	psyllid specie	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108	psyllids	psyllids	1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	147-165	apricot plantation	apricot plantation	OBT:004180	plantation	/OBT:000001/OBT:000004/OBT:000067/OBT:004180	plantation	plantation	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	147-154	apricot	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	375-386	Stone Fruit	Stone Fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	381-386	Fruit	Fruit	OBT:002906	fruit	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	566-580	plum leaf flea	plum leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.3333333333333333
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	566-570	plum	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	571-575	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	582-598	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	619-626	apricot	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	637-655	Hungary
+Leaf fleas	Hungary Leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.3333333333333333
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	645-649	Leaf	Leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	675-681	shrubs	shrub	OBT:001771	shrub	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:001125/OBT:001771,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:001125/OBT:001771			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	683-694	blueberries	blueberry	OBT:002965	blueberry	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002965,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002965			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	696-704	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	725-737	spruce trees	spruce tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360	tree	trees	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	725-731	spruce	spruce	OBT:002263	spruce	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360/OBT:001498/OBT:002263			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	797-809	early spring	early spring	OBT:001333	spring	/OBT:000001/OBT:000013/OBT:000047/OBT:000326/OBT:000713/OBT:001333	spring	spring	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	883-893	leaf fleas	leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	883-887	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	903-909	plants	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	954-964	laboratory	laboratory	OBT:001169	laboratory	/OBT:000001/OBT:000006/OBT:000066/OBT:000403/OBT:000838/OBT:001169			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1037-1053	plant laboratory	plant laboratory	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1149-1159	leaf fleas	leaf fleas	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1149-1153	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1229-1244	Plum leaf fleas	Plum leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.3333333333333333
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1229-1233	Plum	Plum	OBT:002191	plum and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:002191			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1234-1238	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1246-1262	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1537-1545	Apricots	Apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1691-1724	Cytospora
+cincta mushroom species	Cytospora cincta mushroom specie	OBT:000752	mushroom	/OBT:000001/OBT:000010/OBT:000089/OBT:000290/OBT:000752	mushroom	mushroom	1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1779-1783	tree	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1852-1856	wood	wood	OBT:001383	wood	/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000927/OBT:001383			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	1948-1953	wound	wound	OBT:000970	wound	/OBT:000001/OBT:000014/OBT:000039/OBT:000332/OBT:000970			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	2549-2559	laboratory	laboratory	OBT:001169	laboratory	/OBT:000001/OBT:000006/OBT:000066/OBT:000403/OBT:000838/OBT:001169			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	2602-2606	tree	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	2711-2725	nominal juices	nominal juice	OBT:003058	juice	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000711/OBT:001078/OBT:003058,/OBT:000001/OBT:000008/OBT:000094/OBT:000397/OBT:000828/OBT:001267/OBT:003058	juice	juices	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	2907-2912	roots	root	OBT:002850	root	/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002850,/OBT:000001/OBT:000014/OBT:000140/OBT:000411/OBT:002850			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3331-3338	apricot	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3350-3362	natural milk	natural milk	OBT:001208	milk and milk product	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000489/OBT:001208	milk	milk	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3619-3626	apricot	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3646-3661	immediate hands	immediate hand	OBT:001589	hand	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000723/OBT:001268/OBT:001589	hand	hand	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3679-3685	shrubs	shrub	OBT:001771	shrub	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:001125/OBT:001771,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:001125/OBT:001771			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3687-3698	blueberries	blueberry	OBT:002965	blueberry	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002965,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002965			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3703-3711	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3748-3765	meadow
+leaf fleas	meadow leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.3333333333333333
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3755-3759	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3770-3787	leaf flea species	leaf flea specie	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3770-3774	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3801-3807	shrubs	shrub	OBT:001771	shrub	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:001125/OBT:001771,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:001125/OBT:001771			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3812-3817	pines	pine	OBT:002187	pine	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360/OBT:001498/OBT:002187			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3880-3896	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3912-3922	pine trees	pine tree	OBT:004095	Austrian pine	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360/OBT:001498/OBT:002187/OBT:004095	Austrian pine tree	trees	0.6666666666666666
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3951-3957	spring	spring	OBT:001333	spring	/OBT:000001/OBT:000013/OBT:000047/OBT:000326/OBT:000713/OBT:001333			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3969-3977	apricots	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	3993-3999	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4071-4075	hand	hand	OBT:001589	hand	/OBT:000001/OBT:000014/OBT:000039/OBT:000465/OBT:000723/OBT:001268/OBT:001589			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4134-4144	leaf fleas	leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4134-4138	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4272-4282	laboratory	laboratory	OBT:001169	laboratory	/OBT:000001/OBT:000006/OBT:000066/OBT:000403/OBT:000838/OBT:001169			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4309-4319	Laboratory	Laboratory	OBT:001169	laboratory	/OBT:000001/OBT:000006/OBT:000066/OBT:000403/OBT:000838/OBT:001169			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4414-4424	leaf fleas	leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4414-4418	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4646-4657	C. crataegi	C._crataegi	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4666-4673	apricot	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4678-4698	putative host plants	putative host plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	host plant	plants	0.6666666666666666
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4722-4733	individuals	individual	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4737-4745	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4746-4756	leaf fleas	leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4746-4750	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4793-4797	plum	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4798-4808	leaf fleas	leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4798-4802	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4824-4834	plantation	plantation	OBT:004180	plantation	/OBT:000001/OBT:000004/OBT:000067/OBT:004180			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4882-4890	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4908-4914	leaves	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4927-4937	laboratory	laboratory	OBT:001169	laboratory	/OBT:000001/OBT:000006/OBT:000066/OBT:000403/OBT:000838/OBT:001169			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	4949-4956	apricot	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5012-5023	individuals	individual	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5049-5060	individuals	individual	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5098-5109	individuals	individual	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5152-5163	individuals	individual	OBT:002488	human	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5168-5176	C. pruni	C._pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5182-5192	laboratory	laboratory	OBT:001169	laboratory	/OBT:000001/OBT:000006/OBT:000066/OBT:000403/OBT:000838/OBT:001169			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5230-5242	blue whiting	blue whiting	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5244-5252	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5257-5261	pine	pine	OBT:002187	pine	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360/OBT:001498/OBT:002187			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5262-5267	perch	perch	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5341-5349	hawthorn	hawthorn	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5354-5358	pine	pine	OBT:002187	pine	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360/OBT:001498/OBT:002187			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5493-5503	leaf fleas	leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5493-5497	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5591-5610	Hawthorn leaf fleas	Hawthorn leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.3333333333333333
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5600-5604	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5816-5827	Rosa canina	Rosa_canina	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5902-5921	aphid of leaf fleas	aphid of leaf flea	OBT:001428	aphid	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:001428	aphid	aphid	0.3333333333333333
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5911-5921	leaf fleas	leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	5911-5915	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6019-6039	European stone
+fruit	European stone fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796	stone fruit	fruit	0.6666666666666666
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6075-6091	Cacopsylla pruni	Cacopsylla_pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6113-6118	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6161-6171	Leaf fleas	Leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6161-6165	Leaf	Leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6175-6182	apricot	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6363-6370	apricot	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6535-6555	European stone fruit	European stone fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796	stone fruit	fruit	0.6666666666666666
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6590-6601	wild plants	wild plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6625-6632	apricot	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6643-6647	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6711-6716	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6815-6835	European stone
+fruit	European stone fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796	stone fruit	fruit	0.6666666666666666
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	6869-6874	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7034-7040	Animal	Animal	OBT:000193	animal	/OBT:000001/OBT:000010/OBT:000089/OBT:000193			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7117-7124	Apricot	Apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7153-7161	apricots	apricot	OBT:002342	apricot as food	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:001881/OBT:002342			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7299-7325	Cacopsylla pruni (Scopoli)	Cacopsylla_pruni_(Scopoli)	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7379-7389	Leaf fleas	Leaf flea	OBT:002034	flea	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:001453/OBT:002034	flea	fleas	0.5
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7379-7383	Leaf	Leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7568-7573	apple	apple	OBT:002958	apple	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:002958,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:002958			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7589-7593	pear	pear	OBT:003012	pear	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003012,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003012			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7606-7626	European stone fruit	European stone fruit	OBT:001796	stone fruit and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796	stone fruit	fruit	0.6666666666666666
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7779-7787	children	child	OBT:003188	child	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:003188,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000946/OBT:001374/OBT:001625/OBT:002201/OBT:002488/OBT:003188			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7883-7887	Alma	Alma	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7951-7959	Psyllids	Psyllids	OBT:004108	jumping plant lice	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:004108			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7960-7970	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7987-7997	Cacopsylla	Cacopsylla	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	7998-8003	Pruni	Pruni	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	8005-8010	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2017_Csilla_Hungary_Cacopsylla_pruni_translation	abstract	8091-8096	aphid	aphid	OBT:001428	aphid	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000496/OBT:001163/OBT:004130/OBT:001428			1.0
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	655-660	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	1471-1476	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	2865-2877	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	2928-2940	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	2991-3003	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	3405-3410	plant	plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	3712-3724	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	3775-3787	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	3841-3853	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	3866-3878	annual adult	annual adult	OBT:003175	young adult	/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001395/OBT:003175,/OBT:000001/OBT:000010/OBT:000089/OBT:000193/OBT:000490/OBT:000986/OBT:001849/OBT:003175	young adult	adult	0.3333333333333333
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	3909-3921	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	3977-3989	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	4045-4057	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	4109-4121	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	4173-4185	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	4227-4234	Vertigo	Vertigo	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	4236-4249	P. cerasifera	P._cerasifera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	4291-4298	Vertigo	Vertigo	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2017_Dolanc_Thesis_Slovenia_Cacopsylla_pruni_L_translation	abstract	4300-4313	P. cerasifera	P._cerasifera	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	16-20	Plum	Plum	OBT:002191	plum and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:002191			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	63-69	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	112-117	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	265-270	NOTES	NOTES	OBT:000206	banknote	/OBT:000001/OBT:000006/OBT:000098/OBT:000206	currency note	note	0.5
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	293-297	Plum	Plum	OBT:002191	plum and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:002191			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	340-346	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	804-809	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	866-870	Food	Food	OBT:000008	food	/OBT:000001/OBT:000008			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	921-937	Strawberry plant	Strawberry plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393	plant	plants	0.5
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	946-950	leaf	leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	1276-1280	plum	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	1344-1350	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	1615-1619	Plum	Plum	OBT:002191	plum and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:002191			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	1662-1668	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	1711-1716	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	1928-1938	plum trees	plum tree	OBT:002192	plum tree	/OBT:000001/OBT:000004/OBT:000035/OBT:002699/OBT:004183/OBT:001567/OBT:002192,/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:002699/OBT:004183/OBT:001567/OBT:002192			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	1928-1932	plum	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	2214-2229	private gardens	private garden	OBT:000292	garden	/OBT:000001/OBT:000004/OBT:000067/OBT:000292	garden	gardens	0.5
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	2252-2269	wild Prunus trees	wild Prunus tree	OBT:003974	wild tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360/OBT:003974	wild tree	trees	0.6666666666666666
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	2293-2305	P. armeniaca	P._armeniaca	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	2307-2319	P. domestica	P._domestica	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	2340-2344	Leaf	Leaf	OBT:001174	leaf	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001174			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	2377-2382	trees	tree	OBT:001360	tree	/OBT:000001/OBT:000010/OBT:000089/OBT:000393/OBT:000912/OBT:001360			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	2423-2427	vein	vein	OBT:001835	vein	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000807/OBT:001175/OBT:001835			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	2595-2603	sandwich	sandwich	OBT:001756	sandwich	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000570/OBT:001278/OBT:001756			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	3818-3822	Plum	Plum	OBT:002191	plum and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:002191			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	3865-3871	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	3914-3919	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	4988-4993	peach	peach	OBT:003011	peach	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003011,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003011			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	4998-5002	plum	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	5177-5181	plum	plum	OBT:003015	plum	/OBT:000001/OBT:000014/OBT:000140/OBT:000388/OBT:000541/OBT:002906/OBT:003015,/OBT:000001/OBT:000014/OBT:000140/OBT:000395/OBT:000814/OBT:002906/OBT:003015			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	5507-5511	Plum	Plum	OBT:002191	plum and primary derivative thereof	/OBT:000001/OBT:000008/OBT:000094/OBT:000240/OBT:000815/OBT:001122/OBT:001796/OBT:002191			1.0
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	5554-5560	Prunus	Prunus	OBT:000010	living organism	/OBT:000001/OBT:000010			
+	2020_Dallot_First_Report_of_Plum_Pox_Virus_Str_translation	abstract	5603-5608	Plant	Plant	OBT:000393	plant	/OBT:000001/OBT:000010/OBT:000089/OBT:000393			1.0

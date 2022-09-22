@@ -1,0 +1,997 @@
+Zootaxa 3193: 1-27 (2012) ISSN 1175-5326 (print edition)
+
+Wwww.mapress.com/zootaxal Article ZOOTAXA
+
+Copyright © 2012 - Magnolia Press ISSN 1175-5334 (online edition)
+
+ 
+
+An annotated checklist of the psyllids of California (Hemiptera: Psylloidea)
+
+DIANA M. PERCY'*, ALESSANDRA RUNG? & MARK S. HODDLE'
+
+'Botany Department and Biodiversity Research Centre, University of British Columbia, 6270 University Boulevard, Vancouver, British
+Columbia, VOT 124, Canada. E-mail: diana,percy@ ube.ca
+
+*Plant Pest Diagnostics Branch, CDFA, 3294 Meadowview Rd., Sacramento,CA 95832, USA. E-mail: alessandra.rung@ cdfa.ca.gov
+‘Department of Entomology, University of California, 900 University Ave., Riverside, CA 92521, USA. E-mail: mhoddle@ucredu
+‘current address: Entomology Department, Natural History Museum, Cromwell Road, London SW7 SBD, UK. E-mail:
+d.percy@nhm.ac.uk
+
+Abstract
+
+A revised checklist to the species of Psylloidea (Hemiptera) from California is presented, with information on host plant
+data, distributions, introduced and pest species, parasites, parasitoids, and predators, and biological control programs. The
+list includes 164 species, of which six are newly recorded. In total, this comprises a 26% increase in the number of species
+recorded for California since the last published checklist in 1988. Choricymoza Bliven is a new synonym of Phylloplecta
+Riley, and 10 species previously in Euphalerus Schwarz are recombined under Nyctiphalerus Bliven. California has the
+richest native psyllid fauna in North America, and the influence of climatic and floristic diversity on this diversification
+is considered. Key words
+
+ 
+
+iogeography, host plant, jumping plant lice, species diversity, pest species. Introduction
+
+From a review of the literature and examination of specimens at the California State Collection of Arthropods
+(CSCA), the California Academy of Sciences (CAL), the Essig Museum of Entomology (EMEC), and the Bohart
+Museum of Entomology (UCDC) (all institutions in California, USA), we present an updated checklist of the psyl-
+lids (Psylloidea, Hemiptera) of California. The checklist updates the published records for California and includes
+all of the new records of species and host plants for California post-1988 (the date of the last published checklist,
+Hodkinson 1988). Synonymies are not provided, these can be found in prior publications (e.g., Hodkinson 1986,
+1988; Hodkinson & Bird 2000; Hodkinson & Hollis 1987; Burckhardt & Lauterer 1997; Ouvrard 2010; and refer-
+ences therein). This treatment includes 164 psyllid species for California (121 of these were included in Hodkinson 1988, 37
+of these have been published since 1988, and 6 of these are previously unpublished records). These 164 species
+records represent an increase of 26% since 1988 (Hodkinson 1988). The increase of 43 additional species for Cali-
+fornia is due in large part to the addition of 16 introduced species since 1988. Table 1 provides a summary of Cali-
+fornian psyllid genera, species numbers, and host plant genera associations. Several native Californian psyllid genera require further revisionary work, in particular Neophyllura Loginova,
+which has numerous colour and wing pattern variations. A more in depth look at the Californian Calinda
+Blanchard species would help to determine the range of variation and distribution in these species, and the genus
+Calophya Léw needs additional investigation as there are undescribed species and notable polymorphism in some
+specimen series. Further, undescribed Calophya species from southern California appear to be related to species
+described from Mexico (more information on this potentially under-explored biogeographic link is given below). Aphalaroida Crawford was revised by Hodkinson (1991a), and in his revision, four Aphalaroida species previously
+recorded for California were considered to be restricted to other US states; material in Californian collections needs
+to be reviewed, particularly the specimens now collectively placed under the widespread species, A. pithecolobia
+Crawford. Several other genera are taxonomically complex and/or require additional systematic work, these
+include Aphalara, Bactericera, Cacopsylla, and Craspedolepta. Accepted by L. Mound: 02 Dec. 2011; published: 15 Feb. 2012 1
+
+TABLE 1. Summary of Californian psyllid genera with current psyllid family assignment and well established host plant
+genera associations; species level host plant associations, as well as unconfirmed host plant associations, and additional
+information are provided in the text; psyllid genera in bold contain only introduced taxa in California
+
+ 
+
+psyllid genus (# species)
+
+psyllid family
+
+host plant genus (Family)
+
+ 
+
+Acizzia (3)
+
+Amorphicola (1)
+Aphalara (6)
+Aphalaroida (4)
+Arytaina (1)
+Arytainilla (1)
+Bactericera (10)
+
+Blastopsylla (1)
+Cacopsylla (31)
+
+Calinda (3)
+Calophya (6)
+Ceanothia (9)
+Craspedolepta (21)
+
+Cryptoneossa (1)
+Ctenarytaina (3)
+Diaphorina (1)
+Diclidophlebia (1)
+Eucalyptolyma (1)
+Euglyptoneura (3)
+Euphyllura (1)
+Freysuila (2)
+
+Glycaspis (1)
+Heteropsylla (3)
+Homotoma (1)
+Kuwayama (1)
+Livia (3)
+Neophyllura (5)
+Neotriozella (1)
+Nyctiphalerus (9)
+Pachypsylla (2)
+Pexopsylla (1)
+Phylloplecta (2)
+Platycorypha (1)
+Psylla (4)
+Psyllopsis (1)
+Purshivora (2)
+Trioza (17)
+
+Total genera in California: 37 (164 species)
+
+Psyllidae
+
+Psyllidae
+Psyllidae
+Psyllidae
+Psyllidae
+Psyllidae
+
+Triozidae
+
+Psyllidae
+Psyllidae
+
+Triozidae
+Calophyidae
+Psyllidae
+Psyllidae
+
+Psyllidae
+Psyllidae
+Psyllidae
+Psyllidae
+Psyllidae
+Psyllidae
+Psyllidae
+Psyllidae
+
+Psyllidae
+Psyllidae
+
+Homotomidae
+Triozidae
+Psyllidae
+Psyllidae
+Triozidae
+Psyllidae
+Psyllidae
+Psyllidae
+Triozidae
+Psyllidae
+Psyllidae
+Psyllidae
+Psyllidae
+
+Triozidae
+
+Acacia, Albizia, Samanea (Fabaceae), Grevillea, Hakea
+(Proteaceae)
+
+Amorpha (Fabaceae)
+
+Polygonum, Rumex (Polygonaceae)
+
+Pithecellobium, Prosopis (Fabaceae)
+
+Cytisus (Fabaceae)
+
+Cytisus (Fabaceae)
+
+Barkleyanthus (Asteraceae); Convolvulus (Convolvulaceae);
+Capsicum, Lycium, Solanum (Solanaceae); Lavatera
+(Malvaceae); Salix (Salicaceae)
+
+Eucalyptus (Myrtaceae)
+
+Betula, Corylus (Betulaceae); Cercocarpus, Purshia, Pyrus
+(Rosaceae); Elaeagnus (Elaeagnaceae); Fatsia (Araliaceae);
+Pittosporum (Pittosporaceae); Ribes (Grossulariaceae); Salix
+(Salicaceae); Viburnum (Caprifoliaceae)
+
+Baccharis (Asteraceae)
+
+Rhus, Schinus (Anacardiaceae)
+
+Ceanothus (Rhamnaceae); Cercocarpus (Rosaceae)
+Achillea, Artemisia, Chrysothamnus, Gutierrezia, Solidago
+(Asteraceae); Chamerion (Onagraceae); Frankenia
+(Frankeniaceae); Salsola (Amaranthaceae)
+
+Eucalyptus (Myrtaceae)
+
+Eucalyptus, Lophostemon (Myrtaceae)
+
+Citrus, Murraya (Rutaceae)
+
+Fremontodendron (Malvaceae)
+
+Eucalyptus (Myrtaceae)
+
+Ceanothus (Rhamnaceae)
+
+Olea (Oleaceae)
+
+Caesalpinia, Haematoxylum (Fabaceae); Phoradendron
+(Santalaceae)
+
+Eucalyptus (Myrtaceae)
+
+Acacia, Leucaena, Prosopis (Fabaceae)
+
+Ficus (Moraceae)
+
+No confirmed host plant associations
+
+Carex (Cyperaceae)
+
+Arbutus, Arctostaphylos (Ericaceae)
+
+No known host plant associations
+
+Ceanothus (Rhamnaceae); Cercocarpus (Rosaceae)
+
+Celtis (Ulmaceae)
+
+Cercocarpus (Rosaceae)
+
+Rubus (Rosaceae)
+
+Tipuana (Fabaceae)
+
+Alnus (Betulaceae); Buxus (Buxaceae); Prunus (Rosaceae)
+Fraxinus (Oleaceae)
+
+Purshia (Rosaceae)
+
+Acmena, Metrosideros, Syzygium (Myrtaceae); Amelanchier
+(Rosaceae); Chenopodium, Atriplex (Amaranthaceae);
+Laurus (Lauraceae); Urtica (Urticaceae); Frangula,
+Rhamnus (Rhamnaceae); Phoradendron (Santalaceae)
+
+ 
+
+2 + Zootaxa 3193 © 2012 Magnolia Press
+
+PERCY ET AL. We found several specimen records in Californian collections that are unconfirmed and require further study to
+confirm their presence in California; these include Calophya nigripennis Riley (EMEC), Aphalara persicaria
+Caldwell and Aphalara manitobaensis Caldwell (CSCA), Cacopsylla hamata (Tuthill) (EMEC), Cacopsylla rara
+(Tuthill) (CSCA), and Leuronota maculata (Crawford) (CSCA). Two species currently only determined to genus
+are also known from California. An Acizzia species close to Acizzia jucunda (Tuthill) has been found on several
+Acacia spp. in California; first recorded in California in 1992 (Gill 1992), this species was informally assigned to
+species #22 by Australian entomologist Keith Taylor. In addition, because the North America material assigned to
+Aphalara calthae (Linnaeus, 1761) is not conspecific with this European species (Hodkinson 1988; Daniel Burck-
+hardt pers. comm. ), we have not included A. calthae in our checklist, and further work on the North American
+Polygonum-feeding Aphalara will be required to determine the number of Californian species. This checklist project was initiated in 2010 in response to the discovery in 2008 of Diaphorina citri
+Kuwayama, the Asian citrus psyllid (ACP), in California (Anon. 2010). This invasive psyllid pest poses a serious
+threat to the Californian citrus industry primarily due to the transmission of Candidatus Liberibacter spp., a bacte-
+rium responsible for citrus greening (Huanglongbing) disease (Grafton-Cardwell et al. 2006; Grafton-Cardwell
+2010). In order to aid in the selection of psyllid species for host range testing of potential biological control agents,
+we completed this review of the psyllid fauna of California. Given the concerns raised by ACP, as well as other
+psyllid pests in California, we also provide information on the known parasites, parasitoids, and predators of psyl-
+lids, some of which are effective biological control agents (e.g., Dahlsten et al. 1998). Much of the work surveying
+the parasites of native Californian psyllids was undertaken by Dilworth Jensen (1910-1973) (Essig Museum of
+Entomology, University of California, Berkeley). Jensen (1951, 1957a) undertook a survey of psyllid parasites over
+a number of years, often rearing parasitoids from field collected psyllid nymphs. The majority of parasites known
+from psyllids belong to nine hymenopteran species of parasitoid from six families. Parasitoid larvae develop in the
+3.5" instar nymphs of psyllids, but it is not always possible to identify the host psyllid species from parasitized
+nymphs alone. Future developments using DNA methods for analyzing the gut contents of arthropods may assist in
+identifying both the host plant diet, and the diet of biocontrol agents (e.g., Agusti ef al. 2003; Jurado-Rivera et al. 2009). The most promising biocontrol agent for ACP, which is currently undergoing host specificity testing and
+review at the University of California, Riverside, is the solitary ectoparasitoid, Tamarixia radiata (Waterston)
+(Hymenoptera: Eulophidae) (Hoddle 2010). Ongoing biological control agent testing for host specificity of this
+parasitoid includes native Californian psyllid species that occur in and around citrus growing areas (e.g., native
+psyllids on common native plants in wilderness areas around citrus orchards in the Central Valley, including Het-
+eropsylla and Ceanothia species); and native Californian psyllid genera that are most closely related phylogeneti-
+cally to ACP (with Neophyllura being the closest of these, followed by Diclidophlebia and, more distantly,
+Calophya). Summary of information on psyllid parasites and parasitoids
+
+In 1957, Jensen published the first review of California psyllid parasitoids covering Hymenoptera and Diptera
+(Jensen 1957a). In California, Jensen reared parasitoids from more than 30 psyllid species in 11 genera. The major-
+ity of psyllid parasitoids attack the immature, nymphal stages, although a few cases are known of adult parasitism,
+such as the gall midge genus Endopsylla. Lal (1934) studied the biology of an Endospylla species in Scotland (UK)
+and determined that females lay eggs on the fore wings of the adult psyllid. These eggs hatch in 8 to 13 days, and
+larvae feed initially for 3 or 4 days as ectoparasites, and then burrow into the haemocoel of the host to complete
+development. In addition to hymenopteran and dipteran parasitoids, adult psyllids can frequently be found with
+mites (Acariformes) attached. No hymenopteran parasitoids are known to attack adult psyllids, and the majority are
+ectoparasitoids of nymphs. A notable exception is the eulophid parasitoid, T. radiata, which is an ectoparasitoid
+and feeds on hemolymph from the point of attachment underneath ACP nymphs. In addition, adult female T. radi-
+ata can kill ACP nymphs via host feeding. To host feed, female parasitoids damage psyllid nymphs with the ovi-
+positor and imbibe hemolymph that issues from the wound. The trauma of host feeding is often sufficient to kill
+nymphs. A number of native Californian psyllids are known to have multiple parasitoids. For example, Neophyllura
+arbuti (Schwarz), Trioza beameri Tuthill and Pexopsylla cercocarpi Jensen are each known to host three different
+
+CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 3
+
+species of parasitoid from three genera in three different families; and Ceanothia ceanothi (Crawford) is parasitized
+by four species of parasitoid in four different genera in three families. Some parasitoids of psyllids, such as the
+encyrtid genus Prionomitus, appear to be parasitic principally on psyllids, and Prionomitus mitratus (Dalman) is
+recorded from at least 13 psyllid species in four genera, all of which have host plants in the Rosales, including
+Ceanothus, Cercocarpus, Salix, Rhamnus, and Alnus. Another encyrtid genus, Psyllaephagus, primarily parasitizes
+psyllids and has been used in the biocontrol of the pistachio psyllid (Agonoscena pistaciae Burckhardt & Lauterer)
+(Mehrnejad & Copland 2006), the blue gum psyllid (Ctenarytaina eucalypti (Maskell)) (Dahlsten er al. 1998), and
+the red gum lerp psyllid (Glycaspis brimblecombei Moore) (Daane et al. 2005). At least 10 Psyllaephagus species
+were reared from native Californian psyllids by Jensen (1957a), including several undescribed species of Psyl-
+laephagus from seven different psyllid genera. At least eight species of Tamarixia are known to parasitize more
+than 20 species of psyllid. The impact that invasive psyllids, such as D. citri, have on native California psyllids is
+unknown, neither is it known whether any native parasitoids could be sufficiently generalist to exploit a new
+resource in the form of introduced psyllid species. Summary of psyllid-host plant biogeography and co-diversification
+
+North American psyllid species fall primarily into three major faunistic groups with different biogeographic affini-
+ties (Hodkinson 1988). First, there are a number of genera with holarctic distributions (with most of these also rep-
+resented in California, e.g., Aphalara, Bactericera, Cacopsylla, Craspedolepta, Livia, Psylla, and at least two
+monophyletic species groups of the currently polyphyletic genus Trioza), including a number of species that are
+widespread and occur on a single host plant species or several closely related host plants across wide pan-arctic dis-
+tributions (e.g., Bactericera salicivora found on Salix in Asia, Europe and North America, including California). Second, there are genera that are primarily from tropical Central and South America, with some species distribu-
+tions extending into southern and eastern USA (these are not represented in California, with the possible exception
+of some triozid lineages). Third, there is an element of the fauna that is endemic to North America (14 genera are
+endemic to North America, and at least seven of these are represented in the Californian fauna, including: Cean-
+othia, Euglyptoneura, Neophyllura, Neotriozella, Nyctiphalerus, Pexopsylla, Purshivora). This element is the larg-
+est faunistic component, with 67% of North American species endemic to the region. There is also an element that
+is particularly important in California: the genera are often tropical or South American in origin (e.g., Aphalaroida,
+Calinda, Freysuila, Heteropsylla) but there are Californian members that are adapted to arid regions and therefore
+able to adjust to California’s highly variable winter rainfall. In addition, numerous psyllid introductions from Aus-
+tralasia (e.g., Acizzia, and five Eucalyptus-feeding taxa) share a similar arid-adapted ecology. At present, there are
+17 arid-adapted species recorded from both Mexico and California, but we expect that more extensive sampling in
+southern California would increase the number of species and genera sharing this biogeographic association. California has the largest part of the endemic North America psyllid fauna with 57% of endemic North Ameri-
+can psyllid genera, and 38% of endemic North American psyllid species, represented in California, and 31% of
+these species are found only in California. Several genera, such as Ceanothia, Nyctiphalerus, and possibly Euglyp-
+toneura, appear to have a centre of endemism in California. California has the richest floristic diversity in North
+America (Calsbeek et al. 2003), and studies have shown that herbivorous insect diversity is directly correlated with
+plant species diversity (e.g., Novotny et al. 2006); it is therefore not surprising that California has the highest diver-
+sity of psyllid species in North America. The unique endemic diversity of psyllids in California compared to the
+rest of North America, with a sharp drop in endemicity even in neighbouring western states (e.g., Arizona [east of
+California] and Oregon [north]), is due to both the geographic and topological diversity of California, and the rich-
+ness of the Mediterranean-type plant biota of the Californian Floristic Province. Psyllids are found on a number of
+characteristic, species rich Californian plant groups (e.g., Arctostaphylos, Ceanothus, Cercocarpus, and Salix)
+(Table 1). The best examples of regional co-diversification among psyllid and host plant groups are with the genera
+Ceanothus and Salix. In particular, Ceanothus, with around 55 species (~45 species in California) and a centre of
+diversity and endemism in California (Hardig et al. 2000), has been colonized multiple times by psyllid lineages
+and is host to three psyllid genera and 15 psyllid species. 4 - Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. Hodkinson (2009) pointed out that psyllid species occurring in strongly seasonal Mediterranean-type climates
+have compressed periods of reproduction and development. In particular, variability of rainfall and temperature can
+influence the evolutionary development of periodicity; and temperature and precipitation gradients are signifi-
+cantly correlated with regional diversity in the Californian flora (Ackerly 2009). High psyllid species diversity is
+found in Mediterranean-type climatic zones around the world. The temporally compressed periods of psyllid devel-
+opment in these regions may be promoting both host specificity and speciation because of the need to synchronize
+with the host plant resource within a short period of time (e.g., plant growth flush), thus potentially promoting an
+increased likelihood of reproductive asynchronicity and isolation between psyllid species on different host species. This effect may be particularly important in promoting psyllid diversity in California, where short developmental
+periods may be even less likely to overlap given the diverse array of topologically complex microclimates. Another factor contributing to high psyllid diversity in Mediterranean-type climatic zones is the spatial distri-
+bution of host plants. Studies have shown that psyllids are able to better track the spatial and temporal availability
+of their host plants when dispersion within and among host plant populations is facilitated by a relatively high den-
+sity of host plant individuals (Hodkinson 2009), and there is likely a critical population density threshold of host
+individuals needed to sustain a host specific psyllid lineage through time (Percy er al. 2004). The combination of
+high plant species richness with relatively high localized density of individuals for a given host plant in Mediterra-
+nean-type zones may make these environments likely to promote species diversity in psyllids. In comparison,
+although tropical forests have higher overall plant species diversity, they are also characterized by greater spatial
+distance between individuals of a given plant species, creating a highly heterogeneous plant community. Con-
+versely, at the other end of the spectrum, in northern temperate and boreal regions, there is poor plant species rich-
+ness but host plant species are often widely distributed with very large effective population sizes. Californian and
+other Mediterranean, and similarly highly seasonal biomes may therefore present a favourable combination of
+environmental factors: relatively high plant species richness coupled with relatively high levels of homogeneous
+patchiness in the structure of plant populations, which together promote both psyllid species diversification and
+persistence of highly adapted and host specific psyllid lineages through time. There are 30 species that are considered introduced to California in this treatment. The pest psyllid species in
+California include both native North American species, for instance Bactericera cockerelli (Sulc), a major pest of
+tomatoes native to the USA that has been repeatedly introduced or invaded California from other states (Hansen et
+al. 2008); Pachypsylla celtidismamma (Fletcher), and P. celtidisvesiculum Riley, are minor pests of Celtis, native to
+eastern and central USA and considered introduced in California), as well as species introduced from Asia (e.g.,
+Cacopsylla fatsiae (Jensen), Diaphorina citri), Australia (e.g., Acizzia uncatoides (Ferris and Klyver), Glycaspis
+brimblecombei), Europe (e.g., Psyllopsis fraxinicola (Foerster), Trioza alacris Flor), and South America (e.g.,
+Calophya schini Tuthill, Platycorypha nigrivirga Burckhardt), which have continued to be associated with their
+original host plants after introduction into California. Many psyllid pest species are multivoltine (e.g., Bactericera
+cockerelli and Cacopsylla fatsiae) and may be broader in their dietary tolerance than native species. For instance,
+host preferences of introduced species may expand in regions of introduction relative to the host preference in the
+native range (e.g., the eugenia psyllid, Trioza eugeniae Froggatt, which in its native range feeds on Syzygium host
+species, has expanded its host range to include another introduced myrtaceous genus, Metrosideros, in California;
+the olive psyllid, Euphyllura olivina (Costa), is on Olea spp. in its native range, but alternate hosts in California
+may include Elaeagnus angustifolia, and Phillyrea latifolia; and Acizzia hakeae is recorded on Hakea (although the
+native host plant preferences are not well known), but in California it is recorded from Hakea and Grevillea, both
+Proteaceae). California faces a number of challenges with introduced psyllid species, some of which have been effectively
+controlled with biological control programs (e.g., Dahlsten et al. 1998). There are also a number of taxonomic
+complexities and interesting biogeographic patterns, as well as undescribed species diversity in the native Califor-
+nia fauna, which remain to be explored. Consequently, to emphasise these issues and to assist with the primary
+objective of better understanding the California psyllid fauna in light of the D. citri invasion, this checklist has been
+compiled to aid in directing and guiding research efforts in these areas. CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 5
+
+Checklist. Species are listed alphabetically with the current psyllid family assignment given in Table 1. Acizzia Heslop-Harrison
+
+acaciaebaileyana (Froggatt, 1901)
+
+Type locality: Australia. Additional distribution: Philipines, New Zealand; introduced in South Africa, Europe, and USA. Host plants: Acacia baileyana, A. dealbata, A. podalyriifolia, and Samanea saman in Philippines. Remarks: First recorded for California in 1987 (Gill 1987). Parasitoids: None specifically, but Psyllaephagus sp. are known from other Acizzia. hakeae (Tuthill, 1952)
+
+Type locality: New Zealand (introduced). Additional distribution: Presumably Australia (but as yet undocumented). Introduced in USA, California. Host plant: Hakea acicularis (in New Zealand), and possibly Hakea dactyloides (in Australia, see remarks below);
+in California recorded from Grevillea and Hakea spp., including Hakea suaveolens, Grevillea 'Noellii’, and G.
+banksii. Remarks: First recorded in California, in May 2000 (Gill 2000, 2001, 2002). Tuthill (1952) described this species,
+first collected in New Zealand, as “apparently introduced from Australia” and mentions that "Keith L. Taylor of the
+Division of Entomology [CSIRO], Australia, has taken a closely related species from Hakea dactyloides in New
+South Wales.” The Californian introduction may therefore have originated from either Australia or New Zealand. uncatoides (Ferris and Klyver, 1932)
+
+Type locality: New Zealand (but not native there). Additional distribution: Native in Australia; introduced in Chile, Colombia, Europe, Guadeloupe, Mexico, USA. Host plant: Acacia and Albizia species, (Jensen 1957b; Munro 1965; Burckhardt 1989). Remarks: First recorded in California in 1954 (Jensen 1957b; Beardsley et al. 1995). Predators: Diomus pumilio (Weise) (black lady beetle, Coleoptera: Coccinellidae), Anthocoris nemoralis
+(Fabricius) (pirate bug, Hemiptera: Anthocoridae) (Dreistadt et al. 2004). Six predaceous insect species have been
+introduced into California to control Acizzia uncatoides (Dreistadt & Hagen 1994). Amorphicola Heslop-Harrison
+amorphae (Mally, 1894)
+Type locality: USA, lowa. Additional distribution: USA, California, Florida, Nebraska. Host plant: Amorpha canescens, A. fruticosa. Parasitoids: Jensen (1957a) recorded this species in California, and published two associated encyrtid parasitoids,
+Cheiloneurus sp. and Psyllaephagus sp., but he noted that Cheiloneurus are primarily associated (as
+hyperparasitoids) with soft scales (Coccidae) and may be secondary Parasitoids of psyllids. Aphalara Foerster
+curta Caldwell, 1937
+Type locality: USA, Arizona, California, Colorado, lowa, Kansas, Nebraska, South Dakota, Utah, Wisconsin,
+Wyoming. Additional distribution: Canada, Alberta. Host plant: Unknown, possibly Polygonum sp. dentata Caldwell, 1937
+
+Type locality: USA, California, Wyoming. Additional distribution: Canada, Alberta. Host plant: Unknown. loca Caldwell, 1937
+
+Type locality: USA, Arizona, California, Colorado, Illinois, lowa, New Mexico, Oregon, Tennessee, Washington,
+Washington DC. Additional distribution: Canada, Alberta, Manitoba
+
+Host plant: Polygonum erectum. 6 + Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. maculata Caldwell, 1937
+Type locality: USA, California. Host plant: Unknown. rumicis Mally, 1894
+
+Type locality: USA, lowa. Additional distribution: USA, Arizona, California, Colorado, Illinois, Mississippi, Montana, Oregon, Texas,
+Washington, Wyoming; Canada, British Columbia, Nova Scotia. Host plant: Rumex altissimus. simila Caldwell, 1937
+
+Type locality: USA, California, Colorado, Idaho, Oregon, Utah, Washington, Wyoming. Additional distribution: Mexico. Host plant: Unknown. Aphalaroida Crawford
+californica Tuthill, 1939
+Type locality: USA, California. Host plant: Unknown. inermis Crawford, 1914
+
+Type locality: USA, Arizona, California, Texas. Additional distribution: Mexico. Host plant: Prosopis juliflora, P. glandulosa. pithecolobia Crawford, 1914
+
+Type locality: USA, Texas. Additional distribution: USA, Arizona, New Mexico. Host plant: Pithecellobium sp., and possibly Acacia greggii. Remarks: Hodkinson (199 1a) identified a number of specimens previously placed under A. acaciae Crawford
+(Hodkinson 1988) and A. spinifera Crawford under this species; A. pithecolobia is therefore now considered to be a
+widespread species in California. Parasitoids: Psyllaephagus sp. rauca Hodkinson, 1991
+
+Type locality: USA, California. Additional distribution: USA, Arizona, New Mexico; Mexico. Host plant: Prosopis juliflora, P. glandulosa. Arytaina Foerster
+genistae (Latreille, 1804)
+Type locality: Europe. Additional distribution: introduced in USA, California, Oregon, North Carolina, Massachusetts, Washington;
+Canada, Nova Scotia. Host plant: Cytisus scoparius. Remarks: First recorded in North America in the early 1900s, and first recorded in California in 1993 (Wheeler &
+Hoebeke 2004). Although an accidental introduction, the combination of this species together with another
+introduced psyllid, Arytainilla spartiophila, may help to control the host plant, which is considered a noxious
+weed. Arytainilla Loginova
+spartiophila (Foerster, 1848)
+Type locality: Europe. Additional distribution: Introduced in Australia, New Zealand, and North America; USA, California, Oregon,
+Virginia, Washington; Canada, British Columbia. Host plant: Cytisus scoparius. Remarks: Although deliberately introduced as a biocontrol agent for Cytisus scoparius in Australia and New
+Zealand, it is an accidental introduction in North America (Wheeler & Hoebeke 2004). Early collections in
+California are from the 1970s (CSCA); common name: broom psyllid. CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 7
+
+Bactericera Puton
+californica (Crawford, 1910)
+Type locality: USA, California. Additional distribution: USA, Arizona, Colorado. Host plant: Possibly Salix. cockerelli (Sule, 1909)
+
+Type locality: USA, Colorado. Additional distribution: USA, Arizona, California, Idaho, lowa, Kansas, Minnesota, Montana, Nebraska, New
+Mexico, Nevada, North Dakota, Oklahoma, South Dakota, Texas, Utah, Wyoming; Canada, Alberta, British
+Columbia, Saskatchewan; Mexico. Introduced in New Zealand. Host plant: Various species of Solanaceae including Capsicum, Lycium, and Solanum species. Remarks: A pest of potatoes, tomatoes, capsicum, and aubergine (Solanaceae) (Liu & Trumble 2004, 2007);
+sporadic but potentially devastating outbreaks are known in greenhouses and potato growing areas of Arizona,
+California, Colorado, New Mexico, Texas and since 2006, New Zealand (Teulon et al. 2009). Heavy nymph
+infestations cause symptoms knows as potato yellows, and this species is known to vector a Candidatus
+Liberibacter bacterium (Hansen er al. 2008). Recorded in California in the 1950s (Jensen 1954). Parasitoids: Metaphycus psyllidis Compere in California, and Tamarixia triozae (Burks) in Arizona. dubia (Tuthill, 1943)
+
+Type locality: USA, Arizona. Additional distribution: USA, California; Mexico; Guatemala. Host plant: Barkleyanthus salicifolius (=Senecio salignus). incerta (Tuthill, 1943)
+
+Type locality: USA, Alaska, California, Colorado, Oregon, Utah, Washington; Canada, British Columbia. Additional distribution: Utah. Host plant: Salix bebbiana. lavaterae (Van Duzee, 1924)
+Type locality: USA, California. Host plant: Lavatera assurgentiflora. lobata (Crawford, 1914)
+
+Type locality: USA, Arizona, California. Additional distribution: USA, Colorado, Nevada, New Mexico, Wyoming. Host plant: Lycium barbarum, L cooperi (Burckhardt & Lauterer 1997). maculipennis (Crawford, 1910)
+
+Type locality: USA, California. Additional distribution: USA, Utah. Host plant: Convolvulus sp. ; adults collected from Solanum xanti (CSCA). Parasitoids: Tamarixia sp. minuta (Crawford, 1910)
+
+Type locality: USA, lowa. Additional distribution: USA, widespread; Canada, Alberta; Mexico. Host plant: Salix spp., including S. lasiandra, S.lasiolepsis, S. exigua. Remarks: This species is part of a complex of Salix-feeding species (Burckhardt & Lauterer 1997). Parasitoids: Tamarixia triozae, and Metaphycus sp. salicivora (Reuter, 1876)
+
+Type locality: Europe. Additional distribution: Widespread holoarctic species; Asia; USA, Alaska, California, Colorado, Illinois, Nevada,
+New Mexico, Oregon, Utah, Washington; Canada, Alberta, British Columbia. Host plant: Salix spp., including S. lasiolepsis, S. exigua, S.laevigata, S. lasiandra, S. bebbiana. Remarks: This native species is sometimes considered a pest on ornamental willows in California where feeding by
+nymphs may cause blister-like depressions that disort the leaves (Burckhardt & Lauterer 1997). Parasitoids: Tamarixia sp. 8 + Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. varians (Crawford, 1910)
+
+Type locality: USA, Colorado. Additional distribution: USA, California, Utah; Canada, Alberta, British Columbia. Host plant: Salix spp., including probably Salix exigua. Blastopsylla Taylor
+occidentalis Taylor, 1985
+Type locality: Australia. Additional distribution: Introduced in Mexico, New Zealand, USA (Hodkinson 1991b; Halbert er al. 2001). Host plant: Eucalyptus spathulata, E. lehmannii, E. globulus, E. spathulata, E. sideroxylon, E. polyanthemos. Remarks: First recorded in California in 1983 (Gill 1985). Cacopsylla Ossiannilsson
+acuminata (Jensen, 1956)
+Type locality: USA, California. Host plant: Cercocarpus ledifolius. alba (Crawford, 1914)
+
+Type locality: USA, California, New Mexico, Nevada, Texas. Additional distribution: USA, Colorado, Idaho, Utah, Washington, Wisconsin, Wyoming; Canada, Alberta. Host plant: Salix exigua. americana (Crawford, 1914)
+
+Type locality: USA, California; (Canada, Alberta? see below). Additional distribution: USA, Colorado, Idaho, Oregon, Utah, Washington; Canada, Nova Scotia; Mexico. Host plant: Salix lasiolepis, S. lasiandra. Remarks: Tuthill (1943) considered the type specimens from California typical and the Alberta specimens as a
+separate species. Parasitoids: Prionomitus mitratus (Dalman). breviata (Patch, 1912)
+
+Type locality: Canada, Ontario. Additional distribution: USA, Alaska, California, Michigan, Nevada. Host plant: Salix sp. Parasitoids: Prionomitus sp. brevistigmata (Patch, 1912)
+
+Type locality: USA, California
+
+Additional distribution: USA, Arizona, Colorado, Nevada, New Mexico, Utah. Host plant: Cercocarpus betuloides, C. ledifolius. Parasitoids: possibly Pachyneuron sp. (as a hyperparasitoid)
+
+confusa (Tuthill, 1943)
+
+Type locality: USA. Arizona, Nevada, Utah. Additional distribution: USA, California. Host plant: Probably Salix sp. coryli (Patch, 1912)
+
+Type locality: USA, Colorado. Additional distribution: USA, Arizona, California, Colorado, Idaho, Nevada, Oregon, Utah, Washington; Canada,
+British Columbia. Host plant: Possibly Purshia tridentata. curta (Tuthill, 1943)
+
+Type locality: USA, California, Colorado. Additional distribution: USA, Oregon. Host plant: Salix eastwoodiae. CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 9
+
+difficilis (Tuthill, 1943)
+
+Type locality: USA, Idaho, Montana. Additional distribution: USA, California. Host plant: Cercocarpus ledifolius. dilonchi (Caldwell, 1938)
+
+Type locality: USA, Ohio. Additional distribution: USA, California, Minnesota, Nevada, Wisconsin; Canada, Alberta. Host plant: Corylus rostrata. fatsiae (Jensen, 1957)
+
+Type locality: USA, California (introduced). Additional distribution: native to Japan. Host plant: Fatsia japonica. Remarks: This introduced species appears to have already been well established in California when it was
+described in 1957 from the San Francisco Bay area (Jensen 1957c). hirsuta (Tuthill, 1938)
+
+Type locality: USA, Nevada, Oregon. Additional distribution: USA, California, Idaho, Montana, Washington. Host plant: possibly Purshia tridentata. insignita (Tuthill, 1943)
+Type locality: USA, California, Utah. Host plant: possibly Cercocarpus ledifolius. maculata (Crawford, 1914)
+
+Type locality: USA, Colorado. Additional distribution: USA, California, Utah. Host plant: Cercocarpus sp. Remarks: According to Tuthill (1943), Crawford's 1914 Californian specimen is a different species; this may also
+apply to the record by Papp and Johnson, 1979 (Hodkinson 1988). magna (Crawford, 1914)
+
+Type locality: USA, Nevada, Utah. Additional distribution: USA, California. Host plant: possibly Cercocarpus ledifolius. magnicauda (Crawford, 1914)
+
+Type locality: USA, Colorado, Wyoming. Additional distribution: USA, California, Minnesota, Montana, North Dakota; Canada, Alberta, British Columbia,
+Saskatchewan, Manitoba. Host plant: Elaeagnus commutata. media (Tuthill, 1943)
+
+Type locality: USA, Utah. Additional distribution: USA, California. Host plant: Cercocarpus ledifolius. Parasitoids: Prionomitus mitratus. minor (Crawford, 1914)
+
+Type locality: USA, Colorado
+
+Additional distribution: USA, Alaska, California, Oregon, Utah, Washington, Wyoming; Canada, Alberta, British
+Columbia. Host plant: Salix spp., including S. eastwoodiae, S. lasiolepis. Remarks: Some of Crawford's records from California may refer to curta (Tuthill 1943; Hodkinson 1988). minuta (Crawford, 1914)
+
+Type locality: USA, Arizona, California, Colorado, Nevada, Utah. Additional distribution: USA, Idaho. Host plant: Purshia tridentata. Parasitoids: Psyllaephagus sp. 10 - Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. nigranervosa (Jensen, 1956)
+
+Type locality: USA, California. Host plant: Possibly Cercocarpus; adults have been collected from Senna armata and Hoffmannseggia
+microphylla (these are CSCA host records that need confirmation). notapennis (Jensen, 1956)
+Type locality: USA, California. Host plant: Ribes sp. omani (Tuthill, 1943)
+Type locality: USA, California. Host plant: Unknown. parallela (Crawford, 1914)
+
+Type locality: USA, California. Additional distribution: Records for Washington and British Columbia recorded by Klyver are possibly incorrect
+(Tuthill 1943; Hodkinson 1988). Host plant: Salix sp. pararibesiae (Jensen, 1956)
+
+Type locality: USA, California. Additional distribution: USA, Nevada, Utah, Washington. Host plant: Ribes sp. pyricola (Foerster, 1848)
+
+Type locality: Europe. Additional distribution: West Palaearctic to E. Siberia, S. Korea and Japan; introduced in Argentina, Canada, USA. Host plant: Pyrus communis; CSCA records for California include nymphs and adults collected from Pyrus
+calleryana. Remarks: This species and several closely related taxa are responsible for considerable economic losses in fruit
+production via the vectoring of phytoplasmas. Parasitoids: Several encyrtid primary parasitoids and hyperparasitoids have been recorded from related psyllids
+(C. pyri and C. pyrisuga) feeding on pear in Europe (Sullivan & Volkl 1999) (including, Prionomitus,
+Psyllaephagus, Sectiliclava, Syrphophagus, Trechnites (all as primary), and Pachyneuron (as secondary)). ribesiae (Crawford, 1911)
+
+Type locality: USA, Colorado. Additional distribution: USA, Arizona, California, Idaho, Kansas, Nebraska, Nevada, New Mexico, Oregon, South
+Dakota, Utah, Wyoming. Host plant: Ribes longiflorum, R. aureum. Remarks: Klyver listed Ceanothus thyrsiflorus as a host, but this is incorrect according to Jensen (1956). spiculata (Jensen, 1951)
+
+Type locality: USA, California. Additional distribution: Utah. Host plant: Salix sp. striata (Patch, 1911)
+
+Type locality: USA, Maine. Additional distribution: Widespread in USA and Canada. Host plant: Betula spp., including B. occidentalis. tenuata (Jensen, 1951)
+
+Type locality: USA, California. Host plant: Salix laevigata. Parasitoids: Prionomitus mitratus. tobirae (Miyatake, 1964)
+
+Host plant: Pittosporum tobira. Remarks: The transfer of this species to Edentatipsylla by Chen et al. (2008) is considered artificial (Daniel
+
+CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 11
+
+Burckhardt pers. comm.). First recorded in California in 2007 (Gill & Watson 2007b). The host is native to Asia
+(Taiwan, Japan, Korea), and the psyllid was likely introduced with nursery stock. yosemitensis (Jensen, 1951)
+
+Type locality: USA, California. Additional distribution: USA, Nevada. Host plant: Unknown, possibly Salix. Calinda Blanchard
+collaris (Crawford, 1910)
+Type locality: USA, California. Additional distribution: USA, Arizona, Texas; Mexico. Host plant: Baccharis salicifolia, B. pilularis (CSCA), B. douglasii (CSCA). fumipennis Olivares & Burckhardt, 1997
+Type locality: USA, California. Host plant: Baccharis sp. (Olivares & Burckhardt 1997). longistylus (Crawford, 1910)
+
+Type locality: USA, Colorado. Additional distribution: USA, Arizona, California, Nevada, New Mexico, Texas. Host plant: Baccharis salicina, B. salicifolia (Olivares & Burckhardt 1997). Calophya Liw
+californica Schwarz, 1904: 242
+Type locality: USA, California. Additional distribution: USA, Arizona. Host plant: Rhus integrifolia, R. ovata. Parasitoids: Tamarixia triozae; a common eulophid parasitizing a wide diversity of psyllids in several families. Although approved as a biocontrol agent in some areas for the tomato/potato psyllid (Bactericera cockerelli), this
+parasitoid also attacks many other native species. dubia Crawford, 1914
+
+Type locality: USA, Colorado. Additional distribution: USA, California, Montana, Utah. Host plant: Rhus trilobata. Remarks: previously unpublished EMEC specimens were identified from California by D.D. Jensen. nigrella Jensen, 1957
+
+Type locality: USA, California. Host plant: Rhus trilobata. Parasitoids: Tamarixia (Tetrastichus) triozae. oweni Tuthill, 1939
+
+Type locality: USA, Colorado. Additional distribution: USA, California. Host plant: Unknown; adults collected from Phoradendron juniperinum. Remarks: previously unpublished EMEC specimens were identified from California by D.D. Jensen. schini Tuthill 1959
+
+Type locality: Peru. Additional distribution: Bolivia; introduced in Argentina, Chile, New Zealand, USA, California. Host plant: Schinus molle. Remarks: First recorded in California in 1984 (Gill 1984); common name: peppertree psyllid (Downer et al. 1988;
+Burckhardt 1988; Burckhardt & Bassett 2000). ParasitoidsParasitoids: In 1987, a biological control program was initiated in California with the release of a
+eulophid parasitoid, Tamarixia schina Zuparko, native to Chile, which may provide satisfactory control (Paine &
+Dreistadt 2007; Zuparko et al. 2011), but the effectiveness of this natural enemy to control the peppertree psyllid
+may be limited by high seasonal variation in psyllid populations (Hagan & Tassan 1996). 12 + Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. triozomima Schwarz, 1904
+
+Type locality: USA, Arizona
+
+Additional distribution: USA, California, Colorado, Idaho, Utah. Host plant: Rhus trilobata. Parasitoids: Tamarixia triozae. Ceanothia Heslop-Harrison
+aculeata (Crawford, 1914)
+Type locality: USA, California. Host plant: Cercocarpus betuloides. ParasitoidsParasitoids: Psyllaephagus sp. assimilis (Crawford, 1914)
+Type locality: USA, California. Host plant: Ceanothus crassifolius, and probably C. cuneatus. bicolor (Jensen, 1957)
+
+Type locality: USA, California. Host plant: Ceanothus cuneatus. Parasitoids: Prionomitus sp., Tamarixia sp. boharti (Jensen, 1957)
+Type locality: USA, California. Host plant: Ceanothus cuneatus. ceanothi (Crawford, 1914)
+
+Type locality: USA, California. Additional distribution: USA, Montana, Utah, Washington. Host plant: Ceanothus crassifolius, C. rigidus, C. cuneatus, C. thyrsiflorus, C. velutinus. Parasitoids: Prionomitus mitratus, Tamarixia triozae, Psyllaephagus sp., and Pachyneuron sp. (as a
+hyperparasitoid). essigi (Jensen, 1957)
+
+Type locality: USA, California. Host plant: Ceanothus tomentosus, C. oliganthus, C. papillosus, and C. crassifolius. Parasitoids: Prionomitus mitratus. insolita (Tuthill, 1943)
+
+Type locality: USA, California, Utah. Host plant: Ceanothus velutinus. Parasitoids: Prionomitus mitratus. mitella (Jensen, 1957)
+Type locality: USA, California. Host plant: Ceanothus oliganthus, C. tomentosus. tardiuscula (Bliven, 1958)
+Type locality: USA. California. Host plant: Ceanothus sp. Craspedolepta Enderlein
+angustipennis (Crawford, 1911)
+Type locality: USA, Colorado. Additional distribution: Widespread in USA and Canada. Host plant: Artemisia californica (CSCA specimens). Journet and Vickery (1979) give Achillea millefolium; earlier
+papers list Artemisia californica, A. tridentata, A. ludoviciana, and Solidago sp. (Hodkinson 1988). anomala (Crawford, 1914)
+Type locality: USA, California. CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 13
+
+Additional distribution: USA, New Mexico, Oregon, Washington
+Host plant: Artemisia tridentata, and probably A. vulgaris. caudata (Crawford, 1914)
+
+Type locality: USA, California. Additional distribution: USA, Arizona, New Mexico; Mexico. Host plant: Unknown. fumida (Caldwell, 1938)
+
+Type locality: USA, Maine, Ohio, Pennsylvania. Additional distribution: Widespread in USA and Canada. Host plant: probably Solidago canadensis. furcata (Caldwell, 1936)
+
+Type locality: USA, Pennsylvania, Virginia; Canada, Ontario. Additional distribution: Widespread in USA and Canada. Host plant: Solidago graminifolia, S. canadensis. gutierreziae (Klyver, 1931)
+
+Type locality: USA, Nevada. Additional distribution: USA, California, New Mexico, Utah; possibly Canada, Alberta
+Host plant: Gutierrezia sarothrae. macula Journet & Vickery, 1979
+
+Type locality: USA, California, Pennsylvania. Additional distribution: Kansas, Maryland, Utah, Virginia. Host plant: Uncertain, may be one of Artemisia dracunculus, Erigeron canadensis or Echinacea angustifolia
+(Hodkinson 1988). maculidracunculi Journet & Vickery, 1979
+Type locality: USA, California. Host plant: Artemisia dracunculus. Parasitoids: Probably Psyllaephagus sp. martini (Van Duzee, 1924)
+Type locality: USA, California. Host plant: Frankenia salina. minutissima (Crawford, 1911)
+
+Type locality: USA, Nevada. Additional distribution: USA, California, Idaho, Oregon, Utah; Canada, British Columbia. Host plant: Artemisia californica, A. tridentata. nebulosa (Zetterstedt, 1840)
+
+Type locality: Europe. Additional distribution: Throughout the Palaearctic region. USA, Alaska, California, Colorado, New Hampshire,
+Washington; Canada, Alberta, British Columbia, Manitoba, Northwest Territories, Ontario, Quebec, Yukon. Host plant: Chamerion angustifolium. numerica (Caldwell, 1941)
+
+Type locality: Mexico. Additional distribution: USA, California, Colorado, Florida, Kansas, New Mexico. Host plant: Echinacea angustifolia. nupera (Van Duzee, 1923)
+
+Type locality: Mexico. Additional distribution: USA, California. Host plant: Unknown. pinicola (Crawford, 1914)
+Type locality: USA, California. 14 - Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. Additional distribution: USA, Idaho, Oregon, Utah. Host plant: Probably Artemisia tridentata. pulchella (Crawford, 1911)
+
+Type locality: USA, California. Additional distribution: USA, Nevada, New Mexico, Texas, Utah. Host plant: Salsola kali, and possibly Chilopsis linearis. russellae Klimaszewski, 1977
+
+Type locality: USA, Wyoming. Additional distribution: USA, California, Colorado, Idaho, Oregon, Utah, Washington. Host plant: Chrysothamnus nauseosus, and probably Artemisia tridentata. suaedae (Crawford, 1914)
+
+Type locality: USA, California, New Mexico. Additional distribution: USA, Arizona, Nevada, Texas, Utah. Host plant: Suaeda moquinii. Parasitoids: Psyllaephagus sp. vancouverensis (Klyver, 1931)
+
+Type locality: Canada, British Columbia. Neotype designated by Journet and Vickery (1979) is from USA,
+Washington. Additional distribution: USA, Arizona, California, Colorado, Idaho, Montana, New Mexico, North Dakota,
+Oregon, Utah; Canada, Alberta. Host plant: Possibly Artemisia tridentata. veaziei (Patch, 1911)
+
+Type locality: USA, Maine. Additional distribution: Widespread in USA and Canada; Mexico. Host plant: Solidago nemoralis, S. graminifolia, S. canadensis. Remarks: This is probably a species complex (Journet & Vickery 1979). viridis (Crawford, 1914)
+
+Type locality: USA, Arizona. Additional distribution: USA, California. Host plant: Frankenia salina. vulgaris Journet & Vickery, 1979
+
+Type locality: USA, Michigan, Wyoming; Canada, Quebec, Ontario. Additional distribution: Widespread in USA and Canada. Host plant: Solidago canadensis, S. rugosa, S. graminifolia. Cryptoneossa Taylor
+triangula Taylor, 1990
+Type locality: Australia. Additional distribution: Introduced in New Zealand, USA. Host plant: Eucalyptus citriodora, E. maculata. Remarks: A minor pest on lemon-scented gum (E citriodora) and spotted gum (E. maculata) in California, and
+high summer temperatures appear to limit psyllid numbers (Paine & Dreistadt 2007). First recorded in California in
+1995 (Gill 1995); common name: lemon gum psyllid. Ctenarytaina Ferris & Klyver
+eucalypti (Maskell, 1890)
+Type locality: Australia. Additional distribution: Introduced in Europe, New Zealand, South America, USA. Host plant: At least nine Eucalyptus spp. (Burckhardt 1998), including E. pulverulenta, E. globulus in California. Remarks: First recorded in California in the 1990s (Gill 1991, 1992); common name: blue gum psyllid. This
+species can have four or more generations per year. Parasitoids: Psyllaephagus pilosus Noyes; this introduced parasitoid is a highly effective classical biological
+control agent. Insecticide use for this pest was eliminated by 1994 as the parasitoids spread throughout California
+(Dahlsten et al. 1998). CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 15
+
+longicauda Taylor, 1987
+
+Type locality: Australia. Additional distribution: Introduced in USA. Host plant: Lophostemon confertus. Remarks: First recorded in California in 1983, with eggs, nymphs and adults collected from the host (Gill 1984;
+Taylor 1987). spatulata Taylor, 1997
+
+Type locality: Australia. Additional distribution: Introduced in Europe, New Zealand, South America, USA. Host plant: Several different Eucalyptus spp., including E. camaldulensis, E. globulus, E. grandis, E. parvifolia, E.
+viminalis. Remarks: First recorded in California in 1991 (Taylor 1997; Brennan et al. 2001b). Parasitoids: Recently reared parasitoids from this species (CSCA) appear to be Psyllaephagus sp., and may be P.
+pilosus, which was introduced to contro Ctenarytaina eucalypti. Diaphorina Low
+citri (Kuwayama, 1908)
+Type locality: Taiwan. Additional distribution: Broadly distributed in Asia and India. Introduced in Arabian Peninsula, South and Central
+America, and USA. Host plant: Several Citrus spp., Bergera (Murraya) koenigii, Murraya exotica. Remarks: Studied as a citrus pest since the 1920s in its native range in India and Pakistan (Husain & Nath 1927;
+Atwal 1962; Atwal et al. 1970). First detected in USA (Florida) in 1998 (Halbert & Manjunath 2004), and detected
+in southern California in 2008; common name: Asian citrus psyllid (ACP). This species transmits Candidatus
+Liberibacter spp., a bacterium responsible for citrus greening (Huanglongbing) disease that may result in
+considerable economic damage to citrus industries. Parasitoids: Tamarixia radiata, and Diaphorencyrtus aligarhensis (Shafee, Alam & Agarwal). The eulophid
+parasitoid, T. radiata, controls the Asian citrus psyllid (ACP) effectively in India (Atwal 1962), and it is considered
+a superior biological control to the encyrtid parasitoid, D. aligarhensis, in Florida where both have been tested for
+the control of ACP. T. radiata exhibits high parasitization rates and rapid establishment in new areas (Aubert 1987;
+Skelly & Hoy 2004) and has now been introduced to many parts of the world (Halbert & Manjunath 2004; Halbert
+& Nujiez 2004; Wenninger & Hall 2007). Diclidophlebia Crawford
+fremontiae (Klyver, 1930)
+Type locality: USA, California. Host plant: Fremontodendron californicum. Nymphs also collected from cultivated Chiranthodendron
+pentadactylon (CSCA). Remarks: The subfamily Paurocephalinae is predominantly pantropical with Diclidophlebia the only genus
+represented in the New World (Burckhardt & Mifsud 2003). Eucalyptolyma Froggatt
+maideni Froggatt, 1901
+Type locality: Australia. Additional distribution: Introduced in New Zealand, USA. Host plant: Eucalyptus citriodora, E. maculata. Remarks: First recorded in California in 2000 (Gill 2000). This psyllid has three generations per year in its native
+Australian range. Populations in California tend to reach peak levels in spring and fall, but high summer
+temperatures appear to limit psyllid numbers for this species (Paine & Dreistadt 2007); common name: spotted
+gum lerp psyllid. Euglyptoneura Heslop-Harrison
+fuscipennis (Crawford, 1914)
+Type locality: USA, California, Colorado, Nevada; Canada, British Columbia. Additional distribution: USA, Oregon, Utah. Host plant: Ceanothus sanguineus, C. papillosus, C. velutinus. 16 - Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. minuta (Crawford, 1914)
+
+Type locality: USA, California. Additional distribution: USA, Utah. Host plant: Ceanothus cuneatus, C. rigidus. Parasitoids: Prionomitus mitratus, Tamarixia triozae. robusta (Crawford, 1914)
+
+Type locality: USA, Arizona, California, Colorado, Washington. Additional distribution: Idaho, Montana, Oregon, South Dakota, Utah, Wyoming; Canada, British Columbia. Host plant: Ceanothus fendleri, C. cordulatus, C. velutinus, C. integerrimus. Parasitoids: Prionomitus mitratus and Psyllaephagus sp. Euphyllura Foerster
+olivina (Costa, 1839)
+Type locality: Europe. Additional distribution: Western Mediterranean, including North Africa. Introduced in USA. Host plant: Olea spp., but alternate hosts in California may include Elaeagnus angustifolia, and Phillyrea latifolia
+(UC Riverside, CISR). Remarks: This species is a pest of olive trees in its native range in the Mediterranean and North Africa, and was
+first recorded in California in 2007 (Gill & Watson 2007). The olive psyllid aestivates during the hottest summer
+months resuming feeding activity after the first autumn rains. There are usually three generations per year; the
+second generation, around May, is associated with the flowering shoots and flower buds and may cause many
+flowers to abort. Large populations may retard growth of young trees. (Hodkinson 1986; Burckhardt 1989;
+Ksantini er al. 2002); common name: olive psyllid. Parasitoids and Predators: Apocharips eleaphila (Silvestri), probably as a hyperparasitoid, and Psyllaephagus
+euphyllurae (Masi). These cynipoid and encyrtid parasitoids were recorded parasitizing olive psyllid in Europe in
+1951 and 1911. Other potential predators of E. olivina are Chrysoperla rufilabris (Burmeister) (lacewing,
+Neuroptera) and Cryptolaemus montrouzieri Mulsant (coccinellid beetle, Coleoptera) (UC Riverside, CISR). Freysuila Aleman
+dugesii Aleman, 1887
+Type locality: Mexico. Additional distribution: USA, California. Host plant: Haematoxylum campechianum (Burckhardt & Wyniger 2007), and Caesalpinia cacalaco in California
+(Gill 1997). Remarks: First recorded in California in 1997 (Gill 1997). phorodendri (Tuthill, 1939)
+Type locality: USA, Arizona, California. Host plant: Adults taken from Phoradendron tomentosum (Burckhardt & Wyniger 2007). Glycaspis Taylor
+brimblecombei Moore, 1964
+Type locality: Australia. Additional distribution: Introduced in Europe, South America, and USA (Valente & Hodkinson 2009). Host plant: Several Eucalyptus spp., including E. camaldulensis, E. globulus, E. nitens, E. blakelyi, E. brassiana,
+E. bridgesiana, E. camphora, E. dealbata, E. diversicolor, E. sideroxylon, E. nicholii, E. lehmannii, E. rudis, E.
+tereticornis, E. mannifera, E. maculosa. Remarks: First recorded in California in June 1998 (Gill 1998). This pest is a major threat to susceptible
+Eucalyptus species (in particular E. camaldulensis, E. rudis, E. tereticornis which can experience heavy
+defoliation) that are grown in urban landscapes, as wind shelters, or as commercial forest species (Brennan et al. 1999; Brennan et al. 2001a); common name: red gum lerp psyllid. Parasitoids and Predators: Psyllaephagus bliteus Riek (Daane et al. 2005; Dahlsten et al. 2005) released in
+California as a biocontrol in 2000. Laboratory studies have demonstrated that P. bliteus can lay eggs in psyllid
+nymphs of any age, but female parasitoids prefer third and fourth instars (UC Riverside, CISR; UC Berkeley,
+CBC). In some cases, generalist predators (e.g., Anthocoris nemoralis, Hemiptera: Anthocoridae) may interfere
+with the effectiveness of P. bliteus to control psyllid populations (Erbilgin et al. 2004). At least four coccinellid
+beetles (Coleoptera) and lacewings (Neuroptera) have been recorded feeding on this psyllid (Erbilgin et al. 2004). CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 17
+
+Heteropsylla Crawford
+cubana Crawford, 1914
+Type locality: Cuba. Additional distribution: Native to Central America, this species has been introduced into many parts of the world
+and is a now widespread throughout the tropics. Introduced in USA, California, Florida, Hawaii. Host plant: Leucaena glauca, L. leucocephala, and other Leucaena species. Remarks: First recorded in California in 1986 (Gill 1986, 1992). flexuosa Muddiman, Hodkinson & Hollis, 1992
+
+Type locality: Mexico. Additional distribution: Costa Rica, El Salvador; considered introduced in USA, Arizona, California. Host plant: Acacia farnesiana, Acacia sp. (CSCA specimens). Remarks: First recorded for California 1996 (Gill 1997). In California, Acacia farnesiana is introduced but has
+naturalized. texana Crawford, 1914
+
+Type locality: USA, Texas. Additional distribution: USA, Arizona, California, Colorado, Kansas, Nevada, New Mexico, Utah; Mexico;
+Nicaragua; Peru. Host plant: Prosopis juliflora, P. chilensis and P. glandulosa. Also recorded less reliably from Pithecellobium sp.,
+Sphaeralcea angustifolia, Monarda citriodora, and Chrysopsis sp. Remarks: Jensen (1945) suggested that Prosopis chilensis may be the primary host species. Homotoma Guérin-Méneville
+ficus (Linnaeus, 1758)
+Type locality: Europe. Additional distribution: Warmer regions of western Palaearctic; introduced in USA. Host plant: Ficus carica. Remarks: First recorded in California in 1970s (CSCA). Kuwayama Crawford
+medicaginis (Crawford, 1910)
+Type locality: USA, Colorado. Additional distribution: USA, Arizona, California, New Mexico, Texas; Mexico. Host plant: Unknown, possibly Medicago sativa. Livia Latreille
+caricis (Crawford, 1914)
+Type locality: USA, California, Colorado, Illinois, Maine, New Mexico, Oregon, Pennsylvania, Utah, Virginia;
+Canada, British Columbia. Additional distribution: USA, Idaho. Host plant: Carex sp. Remarks: Hodkinson and Bird (2000) note that some Californian specimens show some unique morphological
+variation. Parasitoids: A related Livia species in Europe is parasitized by an itonid gall midge (Lestodiplosis liviae
+Riibsaamen). lobata Hodkinson & Bird, 2000
+Type locality: USA, California. Host plant: Unknown. vernaliforma Caldwell, 1940
+
+Type locality: USA, North Dakota. Additional distribution: USA, California, Montana, Nevada, Utah, Wyoming. Host plant: Unknown. 18 - Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. Neophyllura Loginova
+arbuti (Schwarz, 1904)
+Type locality: USA, California. Additional distribution: USA, Oregon; Canada, British Columbia. Host plant: Arbutus menziesii. Parasitoids: Psyllaephagus arbuticola Gahan & Waterston, Pachyneuron validum Waterston as a hyperparasitoid,
+and Apocharips sp., probably as a hyperparasitoid. arctostaphyli Schwarz, 1904
+
+Type locality: USA, California. Additional distribution: USA, Arizona, Colorado, Montana, Nevada, New Mexico, Oregon, Utah, Washington,
+Wyoming; Canada, British Columbia, Manitoba. Host plant: Arctostaphylos pungens, A. tomentosa, A. patula, A. hookeri, A. glauca, A. canescens, A. viscida. bicolor (Martin, 1931)
+Type locality: USA, California. Host plant: Arctostaphylos glauca, A. manzanita, A. patula, A. glandulosa. niveipennis (Schwarz, 1904)
+Type locality: USA, California. Host plant: Arctostaphylos viscida. pruinosa (Martin, 1931)
+Type locality: USA, California. Host plant: Arctostaphylos pungens, A. glauca, A. tomentosa
+
+sculptoconus Crawford, 1914
+Type locality: USA, California. Host plant: Unknown. Nyctiphalerus Bliven
+Hollis and Martin (1997) in their review of the genus Euphalerus Schwarz pointed out that the group of North
+American species placed in Euphalerus sensu lato and associated with Ceanothus and Cerocarpus host plants was
+not congeneric with the type species Euphalerus nidifex Schwarz; and Hodkinson (1988) commented on the
+absence of characters to differentiate Nyctiphalerus lynceus Bliven from this group. The E. nidifex group is
+considered to be in the Euphalerinae and the species here transferred to Nyctiphalerus are in the Arytaininae (Hollis
+& Martin 1997; Daniel Burckhardt pers. comm.). From examination of the type material (CAL) we can confirm
+that Bliven’s original designation of Nyctiphalerus as a monotypic genus was superficial, and he may not have
+examined other congeneric taxa (even within California). In addition, some doubt surrounds the validation of
+Bliven’s names as he published them privately with limited distribution. Since the genus name has subsequently
+been used in publications, we are taking advantage of the availability of this genus to transfer, from Euphalerus to
+Nyctiphalerus, all of the North American species that are clearly congeneric with N. Lynceus, including two species
+not present in California, Nyctiphalerus dubius (Caldwell) comb.n. and Nyctiphalerus idahoensis (Jensen)
+comb.n. adustus (Tuthill, 1937) comb.n. Euphalerus adustus Tuthill, 1937: 70
+Type locality: USA, Colorado, Utah. Additional distribution: USA, California. Host plant: Cercocarpus ledifolius. cercocarpi (Jensen, 1957) comb.n. Euphalerus cercocarpi Jensen, 1957: 26
+Type locality: USA, California. Host plant: Cercocarpus ledifolius. jugonervosus (Tuthill, 1937) comb.n. Euphalerus jugonervosus Tuthill, 1937: 74
+Type locality: USA, California. Host plant: Unknown. CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 19
+
+Lynceus Bliven, 1955
+
+Type locality: USA, California
+
+Host plant: Unknown. Remarks: Bliven (1955) described this species in a monotypic genus, but it clearly belongs
+with other North American species previously in Euphalerus feeding on Ceanothus and Cercocarpus; both D.D. Jensen (in collection annotations, EMEC) and Hodkinson (1988) suggested Nyctiphalerus should be synonomized
+with this group. Bliven’s specimens examined (CAL) of this species look close to Euphalerus vermiculosus. Bliven
+collected specimens from Sequoia sempervirens, but this is unlikely to be the host. nepos (Bliven, 1956) comb.n. Euphalerus nepos Bliven, 1956: 21
+Type locality: USA, California. Host plant: Ceanothus sp. propinquus (Crawford, 1914) comb.n. Euphalerus propinquus Crawford, 1914: 122
+
+Type locality: USA, Arizona. Additional distribution: USA, California. Host plant: Ceanothus sp., and possibly Amorpha fruticosa. Remarks: previously unpublished EMEC specimens were identified from California by D.D. Jensen. rugipennis (Crawford, 1914) comb.n. Euphalerus rugipennis Crawford, 1914: 120
+Type locality: USA, Arizona, California. Additional distribution: USA, Oregon, Utah. Host plant: Ceanothus cuneatus, C. rigidus. tantillus (Tuthill, 1937) comb.n. Euphalerus tantillus Tuthill, 1937: 71
+
+Type locality: USA, Utah. Additional distribution: USA, California. Host plant: Unknown. Remarks: previously unpublished EMEC specimens were identified from California by D.D. Jensen. vermiculosus (Crawford, 1914) comb.n. Euphalerus vermiculosus Crawford, 1914: 121
+
+Type locality: USA, California. Additional distribution: USA, Idaho, Montana, Oregon, Utah. Host plants: Ceanothus cordulatus, C. velutinus, C. leucodermis, C. integerrimus. Parasitoids: Tamarixia triozae. Pachypsylla Riley
+celtidismamma (Fletcher, 1883)
+Type locality: USA, lowa. Additional distribution: USA, widely distributed in eastern and central North America; considered introduced in
+California. Host plant: Celtis occidentalis, C. laevigata. Remarks: First recorded in California in 1989 (Gill 1989); common name: hackberry nipple gall psyllid. Parasitoids: Both Torymus sp, as a possible hyperparasitoid, and Eurytoma sp., have been reared from Pachypsylla
+sp. celtidisvesiculum Riley, 1884
+
+Type locality: USA. Additional distribution: USA, widely distributed in eastern and central North America; considered introduced in
+California. Host plant: Celtis laevigata. Remarks: First recorded in California in 1960 (Gill 1989); common name: hackberry blister gall psyllid. 20 - Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. Pexopsylla Jensen
+cercocarpi Jensen, 1957
+Type locality: USA, California
+Host plant: Cercocarpus betuloides, C. ledifolius. Parasitoids: Prionomitus mitratus, Psyllaephagus sp., and Tamarixia riozae. Phylloplecta Riley
+Phylloplecta Riley, 1884. Type species Phylloplecta tripunctata (Fitch, 1851)
+Choricymoza Bliven, 1955. Type species Choricymoza sequoiae Bliven, 1955 syn.n. Burckhardt and Lauterer (1997) suggested a congeneric status for Choricymoza and Phylloplecta based on the
+close similarity of Choricymoza sequoiae to Phylloplecta rubicola (Tuthill, 1943) according to Bliven’s original
+descriptions of the former. From examination of the type material (CAL) we can confirm the superficial
+designation of this species as a monotypic genus, and as with Nyctiphalerus above, it seems that Bliven may not
+have examined related Californian species. occidentalis (Tuthill, 1939)
+
+Type locality: USA, California; Canada, British Columbia. Additional distribution: USA, Washington. Host plant: Rubus parviflorus (Hodkinson 1988; Burckhardt & Lauterer 1997). sequoiae (Bliven, 1955) comb.n. Choricymoza sequoiae Bliven, 1955: 12
+
+Type locality: USA, California. Host plant: Likely to be Rubus sp. Remarks: Remarks: Burckhardt and Lauterer (1997) posited that this species may be conspecific with Phylloplecta
+rubicola (recorded from Washington). Further examination and comparison of the type specimens is needed to
+confirm this. There is also a close resemblance to P. occidentalis. Platycorypha Tuthill
+nigrivirga Burckhardt, 1987
+Type locality: Argentina. Additional distribution: Bolivia, Brazil, Uruguay. Introduced in Europe, USA, California
+Host plant: Tipuana tipu. Remarks: First detected in southern California in October 2008 (Rung et al. 2009), this psyllid is a pest of the
+ornamental legume, Tipu, or rosewood tree; common name: Tipu psyllid. Predators: Brazilian populations are partly controlled by coccinellid beetles (Coleoptera: Coccinellidae). Psylla Geoffroy
+alni (Linnaeus, 1758)
+Type locality: Europe. Additional distribution: Widely distributed across the Palaearctic region. USA, Arizona, California, Idaho,
+Nevada, Oregon, Washington; Canada, Alberta, British Columbia; Greenland. Host plant: Alnus rhombifolia. buxi (Linnaeus, 1758)
+
+Type locality: Europe. Additional distribution: Widely distributed throughout the western Palaearctic; introduced in USA. Host plant: Buxus sempervirens. floccosa Patch, 1909
+
+Type locality: USA, Maine. Additional distribution: Widespread in USA and Canada. Host plant: Alnus incana, A. tenuifolia. Parasitoids: Prionomitus sp. ; and unidentified, possibly Pachyneuron sp. (as a hyperparasitoid)
+
+trimaculata Crawford, 1911
+
+Type locality: USA, New York. Additional distribution: USA, California, Colorado, Connecticut, Florida, Maine, Michigan, Minnesota, New
+
+CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 21
+
+Hampshire, New York, Washington, Wisconsin; Canada, Alberta, British Columbia, Manitoba, Nova Scotia. Host plant: Prunus cerasus, P. emarginata, P. virginiana. Psyllopsis Low
+fraxinicola (Foerster, 1848)
+Type locality: Europe. Additional distribution: W. Palaearctic region; introduced in Australia, New Zealand, South America, USA. Host plant: Fraxinus excelsior, F. dipetala. Purshivora Heslop-Harrison
+chelifera (Crawford, 1914)
+Type locality: USA, Arizona, Utah. Additional distribution: USA, California. Host plant: Purshia tridentata. Remarks: previously unpublished EMEC specimens were identified from California by D.D. Jensen. pubescens (Crawford, 1914)
+
+Type locality: USA, California, Colorado, Nevada. Additional distribution: USA, Idaho, Oregon, Utah; Canada, British Columbia. Host plant: Purshia tridentata. Trioza Foerster
+alacris Flor, 1861
+Type locality: Europe. Additional distribution: Native to West Palaearctic region. Introduced in USA; Argentina; Brazil; Chile. Host plant: Laurus nobilis. Remarks: First recorded in California in 1911 (Crawford 1914); common name: bay sucker, or laurel psyllid. albifrons Crawford, 1910
+
+Type locality: USA, California. Additional distribution: USA, Alaska, Arizona, Colorado, Idaho, Minnesota, Montana, New Mexico, Oregon,
+Utah, Washington; Canada, Alberta, British Columbia; Mexico. Host plant: Urtica dioica. Parasitoids: Tamarixia triozae. astraea Bliven, 1960
+Type locality: USA, California. Host plant: Possibly Rubus parviflorus. bakeri Crawford, 1910
+
+Type locality: USA, California. Additional distribution: USA, Colorado, Nevada. Host plant: Rhamnus smithii, R. crocea. Parasitoids: Psyllaephagus sp., Tamarixia sp. beameri Tuthill, 1939
+
+Type locality: USA, California. Host plant: Frangula (=Rhamnus) californica. Parasitoids: Prionomitus mitratus, Psyllaephagus pachypsyllae (Howard), and Tamarixia triozae. breviantennata Crawford, 1914
+Type locality: USA, California. Host plant: Unknown, possibly Ceanothus sp. (CSCA). chenopodii Reuter, 1876
+
+Type locality: Europe. Additional distribution: Widespread Palaearctic distribution from Europe, North Africa, Middle East to Asia. 22 - Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. Introduced in USA, California, Chile. Host plant: Chenopodium spp., Atriplex spp. CSCA specimens are from a native Californian plant species, Atriplex
+lentiformis. eugeniae Froggatt, 1901
+
+Type locality: Australia. Additional distribution: Introduced in USA. Host plant: Syzygium paniculatum, Syzygium smithii, and Metrosideros excelsus in California. Remarks: First recorded in California in May 1988. Psyllid damage can severely disfigure trees, which are
+commonly used in ornamental plantings. In cooler areas of the California coast, such as the city of San Francisco,
+the parasitoid populations do not increase quickly enough to respond to sudden increases in psyllid numbers
+(Dahlsten et al. 1995, 2000). This psyllid is sensitive to both frost and heat, and temperatures above 90°F are
+known to inhibit population growth; common name: lillypilly psyllid, or eugenia psyllid. Parasitoids: Tamarixia dahlsteni Zuparko. Some native natural enemies have been noted on the eugenia psyllid in
+California, but their effects on psyllid populations have been negligible (UC Berkeley, CBC). frontalis Crawford, 1910
+
+Type locality: USA, Colorado. Additional distribution: USA, California, Minnesota, Nevada, North Dakota, South Dakota; Canada, Alberta,
+British Columbia, Manitoba. Host plant: Amelanchier alnifolia. loletae Bliven, 1958
+
+Type locality: USA, California. Host plant: Unknown. Remarks: Hodkinson (1988) noted that this species is probably synonymous with Trioza albifrons. longicornis Crawford, 1910
+
+Type locality: Canada, British Columbia. Additional distribution: USA, California. Host plant: Unknown. mira Tuthill, 1943
+
+Type locality: USA, Colorado, Washington
+Additional distribution: USA, California, Utah. Host plant: Amelanchier alnifolia. phoradendri Tuthill, 1939
+
+Type locality: USA, Colorado. Additional distribution: USA, California. Host plant: Adults collected from Phoradendron juniperinum. quadripunctata Crawford, 1910
+
+Type locality: USA, Colorado
+
+Additional distribution: USA, California, lowa, Kansas, Minnesota, Mo, Montana, New York, Ohio, Wyoming;
+Canada, Alberta, British Columbia. Host plant: Urtica sp., probably U. dioica. stygma Tuthill, 1939
+Type locality: USA, California
+Host plant: Unknown. sulcata Crawford, 1910
+
+Type locality: USA, Colorado. Additional distribution: USA, Arizona, California, Nevada, Oregon, Utah. Also possibly Canada, Alberta. Host plant: Amelanchier sp. viridis Crawford, 1910
+
+Type locality: USA, California. Host plant: Unknown. CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 23
+
+Acknowledgements
+
+This work was supported, in part, by a grant from the Citrus Research Board (grant number 5500-181) to DMP and
+MSH. The supply of work space and facilities at Harvard Forest, Harvard University, is gratefully acknowledged
+by DMP. We would like to thank those who facilitated access to specimens: Cheryl Barr (Essig Museum of Ento-
+mology, UC Berkeley); Steven Haydon (Bohart Museum of Entomology, UC Davis); Norman Penny (California
+Academy of Sciences); Stephen Gaimari (PPD, CDFA Sacramento). We also thank Raymond Gill for help with
+species identification and general advice, and we thank Susan Halbert, Laurence Mound, and particularly Daniel
+Burckhardt, for constructive reviews and improvements of earlier drafts. We are also grateful to John Noyes and
+Andrew Polaszek for advice on parasitoid records. References cited
+
+Ackerly, D.D. (2009) Evolution, origin and age of lineages in the Californian and Mediterranean floras. Journal of Biogeogra-
+phy, 36, 1221-1233. Agusti, N., Unruh, T.R., Welter, S.C. (2003). Detecting Cacopsylla pyricola (Hemiptera: Psyllidae) in predator guts using COI
+mitochondrial markers. Bulletin of Entomological Research, 93, 179-85. Anon. (2010) Citrus research board aggressively responds to unprecedented threat. Citrograph, 1, 12-14. Atwal, (1962) Insect pests of citrus in the Punjab. 1. Biology and control of citrus psylla Diaphorina citri Kuw. (Hemi. Psyllidae). Punjab Horticultural Journal, 2, 104-108. Atwal, A.S., Chaudhary, J.P. & Ramzan, M. (1970) Studies on the development and field population of citrus psylla Diaphorina
+citri Kuwayama (Psyllidae: Homoptera). Journal of Research Punjab Agricultural University,
+
+Aubert, B. (1987) Trioza erytreae del Guercio and Diaphorina citri Kuwayama (Homoptera: Psylloidea), the two vectors of cit-
+rus greening disease: Biological aspects and possible control strategies. Fruits, 42, 149-162. Beardsley, J.W., Hagen, Leeper, J.R. & Tassan, R.L. (1995) Acacia psyllid. In: Nechols, J.R. (Eds. ), Biological control in
+the Western United States: accomplishments and benefits of regional research project W-84, 1964-1989. University of Cal-
+ifornia Press, USA, pp. 91-92. Bliven, B.P. (1955) New phytophagous Hemiptera from the Coast Range Mountains (Pentatomidae, Miridae, Cicadellidae,
+Psyllidae). In: Bliven, B.P. (Ed. ), Studies on Insects of the Redwood Empire I. Published privately, Eureka, California, pp. 8-14. Brennan, E.B., Gill, R.J., Hrusa, GF. & Weinbaum, S.A. (1999) First record of Glycaspis brimblecombei (Moore) (Homoptera:
+Psyllidae) in North America: Initial observations and predator associations of a potentially serious new pest of Eucalyptus
+in California. Pan-Pacific Entomologist, 75, 55-57. Brennan, E.B., Hrusa, GF., Weinbaum, S.A. & Levison, W. (2001a) Resistance of Eucalyptus species to Glycaspis brimble-
+combei (Homoptera : Psyllidae) in the San Francisco Bay area. Pan-Pacific Entomologist, 77, 249-253. Brennan, E.B., Weinbaum, S.A., Rosenheim, J.A. & Karban, R. (2001b) Heteroblasty in Eucalyptus globulus (Myricales: Myri-
+caceae) affects ovipositonal and settling preferences of Ctenarytaina eucalypti and C. spatulata (Homoptera: Psyllidae). Environmental Entomology, 30, 1144-1149. Burckhardt, D. (1988) Jumping plant lice (Homoptera: Psylloidea) of the temperate neotropical region. Part 3: Calophyidae and
+Triozidae. Zoological Journal of the Linnean Society, 92, 115-191. Burckhardt, D. (1989) Les psylles (Insecta, Homoptera, Psylloidea) de I'Algérie. Archives de Sciences Genéve, 42, 367-424. Burckhardt, D. (1998) Ctenarytaina eucalypti (Maskell) (Hemiptera, Psylloidea) neu fiir Mitteleuropa mit Bemerkungen zur
+Blattflohfauna von Eucalyptus. Mitteilungen der Entomologischen Gesellschaft Basel, 48, 59-67. Burckhardt, D. & Lauterer, P. (1997) A taxonomic reassessment of the triozid genus Bactericera (Hemiptera: Psylloidea). Jour-
+nal of Natural History, 31, 99-153. Burckhardt, D. & Bassett, Y. (2000) The jumping plant-lice (Hemiptera, Psylloidea) associated with Schinus (Anacardiaceae):
+systematics, biogeography and host plant relationships. Journal of Natural History, 34, 57-155. Burckhardt, D. & Mifsud, D. (2003) Jumping plant-lice of the Paurocephalinae (Insecta, Hemiptera, Psylloidea): systematics
+and phylogeny. Contributions to Natural History, Bern, 2, 3-34. Burckhardt, D. & Wyniger, D. (2007) The systematic position of Psylla phorodendri Tuthill with comments on the New World
+genus Freysuila Aleman (Hemiptera, Psylloidea, Aphalaroidinae). Mitteilungen der schweizerischen entomologischen
+Gesellschaft, 80, 63-70. Calsbeek, R., Thompson, J.N. & Richardson, J.E. (2003). Patterns of molecular evolution and diversification in a biodiversity
+hotspot: the California Floristic Province. Molecular Ecology, 12, 1021-1029. Chen, L-G, Li, F-S. & Wu, $-Y. (2008) A new species of the genus Edentatipsylla (Hemiptera: Psylloidea: Psyllidae) from
+Shanghai, China. Entomotaxonomia, 30, 95-98. Crawford, D.L. (1914) A monograph of the jumping plant-lice or Psyllidae of the New World. Bulletin of the United States
+National Museum, 85, 1-186. 24 - Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. Daane, K.M., Sime, K.R., Dahlsten, D.L., Andrews Jr., J.W. & Zuparko, R.L. (2005) The biology of Psyllaephagus bliteus Riek
+(Hymenoptera: Encyrtidae), a parasitoid of the red gum lerp psyllid (Hemiptera: Psylloidea). Biological Control, 32,
+228-235. Dahlsten, D.L., Kent, D.M., Rowney, D.L., Copper, W.A., Young T-E. & Tassan R.L. (1995) Parasitoid shows potential for
+biocontrol of eugenia psyllid. California Agriculture, 49, 36-40. Dahlsten, D.L., Rowney, D.L., Copper, W.A., Tassan, R.L., Chaney, W.E., Robb, K.L., Tjosvold, S., Bianchi, M. & Lane, P.
+(1998) Parasitoid wasp controls blue gum psyllid. California Agriculture, 52, 31-34. Dahlsten, D.L., Rowney, D.L. & Copper, W.A. (2000) Landscapes: Integrating biological control of the Eugenia psyllid into
+the day-to-day management of the landscape in Disneyland. In: Hoddle, M.S. (Ed. ), Proceedings California Conference
+on Biological Control Il, (uly 11-12, 2000, Riverside, California), pp. 59-64. Dahlsten, D.L., Daane, K.M., Paine, T.D., Sime, K.R., Lawson, A.B., Rowney, D.L., Roltsch, W.J., Andrews, Jr, J.W.,
+Kabashima, J.B., Shaw, D.A., Robb, K.L., Geisel, PM., Chaney, W.E., Ingels, C.A., Varela, L.G,, Bianchi, M.L. & Taylor,
+G. (2005) Imported parasitic wasp helps control red gum lerp psyllid. California Agriculture, 59, 229-234. Downer, J.A., Svihra, P., Molinar, R.H., Fraser, J.B. & Koehler, C.S. (1988) New psyllid pest of California pepper tree. Califor-
+nia Agriculture, 42, 30-32. Dreistadt, $.H. & Hagen, K.S. (1994) Classical biological control of the Acacia psyllid, Acizzia uncatoides (Homoptera: Psylli-
+dae), and predator-prey-plant interactions in the San Francisco Bay Area. Biological Control, 4, 319-327. Dreistadt, S.H., Clark, J.K. & Flint, M.L. (2004) Pests of Landscape Trees and Shrubs: An Integrated Pest Management Guide. University of California Agriculture & Natural Resources, California, 502 pp. Erbilgin, N., Dahlsten, D.L. & Chen, P. (2004) Intraguild interactions between generalist predators and an introduced parasi-
+toid of Glycaspis brimblecombei (Homoptera: Psylloidea). Biological Control, 31, 329-337. Gill, R. (1984) California Plant Pest and Disease Report (CPPDR), 3, 144. Gill, R. (1985) California Plant Pest and Disease Report (CPPDR), 4,91. Gill, R. (1986) California Plant Pest and Disease Report (CPPDR), 5, 225-226. Gill, R. (1987) California Plant Pest and Disease Report (CPPDR), 6, 6-7. Gill, R. (1989) California Plant Pest and Disease Report (CPPDR), 8, 9-11. Gill, R. (1991) California Plant Pest and Disease Report (CPPDR), 10, 5-7. Gill, R. (1992) California Plant Pest and Disease Report (CPPDR), 11, 7-9. Gill, R. (1995) California Plant Pest and Disease Report (CPPDR), 14, 31. Gill, R. (1997) California Plant Pest and Disease Report (CPPDR), 16, 42-43. Gill, R. (1998) California Plant Pest and Disease Report (CPPDR), 17, 7-8. Gill, R. (2000) California Plant Pest and Disease Report (CPPDR), 19, 26-28. Gill, R. (2001) California Plant Pest and Disease Report (CPPDR), 20, 14. Gill, R. (2002) California Plant Pest and Disease Report (CPPDR), 21, 12. Gill, R. & Watson, G. (2007) Euphyllura olivina Costa — Psylloidea: Psyllidae. Olive tree psyllid. California Plant Pest and
+Disease Report (CPPDR), 24,7. Gill, R. & Watson, G. (2007b) “Cacopsylla” sp. - Psylloidea: Psyllidae. California Plant Pest and Disease Report (CPPDR),
+24, 8. Grafton-Cardwell, E. (2010) How serious is the threat of Asian citrus psyllid and Huanglongbing? Citrograph, 1, 8-11. Grafton-Cardwell, E.E., Godfrey, K-E., Rogers, M.E., Childers, C.C. & Stansly, P.A. (2006) Asian Citrus Psyllid. University of
+California Agriculture and Natural Resources Publication 8205. Available from  http://ucanr.org/freepubs/final-
+
+age.cim?s=8205 &cat=10&subcat=0 (accessed 21 June 2011)
+
+Hagan, K.S. & Tassan, R.L. (1996) Biological control of pepper tree psyllid. Final report. Transportation Research Board,
+Washington, D.C. Available from http://trid.trb.org/view.aspx?id=379878 (accessed 22 June 2011)
+
+Halbert, $.E., Gill, R.J. & Nisson, J.N. (2001) Two Eucalyptus psyllids new to Florida (Homoptera: Psyllidae). Florida Depart-
+ment of Agriculture, Entomology Circular No. 407. Available from http://www.doacs.state.fl.us/pi/enpp/ento/entcirc/
+ent407.pdf (accessed 21 June 2011)
+
+Halbert, $.E. & Manjunath, K.L. (2004) Asian citrus psyllids (Stermorrhyncha: Psyllidae) and greening disease in citrus: A lit-
+erature review and assessment of risk in Florida. Florida Entomologist, 87, 330-353. Halbert, S.E. & Niifiez, CA. (2004) Distribution of the Asian Citrus Psyllid, Diaphorina citri Kuwayama (Rhynchota: Psylli-
+dae) in the Caribbean Basin. Florida Entomologist, 87, 401-402. Hansen, A.K., Trumble, J.T., Stouthamer, R. & Paine, T.D. (2008) A new huanglongbing species, "Candidatus Liberibacter
+psyllaurous,” found to infect tomato and potato, is vectored by the psyllid Bactericera cockerelli (Sulc). Applied and Envi-
+ronmental Microbiology, 74, 5862-5865. Hardig, TM., Soltis, P.S. & Soltis, D.E. (2000) Diversification of the North American shrub genus Ceanothus (Rhamnaceae):
+conflicting phylogenies from nuclear ribosomal DNA and chloroplast DNA. American Journal of Botany, 87, 108-123. Hoddle, M.S. (2010) Host Specificity Testing of Tamarixia radiata sourced from the Punjab of Pakistan for classical biological
+control of Asian Citrus Psyllid in California. Quarterly Report. Citrus Research and Developement Foundation, Inc., Lake
+Alfred, Florida. Available from hup://research.citrusrdf.org/reports/2011/06/15/quarterly-reportJune_2011 pdf (accessed
+June 15 2011)
+
+Hodkinson, I.D. (1986) The psyllids (Homoptera: Psylloidea) of the Oriental Zoogeographical Region: an annotated check-list. CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 25
+
+Journal of Natural History, 20, 299-357. Hodkinson, LD. (1988) The Nearctic Psylloidea (Insecta: Homoptera): an annotated check list. Journal of Natural History, 22,
+1179-1243. Hodkinson, LD. (1991a) New World legume-feeding psyllids of the genus Aphalaroida Crawford (Insecta: Homoptera: Psyl-
+loidea). Journal of Natural History, 25, 1281-1296. Hodkinson, I.D. (1991b) First record of the Australian psyllid Blastopsylla occidentalis Taylor (Homoptera; Psylloidea) on
+Eucalyptus (Myrtaceae) in Mexico. Pan-Pacific Entomologist, 67, 72. Hodkinson, I.D. (2009) Life cycle variation and adaptation in jumping plant lice (Insecta: Hemiptera: Psylloidea): a global syn-
+thesis. Journal of Natural History, 43, 65-179. Hodkinson, I.D. & Bird, J. (2000) Sedge and rush-feeding psyllids of the subfamily Liviinae (Insecta: Hemiptera: Psylloidea):
+a review. Zoological Journal of the Linnean Society, 128, 1-49. Hodkinson, I.D. & Hollis, D. (1987) The legume-feeding psyllids (Homoptera: Psylloidea) of the west Palaearctic region. Bul-
+letin of the British Museum (Natural History), 56, 1-86. Hollis, D. & Martin, J.H. (1997) Jumping plantlice (Insecta: Hemiptera) attacking Lonchocarpus species (Leguminosae),
+including ‘Black Cabbage Bark’, in Belize. Journal of Natural History, 31, 237-267. Husain, M.A. & Nath, L.D. (1927) The citrus psylla (Diaphorina citri, Kuw.) Psyllidae: Homoptera. Memoirs of the Depart-
+ment of Agriculture in India, 10, 5-27. Jensen, D.D. (1945) Notes on the synonymy, nymphs and distribution of Heterospylla texana Crawford (Homoptera, Psylli-
+dae). Pan-Pacific Entomologist, 21, 74-76. Jensen, D.D. (1951) The North American species of Psylla from willow, with descriptions of new species and notes on biology
+(Homoptera, Psyllidae). Hilgardia, 20, 299-324. Jensen, D.D. (1954) Notes on the potato psyllid, Paratrioza cockerelli (Sulc) (Hemiptera: Psyllidae). Pan-Pacific Entomolo-
+gist, 30, 161-165. Jensen, D.D. (1956) New species of Psy/la from the western United States and biological notes. Canadian Entomologist, 88,
+101-109. Jensen, D.D. (1957a) Parasites of the Psyllidae. Hilgardia, 27, 71-99. Jensen, D.D. (1957b) The Albizzia psyllid, Psylla uncatoides (Ferris & Klyver), in California. Pan-Pacific Entomologist, 33,
+29-30. Jensen, D.D. (1957c) A new genus and five new species of Psyllidae from California and Lower California (Homoptera). The
+Wasmann Journal of Biology, 15, 15-34. Journet, A.R.P. & Vickery, V.R. (1979) Studies on Nearctic Craspedolepta Enderlein, 1921 (Homoptera: Psylloidea): Taxo-
+nomic revision. Memoirs of the Lyman Entomological Museum and Research Laboratory, 7, 1-164. Jurado-Rivera, J.A., Vogler, A.P., Reid, C.A.M., Petitpierre, E. & Gémez-Zurita, J. (2009) DNA barcoding insect-host plant
+associations. Proceedings of the Royal Society, B-Biological Sciences, 276, 639-648. Ksantini, K., Jardak, T. & Bouain, A. (2002) Temperature effect on the biology of Euphyllura olivina Costa. In: Vitagliano, C.
+& Martelli, GP. (Eds. ), Proceedings of the IV International Symposium on Olive Growing. ISHS Acta Horticulturae 586,
+Leuven, Belgium, pp. 827-829. Lal, K.B. (1934) Insect parasites of Psyllidae. Parasitology, 26, 325-334. Liu, D. & Trumble, J.T. (2004) Tomato psyllid behavioral responses to tomato plant lines and interactions of plant lines with
+insecticides. Journal of Economic Entomology, 97, 1078-85. Liu, D. & Trumble, J.T. (2007) Comparative fitness of invasive and native populations of the potato psyllid (Bactericera cock-
+erelli). Entomologia Experimentalis et Applicata, 123, 35-42. Mehrnejad, M.R. & Copland, M.J.W. (2006) Host-stage selection and oviposition behaviour of Psyllaephagus pistaciae, para-
+sitoid of the common pistachio psylla Agonoscena pistaciae. Biological Control, 36, 139-146. Munro, J.A. (1965) Occurrence of Psylla uncatoides on Acacia and Albizzia with notes on control. Journal of Economic Ento-
+mology, 58, 1171-1172. Novotny, V., Drodz, P., Miller, $.E., Kulfan, M., Janda, M., Basset, Y. & Weiblen, GD. (2006) Why Are There So Many Spe-
+cies of Herbivorous Insects in Tropical Rainforests? Science, 313, 1115-1118. Olivares, T.S. & Burckhardt, D. (1997) Jumping plant-lice of the New World genus Calinda (Hemiptera: Psylloidea: Triozi-
+dae). Revue suisse de Zoologie, 104, 231-344. Ouvrard, D. 2010. Psyl’list online database. Available from http://rameau.snv.jussieu.fr/cgi-bin/psyllesexplorer.p|?lang=en
+[accessed 21 June 2011]. Paine, T.D., Dreistadt, S.H., Garrison, R.W. & Gill, R. (2006) Pest Notes: Eucalyptus Redgum Lerp Psyllid. University of Cal-
+ifornia Agriculture and Natural Resources Publication 7460. Available from _ https://ucanr.org/freepubs/final-
+page.cfm?s=7460&cat=6&subcat=0 [accessed 21 June 2011]
+
+Paine, T.D. & Dreistadt, S.H. (2007) Pest Notes: Psyllids. University of California Agriculture and Natural Resources Publica-
+tion 7423. Available from https://ucanr.org/freepubs/finalpage.cfm?s=7423&cat=6&subcat=0 (accessed 21 June 2011)
+
+Papp, R.P. & Johnson, J.B. (1979) Origins of psyllid fallout in the central Sierra Nevada of California (Homoptera). Pan-
+Pacific Entomologist, 55, 95-98. Percy, D.M., Page, R.D.M. & Cronk, Q.C.B. (2004) Plant-insect interactions: double-dating associated insect and plant lin-
+eages reveals asynchronous radiations. Systematic Biology, 53, 120-127. 26 - Zootaxa 3193 © 2012 Magnolia Press PERCY ET AL. Ruiz Torres, M. (2010) Parasitoids bred from pests in Jaen Province (Spain). Boletin de la Sociedad Entomolégica Aragonesa,
+46, 597-601. Rung, A., Arakelian, G., Gill, R. & Nisson, N. (2009) Platycorypha nigrivirga Burckhardt (Hemiptera: Sternorrhyncha: Psyl-
+loidea), tipu psyllid, new to North America. Insecta Mundi, 0097, 1-5. Skelley, LH. & Hoy, M.A. (2004) A synchronous rearing method for the Asian citrus psyllid and its parasitoids in quarantine. Biological Control, 29, 14-23. Sullivan, D.J. & Volkl, W. (1999) Hyperparasitism: Multitrophic Ecology and Behavior. Annual Review of Entomology, 44,
+291-315. Taylor, K. (1987) Ctenarytaina longicauda sp. n. (Homoptera: Psylloidea) from Lophostemon confertus (R. Brown) in Austra-
+lia and California. Australian Journal of Entomology, 26, 229-233. Taylor, K.L. (1997) A new Australian species of Ctenarytaina Ferris and Klyver (Hemiptera: Spondyliaspidinae) established in
+three other countries. Journal of the Australian Entomological Society, 36, 113-115. Teulon, D., Workman, P.J., Thomas, K.L. & Nielsen, M-C. (2009) Bactericera cockerelli: incursion, dispersal and current dis-
+tribution on vegetable crops in New Zealand. New Zealand Plant Protection, 62, 136-144. Tuthill, L.D. (1943) The psyllids of America north of Mexico (Psyllidae: Homoptera). Jowa State College Journal of Science,
+17, 443-660. Tuthill, L.D. (1952) On the Psyllidae of New Zealand (Homoptera). Pacific Science, 6, 83-125. Valente, C. & Hodkinson, LD. (2009) First record of the Red Gum Lerp Psyllid, Glycaspis brimblecombei Moore (Hem. : Psyl-
+lidae), in Europe. Journal of Applied Entomology, 133, 315-317. Valente, C., Manta, A. & Vaz, A. (2004) First record of the Australian psyllid Ctenarytaina spatulata Taylor (Homoptera: Psyl-
+lidae) in Europe. Journal of Applied Entomology, 128, 369-370. Wenninger, E.J. & Hall, D.G. (2007) Daily Timing of Mating and Age at Reproductive Maturity in Diaphorina citri
+(Hemiptera: Psyllidae). Florida Entomologist, 90, 715-722. Wheeler, A.G, Jr. & Hoebeke, E.R. (2004) New North American records of the European broom psyllid Arytaina genistae
+(Latreille) (Sternorrhyncha: Psyllidae). Proceedings of the Entomological Society of Washington, 106, 176-180. Zuparko, R.L., de Queiroz, D.L. & LaSalle, J. (2011) Two new species of Tamarixia (Hymenoptera: Eulophidae) from Chile
+and Australia, established as biological control agents of invasive psyllids (Hemiptera: Calophyidae, Triozidae) in Califor-
+nia. Zootaxa, 2921, 13-27. CHECKLIST OF THE PSYLLIDS OF CALIFORNIA Zootaxa 3193 © 2012 Magnolia Press - 27

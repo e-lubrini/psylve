@@ -1,0 +1,477 @@
+Plant Pathology (2002) 51, 513-517
+
+Role of wild Prunus species in the epidemiology of European
+
+stone fruit yellows
+
+L. Carraro*t, F. Ferrini, PR. Ermacora and N. Loi
+Dipartimento di Biologia Applicata alla Difesa delle Piante, Universita degli Studi di Udine, via delle Scienze 208, 33100 Udine, Italy
+
+Several uncultivated trees of the species Prunus spinosa, P. cerasifera and P. domestica, sampled both adjacent to European
+stone fruit yellows (ESFY)-infected orchards and in isolation from cultivated stone fruit plants, were found to be infected
+by ESFY phytoplasma. These species were also colonized by Cacopsylla pruni, vector of the ESFY agent. In contrast,
+uncultivated species of Prunus avium, P. cerasus and P. mabaleb hosted neither the pathogen nor the vector. Insect- and
+graft-transmission trials of ESFY phytoplasma conducted under controlled conditions confirmed the data obtained in
+the field. The role played by the wild Prunus species is discussed and appears to be fundamental in the epidemic cycle of
+
+the disease. Keywords: Cacopsylla pruni, phytoplasma, polymerase chain reaction, transmission, vector
+
+Introduction
+
+Several stone fruit (Prunus) species in Europe are affected
+by severe diseases associated with phytoplasmas. These
+include apricot chlorotic leaf roll (Morvan, 1977), plum
+leptonecrosis (Giunchedi et al., 1978) and peach yellows
+(Poggi Pollini et al., 1993). Lorenz et al. (1994) determined
+the common aetiology of these diseases and proposed
+the single name ‘European stone fruit yellows’ (ESFY). Occurrences of ESFY have been reported in Spain
+(Sanchez Capucino & Forner, 1973), France (Desvignes
+& Cornaggia, 1982), Italy (Giunchedi et al., 1978), Slovenia
+(Brzin et al., 2001), Greece (Rumbos & Bosalidis, 1985),
+Romania (Ionica, 1985), Germany (Lederer & Seemiiller,
+1992), Czech Republic (Navratil et al., 2001), England
+(Davies & Adams, 2000) and Austria (Laimer da Camara
+Machado et al., 2001). ESFY phytoplasma induces economically important
+disorders in apricot (Desvignes & Cornaggia, 1982),
+Japanese plum (Dosba et al., 1991) and peach (Marcone
+et al., 1996). European plum is generally tolerant to ESFY
+(Carraro et al., 1998a; Jarausch et al., 2000). The disease
+also affects almond and various Prunus rootstocks
+(Jarausch et al., 1998; Kison & Seemiiller, 2001). Recently,
+Jarausch et al. (2001b) detected ESFY phytoplasma in six
+different wild-growing Prunus species as well as in Celtis
+australis, Fraxinus excelsior and Rosa canina growing in
+
+*To whom correspondence should be addressed. +E-mail: carraro@pldef.uniud.it
+Accepted 17 February 2002
+
+© 2002 BSPP
+
+the surroundings of ESFY-infected apricot orchards in
+France. The presence of wild plants is important for the epide-
+miology of the disease because the pathogen can survive
+and spread without the presence of susceptible cultivated
+plants. Up to now the exact role played by wild Prunus
+and non-Prunus species in the epidemiology of ESFY was
+not clear. For example, it is not known if these plants host
+Cacopsylla pruni, the vector of the disease (Carraro et al.,
+1998b; Jarausch et al., 2001a), and whether it can infect
+them. Likewise, it is not known if they are end-hosts for
+the pathogen or sources of inoculum for transmission of
+the phytoplasma to cultivated plants. The objectives of the
+present study were: (i) to determine the presence of ESFY
+phytoplasma in wild Prunus species in an area of north-
+east Italy with a high infection pressure; (ii) to verify the
+presence of C. pruni on the different Prunus species and
+clarify the capability of C. pruni to infect these plants; and
+(iii) to ascertain the exact role of wild Prunus species in the
+epidemiology of the disease. Materials and methods
+
+Samplings to determine the presence of ESFY
+phytoplasma and its vector in wild Prunus species
+
+Surveys were carried out in the Friuli-Venezia Giulia
+(F-VG) region, north-east Italy, where ESFY is epidemic
+(Carraro et al., 1992). In the years 2000 and 2001, from
+July to October, repeated samplings were made in five
+different areas; two (Cavazzo and Spessa) were located in
+the surroundings of ESFY-infected apricot and Japanese
+
+513
+
+ 
+
+ 
+
+ 
+
+S14 L. Carraro et al. Plants with symptoms/ — Infected/ Presence Table 1 Nested-PCR analyses for European
+Site Species analysed plants analysed plants of C. pruni_ Stone Mult yellows (ESFY) phytoplasma in wild
+plant species sampled in different locations
+(CREB Prunus avium o/4 ol4 No in the Friuli-Venezia Giulia region, north-east
+-Prunus cerasifera 44 44 ‘Yes: Italy. The same plants were checked for
+Prunus cerasus oft oft No the presence of symptoms similar to those
+Prunus mahaleb ola ola No of phytoplasma infection and the vector
+‘Prunus spinosa 07 27 ‘Yes, Cacopsylla pruni
+Crataegus spp. o/2 o2 No
+Rhamnus catharticus 1/2 o/2 No
+Rosa canina os os No
+(66684 Prunus avium ot ot No
+Prunus cerasitera
+Prunus domestica
+‘Prunus spinosa
+Crataegus spp. 42
+Cornino Prunus cerasifera = 1/1. Prunus mahaleb o/3
+‘Prunus spinosa na
+‘Romans Prunus cerasitera
+Prunus spinosa 0/8
+Udine Prunus cerasitera
+Prunus spinosa oft
+
+ 
+
+ 
+
+ 
+
+plum orchards and three (Cornino, Romans and Udine)
+were far from any stone fruit orchard. All Prunus spp. plants, with or without typical phytoplasma symptoms,
+were considered and some of them tested for the presence
+of ESFY phytoplasma by using PCR/RFLP analyses. Particular attention was given to Prunus spp. which were
+common to all the sites. In Cavazzo and Spessa, some
+non-Prunus species with light or faint symptoms of
+yellows and/or decline were sampled and analysed. The
+complete list of the sampled plants is given in Table 1. During 2000-01 the presence/absence of C. pruni on wild
+Prunus and on other species of plants was checked
+periodically by shaking the insects onto an underlying
+net. Three groups of 10 individuals each of the captured
+C. pruni were also analysed for the presence of ESFY
+phytoplasma. Transmission trials with C. pruni
+
+All the transmission experiments were carried out in an
+environmentally controlled glasshouse at 23-25°C with
+supplementary light and 16-h days. In April 2001, groups
+of overwintering adults of C. pruni were captured as
+above in the stone fruit orchards of Cavazzo and Spessa. ‘Twenty groups, each of five individuals, were immediately
+tested by PCR/RFLP for ESFY phytoplasma; the other
+psyllids were confined in groups of 50 individuals on each
+test plant until their death. Longevity of the insects as well
+as oviposition on the test plants were checked. The choice
+of the test plants was based on the surveys carried out
+during 2000. Consequently, species common to all the
+analysed sites and known to be
+typical in north-east Italy (B. mabaleb and P.padus) were
+selected. For each selected species, five potted seedlings
+were exposed to the vector. After inoculation, the test
+plants were held in separate sectors of the glasshouse,
+
+   
+   
+
+where they were observed for 6 months for symptom
+expression and then analysed by PCR/RFLP. Seedlings
+of apricot cv. Canino were used as susceptible controls,
+either noninoculated or exposed to the vector. Negative
+controls were unexposed seedlings of the selected Prunus
+species. ‘Transmission trials by grafting
+
+In May 2001, groups of plants of the same Prunus species
+used in the transmission trials with C. pruni were graft-
+inoculated (four plants per species) in the glasshouse. The
+sources of inoculum were 10 Japanese plum trees infected
+in previous experiments by vector (Carraro et al., 1998b). Four chip-buds and one approach graft were used for each
+test plant. In July 2001, five 1-year-old micropropagated
+Japanese plum trees were graft-inoculated (two chip-buds
+and one approach-graft) each by using as the source of
+inoculum one ESFY-infected P. spinosa tree from the
+Romans location. Testing for the presence of ESFY phytoplasma in plants
+and in psyllids
+
+Using PCR/RELP, all the plants listed in Table 1, the
+sources of inoculum used in the graft-transmission trials,
+groups of C. pruni, the inoculated test plants and a repre-
+sentative number of negative controls were tested for the
+presence of ESFY phytoplasma. A modification of the phytoplasma-enrichment pro-
+cedure developed by Kirkpatrick (Malisano et al., 1996)
+was adopted for the DNA extraction from plants, using. 1 g of leaf petioles and midrib tissues; for extraction of
+insect DNA the Doyle & Doyle (1990) method was used. The presence of ESFY phytoplasma was determined by
+nested PCR using the universal phytoplasma primers
+
+© 2002 BSPP Plant Pathology (2002) 51, 513-517
+
+Wild Prunus spp. and ESFY
+
+P1/P7 (Schneider et al., 1995). After 1:40 dilution, 5 uL. of PCR products obtained in the initial amplification were
+used as a template for further amplification with the
+nested primers f01/r01 (Lorenz et al., 1995). The primer
+pair f01/r01 are specific for the fruit-tree phytoplasmas —
+ie. ESFY, apple proliferation and pear decline - all
+belonging to the phylogenetic group ‘apple proliferation’
+(Seemiiller et al., 1998). The final PCR products (5 uL)
+were analysed by electrophoresis in 1-5% agarose gel and
+visualized by staining with ethidium bromide and UV illu-
+mination; 10 1L of the PCR products were then digested
+with Bsa AI, according to the manufacturer’s instructions
+(Bio Laboratories, Beverly, MA, USA). Restriction frag-
+ments were resolved in 2% agarose gel. Results
+
+Presence of ESFY phytoplasma and of C. pruni in wild
+Prunus species
+
+Using PCR/RELP, the ESFY phytoplasma was detected in
+several wild Prunus species (Table 1) growing both near
+ESFY-infected orchards (Spessa and Cavazzo) and far
+from stone-fruit orchards (Cornino, Romans and Udine). Considering all the localities, the Prunus species that
+tested positive for ESFY phytoplasma were: P. cerasifera
+(eight trees out of the 11 analysed), Prunus domestica
+(one out of two) and P. spinosa (eight out of 32). Among
+these, ESFY-infected P. cerasifera and P. spinosa were
+present at all the sites checked. Prunus avium, P. cerasus
+and P. mahaleb, as well as the non-Prunus species
+analysed, were found not to be infected by ESFY phyto-
+plasma. The infected plant of P. domestica collected in
+Spessa was symptomless; only one infected P. spinosa
+plant (collected in Cornino) showed symptoms of small
+leaves and off-season growth in winter; all the infected
+P. cerasifera plants showed slight leaf roll at the end of
+summer. The presence of C. pruni was confirmed on P. spinosa,
+P. cerasifera and P. domestica; both overwintering adults
+in April-May and individuals of the new generation in
+June-July were observed and captured. The vector was
+not found on P. avium, P. mahaleb or P. cerasus, or on the
+non-Prunus species examined. Two of the three groups of
+C. pruni analysed by PCR/RFLP were ESFY-infected; one
+of these groups was captured in Spessa on P. spinosa and
+the other in Udine on P. cerasifera. S15
+
+‘Transmission trials with C. pruni and by grafting
+
+Eight of the 20 groups of C. pruni, each of five individuals,
+tested by PCR/RFLP immediately after their capture, were
+ESFY-infected. In terms of single insects, the minimum
+percentage of psyllids carrying phytoplasmas was 8%. The results of the transmission trials, both with the vector
+C. pruni and by grafting, are reported in Table 2. Cacopsylla
+pruni transmitted ESFY agent to four of the five P. spinosa
+and P. cerasifera test plants and to all of the apricot
+control plants. In contrast, the exposed P. mahaleb and
+P. padus plants were found to be healthy by PCR/RFLP
+analyses. The infected P. spinosa and P. cerasifera test
+plants never showed symptoms of phytoplasma infection;
+on the other hand, the infected apricot plants showed the
+typical leaf roll and decline symptoms. Under glasshouse
+conditions, the mortality of C. pruni (Table 2) was high
+on P. mabaleb and P. padus, intermediate on apricot and
+low on P. spinosa and P. cerasifera. Eggs and individuals
+of the new generation, born under controlled conditions,
+were observed only on apricot, P. spinosa and P. cerasifera. All the graft-inoculated apricots, P. spinosa and P.
+cerasifera and none of the P. mabaleb and P. padus test
+plants became ESFY-infected; symptoms were observed
+only on apricot. Three of the five Japanese plum trees graft-inoculated
+using P. spinosa as the source of inoculum became
+infected and developed typical symptoms: leaf reddening,
+small leaves, leaf roll and thickening of the leaf blade. Phytoplasma detection in plants and psyllids
+
+In nested PCR, using the primer pair P1/P7 followed by
+nested primers f01/r01, ESFY phytoplasma DNA was
+amplified from all the sources of inoculum used in the
+transmission trials by grafting as well as from some of the
+wild and test plants and groups of psyllids analysed
+(Fig. 1). No DNA amplification was obtained from the
+negative controls. After digestion with Bsa Al, the PCR
+products obtained showed the same ESFY restriction
+profile (Fig. 2). Discussion
+
+European stone fruit yellows is one of the most important
+pathological problems of stone fruit in Europe. The typi-
+cally epidemic disease spreads quickly and can compromise
+
+ 
+
+Table 2 Transmission of European stone fruit
+yellows (ESFY) phytoplasma to Prunus spp. test plants by groups of Cacopsylla pruni and
+
+Transmission by (infected/
+inoculated plants)
+
+Mortality (%)
+
+of C.prun/atter Oviposition and
+
+new generation
+
+ 
+
+by grafting; mortality after the beginning of Species C. pruni Grafting Tdays  14days._—of C. pruni
+inoculation, oviposition and the presence of
+Poerasifera 4/5 ala 0 20 Yes
+individuals of the new generation of the vector
+P. mahaleb ors o/4 50 100 No
+on the test plants
+P.padus ors 0/4 50 100 No
+P. spinosa 4I5 ala 0 20 Yes
+Apricot 44 ala 10 40 Yes
+
+ 
+
+© 2002 BSPP Plant Pathology (2002) 51, 513-517
+
+516 L. Carraro et al. M1234 56789 101112 WM
+
+1050 bp >
+
+Figure 1 Agarose gel electrophoresis of PCR products from wild
+Prunus spp. and groups of Cacopsyila pruni amplified in nested PCR
+with primer pair 01/101. Lanes 1-5, Prunus spinosa; 6-8, P. cerasifera:
+9, P. domestica; 10-11, C. pruni, 12, European stone fruit yellows
+{ESFY) positive control; W, water control; M, marker (P9577, Sigma, St
+Louis, MO, USA)
+
+M A 1
+
+nv
+
+45
+
+6 BM
+
+1050 bp>
+
+Figure 2 Bsa Al restriction profiles of phytoplasma 16S rDNA amplified
+in nested PCR with primer pair {01/r01. The template DNA was
+
+from European stone fruit yellows (ESFY)-infected: 1, C. pruni, 2-3,
+
+P spinosa; 4-5, P. cerasifera; 6, ESFY positive control; A and B,
+undigested amplified ESFY-16S rDNA (controls); M, marker
+
+(P9577, Sigma). the cultivation of the more susceptible stone-fruit
+species, apricot and Japanese plum (Carraro et al., 1992;
+Jarausch et al., 1998). ESFY is also commonly epidemic in
+areas like the F-VG region, Italy, where stone-fruit trees
+are rarely cultivated. In this area, Carraro et al. (1998a)
+hypothesized the passage of early natural infections from
+wild to cultivated Prunus spp. This hypothesis was later
+reinforced after the verification that C. pruni is the vector
+of ESFY phytoplasma (Carraro et al., 1998b). The insect,
+whose recorded presence in F-VG dates from 1888, is
+in fact strictly oligophagous on Prunus spp. (Conci et al.,
+1992). Bearing in mind that the disease is epidemic but
+also spreads in scarcely cultivated areas, and the vector is
+restricted to Prunus spp., the role played by wild Prunus
+spp. in the epidemic cycle of ESFY is explained in the
+present work. First, the diffuse presence of the ESFY agent
+in P. spinosa, a species native to Europe and Caucasic
+
+  
+
+region (Pignatti, 1982), was shown and the agent was also
+detected in wild P. cerasifera and P. domestica plants. Infected wild Prunus spp. plants were present both in the
+surroundings and far from cultivated stone-fruit orchards,
+confirming the established presence of the disease in the
+F-VG region. In other wild plants P. avium, P. cerasus and
+P. mabaleb — the ESFY agent was not detected. There was
+a correlation between the vector, the agent of the disease
+and the host plants: only the Prunus species hosting the
+vector also hosted the agent. The non-Prunus plants
+analysed — in particular R. canina, reported to be ESFY-
+infected in France (Jarausch et al., 2001b) - were not
+confirmed as hosts of either C. pruni or ESFY phytoplasma. The transmission trials conducted in the glasshouse
+confirmed the data obtained in the field. Groups of
+naturally infected C. pruni (Carraro et al., 2001) trans-
+mitted ESFY phytoplasma to P. cerasifera and P. spinosa
+test plants, as well as to apricot controls. Furthermore,
+these plants also hosted the vector, on which it lay eggs that
+hatched. The susceptibility of P. cerasifera and P. spinosa
+to ESFY phytoplasma was also confirmed by graft trans-
+mission. Besides, the
+ESFY agent was graft-transmitted from one naturally
+infected P. spinosa plant to Japanese plum test plants, thus
+further confirming that this species is an important natural
+host and a widespread potential source of inoculum for
+ESFY and infection of cultivated Prunus spp. In conclusion, the role of some wild Prunus species in
+the epidemiology of European stone fruit yellows is now
+clarified: wild P. spinosa, P. cerasifera and P. domestica
+plants are natural hosts for both ESFY phytoplasma and
+the vector C. pruni. Therefore, the cycle of ESFY can
+be completed independently from the presence of ESFY-
+infected cultivated stone-fruit trees. In areas like this part
+of north-east Italy, where both the vector and the agent
+are present on wild Prunus species, the disease appears to
+be endemic, Other wild Prunus spp.—P. avium, P. cerasus,
+P. mabaleb and P. padus - do not play an important
+epidemiological role because they host neither the vector
+nor the pathogen. Research is continuing with the main aims of explain-
+ing the reported presence of ESFY phytoplasma in plants
+other than Prunus spp. (Jarausch et al., 2001a,b) and its
+sporadic detection in P. avium ( Jarausch et al., 1999) and
+P. cerasus (Navratil et al., 2001). The presence of secondary
+vector(s) of ESFY can be hypothesized, as can the natural
+distribution of different strains of the phytoplasma. References
+
+Brain J, Petrovic N, Seljak G, Osler R, Ermacora P, Loi N,
+Carraro L, Ferrini F, Refatti E, Ravnikar M, 2001, First
+Results on Laboratory Analyses of Phytoplasmas on
+Fruit Trees. Fifth Slovenian Conference on Plant Protection. Ljubljana, Slovenia: Planprint, 217-21. Carraro L, Loi N, Ermacora P, 2001. Transmission
+characteristics of the European stone fruit yellows
+
+  
+
+© 2002 BSPP Plant Pathology (2002) 51, 513-517
+
+Wild Prunus spp. and ESFY S17
+
+phytoplasma and its vector Cacopsylla pruni. European
+Journal of Plant Pathology 107, 695-700. Carraro L, Loi N, Ermacora P, Osler R, 1998a. High tolerance
+of European plum varieties to plum leptonecrosis. European
+Journal of Plant Pathology 104, 141-5. Carraro L, Osler R, Loi N, Ermacora P, Refatti E, 1998b. ‘Transmission of European stone fruit yellows phytoplasma by
+Cacopsylla pruni. Journal of Plant Pathology 80, 233-9. Carraro L, Osler R, Refatti E, Favali MA, 1992. Natural
+diffusion and experimental transmission of plum
+leptonecrosis. Acta Horticulturae 309, 285-90. Conci C, Rapisarda C, Tamanini L, 1992. Annotated catalogue
+of Italian Psylloideae. Atti Dell’accademia Roveretana Degli
+Agiati II B(ser. VII), 107-8. Davies DL, Adams AN, 2000. European stone fruit yellows
+phytoplasmas associated with a decline disease of apricot in
+southern England. Plant Pathology 49, 635-9. Desvignes JC, Cornaggia D, 1982. Observation on apricot
+chlorotic leaf roll (ACLR): sensitiveness of different Prunus
+species, detection, spread in plum orchards. Acta
+Horticulturae 130, 249-6. Dosba F, Lansac M, Mazy K, Garnier M, Eyquard JP, 1991. Incidence of different diseases associated with
+mycoplasmalike organisms in different species of Prunus. Acta Horticulturae 283, 311-20. Doyle JJ, Doyle JB, 1990. Isolation of plant DNA from fresh
+tissue. Focus 12, 13-5. Giunchedi L, Marani F, Credi R, 1978. Mycoplasma-like bodies
+associated with plum decline (leptonecrosis). Phytopathologia
+Mediterranea 17, 205-9. Tonica M, 1985. Investigations on the role of mycoplasmas in
+peach decline in Romania. Analele Institutului de Cercetari
+Pentru Protectia Planteor 18, 11-7. Jarausch W, Danet JL, Labonne G, Dosba F, Broquaire JM,
+Saillard C, Garnier M, 2001a. Mapping the spread of apricot
+chlorotic leaf roll (ACLR) in southern France and implication
+of Cacopsylla pruni as a vector of European stone fruit
+yellows (ESFY) phytoplasmas. Plant Pathology 50,
+
+782-90. Jarausch W, Eyquard JP, Lansac M, Mohns M, Dosba F, 2000. Susceptibility and tolerance of new French Prunus domestica
+cultivars to European stone fruit yellows phytoplasmas. Journal of Phytopathology 148, 489-93. Jarausch W, Eyquard JP, Mazy K, Lansac M, Dosba F, 1999. High level of resistance of sweet cherry (Prunus avium L.)
+towards European stone fruit yellows phytoplasmas. Advances in Horticultural Science 13, 108-12. Jarausch W, Jarausch Wehrheim B, Danet JL, Broquaire JM,
+Dosba F, Saillard C, Garnier M, 2001b. Detection and
+identification of European stone fruit yellows and other
+phytoplasmas in wild plants in the surroundings of apricot
+chlorotic leaf roll-affected orchards in southern France. European Journal of Plant Pathology 107, 209-17. Jarausch W, Lansac M, Saillard C, Broquaire JM, Dosba F,
+1998, PCR assay for specific detection of European stone fruit
+
+ 
+
+ 
+
+© 2002 BSPP Plant Pathology (2002) 51, 513-517
+
+yellows phytoplasmas and its use for epidemiological studies
+in France. European Journal of Plant Pathology 104, 17-27. Kison H, Seemiiller E, 2001. Differences in strain virulence of
+the European stone fruit yellows phytoplasma and
+susceptibility of stone fruit trees on various rootstocks to this. pathogen. Journal of Phytopathology 149, 533-41. Laimer da Camara Machado M, Paltrinieri $, Hanzer V,
+Arthofer W, Strommer $, Martini M, Pondrelli M, Bertaccini
+A, 2001. Presence of European stone fruit yellows (ESFY or
+16SrX-B) phytoplasmas in apricots in Austria. Plant
+Pathology 50, 130-5. Lederer W, Seemiiller E, 1992. Demonstration of mycoplasmas
+in Prunus species in Germany. Journal of Phytopathology
+134, 89-96. Lorenz KH, Dosba F, Poggi Pollini C, Llacer G, Seemiiller E,
+1994, Phytoplasma diseases of Prunus species in Europe are
+caused by genetically similar organisms. Zeitschrift fiir
+Pflanzenkrankheiten und Pflanzenschutz 101, 567-75. Lorenz KH, Schneider B, Ahrens U, Seemiiller E, 1995. Detection of apple proliferation and pear decline
+phytoplasmas by PCR amplification of ribosomal and non
+ribosomal DNA. Phytopathology 85, 771-6. Malisano G, Firrao G, Locci R, 1996. 165 rDNA-derived
+oligonucleotide probes for the differential diagnosis of plum
+leptonecrosis and apple proliferation phytoplasmas. EPPO
+Bulletin 26, 421-8. Marcone C, Ragozzino A, Seemiiller E, 1996. European stone
+fruit yellows phytoplasma as the cause of peach vein
+enlargement and other decline diseases of stone fruits in
+southern Italy. Journal of Phytopathology 144, 559-64. Morvan G, 1977. Apricot chlorotic leaf roll. EPPO Bulletin 7,
+37-55. Navratil M, Valova P, Fialova R, Petrova K, Poncarova
+Vorackova Z, Franova J, Nebesarova J, Karesova R, 2001. Survey for stone fruit phytoplasmas in the Czech republic. Acta Horticulturae 550, 377-82. Pignatti $, 1982. Flora D’italia I. Bologna, Italy: Edagricole,
+616. Poggi Pollini C, Giunchedi L, Gambin E, 1993. Presence of
+mycoplasma-like organisms in peach trees in Northern
+Central Italy. Phytopathologia Mediterranea 32, 188-92. Rumbos I, Bosalidis AM, 1985. Mycoplasma-like organisms
+associated with decline of plum tree in Greece. Zeitschrift fiir
+Pflanzenkrankheiten und Pflanzenschutz 92, 47-54. Sanchez Capucino JA, Forner JB, 1973. Vegetative disorders in
+the Japanese plum trees on Myrobalan rootstocks in the
+province of Valencia (Spain). Acta Horticulturae 44, 93-7. Schneider B, Seemiiller E, Smart CD, Kirkpatrick B, 1995. Phylogenetic classification of plant pathogenic
+mycoplasmalike organisms or phytoplasmas. In: Razin S,
+Tully JG, eds. Molecular and Diagnostic Procedures in
+Mycoplasmalogy. San Diego, CA: Academic Press, 369-80. Seemiiller E, Marcone C, Lauer U, Ragozzino A, Géschl M,
+1998, Current status of molecular classification of the
+phytoplasmas. Journal of Plant Pathology 80, 3-26.

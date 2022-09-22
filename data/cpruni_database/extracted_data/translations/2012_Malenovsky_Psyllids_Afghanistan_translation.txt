@@ -1,0 +1,717 @@
+ACTA ENTOMOLOGICA MUSEI NATIONALIS PRAGAE
+
+Published 30.vi.2012 Volume 52(1), pp. 1-22 ISSN_0374-1036
+
+ 
+
+Jumping plant-lice (Hemiptera: Psylloidea) of Afghanistan
+
+Igor MALENOVSKY”, Pavel LAUTERER™), Eugenia LABINA*
+& Daniel BURCKHARDT”
+
+» Department of Entomology, Moravian Museum, Hviezdoslavova 29a, CZ-627 00 Bmo, Czech Republic;
+e-mail: imalenovsky@mzm.cz
+
+> e-mail: ento.laut@volny.cz
+
+ 
+ 
+
+ 
+
+> Laboratory of Systematics of Inse
+Universitetskaya nab, 1, 199034 §
+
+‘ological Institute of R
+Petersburg, Russia; e-m
+
+ian Academy of Sciences,
+labina_e@mail.ru
+
+ 
+
+“/Naturhistorisches Museum, Augustinergasse 2, CH-4001 Basel, Switzerland;
+e-mail: daniel.burckhardt@unibas.ch
+
+Abstract. The psylloid fauna of Afghanistan is reviewed comprising, 32 identified
+species, 15 of which are recorded from the country for the first time, including
+Agonoscena klapperichi sp. nov. (Psyllidae: Rhinocolinae), which is formally
+described and illustrated. Additional illustrations are provided for Craspedolepta
+manica Baeva, 1978, Cacopsylla cf. nasuta (Horvath, 1904) and Trioza urticae
+Linnaeus, 1758. Another 5 species are represented by insufficient material and
+cannot be currently identified. The bulk of the examined material comes from
+four expeditions by J. Klapperich, O. Jake’, M. Daniel and E. S. Sugonyaev in the
+1950’s and 1960’s. The psylloid fauna of Afghanistan remains poorly known and
+additional species can be expected. The biogeographical relationships and eco-
+nomic importance of the Afghan psylloid fauna are briefly discussed. In addition,
+anew record of Psyllopsis securicola Loginova, 1963 from Iraq is provided. Key words. Hemiptera, Sternorrhyncha, Psylloidea, taxonomy, distribution, new
+species, Afghanistan, Central Asia, Palaearctic Region
+
+Introduction
+
+Jumping plant-lice or psyllids, with some 4,000 described species worldwide, are usually
+highly host-specific plant-sap sucking insects. Central Asia comprises a characteristic psyllid
+fauna but the knowledge on the different countries is very uneven (Barva 1985, GEGECHKORI
+& Lociova 1990, Burckarpr & Laurerer 1993, Li 2011). The psyllid fauna of Afghani-
+stan is poorly known. So far, four species have been described partly or entirely based on
+material from Afghanistan: Cyamophila afganica Loginova, 1978, C. odontopyx Loginova,
+1978 [= C. glycyrrhizae (Becker, 1874)], Livilla klapperichi Hodkinson & Hollis, 1987,
+and Homotoma caroliquarti Burckhardt & Lauterer, 1993. Additional 13 species have been
+
+2 MALENOVSKY et al. : Psylloidea of Afghanistan
+
+ 
+
+reported in the literature. This information is scattered in taxonomic papers or in check-lists
+lacking detailed collecting data (e.g. Locinova 1972, 1974, 1978; Loctnova & Barva 1972;
+Gececukor! & Locinova 1990). Afghanistan is a land-locked country located in Central Asia with a surface area of 652,089
+km”, It is dominated by mountains that cover about two thirds of its surface (27 % of the area
+above 2,500 m elevation; highest point Mt. Nowshak at 7,484 m). The climate throughout most
+of the country is arid or semi-arid, continental, with cold winters, long hot and extremely dry
+summers, most precipitation falling in winter and early spring. The mean monthly temperature
+and precipitation are largely influenced by elevation and vary by region (UNEP 2008). Most of Afghanistan lies in the Palaearctic biogeographical Realm while a small area of the
+lower Kabul Valley at the eastern border is sub-tropical and belongs to the Oriental Realm. Otson et al. (2001) recognise in Afghanistan 15 eco-regions representing four biomes. The
+mountains with a comparatively rich subalpine and alpine vegetation have been originally
+surrounded by semi-desert and open woodlands while extensive deserts are found in the
+south-west. The extreme east is characterised by monsoon-influenced evergreen and conife-
+rous forests (BREcKLE 2007, UNEP 2008). Most of the natural vegetation, except for that in
+alpine regions and deserts, is now largely reduced by overgrazing, tree cutting (resulting in an
+almost complete deforestation), shrub collection for fuel and climate change (desertification)
+in the last 40 years (UNEP 2008, MoAIL 2009). The habitat diversity and the position at the boundary of biogeographical Realms contribute
+toa diverse flora consisting of about 5,000 species of vascular plants with 25-30 % endemics
+(Breckte 2007). Accordingly, a rich fauna of phytophagous insects can be expected. However,
+as most other groups of insects, psyllids are poorly studied in Afghanistan partly due to the
+long-lasting complicated political situation and war conflicts. Entomological activities in the
+country were rare before World War II. Most of known data on Afghan insects come from the
+period from the 1950’s to the onset of war in 1978 when several expeditions of European,
+American and Asian scientists visited Afghanistan to collect biological material which was
+then worked up by taxonomists (NaniF 1986). Recently, we have identified the Psylloidea collected by Johann Friedrich Klapperich in
+north-eastern Afghanistan and Kandahar environs in 1952-1953, Oldiich Jake8 in the north-
+western part of the country in 1963-1964 and Milan Daniel in Badakhshan in 1965. In addition
+we revised specimens collected by Eugeny S. Sugonyaev in north-eastern Afghanistan in
+1966; most of the previously published records are based on these latter collections (records
+predominantly by Marianna M. Loginova). The aim of the present paper is to provide an
+updated list of the psyllid fauna of Afghanistan with a summary of published records and
+detailed collecting data of the material at hand. Material and methods
+
+The material examined is deposited in or cited from the following collections:
+BMNH The Natural History Museum, London, United Kingdom;
+HNHM = Magyar Természettudomanyi Miizeum [= Hungarian National History Museum], Budapest, Hungary;
+MHNG Muséum d’histoire naturelle, Genéve [= Natural History Museum, Geneva], Switzerland;
+MMBC Moravské zemské muzeum [= Moravian Museum], Bro, Czech Republic;
+NHMB __Naturhistorisches Museum [= Natural History Museum], Basel, Switzerland;
+
+  
+
+Acta Entomologica Musei Nationalis Pragae, 52(1), 2012 3
+
+NMPC__Narodni muzeum, Praha [= National Museum, Prague], Czech Republic;
+ZIN __Zoologicheskiy Institut Rossiyskoy Akademii Nauk [= Zoological Institute of the Russian Academy of
+Sciences], St. Petersburg, Russia
+
+ 
+
+Localities of the material examined are placed in provinces (wilayat) of the current
+administrative division of Afghanistan, as of 2004 (Fig. 1). For the holotype of Agonoscena
+klapperichi sp. nov., label data are quoted verbatim: lines are indicated by a single shlash
+(/), separate labels by a double slash (//). Further details on the collecting sites, habitats and
+collecting methods for the material acquired on Klapperich’s expedition can be found in
+Kvappericu (1954); for Jakes’ expedition see JAKES (1967) and ANonyMus (1967). The morphological terminology follows OssIANNILSSON (1992). The classification of Psyl-
+loidea adopted in the paper is mostly based on Waite & HopKINSON (1985) and BURCKHARDT
+(1987). The host plant species names are used in the same form as originally given in the
+corresponding references; the plant family names follow APG III (2009). The general dis-
+tribution of each psyllid species is explicitly recorded only for countries neighbouring with
+Afghanistan; extralimital distribution is mostly abstracted (more detailed data can be found
+e.g. in GEGECHKoRI & Locinova 1990 and BurckHarpt 2011). Drawings, photographs and measurements were made from permanent or temporary
+slide-mounts using an Olympus BX41 microscope with a drawing tube and a digital camera
+attached and the Olympus QuickPHOTO PRO software. Fig. 1. The provinces of Afghanistan, 1 — Herat; 2 — Farah; 3 ~ Nimruz; 4 — Badghis; 5 — Faryab; 6 — Ghor; 7
+— Helmand; 8 — Jowzjan; 9 ~ Sar-e Pol; 10 — Daykundi; 11 — Oriizgan; 12 — Kandahar; 13 - Balkh; 14 - Samangan;
+3
+
+   
+
+   
+
+— Logar; 24 — Paktia; 26 — Khost; 27 — Takhar; 28 — Panjshir; 29 — Kapisa; 30 — Badakhshan; 31 — Nuristar
+— Laghman; 33 — Nangarhar; 34 — Kunar. 4 MALENOVSKY et al. : Psylloidea of Afghanistan
+
+ 
+
+Systematic account of Psylloidea of Afghanistan
+
+HOMOTOMIDAE Heslop-Harrison, 1958
+
+Homotoma caroliquarti Burckhardt & Lauterer, 1993
+
+Published records. Burckstaror & Laurerer (1993): Nuristan (Bashgul Valley; paratypes),
+Material examined. Nurisran: Bashgul Valley, 1100 m, 17.iv.1953, 5 42.8 29 (paratypes, 1 7.1 2 not included
+in type series), J. Klapperich leg. (MHNG, MMBC, NMPC; dry and slide-mounted),
+
+General distribution. Iran, Pakistan (BuRckHARDT & LAUTERER 1993). Host plant. Ficus sp. (Moraceae) (BurckHarpt & LAUTERER 1993). Homotoma indica (Mathur, 1975)
+Material examined. Nuristan: Bashgul Valley, 1100-1200 m, 6~17.iv.1953, 13 42 16 §
+
+3.v.1953, 3. ¢¢, Konar: Kunar [= Chitral] Valley,
+dry and slide-mounted). General distribution. India (Uttar Pradesh) (MatHur 1975, Hotuis & BRoomrieLp 1989). New record for Afghanistan. Host plants. Ficus microcarpa and F. tsjahela or F. virens (Moraceae) (HOLLIs & BROOMFIELD
+1989). same data, 1200 m,
+Asmar, 900 m, 3.iv.1953, 1 3. All J. Klapperich leg. (MMBC;
+
+ 
+
+   
+
+PSYLLIDAE Latreille, 1807
+APHALARINAE Low, 1879
+
+Colposcenia albomaculata Loginova, 1960
+
+Published records. Lociova (1974): Afghanistan,
+
+Material examined. BaGutan: Baghlan, flood plain, on Tamarix sp., 4.viii.1966, 1 3, E. S, Sugonyaev leg. (ZIN;
+dry-mounted). Kunuz: Kunduz Valley, Shikari, Duab, 1000 m, 24.vi.1953, 2 9, J. Klapperich leg. (MMBC; dry
+and slide-mounted). General distribution. Tajikistan, Uzbekistan, Turkmenistan; Central Asia (GEGECHKORI &
+Loainova 1990). Host plants. Tamarix hispida and Tamarix sp. (Tamaricaceae) (GEGECHKORI & LoGINOVA
+1990). Colposcenia aliena (Liw, 1882)
+
+Published records. Locivova (1972): Baghlan, Kunduz (Imam Sahib); Hopkinson (1986): Afghanistan
+Material examined. BAGHLAN: Baghlan, flood plain, 4.viii,1966, 1 ¢, E. S. Sugonyaev leg. (ZIN; dry-mounted). Kanpanar: Kandahar, 950 m, 11.ii.1953, 1 ¢ (terminalia missing), J. Klapperich leg. (MMBC; dry and slide-
+mounted). Kunpuz: Imam Sahib, saline land, on Tamarix sp., 18.x.1966, 2.) 2 2, E. S. Sugonyaev leg. (ZIN;
+dry-mounted). Parvan: southern slope of Hindu Kush, 50 km W from Charikar, 2100-2200 m, flood plain, on
+Tamarix sp., 17.ix.1966, 2 35 2 29, B. S. Sugonyaev leg. (ZIN; dry-mounted). General distribution. Iran, China, Tajikistan, Uzbekistan, Turkmenistan; Central Asia, Mon-
+golia, Caucasus, Middle East, North Africa, southern Europe (HopKINson 1986, GEGECHKORI
+& Loainova 1990, BurckHarpt & Onucar 1993, BurckHarpT 2011, Li 2011). Host plants. Tamarix spp. (Tamaricaceae) (Gececnkort & LociNova 1990). Acta Entomologica Musei Nationalis Pragae, 52(1), 2012 5
+
+Colposcenia jakowleffi (Scott, 1879)
+
+Material examined. Kanpanar: Kandahar, 950 m, 11.ii.1953, 1, J. Klapperich leg. (MMBC; slide-mounted). General distribution. Tajikistan, Uzbekistan, Turkmenistan; Central Asia, Caucasus, Yemen
+(GececuKor! & Loainova 1990). New record for Afghanistan. Host plants. Tamarix hispida, T. smyrnensis and T. ramosissima (Tamaricaceae) (GEGECHKORI
+& Loainova 1990). Colposcenia orientalis (Klimaszewski, 1970)
+
+Published records. Gececukor! & Locinova (1990): Afghanistan,
+Material examined. No material examined,
+
+General distribution. Tajikistan, Uzbekistan, Turkmenistan; Central Asia, Caucasus, Russia
+(SW part), Middle East (Gececukort & Locinova 1990). Host plants. Tamarix hispida, T. ramosissima and T. 2kotschyi (Tamaricaceae) (GeGecHKORI
+& Loainova 1990). Colposcenia vicina Loginova, 1960
+
+Material examined. Kuxouz: Kunduz Valley, Shikari, Duab, 1000 m, 24.vi.1953, 1 31 9, J. Klapperich leg. (MMBC; slide-mounted). General distribution. Iran, China, Tajikistan, Uzbekistan, Turkmenistan; Central Asia,
+Caucasus, Russia (SW part) (GeGECHKorI & Locinova 1990, BuRCKHARDT & LAUTERER 1993,
+Li 2011). New record for Afghanistan. Host plants. Tamarix hispida, T. ramosissima and other Tamarix spp. (Tamaricaceae)
+(Gececukori & Locinova 1990). Colposcenia sp. Material examined. NuzisraN: Bashgul Valley, Kamu, 1300 m, 15.vii.1952, 1 2, J. Klapperich leg. (MMBC;
+slide-mounted). Comments. The female specimen at hand differs morphologically from the other Afghan Col-
+poscenia spp. Without the taxonomically relevant males, however, it cannot be identified. Craspedolepta manica Baeva, 1978
+(Figs. 2-9, 13-14)
+
+Material examined. Nuristan: Bashgul Valley, Peschawurdo, 2200 m, 21.vii.1952, 8 39 3 22; Bashgul Valley,
+Achmede Dewane, 2700 m, 25.vii.1952, 1 ¢ 1 9, all J. Klapperich leg. (MMBC; dry and slide-mounted). General distribution. Tajikistan, Kyrgyzstan (Gececukori & LociNova 1990). New record
+for Afghanistan. Host plant. Lepidolopsis turkestanica (Asteraceae) (BAEVA 1978, 1985; GeGecHKorI &
+Loainova 1990). Comments. Some of the drawings of taxonomically relevant structures provided by BAEVA
+(1978, 1985) lack diagnostic details. Figs. 2-9 and 13-14 are taken from the Afghan material
+at hand. 6 MALENOVSKY et al. : Psylloidea of Afghanistan
+
+ 
+
+Figs. 2-9. Craspedolepta manica Baeva, 1978 from Afghanistan. 2 — male terminalia, lateral view; 3 — distal seg-
+ment of aedeagus, lateral view; 4 — paramere, dorsal view; 5 — paramere, inner surface, lateral view; 6 — antennal
+segments 9-10; 7 — female terminalia, lateral view; 8 — female proctiger, dorsal view; 9 — female subgenital plate,
+ventral view. Scale bars: 0.1 mm. Acta Entomologica Musei Nationalis Pragae, 52(1), 2012 7
+
+Craspedolepta setosa (Wagner, 1947)
+
+Published records. Locinova (1972): Afghanistan
+
+Material examined. BapakusHan: Ishmara, 19.vi.1965, 20 33 18 92, M. Daniel leg. ; same data, 19.vii.1965, 9
+3 9 29 (MMBC, NMPC, dry-mounted). Kanut: Kabul environs, 2000 m, desertified steppe in the mountains,
+
+Artemisia spp., Poaceae, 21.vii.1966, 2 31, E. S. Sugonyaev leg. (ZIN; dry-mounted). General distribution. Tajikistan, Uzbekistan, Turkmenistan; Central Asia, Mongolia, Cau-
+casus, Turkey, eastern Europe (GeGECHKorI & Locinova 1990). Host plants. Artemisia spp. (Asteraceae) (GecEcuKoRI & LoGiNova 1990). Craspedolepta vestita Baeva, 1967
+
+Material examined. Baakustan: Shiva Lake, high altitude steppe, 2800 m, 7.vii.1953, 1 9; same data, 12.vii.1953,
+2 $42 29, all J. Klapperich leg. (MMBC; dry-mounted). General distribution. Tajikistan, Kyrgyzstan (Grcecukori & Locinova 1990). New record
+for Afghanistan. Host plant. Artemisia rhodantha (Asteraceae) (Bava 1985). PsyLuunae Latreille, 1807 (including Arvtainiae Crawford, 1914)
+
+Cacopsylla cf. nasuta (Horvath, 1904)
+(Figs. 10-12)
+
+Material examined. Bapaknsuan: Ishmara, 19.vi.1965, 3 2, M. Daniel leg. (MMBC, NMPC; dry-mounted). General distribution. Kyrgyzstan (HorvAtH 1904). New record for Afghanistan. Host plant. Unknown. Comments. Cacopsylla nasuta is a poorly documented species. HorvAtH (1904) described
+it from one female from Przevalsk (Kyrgyzstan) without host plant data. The species has not
+been recorded since. The male specimens from Afghanistan match Sutc’s (1913) redescrip-
+tion of the holotype of C. nasuta, particularly the coloration, the long genal processes and
+the forewing shape, venation and membrane spinulation. They differ in the smaller body size
+(total body length from head to forewing apex: 2.9-3.2 mm, compared to 3.7 mm as reported
+by Sulc) which may, however, be sexual dimorphism. Male terminalia of a specimen from
+Afghanistan are illustrated in Figs. 10-12. Cacopsylla nasuta may be related to C. hippophaes
+(Foerster, 1848) along with several Palaearctic species associated with Hippophae and Elaea-
+gnus (Elaeagnaceae) (see Burckuarpt & ONucAR 1993). Bava (1985) considers C. nasuta
+as a junior synonym of C. hippophaes which is not followed here. Cacopsylla spp. Material examined. Nunistan: Bashgul Valley, Peschawurdo, 2200 m, 21.vii.1952, 1 ; Bashgul Valley, Achmede
+Dewane, 2700 m, 27.vii.1952, 1 2. All J. Klapperich leg. (MMBC; dry-mounted),
+
+Comments. The specimens at hand belong to two different species. In the absence of taxo-
+nomically relevant males it is impossible to identify them. 8 MALENOVSKY et al. : Psylloidea of Afghanistan
+
+ 
+
+ 
+
+Figs. 10-12. Cacopsylla cf. nasuta (Horvath, 1904) from Afghanistan. 10—male terminalia, lateral view; 11 —para-
+mere, inner surface, lateral view; 12 — distal segment of aedeagus, lateral view. Scale bars: 0.1 mm. Cyamophila aberrans (Baeva, 1972) in Locinova & Baeva (1972)
+
+Material examined. Bapaknsnan: Wardush Valley, Barak, 1650 m, 5.vii.1953, 1 2; Wardush Valley, Tehakaran,
+1850 m, 6,vii.1953, 2 21 9, all J. Klapperich leg. (MMBC; dry-mounted),
+
+General distribution. Tajikistan (BAseva & KiIMAszewski 1993). New record for Afgha-
+nistan. Host plant. Glycyrrhiza glabra (Fabaceae) (BAEVA 1985, BAreva & KLIMASZEWSKI 1993). Cyamophila afganica Loginova, 1978
+
+Published records. Lociova (1978): Baghlan (105 km N Kabul on road to N Salang), Bamyan (70 km W Bamyan,
+Band-e-Amir lake). Material examined. BaGutan: 105 km N from Kabul, road to N Salang [= Salang Pass? ], southern slope of Hindu
+Kush, canyon with streams at the bottom, 2400 m, 25.vii.1966, 2 41 9, 1 ex. without abdomen (holotype and
+paratypes). Bayan: 70 km W from Bamyan, Band-e-Amir lake, 2800 m, mountain desert, Artemisia sp., Stipa sp. and other plants, 16.ix.1966, 1 ° (paratype). All E. S. Sugonyaev leg. (ZIN; dry-mounted). General distribution. So far only known from Afghanistan (Bareva & Kumaszewski
+1993). Host plant. Unknown (Baseva & Kumaszewskt 1993). Acta Entomologica Musei Nationalis Pragae, 52(1), 2012 9
+
+Comments. The male holotype and one male and two female paratypes got lost during the
+transport from the ZIN to the MMBC in stolen luggage. The remaining material of C. afganica
+at the ZIN includes one paratype without abdomen (no corresponding slide preparation was
+found) and one male determined by Loginova which is, however, not labelled as a type. Cyamophila glycyrrhizae (Becker, 1874)
+= Cyamophila odontopyx Loginova, 1978. Synonymised by Hopkinson & HoLtis (1987). Published records. Locivova & Batva (1972, as Psylla glycyrrhizae) and Lociwova (1978, as Cyamophila odontopyx):
+Baghlan, Nangarhar (Jalalabad); Hopkinson & Hots (1987, as Cyamophila glycyrrhizae): Afghanistan,
+
+Material examined. BapakHsHan: Kokcha Valley, Senna, 1800 m, 16.vii.1953, 4 92 1 9, J. Klapperich leg
+(MMBC; dry-mounted); Ishmara, 19.vi.1965, 135 $4 142 29 2 larvae, M. Daniel leg,; same data but 19.vii.1965,
+55 $333 99 | larva (MMBC, NHMB, NMPC; dry-mounted). Bal Bala Murghab, 470 m, 20.iii.-28.x.1964,
+140 32 137 29, O, Jake§ leg. ; same data, 550 m, 3.-15.iv.1964, 38 3d 42 99, O. Jakes leg. ; Murichag, 400 m,
+16.vi.1964, 1 2, O. JakeS leg. (MMBC; dry-mounted). BaGHLaN: Baghlan, flood plain, Tamarix sp., 7.x.1966,
+1 21 4 (paratypes of C. odontopyx), E. S. Sugonyaev leg, (ZIN; dry-mounted). Knut: Kabul environs, 1743 m,
+16.vi.1952, 1°, J. Klapperich leg. (MMBC; dry-mounted). NANGARHAR: Jalalabad, flood plain of the Kabul River,
+22.vii.1966, 2.34 1 2 (paratypes of C. odontopyx); 40 km W of Jalalabad, flood plain, on herbs, 23.vii.1966, 2 2
+(paratypes of C. odontopyx), all E. S. Sugonyaev leg. (ZIN; dry-mounted),
+
+ 
+ 
+
+ 
+
+    
+
+      
+
+ 
+
+ 
+
+  
+
+General distribution. Iran, China, Tajikistan, Uzbekistan, Turkmenistan; Central Asia,
+Mongolia, Middle East, Caucasus, eastern Europe (HopKINSon & HoL.is 1987, BURCKHARDT
+1988, GeGcecuKori & Loainova 1990, Baseva & KuiMAszewski 1993, Li 2011). Host plants. Glycyrrhiza glabra and G. uralensis (Fabaceae) (GeGecukorI & LOGINOvA
+1990). Comments. The material at hand varies considerably in the paramere structure. More
+material, preferably series of many specimens from different localities and host informa-
+tion, is required to analyse the significance of this variation. Cyamophila odontopyx was
+described by Locinova (1978) based on material from Central Asia including Afghanistan,
+slightly differring from a typical C. glycyrrhizae in the length of the genal processes, the
+size of the anterior apical tooth on the paramere in males, and the shape of the dorsal mar-
+gin of the subgenital plate in females. These differences were considered by HopkINson
+& Hoxtis (1987) as falling within the range of variation of C. glycyrrhizae. For the same
+reasons, BURCKHARDT & LAUTERER (1993) synonymized Cyamophila eremita Loginova,
+1978 described from Kazakhstan, Tajikistan, Uzbekistan, and Turkmenistan with C. glycyr-
+rhizae. Other taxa falling in the same species complex include also Cyamophila cauca:
+(Baeva, 1972) and C. edentata (Baeva, 1972) (both in Locinova & Barva 1972) which are
+still considered valid. Cyamophila gorodkovi Loginova, 1978
+
+Material examined. Bapakusuan: Sarekanda, mountains, 2800 m, 21.vii.1953, 1 ¢, J. Klapperich leg. (MMBC;
+dry-mounted). Ishmara, 19.vi.1965, 8 3 11 99, M. Daniel leg. ; same data, 19.vii.1965, 12 $16 9° (MMBC,
+NHMB, NMPC; dry-mounted). General distribution. Tajikistan, Uzbekistan; Central Asia, Russia (western Siberia) (GrcecH-
+Kor & Locinova 1990). New record for Afghanistan. 10 MALENOVSKY et al. : Psylloidea of Afghanistan
+
+ 
+
+Host plants. Onobrychis chorassanica, O. laxoflora and O. oxytropoides (Fabaceae) (GEGECH-
+kort & Loainova 1990). Livilla klapperichi Hodkinson & Hollis, 1987
+
+Published records. Hopkinson & Houtis (1987): Nuristan, Kamdesch, Bashgul Valley, 2200 m, 17.vii.1952, 2 c
+1 9, 1 adult lacking terminalia, J. Klapperich leg. (BMNH, holotype and paratypes). Material examined. No specimens examined. General distribution. So far only known from Afghanistan (HopKINson & HoL.is 1987). Host plant. Unknown. DrapHorininak Vondraéek, 1957
+Diaphorina citri (Kuwayama, 1908)
+
+Published records. CIE (1974): Jalalabad, Laghman. Material examined. Nancarwar: Jalalabad, 500 m, 30.ii1.1953, 11 23 15 99, J. Klapperich leg,; Jalalabad, 500-800
+m, 13.iv.1967, | 9, D. Povolny leg. (MHNG, MMBC; dry-mounted). General distribution. Iran, Pakistan, China; tropical Asia, introduced into the Arabian
+Peninsula, Mascarenes, Pacific islands, South, Central and North America as well as Europe
+(e.g. CABI 2001, Hapert & MaNnsuNatH 2004, BurcKHARDT & VAN Harten 2006, AL-ZADJALI
+et al. 2008, Li 2011). Host plants. Murraya spp., Citrus spp., and other closely related Rutaceae (HALBERT &
+Manuuari 2004). Diaphorina zygophylli Loginova, 1978
+
+Material examined. Kanpanar: Kuna, 950 m, 5.iii,1953, 1 2. Nuristan: Bashgul Valley, 1100-1200 m, 8-20.iv.1953
+and 6.v.1953, 6 15 29. Kuan: Kunar [= Chitral] Valley, Asmar, 900 m, 3.iv.1953, 5 1/8 22. AlJ. Klapperich
+leg. (MHNG, MMBC; dry and slide-mounted). General distribution. Iran, Tajikistan, Uzbekistan, Turkmenistan; Kyrgyzstan, Caucasus
+(Loainova 1978, Gececukor! & Locinova 1990, BURCKHARDT & LAUTERER 1993). New record
+for Afghanistan. Host plants. Zygophyllum atriplicoides, Z. eurypterum, Z. gontscharovii and Z. cf. mega-
+carpum (Zygophyllaceae) (Locinova 1978, GeGecukor! & Locinova 1990, BurckHarpt &
+LAuTERER 1993). Psyllopsis machinosa Loginova, 1963
+
+ 
+
+Material examined. Bapcuis: Bala Murghab, 470 m, 28.x.1964, 5 Jf 11 99; same data, 30.x.1964, 1 9, all O.
+Jake’ leg. (MMBC; dry-mounted). General distribution. Iran, Tajikistan, Uzbekistan, Turkmenistan; Central Asia, Caucasus,
+Turkey, south-eastern Europe (Grcecukort & Locinova 1990, BurckHarpt & LauTerer 1993). New record for Afghanistan,
+
+Host plant. Fraxinus angustifolia subsp. oxycarpa and Fraxinus sp. (Oleaceae) (GEGECHKORI
+& Loainova 1990). Acta Entomologica Musei Nationalis Pragae, 52(1), 2012 ul
+
+ 
+
+Figs. 13-14. Craspedolepta manica Baeva, 1978 from Afghanistan, 13 — forewing; 14 — head, dorsal view. Psyllopsis repens Loginova, 1963
+
+   
+
+Material examined. Bancuts: Bala Murghab, 470 m, 28.x.1964, 5
+mounted). 34 2 22, O. Jakes leg. (MMBC; dry-
+General distribution. Iran; Caucasus, Israel; Serbia (GeGECHKoRI & Locinova 1990, MALE-
+NOVSKY & JeRINIC-PRODANOvIC 2011). New record for Afghanistan. Host plant. Fraxinus angustifolia subsp. oxycarpa, subsp. syriaca, F. excelsior and F. ornus
+(Oleaceae) (HALPERIN et al. 1982, GececukKori & Locinova 1990, MALENovskY & JERINIC-
+Propanovi¢ 2011). Psyllopsis securicola Loginova, 1963
+
+ 
+
+Material examined. Bavcuts: Bala Murghab, 470 m, 28.x.1964, 2. 44.3 2
+ed).
+
+ 
+
+. O Jake§ leg. (MMBC; dry-mount-
+
+12 MALENOVSKY et al. : Psylloidea of Afghanistan
+
+ 
+
+Figs. 15-16. Agonoscena klapperichi sp. nov., holotype. 15 ~ forewing; 16 — forewing, detail showing part of mem-
+brane between veins Rs and bifurcation of M.
+
+Acta Entomologica Musei Nationalis Pragae, 52(1), 2012 13
+
+Additional material examined. IRAQ: Kurpistan: Salahuddin, 9.vii.1968, 2 99, P. Stary leg. (MMBC, dry-
+mounted). General distribution. Iran, Tajikistan, Turkmenistan, Uzbekistan; Caucasus, Israel, Turkey
+(GececuKori & Loainova 1990); Iraq (this paper). New records for Afghanistan and Iraq. Host plant. Fraxinus angustifolia subsp. oxycarpa (Oleaceae) (GececuKori & LociNova
+1990). PAUROCEPHALINAE Vondraéek, 1963
+
+Syntomoza unicolor (Loginova, 1958) in Locinova & PARFENTIEV (1958)
+
+Published records. Locixova (1972, as Camaratoscena unicolor): Afghanistan. Material examined. Kunpuz: Shir Khan, left bank of Amu Darya River, on Populus spp. close to P. diversifolia
+and P. pruinosa and other plants, 3.x.1966, 1°, E. S. Sugonyaev leg. (ZIN; dry-mounted). General distribution. Iran, China, Tajikistan, Uzbekistan, Turkmenistan; Central Asia,
+Mongolia, Caucasus, Middle East (Gececukori & Locinova 1990; BuRcKHARDT & MiFsub
+2003). Host plants. Populus euphratica, P. diversifolia and P. pruinosa (Salicaceae) (GEGECHKORI
+& Loainova 1990; BurcKHARDT & Mirsup 2003, Li 2011). RuINOCOLINAE Vondraéek, 1957
+
+Agonoscena klapperichi sp. nov.
+(Figs. 15-21)
+
+‘Type locality. Afghanistan, Nuristan, Bashgul Valley, at the Kabul river, 1200 m.
+Material examined. Hotoryee: , NuRISTAN: “Baschgultal (1200 m) / 10.4.1953 am Kabulfluss / J. Klapperich leg. Afgh. // HOLOTYPE, slide 1/5-5/5 / Agonoscena | klapperichi sp. nov. / det. Malenovsky, Lauterer, / Labina &
+Burckhardt, 2012’ (MMBC; slide-mounted on five slides in glycerin-gelatin and Liquid de Swan),
+
+Description. Adult. Coloration (from slide-mounted specimen). Head and pronotum light
+with dark brown pattern consisting of several curved streaks and lines. Antenna pale with
+entire segments | and 9-10, basal half of segment 2 and apices of segments 4 and 6 darker
+brown. Mesopraescutum and mesoscutum marbled dark brown. Forewing membrane light
+brown, bearing a dark brown pattern consisting of many densely spaced small spots, confluent
+especially in the subapical part of the wing and along apices of veins, lighter brown and less
+distinct in the proximal half of wing; membrane lighter medially in cells r,, m, and m, at wing
+margin and in the distal-posterior corner of cu,; veins densely spotted dark brown, apices of
+veins Rs, M,, M, and Cu,,, and basal portions of Rs, M and Cu,, light (Fig. 15). Hind wing
+clear, infuscated brown basally. Structure. Head broadly rounded anteriorly. Coronal suture almost fully developed,
+indistinct only at posterior vertex margin. Genal processes absent. Eyes hemispherical. Clypeus globular, bearing a group of several setae anteriorly. Antenna 10-segmented, rela-
+tively short (shorter than head width), flagellar segments robust, weakly widening to apex
+(Fig. 20); a single oval rhinarium situated subapically on each of segments 4-9; terminal
+setae 0.8 and 1.05 times as long as segment 10 (Fig. 21). Propleurites subequal. Forewing
+
+14 MALENOVSKY et al. : Psylloidea of Afghanistan
+
+ 
+
+ovate, widest in the middle, broadly rounded apically (Fig. 15); vein C+Sc convex, broad,
+indistinctly delimited towards cell c+sc; costal break developed; pterostigma developed,
+about half as wide as adjacent part of cell r,; bases of veins Rs, M+Cu, and M indistinct;
+veins raised, covered in minute setae; surface spinules relatively large, forming irregular
+hexagonal pattern (Fig. 16), present in all cells and reaching veins. Hind wing with seven
+equidistant costal setae basally and one curved seta distally. Metacoxa with weakly raised
+tubercular meracanthus and with relatively slender, small tubular process on trochanteral
+cavity (Fig. 18). Metatibia smooth basally, with an open crown of eight evenly spaced
+sclerotised stout spurs and five unsclerotised thickened setae apically. Metabasitarsus with
+a single sclerotised spur subapically. Female terminalia relatively short; dorsal margin of
+proctiger, in lateral view, with median hump, convex distal of circumanal pore ring (Fig. 17); ventral valvula with a row of five distinct ventral teeth; dorsal valvula cuneate, weakly
+curved downwards (Fig. 19). Male and larva unknown. Measurements (in mm). Head width: 0.57; antenna length: 0.51; forewing length: 1.56;
+
+forewing width: 0.74; metatibia length: 0.49; female proctiger length: 0.42; circumanal pore
+ring length: 0.19; female subgenital plate length: 0.29. Differential diagnosis. A gonoscena Enderlein, 1914 includes thirteen described species in
+the Palaearctic, A frotropical and Oriental biogeographical Realms (BuRCKHARDT & LAUTERER
+1989, L1 2011). Agonoscena klapperichi sp. nov. shares with the other described Agonoscena
+species the presence of a well-developed nodal line on the forewing and the ventrally serra-
+te ventral valvula, but it differs in the more or less uniformly dark forewing which lacks a
+well-delimited zig-zag pattern along the outer margin, and a well-delimited transverse band
+stretching from base of pterostigma to apex of cell Cu,,. Agonoscena klapperichi sp. nov.
+resembles A. bimaculata Mathur, 1973, from Iran and Pakistan in the body size, the structure
+and coloration of the forewing (wing apex broadly rounded, pterostigma present, vein C+Se
+broad and convex, surface spinules relatively large and arranged into an irregular hexagonal
+pattern, membrane with pattern relatively dark and expanded), the structure of the metaco-
+xa (meracanthus weakly raised, tubular process on trochanteral cavity relatively small and
+slender), and the female terminalia (female proctiger in profile with convex dorsal margin
+and a relatively long circumanal pore ring) (Matnur 1973, BuRcKHARDT & LAUTERER 1989). Besides the different forewing pattern (in A. bimaculata consisting of two well-delimited
+transverse dark brown bands along the outer wing margin and the nodal line widely separated
+by a transparent piece of membrane), A. klapperichi sp. nov. differs from A. bimaculata also
+in the slightly shorter terminal setae on the antenna (in A. bimaculata 0.9 and 1.2 times as
+long as segment 10, in A. klapperichi sp. nov. 0.8 and 1.05 times), the relatively shorter and
+broader forewing (in A. bimaculata, the ratio forewing length/width = 2.27-2.41 while in A.
+klapperichi sp. nov. this ratio equals to 2.11) and the narrower pterostigma (in A. bimaculata,
+the pterostigma is about as wide as the adjacent part of the cell r, (see BurckHarpT & LAUTERER
+1989), in A. klapperichi sp. nov. about half as wide). Burcknarpt & Lauterer (1989) proposed a phylogeny for Agonoscena which is partly
+based on characters of the male terminalia. More material, especially male specimens, are
+needed to place A. klapperichi sp. nov. into their phylogenetic scheme. Acta Entomologica Musei Nationalis Pragae, 52(1), 2012 15
+
+ 
+
+21
+
+  
+
+20
+
+Figs. 17-23. 17-21 — Agonoscena klapperichi sp. nov., holotype: 17 — female terminalia, with detail of structure
+of circumanal pore ring, lateral view; 18 — metacoxa, lateral view; 19 — dorsal valvula and apex of ventral valvula,
+lateral view; 20 — antenna; 21 — antennal segment 10. 22-23 — Trioza urticae (Linnaeus, 1758), paramere, inner
+surface, lateral view. 22 — specimen from Afghanistan, Baghlan province; 23 — specimen from the Czech Republic,
+Moravia, Scale bars: 16-17, 19, 21-22: 0.1 mm; 18, 20: 0.05 mm. 16 MALENOVSKY et al. : Psylloidea of Afghanistan
+
+ 
+
+Etymology. Named after the entomologist Johann Friedrich Klapperich (1913-1987) who
+collected the holotype of A. klapperichi sp. nov. and many other psyllids cited in the paper. General distribution. Known only from the type locality in north-eastern Afghanistan. Host plant. Unknown. Other species of Agonoscena are associated with Pistacia, Rhus
+(both Anacardiaceae), Ruta (Rutaceae), Peganum (Zygophyllaceae), and perhaps also
+Xanthoceras (Sapindaceae) and Reaumuria (Tamaricaceae) (BURCKHARDT & LAUTERER
+1989, Li 2011). Agonoscena pistaciae Burckhardt & Lauterer, 1989
+
+Published records. Grarcikor & Locivova (1990): Afghanistan,
+Material examined, Bacutay: 10 km W from Baghlan, Pistacia sp., 1 viii.1966, 5 3¢ 9 9, E. S. Sugonyaev
+leg. (ZIN; dry-mounted). General distribution. Iran, Tajikistan, Uzbekistan, Turkmenistan; Central Asia, Caucasus,
+Middle East, southern Europe (Gececukori & Lociova 1990, BurckHarpt & LAUTERER
+1993, Burcknarpr 2011). Host plants. Pistacia atlantica, P. mutica, P. palaestina, P. terebinthus and P. vera (Anacar-
+diaceae) (Burcknarpt & LAUTERER 1989). TRIOZIDAE Léw, 1879
+Bactericera albiventris (Foerster, 1848)
+
+Published records. Grarcikor & Lociova (1990, as Trioza albiventris): Afghanistan. Material examined. Bacutan: Baghlan, waste land, Elytrigia sp., Artemisia sp., Alhagi sp. and other plants,
+28.xi.1966, 1 9, E. S. Sugonyaev leg. (ZIN; dry-mounted). General distribution. Iran, Tajikistan, Uzbekistan, Turkmenistan; Central Asia, Mongolia,
+Russian Far East and Siberia, Caucasus, Europe (GeGECHKorRI & Locinova 1990; BURCKHARDT
+& Laurerer 1993, 1997). Host plants. Salix spp., mainly S. alba, S. fragilis, S. graci
+(Burckuarpr & Laurerer 1997). is and S. triandra (Salicaceae)
+
+Bactericera nigricornis (Foerster, 1848)
+
+Published records. Locivova (1972, as Trioza nigricornis): Baghlan. Material examined. Bapaknsnan: Kokcha Valley, Senna, 1800 m, 16.vii.1953,2 221 2, J. Klapperich leg. ; War-
+dush Valley, Tehakaran, 6.vii.1953, 1850 m, 1 21 2, J. Klapperich leg. (MMBC; dry and slide-mounted). Ishmara,
+19.vi.1965, 2 322 M. Daniel leg. ; same data, 19.vii.1965, 1 ¢ (MMBC, NMPC; dry-mounted). BapGuts:
+Bala Murghab, 470 m, 20.iii.—L.iv.1964, 1 9, O. Jake leg. ; same data, 8.viii.1964 (MMBC; dry-mounted). Bacn-
+LAN: Baghlan, state farm, 14.vi.1966, | ex. without abdomen; Baghlan, 4.vii.1966, 1 <}, E. S. Sugonyaev leg. (ZIN;
+dry-mounted), Herat: Adraskan, 8.vi,1967, car trap, 1°, M. Daniel leg. (NMPC, dry-mounted). Knut: Kabul,
+28.viii.1966, 3 34, E. S. Sugonyaev leg. (ZIN; dry-mounted). Locar: Moghulkhel, 2000 m, 14,v.1994, 4 22, L.
+Papp leg. (HNHM; dry-mounted). General distribution. Iran, Tajikistan, Uzbekistan; Central Asia, Mongolia, Russian Far
+East and Siberia, Caucasus, Turkey; North Africa, Europe (GeGecHkori & Loainova 1990,
+BurckHarpt & LAuTERER 1997). Acta Entomologia Mu:
+
+ 
+
+lationalis Pragae, 52(1), 2012 17
+
+Host plants. Polyphagous on herbaceous plants of at least four unrelated families including culti-
+vated potatoes, turnips, beets and carrots (Hopkinson 1981, BurckHarpt & Lauterer 1997). Bactericera perrisii Puton, 1876
+
+Published records. Locinova (1972), Burcxitaror & Lavrerer (1997): Afghanistan,
+
+Material examined, Kanu: Kabul env., steppe in the mountains, 18.vii.1966, 4 3 3 99; same locality, deser-
+tified steppe in the mountains, Artemisia spp., Poaceae, 21.vii.1966, 10 3¢ 2 99, E. S. Sugonyaev leg. (ZIN;
+dry-mounted); Tangi Gharu, at the Kabul river, 1600 m, 21.viii.1953, 1 ¢ 2 99, J. Klapperich leg. (MMBC; dry
+and slide-mounted)
+
+ 
+
+ 
+
+General distribution. Iran, China, Tajikistan, Uzbekistan, Turkmenistan; Central Asia,
+Mongolia, Russia (western Siberia), Middle East, Egypt, Caucasus, Europe (GrGEcuKori &
+Loainova 1990, BurckHarpt & LAuTERER 1997). Host plants. Artemisia spp. (Asteraceae) (BAEVA 1985, GeGecHKori! & LoGinova 1990,
+Burckuarpt & Lauterer 1997, Li 2011). Comments. The specimens examined from Tangi Gharu have short, broadly conical genal
+processes (usually absent in B. perrisii). They resemble, however, specimens from Europe
+and Iraq (MMBC) in other characters including the structure of the male terminalia. A vari-
+ation of the shape of the genae is also known from other Bactericera spp. (BURCKHARDT &
+Laurerer 1997). Bactericera rossica Horvath, 1901
+
+Published records. Gececukori & LociNova (1990), BurckHarpr & Laurerer (1997): Afghanistan. Material examined. Bamyan: 70 km W from Bamyan, Band-e-Amir lake, 2800 m, mountain desert, Artemisia sp.,
+Stipa sp. and other plants, 16.ix.1966, 7. 3, E. S. Sugonyaev leg. (ZIN; dry-mounted)
+
+ 
+
+General distribution. Uzbekistan; Kyrgyzstan, Mongolia, Russia (European part, western
+Siberia) (GeGecukori & Locinova 1990, BurckHARDT & LAUTERER 1997). Host plants. Artemisia sp. (Asteraceae) (BURCKHARDT & LAUTERER 1997). Bactericera sp. Material examined. Bapakusan: Shiva Lake, high altitude steppe, 2800 m, 7.vii.1953, 12, J. Klapperich leg. (MMBC; dry-mounted). Comments. In the absence of taxonomically relevant males, it is impossible to identify the
+specimen at hand. Egeirotrioza ceardi (Bergevin, 1926)
+
+Published records. Gearcikort & Loctova (1990): Afghanistan. Material examined. Kunpuz: Shir Khan, left bank of Amu Darya river, on Populus spp. close to P. diversifolia and P.
+pruinosa, galls, 316.ix.1966, 32 3¢ 22 29, 3 larvae, 8 galls, E, S. Sugonyaev leg. ; surroundings of Shir Khan port,
+12.x.1966, 6 34 92, 4 galls; same data, from galls of Populus spp. close to P. diversifolia and P. pruinosa, 4 9°
+same data but 19.x.1966, 9 33.3 9,2 larval exuviae, 4 galls, M. Stolyarov leg. (all ZIN; dry-mounted). General distribution. Iran, Pakistan, China, Tajikistan, Turkmenistan; India, Middle East,
+Central Asia, North Africa (GeGecukori & Locinova 1990, L1 2011). 18 MALENOVSKY et al. : Psylloidea of Afghanistan
+
+ 
+
+Host plants. Populus euphratica, P. diversifolia and P. pruinosa (Salicaceae) (GEGECHKORI
+& Loainova 1990). Egeirotrioza intermedia Baeva, 1963
+
+Published records. Grcrcukort & Lociova (1990): Afghanistan. Material examined. Kuxpuz: Shir Khan, left bank of Amu Darya river, on Populus spp. close to P. diversifolia and
+P. pruinosa, smooth galls, 3.-16.ix.1966, 6 2 10 22, 12 galls, E. S. Sugonyaev leg. (ZIN; dry-mounted). General distribution. Tajikistan, Uzbekistan, Turkmenistan; Israel (GEGECHKORI & LOGINOVA
+1990). Host plants. Populus diversifolia and P. pruinosa (Salicaceae) (GeGEcHKORI & LoGINova
+1990). Trioza dichroa Scott, 1879
+
+Material examined. Bapcmis: Bala Murghab, 470 m, 30.vi—31.viii.1964, 1 ¢ 2 99, O. Jakes leg. NaNGARHAR:
+Jalalabad, 500 m, 30.iii.1953, 1 2, J. Klapperich leg. (all MMBC; dry-mounted). General distribution. Iran, Tajikistan, Uzbekistan, Turkmenistan; Central Asia, Caucasus,
+Europe (Gececukori & Locinova 1990, BurckHarpt 2011). New record for Afghanistan. Host plants. Arriplex spp. and Chenopodium spp. (Amaranthaceae) (GrGecHKoRI & LoGINovA
+1990). Trioza urticae (Linnaeus, 1758)
+(Figs. 22-23)
+
+Material examined, Bacuta:
+Jeg. ; same data, 1.x.1952, 1
+
+ 
+
+indu Kush, Khinjan Valley, Do-Shak, 2500 m, 26.ix.1952, 1 ¢
+(MMBC; dry-mounted). J. Klapperich
+
+ 
+ 
+
+General distribution. Iran, China, Tajikistan; India, Central Asia, Mongolia, Russian Far
+East and Siberia, Caucasus, Turkey, Europe (Gececukor! & Locinova 1990, BURCKHARDT &
+LaurTerer 1993, BurcKHARDT 2011, Li 2011). New record for Afghanistan. Host plants. Urtica cannabina, U. dioica and U. urens (Urticaceae) (GEGECHKoRI & LOGINOVA
+1990). Comments. Males from Afghanistan differ from European specimens in the slightly broader
+paramere which is hardly constricted subapically (Figs. 22-23). More material is needed to
+assess the taxonomic significance of this difference. Trioza sp. Material examined. Nuristan: Bashgul Valley, 1100 m, 14.iv.1953, 1 ex., J. Klapperich leg. (MMBC; dry-
+mounted),
+
+Comments. The specimen is damaged and lacks terminalia. It resembles Trioza alacris Flor,
+1861, in general aspect but differs in the relatively shorter and broader forewings. More
+material is needed for its identification. Acta Entomologica Musei Nationalis Pragae, 52(1), 2012 19
+
+Discussion and conclusions
+
+Thirty-seven species of Psylloidea are reported from Afghanistan, five of which remain
+unidentified due to insufficient material available. Fifteen species, including Agonoscena
+klapperichi which is described as new, are recorded here for the first time from the country. The psyllid fauna of Afghanistan remains poorly known and many additional species can
+be expected considering the size and botanical richness of the country, as well as the num-
+ber of psyllid species known from the adjacent countries. Ninety-six species of jumping
+plant-lice have been reported from Iran (BurcKHARDT & Lauterer 1993, Asapr et al. 2009). Gececukort & Loainova (1990) list 228 species of Psylloidea from former Soviet Central
+Asia (Afghanistan’s neighbours Tajikistan, Uzbekistan and Turkmenistan plus Kyrgyzstan)
+with a high proportion of endemics — 62 species (27 %). Tajikistan has, with 162 recorded
+species, the highest number of known species in the region (Barva 1985). The psyllid fauna
+of China, also a country adjacent to Afghanistan but with a much larger and biologically
+diverse territory includes 1001 species (Li 2011). Most of the available data come from north-eastern Afghanistan (provinces of Nuristan
+— 10 spp., Baghlan — 8, Badakhshan — 7, Kunduz — 6) while only five species are known
+from the west (Badghis) and three from Kandahar in southern Afghanistan. No information
+is available for the extensive deserts and semi-deserts in the south-west. Big differences in
+faunal composition between different regions of Afghanistan are known from other insects
+such as beetles or grasshoppers (KryzHaNovskry 1983). Most of the Afghan psyllid fauna as presently known is a mix of species with wide Palaear-
+ctic (Bactericera nigricornis, B. perrisii, Trioza dichroa and T. urticae), wide south-western
+Asian (most Colposcenia spp., Cyamophila glycyrrhizae, Psyllopsis securicola, and Syntomoza
+unicolor) and restricted Central Asian distributions (Craspedolepta manica, C. vestita, and
+Cyamophila aberrans). A few species are Oriental biogeographical elements (Diaphorina
+citri and Homotoma indica). Three species (Agonoscena klapperichi, Cyamophila afganica
+and Livilla klapperichi) are currently known only from Afghanistan. Two of the psyllid species reported from Afghanistan are pests of cultivated plants. Dia-
+phorina citri is a vector of the causal agent of ,,huanglongbing" (greening disease) on Citrus
+spp. and constitutes currently the most serious citrus pest in Asia and the New World (Hatert
+& Manuunatu 2004). Agonoscena pistaciae inflicts damage to pistachio plants and has some
+economic impact in south-eastern Europe and the Middle East (Hassanr et al. 2009). Further studies are needed for a better understanding of the taxonomy, biogeography and
+economic importance of the jumping plant-lice in Afghanistan. Acknowledgements
+
+We are obliged to the late Johann Friedrich Klapperich for the gift of material to the Mora-
+vian Museum, Brno. Petr Kment (NMPC), Andras Orosz and David Rédei (both HNHM)
+kindly provided access to the collections under their care. Jowita Drohojowska (Department
+of Zoology, University of Silesia, Katowice, Poland), Petr Kment and an anonymous reviewer
+
+20 MALENOVSKY et al. : Psylloidea of Afghanistan
+
+ 
+
+ 
+
+are thanked for critical reading of the manuscript and useful comments. The paper was partly
+prepared with the institutional support of the Moravian Museum, Brno from the Ministry of
+Culture of the Czech Republic (MK000094862). References
+
+AL-ZADIALIT. S., IBRAHIM R. & AL-RAWAHIA. K. 2008: First record of Diaphorina citri Kuwayama (Hemi-
+ptera: Psyllidae) from the Sultanate of Oman, Insecta Mundi 39: 1-3. ANONYMUS 1967: Verzeichnis der Lokalititen, In: Beitrige zur Kenntnis der Fauna Afghanistans 1. Acta Musei
+Moraviae, Scientiae Naturales 52(Supplementum): 15-34. APG III [the Angiosperm Phylogeny Group III] 2009: An update of the Angiosperm Phylogeny Group classification for
+the orders and families of flowering plants: APG III. Botanical Journal of the Linnean Society 161: 105-121. ASADI R., TALEBI A. A., BURCKHARDT D., KHALGANI J., FATHIPOUR Y. & MOHARRAMIPOUR S.
+2009: On the identity of the olive psyllids in Iran (Hemiptera, Psylloidea). Mitteilungen der Schweizerischen
+Entomologischen Gesellschaft 82: 197-200. BAEVA V. G. 1978: Novye vidy listobloshek iz SredneyAsii. (New species of jumping plant lice (Homoptera, Psyl-
+loidea) from Middle Asia). Zoologicheskiy Zhurnal 57: 32-45 (in Russian, English summary). BAEVA V. G. 1985: Fauna Tadzhikskoy SSR. Tom VIII. Psillidy, ili listobloshky (Homoptera, Psylloidea. (Fauna
+of the Tadjik Soviet Socialist Republic. Volume VII. Jumping plant lice (Homoptera, Psylloidea)). Donish,
+Duschanbe, 340 pp (in Russian, English title). BAJEVA [sic!] V. G. & KLIMASZEWSKI S. M. 1993: A survey of the species of the genus Cyamophila Log. (Homoptera, Psylloidea). Acta Biologica Silesiana 22: 30-56. BRECKLE S. W, 2007: Flora and vegetation of Afghanistan, Basic and Applied Dryland Research (2): 155-194. BURCKHARDT D. 1987: Jumping plant lice (Homoptera: Psylloidea) of the temperate neotropical region. Part
+1: Psyllidae (subfamilies Aphalarinae, Rhinocolinae and Aphalaroidinae). Zoological Journal of the Linnean
+Society 89: 299-392. BURCKHARDT D, 1988: Angaben zur Psyllidenfauna der Nordosttiirkei (Homoptera: Psylloidea). Mitteilungen
+der Entomologischen Gesellschaft Basel 38: 31-44. BURCKHARDT D. 2011: Fauna Europaea: Psylloidea. In: Fauna Europaea, version 2.4. Available online at http://
+www-faunaeur.org (accessed 13 January 2012). BURCKHARDT D, & LAUTERER P. 1989: Systematics and biology of the Rhinocolinae (Homoptera, Psylloidea). Journal of Natural History 23: 643-712. BURCKHARDT D. & LAUTERER P, 1993: The jumping plant-lice of Iran (Homoptera, Psylloidea). Revue Suisse
+de Zoologie 100: 829-898. BURCKHARDT D. & LAUTERER P. 1997: A taxonomic reassessment of the triozid genus Bactericera (Hemiptera,
+Psylloidea). Journal of Natural History 31: 99-153. BURCKHARDT D. & MIFSUD D. 2003: Jumping plant-lice of the Paurocephalinae (Insecta, Hemiptera, Psyl-
+loidea): systematics and phylogeny. Contributions to Natural History (Bem) 2: 3-34,
+
+BURCKHARDT D. & ONUCAR A. 1993: A review of Turkish jumping plant-lice (Homoptera, Psylloidea). Revue
+Suisse de Zoologie 100: 547-574,
+
+BURCKHARDT D. & van HARTEN A. 2006: Jumping plant-lice (Insecta: Hemiptera: Psylloidea) of Yemen, Fauna
+of Saudi Arabia 21: 189-216. CABI (Centre for Agricultural Bioscience International) 2001: Diaphorina citri (Distribution map). Distribution
+Maps of Plant Pests, 2001, December (1st revision), Map 334. Available online at http://www.cabi.org/dmpp/
+‘Mloadmodule=review&page=40498creviewid=1541 1 &site=164 (accessed 17 May 2011)
+
+CIE (Commonwealth Institute of Entomology) 1974: Pest: Diaphorina citri (Kuway.). Distribution Maps of Pests,
+Series A (Agricultural), Map 334. Commonwealth Agricultural Bureaux, London. GEGECHKORIA. M. & LOGINOVAM. M. 1990: Psillidy (Homoptera, Psylloidea) SSSR (annotirovannyy spisok). [The Psyllids (Homoptera, Psylloidea) of the USSR (an annotated check list)]. Mecniereba, Tbilisi, 191 pp (in
+Russian, English summary). Acta Entomologia Mu:
+
+ 
+
+lationalis Pragae, 52(1), 2012 21
+
+HALBERTS. E. & MANJUNATH K. L. 2004: Asian citrus psyllids (Sternorrhyncha: Psyllidae) and greening disease
+of citrus: a literature review and assessment of risk in Florida. Florida Entomologist 87: 330-353. HALPERIN J., HODKINSON I. D., RUSSELL L. M. & BERLINGER M. J. 1982: A contribution to the knowledge
+of the psyllids of Israel (Homoptera: Psylloidea). Israel Journal of Entomology 16: 27-44. HASSANI M. R., NOURI-GANBALANI G., IZADI H., SHOJAI M. & BASIRAT M. 2009: Economic injury level
+of the psyllid, Agonoscena pistaciae, on pistachio, Pistacia vera cv. Ohadi. Journal of Insect Science 9(40): 1-4
+(available online at: http://www.insectscience.org/9.40/i1536-2442-9-40. pdf, accessed 17 May 2011). HODKINSON I. D. 1981: Status and taxonomy of the Trioza (Bactericera) nigricornis Férster complex (Hemiptera:
+Triozidae). Bulletin of Entomological Research 71: 671-679. HODKINSON I. D. 1986: The psyllids (Homoptera: Psylloidea) of the Oriental Zoogeographical Region: an anno-
+tated check-list. Journal of Natural History 20: 299-357. HODKINSON I. D. & HOLLIS D. 1987: The legume-feeding psyllids (Homoptera) of the west Palaearctic Region. Bulletin of the British Museum (Natural History), Entomology 56: \-86. HOLLIS D. & BROOMFIELD P. S. 1989: Ficus-feeding psyllids (Homoptera), with special reference to the Homo-
+tomidae. Bulletin of the British Museum (Natural History), Entomology $8: 131-183. HORVATH G. 1904: Insecta Heptapotamica a DD. Almasy et Stummer-Traunfels collecta. I. Hemiptera. Annales
+Musei Nationalis Hungarici 2: 574-590. JAKES O. 1967: Reisebericht und Charakteristik des Sammelgebietes. In: Beitriige zur Kenntnis der Fauna Afgha-
+nistans I, Acta Musei Moraviae, Scientiae Naturales $2(Supplementum): 9-11. KLAPPERICH J. 1954: Auf Forschungsreisen in Afghanistan, Entomologische Blatter 50: 107-118,
+
+KRYZHANOVSKIY O.L. 1983: Osnovnye zakonomemosti sostava i raspredeleniya entomofauny Afganistana, [The
+major patterns of composition and distribution of entomofauna of Afghanistan]. Pp. 101-114. In: SOKOLOV
+V. E. (ed. ): Ekologiya i biogeografiya v Afganistane. (Ecology and biogeography in Afghanistan). Moscow,
+Nauka (in Russian). LIF, 2011: [Psyllidomorpha of China (Insecta: Hemiptera). Science Press, Beijing, China, 1976 pages + 19 plates
+(in Chinese, English summary). LOGINOVA M. M. 1972: Psillidy (Psylloidea, Homoptera) Mongol’skoy Narodnoy Respubliki. [The psyllids (Psyl-
+loidea, Homoptera) of the Mongolian People’s Republic]. Nasekomye Mongolii 1: 261—324 (in Russian). LOGINOVA M. M. 1974: Listobloshki triby Stigmaphalarini Vondr. (Psylloidea, Aphalaridae) aridnykh rayonov
+Palearktiki, (Jumping plant-lice of the tribe Stigmaphalarini Vondr. (Psylloidea, Aphalaridae) from arid regions
+of Palacarctic). Entomologicheskoe Obozrenie 53: 150-170 (in Russian, English title). LOGINOVA M. M. 1978: Novye vidy psillid (Homoptera, Psylloidea), [New species of psyllids (Homoptera: Psyl-
+loidea)}. Trudy Zoologicheskogo Institura 61: 30-123 (in Russian). LOGINOVA M. M. & BAEVA V. G. 1972: Obzor psillid roda Psylla Geoftt. (Homoptera, Psylloidea), svyazannykh s
+solodkami. (Review of psyllids of the genus Psylla Geof. (Homoptera, Psylloidea), connected with Glycyrrhiza
+species). Trudy Vsesoyucnogo Enomologicheskogo Obshchestva 55: 4-13 (in Russian, English title). MALENOVSKY I, & JERINIC-PRODANOVIC D. 2011: A revised description of Psyllopsis repens Loginova, 1963
+(Hemiptera: Psylloidea: Psyllidae), with first records from Europe. Archives of Biological Sciences (Belgrade)
+63: 275-286,
+
+MATHUR R. N. 1973: On a collection of Psyllidae (Homoptera) from the Indian subregion with descriptions of
+three new species. Oriental Insects 7: 515-526. MATHUR R. N. 1975: Psyllidae of the Indian Subcontinent. Indian Council of Agricultural Research, New Delhi,
+429 pp. MoAIL (Ministry of Agriculture, Irrigation and Livestock, Islamic Republic of Afghanistan) 2009: Afghanistan's
+Fourth National Report to the Convention on Biological Diversity. 138 pp. Available online at http:/;www.cbd. int/doc/world/af/af-nr-04-en.pdf (accessed 1 February 2011). NAHIF A. A. 1986: Bibliographic der zoologischen Literatur tiber Afghanistan. Bonner Zoologische Beitriige 37:
+311-339,
+
+OLSON D. M., DINNERSTEIN E., WIKRAMANAYAKE E. D., BURGESS N. D., POWELL G. V. N., UNDER-
+WOOD E. C., D’AMICO J. A. D., ITOUA I, STRAND H. ALLNUTT
+T. F, RICKETTS T. H., KURA Y., LAMOREUX J. F, WETTENGEL W. W., HEDAO P. & KASSEM K. R.
+2001: Terrestrial ecoregions of the world: A new map of life on Earth. BioScience 51: 933-938. 22 MALENOVSKY et al. : Psylloidea of Afghanistan
+
+ 
+
+OSSIANNILSSON F. 1992: The Psylloidea (Homoptera) of Fennoscandia and Denmark. Fauna Entomologica
+Scanidinavica 26, E. J. Brill, Leiden, New York, Kéln, 347 pp. SULC K. 1913: Zur Kenntnis einiger Psylla Arten aus dem Ungarischen National-Museum in Budapest. Annales
+Historico-Naturales Musei Nationalis Hungarici M1: 409-435. UNEP (United Nations Environment Programme, Post-Conflict and Disaster Management Branch) 2008: Biodiver-
+sity Profile of Afghanistan, An Output of the National Capacity Needs Self-Assessment for Global Environment
+Management (NCSA) for Afghanistan. United Nations Environment Programme, Kabul, 152 pp. Available online
+at http://postconflict.unep.ch/publications/afg_tech/theme_02/afg_biodiv.pdf (accessed 1 February 2011). WHITE I. M. & HODKINSON I. D. 1985: Nymphal taxonomy and systematics of the Psylloidea (Homoptera). Bulletin of the British Museum (Natural History), Entomology 30: 153-301.

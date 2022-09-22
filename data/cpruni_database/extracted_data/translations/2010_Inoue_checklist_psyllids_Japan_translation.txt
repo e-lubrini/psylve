@@ -1,0 +1,1173 @@
+This article was downloaded by: [194.254.138.238]
+
+On: 19 September 2011, At: 02:27
+
+Publisher: Taylor & Francis
+
+Informa Ltd Registered in England and Wales Registered Number: 1072954 Registered
+office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+
+ 
+
+Journal of Natural History
+
+Publication details, including instructions for authors and
+subscription information:
+
+http://www. tandfonline.com/loi/tnah20
+
+The generic affiliation of Japanese
+species of the subfamily Psyllinae
+(Hemiptera: Psyllidae) with a revised
+checklist
+
+Hiromitsu Inoue *
+* Kuchinotsu Citrus Research Station, National Institute of Fruit
+Tree Science, Nagasaki, Japan
+
+Available online: 18 Feb 2010
+
+ 
+
+To cite this article: Hiromitsu Inoue (2010): The generic affiliation of Japanese species of the
+subfamily Psyllinae (Hemiptera: Psyllidae) with a revised checklist, Journal of Natural History,
+44:5-6, 333-360
+
+To link to this article: http://dx.doi.org/10.1080/00222930903437325
+
+ 
+
+PLEASE SCROLL DOWN FOR ARTICLE
+
+ 
+
+ 
+
+Full terms and conditions of use: http://www.tandfonline.com/page/terms-and-
+conditions
+
+This article may be used for research, teaching and private study purposes. Any
+substantial or systematic reproduction, re-distribution, re-selling, loan, sub-licensing,
+systematic supply or distribution in any form to anyone is expressly forbidden. The publisher does not give any warranty express or implied or make any representation
+that the contents will be complete or accurate or up to date. The accuracy of any
+instructions, formulae and drug doses should be independently verified with primary
+sources. The publisher shall not be liable for any loss, actions, claims, proceedings,
+demand or costs or damages whatsoever or howsoever caused arising directly or
+indirectly in connection with or arising out of the use of this material. aded by [194.254.138.238] at 02:27 19 September 2011
+
+ 
+
+Journal of Natural History
+
+Mu Taylor & Francis
+Vol. 44, Nos. 5-6, February 2010, 333-360
+
+Taylor & Francs Group
+
+ 
+
+The generic affiliation of Japanese species of the subfamily Psyllinae
+(Hemiptera: Psyllidae) with a revised checklist
+
+Hiromitsu Inoue*
+Kuchinotsu Citrus Research Station, National Institute of Fruit Tree Science, Nagasaki, Japan
+
+(Received 2 February 2009; final version received 21 October 2009)
+
+ 
+
+The generic affiliations of all the Japanese species of the psyllid subfamily Psyllinae
+are re-examined under the current generic recognition of the subfamily based
+mainly on adult morphological characters. Twenty-two species of the genus Psylla
+Geofiroy are newly combined with the genus Cacopsylla Ossiannilsson. Psylla
+wulinensis Yang and Aphalara akebiae Shinji are newly synonymized with Psylla
+multipunctata Miyatake and Cacopsylla hakonensis (Kuwayama), respectively. In
+addition, Cacopsylla toddaliae (Yang) is newly recorded from Japan, In all, 62
+species of the Japanese Psyllinae are recognized and classified into three genera
+Psylla, Cacopsylla and Chamaepsylla Ossiannilsson, which include 11, 50 and one
+species, respectively. A key to Japanese psylline genera and a revised checklist of
+all the Japanese species of Psyllinae are presented with their distribution and host
+plant information and also with their synonymies. Keywords: Cacopsylla; Chamaepsylla; Psylla; Psylloidea
+
+Introduction
+
+The jumping plant lice of the psyllid subfamily Psyllinae (sensu Klimaszewski 1975;
+Ossiannilsson 1992) currently comprise 61 known species in Japan (excluding the
+South Kuril Islands) (Kuwayama 1908; Miyatake 1963, 1964a, 1965a, 1969, 1982a, b;
+Matsumoto 1995; Miyatake and Usuba 1997; Inoue and Miyatake 2001; Inoue
+2004a, b) and is considered the largest subfamily in the superfamily Psylloidea, which
+includes 155 Japanese species. All the Japanese psylline species had been formerly
+placed in the genus Psylla Geoffroy, 1762 [sensu lato (s.1.) as in Ossiannilsson 1970],
+except the seven species that were originally described in the genus Cacopsylla
+Ossiannilsson, 1970 (Inoue and Miyatake 2001; Inoue 2004a,b). Of these 54 Psylla
+(s.L) species, 20 species have been transferred to the genus Cacopsylla and one species to
+the genus Chamaepsylla Ossiannilsson, 1970, which were raised from the subgenera of
+the genus Psylla (s.1.) (Klimaszewski 1975; Lauterer 1976; Burckhardt 1979; Hodkinson
+1980; Park et al. 1995; Park 1996; Inoue 2004b), and only three species, i.e. Psylla alni
+(Linnaeus, 1758), Psylla betulae (Linnaeus, 1758) and Psylla carpinicola Crawford, 1914
+have been recognized as belonging to Psylla [sensu stricto (s.s.)] (Hodkinson 1988). Consequently, the remaining 30 species in Psylla (s./.) have not been reviewed. In the present study, the generic affiliation of all the Japanese species of Psyllinae
+is reviewed in light of the current definition of the psylline genera (Ossiannilsson
+1992). The revised checklist provides the complete distribution and host-plant
+
+ 
+
+ 
+
+ 
+
+*Email: hiinoue@affre.go.jp
+
+ISSN 0022-2933 print/ISSN 1464-5262 online
+© 2010 Taylor & Francis
+
+DOK: 10.1080/00222930903437325
+http:/Awww.informaworld.com
+
+Downloaded by [194.254.138.238] at 02:27 19 September 2011
+
+334 H. Inoue
+
+information for each of the species and also includes synonymies and bibliographies
+referring to the distribution in Japan. Further classification including subgeneric divi-
+sion and phylogenetic relationships is not mentioned in this paper and would be
+based on subsequent studies that involve nymphal morphological researches. Materials and methods
+
+The materials used in the present study were based chiefly on specimens deposited in
+the Entomological Laboratory, Faculty of Agriculture, Kyushu University, Fukuoka,
+Japan (ELKU) and the author’s collection that is presently in the Kuchinotsu Citrus
+Research Station, National Institute of Fruit Tree Science, Nagasaki, Japan
+(NIFTS). Materials preserved in the following institutions were also used: Laboratory of
+Systematic Entomology, Faculty of Agriculture, Hokkaido University, Sapporo,
+Japan (SEHU); National Institute for Agro-Environmental Sciences, Tsukuba,
+Japan (NIAES); Osaka Museum of Natural History, Osaka, Japan (OMNH); and
+Kurashiki Museum of Natural History, Kurashiki, Japan (KURA). In the case of
+some species where no specimens were examined, descriptions in the literature were
+used to confirm their morphological features. Morphological terminology follows
+mainly Ossiannilsson (1992). Results and discussion
+
+Of the 30 Psylla (s./.) species whose generic combinations should be revised, 22
+species are newly transferred to the genus Cacopsylla in the latter list on the basis of
+the diagnostic characteristics of the genus (Ossiannilsson 1992). Two out of the
+ing eight species, i.e. Psylla morimotoi Miyatake, 1963 and Psylla omogoensis
+Miyatake, 1963, are recognized as belonging to Psylla (s.s.). The remaining six
+species, Psylla chujoi Miyatake, 1982, Psylla kuwayamai Crawford, 1911, Psylla
+magnifera Kuwayama, 1908, Psylla multipunctata Miyatake, 1964, Psylla yasumatsui
+Miyatake, 1963 and Psylla ziozankeana Kuwayama, 1908, are provisionally retained
+in Psylla (s.1.) mainly because the adult morphological features of these species do not
+clearly fit any of the existing psylline genera (see the notes for the respective species). In addition, Cacopsylla toddaliae (Yang, 1984) is newly recorded from Japan. In all,
+62 species of Psyllinae are recognized in Japan and classified into three genera Psylla
+(including s./. ), Cacopsylla and Chamaepsylla, each of which includes 11, 50 and one
+species, respectively. The following two psylline species that have been recorded only once from main-
+land Japan by Kuwayama (1908) are not dealt with in the checklist because of strong
+suspicions of misidentification. A European Psylla salicicola Foerster, 1848, which is
+now treated as a junior synonym of a European willow-feeding species Cacopsylla
+saliceti (Foerster, 1848) (= Psylla saliceti) (Aulmann 1913; Klimaszewski 1973) has
+been recorded in Japan from Hokkaido and Honshu by Kuwayama (1908); however,
+the morphological features of the Japanese “P. salicicola” materials in the
+Kuwayama collection at SEHU obviously differ from those of C. saliceti of Europe in
+that the former bears a few characteristics such as prominent black marking near the
+“anal break” of the forewing and relatively long genal cones. Kuwayama (1908) also
+recorded Psyilla foersteri Flor, 1861, which is currently combined with the genus Bae-
+opelma Enderlein, 1926, on the basis of the materials from Hokkaido and Honshu,
+
+ 
+
+  
+
+Downloaded by [194.254.138.238] at 02:27 19 September 2011
+
+Journal of Natural History 335
+
+Japan. However, these specimens deposited in SEHU were merely distinguished from. Psylla alni (Linnaeus) by trivial differences in coloration; for this reason,
+Kuwayama’s “P. foersteri” of Japan is a likely misidentification of P. alni. The following seven psylline species, Psylla araliae Konovalova, 1981, Psylla
+cunashiri Konovalova, 1981, Psylla fumosa Konovalova, 1979, Psylla octomaculata
+Konovalova, 1982, Cacopsylla amabilis (Ossiannilsson, 1975), Cacopsylla melanoneura
+(Foerster, 1848) and Cacopsylla moscovita (Andrianova, 1948) have been recorded in
+Japan only from the South Kuril Islands, namely islands of Etorofu (Iturup),
+Kunashiri (Kunashir) and Shikotan (Ossiannilsson 1975; Konovalova 1988; Labina
+2006), which the Japanese government claims. However, these species are not
+included in the latter checklist because no materials from the islands were examined. Key to genera of the subfamily Psyllinae in Japan
+
+1. Body larger, overall length (up to tip of folded wings) more than 4mm;
+antenna more than twofold (usually 2.5- to 3-fold) as long as width of head
+(Figure 1A); metatibia with a prominent basal spine, with six or more
+(mostly six to eight) spurs apically (Figure 1B, C); paramere slender, often
+clavate apically (Figure 1D); female terminalia long and slender (Figure IF),
+
+ 
+
+Figure 1. Characters of Japanese Psyllinae. (A~D, F) Psylla alni (Linnaeus); (E, G) Cacopsylla
+coccinea (Kuwayama). (A) Head, frontal aspect; (B) left hind leg; (C) apex of metatibia; (D, E)
+male terminalia, lateral aspect; (F, G) female terminalia, lateral aspect; as, apical spurs of
+metatibia; bs, basal spine of metatibia; pm, paramere; pr, proctiger. Scale bars 0.25 mm. Downloaded by [194.254.138.238] at 02:27 19 September 2011
+
+336 H. Inoue
+
+mostly longer than the rest of abdomen. (Nymphs: anus located terminally;
+circumanal pore field conspicuously large, distinctly extending to the dorsum
+of abdomen.) . 2.0.6... eee eee Psylla Geoffroy
+Body small to moderate in size, overall length less than 4 mm; antenna less
+than twofold as long as width of head; metatibia with a small or (rarely)
+without basal spine, with five or fewer spurs apically; paramere varied in
+shape, usually simple and tapered (Figure 1E); female terminalia mostly
+shorter than the rest of abdomen (Figure 1G). (Nymphs: anus located ven-
+trally; circumanal pore field small to moderate in size, usually not extending
+to the dorsum of abdomen.) «2.00.0... 06.0 e cece cece eee eee 2
+
+  
+
+2. Metatibia with or (rarely) without basal spine, with five spurs apically;
+female terminalia relatively small and stout, mostly shorter than the rest of
+abdomen; dorsal margin of female proctiger sinuate or curved. (Nymphs:
+antenna seven-segmented, terminal segment with two rhinaria.).......... Feet cence Cacopsylla Ossiannilsson
+
+Metatibia without basal spine, with four spurs apically; female terminalia
+
+distinctly longer than the rest of abdomen; dorsal margin of female proctiger
+
+nearly straight. (Nymphs: antenna eight-segmented, terminal segment with
+onerhinarium) 2.0.0. 0.0.0.00 00 0c eee eee Chamaepsylla Ossiannilsson
+
+ 
+
+List of the Japanese genera and species of the subfamily Psyllinae
+
+Genus Psylla Geoffroy
+Psylla Geoffroy 1762, p 482. Type species: Chermes alni Linnaeus, 1758, by subsequent designation under the Ple-
+nary Powers of the International Commission on Zoological Nomenclature. Psylla alni (Linnaeus)
+Chermes alni Linnaeus 1758, p 454. Type locality: Sweden. Psylla alné: Kuwayama 1908, p 169; Oshanin 1912, p 127; Aulmann 1913, p 9;
+Tuthill 1943, p 460; Sasaki 1954, p 33; Miyatake 1963, p 334; 1964b, p 25; 1969,
+p 73; 1972b, p 101; Klimaszewski 1973, p 200; Miyatake 1979, p 216; Kwon 1983,
+p 40; Konovalova 1988, p 517; Ossiannilsson 1992, p 102; Matsumoto 2004, p 275;
+Labina 2006, p 53. Distribution. Holarctic. Japan (Hokkaido, Honshu, Kunashiri Island, Shikotan
+Island), Korea, Russian Far East, Europe, North America (USA, Canada). Host plants. Alnus japonica (Thunb.) Steud. (Betulaceae) and Alnus hirsuta Turcz. in
+Japan (Miyatake 1963); Alnus glutinosa (L.) Gaertn., Alnus incana (L.) Mnch. and
+Alnus viridis (Vill.) Lam. et. DC. in Europe; Alnus rhombifolia Nutt. in North America
+(Ossiannilsson 1992). 2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+Journal of Natural History 337
+
+Psylla betulae (Linnaeus)
+
+Chermes betulae Linnaeus 1758, p 454. Type locality: Sweden. Psylla betulae: Kuwayama 1908, p 170; Oshanin 1912, p 127; Aulmann 1913, p 11;
+Sasaki 1954, p 33; Miyatake 1963, p 339; Kuwayama 1967, p 64; Klimaszewski 1973,
+p 201; Hodkinson and White 1979, p55; Konovalova 1988, p 517; Ossiannilsson
+1992, p 103; Labina 2006, p 53. Distribution. Japan (Hokkaido, Honshu, Etorofu Island, Kunashiri Island, Shikotan
+Island), Mongolia, Russian Far East, Europe, North America (Canada). Host plants. Betula platyphylla var. japonica (Mig.) Hara (= Betula tauscii Koidz.) (Betulaceae) (Sasaki 1954) and *Betula ermanii Cham. (new record) (Betulaceae) in
+Japan; Betula verrucosa Ehth. and Betula pubescens Ehrh, in Europe (Ossiannilsson 1992). * Adults and nymphs were confirmed on B. ermanii at Mount Kita-dake, Ashiyasu,
+Yamanashi Prefecture, Honshu, Japan on 12 July 2001 by H. Inoue (NIFTS). Psylla carpinicola Crawford
+
+Psylla carpinicola Crawford 1914, p 151 (replacement name for Psylla carpini Fitch,
+1851, nec Foerster, 1848); Miyatake 1964a, p 14; Klimaszewski 1973, p 203; Hodkinson
+1988, p 1217. Type locality: USA. Distribution. Japan (Honshu), North America (USA, Canada). Host plant. Unknown in Japan. Carpinus caroliniana Walt. (Betulaceae) in North
+America (Tuthill 1943). Psylla morimotoi Miyatake
+
+Psylla morimotoi Miyatake 1963, p 336; 1964b, p 27; 1969, p 74; Baba and Miyatake
+1971, p 9; Klimaszewski 1973, p 216; Miyatake 1979, p 217; Inoue and Yamauchi
+2001, p 55. Type locality: Japan (Honshu). See the notes for the next species,
+Distribution. Japan (Honshu, Sado Island). Host plant. Prunus grayana Maxim. (Rosaceae) (Miyatake 1969). Psylla omogoensis Miyatake
+
+Psylla omogoensis Miyatake 1963, p 335; 1969, p73; Klimaszewski 1973, p 218;
+Miyatake 1979, p 217; Matsumoto 2004, p 276. Type locality: Japan (Shikoku). The correct number of apical metatibial spurs of P. morimotoi and P. omogoensis is
+not “five” as originally described in Miyatake (1963), but “six” based on the holo-
+types and many determined specimens of both species. Furthermore, the nymphal
+
+Downloaded by [194.254.138.238] at 02:27 19 September 2011
+
+338 H. Inoue
+
+ 
+
+characteristics of the two species exactly fit the genus Psylla (s.s.) as follows: antenna
+eight-segmented; anus located terminally; circumanal pore field very large, distinctly
+extending to the dorsum of abdomen. Distribution. Japan (Honshu, Shikoku). Host plant. * Prunus buergeriana Mig. (Rosaceae) (new record). *Nymphs and newly emerged adults were collected from P. buergeriana at Ooi,
+Shinano, Nagano Prefecture, Honshu, Japan in June 2001 by S. Usuba (NIFTS). The generic positions of the following six species are not properly settled based only
+on adults and nymphs are unknown except for Psylla kuwayamai Crawford and Psylla
+multipunctata Miyatake. Accordingly, I leave these six species in the genus Psylla (s.l
+as in Ossiannilsson, 1970) until nymphal morphological studies have been finished. Psylla (s.L.) chujoi Miyatake
+Psylla chujoi Miyatake 1982b, p 169. Type locality: Japan (Yakushima Island). Miyatake (1982b) remarked that P. chujoi “seems to be closely related to Psylla buxi
+(Linnaeus, 1758)”, which occurs in Europe and North America and feeds on Buxus
+sempervirens L. However, I cannot find the morphological similarity of the two Buxus-
+feeders except the elongated female terminalia as the result of the direct comparison
+between the paratypes (three males and three females) of P. chujoi and the specimens
+(four males and two females) of P. buxi collected from North America (New Hampshire,
+USA). Furthermore, the female proctiger is strongly acute and upturned apically in
+P. chujoi and moderately acute and somewhat downcurved apically in P. buxi. The
+characteristics of the female terminalia of P. chujoi appear to be similar to those of
+Psylla yasumatsui Miyatake, 1963 and Psylla ziozankeana Kuwayama, 1908, both of
+which are placed in Psylla (s.1,) in this study. Because the nymphs of P. chujoi are so far
+unknown, I will leave this species in Psyla (s.1.) until nymphs become available. Distribution. Japan (Yakushima Island). Host plant. Buxus microphylla var. japonica (Muell. Arg. ex Mig.) Rehder et Wils. (Buxaceae) (Miyatake 1982b). Psylla (s.L) kuwayamai Crawford
+
+Psylla tripunctata Kuwayama 1908, p 174 (primary junior homonym of Psylla
+tripunctata Fitch, 1851). Type locality: Taiwan. Psylla kuwayamai Crawford 1911, p 432 (replacement name for P. tripunctata
+Kuwayama nec Fitch); Miyatake 1963, p 356; Klimaszewski 1973, p 213; Miyatake
+1981, p 59; Yang 1984, p 68; Matsumoto 2004, p 276. Adults of this species possess short antennae, short female terminalia and six to eight
+apical metatibial spurs. These morphological features do not fit the genus Psyila (s.s.)
+
+Downloaded by [194.254.138.238] at 02:27 19 September 2011
+
+Journal of Natural History 339
+
+or any other existing genera of Psyllinae. For this reason, I leave this species in Psylla
+(s./) until further research including nymphal morphological study. Adult important
+morphological characteristics of P. kuwayamai of Japan were illustrated in Miyatake
+(1981), and appear to be different from those of Taiwan, which is the type locality of
+this species, in genal cones and male terminalia (cf. Yang 1984). Psylla kuwayamai
+seems to form a well-organized group with the Neolitsea-feeders, Psylla neolitseae
+Miyatake, 1981 (Nepal) and Psylla deflua Yang, 1984 (Taiwan). Distribution. Japan (Honshu, Shikoku, Kyushu), Taiwan. Host plant. Neolitsea sericea (Bl.) Koidz. (= Litsea glauca Sieb.) (Lauraceae) in
+Japan (Miyatake 1963); Neolitsea parvigenna (Hay.) Kanehira in Taiwan (Yang
+1984). Psylla (s.1.) magnifera Kuwayama
+
+Psylla magnifera Kuwayama 1908, p 170; Oshanin 1912, p 127; Aulmann 1913, p 19;
+Sasaki 1954, p 34; Miyatake 1963, p 334; Klimaszewski 1973, p 213; Konovalova
+1988, p 517. Type locality: Japan (Hokkaido). This species has never been recorded from Japan with additional specimens after the
+original description, but it has been recorded from Russian Far East (Sakhalin
+Island) (Konovalova 1988). It is regrettable that I was not able to find the syntypes (a
+male and a female) of this species in the Kuwayama’s psylloid collection in SEHU on
+2 July 2001. The confirmation of the existence of the syntypes is absolutely essential
+for the stability of the scientific name of this species. According to the descriptions of
+P. magnifera by Kuwayama (1908) and Miyatake (1963), the antennae are more than
+threefold as long as the width of the head (a key character for the genus Psylla s.s.),
+but the female terminalia are shorter than the rest of the abdomen. Nymphs are
+unknown. No material was examined so this species is placed in Psylla (s.L) for the
+present. Distribution. Japan (Hokkaido, Honshu), Russian Far East (Sakhalin Island). Host plant. Alnus japonica (Thunb.) Steud. (Betulaceae) (Sasaki 1954). Psylla (s.1.) multipunctata Miyatake
+
+Psylla multipunctata Miyatake 1964a, p 21; Klimaszewski 1973, p 216; Matsumoto
+2004, p 276. Type locality: Japan (Kyushu). Psylla wulinensis Yang 1984, p 67. Type locality: Taiwan. syn. nov.
+
+As the adult of this species is similar to P. kuvayamai except for four apical metatib-
+ial spurs, P. multipunctata has also been temporarily retained in Psylla (s.1). Psylla
+wulinensis Yang, 1984, which was described from Taiwan on the basis of females
+obtained from Neolitsea parvigemma (Hayata) Kanehira (Lauraceae), is identical to
+P. multipunctata. 2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+340 H. Inoue
+Distribution. Japan (Honshu, Kyushu), Taiwan. Host plant. Neolitsea sericea (Bl.) Koidzumi (Lauraceae) in Japan (Matsumoto
+2004). Psylla (s.1.) yasumatsui Miyatake
+Psylla yasumatsui Miyatake 1963, p 342; Klimaszewski 1973, p 229; Miyatake 1990,
+p 16; Matsumoto 2004, p 277. Type locality: Japan (Kyushu). Although the antennae of this species are very short (nearly as long as the width of
+the head), the number of the apical metatibial spurs is five to six (mostly six) and the
+female terminalia are distinctly longer than the rest of the abdomen. Nymphs were
+not examined so this species is placed in Psylla (s./.) for the present. Distribution. Japan (Honshu, Kyushu). Host plant. Prunus buergeriana Mig. (Rosaceae) (Matsumoto 2004). Psylta (s..) ziozankeana Kuwayama
+
+Psylla ziozankeana Kuwayama 1908, p 173; Oshanin 1912, p 128; Aulmann 1913,
+p 29; Sasaki 1954, p 36; Miyatake 1964a, p 23; 1969, p 77; Klimaszewski 1973, p 230;
+Miyatake 1979, p 218; Matsumoto 2004, p 278. Type locality: Japan (Hokkaido). Although the antennae of this species are short (about 1.2-fold as long as the width of
+the head), the number of the apical metatibial spurs is five to six and the female ter-
+minalia are distinctly longer than the rest of the abdomen. Hence, this species is
+placed in Psyila (s.1.) for the present. Nymphs are unknown. Distribution. Japan (Hokkaido, Honshu). Host plant. Unknown. Genus Cacopsylla Ossiannilsson
+Psylla (Cacopsylla) Ossiannilsson 1970, p 140. Type species: Chermes mali Schmidberger, 1836, by original designation. Cacopsylla: Klimaszewski 1972, p 14. Cacopsylla abieti (Kuwayama) comb. nov.
+
+Psylla abieti Kuwayama 1908, p 175; Oshanin 1912, p 128 (P. abietis [sic]); Aulmann
+1913, p 8; Sasaki 1954, p 33; Miyatake 1964a, p 9; 1964b, p 24; 1969, p 72; Baba and
+Miyatake 1971, p 9; Kuwayama and Miyatake 1971, p 53; Klimaszewski 1973, p 198;
+Miyatake 1972b, p 102; 1979, p 216; Inoue and Yamauchi 2001, p 55; Matsumoto
+2004, p 277. Type locality: Japan (Hokkaido, Honshu). 2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+Journal of Natural History 341
+
+Psylla albopontis Kuwayama 1908, p 164; Aulmann 1913, p 9; Sasaki 1954, p 33. Type locality: Japan (Hokkaido). Synonymized by Miyatake 1964a, p 9. Distribution. Japan (Hokkaido, Honshu, Shikoku, Kyushu, Sado Island), northern
+China. Host plants. Acer sp. (Aceraceae) (Miyatake 1979); *Acer sieboldianum Mig. (new
+record). The host plant records of Pinaceae, Abies mariesii Masters, Picea glehnii
+(Fr. Schm.) Masters and Picea jezoensis (Sieb. et Zucc.) Carriére (Miyatake 1964a),
+on which nymphs have not been confirmed, are erroneous (see the host plant notes
+for Cacopsylla haimatsucola). *Adults and nymphs were confirmed on A. sieboldianum at Mount Yamizo,
+Daigo, Ibaraki Prefecture, Honshu, Japan from 8 to 23 May 2004 by H. Inoue
+(NIFTS). Cacopsylla aisanensis (Miyatake) comb. nov.
+Psylla aisanensis Miyatake 1963, p 355; 1969, p 76; Klimaszewski 1973, p 199; Miyat-
+ake 1979, p 218, Type locality: Japan (Hokkaido). Although nymphs of this species are unknown, adult morphological features fit well
+in the genus Cacopsylla. Distribution. Japan (Hokkaido, Honshu). Host plant. Sorbus commixta Hedl. (Rosaceae) (Miyatake 1963). PI
+
+Cacopsylla albigena (Miyatake) comb. nov.
+
+Psylla albigena Miyatake 1964a, p 10; 1964b, p25; 1969, p 78; Baba and Miyatake
+1971, p 9; Klimaszewski 1973, p 199; Miyatake 1977, p 245; 1979, p 219; Inoue and
+Yamauchi 2001, p 55; Inoue 2002, p 496; Matsumoto 2004, p 278. Type locality:
+Japan (Honshu),
+
+Distribution. Japan (Honshu, Kyushu, Sado Island). Host plants. Viburnum plicatum var. tomentosum (Thunb. ex Murray) Mig. (Caprifo-
+liaceae) (Miyatake 1979) and Viburnum sieboldii Miq. (Miyatake 1977). Cacopsylla albovenosa (Kuwayama) comb. nov.
+
+Psylla albovenosa Kuwayama 1908, p 176; Oshanin 1912, p 128; Aulmann 1913, p 9;
+Sasaki 1954, p 33; Miyatake 196da, p 4; 1969, p 75; Klimaszewski 1973, p 199; Miya-
+take 1977, p 245; 1979, p 217; Inoue and Yamauchi 2001, p 56; Matsumoto 2004,
+p 278. Type locality: Japan (Honshu). Distribution. Japan (Honshu, Shikoku, Kyushu). 2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+342 H. Inoue
+
+Host plants. Malus toringo (Sieb.) Sieb. ex Vriese (= Malus sieboldii Rehd.) (Rosaceae) (Miyatake 1964a); *Pourthiaea villosa var. laevis (Thunb.) Stapf. (Rosaceae) (new record). *Adults and nymphs were confirmed on Pourthiaea villosa var. laevis at Mount
+Sefuri, Saga Prefecture, Kyushu, Japan from 12 to 13 May 2002 by H. Inoue
+(NIFTS). Cacopsylla amakusensis (Kuwayama) comb. nov.
+
+Psylla amakusensis Kuwayama 1939, p 536; Sasaki 1954, p 33; Miyatake 1963, p 341;
+1964c, p 124; 1965a, p 176; Klimaszewski 1973, p 200; Hodkinson 1986, p 357. Type
+locality: Japan (Kyushu). Although the antennae of this species are remarkably long (about 2.3-fold as long as
+the width of the head), other adult morphological features fit in the genus Cacopsylla. Nymphs are unknown. Distribution. Japan [Honshu, Shikoku, Kyushu, Ryukyus (Ishigaki Island and Irio-
+mote Island)]. Host plant. Unknown. Cacopsylla ambigua (Foerster)
+
+Psylla ambigua Foerster 1848, p 74; Kuwayama 1908, p 173; Oshanin 1912, p 127;
+Aulmann 1913, p 10; Sasaki 1954, p 33; Miyatake 1964a, p 18; Klimaszewski 1973,
+p 200; Konovalova 1988, p 526. Type locality: Germany (Aachen). Cacopsylla ambigua: Klimaszewski 1975, p 195; Labina 2006, p 53. Psylla melina Flor: Kuwayama 1908, p 172. Distribution. The whole Palaearctic, Europe to Japan (Hokkaido, Honshu, Kunashiri
+Island, Shikotan Island), Russian Far East. Host plants. Unknown in Japan, Various Salix species (Salicaceae) in Europe
+(Ossiannilsson 1992). Cacopsylla boninofatsiae Inoue and Miyatake
+Cacopsylla boninofatsiae Inoue and Miyatake 2001, p 465; Karube et al. 2004, p 70. Type locality: Japan (Ogasawara Islands). Distribution. Japan [Ogasawara Islands (Haha-jima Island, Chichi-jima Island and
+Muk6-jima Island), Iwo Islands (Kita-iwo-jima Island)]. Host plant. Fatsia oligocarpella (Nakai) Koidzumi (Araliaceae) (Inoue and Miyatake
+2001). 2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+Journal of Natural History 343
+
+Cacopsylla coccinea (Kuwayama)
+
+Psylla coccinea Kuwayama 1908, p 171; Oshanin 1912, p 127; Aulmann 1913, p 14;
+Sasaki 1954, p 34; Miyatake 1964a, p 15; 1964b, p 25; 1965a, p 176; 1966, p 328;
+1969, p77; 1971, p2; Baba and Miyatake 1971, p9; Klimaszewski 1973, p 203;
+Miyatake 1976, p 491; 1979, p 219; Hodkinson 1983, p 357; Kwon 1983, p 63; Yang
+1984, p 122; Hodkinson 1986, p 325; Konovalova 1988, p 526; Miyatake 2000, p 204;
+Inoue and Yamauchi 2001, p 56; Matsumoto 2004, p 276. Type locality: Japan
+(Hokkaido, Honshu, Kyushu). Cacopsylla coccinea: Park et al. 1995, p 158. Miyatake (1964a) synonymized Psylla akebiae (Shinji, 1942) (= Aphalara akebiae,
+the type of which was not designated) with Psylla coccinea. However, Shinji’s ori-
+ginal description of the former species (Shinji 1942b) evidently coincides with that
+of Psylla hakonensis Kuwayama, 1908, which is transferred to Cacopsylla later in
+this paper. Distribution. Japan (Hokkaido, Honshu, Shikoku, Kyushu, Sado Island, Hachijé
+Island, Tsushima Islands, Ryukyus: Amami-Oshima Island), Taiwan, Korea,
+Russian Far East (Southern Primorsky). Host plants. Akebia quinata (Thunb.) Decne. (Lardizabalaceae), Akebia trifoliata
+(Thunb.) Koidz. and Stauntonia hexaphylla (Thunb.) Decne. (Lardizabalaceae) (Miy-
+atake 1964a). Cacopsylla elaeagni (Kuwayama)
+
+Psylla elaeagni Kuwayama 1908, p 164; Oshanin 1912, p 127 (P. eleagni [sic));
+Aulmann 1913, p 14; Kuwayama 1943, p 509; Sasaki 1954, p 34; Miyatake 1964a,
+p 7; 1969, p 79; 1971, p 2; Kuwayama and Miyatake 1971, p 55; Klimaszewski 1973,
+p 205 (P. eleagni [sic]); Miyatake 1976, p 492; 1979, p 219; Kwon 1983, p 51; Hodkinson
+1986, p 326; Konovalova 1988, p 519; Miyatake 2000, p 204; Matsumoto 2004,
+p 277. Type locality: Japan (Hokkaido, Honshu, Kyushu). Cacopsylla elaeagni: Park 1996, p 271. Distribution. Japan (Hokkaido, Honshu, Shikoku, Kyushu, *Izu Islands (new
+record), Tsushima Islands, Yakushima Island], northern China, Korea, Russian Far
+East (Sakhalin Island). Host plants. Elaeagnus umbellata Thunb. (Elaeagnaceae) and Elaeagnus multi-
+flora Thunb. in Japan (Miyatake 1964a); other Elaeagnus spp. in Korea (Kwon
+1983). *Two males four females, Ako-Igaya, Miyake Island, Tokyo Metropolis,
+Japan, 5 May 1997, N. Takahashi coll. (NIFTS); two males two females, Urami-
+gataki, Hachij6 Island, Tokyo Metropolis, Japan, 3 May 1997, N. Takahashi
+coll. (NIFTS). Downloaded by [194.254.138.238] at 02:27 19 September 2011
+
+344 H. Inoue
+
+Cacopsylla elaeagnicola (Miyatake)
+Psylla elaeagnicola Miyatake 1963, p 352; 1969, p 79; 1971, p 2; Klimaszewski 1973,
+
+p 205 (P. eleagnicola [sic]); Miyatake 1979, p 219; 1982a, p19; Kwon 1983, p53;
+Miyatake 2000, p 204; Matsumoto 2004, p 277. Type locality: Japan (Kyushu). Cacopsylla elaeagnicola: Park et al. 1995, p 156. Distribution. Japan (Honshu, Shikoku, Kyushu), Korea. Host plants. Elaeagnus umbellata Thunb. (Elaeagnaceae) (Miyatake 1963) and Elae-
+agnus multiflora Thunb. in Japan (Miyatake 1982a); other Elaeagnus spp. in Korea
+(Kwon 1983). Cacopsylla elegans Inoue
+
+Cacopsylla elegans Inoue 2004b, p 404. Type locality: Japan (Kyushu). Distribution. Japan (Honshu, Kyushu). Host plant. Sorbus japonica (Decne.) Hedlund (Rosaceae) (Inoue 2004b). Cacopsylla elegantula (Zetterstedt)
+Chermes elegantula Zetterstedt 1840, p 310. Type locality: Sweden (Lapponia). Psylla elegantula: Miyatake 1964a, p 24; Klimaszewski 1973, p 205. Cacopsylla elegantula: Klimaszewski 1975, p 186; Ossiannilsson 1992, p 204; Lauterer
+1999, p 79. Distribution. The whole Palaearctic, Europe to Japan (Hokkaido). Host plants. Unknown in Japan. Various Salix species (Salicaceae) in Europe
+(Ossiannilsson 1992). Cacopsylla evodiae (Miyatake) comb. nov.
+
+Psylla evodiae Miyatake 1965a, p 176; Hodkinson 1983, p 358; Yang 1984, p 108;
+Hodkinson 1986, p 326; Inoue et al. 2006, p 66. Type locality: Japan (Ryukyus). Cacopsylla evodiae is probably most closely related to an Indian species Psylla murrayi
+Mathur, 1975, which feeds on Murraya koenigii (L.) Spreng. (Rutaceae) (Mathur
+1975) and should be transferred to the genus Cacopsylla in the future. In addition,
+Cacopsylla evodiae is similar to two Taiwanese Rutaceae-feeding species, Cacopsylla
+toddaliae (Yang, 1984), which feeds on Toddalia asiatica (L.) Lam. and is newly
+recorded from Japan in the present study, and also to Psylla fagarae Fang and Yang,
+1986, which feeds on Fagara cuspidata (Champ.) Engl. (Fang and Yang 1986) and
+should be transferred to the genus Cacopsylla in the future, particularly in the
+nymphal morphological features. 2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+Journal of Natural History 345
+
+Distribution. Japan {*Honshu [new record], *Shikoku [new record], Kyushu,
+‘Yakushima Island, Ryukyus [*Amami-Oshima Island (new record), *Tokunoshima
+Island (new record), Okinawa Island, Ishigaki Island, Iriomote Island]}, Taiwan. Host plant. Euodia meliifolia (Hance) Benth. (= Evodia glauca Mig.) (Rutaceae)
+(Miyatake 1965a), Murraya paniculata (L.) Jack. and Zanthoxylum beecheyanum vat. alatum (Nakai) Hara. (Inoue et al. 2006) (Rutaceae) and **Toddalia asiatica (L.)
+Lam. (Rutaceae) (new record). *Honshu: 16 males seven females, Tomyézaki, Taiji, Wakayama Prefecture, 19
+October 2005, on E. meliifolia, H. Inoue coll. (NIFTS); Shikoku: eight males nine
+females, Asakura-nishimachi, Kéchi City, Kéchi Prefecture, 13 October 2005, on
+E. meliifolia, H. Inoue coll. (NIFTS); one female, Usaché-ryti, Tosa City, Kéchi Pre-
+fecture, 12 October 2005, on E. meliifolia, H. Inoue coll. (NIFTS); 33 males 19
+females and many nymphs, Uranouchi, Susaki City, Kéchi Prefecture, 12-13 October
+2005, on E. meliifolia, H. Inoue coll. (NIFTS); Ryukyus: two males three females,
+Heda, Uken-son, Amami-Oshima Island, Kagoshima Prefecture, 19 June 2008, on
+E. meliifolia, H. Inoue coll. (NIFTS); 10 males eight females, Tete, Tokunoshima-ché,
+Tokunoshima Island, Kagoshima Prefecture, 22 May 2009, on E. meliifolia, H. Inoue
+coll. (NIFTS). **Adults and nymphs were collected from T. asiatica at Kadena,
+Okinawa Island, the Ryukyus, Japan on 22 March 2007 by K. Kawamoto and
+S. Sukenari (NIFTS). Cacopsylla fatsiae (Jensen)
+
+Psylla fatsiae Jensen 1957, p 21; Miyatake 1964a, p 13; 1964b, p 25; Klimaszewski
+1973, p 206; Miyatake 1976, p 491; Kwon 1983, p 55; Yang 1984, p 90; Hodkinson
+1986, p 326; Miyatake 2000, p 204; Inoue and Yamauchi 2001, p 56; Matsumoto
+2004, p 275. Type locality: USA (California). Cacopsylla fatsiae: Hodkinson 1988, p 1187. Distribution. Japan (Hokkaido, Honshu, Shikoku, Kyushu, Tsushima Islands), Tai-
+wan, Hong Kong, Korea; USA (introduced). Host plants. Fatsia japonica (Thunb.) Decne. et Planch. (Araliaceae) in Japan and
+USA (Jensen 1957; Miyatake 1963a), Fatsia polycarpa Hayata in Taiwan (Yang
+1984). Cacopsylla fulguralis (Kuwayama)
+
+Psylla fulguralis Kuwayama 1908, p 177; Oshanin 1912, p 128; Aulmann 1913, p 16;
+Kuwayama 1943, p 507; Sasaki 1954, p 34; Miyatake 1963, p 342; 1964b, p 25; 1964c,
+p 124; 1965a, p 178; 1966, p 329; Baba and Miyatake 1971, p9; Miyatake 1972a,
+p13; Klimaszewski 1973, p 207 (P. fulgularis [sicl); Miyatake 1976, p 492; 1979,
+p 220; 1982a, p19; Hodkinson 1983, p 358; Kwon 1983, p 50; Hodkinson 1986,
+p 326; Yang 1984, p 83; Fang and Yang 1986, p 125; Konovalova 1988, p 525; Inoue
+and Yamauchi 2001, p 56; Matsumoto 2004, p 277. Type locality: Japan (Honshu). Cacopsylla fulguralis: Park 1996, p 271; Labina 2006, p 53. Downloaded by [194.254.138.238] at 02:27 19 September 2011
+
+346 H. Inoue
+
+In recent years this species has been introduced into various parts of Europe, in
+France, England, the Channel Islands, Italy, the Netherlands and Belgium, and has
+caused serious damage to ornamental Elaeagnus species planted in parks and private
+gardens (Baugnee 2003; Malumphy and Halstead 2003; Siiss and Savoldelli 2003). Distribution. Japan {Honshu, Kyushu, Shikoku, Kunashiri Island, Sado Island,
+Hachijé Island, Tsushima Islands, Yakushima Island, Ryukyus [Amami-Oshima
+Island, Okinawa Island, Ishigaki Island, Iriomote Island, *Yonaguni Island (new
+record)]}, Taiwan, China, Korea, Philippines (Mindanao Island); Europe (intro-
+duced). Host plants. Elaeagnus glabra Thunb. (Elaeagnaceae), Elaeagnus macrophylla Thunb,
+and Elaeagnus pungens Thunb. in Japan (Miyatake 1963); Elaeagnus oldhamii
+Maxim. in Taiwan (Fang and Yang 1986); Elaeagnus cuprea Elm. in Philippines
+(Miyatake 1972a); Elaeagnus commutata Bernh. ex Rydb. and Elaeagnus x ebbingei
+Boom. in Europe (Malumphy and Halstead 2003). *Two males, Mount Donan-dake, Yonaguni Island, the Ryukyus, Japan, 10
+March 1995, Y. Okushima coll. (KURA). Cacopsylla haimatsucola (Miyatake) comb. nov.
+
+Psylla haimatsucola Miyatake 1964a, p 1; 1972b, p 102; Klimaszewski 1973, p 209;
+Konovalova 1988, p 522; Labina 2006, p 55. Type locality: Japan (Hokkaido). Although nymphs of this species are unknown, adult morphological features fit well
+in the genus Cacopsylla. Distribution. Japan (Hokkaido, Honshu, Kunashiri Island), Russian Far East (Pri-
+morsky, Sakhalin Island). Host plant. Unknown, Miyatake (1964a) recorded Pinus pumila (Pallas) Regel
+(Pinaceae) as the host plant of this psyllid species. However, the host plant informa-
+tion must be erroneous because the nymph of C. haimatsucola has never been
+collected on this plant species. Habits such as adults gathering on non-host conifer-
+ous plants are commonly known among many psylloid species (Hodkinson 1974). Cacopsylla hakonensis (Kuwayama) comb. nov.
+
+Psylla hakonensis Kuwayama 1908, p 176; Sasaki 1954, p 34; Miyatake 1964a, p 23;
+1964b, p 26; 1969, p 72; 1979, p 216; Matsumoto 2004, p 276. Type locality: Japan
+(Honshu). Aphalara akebiae Shinji 1942b, p 354; Sasaki 1954, p 33 (combined with Psylla);
+Miyatake 1964a, p15 (synonymized with Psylla coccinea). Type locality: Japan
+(Honshu). syn. nov. The characteristics of Aphalara akebiae, the type not designated in the original
+description (Shinji 1942b), agrees well with those of Cacopsylla hakonensis, e.g. the
+unique brown-spotted maculation of the forewing and also the host plant (Akebia
+
+2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+Journal of Natural History 347
+
+quinata), rather than Cacopsylla coccinea (Kuwayama), which has been treated as a
+senior synonym of A. akebiae (= Psylla akebiae) by Miyatake (1964a). Hence,
+A. akebiae is newly synonymized with C. hakonensis in this study. Distribution. Japan (Honshu, Shikoku, Kyushu). Host plants. Akebia trifoliata (Thunb.) Koidz. (Lardizabalaceae) (Miyatake 1979)
+and Akebia quinata (Thunb.) Decne. (Matsumoto 2004). Cacopsylla hederae (Miyatake)
+
+Psylla hederae Miyatake 1964a, p 16; 1964b, p 26; Baba and Miyatake 1971, p 10;
+Klimaszewski 1973, p 209; Miyatake 1976, p 490; 1979, p 220; Kwon 1983, p 68;
+Miyatake 2000, p 205; Matsumoto 2004, p 276. Type locality: Japan (Kyushu). Cacopsylla hederae: Park 1996, p 271. Distribution. Japan (Honshu, Shikoku, Kyushu, Sado Island, Tsushima Islands),
+Korea. Host plant. Hedera rhombea (Miq.) Bean (Araliaceae) (Miyatake 1964a). Cacopsylla horii (Kuwayama) comb. nov.
+Psylla horii Kuwayama 1943, p 507; Sasaki 1954, p 34; Miyatake 1964a, p 26; Klimasze-
+wski 1973, p 210; Miyatake 1976, p 491. Type locality: Japan (Yakushima Island). Although nymphs of this species are unknown, adult morphological features fit well
+in the genus Cacopsylla. Distribution. Japan (Tsushima Islands, Yakushima Island). Host plant. Unknown. Cacopsylla insularis Inoue and Miyatake
+Cacopsylla insularis Inoue and Miyatake 2001, p 467; Karube et al. 2004, p 70. Type
+locality: Japan (Ogasawara Islands). Distribution. Japan (Ogasawara Islands (Chichi-jima Island, Ani-jima Island, Haha-
+jima Island, Muk6-jima Island)]. Host plant. Rhaphiolepis indica’ var. integerrima (Hook. et Arn.) Kitamura
+
+(Rosaceae) (Inoue and Miyatake 2001). Cacopsylla japonica (Kuwayama) comb. nov.
+
+Psylla japonica Kuwayama 1955, p 1; Miyatake 1964a, p 4; 1964b, p 26; 1969, p 71;
+Baba and Miyatake 1971, p 8; Klimaszewski 1973, p 212; Miyatake 1977, p 245;
+
+Downloaded by [194.254.138.238] at 02:27 19 September 2011
+
+348 H. Inoue
+
+1979, p 216; Konovalova 1988, p 525; Miyatake 2000, p 205; Inoue and Yamauchi
+2001, p 56; Matsumoto 2004, p 277. Type locality: Japan (Kyushu). Cacopsylla japonica is probably closely related to Cacopsylla abieti (Kuwayama,
+1908) and Cacopsylla lineaticeps (Kwon, 1983); the latter occurs in Korea and feeds
+on Acer ginnala Maxim. (Aceraceae) (Park 1996). All of them are associated with the
+plant genus Acer and are similar to each other in adult morphological features
+especially in genal cones and male and female terminalia, but not in the venation and
+coloration of forewings. Distribution. Japan (Hokkaido, Honshu, Shikoku, Kyushu, Sado Island), Russian
+Far East (Southern Primorsky, Sakhalin Island). Host plants. Acer rufinerve Sieb. et Zucc. (Aceraceae) and Acer ukurunduense Trautv. et Meyer (Miyatake 1964a). Cacopsylla jezoensis (Miyatake) comb. nov.
+Psylla jezoensis Miyatake 1963, p 349; 1969, p 76; 1972b, p 102; Klimaszewski 1973,
+p 212; Miyatake 1979, p 218. Type locality: Japan (Hokkaido). Although nymphs of this species are unknown, adult morphological features fit well
+in the genus Cacopsylla. See the notes for Cacopsylla moiwasana (Kuwayama). Distribution. Japan (Hokkaido, Honshu). Host plant. Unknown. Cacopsylla kiushuensis (Kuwayama) comb. nov.
+
+Psylla kiushuensis Kuwayama 1908, p 174; Oshanin 1912, p 128 (P. kiushensis [sic));
+Aulmann 1913, p 18; Kuwayama 1931, p 128; Sasaki 1954, p 34; Miyatake 1964a,
+p9; 1964b, p26; 1965b, p 226; Klimaszewski 1973, p 212; Miyatake 1976, p 492;
+1982a, p 19; Hodkinson 1983, p 358; 1986, p 327; Matsumoto 2004, p 277. Type
+locality: Japan (Kyushu) and Taiwan. Distribution. Japan (Honshu, Shikoku, Kyushu, Tsushima Islands), Taiwan. Host plants. Elaeagnus pungens Thunb. (Elaeagnaceae) and Elaeagnus macrophylla
+Thunb. (Miyatake 1964a). Cacopsylla kongoensis (Miyatake) comb. nov.
+Psylla kongoensis Miyatake 1982a, p 16; 2000, p 205. Type locality: Japan (Honshu). Although nymphs of this species are unknown, adult morphological features fit well
+in the genus Cacopsylla. Distribution. Japan (Honshu). 2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+Journal of Natural History 349
+
+Host plant. Elaeagnus montana Makino (Elaeagnaceae) (Miyatake 1982a). Cacopsylla ledi (Flor)
+
+Psylla ledi Flor 1861, p 473; Miyatake 1964a, p 20; Klimaszewski 1973, p 213; Kono-
+valova 1988, p 522. Type locality: Livland. Cacopsylla ledi: Hodkinson 1988, p 1189; Ossiannilsson 1992, p 171; Lauterer 1999, p 83. Distribution. Japan (Hokkaido), Russian Far East (Khabarovsk, Primorsky),
+Europe, USA (Alaska). Host plant. Ledum palustre diversipilosum var. nipponicum Nakai (Ericaceae) in Japan
+(Miyatake 1964a). Cacopsylla maculipennis Inoue and Miyatake
+Cacopsylla maculipennis Inoue and Miyatake 2001, p 470; Karube et al. 2004, p 70. Type locality: Japan (Ogasawara Islands). Distribution. Japan (Ogasawara Islands (Haha-jima Island), Iwo Islands (Kita-iwo-
+jima Island)}. Host plant. Pittosporum boninense Koidzumi (Pittosporaceae) (Inoue and Miyatake 2001). Cacopsylla mali (Schmidberger)
+Chermes mali Schmidberger 1836, p 186 Type locality: Austria. Psylla mali: Sasaki 1954, p 34; Miyatake 1964a, p 20; Klimaszewski 1973, p 214;
+Kwon 1983, p 44; Konovalova 1988, p 532. Cacopsylla mali: Park 1996, p 271; Lauterer 1999, p 127; Labina 2006, p 53. Distribution. The whole Palaearctic from Europe to Japan (Hokkaido, Honshu,
+Kunashiri Island), Russian Far East. Introduced into Canada and Australia. Host plants. Malus domestica Borkh. (= Malus pumila Mill.) (Rosaceae) in Japan
+(Sasaki 1954); also Malus silvestris Mill. in Europe (Ossiannilsson 1992). Cacopsylla malivorella [Matsumura in (Sasaki)] comb. nov.
+
+Psylla malivorella Matsumura in [Sasaki] 1915, p 301 (Psylla malirorella [sic] Mats. );
+Matsumura 1917, p 372; Sasaki 1954, p 35: Miyatake 1963, p 344; Klimaszewski
+1973, p 214; Konovalova 1988, p 525; Matsumoto 2004, p 278; Labina 2006, p 55. Type locality: Japan (Honshu). This species was published for the first time under the name “Psylla malirorella
+Mats.” by [Sasaki] (1915) anonymously (see Miyatake 1963). However, the specific
+name “malivorella” has been used in Matsumura (1917), who was considered to have
+
+Downloaded by [194.254.138.238] at 02:27 19 September 2011
+
+350 H. Inoue
+
+been responsible for this scientific name (ICZN recommendation 51E; International
+Commission on Zoological Nomenclature 2000), and also in subsequent taxonomic
+literature (see above synonymies). Therefore, in the present paper, the name “mali-
+vorella” was adopted as a prevailing usage (ICZN article 33.3.1). Distribution. Japan (Honshu, Kunashiri Island), Russian Far East (Southern Primorsky). Host plants. Malus domestica Borkh. (= Malus pumila Mill.) (Rosaceae) ((Sasaki]
+1915) and Malus sieboldii Rehd. (Miyatake 1963). Cacopsylla matsumurai (Miy
+
+ 
+
+ake) comb. nov.
+
+Psylla matsumurai Miyatake 1964a, p 24; Klimaszewski 1973, p 214; Konovalova
+1988, p 522; Labina 2006, p 55. Type locality: Japan (Hokkaido). Although nymphs of this species are unknown, adult morphological features fit well
+in the genus Cacopsylla. Distribution. Japan (Hokkaido), Russian Far East (Northern Kuril Islands). Host plant. Salix reinii Franch. et Savat. (Salicaceae) (Miyatake 1964a). Cacopsylla midoriae (Miyatake)
+
+Psylla midoriae Miyatake 1963, p 339; Klimaszewski 1973, p 215. Type locality:
+Japan (Shikoku). Cacopsylla midoriae (Miyatake) Inoue 2004b, p 400. See the notes for the next species. Distribution, Japan (Shikoku, Kyushu). Host plant. Sorbus japonica (Decne.) Hedlund (Rosaceae) (Inoue 2004b). Cacopsylla moiwasana (Kuwayama) comb. nov.
+
+Psylla moiwasana Kuwayama 1908, p 175; Oshanin 1912, p 128; Aulmann 1913, p 20;
+Sasaki 1954, p 35; Miyatake 1964a, p 18; Klimaszewski 1973, p 215. Type locality:
+Japan (Hokkaido). Although nymphs of this species are unknown, adult morphological features fit well
+in the genus Cacopsylla, Cacopsylla jezoensis, C. midoriae and C. moiwasana, all of
+which are endemic to Japan and allopatrically distributed, are very similar to each
+other. Perhaps all or some of them will be synonymous. Distribution. Japan (Hokkaido). Host plant. Unknown. 2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+Journal of Natural History 351
+
+Cacopsylla nigriantennata (Kuwayama) comb. nov.
+
+Psylla nigriantennata Kuwayama 1908, p 168; Oshanin 1912, p 127; Aulmann 1913,
+p 20; Sasaki 1954, p 35; Miyatake 1964a, p 24; 1969, p 77; Klimaszewski 1973, p 217;
+Miyatake 1979, p 218; Matsumoto 2004, p 278. Type locality: Japan (Honshu). Distribution. Japan (Honshu, Shikoku, Kyushu)
+
+Host plants. Lyonia ovalifolia var. elliptica (Sie. et Zucc.) Hand.-Mazz. (Ericaceae)
+(Miyatake 1964a), Enkianthus cernuus f. rubens (Maxim.) Ohwi (Ericaceae) (Miyat-
+ake 1979) and Enkianthus campanulatus (Mig.) Nicholson and Enkianthus perulatus
+(Mig.) Schneider (Matsumoto 2004). Cacopsylla peregrina (Foerster)
+
+Psylla peregrina Foerster 1848, p 74; Kuwayama 1908, p 166; Oshanin 1912, p 127;
+Aulmann 1913, p22; Sasaki 1954, p35; Miyatake 1964a, p 21; Konovalova 1988,
+p 532. Type locality: Germany (Aachen). Cacopsylla peregrina: Ossiannilsson 1992, p 132; Lauterer 1999, p 133. Distribution. The whole Palaearctic from Europe to Japan (Hokkaido, Honshu), Rus-
+sian Far East; USA (introduced). Host plants, Unknown in Japan. Crataegus spp. (Rosaceae) in Europe and USA
+(Ossiannilsson 1992; Wheeler and Stoops 2001). Cacopsylla pulchra (Zetterstedt)
+Chermes pulchra Zetterstedt 1840, p 309. Type locality: Sweden (Lapponia). Psylla pulchra: Miyatake 1964a, p 7; Baba and Miyatake 1971, p 10; Klimaszewski
+1973, p 220; Miyatake 1979, p 220; Konovalova 1988, p 529. Cacopsylla pulchra: Klimaszewski 1975, p 193; Ossiannilsson 1992, p 189; Lauterer
+1999, p 89. Psylla sapporensis Kuwayama 1908, p 166. Synonymized by Miyatake 1964a, p 7. Distribution. Japan (Hokkaido, Honshu, Shikoku, Kyushu, Sado Island), Russian
+Far East, Europe. Host plants. Salix integra Thunb. (Salicaceae) in Japan (Miyatake 1964a); various
+Salix species in Europe (Ossiannillson 1992). Cacopsylla pyricola (Foerster)
+
+Psylla pyricola Foerster 1848, p 77; Kuwayama 1908, p 163; Aulmann 1913, p 24;
+Sasaki 1954, p 35; Klimaszewski 1973, p 221; Kwon 1983, p 67; Hodkinson 1988,
+p 1192; Konovalova 1988, p 521. Type locality: Germany (Aachen, Frankfurt). 2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+352 H. Inoue
+
+Cacopsylla pyricola: Burckhardt and Hodkinson 1986, p 127; Ossiannilsson 1992,
+p 159. Distribution. The whole Palaearctic, from Europe to Japan (Hokkaido, Honshu),
+Russian Far East (Khabarovsk, Primorsky); introduced into North America (USA,
+Canada) and South America (Argentina). Host plants. Pyrus ussuriensis Maxim. (= Pyrus simonii) (Rosaceae) in Japan (Sasaki
+1954); Pyrus communis L. and Pyrus pyraster Burgsd. in the other area (Burckhardt
+and Hodkinson 1986; Ossiannilsson 1992). Cacopsylla pyrisuga (Foerster)
+
+Psylla pyrisuga Foerster 1848, p 78; Schwarz 1896, p 297; Kuwayama 1908, p 165;
+Oshanin 1912, p 127; Aulmann 1913, p 24; Sasaki 1954, p 35; Miyatake 196da, p 27;
+1969, p75; Klimaszewski 1973, p 222; Miyatake 1979, p 217; Kwon 1983, p42;
+Konovalova 1988, p 532. Type locality: Germany (Aachen, Boppard). Cacopsylla pyrisuga: Burckhardt and Hodkinson 1986, p 123; Park 1996, p 272; Lau-
+terer 1999, p 121. Distribution. The whole Palaearctic from Europe to Japan (Hokkaido, Honshu,
+Shikoku, Kyushu), Russian Far East (Khabarovsk, Primorsky). Host plants. Pyrus pyrifolia var. culta (Makino) Nakai (= Pyrus serotina Rehder)
+(Rosaceae) (Miyatake 1964a), Marus domestica Borkh. (= Malus pumila) (Sasaki
+1954) in Japan; also Pyrus spp. in Europe (Burckhardt and Hodkinson 1986; Ossian-
+nilsson 1992). Cacopsylla rhododendri (Puton)
+
+Psylla rhododendri Puton 1871, p 436; Miyatake 1969, p 76; 1979, p 218; Kwon 1983,
+p 61; Konovalova 1988, p 529. Type locality: Switzerland (Engelberg). Cacopsylla rhododendri: Ossiannilsson 1992, p 178; Park 1996, p 272. Distribution. Japan (Honshu), Russian Far East, Korea, Europe. Host plants. Rhododendron tschonoskii var. tetramerum (Makino) Komatsu (Eri-
+caceae) in Japan (Miyatake 1979); Rhododendron ferrugineum L., Rhododendron
+hirsutum L., Rhododendron kotschyi Simonk. in Europe (Klimaszewski 1973). Cacopsylla satsumensis (Kuwayama) comb. nov.
+
+Psylla satsumensis Kuwayama 1908, p 177; Oshanin 1912, p 128; Aulmann 1913,
+p 27; Sasaki 1954, p 36; Miyatake 1963, p 355; 1965a, p 178; Klimaszewski 1973,
+p 224; Miyatake 2000, p 205; Matsumoto 2004, p277. Type locality: Japan
+(Kyushu). 2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+Journal of Natural History 353
+
+Distribution. Japan (Honshu, Shikoku, Kyushu, Ryukyus [Miyako Island, Ishigaki
+Island]). Host plant. Rhaphiolepis indica var. umbellata (Thunb. ex Murry) Ohashi (Rosaceae)
+
+(Miyatake 1963). Cacopsylla sorbicoccinea Inoue
+
+Cacopsylla sorbicoccinea Inoue 2004b, p 409. Type locality: Japan (Kyushu). Distribution. Japan (Hokkaido, Honshu, Kyushu). Host plant. Sorbus japonica (Decne.) Hedlund (Rosaceae) (Inoue 2004b). Cacopsylla sorbicola (Miyatake) comb. nov.
+
+Psylla sorbicola Miyatake 1963, p 347; 1964b, p 27; 1969, p 75; Klimaszewski 1973,
+p 225; Miyatake 1979, p 217; Konovalova 1988, p 526; Matsumoto 2004, p 278;
+Labina 2006, p 55. Type locality: Japan (Honshu). Distribution. Japan (Hokkaido, Honshu), Russian Far East (Northern Primorsky,
+Northern Kuril Islands). Host plants. Sorbus commixta Hedl. (Rosaceae) and Sorbus sambucifolia (Cham. et
+Schltdl.) Roemer (Miyatake 1963). Cacopsylla swidae Inoue
+Cacopsylla swidae Inoue 2004a, p 144. Type locality: Japan (Honshu). Psylla melanoneura Foerster: Miyatake 1963, p 354; Konovalova 1988, p 532; Inoue
+and Yamauchi 2001, p 56; Matsumoto 2004, p 276. This species corresponds to the Japanese population that has been identified as a
+European species Psylla melanoneura Foerster, 1848, formerly (Inoue 2004a). Distribution. Japan (Hokkaido, Honshu, Shikoku, Kyushu). Host plant. Swida controversa (Hemsl.) Sojak (Cornaceae) (Inoue 2004a). Cacopsylla tenuata (Jensen)
+
+Psylla tenuata Jensen 1951, p 315; Miyatake 1963, p 354; Klimaszewski 1973, p 226. Type locality: USA (California). Cacopsylla tenuata: Hodkinson 1980, p 136. Distribution. Japan (Honshu), USA (California). 2
+a
+3
+a4
+&
+2
+a
+S
+a
+a
+6
+Q
+a
+
+ 
+
+  
+
+Downloaded by [194.254.138.238
+
+354 H. Inoue
+
+Host plants. Salix sp. (Salicaceae) in Japan (Miyatake 1963); Salix laevigata Bebb. in
+USA (Jensen 1951). Cacopsylla tobirae (Miyatake)
+
+Psylla tobirae Miyatake 1964a, p 5; 1964c, p 125; 1965a, p 179; 1966, p 329; Kli-
+maszewski 1973, p 226; Miyatake 1976, p 492; Hodkinson 1983, p 358; Kwon 1983,
+p 60; Yang 1984, p 102; Hodkinson 1986, p 329; Miyatake 2000, p 205; Matsumoto
+2004, p 275. Type locality: Japan (Kyushu). Cacopsylla tobirae: Park 1996, p 273. Distribution. Japan {Honshu, Shikoku, Kyushu, Izu Islands [Hachijé Island], Tsushima. Islands, Yakushima Island, Ryukyus [Amami-Oshima Island, *Tokunoshima Island
+(new record), Okinawa Island, Ishigaki Island, Iriomote Island]}, Korea, Taiwan. Host plant. Pittosporum tobira (Thunb. ex Murray) Aiton (Pittosporaceae) (Miyat-
+ake 1964a). *Ryukyus: two males one female, Mount Inokawa-dake, Tokunoshima Island,
+Kagoshima Prefecture, Japan, 17 May 2001, on Pittosporum tobira, H. Inoue coll. (NIFTS); five males three females, Miky6, Nishiagina, Amagi, Tokunoshima Island,
+Kagoshima Prefecture, Japan, 17 May 2001, on Pittosporum tobira, H. Inoue coll. (NIFTS). Cacopsylla toddaliae (Yang)
+Psylla toddaliae Yang 1984, p 111. Type locality: Taiwan. Cacopsylla toddaliae: Li 2005, p 165. This species is newly recorded from Japan on the basis of the following materials pre-
+served in NIFTS: one male two females, Yasura, Ishigaki Island, Okinawa Prefec-
+ture, Japan, 6 December 2001, on Toddalia asiatica, K. Kohno coll. ; three nymphs
+(fifth instar), same data, 13 December 2001; seven males four females, same data, 10
+January 2002; four males one female, same data, 11 January 2002; eight males five
+females, same data, 17 January 2002. Distribution. Japan (new record) [Ryukyus (Ishigaki Island)], Taiwan. Host plant. Toddalia asiatica (L.) Lam. (Rutaceae). Cacopsylla toroenensis (Kuwayama) comb. nov.
+
+Psylla toroenensis Kuwayama 1908, p 172; Miyatake 1964a, p 14; 1964b, p 27;
+Klimaszewski 1973, p 226 (P. toroensis [sic]); Hodkinson 1986, p 329 (P. toroensis
+[sic]). Type locality: Taiwan. A Taiwanese species Psylla formosana Yang, 1984, which feeds on Hedera rhombea
+var. formosana (Nakai) Li (Araliaceae) (Yang 1984) and should be transferred to the
+
+Downloaded by [194.254.138.238] at 02:27 19 September 2011
+
+Journal of Natural History 355
+
+genus Cacopsylla in the future, is probably most closely related to or perhaps a junior
+synonym of C. toroenensis. Distribution. Japan (Honshu, Shikoku, Kyushu), Taiwan. Host plant. Hedera rhombea (Migq.) Bean (Araliaceae) (Miyatake 1964a). Cacopsylla uenoi (Matsumoto) comb. nov.
+
+Psylla uenoi Matsumoto 1995, p 203. Type locality: Japan (Hokkaido). Although nymphs of this species are unknown, adult morphological features fit well
+in the genus Cacopsylla. Distribution. Japan (Hokkaido). Host plant. Ulmus davidiana var. japonica (Rehd.) Nakai (Ulmaceae) (Matsumoto
+1995). Cacopsylla vaccinii (Miyatake) comb. nov.
+Psylla vaccinii Miyatake 1964a, p 27; 1964b, p 27; 1965a, p 179; Klimaszewski 1973,
+p 227; Miyatake 1976, p 492; Miyatake 2000, p 205 Type locality: Japan (Shikoku). Distribution. Japan. [Honshu, Shikoku, Kyushu, Tsushima Islands, Ryukyus
+(Okinawa Island)]. Host plant. Vaccinium bracteatum Thunb. (Ericaceae) (Miyatake 1964a). Cacopsylla viburni (Low)
+
+Psylla viburni Léw 1876, p 194; Sasaki 1954, p 36 (P. viburnii [sic]); Miyatake 1963, p 341
+(P. viburnii [sic]); Klimaszewski 1973 p 228; Mathur 1975, p 288; Hodkinson and White
+1979, p 61; Miyatake 1979, p 218 (P. viburnii [sic]); Hodkinson 1986, p 329; Matsumoto
+2004, p 278 (P. viburnii[sic]). Type locality: Austria, Switzerland (Helvetia). Cacopsylla viburni: Lauterer 1976, p 117; 1999, p 99. Psylla viburni Shinji 1942a, p 2 (primary junior homonym of Psylla viburni Low, 1876). The Japanese psyllid population that has been identified as “Psylla viburni” in the
+
+above-mentioned literature is unlikely to be identical with the European Cacopsylla
+viburni (see Miyatake 1969, 1979). Distribution. Japan (Honshu, Shikoku, Kyushu), India, Nepal, Europe. Host plants. Viburnum dilatatum Thunb. ex Murray (Caprifoliaceae) (Sasaki 1954),
+
+Viburnum erosum var. punctatum Franch. et Savat. and Viburnum furcatum Blume ex
+Maxim. (Miyatake 1963) in Japan; Viburnum lantana L. in Europe (Lauterer 1999). Downloaded by [194.254.138.238] at 02:27 19 September 2011
+
+356 H. Inoue
+
+Cacopsylla visci (Curtis)
+Psylla visci Curtis 1835, p 565; Miyatake and Usuba 1997, p 8 (Psylla sp. near visci);
+Inoue 2002, p 496. Type locality: England. Cacopsylla visci: Klimaszewski 1975, p 197. Distribution. Japan (Honshu, Kyushu), Europe, Morocco, Iraq, Caucasus. Host plants. Viscum album L. (Loranthaceae) (Miyatake and Usuba 1997) in Japan;
+
+also Viscum laxum L. and Loranthus europaeus Jacq. (Loranthaceae) in other locali-
+ties (Lauterer 1999). Cacopsylla yukawai Inoue
+
+Cacopsylla yukawai Inoue 2004a, p 150. Type locality: Japan (Honshu). Distribution. Japan (Honshu). Host plant. *Sorbus commixta var. rufo-ferruginea C. K. Schn. (Rosaceae) (new
+record),
+
+*Adults and nymphs were confirmed on S. commixta var. rufo-ferruginea at
+Mount Nantai, Nikko City, Tochigi Prefecture, Honshu, Japan on 3 July 2004 by
+H. Inoue (NIFTS). Genus Chamaepsylla Ossiannilsson
+Psylla (Chamaepsylla) Ossiannilsson 1970, p 140. Type species: Chermes hartigii Flor, 1861, by original designation. Chamaepsylla: Burckhardt 1979, p 113. Chamaepsylla hartigii (Flor)
+
+Psylla hartigii Flor 1861, p 469; Miyatake 1964a, p 15; 1969, p 73; Klimaszewski
+1973, p 209 (P. hartigi [sic]); Lauterer 1976, p 115 (P. hartigi [sic]); Hodkinson
+and White 1979, p 56 (P. hartigi [sic]); Konovalova 1988, p 525. Type locality:
+Livland. Cacopsylla hartigii: Hodkinson 1988, p 1188; Labina 2006, p 53. Chamaepsylla hartigii: Ossiannilsson 1992, p 117. Distribution. The whole Palaearctic from Europe to Japan (Hokkaido, Honshu,
+Kunashiri Island, Shikotan Island), Sakhalin, North America (USA, Canada). Host plants. Betula platyphylla var. japonica (Miq.) Hara (Betulaceae) in Japan
+(Miyatake 1969); Betula alba L., Betula verrucosa Ehrh., Betula pubescens Ehrh.,
+Betula tortuosa Ledeb. in Europe (Klimaszewski 1973, Ossiannilsson 1992); Betula
+populifolia Marshall in North America (Hodkinson 1988). aded by [194.254.138.238] at 02:27 19 September 2011
+
+ 
+
+Journal of Natural History 357
+
+Acknowledgements
+
+I wish to express my thanks to Yorio Miyatake (Kansai University, Japan) for valuable
+comments on the manuscript; Kouichi Matsumoto (Tokyo, Japan) for supplying literature;
+Osamu Tadauchi (ELKU), Kazunori Yoshizawa (SEHU), Shin-ichi Yoshimatsu (NIAES),
+Yuichi Okushima (KURA) and Shigehiko Shiyake (OMNH) for their help in examination of
+the specimens preserved in the respective institutes; and Shigeshi Usuba (Saitama Prefecture,
+Japan), Utako Kurosu (Chuo University, Japan), Naoki Takahashi (ELKU), Katsuyuki
+Kohno (National Institute of Vegetable and Tea Science, Japan) and Keiko Kawamoto (Naha
+Plant Protection Station, Japan) for providing various psyllid materials. References
+
+Aulmann G. 1913. Psyllidarum Catalogus. Berlin: W. Junk,. 92 p.
+
+Baba K, Miyatake Y. 1971. Notes on Psyllidae from Sado Island, Niigata Prefecture (Hemiptera:
+Homoptera). Bull Osaka Mus Nat Hist. 24:5-13. Baugnee JY. 2003. The presence of the cicadellid Kyboasca maligna (Walsh, 1862) and the
+psyllid Cacopsyila fulguralis (Kuwayama, 1907) (Hemiptera Homoptera) in Belgium. Bull
+Soc R Belge Entomol. 139:72-73. Burckhardt D. 1979. Phylogenetische Verhiiltnisse in der Gattung Psylla s.1. (Sternorrhyncha,
+Psyllodea) mit besonderer Beriicksichtigung von Psylla colorata Low. Mitt Schweiz
+Entomol Gesell. 52:109-115. Burckhardt D, Hodkinson ID. 1986. A revision of the west Palaearctic pear psyllids
+(Hemiptera: Psyllidae). Bull Entomol Res, 76:119-132. Crawford DL. 1911, American Psyllidae III (Triozinae). Pomona Coll J Entomol. 3:422-453. Crawford DL. 1914. A monograph of the jumping plant-lice or Psyllidae of the New World. Bull US Natl Mus. 85:1-186. Curtis J. 1835, British Entomology, being Illustrations and Descriptions of the Genera of
+Insects found in Great Britain and Ireland 12. London. 565 p.
+
+Fang SJ, Yang CT. 1986. Psylloidea of Taiwan (Homoptera: Sternorrhyncha) Supplement. Taiwan Mus Spec Publ Ser. 6:119-176. Flor G. 1861. Die Rhynchoten Livlands 2. Dorpat. 637 p.
+
+Foerster A. 1848, Ubersicht der Gattungen und Arten in der Familie der Psylloden. Verhandl
+naturhist Ver preuss Rheinl. 3:65-98. Geoffroy EL. 1762. Histoire abrégée des insectes qui se trouvent aux environs de Paris 1. Paris. 523 p.
+
+Hodkinson ID. 1974. The biology of the Psylloidea (Homoptera): a review. Bull Entomol Res. 64:325-339. Hodkinson ID. 1980. Present-day distribution patterns of the Holarctic Psylloidea (Homoptera:
+Insecta) with particular reference to the origin of the Nearctic fauna. J Biogeog. 7:127-146. Hodkinson ID. 1983. The psyllids (Homoptera: Psylloidea) of the Austro-Oriental, Pacific and
+Hawaiian zoogeographical realms: an annotated check list. J Nat Hist. 17:341-377. Hodkinson ID. 1986. The psyllids (Homoptera: Psylloidea) of the Oriental Zoogeographical
+Region: an annotated check-list. J Nat Hist. 20:299-357
+
+Hodkinson ID. 1988. The Nearctic Psylloidea (Insecta: Homoptera): an annotated check list. J
+Nat Hist. 22:1179-1243. Hodkinson ID, White IM. 1979. Homoptera, Psylloidea. Handbooks for the Identification of
+British Insects II (Pt 5a). 98 p.
+
+Inoue H. 2002. [First distributional records of two psyllid species from Kyushu]. Pulex, Fukuoka
+87:496 (in Japanese). Inoue H. 2004a. Descriptions of two new species of the genus Cacopsyila (Hemiptera: Psyllidae)
+in Japan, Esakia 44:143-152.
+
+aded by [194.254.138.238] at 02:27 19 September 2011
+
+ 
+
+358 H. Inoue
+
+Inoue H. 2004b. Descriptions of two new and one little known species of the genus Cacopsylla
+(Hemiptera: Psyllidae) on Sorbus japonica (Rosaceae) and an observation of their biology. Entomol Sci. 7:399-413. Inoue H, Miyatake Y. 2001. Taxonomic study of the superfamily Psylloidea (Homoptera:
+Sternorrhyncha) on the Ogasawara (Bonin) Islands. Part 1, Aphalaridae, Psyllidae and
+Carsidaridae, with descriptions of four new species. Entomol Sci. 4:459-475. Inoue H, Shinohara K, Okumura M, Ikeda K, Ashihara W, Ohira Y. 2006. Occurrence of
+Psylla evodiae Miyatake (Hemiptera: Psyllidae) on the cultivated orange jasmine,
+Murraya paniculata (Rutaceae) in Kyushu and on Yakushima Island. Jpn J Appl
+Entomol Zool. 50:66-68. Inoue H, Yamauchi T. 2001. Jumping plant-lice (Hemiptera: Psylloidea) of Hiroshima Prefecture. Misc Rep Hiwa Mus Nat Hist. 40:53-58.
+
+International Commission on Zoological Nomenclature. 2000. International Code of Zoological
+Nomenclature, 4th edition. London: The International Trust for Zoological Nomencla-
+ture. 306 p.
+
+Jensen DD. 1951. The North American species of Psylla from willow, with descriptions of new
+species and notes on biology (Homoptera: Psyllidae). Hilgardia 20:299-324. Jensen DD. 1957. A new genus and five new species of Psyllidae from California and Lower
+California (Homoptera). Wasmann J Biol. 15:15-34. Karube H, Takakuwa M, Suda S, Matsumoto K, Kishimoto T, Nakahara N, Nagase H,
+Suzuki W. 2004. List of insects collected in the Ogasawara Islands mainly through the
+special research expedition organized by the Kanagawa Prefectural Museum of Natural
+History during 1997-2003. Res Rep Kanagawa Pref Mus Nat Hist. 12:65-86. Klimaszewski SM. 1972, Bemerkungen iiber die Systematik der Gattung Psylla Geoff, s. 1
+(Homoptera, Psyllodea). Ann Univ Mariae Curie-Sklodowska, Section C, 27:11-15. Klimaszewski SM. 1973. The jumping plant lice or psyllids (Homoptera, Psyllodea) of the
+Palaearctic. An annotated check-list. Ann Zool. 30:155-286. Klimaszewski $M. 1975. Psyllodea koliszki (Insecta: Homoptera). Fauna Polski. 3:1-295
+
+Konovalova ZA. 1988. Psyllinea. In: Lehr PA, editor. Opredelitel’ nasekomykh Dal’nego
+Vostoka SSSR v shesti tomakh. Vol 2. Ravnokrylye i poluzhestkokrylye. Leningrad:
+Nauka. p 495-540 (in Russian). Kuwayama Sa. 1931. A revision of the Psyllidae of Taiwan, Insecta Matsum, 5:117-133. Kuwayama Sa. 1939. On some species of Psyllidae from Amakusa. Zool Mag Tokyo. 51:535-537. Kuwayama Sa, 1943. On some species of Psyllidae from Amami-Osima and Yakusima. Trans
+Nat Hist Soc Formosa. 33:504-511. Kuwayama Sa. 1955. A new species of Psyllidae from Japan (Homoptera). Mushi 29:1-3. Kuwayama Sa. 1967. Insect fauna of the southern Kurile Islands, Sapporo: Hokundkai. 225 p.
+
+Kuwayama Sa, Miyatake Y. 1971. Psyllidae from Shansi, North China (Hemiptera), Mushi
+45:51-58. Kuwayama Sh. 1908. Die Psylliden Japans, I. Trans Sapporo Nat Hist Soe. 2:149-189. Kwon YJ. 1983. Psylloidea of Korea (Homoptera: Sternorrhyncha), Insecta Kor Ser. 2:1-181. Labina ES, 2006. Psyllids of the Kuril Islands (Homoptera, Psylloidea). Zoosyst Ross. 15:51-55. Lauterer P. 1976, Psyllids of wetland nature reserves of the German Democratic Republic,
+with notes on their biology, taxonomy and zoogeography. Faun Abh Staat Mus Tierk
+Dresden. 6:111-122. Lauterer P. 1999. Results of the investigations on Hemiptera in Moravia, made by the Moravian
+museum (Psylloidea 2). Acta Mus Moray Sci Biol. 84:71-151. Li F. 2005. Homoptera: Psylloidea. In: Yang X, editor. Insect fauna of Middle-West Qinling
+Range and South Mountains of Gansu Province. Beijing: Science Press. p 142-213. Linnaeus C. 1758. Systema Naturae. 1. Stockholm. 824 p.
+
+Low F. 1876. Zur Biologie und Charakteristik der Psylloden nebst Beschreibung zweier neuer
+Species der Gattung Psylla. Verhandl K-K Zool-Bot Gesell Wien. 26:187-216, 2 plates. aded by [194.254.138.238] at 02:27 19 September 2011
+
+ 
+
+Journal of Natural History 359
+
+Malumphy CP, Halstead AJ. 2003. Cacopsyila fulguralis (Kuwayama), an Asian jumping plant
+louse (Hemiptera: Psyllidae), causing damage to Elaeagnus in Britain. Br J Entomol Nat
+Hist 16:89-93. Mathur RN. 1975, Psyllidae of the Indian Subcontinent. New Delhi: Indian Council of
+Agricultural Research. 429 p.
+
+Matsumoto K. 1995, A new species of the genus Psylla (Homoptera, Psylloidea) from
+Hokkaido, northern Japan. Spec Bull Jpn Soc Coleopterol. 4:203-206. Matsumoto K, 2004. Hemiptera (Sternorrhyncha: Psylloidea & Aleyrodoidea). In: Kanagawa
+koncht Danwakai, editor, Insect Fauna of Kanagawa. Odawara: Kanagawa Konchi
+Danwakai, p 273-282
+
+Matsumura S. 1917. Psyllidae. In: Matsumura S, editor. Applied Entomology. Tokyo: Keisei-sha. p 368-376
+
+Miyatake Y. 1963. A revision of the subfamily Psyllinae from Japan. I (Hemiptera: Psyllidae)
+J Fac Agric Kyushu Univ, 12:323-357. Miyatake Y. 1964a. A revision of the subfamily Psyllinae from Japan. II (Hemiptera:
+Psyllidae). J Fac Agric Kyushu Univ. 13:1-37
+
+Miyatake Y, 1964b. Psyllidae in the collection of the Osaka Museum of Natural History,
+with description of a new species (Hemiptera: Homoptera), Bull Osaka Mus Nat Hist
+1719-32,
+
+Miyatake Y. 1964c. On the Psyllidae from the Yaeyama Group, the Ryukyus (Hemiptera:
+Homoptera). Rep Comm Foreign Sci Res Kyushu Univ. 2:121-132. Miyatake Y. 1965a. Notes on Psyllidae from the Ryukyu Islands (Hemiptera: Homoptera)
+Kontya 33:171-189. Miyatake Y. 1965b. Notes on Psyllidae (Hemiptera) of Formosa. Spec Bull Lepidopterol Soc
+Jpn. 1:226. Miyatake Y. 1966. On some species of Psyllidae from the Hachijé Islands (Homoptera). Konty@ 34:327-330. Miyatake Y. 1969. On the Psyllidae from Niigata Prefecture, North Honshu, Japan I
+(Hemiptera), Bull Osaka Mus Nat Hist. 22:63-83. Miyatake Y. 1971. On some species of Psyllidae from Korea (Hemiptera: Homoptera). Bull
+Osaka Mus Nat Hist. 24:1-4,
+
+Miyatake Y. 1972a. Studies on the Philippine Psyllidae (Hemiptera: Homoptera) II. Bull
+Osaka Mus Nat Hist, 26:11-34. Miyatake Y. 1972b. On some psyllids from the Hidaka Mountain Range, Hokkaido (Homoptera,
+Psyllidae). Mem Nat Sci Mus. 5:101-105. Miyatake Y. 1976. Psyllidae (Hemiptera) of Tsushima Island. In: Tsushima no Seibutsu. Nagasaki: Nagasaki Biological Society. p 487-495. Miyatake Y. 1977. [Homoptera of Hiwa, Hiroshima Prefecture (I)]. In: Hiwa no Shizen. Hiroshima: Hiwa Museum for Natural History. p 239-246 (in Japanese). Miyatake Y. 1979. Psyllidae of Niigata Prefecture. In: Baba K, editor. Niigata: Niigata-ken no
+Koneha. p 211-230. Miyatake Y. 1981. Studies on Psyllidae of Nepal I. Results of the survey in the Kathmandu
+Valley, 1979. Part 1 (Hemiptera: Homoptera). Bull Osaka Mus Nat Hist. 34:47-60. Miyatake Y. 1982a. A new Japanese species of Psylla feeding on Elaeagnus montata (Homoptera:
+Psyllidae). Bull Osaka Mus Nat Hist. 36:15-20. Miyatake Y. 1982b. A remarkable new species of Psylla on Buxus from Yakushima, S. Japan
+(Homoptera: Psyllidae). In: Saté M et al., editors. Special Issue to the Memory of
+Retirement of Emeritus Professor Michio Chijé. Nagoya: Nagoya Women’s University. p 169-173. Miyatake Y. 1990. Redescriptions of two species of the Japanese jumping plant-lice, with
+taxonomical and biological notes (Homoptera, Psylloidea). Bull Osaka Mus Nat Hist. 44:15-22.
+
+aded by [194.254.138.238] at 02:27 19 September 2011
+
+ 
+
+360 H. Inoue
+
+Miyatake Y. 2000. A list of Homoptera of Osaka, Japan. In: Insecta Miyatakeana, a special
+publication from the Entomological Society, Osaka Museum of Natural History. Osaka:
+Osaka Museum of Natural History. p 201-208. Miyatake Y, Usuba S. 1997. [A Viscum album-feeding psyllid species unknown from Japan]. Abstracts of the 57th Annual Meeting of the Entomological Society of Japan. p 8 (in
+Japanese)
+
+Oshanin B, 1912. Katalog der pakiarktischen Hemipteren. Berlin. p 187. Ossiannilsson F. 1970. Contributions to the knowledge of Swedish psyllids (Hem. Psylloidea)
+1-4, Entomol Scand. 1:135-144. Ossiannilsson F. 1975. On the male of Psylla myrtilli W. Wagner with description of a new
+Psylla species from the Far East (Homoptera: Psyllidae), Entomol Scand. 6:102-106. Ossiannilsson F. 1992. The Psylloidea (Homoptera) of Fennoscandia and Denmark. Fauna
+
+Entomol Scand. 26:1-346. Park HC. 1996, Taxonomy of Korean psyllids (Homoptera: Psylloidea) 1. A revised checklist
+Kor J Entomol. 26:267-278
+
+Park HC, Hodkinson ID, Kuznetsova, VG. 1995. Karyotypes of psyllid species 1. (Homoptera:
+Psylloidea). Kor J Entomol. 25:155-160. Puton A. 1871. Description de deux nouvelles espéces de Psyllides. Ann Soc Entomol France
+Ser. 5, 1:435-438,
+
+Sasaki K. 1954. A list of the known species and their host-plants of the Psyllidae of Japan
+(Homoptera). Sci Rep Matsuyama Agric Coll. 14:29-39. [Sasaki T. (anonymous in the original literature)] 1915. [On Psylla matirorella Mats.]. Bydchtigai
+Zasshi 2:301-304, (in Japanese). Schmidberger J. 1836. Chermes mali Schmidb, Beitr Obstbaum Naturgesch Obstbiium schadl
+Insekt, 4:186-189. Schwarz EA. 1896, Anomoneura Schwarz, new genus. In: Uhler PR, editor. Summary of the
+Hemiptera of Japan, presented to the United States National Museum by Professor
+Mitzukuri, Proc US Natl Mus. 19:255-297. Shinji O. 1942a. Three new species of Psylla (Hem.) from Tokio, Insect World 46:2-5. Shinji O. 1942b. A new species of Aphalara (Hem. Psyllidae) and the host plant of anther sp. Insect World 46:354-356. Siiss L, Savoldelli S. 2003. Recording of Cacopsylla fulguralis (Kuwayama) (Homoptera
+Psyllidae) in Italy. Boll Zool Agrar Bachicolt. 35:95-98. Tuthill LD. 1943. The psyllids of America north of Mexico (Psyllidae: Homoptera). Iowa State
+Coll J Sci. 17:443-660. Wheeler AG, Stoops CA. 2001. Cacopsylla peregrina (Foerster) (Sternorrhyncha: Psylloidea:
+Psyllidae): First U.S. records of an old world specialist on hawthorns (Crataegus spp.). Proc Entomol Soc Wash. 103:103-109. Yang CT. 1984. Psyllidae of Taiwan. Taiwan Mus Spec Publ Ser. 3:1-305. Zetterstedt JW. 1840. Insecta Lapponica Descripta. Lipsiae. p 314.

@@ -1,0 +1,1109 @@
+Journal of
+Phytopathology
+
+ORIGINAL ARTICLE
+
+J Phytopathol
+
+European Stone Fruit Yellows: A Mark, Release and Recapture
+Experiment Tracking the Dispersal of its Vector Cacopsylla pruni
+(Hemiptera: Psyllidae) in a Model Apricot Orchard and
+Epidemiological Studies in Lower Austria
+
+Caroline Maier’, Karl Bachinger?, Judith Mértel', Christian Engel*, Leonhard Czipi
+
+Monika Riedle-Bauer'
+
+ 
+
+and
+
+1 Lehr- und Forschungszentrum fiir Wein- und Obstbau Klosterneuburg, WienerstraBe 74, 3400 Klosterneuburg, Austria
+2 Austrian Institute of Technology, Konrad-Lorenz-StraBe 24, 3430 Tulln, Austria
+
+3 NO Landes-Landwirtschaftskammer, Referat Obstbau, WienerstraBe 64, 3100 St. Pélten, Austria
+
+4 Wein- und Obstbauschule Krems, Wienerstrasse 101, 3500 Krems, Austria
+
+keywords
+apricot, Austria, fluorescent dye, host plants,
+vector movement, yellow sticky trap
+
+Correspondence
+
+M. Riedle-Bauer, Lehr- und
+Forschungszentrum fiir Wein- und Obstbau
+Klosterneuburg, Klosterneuburg, Austria
+E-mail: Monika Riedle-Bauer@weinobst.at
+
+Received: February 18, 2013; accepted: April
+19, 2013,
+
+doi: 10.1111/jph.12122
+
+Introduction
+
+European stone fruit yellows
+
+(ESFY) caused by
+
+Abstract
+
+During the last 15 years, European stone fruit yellows (ESFY) has become
+a major concern in Austrian fruit production. Therefore, presence and
+temporal dynamics of its vector Cacopsylla pruni were investigated using a
+beating tray method and yellow sticky traps on Prunus armeniaca, Prunus
+domestica, Prunus spinosa and P. cerasifera nigra. Infection rates of C. pruni
+and Prunus spp. trees were assessed by direct, nested and real-time PCR. Movement of remigrants in a model apricot orchard was tracked by aid of
+a mark, release and recapture study. Insects were marked by fluorescent
+dyes. Movement of the marked insects and presence of naturally occur-
+ring insects were monitored by yellow sticky traps. In 2011, remigration
+of C. pruni to Prunus spp. started in calendar week 10 (8th of March) and
+in 2012, in calendar week 12 (18th of March). Remigrants were observed
+until calendar week 20 (middle of May), significant numbers of the
+springtime generation adults were present until week 26 (end of June). The phytoplasma was ascertained in 0-11.5% of the remigrants and in
+0-3.44% of the springtime generation insects. About 9.8-63.3% of the
+apricot samples, 20-40% of the plum samples and single blackthorn sam-
+ples were infected. The mark, release and recapture study proved a fast
+and frequent tree-to-tree movement of remigrated C. pruni adults. Insects
+easily covered distances from row to row or even farther (ca. 13 m) within
+24 h after release and were present in a large part of the model orchard
+after 8 days (up to 24 m from release point). apricots (Prunus armeniaca) and Japanese plums
+(Prunus salicina). In apricots, the disease is character-
+ized by small-sized, conically rolled, chlorotic leaves,
+
+“Candidatus Phytoplasma prunorum’ is widespread
+throughout Europe except the North and most parts
+of Great Britain. Outside Europe, it is known to be
+present in large parts of Turkey (COST action FA 0807
+2013). The phytoplasma primarily infects plants of the
+genus Prunus, causing severe damage particularly in
+
+J Phytopathol 161 (2013) 713-722 © 2013 Blackwell Verlag Gmbtt
+
+premature fruit fall, small tasteless fruits, decreased
+vitality of infected trees and eventually death of single
+branches or entire trees (Morvan 1977; Marcone et al. 2010). Based on phylogenetic analyses of the 16 § rDNA,
+‘Ca. P. prunorum’ is placed in the apple proliferation
+
+713
+
+European stone fruit yellows in Austria
+
+(16SrX) cluster together with other important phy-
+toplasma diseases of fruit trees such as apple prolifera-
+tion and pear decline (Seemiiller and Schneider
+2004). European stone fruit yellows is transmitted by the
+plum psyllid Cacopsylla pruni (Scopoli) (Carraro et al. 1998). Cacopsylla pruni is univoltine, strictly oligopha-
+gous on Prunus, overwinters on conifers and remi-
+grates to Prunus in early spring. On Prunus, the insects
+lay eggs and develop through five larval stages into
+adults which abandon their Prunus hosts in summer
+(Ossiannilsson 1992; Thébaud et al. 2009). Studies
+suggest that remigrated C. pruni returning to apricot
+orchards in spring are the most efficient disease vec-
+tors. Secondary spread within an orchard during a
+vegetation period seems to be marginal (Carraro et al. 2004; Thébaud et al. 2009; Poggi Pollini et al. 2010). Wild Prunus species such as P. domestica and P. spinosa
+are both frequently tolerant hosts of the phytoplasma
+and suitable hosts for C. pruni. These species could
+therefore play a significant role as sources of
+infectious vectors (Carraro et al. 2002). Proposed
+management approaches include the use of healthy
+propagation material, the removal of rootstock
+suckers, uprooting of infected trees and application of
+insecticides against both remigrants and springtime
+generation. Clearing strategies and __ insecticide
+treatments have to be designed according to the regio-
+nal situation. In areas where the disease is present
+epidemically on wild Prunus, hosts uprooting of
+infected trees and control of immature vectors in
+orchards are likely to be insufficient or even ineffi-
+cient (Thébaud et al. 2009). Insecticides against
+C. pruni are not authorized in many countries, and
+efficiency of insecticides both on the transmitting
+insect and on disease spread has yet to be evaluated
+(Marcone et al. 2010). During the last 15 years, the importance of ESFY in
+Austria has significantly increased (Richter 1999; Lai-
+mer Da Camara Machado et al. 2001; Riedle-Bauer
+et al. 2012). Currently, severe disease outbreaks occur
+in the Wachau, one of the most important apricot
+growing areas of Austria, located on both sides of the
+Danube river in Lower Austria. The deep and narrow
+river valley is characterized by apricot orchards in the
+plain near the river and forests consisting of decidu-
+ous trees and conifers at higher altitude. The apricots
+produced there are designed as ‘Wachauer Qua-
+litatsmarille’, a product with protected designation of
+origin (PDO, Commission of the European Commu-
+nity Regulation EC 1107/96). Fruits are produced
+mainly of the local cultivar ‘Klosterneuburger Marille’
+(a clone of ‘Hungarian Best’). 714
+
+C. Maier et al
+
+Due to the frequent cultivation of the highly sus-
+ceptible cv. ‘Klosterneuburger Marille’, small-scale
+structured apricot orchards and the close vicinity of
+conifers as putative overwintering hosts for the vector
+C. pruni disease incidence are high. The development
+of a well-adapted pest management is an urgent need. Therefore, presence and temporal dynamics of
+C. pruni on apricots, plums, blackthorns and cherry
+plums were investigated. ESFY infection rates of
+C. pruni and their Prunus host plants were also deter-
+mined. To observe extent and speed of vector move-
+ment and to estimate the size of the natural vector
+population in a model apricot orchard a mark, release
+and recapture study with remigrants was carried out. Material and Methods
+
+Insect and plant sampling
+
+Location and description of the experimental sites
+included in the study are illustrated in Table 1. Exper-
+imental sites 1-7 are located in the Wachau area. For
+comparison purposes, two sites (N° 8 and 9) situated
+apart from commercial apricot growing areas were
+also included in this study. Adult C. pruni were captured from end of February
+until beginning of July 2011 and 2012 on Prunus ar-
+meniaca, P. domestica, P. spinosa and P. cerasifera nigra. In 2011, captures were made at test sites 1, 3, 5, 6, 7,8
+and 9, and in 2012, presence of insects was surveyed
+at sites 2, 8 and 9. Remigrants were collected once or
+twice a week, and springtime generation adults were
+collected every week or every 2 weeks using a beating
+tray method with a white plastic tray (30 x 40 cm). Two branches per tree were chosen for insect collec-
+tion and sampled by ten hits, respectively. Numbers of
+sampled branches per tree were kept to this low level
+to prevent unreliable data due to escape of insects. The
+number of probed trees per experimental site ranged
+from 2 to 5 for P. spinosa, 2 for P. domestica and 5 to 13
+for P. armeniaca. In the case of P. cerasifera nigra, only
+one tree was present at the experimental site. Trapped
+psyllids were identified (according to Ossiannilsson
+1992; Burckhardt and Jarausch 2007), counted and
+frozen at —18°C. Additionally, yellow sticky traps (Re-
+bell® amarillo, Andermatt Biocontrol AG, Grossdiet-
+wil, Switzerland) were used in apricot orchards to
+record the return of the remigrated C. pruni in early
+spring and to proof their presence in orchards with
+low population densities. In each orchard, 4 yellow
+sticky traps were mounted and changed weekly. Leaf samples were taken in late summer 2011 and
+2012 to analyse the presence of the phytoplasma at all
+
+J Phytopathol 161 (2013) 713-722 © 2013 Blackwell Verlag Gmbtt
+
+C. Maier et al
+
+Table 1 Description of test sites included in the study
+
+European stone fruit yellows in Austria
+
+ 
+
+ 
+
+Number of Prunus Tree age
+Test site Location armeniaca trees inyears__Rootstock/cultivar Other Prunus species
+1 Rohrendorf ~1420 ~10 ‘Brompton’/‘Klosterneuburger Marille’ P. spinosa hedgerow
+2 Krems ~100 510 ‘Brompton’/‘Klosterneuburger Marille’ P. domestica and P. cerasifera
+nigra in hedgerow
+3 Krustetten ~140 8-60 'p, domestica ssp. insititia/'Klosterneuburger 25 P. domestica trees in orchard
+Marille’ or unknown/unknown
+4 Baumgarten ~40 6 - P. spinosa hedgerow
+5 Rihrsdorf 28 260 ‘Brompton’/‘Klosterneuburger Marille’ -
+{or unknown/unknown)
+6 Aggsbach-Dorf — ~850 8410 ‘Brompton’/‘Klosterneuburger Marille’ Single P. spinosa plants in vicinity
+7 Aggsbach-Markt 33, 8410 ‘Brompton’/‘Klosterneuburger Marille’ -
+8 Langenzersdorf 0 - - Special area of conservation according
+to European Union's Habitats
+Directive (92/43/EEC), P. spinosa
+widespread
+9 Hagenbrunn 0 - - Vineyard with vast P. spinosa
+
+hedgerows, distance to site 8: 3 km
+
+ 
+
+test sites in all four Prunus species. At this time of the
+year, symptom bearing trees were present in all apri-
+cot orchards included in this study. Observed symp-
+toms were rolling and yellowing of leaves, reduced
+vigour and death of entire trees or single branches. No
+symptoms were observed on P. domestica, P. cerasifera
+nigra and P. spinosa. To obtain an overview of infection rates, sampled
+trees were randomly selected independently whether
+they showed symptoms or not. Numbers of sampled
+trees per orchard are presented in Table 2. Detection of ‘Ca. P. prunorum’
+
+DNA extraction from plant and insect samples was
+performed as described by Maixner et al. (1995). Each
+plant or insect was processed individually. Insect and plant DNA (except P. spinosa DNA) were
+amplified in a direct PCR procedure using the primer
+pair £01/r01 (Lorenz et al. 1995). A 20 yl of reaction
+volume contained 1-5 jl template preparation, 0.5 jum
+of each primer, 200 ym of each dNTP, 0.5U Taq DNA
+polymerase (Qiagen, Erlangen, Germany) and 1x
+reaction buffer (Qiagen). PCR was performed in an Ep-
+pendorf Mastercycler (Hamburg, Germany). The reac-
+tion mixtures were subjected to 40 cycles with 45 s
+denaturation at 94°C, 45 s annealing at 45°C and 60 s
+extension at 72°C. All samples yielding the expected
+PCR fragment were analysed by restriction fragment
+length polymorphism (RFLP) to differentiate ‘Ca. P. prunorum’ from other 16SrX phytoplasmas and to
+exclude unspecific PCR products. 10 jl of amplicon
+
+J Phytopathol 161 (2013) 713-722 © 2013 Blackwell Verlag Gmbtt
+
+Table 2 Infections of Prunus plants with ‘Ca. P. prunorum’
+
+No. of tested treesiNo. of positive trees
+
+Prunus Prunus Prunus Prunus cerasifera
+Test site armeniaca domestica spinosa_—_niigra
+1 414 ~ ail -
+2 16/5, 5I2 110 110
+3 1W7 Sit ~ ~
+4 40/15, ~ 412 -
+5 oil - - -
+6 23/2 ~ 210 ~
+7 612 - - -
+8 510
+9 510
+
+was digested with 5U of Rsal (Promega, Madison, WI,
+USA) at 37°C for 4 h (Seemiiller and Schneider 2004). PCR and RFLP products were stained with Midori
+Green (Nippon Genetics Europe, Dueren, Germany),
+separated on a 2% agarose gel and visualized under
+UV light. P. spinosa samples were analysed by nested
+PCR in 2011 and by qualitative real-time PCR in 2012. For nested PCR, the primers P1/P7 (Deng and Hiruki
+1991; Smart et al. 1996) and f{01/r01 were used. Incu-
+bation parameters were identical as described for
+direct PCRs except for the annealing temperature in
+the first amplification which was 50°C. For qualitative
+real-time PCR, the Sensifast NoRox kit (Bioline, Lon-
+don, UK) based on SYBR Green technology was used. Reaction preparations comprised 0.5 yl of template
+DNA, 0.2 um of primers ESFYf and ESFYr (Yvon et al. 2009), 10 yl 2x Sensifast mix in a volume of 20 sl. 715
+
+European stone fruit yellows in Austria
+
+Real-time PCR was carried out in a Rotor Gene 2.0
+(Corbett, Mortlake, Australia) thermocycler with a
+denaturation step at 94°C for 3 min and 40 PCR cycles
+with 5 s denaturation at 94°C, 10 s annealing at 65°
+and 10 s extension at 72°C. Mark, release and recapture study
+
+Remigrated C. pruni adults were collected on
+P. spinosa at test site 9 by beating tray method. Mark-
+ing was essentially performed as previously described
+(Hagler and Jackson 2001; Nakata 2008); 50 speci-
+mens at a time were transferred into 50-ml centrifuge
+tubes and 5 mg of a pink luminescent powder pig-
+ment (Karmin Tagesleucht pigment, Artmaxx, Berlin,
+Germany) or 10 mg of a light blue luminescent pow-
+der pigment (Guardi, Prussian blue UV active, Boes-
+ner, Vienna, Austria) were added to each tube. Insects
+were stained by gentle rolling and turning of the tube. Pigment-coated psyllids showed a pink or blue colour
+under daylight and strong luminescence in the dark
+under UV light. Stability of the dyes in the field was investigated by
+transferring 10 dead, stained specimens per dye to a
+yellow sticky trap exposed to outdoor conditions. Visibility of the stain in daylight and UV light was
+examined weekly. Effects of the pigment on insect survival were exam-
+ined by a laboratory experiment. 10 individuals at a
+time (pigment coated or untreated) were caged in pot
+cages (20 cm long, 15 cm wide) on apricot seedlings. Insects were kept under laboratory conditions (L16:
+D8, 21°C). Numbers of dead and surviving individuals
+were recorded daily for 8 days. The experiment was
+repeated four times. Statistical analysis (Kruskal—
+Wallis H Test) was performed by aid of the statistics
+programs SPSS 19.0 (SPSS Inc., Chicago, IL, USA). For the field experiments, the standard tree apricot
+orchard at test site 2 (Table 1) was chosen. In this,
+orchard within a row tree spacing ranged from 4-5 m,
+while between rows distance was 6 m. A hedgerow
+with hosts for C. pruni (P. domestica and P. cerasifera
+nigra) was located at a distance of approximately
+100-130 m. Numbers and arrangement of trees
+included in the experiments are illustrated in Figs 4
+and 5. The apricot orchard was surrounded by an apple
+orchard in the South, a sports ground in the North,
+a hedgerow with hosts for C. pruni in North-West and
+an apricot orchard in the East. The model orchard
+breadthways only comprised five rows. To ensure con-
+ditions that can normally be found in bigger orchards,
+the release tree was not chosen in the middle of the
+apricot orchard but closer to the apple orchard than to
+
+716
+
+C. Maier et al
+
+the sports ground. Wind and temperature measure-
+ments were taken by a weather station (Adcon, Klo-
+sterneuburg, Austria) present in close vicinity to the
+apricot orchard. Measurements were taken three times
+a day. The insect release was conducted twice (start
+19th and 26th of April 2012). In the first release,
+insects were stained with the pink fluorescent dye, for
+the second release, the blue dye was used. 600 C. pruni
+per release were trapped on P. spinosa, starved for 2 h,
+stained and freed on one single tree in the apricot orch-
+ard. At the beginning of the experiment, insects were
+caged on four single branches using transparent plastic
+tubes (20 cm long, 15 cm wide) with gauze houses on
+both ends (50 individuals per cage). After the insects
+had settled and started to feed, the plastic tubes were
+removed (c. after 90 min). Movement of the stained
+insects and presence of naturally occurring insects
+within the orchard were monitored by yellow sticky
+traps (2 traps per tree including the release tree) from
+19th of April (release of the first stained insects) until
+3rd of May (8 days after the second insect release). Positions of the sticky traps are illustrated in Figs 4 and
+5. Trees within the model orchard were allocated to
+sectors according to their distance to the release tree
+(Figs 4 and 5). The approximate distances to the release
+tree were 4~7 m for sector 1, 8-14 m for sector 2, 12-
+21 m for sector 3 and 16-24 m for sector 4. During the
+experiment, sticky traps were controlled at night using
+a UV tube (portable bank note tester, Conrad, Vienna,
+Austria). After the end of the experiment, all sticky
+traps were transferred to the laboratory and inspected
+under a binocular microscope and a standard UV
+transilluminator (Vilber Lourmat, Marne-la-Vallée,
+France). Results
+
+Temporal dynamics of Cacopsylla pruni
+
+The results of the insect captures on P. armeniaca,
+P. domestica, P. spinosa and P. cerasifera nigra using the
+beating tray method are as shown in Figs 1-3. In
+2011, remigration of C. pruni to Prunus spp. started in
+calendar week 10 (8th of March) and in 2012, in
+calendar week 12 (18th of March). Remigrants were
+observed until calendar week 20 (middle of May),
+significant numbers of springtime generation adults
+were present on Prunus until week 26 (end of June). Insect captures in apricot orchards were low. By the
+beating tray method, on average, significantly less
+than one specimen per sampling (10 hits per branch)
+was trapped. On test sites, 1, 6 and 7 no C. pruni were
+collected by this method. Yellow sticky traps, how-
+
+J Phytopathol 161 (2013) 713-722 © 2013 Blackwell Verlag Gmbtt
+
+C. Maier et al
+
+ever, allowed capture of low insect numbers in all
+investigated apricot orchards in both years (data not
+shown). In contrast, high insect numbers were
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. 04
+
+2 0.35 {] B site 3 2011
+
+5 03 Dsite 5 2011
+
+SG
+
+55° Dsite 2.2012
+§
+
+55 02 =
+
+iE
+
+5 ots -
+
+o 04 {}
+
+&
+
+gs
+
+S
+
+$
+
+<
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0.05 i
+0
+8 9 10 11 12 13 14 15 16 17 18 20 22 24 26 28
+Calendar week
+
+ 
+
+ 
+
+Fig. 1. Catches of Cacopsylla pruni adults in apricot orchards in 2011
+and 2012 by the beating method
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+307
+2 site 1 P. spin. 5 3 site 3 P, dom.) & 0 site 6 P. spin. o. msite 8 P. spin. o8 site 9 P. spin. ||
+551
+ga
+2 10+
+®
+S
+g 57
+a
+
+od
+
+ 
+
+8 9 10 11 12 13 14 15 16 17 18 20 22 24 26 28
+Calendar week
+
+Fig. 2 Catches of Cacopsylla pruni adults by the beating method: Tem-
+poral dynamics of density on Prunus spinosa and Prunus domestica in
+2011
+
+10
+
+ 
+
+European stone fruit yellows in Austria
+
+trapped by beating tray method on P. spinosa in both
+years and on P. cerasifera nigra in 2012. By far, the
+highest numbers of C. pruni with average insect num-
+bers exceeding 25 per sampling were found on
+P. spinosa on test sites 8 and 9. Presence of ‘Ca, P. prunorum’ in plants and insects
+
+Significant numbers of infected apricot and plum trees
+were detected in all investigated orchards. Between
+9.8 and 63.3% of the apricot samples and 20-40% of
+the plum samples were infected. The pathogen was
+also detected in P. spinosa at test sites 1 and 4 but not
+in plants at sites 2, 6, 8 and 9 (Table 2). Infection rates
+of remigrated C. pruni individuals ranged from 0 to
+11.5%. 0 to 3.44% of the springtime generation
+adults were also infected (Table 3). Mark, release and recapture study
+
+After exposure of marked insects to outdoor condi-
+tions on a yellow sticky trap for 5 weeks (precipitation
+during this period 20.2 mm), the pink dye was still
+clearly visible both in daylight and in UV light. All
+stained specimens were identified. The light blue dye
+was equally visible in UV light. In daylight with the
+unaided eye, however, discrimination between blue
+dye and dust on the sticky traps turned out difficult
+already 1 week after the beginning of the experiment. Effects of the pigments on insect survival were
+examined under laboratory conditions. Kruskal-
+Wallis H test revealed no statistically significant differ-
+ences between survival of unstained and stained
+insects and between survival of insects coated with
+the different pigments. O site 2 P. dom
+
+ 
+
+ 
+
+O site 2 P. ceras. I site 8 P. spin
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 site 9 P. spin,
+
+ 
+
+ 
+
+ 
+
+ 
+
+Average number of C. pruni per branch
+
+Fig. 3 Catches of Cacopsylia pruni adults by
+beating method: Temporal dynamics of den- ot
+sity on Prunus domestica, P. spinosa and
+
+P. cerasifera nigra in 2012
+
+ 
+
+J Phytopathol 161 (2013) 713-722 © 2013 Blackwell Verlag Gmbtt
+
+8 9 10 11 12 13 14 15 16 17 18
+
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+N It
+
+ 
+
+19 20 21 22 23 24 25 26 27
+Calendar week
+
+7
+
+European stone fruit yellows in Austria
+Table 3 Presence of ‘Ca. P. prunorum’ in Cacopsylla pruni (PCR amplif
+cation with primers f01/r01 and RFLP analysis)
+
+No. of tested insects/No. of positive insects
+
+Sampling in 2011 Sampling in 2012
+
+Overwintering Springtime Overwintering Springtime
+Test site adults generation adults generation
+1 80/2 2911
+
+2 87 710
+
+3 2613, 210
+
+6 610
+
+8 3212 - - -
+
+9 38/2 - 687 7910
+
+The results of the two release experiments are illus-
+trated in Figs 4 and 5. Six hundred marked insects per
+experiment were released. In the first trial, 20 speci-
+mens (3.3%) were recaptured within 15 days (19
+within the orchard, 1 in the P. cerasifera nigra hedge-
+row), in the second trial, 18 (3%) were trapped in the
+orchard within 8 days. In both experiments, insect
+spread occurred rapidly. In the first trial, marked
+insects were observed on trees in sectors one and two
+(on trees adjacent to the release point and also in the
+next row of trees) within 1 day after release (covered
+distance up to 10 m). In the second trial, marked
+specimens were ascertained on trees in sector one and
+three within 24h (up to 13 m from release tree). P. domestica in hedgerow
+P. cerasifera nigra in
+
+nedgeron ge)
+
+C. Maier et al. After 8 days, marked insects were present on traps in
+sector 4 (up to 24 m from release tree). Table 4 illus-
+trates numbers of marked and unmarked psyllids on
+the sticky traps in each sector of the orchard at the
+end of the experiment. Neither strong winds nor a
+prominent wind direction was present during the sur-
+vey. The mornings were usually windless and wind
+direction often changed during the day. Discussion
+
+Our data, namely the numbers of C. pruni on wild
+Prunus, the percentages of PCR-positive insects and
+the infections of blackthorn bushes are signs of an
+endemic disease spread in the investigated areas. Reports from Italy (Carraro et al. 2002) pointed out
+that the diffuse presence of the phytoplasma in wild
+Prunus spp. such as blackthorn allows an ESFY trans-
+mission cycle independent from cultivated stone fruit
+‘trees, Occasionally, transmissions from blackthorn
+(or other wild Prunus species) to cultivated stone fruit
+trees are likely to occur. We therefore conclude that
+generally recommended management strategies such
+as use of healthy planting material, orchard manage-
+ment and eradication of infected fruit trees (Marcone
+et al. 2010) alone will not suffice to manage ESFY in
+the Wachau area. In our study, however, infection Fates of black>
+‘thorns were lower than we expected from insect
+
+oO Tree with sticky traps
+
+‘Tree without sticky traps-
+dead or replanted
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ca. 130 “| ca. 100 “| @ Insect release tree
+a: Distance
+within rows
+45m
+b: Distance
+between
+rows 6 m
+Apricot
+orchard
+Fig. 4 Mark and recapture experiment 1
+(Release 19th of April, end of the experiment
+Sector4 Sector 2 Sector! Sector 2 Sector 4 3rd of May; pink fluorescent dye): Size and
+Sector 3 Sector 3 HK shape of the model orchard, allocation of trees
+‘© Marked specimen caught on sticky traps within 24 hours after release to sectors, position of insect release tree, posi-
+tion of yellow sticky traps and number and
++ Marked specimen caught on sticky traps between 1 and 8 days after release ¥ y Fraps
+position of marked insects recaptured on
+Marked specimen caught on sticky traps between 8 and 16 days after release sticky traps. 718 J Phytopathol 161 (2013) 713-722 © 2013 Blackwell Verlag GmbH
+
+C. Maier et al
+
+P. domestica in hedgerow
+
+CO
+
+European stone fruit yellows in Austria
+
+O Tree with sticky traps. Tree without sticky traps
+
+dead or replanted
+
+P. cerasifera nigra in
+
+hedaerou~)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ca. 130 “| ca, 100 of CE _ Mvectretease tree
+a: Distance
+within rows
+45m
+b: Distance
+between
+rows 6 m
+Apricot
+orchard
+Fig. 5 Mark and recapture experiment 2
+(Release 26th of April, end of the experiment
+3rd of May; blue fluorescent dye): Size and
+shape of the model orchard, allocation of trees Sector4 Sector 2 Sector! Sector 2 Sector4
+to sectors, position of insect release tree, posi- Sector 3 Sector3 Fe
+
+ 
+
+tion of yellow sticky traps and number and
+position of marked insects recaptured on
+sticky traps. © Marked specimen caught on sticky traps within 24 hours after release
+
++ Marked specimen caught on sticky traps between 1 and 8 days after release
+
+Table 4 Mark and recapture experiments: catches of marked and unmarked psyllids on the sticky traps in each sector of the model orchard
+
+ 
+
+Recaptured insects released in
+experiment 1 between 19th of
+April and 3rd of May
+
+Recaptured insects released in
+experiment 2 between 26th of
+April and 3rd of May
+
+Unmarked insects trapped between
+19th of April and 3rd of May
+
+ 
+
+Sector 1 12 10
+Sector 2 3 4
+Sector 3 3 3
+Sector 4 1 1
+Total 19 18
+
+20
+7
+12
+
+4
+53
+
+ 
+
+catches on the same plants. Virtually, all P. spinosa
+bushes were colonized by high numbers of infected
+insects in 2011 and 2012, and this had probably also
+been the case in previous years. Consequently, the
+question arises whether blackthorn is indeed a
+favourable host of C. pruni but not very susceptible to
+
+|ESFY. The quick epidemic disease spread in Austria
+might therefore rather be pushed by infected culti-
+vated Prunus trees allowing the development of
+numerous infectious C. pruni than by blackthorn. The data on C. pruni population dynamics are simi-
+lar to investigations in other European countries with
+comparable climatic conditions (Labonne and Lichou
+2004; Jarausch et al. 2007; Thébaud et al. 2009;
+Ermacora et al. 2011). In 2011, remigration of the
+overwintering adults in Lower Austria started
+2 weeks earlier than in 2012. Comparisons with
+weather data gathered at test site 2 (not shown) sug-
+gest that the start of remigration was influenced by
+
+ 
+
+J Phytopathol 161 (2013) 713-722 © 2013 Blackwell Verlag Gmbtt
+
+the temperature profile. Hibernal temperatures in the
+first half of March 2012 could have delayed remigra-
+tion. In both years, we detected the first specimens on
+Prunus more or less simultaneously at all test sites. Up
+to now, overwintering sites in the investigated areas
+of Austria were not known. Further work should
+therefore focus on the identification of overwintering
+sites. Recording both temperature profiles at these
+sites and population densities on Prunus hosts might
+perhaps allow conclusions on the influence of tem-
+perature on migratory activity. Our PCR analyses showed considerable infection
+
+‘Thébaud et al. 2009; Poggi Pollini et al. 2010). More-
+over, it shows the urgent need for effective control
+strategies against the remigrants. In contrast, only low
+
+719
+
+European stone fruit yellows in Austria
+
+numbers of infected springtime generation insects
+were observed. The majority of springtime generation
+insects analysed in this work were collected on black-
+thorn. In most of these host plants, the phytoplasma
+was not detected, and consequently, our data do not
+allow conclusions on the role of springtime genera-
+tion psyllids on disease transmission. Further studies
+with more springtime generation adults collected in
+diseased apricot orchards are required. The incidence of new ESFY infections in an apricot
+orchard depends on the number of vectors present,
+on the infection rates of the insects as well as on insect
+mobility and numbers of trees that are visited by one
+individual. To estimate the number of remigrants in
+an apricot orchard and to track their behaviour, the
+mark release and recapture experiment was carried
+out. Our tests showed that fluorescent dyes provide
+an easy and effective marking tool for field studies on
+/psyllid movement) The selected pigments were stable
+for several weeks under outdoor conditions including
+rain. The pink dye, however, was more suitable for
+visual detection by bare eye than the light blue one. There was no detectable effect of the dyes on insect
+survival. Moreover, in our field experiment, marked
+individuals were able to survive for more than 8 days
+and to fly >10 m within 24 h of their release. These
+results coincide with previous works on the effect of a
+pink fluorescent powder on the Asian citrus psyllid
+(Diaphorina citri, Hemiptera: Psyllidae). The dye nei-
+ther influenced survival nor significantly affected
+flight behaviour (Nakata 2008). Similar results were
+obtained by Coviella et al. (2006) who used several
+fluorescent dusts for tracking the movement of the
+glassy winged sharpshooter (Homalodisca coagulata,
+Hemiptera: Cicadellidae). Marking experiments on
+mountain pine beetles (Dentroctonus ponderosae,
+Coleoptera: Cucurlionidae), however, showed that
+fluorescent dyes did not reduce the viability of the
+beetles but they influenced their physical condition. The authors presumed, therefore, that fluorescent
+powders might affect optimal dispersal behaviour
+(Reid and Reid 2008). Monitoring of C. pruni by the beating tray method
+only allowed capture of few specimens, and in some
+investigated orchards, insects were not ascertained. Use of yellow sticky traps proved the presence of the
+insect species at all investigated sites, but still numbers
+of captured specimen were low. In our mark and
+capture study, numbers of unmarked psyllids on the
+sticky traps between 19th of April and 3rd of May
+were a multiple of the marked specimens in all sectors
+of the model orchard. Numbers of marked insects per
+release and per dye amounted to 600. Presuming that
+
+720
+
+C. Maier et al. unmarked and marked insects had the same chance
+to be caught on the sticky traps, it can be concluded
+that at least more than thousand C. pruni individuals
+were naturally occurring in the model orchard. One
+can easily imagine that in this orchard (test site 2)/thé
+
+Before the experiment started, we noticed that a
+simple transfer of insects to the release tree led to a
+high number of insects dropping to the ground. To
+accelerate settling and feeding of the marked insects
+on the release tree and to minimize losses, insects
+were starved for 2 h before the trial. Moreover, at the
+beginning of the experiment, insects were caged on
+the release tree in transparent plastic tubes. The tubes
+were not removed until the insects had started to
+feed. With this procedure, we were able to keep virtu-
+ally all specimens on the tree. In our study, captures of marked C. pruni on the
+sticky traps proved a fast and frequent tree-to-tree
+movement. From our experiments, it cannot be
+excluded that the dyes affected the condition of the
+psyllids similarly to the mountain pine beetles. In this
+case, however, dispersal of unmarked insects would
+be even faster than observed for the stained ones. All
+in all, it seems likely that one infectious individual
+present in an orchard visits and infects several apricot
+trees. other release experiments with psyllids. Van den Berg
+and Deacon (1988), for example, released a total of
+25.000 Trioza erytreae in two experiments. The authors
+studied insect dispersal without host plants in
+
+ploughed land of 3 x 2.5 km. (Kobori/@tial(2011)
+
+intervals. Both studies were carried out with newly
+hatched adults. T. erytreae and D. citri are multivoltine,
+complete their whole life cycle on Citrus spp. or other
+Rutaceae and produce high numbers of progeny. Insects can readily be reared or obtained in the field in
+high numbers (Annecke and Cilliers 1963; Van den
+Berg and Deacon 1988; Hall et al. 2012). In contrast,
+Cacopsylla pruni is a univoltine species hibernating on
+conifers. In our laboratory-rearing experiments, field-
+captured C. pruni produced high numbers of eggs
+which developed into numerous springtime genera-
+tion adults. Migration to conifers and hibernation
+under laboratory conditions, however, proved difficult
+(data not shown). Rearing of significant numbers of
+
+J Phytopathol 161 (2013) 713-722 © 2013 Blackwell Verlag GmbEt
+
+C. Maier et al
+
+remigrants seemed hardly possible. As already stated,
+the remigrants are considered as crucial disease vec-
+tors. Therefore, we studied their dispersal behaviour in
+the mark and recapture experiments. Consequently,
+insects were captured in field where their occurrence
+was limited. Compared with the citrus experiments
+mentioned above, our experiments not only comprised
+lower number of released insects, they were also car-
+
+ried out in a smaller test plot. So the recapture rate of
+
+‘released insects would have been desirable. In the
+release experiments with T. erytreae and D. citri, the
+authors observed a prominent role of prevailing winds
+on psyllid dispersal (Van den Berg and Deacon 1988;
+Kobori et al. 2011). In our study, neither strong winds
+nor a prominent wind direction was present during the
+survey. Nevertheless, it can be presumed that stronger
+winds would have enhanced dispersal of C. pruni in a
+similar manner to T. erytreae and D. citri. ESFY transmission experiments in the greenhouse
+revealed a minimum inoculation period of 1-2 days
+(Carraro et al. 2001). Our data show a considerable
+tree-to-tree movement of the remigrants. In theory, a
+fast acting, enduring insecticide should therefore
+decrease inoculation of the trees, reduce insect num-
+bers in orchards, downsize movement of the vectors
+from tree to tree and in the end diminish rates of new
+infections. Practical experiments with insecticide
+applications, however, showed inconclusive results. Effects of the treatments on disease spread were only
+detected in the minority of tests (Poggi Pollini et al. 2007). Mark and recapture experiments might allow
+observation of the effects of possible insecticide appli-
+cations on psyllid survival and movement. In this
+way, they could contribute to the development of
+appropriate management strategies. Acknowledgements
+
+The present work was carried out in the frame of
+COST action FA 0807: Integrated Management of
+Phytoplasma Epidemics in Different Crop Systems. References
+
+Annecke DP, Cilliers CJ. (1963) The citrus psylla Trioza
+erytreae (Del Guercio) and its parasites in South Africa. $
+Afr J Agric Sci 6:187-192. Burckhardt D, Jarausch W. (2007) Bestimmungsschliissel
+fiir Psylliden auf Rosaceaen in Mitteleuropa. http://
+
+J Phytopathol 161 (2013) 713-722 © 2013 Blackwell Verlag Gmbtt
+
+European stone fruit yellows in Austria
+
+www.psyllidkey.info/engl/steckbrief/pdf/cacopsylla_
+pruni.pdf. (verified Aug 31, 2011). Carraro L, Osler R, Loi N, Ermacora P, Refatti E. (1998)
+Transmission of European stone fruit yellows phytoplas-
+ma by Cacopsylla pruni. J Plant Pathol 80:233-239. Carraro L, Loi N, Ermacora P. (2001) Transmission charac-
+teristics of the European stone fruit yellows phytoplasma
+and its vector Cacopsylla pruni. Bur J Plant Pathol
+107:695—700. Carraro L, Ferrini F, Ermacora P, Loi N. (2002) Role of wild
+Prunus species in the epidemiology of European stone
+fruit yellows. Plant Pathol 51:513-517. Carraro L, Ferrini F, Labonne G, Ermacora P, Loi N. (2004)
+Seasonal infectivity of Cacopsylla pruni, vector of Euro-
+pean stone fruit yellows phytoplasma. Ann App! Biol
+144:191-195. COST action FA 0807 (2013) Map 2: European Stone Fruit
+Yellows, Cacopsylla pruni Vector. http://costphytoplasma. eu/WG2/Phytoplasma% 20Vectors%20and %20Diseases
+%20in % 20Europe% 20and% 20Surroundings.pdf. (verified March 20, 2013)
+
+Coviella CE, Garcia JF, Jesje DR, Redak RA, Luck RF. (2006) Feasibility of tracking within field movement of
+Homalodisca coagulata (Hemiptera Cicadellidae) and
+estimating its densities using fluorescent dyes in
+marl-release-recapture experiments. J Econ Entomol
+99:1051-1057. Deng S, Hiruki C. (1991) Amplification of 16S rRNA genes
+from culturable and non-culturable mollicutes. J Micro-
+biol Methods 14:53-61,
+
+Ermacora P, Ferrini F, Loi N, Martini M, Osler R. (2011)
+Population dynamics of Cacopsylla pruni and ‘Candidatus
+Phytoplasma prunorum’ infection in North Eastern Italy. Bull Insectology 64:143-144. Hagler JR, Jackson GJ. (2001) Methods for marking
+insects: current techniques and future prospects. Annu
+Rev Entomol 46:511-543. Hall GL, Richardson ML, Ammar E, Halbert SE. (2012)
+Asian citrus psyllid Diaphorina citri, vector of citrus
+huanglongbing disease. Entomol Exp Appl 146:
+207-223. Jarausch B, Miihlenz I, Fuchs A, Lampe I, Harzer U,
+Jarausch W. (2007) Untersuchungen zur Europaischen
+Steinobstvergilbung (ESFY) in Deutschland. Gesunde
+Pflanzen 59:183-192. Jarausch B, Fuchs A, Miihlenz I, Lampe I, Harzer U,
+Jarausch W. (2008) Research on European stone fruit
+yellows in Germany. Bull Insectology 60:389-390. Kobori Y, Nakata T, Ohto Y, Takasu F. (2011) Dispersal of
+adult Asian citrus psyllid Diaphorina citri Kuwayama
+(Homoptera: Psyllidae) the vector of citrus greening
+disease in artificial release experiments. Appl Entomol
+Zool 46:27-30. Labonne G, Lichou J. (2004) Data on the life cycle of
+Cacopsylla pruni, Psyllidae vector of European stone fruit
+
+ 
+
+721
+
+European stone fruit yellows in Austria
+
+yellows (ESFY) phytoplasma, in France. Acta Hortic
+657:465-470. Laimer Da Camara Machado M, Paltrinieri $, Hanzer V,
+Arthofer W, Strommer S, Martini M, Pondrelli M,
+Bertaccini A. (2001) Presence of European stone fruit
+yellows (ESFY or 16SrX-B) phytoplasmas in apricots in
+Austria. Plant Pathol 50:130-135. Lorenz KH, Schneider B, Ahrens U, Seemiiller E. (1995)
+Detection of the apple proliferation and pear decline
+phytoplasmas by PCR amplification of ribosomal and
+nonribosomal DNA. Phytopathology 85:771-776. Maixner M, Ahrens U, Seemiiller E. (1995) Detection of
+the German grapevine yellows (Vergilbungskrankheit)
+MLO in grapevine, alternative hosts and a vector by a
+specific PCR procedure. Eur J Plant Pathol 101:241—
+250. Marcone C, Jarausch B, Jarausch W. (2010) Candidatus
+Phytoplasma prunorum, the causal agent of European
+stone fruit yellows. : an overview. J Plant Pathol 92:
+19-34,
+
+Morvan G. (1977) Apricot chlorotic leaf roll. EPPO Bull
+737-55. Nakata T. (2008) Effectiveness of micronized fluorescent
+powder for marking citrus psyllid Diaphorina citri. Appl
+Entomol Zool 43:33-36. Ossiannilsson F. (1992) The Psylloidea (Homoptera) of
+
+Fennoscandia and Denmark. Fauna Entomol Scand. Vol. 26. Brill E. J., Leiden. Poggi Pollini C, Bianchi L, Forno F et al. (2007) Investiga-
+tion on European stone fruit yellows in experimental
+apricot orchards in the province of Trento (Italy). Bull
+Insectol 60:323-324. Poggi Pollini C, Forno F, Franchini $, Gobber M, Lanzoni
+C, Mattedi L, Miorelli P, Profaizer D, Ratti C. (2010)
+Detection and distribution of European stone fruit yel-
+lows (ESFY) in apricot cv. ‘Bergeron’ and epidemiologi-
+
+722
+
+C. Maier et al
+
+cal studies in the province of Trento (Italy). Julius Kiihn
+Archiv 427:383-385. Reid TG, Reid ML. (2008) Fluorescent powder marking
+reduces condition but not survivorship in adult moun-
+tain pine beetles. Can Entomol 140:582-588. Richter S. (1999) Chlorotisches Blattrollen der Marille -
+Erstauftreten in Osterreich, Diagnose und Epidemiologie
+einer Quarantanekrankheit. Mitt Klosterneuburg
+49:245-249,
+
+Riedle-Bauer M, Bachinger K, Stradinger J, Emberger M,
+Mortel J, Sara H. (2012) Transmission of European stone
+fruit yellows phytoplasma (Candidatus Phytoplasma
+prunorum) during the propagation process. Mitt Kloster-
+neuburg 62:177-181
+
+Seemiiller E, Schneider B. (2004) ‘Candidatus Phytoplasma
+mali’, ‘Candidatus Phytoplasma pyri’ and ‘Candidatus
+phytoplasma prunorum’, the causal agents of apple pro-
+liferation, pear decline and European stone fruit yellows,
+respectively. Int J Syst Evol Microbiol 54:1217-1226. Smart CD, Schneider B, Blomquist CL, Guerra LJ, Harrison
+NA, Ahrens U, Lorenz KH, Seemiiller E, Kirkpatrick BC. (1996) Phytoplasma-specific PCR primers based on
+sequences of 16S-23S rRNA spacer region. Appl Environ
+Microbiol 62:2988-2993. Thébaud G, Yvon M, Alary R, Sauvion N, Labonne G.
+(2009) Efficient transmission of ‘Candidatus Phytoplasma
+prunorum’ is delayed by eight months due to a long
+latency in its host-alternating vector. Phytopathology
+99:265-273. Van den Berg MA, Deacon VE. (1988) Dispersal of the
+citrus psylla, Trioza erytreae, in the absence of its host
+plants. Phytophylactica 20:361-368. Yvon M, Thébaud G, Alary R, Labonne G. (2009) Specific
+detection and quantification of the phytopathogenic
+agent ‘Candidatus Phytoplasma prunorum’. Mol Cell
+Probes 23:227-234. J Phytopathol 161 (2013) 713-722 © 2013 Blackwell Verlag Gmbtt

@@ -1,0 +1,1076 @@
+Chapter 3 ®
+Psyllid Vectors eit
+
+Barbara Jarausch, Rosemarie Tedeschi, Nicolas Sauvion, Jiirgen Gross,
+and Wolfgang Jarausch
+
+Abstract ‘Candidatus Phytoplasma’ species are mostly transmitted from plant to
+plant by phloem feeding hemipterans, primarily leafhoppers (Cicadellidae) and
+planthoppers (Fulgoroidea) (Hemiptera, Auchenorrhyncha). However, there is one
+group of phytoplasmas, the 16SrX or apple proliferation group, whose members are
+transmitted by psyllid vectors of the superfamily Psylloidea (Hemiptera,
+Sternorrhyncha). These psyllid-transmitted phytoplasmas are genetically closely
+related and are associated with economically important diseases of fruit trees such
+as pear decline, apple proliferation and European stone fruit yellows. The psyllid
+vector species of these phytoplasmas are also closely related and all belong to the
+genus Cacopsylla. Both, phytoplasmas and psyllid vectors, are geographically lim-
+ited to the Palaearctic region, mainly Europe. Only pear decline and peach yellow
+leaf roll phytoplasmas have probably been introduced to America along with their
+vectors. As phytoplasma-infected trees cannot be cured and resistant plant material
+is not available to the growers, preventive control measures such as vector control
+are of paramount importance to limit the spread of these diseases. Thus, detailed
+
+B. Jarausch (2)
+
+JI, Institute for Plant Protection in Fruit Crops and Viticulture, Siebeldingen, Germany
+e-mail: barbara,jarausch @ julius-kuehn.de
+
+R. Tedeschi
+
+Dipartimento di Scienze Agrarie, Forestali e Alimentari (DISAFA), Entomology unit,
+University of Torino, Grugliasco, Italy
+
+N. Sauvion
+
+BGPI, INRA, CIRAD, Montpellier SupAgro, University of Montpellier,
+
+Montpellier, France
+
+J. Gross
+
+IKI, Institute for Plant Protection in Fruit Crops and Viticulture, Dossenheim, Germany
+W. Jarausch
+
+RLP AgroScience, AlPlanta, Institute for Plant Research,
+
+Neustadt an der Weinstrasse, Germany
+
+© Springer Nature Singapore Pte Ltd. 2019 53
+A. Bertaccini et al. (eds. ), Phytoplasmas: Plant Pathogenic Bacteria - Il,
+https://doi.org/10.1007/978-98 1-13-2832-9_ 3
+
+Springer Nature Singapore Pte Ltd. 2019
+
+54 B. Jarausch et al. knowledge about the biology and ecology of the vector species, their host plants as
+well as knowledge about the transmission parameters is crucial. Keywords Phytoplasmas - Psyllid vectors - Epidemiology - Pear decline « Apple
+proliferation - European stone fruit yellows
+
+3.1 Introduction
+
+The jumping plant-lice or psyllids form the well-defined superfamily Psylloidea
+which belongs to the suborder Sternorrhyncha of the order Hemiptera. About 4.000
+species of this superfamily are described worldwide including about 400 species in
+Europe (Burckhardt 1994; Burckhardt and Ouvrard 2012). All recognised phyto-
+plasma vectors are found in the genus Cacopsylla which is part of the subfamily
+Psyllinae within the family Psyllidae (Weintraub and Beanland 2006; Burckhardt
+and Ouvrard 2012). An electronic determination key for the most important
+Cacopsylla species found on Rosaceae in Europe is available at the internet by
+www.psyllidkey.eu (Burckhardt et al. 2008). Table 3.1 gives an introductive over-
+view of the most important phytoplasma diseases and their agents which are
+
+  
+
+Table 3.1, Phytoplasma diseases of fruit crops, their associated agents, psyllid vectors and vector’s
+host plant
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Psyllid species | Phytoplasma Disease Host plant
+Cacopsylla picta | “Candidatus Phytoplasma Apple proliferation | Malus x domestica
+mali”
+Cacopsylla “Candidatus Phytoplasma | Apple proliferation | Crataegus spp..
+melanoneura mali’ Malus x domestica
+Cacopsylla pruni A | “Candidatus Phytoplasma European stone fruit | Prunus spp. and B* prunorum’ yellows
+Cacopsylla pyri | “Candidatus Phytoplasma Pear decline Pyrus spp. pyri’
+Cacopsylla “Candidatus Phytoplasma __ Pear decline Pyrus spp. pyricola pyri’
+Cacopsylla | *Candidatus Phytoplasma | Peach yellow leaf Prunus persica
+pyricola pyri’ roll (USA)
+Cacopsylla | “Candidatus Phytoplasma Pear decline Pyrus spp. pyrisuga pyri’
+Cacopsylla “Candidatus Phytoplasma Pear decline-Taiwan | Pyrus spp. chinensis pyri’ strain PD-TW
+“Candidatus Phytoplasma Pear decline-Taiwan | Pyrus spp. pyri’ strain PD-TW
+
+“Complex of two cryptic species A and B
+
+*Presumed vectors
+
+Cacopsylla gianli®
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+3. Psyllid Vectors 55
+
+transmitted by psyllid vectors. So far, all important fruit crop diseases associated
+with the presence of phytoplasmas of the group 16SrX are vectored by psyllids. The basic geographical distribution of the most important psyllid vectors in
+Europe and neighbouring regions has been sed during the COST action
+FA0807 and is available online (Costphytoplasma 2013). Psyllids are phloem feeders and both nymphs and adults feed on plant sap. Depending on the species, the eggs are laid on the new buds, in crevices of the bark
+or on leaves where they can produce pit-like deformations on the leaf blade
+(Hodkinson 2009). The nymph development passes through five instars which are
+more or less strongly flattened dorso-ventrally (Burckhardt 1994). Phytoplasma
+vector species on apple and stone fruits are — like other North temperate psyllids —
+univoltine whereas pear psyllids with the exception of Cacopsylla pyrisuga (Foerster
+1848) are mostly polyvoltine with overlapping generations. Polyvoltine vector spe-
+cies usually overwinter as adults on or near to their host plants. Univoltine vector
+species have an obligate emergence as imagines (= emigrants) to their overwinter-
+ing plants, such as conifers, and return to their respective reproduction host plants
+in spring (= remigrants) (Mayer et al. 2011; Burckhardt 1994). This applies for
+Cacopsylla pruni, C. melanoneura and C. picta (Thébaud et al. 2009; Mayer and
+Gross 2007; Cermak and Lauterer 2008; Tedeschi et al. 2002; Jarausch et al. 2013;
+Jarausch and Jarausch 2014, 2016). In these cases overwintering was observed only
+on conifers at higher altitudes (Mayer and Gross 2007; Thébaud et al. 2009; Pizzinat
+et al. 2011; Ulubas Serge et al. 2011). Migration to the respective reproduction or
+overwintering plant seems to be direct and may take place even over long distances. Plant volatiles are exploited by the psyllids to find their reproduction host plants or
+overwintering plants during migration (Gross 2016; Mayer and Gross 2007; Mayer
+etal. 2011). As phytoplasmas are phloem-limited, only phloem-feeding insects can poten-
+tially acquire and transmit the pathogen (Weintraub and Beanland 2006). The
+insects acquire the phytoplasma during feeding in the phloem of infected plants. The following process of phytoplasma passage and multiplication in the insect body
+comprises the latent or incubation phase and the infectivity period where the insect
+can transmit the pathogen. Detailed descriptions of the cellular processes of trans-
+port and multiplication in the insect body have been reported for leafhoppers
+(Weintraub and Beanland 2006; Hogenhout et al. 2008). So far, these mechanisms
+of phytoplasma transmission remain to be demonstrated for psyllid vectors as well. Several publications show that psyllids transmit the pathogen in a persistent propa-
+gative manner (Carraro et al. 2001a, b; Thébaud et al. 2009). The length of time
+needed for an individual to become infectious seems to differ among the psyllid
+vectors. However, it is of paramount importance for the disease spread by univoltine
+vectors: vectors with a long latent phase predominantly transmit the phytoplasma
+after overwintering when remigrating into the orchards (monocyclic disease spread
+on regional scale). In contrast, vectors with a short latent phase transmit the phyto-
+plasma already before migration as well as after overwintering (polycyclic disease
+spread on local and regional scale) (Jarausch et al. 2013). Springer Nature Singapore Pte Ltd. 2019
+
+56 B. Jarausch et al. 3.2 Cacopsylla picta
+
+Cacopsylla picta (Foerster 1848) (Figs. 3.1 and 3.2) is distributed only in Europe
+and is monophagous on Malus spp. (Jarausch and Jarausch ; Ouvrard ). The insect completes one generation per year and overwinters as adult on conifers. At the end of winter (March/April), C. picta remigrants move from the overwinter-
+
+ing sites to apple trees for oviposition (Jarausch and Jarausch 2014). The insects of
+the new generation (emigrants) feed on their reproduction host until the beginning
+of July when they leave the apple trees as adults (Mattedi et al. ; Jarausch et al. ). Findings of phytoplasma-infected individuals of C. picta have been reported
+from many different countries: Italy, Germany, Bosnia-Herzegovina, France,
+Switzerland, Finland, Czech Republic, Bulgaria, Spain and Croatia (Frisinghelli
+
+  
+
+et al. ; Jarausch et al. . ; Carraro et al. ; Delié et al. 5
+Lemmetty et al. ; Ludvikova et al. ; Etropolska et al. ; Miiiarro et al. ; KrizZanac et al. ). In north-east Italy, the natural infection rate of C. picta
+was found between 9% and 13%, respectively for overwintering and offspring
+adults (Carraro et al. 2008). In the main apple growing regions of Italy, Trentino and
+Alto Adige (South Tyrol) (Italy), mean infection rates of 6% (Mattedi et al. ),
+11% (Baric et al. )) and 20% (Fischnaller et al. ) for remigrants were
+
+reported. In Germany, about 10% of overwintered C. picta were found naturally
+
+ 
+
+Fig. 3.1. Cacopsylla picta pre-imaginal stag:
+L. Gorg)
+
+ 
+
+‘a and b) eggs, (¢ and d) nymphs (Courtesy by
+
+Springer Nature Singapore Pte Ltd. 2019
+
+3. Psyllid Vectors 37
+
+ 
+
+ 
+
+Fig. 3.2. Cacopsylla picta: (a) 5* stage nymph with waxy secretions, (b) newly emerged adult, (c)
+overwintered female and (d) overwintered male
+
+infected with the pathogen every year (Jarausch et al. 2004, 2007a, 2011). Data for
+Northern Switzerland (10%) (Jarausch et al. 2011), Western France (Alsace: 14%)
+(Jarausch et al. 2011), Finland (11%) (Lemmetty et al. 2011) and Spain (13%)
+(Mifiarro et al. 2016) were in a similar range. A lower infection rate of roughly 3%
+was reported from Bulgaria (Etropolska et al. 2015). Jarausch et al. (2011) found no
+significant relationship between the infection status of the orchard and the infection
+rate of C. picta remigrants captured within these orchards, although a tendency of
+higher infection rates in abandoned orchards was observed. These data can be explained by a regional dispersal of remigrant individuals and
+by a certain percentage of transovarial transmission of the phytoplasma as detected
+by Mittelberger et al. (2017). During experimental transmission trials in different
+laboratories in Germany and Italy it was confirmed that both emigrants and remi-
+grants of C. picta can transmit the agent efficiently (Jarausch et al. 2004, 2007a,
+2011; Carraro et al. 2008; Mattedi et al. 2008). However, the transmission efficiency
+
+Springer Nature Singapore Pte Ltd. 2019
+
+58 B. Jarausch et al. was usually higher with remigrants (range of 8-45% with groups of 5 individuals)
+than with emigrants (range of 2-20% with groups of up to 20 individuals) (Jarausch
+et al. 2011). Both, males and females, can transmit the phytoplasma and are natu-
+rally infected to a similar percentage. As males and females are present in the
+orchards at a ratio of 1:1.4 (Jarausch et al. 2011), both genders can contribute to the
+spread of apple proliferation phytoplasma (‘Ca. P. mali’). The phytoplasma concentration in the infected individuals of C. picta was
+extremely high and ranged between 10° and 10% as measured by quantitative PCR
+(Jarausch et al. 2011; Mayer et al. 2009). Phytoplasma-infected and infective psyl-
+lids appeared among the first remigrants of C. picta in apple orchards in early spring,
+indicating winter-retention of the pathogen (Jarausch et al. 2011; Mattedi et al. 2008). Furthermore, phytoplasma concentrations in the remigrants were constantly
+high and did not differ significantly during the first 7 weeks after arrival in the
+orchard (Jarausch et al. 2011). Thus, remigrants are considered to be infective dur-
+ing their whole life span on apple after overwintering. Although remigrants readily
+transmitted the phytoplasma under experimental conditions, this could not be veri-
+fied by bait plant trails in the orchard: natural transmission in the orchards in
+Trentino was found to be situated during the migration period of the new generation
+of C. picta (Mattedi et al. 2008). Transmission by emigrants before leaving the
+orchard is not also supported by experimental transmission t , but also by quan-
+titative PCR data which indicate that ‘Ca. P. mali’ multiplies very quickly to high
+concentrations after experimental acquisition (Pedrazzoli et al. 2007). Individuals
+born on infected plants acquired the phytoplasma to nearly 100% while new adults
+emerged on healthy plants and fed thereafter on infected plants had only an acqui
+tion rate of about 10% (Jarausch et al. 2010). In conclusion, C. picta is able to transmit ‘Ca. P. mali’ during the entire period
+when they are present on apple trees. As remigrants as well as emigrants are able to
+transmit, a polycyclic disease spread is supposed in which remigrants disperse the
+pathogen on a regional as well as local scale and emigrants on a local scale (Jarausch
+et al. 2011). Although the population density of C. picta in the orchards is usually
+low (Jarausch et al. 2009, 2011), this species is considered to be the main vector of
+apple proliferation wherever it is present. In Germany, C. picta transmits all three ‘Ca. P. mali’ subtypes AT-1, AT-2 and AP
+as defined by Jarausch et al. (2000) (W. Jarausch, unpublished data) while in Alto
+Adige (South Tyrol) (Italy) the spread of apple proliferation seems to be predomi-
+nantly linked to the transmission of subtype AT-2 by C. picta (Baric et al. 2011). All
+three subtypes were also identified in C. picta of North East Italy (Martini et al. 2008). C. picta individuals captured in Finland were infected with subtypes AT-2
+and AP (Lemmetty et al. 2011). Jarausch et al. (2010) also reported differences in
+acquisition, multiplication and transmission efficiencies among different strains of
+“Ca. P. mali’. Interestingly, strains which multiplied best in the insect exhibited the
+lowest titers in apple plantlets. Springer Nature Singapore Pte Ltd. 2019
+
+3. Psyllid Vectors 59
+3.3. Cacopsylla melanoneura
+
+Cacopsylla melanoneura (Fig. 3.3) has a holo-Palaearctic distribution and is oli-
+gophagous on Rosaceae plants such as Crataegus spp., Malus domestica, Mespilus
+germanica and Pyrus communis (Ouvrard ). This species was originally
+described as hawthorn psyllid (Lal ;, Ossiannilsson ; Lauterer ), while
+successively it has become an economically injurious pest of apple trees in particu-
+lar in relation to the spreading of the apple proliferation disease (Alma et al. S
+
+ 
+
+ 
+
+ 
+
+Fig. 3.3. Cacopsylla melanoneura life stages: (a) eggs, (b) Ist and 2nd stage nymphs, (€) 5" stage
+nymph, (d) newly emerged female, (e) overwintered female, (f) overwintered male (DISAFA,
+Entomology unit, University of Torino, Italy)
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+60 B. Jarausch et al. Tomasi et al. 2000; Tedeschi et al. 2002). In most of the areas where the presence of
+the disease has been recorded, C. melanoneura and C. picta occur sympatrically
+(Jarausch et al. 2003; Delié et al. 2005; Mattedi et al. 2008; Miiiarro et al. 2016), in
+some others (Northwestern Italy and Norway) only C. melanoneura has been
+reported (Tedeschi et al. 2002; Brede 2017). Several studies on natural infection rate and vector ability of this species revealed
+a diversified scenario. Generally in apple growing regions where C. melanoneura
+and C. picta coexist, the latter has a major vector role (Frisinghelli et al. 2000:
+Mattedi et al. 2008; Jarausch et al. 2003, 2004, 2007a), while C. melanoneura has
+been considered ineffective in transmitting “Ca. P. mali’ (Mayer et al. 2009). On the
+contrary in the areas where C. picta does not occur, in particular in Northwestern
+Italy, C. melanoneura has an important role in the spreading of the disease (Tedeschi
+et al. 2002, 2003; Tedeschi and Alma 2004). Indeed, natural infection rates in apple
+orchards is very low, less than 1% in Germany, Northern Switzerland, Eastern
+France (Mayer et al. 2009); but ranging from 4.2% (0,6% in average) in South Tyrol
+(Northeastern Italy) (Baric et al. 2010; Fischnaller et al. 2017) to 56.2% in Trentino
+region (Northeastern Italy) where the role of this insect as vector of ‘Ca. P. mali’ has
+been recently reviewed (Malagnini et al. 2010; Tedeschi et al. 2012), and reaching
+around 4% and up to 45% in a 100% infected orchard in Northwestern Italy
+(Tedeschi et al. 2003). Moreover, against a non-trans! ion reported in Germany,
+0.36% of infected plants were obtained after transmission trials with C. melano-
+neura from Trentino (Northeastern Italy) (Mattedi et al. 2008), while in Northwestern
+Italy 29.4% of plants inoculated with naturally infected overwintered adults (88.9%
+in the case of insects collected in a 85% infected orchard) tested positive to ‘Ca. P.
+mali’ (Tedeschi and Alma 2004). Due to the fact that these transmission trials were
+carried out using batches of around 20 specimens/test plant, a range of 1.4—-8.4% of
+probability of transmission by a single C. melanoneura was estimated in
+Northwestern Italy (Tedeschi and Alma 2006). In particular it was highlighted the
+crucial role of overwintered individuals in comparison to newly emerged adults due
+to a higher percentage of ‘Ca. P. mali’-positive individuals (3.6% vs. 0.8%) and a
+longer period spent in apple orchards (14.6 vs. 6 weeks) (Tedeschi et al. 2002,
+2003). These differences in relation to vector attitude of C. melanoneura are con-
+firmed also by the phytoplasma titre in the insect. In Germany, the maximum phy-
+toplasma concentration never exceeded 40,000 copies/individual in field collected
+insects, far below the minimum titre threshold found for an effective transmission
+by C. picta (10°—108 phytoplasma DNA copies) (Jarausch et al. 2007a, 2011; Mayer
+et al. 2009). However, in Northwestern Italy ‘Ca. P. mali’ reached a concentration
+of 10‘-10° copies/individual C. melanoneura (Monti et al. 2013). The life cycle is
+similar to that of C. picta, but the overwintering adults appear earlier in the year on
+Crataegus spp. or apple trees (Mayer et al. 2011). This migration is dependent on a
+temperature threshold, recorded in the orchards, which in Northeastern Italy has
+been found to be around 9.5°C (Tedeschi et al. 2012). Likewise the new generation
+abandons the host plant earlier (end May—June) than C. picta to migrate to the aes-
+tivation and overwintering plants (Mattedi et al. 2008; Tedeschi et al. 2002). The
+overwintering plants are reached, thanks to warm ascending currents, at different
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+3. Psyllid Vectors 61
+
+altitudes depending on the geographical area, 462-535 m a.s.l. in South Moravia,
+mainly 1350-1650 m a. in Northwestern Italy (Cermak and Lauterer 2008;
+Pizzinat et al. 2011). Different conifer species were recorded as overwintering
+plants and by caging on them newly emerged adults from hawthorn or apple plants
+it was possible to follow the whole life cycle of the psyllid throughout the year
+(Pizzinat et al. 2011). No correlation between immigration dynamics and apple phe-
+nology could be demonstrated; however, oviposition occurs at bud burst while egg
+peak and hatchings are always before the first flowering. This confirmed a good
+degree of synchrony between C. melanoneura and host-plant growth, being linked
+with temperatures as stated for psyllids in general by Hodkinson (2009). In order to apply well-timed control strategies, Tedeschi et al. (2012) defined an
+immigration index based on the maximum temperatures of the 7 days registered in
+the apple orchard, to predict the arrival of the overwintered adults. In practice, in the
+Valsugana valley (Northeastern Italy) where this study was carried out, psyllids start
+to reach the apple orchards when this threshold is 9.5°C. In other areas this thresh-
+old should be adjusted either according to historical collection data or by program-
+ming periodical field collections. Moreover, other geographical factors associated
+with the winter sites location (e.g., the regional orography, the main air streams and
+distance from apple orchards) may differently affect the psyllid migration process
+and influence its presence or absence, both in terms of time and quantity, in a given
+apple orchard (Tedeschi et al. 2012). Concerning host plants, so the plants on which C. melanoneura feed, copulate,
+lay eggs and completes its immature to adult life cycle, several studies attributed
+diverse roles to hawthorn or apple, depending on different geographical areas. In
+Northwestern Italy, C. melanoneura is equally common in both apple orchards and
+on Crataegus monogyna plants; moreover hawthorn plants have been found infected
+with ‘Ca. P. mali’ entailing a possible role of this plant as a phytoplasma source of
+inoculum (Tedeschi et al. 2009). On the contrary in Germany this psyllid preferred
+hawthorn as host plant which, however, was not found infected with the phyto-
+plasma (Mayer et al. 2009). All the different roles assigned to C. melanoneura (ic. efficiency in acquiring
+and transmitting ‘Ca. P. mali’) by the studies conducted to date suggest the exi:
+tence of different populations at both geographical and host plant scale (Malagnini
+et al. 2010, 2013; J. Gross and R. Tedeschi, unpublished results), but also of differ-
+ent combinations of psyllid populations and phytoplasma strains (Baric et al. 2011). In particular there is a strict co-occurrence of AT-1-associated subtypes of ‘Ca. P.
+mali’ and C. melanoneura in several regions of Northwestern Italy, where C. mel:
+noneura is considered to be the most important vector of apple proliferation (C:
+et al. 2010), while in other regions where C. picta is the principal vector there is the
+dominance of ‘Ca. P. mali’ subtypes AT-2 (Cainelli et al. 2004; Jarausch et al. 2000;
+Baric et al. 2011) or AP (Jarausch et al. 2000, 2004; Martini et al. 2008). i
+
+Springer Nature Singapore Pte Ltd. 2019
+
+62 B, Jarausch et al. 3.4 Cacopsylla pruni
+
+Cacopsylla pruni (Scopoli 1763) (Fig. 3.4) is widespread in its native Western
+Palearctic area (Ossiannilsson 1992; Steffek et al. 2012; Ouvrard 2017). This psyl-
+lid species is strictly oligophagous on Prunus spp., completes one generation per
+year and overwinters as an adult on conifers. At the end of winter — early spring,
+according to the climatic conditions and the geographic zones, adult remigrants
+move from the overwintering plants back to Prunus spp. for oviposition. They pre-
+fer wild, uncultivated Prunus spp. as host plants such as P. spinosa (blackthorn) or
+P. cerasifera (myrobolan) (Labonne and Lichou 2004; Jarausch et al. 2008) but they
+
+ean rr}
+Reel icy
+
+ 
+
+Fig. 3.4 Cacopsylla pruni life stages Bar = | mm
+
+Springer Nature Singapore Pte Ltd. 2019
+
+3. Psyllid Vectors 63
+
+can also reproduce on cultivated Prunus e.g. apricot, peach or European and
+Japanese plum. Interestingly, remigrants were highly attracted by rootstock suckers
+of apricot trees where high oviposition rates could be observed and population den-
+sities of newly emerged adults were high (Labonne and Lichou 2004). The adults of
+the new generation feed on their reproduction hosts until the beginning of July,
+when they leave the Prunus plants to move to their overwintering plants (Carraro
+et al. 2001b, 2004; Thébaud et al. 2009). So far, C. pruni is the only psyllid species
+described as vector of ‘Ca. P. prunorum’ (Carraro et al. 1998; Jarausch et al. 2001,
+2007b, 2008; Thébaud et al. 2009; Marcone et al. 2010). A comprehensive overview
+of the distribution of ‘Ca. P. prunorum’ and its vector C. pruni in European fruit-
+growing areas was reviewed by Steffek et al. (2012). Recently, Peccoud et al. (2013)
+proposed that C. pruni is a complex of two cryptic species, provisionally named C.
+pruni “A” and C. pruni “B”. Population genetics analysis with microsatellite mark-
+ers (Sauvion et al. 2007) showed that the two species overlap over a large geo-
+graphical area around the Mediterranean (N. Sauvion, unpublished data) and there
+are indications that both cryptic species are potential vectors of ‘Ca. P. prunorum’. Naturally infected individuals of C. pruni were found in several European coun-
+tries like Italy (Carraro et al. 1998), France (Yvon et al. 2004), Spain (Lavifia et al. 2004), Czech Republic (Fialova et al. 2004), Switzerland (Ramel and Gugerli 2004),
+Germany (Jarausch et al. 2007b), Bosnia-Herzogovina (Delié et al. 2008), Turkey
+(Ulubas Serce et al. 2011), Austria (Lethmayer et al. 2011) and Bulgaria (Etropolska
+et al. 2016). Interestingly, the natural infection rate of C. pruni highly varies among
+different geographical zones and in most of the described cases very few individuals
+were carrying the phytoplasma in the field. In Germany, Jarausch et al. (2007b,
+2008) found 2-3% of the field collected overwintered adults naturally infected by
+“Ca. P. prunorum’. Similar low infection rates of only 0.6% were confirmed in
+France by Jarausch et al. (2001) and Thébaud et al. (2008). In contrast, Ermacora
+et al. (2011) reported infection rates in the first remigrants in apricot orchards in
+Northeastern Italy of 56.4% reaching a plateau slightly exceeding 80% in the last
+two captures. Ulubag Serge et al. (2011) found a mean percentage of 23% infected
+individuals of C. pruni collected on P. spinosa or wild plum. Ina recent study, Maier
+et al. (2013) ascertained the phytoplasma in 0-11.5% of the remigrants and in
+0-3.44% of the springtime generation insects in lower Austria. The transmission of ‘Ca. P. prunorum’ by different developmental stages of C.
+pruni was studied in detail under controlled conditions (Carraro et al. 1998, 2001b,
+2004). The overwintered adults (remigrants) as well as the adults of the new genera-
+tion (emigrants) of C. pruni were able to transmit the agent to healthy test plants. The remigrants were often already infected and infectious when they reached their
+Prunus hosts in early spring. The authors concluded that C. pruni transmits the
+winter-retained phytoplasma that had been acquired the previous year. The overwin-
+tered psyllids continued to transmit the pathogen in a persistent manner until their
+death. During transmission trials under controlled conditions conducted in Germany
+by Jarausch et al. (2007b, 2008), the vector capacity of overwintered and new
+generation adults of C. pruni was consistently lower than that described by Carraro
+et al. (2001b, 2004). Similar low infectivity and transmission rates of only 0.6%
+
+ 
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+64 B. Jarausch et al. were confirmed in France by Jarausch et al. (2001) and Thébaud et al. (2008). Thébaud et al. (2009) demonstrated that the population of C. pruni has an extremely
+long “effective latency” period which lasts the overwintering period. During this
+time the phytoplasma concentration within the insects continuously rises reaching a
+maximum of 10’ phytoplasmas per insect at remigration. They concluded that only
+overwintered adults can efficiently transmit the agent and, thus, the disease spread
+is monocyclic. The vertical (transovarial) transmission of ‘Ca. P. prunorum’ was not
+observed by Carraro et al. (1998) and Thébaud et al. (2009) whilst Tedeschi et al. (2006) proved the existence of this passage in C. pruni. Many studies showed that
+wild Prunus spp. play an essential role in the epidemiology of the disease, not only
+as a reservoir of the psyllid vectors but also of the phytoplasma, in particular black-
+thorn (P. spinosa) and myrobalan plum (P. cerasifera) (Jarausch et al. 2001, 2008:
+
+ 
+
+ 
+
+Carraro et al. 2002; Fialova et al. 2004, 2007; Labonne and Lichou 2004; Laviiia
+et al. 2004; Poggi Pollini et al. 2004; Yvon et al. 2004; Ramel and Gugerli 2004;
+Delié et al. 2008; Maier et al. 2013). Recently, Sabaté et al. (2016) pointed out the
+role of P. mahaleb as potential reservoir of ‘Ca. P. prunorum’ and its vector C. pruni
+in Spain. Whereas low populations of C. pruni were found on cultivated Prunus spp. such as P. armeniaca, P. persica, P. amygdalus and P. domestica, much higher vec-
+tor densities were reported from different wild Prunus spp. such as P. spinosa, P.
+cerasifera, P. domestica and P. salicina. Interestingly, the wild P. spinosa and P.
+cerasifera, which represented reservoirs for the pathogen and the vector, rarely
+showed typical symptoms (Carraro et al. 2002; Jarausch et al. 2008). In conclusion,
+many wild Prunus spp. play an important role in the epidemiology of ESFY disease
+as the cycle of ‘Ca. P. prunorum’ as well as of its vector C. pruni can be completed
+independently from the presence of infected cultivated stone fruit trees. In order to
+determine the distance that psyllids could spread the pathogen by natural means,
+Maier et al. (2013) tracked the dispersal of C. pruni in a model apricot orchard in
+lower Austria during a mark, release and recapture experiment. The study proved a
+fast and frequent tree-to-tree movement of C. pruni adults. Insects easily covered
+distances from row to row or even farther (ca. 13 m) within 24 hours after release
+and were present in a large part of the model orchard after 8 days (up to 24 m from
+the release point). 3.5 Pear Psyllids
+
+In Europe, three recognized or presumed vectors of pear decline disease (PD) live
+on pear: Cacopsylla pyri (Linné 1758) (Fig. 3.5), C. pyricola (Foerster 1848), and
+C. pyrisuga (Foerster 1848). C. pyri is reported from Europe, the Caucasus, Central
+Asia, the Russian Far East and China; C. pyricola naturally occurs in the Western
+Palaearctic and has been introduced into the USA and Canada in the early nine-
+teenth century (Ossiannilsson 1992; Ouvrard 2017). The two species are oligopha-
+gous on Pyrus species such as P. communis, P. eleagrifolia, P. pyraster, P.
+amygdaliformis and P. salicifolia (Burckhardt 1994). The biology of C. pyri and C.
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+3. Psyllid Vectors 65
+
+ 
+
+ 
+
+Fig. 3.5. Cacopsylla pyri life stages: (a) eggs, (b) nymphs, (¢) adults, (d) female (DISAFA,
+Entomology unit, University of Torino, Italy)
+
+pyricola is similar since both are polyvoltine (Burckhardt and Hodkinson 1986). Thus, C. pyri can complete 4-5 generations in Central Europe and up to 8 genera-
+tions in Southern France. Two morphologically distinct forms can be distinguished:
+a darkish winter form (C. pyri f. pyri) and a light summer form (C. pyri f. pyrarbo-
+ris). C. pyricola has 4-5 generations in France and 34 in the USA with the darker
+winter form (C. pyricola f. simulans) appearing as one and the lighter summer form
+(C. pyricola f. pyricola) as 3-4 generations per year, respectively. The first oviposi-
+tion of the winter form coincides with raising temperatures in early spring on leave
+buds and midribs of the leaves (Burckhardt 1994). In contrast, C. pyrisuga is uni-
+voltine; the adults overwinter on conifers and remigrate to Pyrus spp. by middle
+March to April. Egg deposition takes place in two different steps at the beginning of
+April and second in the middle of May followed by a 6 week lasting nymph devel-
+opment and the emergence of new adults in June. All three pear psyllids can cause
+direct damage on pear trees: the nymphs affect plant growth by sucking phloem-sap,
+while the secreted honeydew burns plant tissue and favours the growth of sooty
+mold. First reports of pear psyllids as vectors of phytoplasmas came from the Pacific
+coast of North America. Jensen et al. (1964) identified C. pyricola as the vector of
+“Ca. P. pyri’ at a time when the disease was thought to be virus-borne. Since then no
+
+© Springer Nature Singapore Pte Ltd. 2019
+
+66 B. Jarausch et al. further vector has been described for the USA. However, the distribution of the
+putative vectors of ‘Ca. P. pyri’ in Europe and the whole Palearctic region is diverse:
+while for Great Britain only C. pyricola has been described as vector (Davies et al. 1992), C. pyri was identified as main vector in France (Lemoine 1984), Italy
+(Carraro et al. 1998) and Spain (Garcia-Chapa et al. 2005). In Czech Republic
+(Kucerova et al. 2007; Ludvikova et al. 2011) and in lower Austria (Lethmayer et al. 2011) all three pear psyllid species were found naturally infected with ‘Ca. P. pyri’,
+while in Turkey only C. pyri carried the phytoplasma albeit all the three species
+were present in the investigated regions (Kaya et al. 2016). In contrast to C. pyri and
+C. pyricola, the vector capability of C. pyrisuga is so far not yet confirmed (Jarausch
+and Jarausch 2010). Recently, a fourth pear psyllid, the polyvoltine species
+Cacopsylla bidens (Sule 1907) has been found infected with ‘Ca. P. pyri’ in Bulgaria
+(Etropolska et al. 2015). Also for this species its vector capability still needs to be
+proven. After the identification of C. pyricola as vector for ‘Ca. P. pyri’ in California
+(Jensen et al. 1964), many investigations in the USA and Europe followed in order
+to determine the infection rate of the psyllids and to analyse the transmission param-
+eters. In United Kindgdom transmission trials carried out with field-collected C.
+pyricola yielded transmission rates between 3-61 % depending on the collection site
+of the psyllids (Davies et al. 1992). Acquisition of ‘Ca. P. pyri’ by C. pyricola from
+experimentally infected pear seedlings was best in August and lowest in winter. In
+California, Blomquist and Kirkpatrick (2002a) detected the pathogen in both winter
+and summer forms of C. pyricola, but without a clear seasonal trend. The number of
+phytoplasmas per psyllid was estimated to range from 1 x 10° to 8.2 x 10’ with
+higher titre in the winter form. They concluded that psyllid-mediated spring infec-
+tions could happen well before ‘Ca. P. pyri’ would normally recolonize the upper
+part of the tree from the roots. In Italy, Carraro et al. (1998, 2001a) detected ‘Ca. P.
+pyri’ in 55% of groups of C. pyri collected from March to October in the orchards
+and 30% of the inoculated test plants became infected. They could furthermore
+show that C. pyri retained the phytoplasma during winter, but could not transmit PD
+to dormant plants. Raddadi et al. (2011) tested C. pyri collected in Italian pear
+orchards detecting ‘Ca. P. pyri’ in 26% of the specimens (in 27% of males, and in
+25% of females) with nested-PCR and in 51% of the individuals through quantita-
+tive PCR with a number of ‘Ca. P. pyri’ cells ranging from 1.43 x 10! to 8.50 x 10°
+per C. pyri individual. Moreover, fluorescent in situ hybridization (FISH) allowed to
+detect ‘Ca. P. pyri’ in Malpighian tubules and salivary glands of C. pyri. Garci
+Chapa et al. (2005) found that the percentage of infected individuals in Spain is
+similar from June to August but reaching a rate of almost 100% in September coin-
+ciding with the maximum phytoplasma titre in the aerial plant parts. The highest
+transmission rate to an artificial sucrose medium was obtained in August and also in
+October. Although th the © percentage of infected psyllids was similar for both genders,
+ignificantly higher than by males. During
+transmission trials under controlled conditions Caglayan et al. (2010) showed the
+capability of C. pyri to transmit PD from infected pears to healthy periwinkles and
+confirmed it as vector of ‘Ca. P. pyri’ in Turkey. Springer Nature Singapore Pte Ltd. 2019
+
+3. Psyllid Vectors 67
+
+PD has also been found in Taiwan (PD-TW) where the European species C. pyri and
+C. pyricola are not present. Liu et al. (2007) found two other Cacopsylla species, C.
+qianli and C. chinensis, infected with the PD-TW phytoplasma. Their role in trans-
+mission of PD-TW phytoplasma in Taiwan remains to be clarified. But recently Liu
+et al. (2011) proved the transmission capacity of C. chinensis during transmission
+trials in Taiwan. Based on PCR detection and symptom development they showed
+that pear trees were either infected by PD-TW or PD-TWII phytoplasma strains, or
+co-infected by both, when exposed to C. chinensis specimens. Insect vectors for peach yellow leaf roll (PYLR) phytoplasma have been searched
+intensively in California in the 1980s and 1990s. As two similar diseases, western X
+and PYLR, associated with two genetically distinct phytoplasmas exist in the same
+region, only the application of molecular methods enabled to proof that a psyllid is
+the main vector of PYLR phytoplasma. Experimental transmission of PYLR phyto-
+plasma to peach seedlings was achieved with field collected C. pyricola from natu-
+rally infected peach trees (Guerra 1997). In field surveys for leafhoppers and psyllids
+in diseased peach orchards only C. pyricola proved to be infected with PYLR phy-
+toplasma as confirmed by molecular means (Blomquist and Kirkpatrick 2002b). Ten
+to 25% of groups of 10 individuals were positive indicating a high infection rate. Infected psyllids were captured from peach as well as from pear grown in the neigh-
+bourhood. The population dynamics of C. pyricola was similar in peach and pear
+with low densities in summer and an increase in autumn. Thus, the spread of PYLR
+is dependent on adjacent pear orchards where presumably the vector reproduces
+(Purcell et al. 1981). 3.6 Genetics
+
+Morphological differentiation is problematic due to extensive resemblance of some
+psyllid species especially among females and is error-prone for nymphs (Oettl and
+Schlink 2015). DNA-based techniques for the identification of insect species have
+recently become of particular interest either to support or even to replace traditional
+morphological discrimination (Jenkins et al. 2012). Molecular methods offer in par-
+ticular advantages for the identification of immature stages where inct morpho-
+logical characters are lacking or are not sufficient for discrimination at the species
+level. Furthermore, molecular methods can help to identify insects which are dam-
+aged by removal from sticky traps. One approach is PCR-RFLP based on the cyto-
+chrome c oxidase subunit I (COI) region. This gene is widely used as barcoding
+marker for species determination and provides therefore a valuable tool also for the
+identification of invasive insect species and quarantine pests. This method has been
+successfully applied for the molecular discrimination of C. melanoneura and C.
+picta from other Cacopsylla species which are difficult to distinguish by morpho-
+logical means (Oettl and Schlink 2015). This rapid and cost-effective approach
+allowed also a reliable identification of nymphal stages. Tedeschi and Nardi (2010) developed a molecular tool based on the mitochon-
+drial control region (CR) to distinguish psyllid species living together on hawthorn:
+
+ 
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+68 B. Jarausch et al. C. melanoneura and C. affinis. This PCR assay allowed the species identification by
+ing specific primers and different sizes of the PCR products. By testing individu-
+als of C. melanoneura from different regions in Italy, two genetic variants were
+detected by this method. The variants differed by the presence (WI, with indel) or
+the absence (WOI, without indel) of a 56 bp indel. Whereas the WOI type was
+dominant in all tested regions the WI type was consistently found at low percent-
+ages ranging from 5% to 31%. Recently, WI and WOI variants of C. melanoneura
+were also detected by this approach in Bulgaria (Etropolska et al. 2016). A distinc-
+tion of different populations of C. melanoneura was enabled by the development of
+microsatellite markers for this species (Malagnini et al. 2007). With these SSR
+markers populations from apple could be differentiated form those of hawthorn
+indicating that two different host races of C. melanoneura may exist (Malagnini
+et al. 2013). Whether these genetic differences are linked to the observed differ-
+ences in phytoplasma vectoring ability is not known. Microsatellite genotyping was also applied to analyse the population structure of
+C. pruni (Sauvion et al. 2007, 2009). Based on the analysis of nine microsatellite
+loci two distinct populations of C. pruni—named A and B — were identified. Peccoud
+et al. (2013) demonstrated that both groups can be phylogenetically separated on
+their ITS2 sequences. These authors developed specific PCR primers for each group
+enabling an easy molecular typing of C. pruni A and B. It is important to note that
+both groups cannot be distinguished morphologically. As far as known, both popu-
+lations occur sympatrically in Southern France while type B is predominant in most
+of the other European regions. Etropolska et al. (2016) found only C. pruni type B
+in different regions of Bulgaria. 3.7 Rearing
+
+Although all Psylloidea pass through 5 instars, the period for complete nymph
+development under natural conditions can be highly influenced by variations of
+ambient temperature, humidity and voltinism status (Hodkinson 2009). This incon-
+venience can be eliminated by the establishment of rearings under controlled and
+standardised conditions. Breeding of polyvoltine species without host alternation
+such as C. pyri can be started from field collections on Pyrus cy. all around the year. However, also multivoltine species such as C. pyricola or C. pyri undergo a repro-
+ductive diapause in the autumn generation (Hodkinson 2009). Compared with poly-
+voltine psyllid species, the austere life cycle and obligate host change of univoltine
+species makes collection and rearing difficult. However, efforts undertaken during
+the last years identified the key factors for the establishment of permanent rearings
+of the univoltine species C. picta and C. pruni. The most common way to establish psyllid colonies usually starts from pairs or
+groups of field collected adults which are caged on specific host plants for copula-
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+3. Psyllid Vectors 69
+
+tion and oviposition. In order to obtain healthy psyllid populations for diverse labo-
+ratory use, standardised plant material from tissue culture or from seedlings was
+used, e.g. from Malus cultivars Golden Delicious or Royal Gala for C. picta and C.
+melanoneura colonies (Jarausch et al. 2004; Mayer et al. 2009; Tedeschi et al. 2003)
+or from Prunus cultivars P. marianna, P. salicina or P. cerasifera for C. pruni
+(Carraro et al. 2001b, 2004; Jarausch et al. 2008; Thébaud et al. 2009), respectively. Since transovarial transmission of the phytoplasma has been demonstrated for C.
+picta (Mittelberger et al. 2017) and C. pruni (Tedeschi et al. 2006), PCR testing of
+individuals has to be done to ensure a phytoplasma-free psyllid population. For
+subsequent acquisition trials, rearings were directly installed on phytoplasma-
+infected Malus or Prunus cultivars under similar rearing conditions. Breedings of the most important univoltine Cacopsylla vector species C. picta,
+C. melanoneura and C. pruni were installed in cages, bugdorms or glass vessels
+infested with mature females and males collected from their natural host plants
+from February until April (Carraro et al. 2002; Jarausch et al. 2004, 2008; Mayer
+et al. 2008a; Tedeschi et al. 2003). The preimaginal development under recom-
+mended rearing conditions for these northern temperate species (20-25°C day and
+around 15°C night, relative humidity between 50-80% and natural day light condi-
+tions of light:dark, 16:8 hours) (Jarausch and Weintraub 2014) takes about 5 weeks
+until emergence of new adults. Thus, psyllid colonies could be maintained on the
+reproduction host plant under experimental conditions for several months, at least
+until autumn of the same year. However, as univoltine vector species have an obli-
+gate alternation of plants for reproduction and overwintering, a permanent rearing
+was not possible. For a long time it was believed that conifers are used by migrating
+Cacopsylla species just for shelter during winter time (Burckhardt 1994; Burckhardt
+et al. 2014). It remained unclear whether overwintering psyllids actually fed on
+conifers (Hodkinson 2009). Recent studies confirmed that these species have a feed-
+ing activity on overwintering plants (Gallinger and Gross 2018), and die when is
+lated on a deciduous conifers plant such as Larix decidua (Pizzinat et al. 2011). Thus, Jarausch and Jarausch (2014) succeeded for the first time to maintain a hiber-
+nating continuous colony of C. picta until the next year and hence they could estab-
+lish a permanent rearing of this vector species. Based on empiric data from field
+observations in combination with results obtained during laboratory experiments
+they elaborated the following parameters and key factors for a successful overwin-
+tering of C. picta and the establishment of a continuous rearing: (i) smooth host
+plant switch, (ii) moderate summer temperatures and sufficient humidity, (iii) natu-
+ral winter climate conditions with cold and frost and (iv) suitable conifer species, in
+this case spruce or pine. The model suggests a direct migration of emigrants from
+the reproduction host apple to conifers as aestivation and overwintering plants in
+summer and vice versa to apple orchards for remigrants in early spring. However,
+the host plant switch does not occur abrupt, but is characterized by a smooth adapta-
+tion phase from its host for reproduction to its overwintering plants as experimen-
+tally demonstrated. Despite some species-specific particularities, the same approach
+was adopted for rearing the vector of ‘Ca. P. prunorum’, C. pruni (Jarausch and
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+70 B. Jarausch et al. Jarausch 2016). These studies confirmed that both psyllid species are univoltine and
+cannot reproduce on conifers. A further rearing approach for C. pruni was applied by Thébaud et al. (2008)
+using sleeve cages on healthy or infected Prunus plants. Thébaud et al. (2009) found
+C. pruni on Picea abies at an altitude of 1260 m a.s.1. and were able to overwinter
+them in sleeve cages on these conifers but survival rates ranged only between 1.2
+and 8.9%. Using a similar approach, Pizzinat et al. (2011) could hibernate C. mela-
+noneura in branch cages on different coniferous species at an altitude between 1442
+and 1636 ma.s.]. in Northwestern Italy. 3.8 Multitrophic Interaction
+
+The secret language of the earth’s ecosystem involves a multitude of players that
+populate the playing field and occupy different rungs on the food chain (Wartenberg
+2016; Gross 2016; Sauvion et al. 2017). The actors include plants, plant feeding
+i sect feeding insects, plant parasites, insect parasites, pathogenic and ben-
+eficial microorganisms, vectoring organisms, pollinators, and more (Gross 2016:
+Corcket et al. 2017; Kaiser et al. 2017; Giron et al. 2017). Thus, fundamental
+research on the biology and ecology including chemically mediated multitrophic
+interactions of vectoring psyllids is needed for understanding vector epidemiology,
+plant pathogen transmission and for developing appropriate and sustainable control
+measures of vectors and pathogens (Gross 2016). The natural enemies of phloem-feeding insects (predators, parasitoids, or ento-
+mopathogens) may have large effects on speciation, community composition and
+ecosystem processes (Elzinga et al. 2007). Hence, these plant-pathogen—vector sy:
+tems are of particular interest, in which a transmitted pathogen infects both, its host
+plant and vector insect, because pathogens and their differing hosts (plant and
+insect) must develop co-adapted strategies to avoid deleterious effects of each other
+(Gross 2016). In general, the pattern of volatile organic compounds (VOCs) released
+from plant modules (leaves and flowers) can change both quantitatively and quali-
+tatively with abiotic (e.g. warming, drought) and biotic stressors (e.g. herbivore
+feeding, pathogen infection). The role of allelochemicals for psyllid behavior and the influence of phytoplasma
+infections on volatile production of psyllid host plants were studied during the last
+12 years (Gross 2016). For identifying their particular host plants for feeding and
+reproduction, volatile signals are used in many species during migration (Gross and
+Mekonen 2005; Mayer et al. 2008a, 2008b, 2009; Soroker et al. 2004; Weintraub
+and Gross 2013). Also non-volatile phloem/xylem components influence host
+choice and maybe oviposition behaviour (Mayer et al. 2011). By analysing the
+VOCs emitted by the leaves of apple trees, it was shown that ‘Ca. P. mali’ changed
+the odour of infected trees compared to healthy ones (Mayer et al. 2008a). In pear
+trees infected with ‘Ca. P. pyri’, the expression of ethylbenzoate differed significantly
+between infected and healthy trees. The virulence of different strains of ‘Ca. P.
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+3. Psyllid Vectors a
+
+mali’ was proven to influence the pattern of produced volatiles in the model plant
+tobacco as well as in apple trees both quantitatively and qualitatively (Rid et al. 2016). The influence of volatiles on the interactions between the pathogen ‘Ca. P.
+mali’, the host plants for reproduction (apple trees) and overwintering (conifers) of
+its vector C. picta and the proposed epidemiology of ‘Ca. P. mali’ is the most stud-
+ied so far: C. picta reproduces on apple and new adults emerge at phenology stages
+69-71 (late blossom, early fruit development) of the apple plant. These emigrants
+are attracted by f-caryophyllene (Mayer et al. 2008b), which is mainly produced by
+infected apples during this time (Mayer et al. 2008a), and both males and females
+are lured to infected plants (J. Gross, unpublished data), increasing the number of
+psyllids, which are able to acquire the phytoplasma. Witches’ broom produced
+exclusively by infected plants increase their leaf surface and may support the emis-
+sion of volatile B-caryophyllene (Mayer et al. 2011). Shortly after feeding on apple,
+the adults emigrate to conifers where they stay until spring (Mayer and Gross 2007). After overwintering, the psyllids return to apple trees (remigrants), but now prefer
+to lay their eggs on uninfected plants, which increases the opportunity to transmit
+the phytoplasma (Mayer et al. 2011). Which signals may regulate this egg-laying
+behaviour still remains unknown and are the focus of ongoing research. By develop-
+ing on apple plants infected by ‘Ca. P. mali’, the nymphs of C. picta suffered higher
+mortality and remained smaller compared to the ontogenetic development on unin-
+fected plants (Mayer et al. 2011). In contrast, infection by ‘Ca. P. mali’ was toler-
+ated by adults and seems to have no detrimental effect. Thus, females of C. picta
+evolved mechanisms to minimize harmful effects for their offspring emanated by
+the phytoplasma by avoiding oviposition on infected plants. In this context it seems
+possible that non-volatile signals from phloem sap could be involved in the psyllids’
+final decision (J. Gross, unpublished data). This behavior ensures the development
+of a new, vital vector generation, which is important for the spread of the phyto-
+plasma. In conclusion, the complex multitrophic interactions between phytoplasma,
+plant and vector may result i in both higher numbers of transmitting vector insects
+and a very effective trans ion of the phytoplasma within the insect population. The outcome of the research on multitrophic interactions is the key for develop-
+ing innovative and sustainable applications in phytomedicine. Besides intraspecific
+active pheromones, also interspecific active allelochemicals such as -caryophyllene
+or ethylbenzoate can be used as lures in traps. Different classes of infochemicals
+(attractants, arrestants, and repellents) can be combined to attract-and-kill strate-
+gies, push-and-pull or push-pull-kill strategies (Gross and Giindermann 2016). By
+using allelochemicals instead of pheromones, the emission rates of the attractive
+compounds, often plant produced kairomones, has to be multiple times higher than
+by using pheromones, requiring new types of dispensers or microencapsulated info-
+chemicals (Gross 2017). Signals triggering interactions between psyllids, phyto-
+plasma and plants and within psyllid species are not restricted to volatile and
+non-volatile infochemicals, as the existence of acoustic communication in courtship
+behaviour of C. pyri has been shown recently (Eben et al. 2014). This may enable
+innovative attempts for the control of C. pyri by extending push-and-pull strategies
+to acoustic signals and including the use of both attractive chemical and acoustic
+
+ 
+
+ 
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+2 B. Jarausch et al. signals in combination with repellent signals (also acoustic or chemical) (Gross
+2017). Based on the results on multitrophic interactions the development of chemi-
+cally lured traps for monitoring and mass trapping has recently started (Eben and
+Gross 2013; Gross and Giindermann 2016). References
+
+Alma A, Navone C, Visentin C, Arzone A, Bosco D (2000) Rilevamenti di fitoplasmi di “apple pro-
+liferation” in Cacopsylla melanoneura (Forster) (Homoptera Psyllidae). Perria 10, 141-142. Baric S, Oettl S, Dalla Via J (2010) Infection rates of natural psyllid populations with ‘Candidatus
+Phytoplasma mali’ in South Tyrol (Northern Italy). Julius-Kithn-Archiv 426, 189-192. Baric S, Berger J, Cainelli C, Kerschbamer C, Dalla Via J (2011) Molecular typing of ‘Candidatus
+Phytoplasma mali’ and epidemic history tracing by a combined T-RFLP/VNTR analysis
+approach. European Journal of Plant Pathology 131, 573-584. Blomquist CL, Kirkpatrick BC (2002a) Frequency and seasonal distribution of pear psylla infected
+with the pear decline phytoplasma in California pear orchards. Phytopathology 92, 1218-1226. Blomquist CL, Kirkpatrick BC (2002b) Identification of phytoplasma taxa and insect vectors of
+peach yellow leaf roll disease in California. Plant Disease 86, 759-763. Brede AV (2017) Phenology and spatial dynamics of Cacopsylla melanoneura (Homoptera:
+Psyllidae) in western Norway, an insect vector for apple proliferation. Ms thesis, The University
+of Bergen, Norway. Burckhardt D (1994) Psylloid pests of temperate and subtropical crop and ornamental plants
+(Hemiptera, Psylloidea): a review. Trends in Agricultural Science 2, 173-186. Burckhardt D, Hodkinson ID (1986) A revision of the west Palaearctic pear psyllids (Hemiptera:
+Psyllidae). Bulletin of Entomological Research 76, 119-132. Burckhardt D, Ouvrard D (2012) A revised classification of the jumping plant-lice (Hemiptera
+Psylloidea). Zootaxa 3509, 1-34. Burckhardt D, Jarausch B, Jarausch W (2008) www.psyllidkey.cu: ein elektronischer Schliissel zur
+Bestimmung der Psylliden auf Rosaceen in Mitteleuropa. Mitteilungen aus dem Julius-Kithn-
+Institut 417, 177. Burckhardt D, Ouvrard D, Queiroz D, Percy D (2014) Psyllid host-plants (Hemiptera: Psylloidea):
+resolving a semantic problem. Florida Entomology 91, 242-246. Caglayan K, Gazel M, Ulubas Serge C, Can F (2010) Experimental transmission trials by
+Cacopsylla pyri, collected from pear decline. Julius-Kithn-Archiv 427, 403-406,
+
+Cainelli C, Bisognin C, Vindimian ME, Grando MS (2004) Genetic variability of AP phytoplasmas
+detected in the apple growing area of Trentino (North Italy). Acta Horticulturae 657, 425-430. Carraro L, Loi N, Ermacora P, Gregoris A, Osler R (1998) Transmission of pear decline by using
+naturally infected Cacopsylla pyri. Acta Horticulturae 472, 665-668. Carraro L, Loi N, Ermacora P (2001a) The life cycle of pear decline phytoplasma in the vector
+Cacopsylla pyri. Journal of Plant Pathology 83, 87-90. Carraro L, Loi N, Ermacora P (2001b) Transmission characteristics of the European stone fruit
+yellows phytoplasma and its vector Cacopsylla pruni. European Journal of Plant Pathology
+107, 695~700. Carraro L, Ferrini F, Ermacora P, Loi N (2002) Role of wild Prunus species in the epidemiology
+of European stone fruit yellows. Plant Pathology 51, 513-517. Carraro L, Ferrini F, Labonne G, Ermacora P, Loi N (2004) Seasonal infectivity of Cacopsylla
+pruni, the vector of European stone fruit yellows phytoplasma. Annals of Applied Biology 144,
+191-195
+
+Carraro L, Ferrini F, Labonne G, Ermacora P, Loi N (2008) Infectivity of Cacopsylla picta
+(syn. Cacopsylla costalis), vector of ‘Candidatus Phytoplasma mali’ in north east Italy. Acta
+Horticulturae 781, 403-407. Springer Nature Singapore Pte Ltd. 2019
+
+3 Psyllid Vectors 3
+
+Casati P, Quaglino F, Tedeschi R, Spiga FM, Alma A, Spadone P, Bianco PA (2010) Identification
+and molecular characterization of ‘Candidatus Phytoplasma mali’ isolates in North-western
+Italy. Journal of Phytopathology 158, 81-87. Cermak V, Lauterer P (2008) Overwintering of psyllids (Hemiptera, Psylloidea) in South Moravia
+(Czech Republic) with respect to the vectors of the apple proliferation cluster phytoplasmas. Bulletin of Insectology 61, 147-148. Corcket E, Giffard B, Sforza RFH (2017) Food webs and multiple biotic interactions in plant-
+herbivore models. In: Insect-Plant Interactions in a Crop Protection Perspective. Eds Sauvion
+N, Calatayud P-A, Thigry D. Advances in Botanical Research, vol 81. Academic Press,
+Elsevier, United States of America, 111-138 pp. Costphytoplasma (2013) www.costphytoplasma.ipwgnet.org/WG2/phytoplasma_vectors. (30
+April 2018). Davies DL, Guise CM, Adams AN (1992) Parry's disease is similar to pear decline and is associ-
+ated with mycoplasma-like organisms transmitted by Cacopsylla pyricola. Plant Pathology
+41, 195-203. Delié D, Martini M, Ermacora P, Carraro L, Myrta A (2005) First report of fruit tree phytoplasmas
+and their psyllid vectors in Bosnia and Herzegovina. Journal of Plant Pathology 87, 150. Delié D, Martini M, Ermacora P, Carraro L, Myrta A (2008) Identification of fruit tree phytoplas-
+mas and their vectors in Bosnia and Herzegovina. Acta Horticolture 781, 429-434. Eben A, Gross J (2013) Innovative control of psyllid vectors of European fruit tree phytoplasmas. Phytopathogenic Mollicutes 3, 37-39. Eben A, Miihlethaler R, Gross J, Hoch H (2014) First evidence of acoustic communication in the
+pear psyllid Cacopsylla pyri L. (Hemiptera: Psyllidae). Journal of Pest Science 88, 87-95
+Elzinga JA, van Nouhuys S, van Leeuwen DJ, Biere A (2007) Distribution and colonisation ability
+of three parasitoids and their herbivorous host in a fragmented landscape. Basic and Applied
+
+Ecology 8, 75-88. Ermacora P, Ferrini F, Loi N, Martini M, Osler R (2011) Population dynamics of Cacopsylla
+pruni and *Candidatus Phytoplasma prunorum’ infection in North-Eastern Italy. Bulletin of
+Insectology 64(Supplement), $143-S 144. Etropolska A, Jarausch W, Jarausch B, Trenchev G (2015) Detection of European fruit tree phy-
+toplasmas and their insect vectors in important fruit-growing regions in Bulgaria. Bulgarian
+Journal of Agricultural Science 21, 1248-1253. Etropolska A, Jarausch W, Jarausch B, Trenchev G (2016) Molecular typing of Bulgarian specimen
+of the phytoplasma vectors Cacopsylla pruni Scopoli and Cacopsylla melanoneura (Foerster). Bulgarian Journal of Agricultural Science 22, 98-102. Fialové R, Navratil M, Vilové P, Lauterer P, Kocourek F, Poncarové-Vordtkov Z_ (2004)
+Epidemiology of European stone fruit yellows phytoplasma in the Czech Republic. Acta
+Horticulturae 657, 483-487. Fialova R, Navratil M, Lauterer P, Navrkalova V (2007) ‘Candidatus Phytoplasma prunorum’:
+the phytoplasma infection of Cacopsylla pruni from apricot orchards and from overwintering
+habitats in Moravia (Czech Republic). Bulletin of Insectology 60, 183-184. Fischnaller S, Parth M, Messner M, Stocker R, Kerschbamer C, Reyes-Dominguez Y, Janik K
+(2017) Occurrence of different Cacopsylla species in apple orchards in South Tyrol (Italy) and
+detection of apple proliferation phytoplasma in Cacopsylla melanoneura and Cacopsylla picta
+(Hemiptera: Psylloidea). Cicadina 17, 37-51. Frisinghelli C, Delaiti L, Grando MS, Forti D, Vindimian ME (2000) Cacopsylla costalis (Flor,
+1861), as a vector of apple proliferation in Trentino. Journal of Phytopathology 148, 425-431. Gallinger J, Gross J (2018) Unraveling the host plant alternation of Cacopsylla pruni — Adults
+but not nymphs can survive on conifers due to phloem/xylem composition. Frontiers in Plant
+Science 9, 484. Garcia-Chapa M, Sabaté J, Lavina A, Batlle A (2005) Role of Cacopsylla pyri in the epidemiology
+of pear decline in Spain, European Journal of Plant Pathology 11, 9-17. Giron D, Dedeine F, Dubreuil G, Huguet E, Mouton L, Outreman Y, Vavre F, Simon J-C (2017). Influence of microbial symbionts on plant-insect interactions. In: Insect-Plant Interactions in a
+
+ 
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+4 B. Jarausch et al. Crop Protection Perspective. Eds Sauvion N, Calatayud P-A, Thiéry D. Advances in Botanical
+Research, vol 81. Elsevier, Amsterdam, The Netherlands, 225-258 pp. Gross J (2016) Chemical communication between phytopathogens, their host plants and vector
+insects and eavesdropping by natural enemies. Frontiers in Ecology and Evolution 4, 104. Gross J (2017) New strategies for phytoplasma vector control by semiochemicals. JOBC-WPRS
+
+Bulletin 126, 12-17
+
+Gross J, Giindermann G (2016) Principles of IPM in cultivated crops and implementation of inno-
+vative strategies for sustainable plant protection. In: Advances in Insect Control and Resistance
+Management. Eds Horowitz RA, Ishaaya I. Springer Science plus Business Media B.V.,
+Dordrecht, The Netherlands, 9-26 pp. Gross J, Mekonen N (2005) Plant odours influence the host finding behaviour of apple psyllids
+(Cacopsylla picta; C. melanoneura). IOBC-WPRS Bulletin 28, 351-355. Guerra LJ (1997) Biological and molecular characterization of phytoplasmas infecting fruit and
+nut trees in California. Ph.D. thesis, University of California, Davis, USA. Hodkinson ID (2009) Life cycle variation and adaptation in jumping plant lice (Insecta: Hemiptera
+Psylloidea): a global synthesis. Journal of Natural History 43, 65-179. Hogenhout SA, Oshima K, El-Desouky A, Kakizawa S, Kingdom HN, Namba $ (2008)
+Phytoplasmas: bacteria that manipulates plants and insects. Molecular Plant Pathology 9,
+327-359. Jarausch B, Jarausch W (2010) Psyllid vectors and their control. In: Phytoplasmas: Genomes,
+Plant Hosts and Vectors. Eds Weintraub PG, Jones P. CABI, Wallingford, United Kingdom,
+250-271 pp. Jarausch B, Jarausch W (2014) Establishment of a permanent rearing of Cacopsylla picta
+(Hemiptera: Psylloidea), the main vector of ‘Candidatus Phytoplasma mali’ in Germany. Journal of Pest Science 87, 459-467. Jarausch W, Jarausch B (2016) A permanent rearing system for Cacopsylla pruni, the vector of
+“Candidatus Phytoplasma prunorum’ . Entomologia Experimentalis et Applicata 159, 112-116. Jarausch B, Weintraub PG (2014) Psyllid vectors of plant pathogens: collection, rearing and use in
+laboratory research studies. In: Rearing Animal and Plant Pathogen Vectors. Eds Maramorosch
+K, Mahmood F. CRC Press, Boca Raton, United States of Amrica, 305-325 pp. Jarausch W, Saillard C, Helliot B, Garnier M, Dosba F (2000) Genetic variability of apple prolif-
+eration phytoplasmas as determined by PCR-RFLP and sequencing of a non-ribosomal frag-
+ment. Molecular and Cellular Probes 14, 17-24. Jarausch W, Danet JL, Labonne G, Dosba F, Broquaire JM, Saillard C, Garnier M (2001)
+Mapping the spread of apricot chlorotic leaf roll (ACLR) in southern France and implication
+of Cacopsylla pruni as a vector of European stone fruit yellows (ESFY) phytoplasmas. Plant
+Pathology 50, 782-790. Jarausch B, Schwind N, Jarausch W, Krezal G, Seemiiller E, Dickler E (2003) First report of
+Cacopsylla picta as a vector for apple proliferation phytoplasma in Germany. Plant Disease
+87, 101. Jarausch B, Schwind N, Jarausch W, Krezal G (2004) Overwintering adults and springtime genera-
+tion of Cacopsylla picta (synonym C. costalis) can transmit apple proliferation phytoplasmas. Acta Horticulturae 657, 409-413
+
+Jarausch B, Fuchs A, Schwind N, Krezal G, Jarausch W (2007a) Cacopsylla picta as most impor-
+tant vector for *Candidatus Phytoplasma mali’ in Germany and neighbouring regions. Bulletin
+of Insectology 60, 189-190. Jarausch B, Fuchs A, Miihlenz I, Lampe I, Harzer U, Jarausch W (2007b) Research on European
+stone fruit yellows (ESFY) in Germany. Bulletin of Insectology 60, 389-390. Jarausch B, Miihlenz I, Beck A, Lampe I, Harzer U, Jarausch W (2008) Epidemiology of European
+stone fruit yellows in Germany. Acta Horticulturae 781, 417-422. Jarausch B, Burekhardt D, Lauterer P, Jarausch W (2009) Psyllids (Hemiptera, Psylliodea) cap-
+tured in commercial apple and stone fruit orchards in southwest Germany, eastern France and
+northwest Switzerland. Mitteilungen der Schweizerischen Entomologischen Gesellschaft 82,
+205-215. Springer Nature Singapore Pte Ltd. 2019
+
+3. Psyllid Vectors 75
+
+Jarausch B, Fuchs A, Kénig D, Krzcal G, Jarausch W (2010) Analysis of the acquisition and mul-
+tiplication efficiency of different strains of ‘Ca. Phytoplasma mali’ by the vector Cacopsylla
+picta, Julius-Kiihn-Archiv 427, 175-177. Jarausch B, Schwind N, Fuchs A, Jarausch W (2011) Characteristics of the spread of apple prolif
+eration by its vector Cacopsylla picta. Phytopathology W1, 1471-1480. Jarausch B, Sauvion N, Jarausch W (2013) Spread of European fruit tree phytoplasma diseases. Phytopathogenic Mollicutes 3, 25-30. Jenkins C, Chapman TA, Micallef JL, Reynolds OL (2012) Molecular techniques for the detection
+and differentiation of host and parasitoid species and the implications for fruit fly management. Insects 3, 763-788. Jensen DD, Griggs WH, Gonzales CQ, Schneider H (1964) Pear decline virus transmission by pear
+psylla. Phytopathology 54, 1346-1351
+
+Kaiser L, Ode P, van Nouhuys S, Calatayud P-A, Colazza S, Cortesero A-M, Thiel A, van Baaren
+J (2017) The plant as a habitat for entomophagous insects. In: Insect-Plant Interactions in a
+Crop Protection Perspective. Eds Sauvion N, Calatayud P-A, Thiéry D. Advances in Botanical
+Research, vol 81. Elsevier, Amsterdam, The Netherlands, 179-224 pp. Kaya K, Ulubas Serge C, Gazel M, Caglayan K, Sauvion N (2016) Potential psyllid vectors
+of *Candidatus Phytoplasma mali? and *Candidatus Phytoplasma pyri’ in Turkey. Pakistan
+Journal of Agricultural Sciences 3, 383-392. Krizanac I, Plavec J, BudinScak Z, Ivic D, Skoric D, Seruga Music M (2017) Apple proliferation
+disease in Croatian orchards: a molecular characterization of ‘Candidatus Phytoplasma mali’. Journal of Plant Pathology 99, 95-101. Kucerova J, Talacko L, Lauterer P, Navratil M, Fialova R (2007) Molecular tests to determine
+“Candidatus Phytoplasma pyri’ presence in psyllid vectors from a pear tree orchard in the
+Czech Republic ~ a preliminary report. Bulletin of Insectology 60, 191-192. Labonne G, Lichou J (2004) Data on the life cycle of Cacopsylla pruni, psyllidae vector of European
+stone fruit yellows (ESFY) phytoplasma, in France. Acta Horticulturae 657, 465-470. Lal KB (1934) Biology of Scottish Psyllidae. Transactions of the Royal Entomological Society of
+London 82, 363-385. Lauterer P (1999) Results of investigations on Hemiptera in Moravia, made by Moravian Museum
+(Psylloidea 2). Acta Musei Moraviae 84, 71-151. Lavifia A, Sabaté J, Garcia-Chapa M, Batlle A, Torres E (2004) Occurrence and epidemiology of
+European stone fruit yellows phytoplasma in Spain. Acta Horticulturae 657, 489-494. Lemmetty A, Tuovinen T, Kemppainen R (2011) ‘Candidatus Phytoplasma mali’ infected
+Cacopsylla picta found in apple orchards in South-Western Finland. Bulletin of Insectology
+64(Supplement), $257-S258
+
+Lemoine J (1984) Is Psylla pyri a vector for pear decline in France? IOBC/WPRS Bulletin 7,
+245-251. Lethmayer C, Hausdorf H, Suarez-Mahecha B, Reisenzein H (2011) The importance of psyllids
+(Hemiptera Psyllidae) as vectors of phytoplasmas in pome and stone fruit trees in Austria,
+Bulletin of Insectology 64(Supplement), $255-S256. Liu H-L, Chen C-C, Lin C-P (2007) Detection and identification of the phytoplasma associated
+with pear decline in Taiwan, European Journal of Plant Pathology 117, 281-291. Liu S-L, Liu H-S, Chang S-C, Lin C-P (2011) Phytoplasmas of two 16S rDNA groups are associ-
+ated with pear decline in Taiwan, Botanical Studies 52, 313-320. Ludvikova H, Lauterer P, Sucha J, Franova J (2011) Monitoring of psyllid species (Hemiptera,
+Psylloidea) in apple and pear orchards in East Bohemia. Bulletin of Insectology 64(Supplement),
+121-8122. Maier C, Bachinger K, Mértel J, Engel C, Czipin L, Riedle-Bauer M (2013) European stone
+fruit yellows: a mark, release and recapture experiment tracking the dispersal of its vector
+Cacopsylla pruni (Hemiptera: Psyllidae) in a model apricot orchard and epidemiological stud-
+ies in lower Austria, Journal of Phytopathology 161, 713-722. Springer Nature Singapore Pte Ltd. 2019
+
+16 B. Jarausch et al. Malagnini V, Pedrazzoli F, Forno F, Komjane M, loriatti C (2007) Characterization of microsatel-
+lite loci in Cacopsylla melanoneura Foster (Homoptera: Psyllidae). Molecular Ecology Notes
+7, 495-497. Malagnini V, Pedrazzoli F, Gualandri V, Forno F, Zasso R, Pozzebon A, loriatti C (2010) A study
+of the effects of ‘Candidatus Phytoplasma mali’ on the psyllid Cacopsylla melanoneura
+(Hemiptera: Psyllidae). Journal of Invertebrate Pathology 103, 65-67
+
+Malagnini V, Pedrazzoli F, Papetti C, Cainelli C, Gualandri V, Pozzebon A, loriatti C (2013)
+Ecological and genetic differences between Cacopsylla melanoneura (Hemiptera, Psyllidae)
+populations reveal species host plant preference. PLoS One 8, e69663
+
+Marcone C, Jarausch B, Jarausch W (2010) ‘Candidatus Phytoplasma prunorum’, the causal agent
+of European stone fruit yellows: an overview. Journal of Plant Pathology 92, 19-34. Martini M, Ermacora P, Falginella L, Loi N, Carraro L (2008) Molecular differentiation of
+“Candidatus Phytoplasma mali’ and its spreading in Friuli Venezia Giulia region (North-East
+Italy). Acta Horticulturae 781, 395-402. Mattedi L, Forno F, Cainelli C, Grando MS, Jarausch W (2008) Research on ‘Candidatus
+Phytoplasma mali’ transmission by insect vectors in Trentino. Acta Horticulturae 781,
+369-374. Mayer CJ, Gross J (2007) Different host plant odours influence migration behaviour of Cacopsylla
+‘melanoneura (Forster), an insect vector of the apple proliferation phytoplasma. JOBC-WPRS
+Bulletin 30, 177-184. Mayer CJ, Vileinskas A, Gross J (2008a) Phytopathogen lures its insect vector by altering host
+plant odor. Journal of Chemical Ecology 34, 1045-1049. Mayer CJ, Vilcinskas A, Gross J (2008b) Pathogen-induced release of plant allomone manipulates
+vector insect behaviour. Journal of Chemical Ecology 34, 1518-1522. Mayer CJ, Jarausch B, Jarausch W, Jelkmann W, Vilcinskas A, Gross J (2009) Cacopsylla mela-
+noneura has no relevance as vector of apple proliferation in Germany. Phytopathology 99,
+729-738
+
+Mayer CJ, Vileinskas A, Gross J (2011) Chemically mediated multitrophic interactions in a plant-
+insect vector-phytoplasma system compared with a partially nonvector species. Agricultural
+and Forest Entomology 13, 25-35. Mifiarro M, Somoano A, Moreno A, Garcia RR (2016) Candidate insect vectors of apple prolifera-
+tion in Northwest Spain. Springer Plus 5, 1240. Mittelberger C, Obkircher L, Oett! $, Oppedisano T, Pedrazzoli F, Panassiti B, Kerschbamer C,
+Anfora G, Janik K (2017) The insect vector Cacopsylla picta vertically transmits the bacterium
+“Candidatus Phytoplasma mali’ to its progeny. Plant Pathology 66, 1015-1021
+
+Monti M, Martini M, Tedeschi R (2013) EvaGreen real-time PCR protocol for specific ‘Candidatus
+Phytoplasma mali’ detection and quantification in insects. Molecular and Cellular Probes 27,
+129-136. Oettl S, Schlink K (2015) Molecular identification of two vector species, Cacopsylla melanoneura
+and Cacopsylla picta (Hemiptera: Psyllidae), of apple proliferation disease and further com-
+mon psyllids of Norther Italy. Journal of Economic Entomology 108, 2174-2183. Ossiannilsson F (1992) The Psylloidea (Homoptera) of Fennoscandia and Denmark. Fauna
+Entomologica Scandinavica 26, 1-347. Ouvrard D (2017) PsyI'list - the world psylloidea database. http://www. hemiptera-datab:
+psyllist. Peccoud J, Labonne G, Sauvion N (2013) Molecular test to assign individuals within the Cacopsylla
+pruni complex. PLoS One 8, €72454. Pedrazzoli F, Gualandri V, Forno F, Mattedi L, Malagnini V, Salvadori A, Stoppa G, Ioriatti C
+(2007) Acquisition capacities of the overwintering adults of the psyllid vectors of ‘Candidatus
+Phytoplasma mali’. Bulletin of Insectology 60, 195-196. Pizzinat A, Tedeschi R, Alma A (2011) Cacopsylla melanoneura (Foerster): aestivation and over-
+wintering habitats in Northwest Italy. Bulletin of Insectology 64(Supplement), $135-S136. com/
+
+ 
+
+Springer Nature Singapore Pte Ltd. 2019
+
+3. Psyllid Vectors 77
+
+Poggi Pollini CP, Bissani R, Giunchedi L, Mori N, Dradi D, Visigalli T (2004) Detection of
+European stone fruit yellows phytoplasma (ESFYP) in Homoptera insects and in wild stone
+fruit trees collected in peach orchards in northern Italy. Acta Horticulturae 657, 513-518. Purcell AH, Nyland G, Raju BC, Heringer MR (1981) Peach yellow leaf roll epidemic in northern
+California: effects of peach cultivar, tree age, and proximity to pear orchards. Plant Disease
+65, 365-368. Raddadi N, Gonella E, Camerota C, Pizzinat A, Tedeschi R, Crotti E, Mandrioli M, Bianco PA,
+Daffonchio D, Alma A (2011) ‘Candidatus Liberibacter europaeus’ sp. nov. that is associated
+with and transmitted by the psyllid Cacopsylla pyri apparently behaves as an endophyte rather
+than a pathogen. Environmental Microbiology 13, 414-426. Ramel ME, Gugerli P (2004) Epidemiological survey of European stone fruit yellows phytoplasma
+in two orchards in western Switzerland, Acta Horticulturae 657, 459-463
+
+Rid M, Mesca C, Ayasse M, Gross J (2016) Apple proliferation phytoplasma influences the pattern
+of plant volatiles emitted depending on pathogen virulence. Frontiers in Ecology and Evolution
+3, 152
+
+Sabaté J, Laviiia A, Batlle A (2016) Incidence and distribution of ‘Candidatus Phytoplasma pruno-
+rum’ and its vector Cacopsylla pruni in Spain: an approach to the epidemiology of the disease
+and the role of wild Prunus, Plant Pathology 65, 837-846
+
+Sauvion N, Lachenaud O, Genson G, Rasplus JY, Labonne G (2007) Are there several biotypes of
+Cacopsylla pruni? Bulletin of Insectology 60, 185-186. Sauvion N, Lachenaud O, Mondor-Genson G, Rasplus JY, Labonne G (2009) Nine polymorphic
+microsatellite loci from the psyllid Cacopsylla pruni (Scopoli), the vector of European stone
+fruit yellows. Molecular Ecology Resources 9, 1196-1199. Sauvion N, Calatayud P-A, Thiéry D eds (2017) Insect-plant interactions in a crop protection per-
+spective. In: Insect-Plant Interactions in a Crop Protection Perspective. Advances in Botanical
+Research, Vol 81, Elsevier, Amsterdam, The Netherlands, 406 pp. Soroker V, Talebaev S, Harari AR, Wesley SD (2004) The role of chemical cues in host and
+mate location in the pear psylla Cacopsylla bidens (Homoptera: Psyllidae). Journal of Insect
+Behavior 17, 613-626. Steffek R, Swen Follak S, Sauvion N, Labonne G, MacLeod A (2012) Distribution of ‘Candidatus
+Phytoplasma prunorum’ and its vector Cacopsylla pruni in European fruit growing areas: a
+literature survey. EPPO Bulletin 42, 191-202. Tedeschi R, Alma A (2004) Transmission of apple proliferation phytoplasma by Cacopsylla mela-
+noneura (Homoptera: Psyllidae). Journal of Economic Entomology 97, 8-13
+
+Tedeschi R, Alma A (2006) Fieberiella florii (Homoptera: Auchenorthyncha) as a vector of
+“Candidatus Phytoplasma mali’. Plant Disease 90, 284-290. Tedeschi R, Nardi F (2010) DNA-based discrimination and frequency of phytoplasma infection in
+the two hawthom-feeding species, Cacopsylla melanoneura and Cacopsylla affinis, in north-
+western Italy. Bulletin of Entomological Research 100, 741-747. Tedeschi R, Bosco D, Alma A (2002) Population dynamics of Cacopsylla melanoneura
+(Homoptera: Psyllidae), a vector of apple proliferation phytoplasma in northwestern Italy. Journal of Economic Entomology 95, 544-551. Tedeschi R, Visentin C, Alma A, Bosco D (2003) Epidemiology of apple proliferation (AP) in
+northwestern Italy: evaluation of the frequency of AP-positive psyllids in naturally infected
+populations of Cacopsylla melanoneura (Homoptera: Psyllidae). Annals of Applied Biology
+142, 285-290. Tedeschi R, Ferrato V, Rossi J, Alma A (2006) Possible phytoplasma transovarial transmission in
+the psyllids Cacopsylla melanoneura and Cacopsylla pruni. Plant Pathology 58, 18-24. Tedeschi R, Lauterer P, Brusetti L, Tota F, Alma A (2009) Composition, abundance and phyto-
+plasma infection in the hawthorn psyllid fauna of northwestern Italy, European Journal of
+Plant Pathology 123, 301-310. Tedeschi R, Baldessari M, Mazzoni V, Trona F, Angeli G (2012) Population dynamics of
+Cacopsylla melanoneura (Hemiptera: Psyllidae) in Northeast Italy and its role in the apple
+proliferation epidemiology in apple orchards. Journal of Economic Entomology 105, 322-328. Springer Nature Singapore Pte Ltd. 2019
+
+78 B. Jarausch et al. Thébaud G, Yvon M, Labonne G, Alary R (2008) European stone fruit yellows: consequences of
+the life cycle of the vector and of the multiplication of the phytoplasma in the insect on the
+epidemiology of the disease. Acta Horticulturae 781, 423-428. ‘Thébaud G, Yvon M, Alary R, Sauvion N, Labonne G (2009) Efficient transmission of ‘Candidatus
+Phytoplasma prunorum’ is delayed by eight months due to a long latency in its host-alternating
+vector. Phytopathology 99, 265-273. Tomasi F, Branz A, Grando MS, Forno F, Forti D, Vindimian ME (2000) Individuazione di fito-
+plasmi del gruppo AP nelle psille presenti nei frutteti. Informatore Fitopatologico 38, 51-54. Ulubas Serce C, Yvon M, Kaya K, Gazel M, Cengiz FC, Caglayan K, Sauvion N (2011) Survey
+on the presence of Cacopsylla pruni in Turkey: preliminary results. Bulletin of Insectology
+64(Supplement), S145-S146. Wartenberg M (2016) The schoolyard interactions of Earth's ecosystem. Frontiers Blog. https://
+blog.frontiersin.org/2016/1 1/30/the-schoolyard-interactions-of-earths-ecosystem (August 20",
+2017). Weintraub PG, Beanland L (2006) Insect vectors of phytoplasmas. Annual Revue of Entomology
+$1, 91-111. Weintraub PG, Gross J (2013) Capturing insect vectors of phytoplasmas. In: Phytoplasma:
+Methods and Protocols. Eds Dickinson MJ, Hodgetts J. Methods in Molecular Biology, vol
+938. Springer Science plus Business Media, New York, United States of America, 61~72 pp. Yvon M, Labonne G, Thébaud G (2004) Survival of European stone fruit yellows phytoplasma
+outside fruit crop production areas: a case study in southeastern France. Acta Horticulturae
+657, 477-481
+
+Springer Nature Singapore Pte Ltd. 2019

@@ -1,0 +1,2617 @@
+ISSN 1211-8788 Acta Musei Moraviae, Scientiae biologicae (Brno)
+ISBN 978-80-7028-391-2 96 (2) 2011: 105-154, 2012
+
+Jumping plant-lice (Hemiptera: Psylloidea) of the White Carpathians
+Protected Landscape Area and Biosphere Reserve (Czech Republic)
+
+IGOR MALENOVSKY! & PAVEL LAUTERER "?
+
+ 
+
+' Department of Entomology, Moravian Museum, Hviezdoslavova 29a, CZ-627 00 Brno,
+e-mail: imalenovsky@mzm.cz
+
+? e-mail: ento.laut@mzm.cz
+
+MALENOvSKY I. & LAUTERER P. 2012; Jumping plant-lice (Hemiptera: Psylloidea) of the White Carpathians Protected
+Landscape Area and Biosphere Reserve (Czech Republic). In: MALENOVSKY I, KMENT P. & KoNVICKA O. (eds. ): Species inventories of selected insect groups in the Bilé Karpaty Protected Landscape Area and
+Biosphere Reserve (Czech Republic). Acta Musei Moraviae, Scientiae biologicae (Brno) 96 (2) (2011):
+105-154. - A total of 85 species of jumping plant-lice (Hemiptera: Sternorrhyncha: Psylloidea) were recorded
+in the Bilé Karpaty Protected Landscape Area and Biosphere Reserve and a few closely adjacent localities
+(south-eastem Moravia, Czech Republic). Most of the records come from field surveys carried out in
+1998-2011, with some additional data based on literature and collection specimens. A complete list of all
+records from the area is supplemented by brief notes on the distribution, host plants and conservation status of
+each species. Bactericera lyrata Seljak, Malenovsky & Lauterer, 2008, Bactericera substriola Ossiannilsson,
+1992, and Cacopsylla albipes (Flor, 1861) are recorded here for the Czech Republic for the first time. The
+jumping plant-louse fauna of the Bilé Karpaty may be characterized as species-rich, comprising 65% of the
+Paylloidea species known to occur in the Czech Republic. As well as many widely distributed and generally
+common species, this also includes 17 species categorized in the Red List of threatened invertebrates of the
+Czech Republic. Especially noteworthy from the viewpoints of nature conservation and biogeography are some
+rare thermophilus species confined to sunny forest margins and / or dry grassland (Cacopsylla albipes, C.
+viburni (Low, 1876), Eryngiofaga lautereri Loginova, 1977, and Livilla radiata (Foerster, 1848), hygrophilous
+species inhabiting spring fens, wet meadows and shrubs along streams (Aphalara calthae (Linnaeus, 1761),
+Bactericera maura (Foerster, 1848), B. modesta (Foerster, 1848), B. substriola, Cacopsylla abdominalis
+(Meyer-Diir, 1871), and C. elegantula (Zetterstedt, 1840)), ruderal habitats (Bactericera lyrata and B. trigonica
+Hodkinson, 1981), and several orophilous / psychrophilous species largely restricted to floristically rich pastures
+and meadows in the central and north-eastern parts of the Bilé Karpaty Mts. (Craspedolepta sonchi (Foerster,
+1848), Trioza abdominalis Flor, 1861, T. cerastii (Linnaeus, 1758), T. chrysanthemi Low, 1878, T. dispar Low,
+1878, T. proxima Flor, 1861, and 7: schrankii Flor, 1861). Trioza agrophila Low, 1878, was known from the
+area only by deduction from findings of galls in the past and has not been confirmed in recent years. Three
+introduced species, Cacopsylla hippophaes (Foerster, 1848), Livilla variegata (Low, 1881), and Psylla buxi
+(Linnaeus, 1758), occur in the Bilé Karpaty PLA only in villages, on ornamental woody plants in gardens,
+parks, and cemeteries. Key words. Psyllids, Sternorrhyncha, faunistics, new records, nature conservation, White Carpathians,
+Moravia, Central Europe
+
+Introduction
+The jumping plant-lice, or psyllids (Hemiptera: Sternorrhyncha: Psylloidea), are a
+relatively small group of phytophagous insects that feed by sucking plant sap. The group
+includes some 190 species in central Europe, usually with narrowly restricted host-plant
+ranges (BURCKHARDT 2002). The jumping plant-louse fauna of the Czech Republic is
+
+105
+
+1. MALENovSKY & P. ​​LAUTERER
+
+fairly well-known; there is a tradition of investigating the group that goes back to the end
+of the 19th century (VONDRACEK 1957; LAUTERER 1984, 1998). Also taking into account
+some unpublished data from the collections of the Moravian Museum, Brno, 130 species
+of Psylloidea are currently known from the country (MALENOvskY ef al. 2011; Lauterer
+& Malenovsky, unpublished). Faunistic knowledge of the individual regions of the Czech
+Republic is, however, quite uneven. While there are fairly numerous data on the
+occurrence of Psylloidea, from southern and western Moravia in particular (e.g. LAUTERER 1991, 1994, 1995, 1998, 1999; MALENOVSKY ef al. 2011) and northern
+Bohemia (LAUTERER 2001, MALENOVSKY 2006), most other parts of the Czech lands
+remain poorly explored. A better knowledge of the distribution of individual species of
+Psylloidea may provide useful information for phytosanitary advisors and growers as
+some species are important vectors of phytoplasma diseases, particularly in fruit
+plantations (NAvRATIL ef al. 2004; BURCKHARDT & LAUTERER 2009; JARAUSCH et al. 2009; Tepescui et al. 2009; LupvikovA et al. 2010, 2011), as well as for nature
+conservationists, as many central European species are restricted to endangered habitats
+such as species-rich grasslands, wetlands and natural forests, thus being under threat of
+extinction (LAUTERER & MALENOVSkY 2005). The White Carpathians Protected Landscape Area and Biosphere Reserve (abbreviated to
+PLA hereafter) covers the Czech part of the White Carpathian Mts. [The White Carpathians]
+extending along the Czech-Slovak border in south-eastern Moravia. Due to its specific
+geology (largely based on calcareous flysch), relief and hydrology, favorable
+geographical situation, relatively warm climate, post-glacial history, as well as traditional
+land use, the Bilé Karpaty PLA constitutes a biodiversity hotspot in the Czech Republic;
+the area is particularly famous for its floristically rich semi-natural grasslands (KUCA ef
+al. 1992, MACKOVCIN & JATIOVA 2002, JONGEPIEROVA 2008, KONVICKA et al. 2012). Arich fauna of jumping plant-lice can thus be expected in this region as well. Hard
+data on the Psylloidea of ​​the Bilé Karpaty PLA have previously, however, been somewhat
+scarce. BAYER (1909, 1914) made a start with records of two species, Psyllopsis fraxini
+and Trioza proxima, based on galls found in the environs of Luhagovice. LANG (1945)
+reported Livia junci from spring fens on Studeny vrch Hill near Brezova / Sucha Loz. BaupyS (1966a, b) recorded three species, Cacopsylla pyri, Trioza cerastii and T. urticae,
+based on galls collected in the environs of Bojkovice, Banov, Nivnice and ValaSské
+Hats. HuBACEK (1979) published on records of galls of another three species,
+Psyllopsis fraxini, Eryngiofaga cf. lautereri and Trioza agrophila, from the environs of
+Blatniéka and Hluk (the latter two places are situated close to, but outside, the
+administrative borders of the current Bilé Karpaty PLA). Some additional data were
+acquired on a number of field trips made by Pavel Lauterer and helpers from the
+Department of Entomology, Moravian Museum, Brno in the course of the 1970s and
+1980s. These records were summarized for the subfamily Psyllinae by LAUTERER (1998,
+1999); records of other taxa from this period remain unpublished to date and are
+evaluated in the current paper. Igor Malenovsky initiated more extensive collecting
+activity throughout the Bilé Karpaty PLA in 1998, resulting in a profusion of data on
+additional species and localities. Some records have already been included in papers by
+MALENOVSKY (2001), LAUTERER & MALENOVSKY (2002) and MALENOVSKY & LAUTERER
+
+106 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+(2005b, c). General texts on the grassland Hemiptera of the Bilé Karpaty PLA have been
+compiled by KMENT & MALENOVSKY (2008) and LasTUvKa et al. (2008). This paper aims to provide a complete list of species of the Psylloidea recorded in
+the Bilé Karpaty PLA to date, based on data published in literature and, particularly, on
+evaluation of the prolific additional material collected in the course of recent surveys. Material and methods
+
+Most data included in the paper were collected in 1998-2011 by sweeping or direct
+search on host plants, A few specimens were found in Malaise-trap and light-trap
+samples. Voucher specimens for most records are deposited in the collections of the
+Moravian Museum, Brno, including those collected in 1979-1985 by Pavel Lauterer,
+which have been examined for this paper as well. The material comes from a total of 104
+collecting sites situated more or less throughout the Bilé Karpaty PLA (including some
+localities lying outside its current administrative borders, but close to them), although
+detailed data are still absent for some areas, particularly the environs of the towns of
+Bojkovice, Luhaéovice, and Slaviéin (see Fig. | and List of collecting sites). The nomenclature and classification of Psylloidea follows BURCKHARDT (2002,
+2008, 2011); the same sources, together with GeGecHKorI & LociNova (1990) and
+OSSIANNILSSON (1992), were used to extract brief accounts of the distribution and host
+plants of each species for the List of species section. The nomenclature of host plants is
+derived from Kusar et al. (2002). The conservation status of each psyllid species is
+categorized according to the Red List of threatened invertebrates of the Czech Republic
+(LAUTERER & MALENOVSKY 2005). The following abbreviations are used in the paper: NM - Nature Monument, NNR
+- National Nature Reserve, NR - Nature Reserve, PLA - Protected Landscape Area (all
+of these are the various categories and terms specified by the Czech system of legally
+protected natural areas, Act No. 114/1992 coll. ); LT - light trap, MT - Malaise trap; IM
+- Igor Malenovsky leg., JJ - Jan Jezek leg., JM - Jan Macek leg., KD - Katarina
+Devanova leg., KF - Karel Fajmon leg., MH - Michal Horsak leg., PB - Petr Baitaf leg.,
+PBz - Pavel Bezdétka leg., PC - Pavel Chvojka leg., PK - Petr Kment leg., PL - Pavel
+Lauterer leg., RJ - Radek Janieek leg. ; CR - critically endangered species, EN -
+endangered species, VU - vulnerable species, NT - near-threatened species (the latter
+four all categories derived from the Red List of threatened invertebrates of the Czech
+Republic; LAUTERER & MALENOVSKY 2005). List of collecting sites
+Each entry in the list of collecting sites is arranged as follows: number of locality,
+name of the nearest village or town, local name of the collecting site or name of the small-
+scale protected area (reserve) if appropriate, code of the field (in parentheses) in the
+faunistic and floristic grid mapping system of central Europe (EHRENDORFER & HAMANN
+1965, PRUNER & Mika 1996, each basic field divided into 16 subfields; KONVICKA et al. 2012), GPS coordinates, altitude, and habitat. Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 107
+
+10. MW
+
+12,
+
+13. 14. 15,
+
+16. 17. 18,
+
+19. 20. 21
+
+22. 23. 24. 25. 26. 21. 108
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Luhadovice (6872/6972); precise location of collecting sites unknown. Pozlovice, towards Horni Lhota (6872d1), ca. 350-400 m a.s.l, 49 ° 08’14 "N 17 ° 46'511" E;
+precise location of the collecting site unknown,
+
+Petriivka, U Petriivky NM (6872d4), 49 ° 06'35’N 17 ° 48’38 ”E, 360-400 m as.L; Moon
+meadows, pastures, forest margins. Valaiské Klobouky, Brumovska street - 0.4-0.7 km SE from town center (6874c1), 49 ° 08'06 "N
+18 ° 00'S0 "E, 380-400 m ass.L. ; mesic meadows and shrubs, gardens, ornamental and ruderal
+vegetation. ValaSské Klobouky, U Rybnikii ~ valley of an unnamed brook on NW slopes of Krilovec hill
+(6874c1), 49 ° 08’15’N 18 ° 01’16 ”E, 430-510 m a.s.l. ; shore vegetation around small ponds, alder
+carr, spruce monoculture forest. ValaSské Klobouky, Javoriivky NR (6874c1), 49 ° 0803 “N 18 ° 01’S7” E, 510-575 m a.s.L. ; Moon
+to wet meadows, spring fen, forest margins. ValaSské Klobouky, DobSend NM (6874c1), 49 ° 07'S5 ”N 18 ° 02’04" E, 525-580 m a.s.l. ; dry to
+mesic meadows, spring fen, spruce monoculture margin. Valaiské Klobouky, Brumovka (= Kloboucky potok) brook valley - SW slopes of Krélovec hill
+1.5 km SSE from town center (6874c1), 49 ° 07'47’N 18 ° 01/03 "E, 400-480 m a.s.l. ; meadows,
+spring fens, forest margins. ValaSské Klobouky, Na Nivich - 1.3 km SWW from the top of the Krilovec hill (6874c1),
+49 ° 07'48 "N_18 ° 01’25”, 555 m asl; spring fen, meadows, shrubs and trees, forest road
+vegetation. ValaSské Klobouky, Krilovec hill ~ main ridge and hilltop environs (6874c1 / c2), 49 ° 07'59 "N
+18 ° 02'01 "E, 570-650 m a.s.l .; spruce monoculture, forest glades. Poteé, Plosiny NR (6874c2), 49 ° 08 / 22’N 18 ° 03’42 ”E, 670-739 ma
+pastures, forest margins, forest glades. Valagské Klobouky, Bilé potoky NR (6874c3), 49 ° 07’01’N 18 ° 01’25 ”E, 380-500 ma.s .., month
+to wet meadows and pastures, spring fens, forest margins, forest undergrowth. Navojnd, Vrehy hill (6874c3), 49 ° 07'03 ”N 18 ° 02'13” E, 550-600 m a.s.L; spruce and beech
+forest undergrowth, glades. Brumoy, Uhligky (6874c3), 49 ° 06'16 ”N 18 ° 01’S7” E, 390-400 m a.s.l. ; mesic meadows
+NedaSoy, village (6874c4), 49 ° 06'33 ”N 18 ° 04'04” E, 410-430 m a.s.L; ruderal and brook-side
+vegetation, meadows and pastures,
+
+NedaSov, Jaloveova strait NR (687443), 49 ° 06’06 “N 18 ° 05’35” E, 580-650 m a.s.L. ; dry pastures,
+meadows, spring fens, forest margins. Nedaiov, Kaitoury NM (6874d3), 49 ° 06'52 ”N_18 ° 06'21” E, 610-660 m a.s.l .; dry to mesic
+meadows, solitary trees and shrubs, forest margins,
+
+NedaSov, Kaiti hill and Hrusové dolina valley (6874d3), 49 ° 06'23 "N 18 ° 06'35” E, 630-750 m
+as.L; meadows, pastures, meadow and forest spring fens. Luhagovice, Luhatovicka dolina valley (697242), 49 ° 05'18 "N 17 ° 44’26” E, 230-300 m as.ls
+forest margins, meadows
+
+Petriivka, Kladenka brook valley (6972b2), 49 ° 05’50 ”“ N 17 ° 48'53 ”E, 390 m a.s.L; alder carr. Bojkovice, town (6972d2), 49 ° 02 / 38’N 17 ° 48’22 ”E, 330-360 m as.l. ; ruderal vegetation. Rokytnice, Bukovina hill (6973a4), 49 ° 03’31 ”N 17 ° 53’31” E, 440-450 m; beech forest, clearings
+(locality cited as Slavigin-Hrédek na Vldrské drize in LAUTERER 1999). Popov, Havrankiiy brook brook valley (697362), 49 ° 05'29 "N 17 ° 57’50” E, 360-400 m as.Ls
+forest margins, meadows, pastures, streamside vegetation. Stitnd nad Vlati (6973b4); precise location of collecting sites unknown,
+
+Brumoy, Kloboucka street (6974a1), 49 ° 05’54 "N 18 ° 01'47" E, 350-400 m ass.l. ; dry to mesic
+sheep pastures
+
+Bylnice, Na Strézi (6974a1), 49 ° 04'40 "N 18 ° 00'30" E, 350-390 m a.s.L; dry grassland, shrubs. Bylnice, Byinitky - $ slopes of Tarandové hill towards Bylniéka brook (6974a2 / a4),
+49 ° 04'33 "N_18 ° 02/10" E, 360-530 m asl; streamside vegetation, pastures, dry to mesic
+meadows, birch stands (locality cited as Bylnice, Na Tatrich in LAUTERER 1998 and 1999),
+Bylnice, railway station environs (6974a3), 49 ° 04'05 ”N 18 ° 00'S3” E, 300 m asl; dry to wet
+ruderal vegetation, woody streamside vegetation along the Vlara river. ; moon to dry meadows,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+28. 29. 30. 31. 32. 33. 34. 34a. 35. 36. 37. 38. 39. 40. 4l. 42. 43. 45. 46. 47. 48. 49. 50. Sh. 52. 53. Jumping plant (Hemiptera: Psylloidea)
+
+Bylnice, Lazy NR and surrounding meadows on N slopes of Plaitava hill (6974a3), 49 ° 03 / 33’N
+18 ° 00'34 "E, 380-425 m a.s.l. ; moon to wet meadows, spring fens, forest margins. NedaSov, Na SalaSi (6974b1), 49 ° 05’41 ”N 18 ° 06'10" E, 500-600 ma.s.L. ; tall-sedge bed in beech
+forest, streamside vegetation. NedaSov, Pod Ciganem NM (6974b1), 49 ° 05’43 ”N 18 ° 05’26” E, 575-605 m a.s.l. ; month to wet,
+meadows and pastures, spring fen. Svaty Stépan, Nadiiti (6974c1), 49 ° 02'29’N 18 ° 02/14 ”E, 300-330 m a.s.L. ; broad-leaved forest,
+vegetation along forest brook, river shore. Sidonie, Vidrsky Priismyk pass (6974c2), 49 ° 01’53’N_ 18 ° 03/06 "E, 270 m asl; river shore
+vegetation [on the Czech-Slovak state border, near Horné Smie-Rybniky]. Noise, Kobyli head NM (7071a3), 48 ° 57’22 ”N 17 ° 31'31” E, 330-340 m a.s.L; dry grassland,
+forest glade, forest margins. Hluk, Babi hora NM (707124), 48 ° 57’23 ”N 17 ° 33’47’E, 320-330 m asl; fragment of dry
+grassland, shrubs. Nivnice (7071b2 / b4); precise location of collecting site unknown. Blatnitka, Milejovské louky meadows (707 1c), 48 ° 56'45 "N 17 ° 30'44” E, 270-295 mas.l; dry
+meadows, reed, shrubs. Blatnitka, Jasenova hill (7071 ¢ 2), 48 ° S6 / 16’N 17 ° 33/02 ”E, 270-400 m a.s.l. ; oak-hornbeam
+forest, meadows. Borgice u Blatnice, Borsicky brook brook valley (7071 ¢ 2), 48 ° 56'46’N 17 ° 34'04 ”E, 260-280 m
+a.s.l; ruderal and streamside vegetation, dry grassland, forest undergrowth. Meadow, Hlozi NR (7071 ¢ 3), 48 ° 54’39 “N 17 ° 30'26” E, 270-300 m a.s.L; dry grassland, shrubs. Homi Néméi, village (7071d1), 48 ° 55’42 ”N 17 ° 37’40’E, 330-350 m asl; ruderal and
+ornamental vegetation. Horni Néméi, Hornonéméansky haj forest (7071d1), 48 ° 55’02 ”N 17 ° 3743” E, 380-400 m a.s.1. ;
+oak-hornbeam forest. Korytna, Brezi (7071d2), 48 ° 55’32 ”N 17 ° 39’48” E, 400-450 m a.s.L. ; pastures, solitary trees and
+shrubs, forest margins. Suchoy, Kazivee brook valley (7071d3), 48 ° 54 / 14’N 17 ° 36'57 ”E, 480-550 m a.s.l. ; month to
+wet meadows, streamside vegetation. Hori Néméi, Drahy NR (707144), 48 ° 55’20’N 17 ° 38'13 ”E, 380-510 m a.s.l .; dry grassland,
+meadows and pastures, spring fens, solitary trees and shrubs, orchards. Homni Némii, Vinohrady (7071d4), 48 ° 55’19 “N 17 ° 38/35” E, 430-500 ma.s.L. ; intensively used
+cattle pasture. Homi Néméi, Upper Hill Hill (7071d4), 48 ° 54’60’N 17 ° 39'12 ”E, 550-590 m a ... forest road
+margin, broad-leaved forest. Horni Néméi, Lesné hill (7071d4 / 7171b2), 48 ° 53’54’N 17 ° 38’53 ”E, 550-690 m a.s.L; meadows
+and pastures, solitary shrubs and trees, forest margins
+
+Banov, Skalky hill (707242), 48 ° 58’52 ”N 17 ° 44’34E, 350-380 m a.s.l .; ruderal vegetation,
+fields, dry grassland, shrubs. Komita, Novy Dviir (7072b2), 48 ° 58’43 “N_ 17 ° 48’15” E, 480-500 m as.l; forest margins,
+meadow, roadside vegetation. Komiia, Lom Rasova NM (7072b2), 48 ° 58'34’N 17 ° 48’42 ”E, 540-570 m a
+sandstone quarry with pond, dry grassland, spring fen, solitary trees and shrubs
+Vapenice, Trstnd brook valley (7072b4), 48 ° 58’30 “N_ 17 ° 49’37” E, 430-500 m a.s.L; spruce
+forest monoculture, forest glades, streamside vegetation. Korytnd, village (7072c1), 48 ° 56’27 “N 17 ° 39'54” E, 290-300 m a.s.l; ornamental gardens. Koryiné, Lubné pond environs (7072cl), 48 ° 56’48’N 17 ° 40'51 "E, 320 m as.L; shore
+vegetation. Biezova, Kalébova NM (7072c2), 48 ° 56'22 ”N_17 ° 44’38” E, 500-550 m as.L; spring fen
+(including the material cited by LaNG (1945) from the site no. III: Sucha Loz - Studeny vreh
+hill; based on Lang’s indication that his collecting sites were small spring fens situated on the
+south-eastern slope of the Studeny vrch hill, he collected probably close to the current Kalébova
+NM). abandoned
+
+ 
+
+  
+
+ 
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+109
+
+34,
+
+56. 56. 57. 58. 59. 60. 61
+
+62. 63. 64. 65. 66. 67. 68. 69. 70. WL
+
+72. 73. 74,
+
+15. 16. 71. 8. 79. 80. 81. 110
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Strani, Hméarky NM and Zabka reservoir surroundings (7072c3), 48 ° S4’32 ”N_17 ° 40'34" E,
+440-500 m as.l. ; dry to mesic meadows, spring fen, disturbed wetland vegetation on resevoir
+shores, solitary trees and shrubs, forest margins, forest road. Strni, Obecnice hill (7072c3), 48 ° 54’51 ”N 17 ° 40'55E, 530-550 ma.s.L. ; dry, intensively used
+sheep pasture, shrubs. Strini, village (7072c3), 48 ° 54’13 ”N 17 ° 42 / 06’E, 400 m a.s.L. ; ornamental vegetation. Strini, Dibrava hill (7072c4), 48 ° 55'05’N, 17 ° 43’29 ”E, 540-550 m a.s.l. ; forest glade. Lopenik, U Zvonice NM (7072d1), 48 ° 56’25’N 17 ° 47'12E, 630-670 m a.s.l. ; month to wet
+meadows, spring fens, solitary trees and shrubs, small woods
+Lopenik, Lopenické sedlo (7072d2), 48 ° 5613 ”N 17 ° 48’04” E, 700-720 m a.s.l. ; cattle pasture,
+spring fen, solitary trees and shrubs,
+
+Lopenik, Mikuléin vreh hill (7072d2), 48 ° 56'40’N 17 ° 48’26 "E, 700-790 m a.s.l. ; beech forest,
+spruce monoculture, forest glade. Zitkovi, Huté NR (7073a2), 48 ° 59’24’N 17 ° 54’21 ”E, 460 m a.s.L. ; meadow spring area, mesic
+meadow. Vapenice, Kratkovsky potok brook valley (7073a3), 48 ° 58'04’N_17 ° 50’42 ”E,
+streamside vegetation. Stary Hrozenkov, Skalka (= Hrozenkovsky lom) quarry (7073a3), 48 ° 58'22 ”N_17 ° 52/12” B,
+550-580 m asl; dry grassland, forest margins, dry to wet ruderal vegetation in abandoned
+basalt quarry. Stary Hrozenkov, Hrozenkov Terraces (707343), 48 ° 58'15 ”N 17 ° 51’51” E, 470-550 m as.ls
+apple orchard grazed by cattle, shrubs, disturbed spring fens. Vyskovec, VySkovecké BoSatky (7073c1), 48 ° 55’52’N 17 ° 49'55 "E, 550 m as.l; dry cattle
+pasture, mesic meadows, orchard. Vyskovec, Pod Hriboviiou NM (7073c1), 48 ° 55’58’N_17 ° 50'43 ”E, 550-640 m as.L; Moon
+meadows and pastures, shrubs, small woods. VySkovee, Ve Viti NR (7073c1), 48 ° 55’46’N 17 ° 51’25 ”E, 600-700 m as.l; dry to mesic
+meadows, forest margins, small woods
+
+Radgjov, Zerotin NM (7169b4), 48 ° 51’44 ”N 17 ° 19/34” E, 290-320 m asl; dry gra
+thermophilous oak forest, solitary trees and shrubs, spring fen, fields. Knézdub, village (7170a2), 48 ° 53 / 14’N 17 ° 23'59 "E, 190 m as.L. ; omamental vegetation. Radgjoy, village (717043), 48 ° 51’44’N 17 ° 20/21 ”E, 236 m as.l. ; orchards, gardens, ornamental
+vegetation. Radgjov, Holy hill hill (7170a3), 48 ° 51’03 ”N 17 ° 20/01” E, 280-380 m a.s.L; ruderal grassland,
+forest margins,
+
+KnéZdub, Knézdubsky haj forest (717024), 48 ° 52’14 ”N 17 ° 24’31" E, 270-350 m a.s.l. ; oak and
+hornbeam forest, forest margins. Radgjov, Ludina (717024), 48 ° 51'46 "N 17 ° 2345” E, 300 m a.s.L; floodplain woodland, shrubs
+and trees, nitrophilous vegetation along brook and around pond. Kné # dub, Certoryje NNR - Jarkovec brook valley (7170a4 / c2), 48 ° 51/18 "N_17 ° 24’44” E,
+320-440 m as.l. ; dry to wet meadows, spring fens, solitary trees and shrubs, forest margins. Knézdub, Certoryje NNR ~ Rad & jovka brook valley (7170b3), 48 ° 51’38’N_ 17 ° 25’43 ”E,
+350-440 m a.s.1; mesic to wet meadows, solitary trees and shrubs, streamside vegetation,
+Mala Vrbka, Vyzkum hill (7170b3), 48 ° 5203’N 17 ° 26’27 "E, 350-430 m as.L., restored
+grassland on arable land, disused fields, ruderal vegetation, forest margins. Mala Vrbka, village (7170b3), 48 ° 52 / 09’N 17 ° 27'33 ”E, 280 m a.s.l. ; ormamental gardens. Hrubé Vrbka, football ground (7170b4), 48 ° 5207 ”N 17 ° 28’08” E, 260 m as.l; month to dry
+ruderal vegetation, windbreaks. Hruba Vrbka, village (7170b4), 48 ° 52’13 ”N 17 ° 28'49” E, 260 m a.s.L. ; ornamental vegetation. Radajov, Mésiéni tdoli valley (7170c1), 48 ° 50/28 "N_ 17 ° 2054” E, 280-330 m a.s.L; forest
+margins, streamside vegetation, meadows. Radgjov, Veselka hill (7170c1 / e2), 48 ° 50'31 ”N 17 ° 22'38” E, 300-495 m a.s.L. ; oak and hornbeam
+forest. 0 m asl;
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+sland, open
+
+  
+
+ 
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+   
+  
+ 
+
+20kn
+
+x
+
+8
+
++
+
+10
+
+    
+
+%
+
+Luhagovice,
+
+FIG. 1. Simplified map of the Bilé Karpaty PLA with the location of the collecting sites studied. Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 an
+
+112
+
+82. 83. 84,
+
+85. 86. 87. 88. 89,
+
+90. OL
+
+92. 93. 94. 95. 96. 97. 98. 99. 100. 101
+102 1. MALENovSKY & P. ​​LAUTERER
+
+Radéjov, Kiitky NR (7170c2), 48 ° 49'58’N_ 17 ° 23’13 ”E, 350-480 m as.l. ; mesic meadows,
+spring fens, forest margins. Velké nad Veli ¢ kou, village (7171al), 48 ° 52’S1 ”N_ 17 ° 30'S8” E, 290-330 m asl; ruderal
+vegetation, orchards and ornamental gardens. Velké nad Veliékou, Zahrady pod Hajem NNR (7171al), 48 ° 52/58 "N 17 ° 31/52” E, 300-480 m
+as.l; dry grassland, meadows, orchards, small fields, solitary trees and shrubs, forest margins. Suchov, Suchovské Mljny (717142), 48 ° 53'03’N 17 ° 34’16 "E, 360-380 m as.l; dry sheep
+pastures, mesic meadows, spring fen, streamside vegetation. Suchov, Trovsky Mlyn (7171a2), 48 ° 53'44’N 17 ° 34’46 "E, 440-450 m as.l; dry sheep
+pastures, mesic meadows. Velka nad Velitkou, towards Javornik (717143), 48 ° 5222 / N 17 ° 31'8 ”E, 330-390 m as.l;
+meadows. Javornik, village (717143), 48 ° 51’51 ”N 17 ° 31’55” E, 310-320 m a.s.L; ruderal and ornamental
+vegetation. Javornik, SW slopes of Haj hill (7171a3), 48 ° 52’06 "N_17 ° 32’10" E, 260-300 m a.s.l. ; dry
+grassland, meadows. Javornik, Nad Vapenkou NM (717143), 48 ° 51’40’N 17 ° 31’19 ”E, 360 m asl: dry grassland,
+shrubs. Javornik, loampit W of village (proposed as Javornik-hlinik NM) (7171a3), 48 ° 51’43 ”N
+17 ° 30'59 ”E, 350-390 m a.s.l. ; abandoned loampit, dry grassland, spring fen, ruderal vegetation,
+shrubs, railway embankment. Javornik, Jazevéi NNR (717124), 48 ° 52/19 "N 17 ° 33'42” E, 340-475 m as.l; mesic to dry
+meadows, spring fens, solitary trees and shrubs, forest margins, small woods. Javornik, Petruchovy Mlyny (717124), 48 ° 52 / 00’N 17 ° 33 / 07E, 370 m as
+meadows, cattle pasture
+
+Nova Lhota, Fojtické Mlyny (7171b1), 48 ° 52 / 44’N 17 ° 36’32 ”E, 440-480 m a.s.l. ; meadows. Nova Lhota, Vapenky, Porazky NNR (7171b1 / b2), 48 ° 53’08’N 17 ° 37’24 ”E, 550-640 m asl;
+meadows, forest fringes. Nova Lhota, Vapenky, Velitka brook valley towards Mt Velka Javotina (7171b4), 48 ° 52’04 ”N
+17 ° 38'43 ”E, 470-900 m a.s.l. ; streamside vegetation, beech forest. Javornik, Machova NR (717Icl), 48 ° 49’47 “N 17 ° 31’56” E, 380-575 m a.s.l. ; meadows, spring
+fens, solitary trees and shrubs, forest margins. Javornik, Research Hill - W and SW slopes (7171 ¢ 1), 48 ° 50'15’N 17 ° 32'04 ”E, 460-500 m a.s.
+meadows, shrubs. Strani, Zéhumenice NM (7172a1), 48 ° 53’40N 17 ° 4109 ”E, 450-510 m a.s.L; month to wet
+meadows, cattle pasture, forest margins, small woods. Strini, Nova hora NR (7172a2), 48 ° 53’23 ”N 17 ° 43’34” E, 400-490 m a.s.l. ; mesic meadows,
+forest margins. Strani, Kvétnd, village (717242), 48 ° 53’11 ”N 17 ° 43'06” E, 350 m a.s.L. ; ornamental gardens. Strani, Javorina NNR (717243), 48 ° 51’32 ”N_ 17 ° 40'33” E, 830-970 m_a.s.l. ; submontane
+meadow, beech and ravine forests, forest glades. 5 dry to mesic
+
+ 
+
+   
+
+  
+
+ 
+
+ 
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Annotated list of species
+
+All material examined for each species is listed with individual records ordered
+according to the number of the collecting site. Each record is arranged as follows: name
+of the collecting site and its number (in parentheses), date (s) of collection (s), number of
+specimens, and collector (s). For previously published records, only name and number of
+the collecting site are given; other details of these records can mostly be found in the
+corresponding papers. Family PSYLLIDAE
+Aphalara avicularis Ossiannilsson, 1981
+
+Published records. MaLeNovsk ¥ (2001): Knézdub, Certoryje NNR (74, 75). Additional material examined. ValaSské Klobouky, Brumovska street (3), 9.ix.1999, 2 3 @ 1 2, IM. Nedatov,
+Jaloveova strait NR (15), 3.vii.1999, 1 @, IM, Byinice, railway station environs (27), 11.ix.1999, 2 32, IM. BorSice u Blatnice, Borsicky potok brook valley (37), 16.viii.1984, 8 22, PL. Horni Néméi, Vinohridky
+(44), 13.viii.2001, 1 3, IM. Binoy, Skalky hill (47), 21.viii, 1984, many 32 99, PL. Komiia, Novy Dvir (48),
+21.vili.1984, 4 32 3 QQ, PL. Lopenik, Lopenické sedlo (59), April 27, 2004, 1 2; 25.ix.2004, 3 Sd 2 29;
+May 21, 2005, 1 Q; all IM. Rad & jov, Zerotin NM (68), 11.vii.1998, mana 33 99, IM. Mala Vrbka, Research hill
+(76), 17.iv.2000, 8 33.3 993 27.vii.2000, 2 34 2 9H; 2.2001, 2 843 2.vi.2001, 1B; 20.ix.2001, 1
+2; all IM & PK, Hrubé Vrbka, football ground (78), 20.ix.2001, 4 9, IM. Velka nad Veliékou, village (83),
+22.x.2000, 1, IM. Javornik, Petruchovy Mlyny (93), Feb. 23, 2001, 1 2; 7.ix.2002, 1G; both IM. Javornik,
+Machova NR (97), 9.vii.1998, | @ 2.29, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread throughout the area
+and locally common in trampled places, along roads and paths, in fields, and dry ruderal
+sites, General distribution: European. Host plants: Polygonum aviculare agg. Red List
+status: -
+
+Aphalara calthae (Linnaeus, 1761) (VU) (Fig. 2)
+
+Material examined. Valaiské Klobouky, Javoriivky NR (5), 22.v.1999, 1d 1 2, IM. ValaSské Klobouky, Bilé
+streams NR (11), 19.v.1999, 1 9, IM. NedaSov, Kaitir hill and Hrusova dolina valley (17), 20.v.1999, 1 3;
+3.vii.1999, 1 9, IM
+
+Distribution and frequency in the Bilé Karpaty PLA: Associated with spring fens at
+relatively cool sites in the north-eastern part of the area, rare. General distribution:
+Palaearctic. Host plant: Cal / tha palustris. Red List status: Vulnerable. Comments. Aphalara calthae is currently a quite rare species in the Czech Republic that
+has been recorded from wet meadows e.g. in northern and central Moravia and the
+Jizera Mountains and KrkonoSe Mts. in northern Bohemia (LAUTERER 1963, 1981, 2001). Aphatara exilis (Weber et Mohr, 1804)
+
+Material examined. ValaSské Klobouky, Javoriivky NR (5), 22.v.1999, 1 9; 11.ix.1999, 1 «
+ValaSské Klobouky, Brumovka brook valley (7), 9.ix.1999, 1, IM. Valaiské Klobouky,
+9.ix.1999, 1 9, IM. NedaSoy, Jaloveova strait NR (15), 16.viii.2006, 2 29, PK. NedaSov, Pod Ciginem NM
+(30), 1.ix.2004, 1 9, IM. Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 113
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Distribution and frequency in the Bilé Karpaty PLA: Restricted to wet meadows and
+pastures in the north-eastern part of the area, uncommon. General distribution: West
+Palaearctic. Host plant: Rumex acetosa. Red List status:
+
+ 
+
+Aphalara freji Burckhardt et Lauterer, 1997
+= Aphalara polygoni auct. nec Foerster, 1848
+
+Published records. MALENOVSKY (2001): Kné2dub, Certoryje NNR, Jarkovee brook valley (74). Additional material examined. Valasské Klobouky, U Rybnikti (4), 10.ix.1999, 2. 99, IM. Wallachian
+Hats, Kralovec hill (9), 13.ix.1999, 1 @ 1 9, IM. Vala’ské Klobouky, Bilé potoky NR (11), 9.ix.1999,? 1
+2, IM. Bylnice, railway station environs (27), 11.ix.1999, 1 @ 3 29, IM. Sidonie, Viarsky prism pass (32),
+12.ix.1999, 7 oo 9 99, IM. Horni Néméi, Drahy NR (43), 21.vii.2002, 1 ¢, IM. Stary Hrozenkov,
+Hrozenkovské terasy (64), 2.vii.2007, 22 99, IM. Mala Vrbka, Vyzkum hill (76), 28.vii.2001, 23 22, IM. Velké nad Velitkou, Zahrady pod Hajem NNR (84), 13.vii.1998, 1 3 3 22, IM. Stréni, Javorina NNR (102),
+29.x.2011,2 34 22, IM
+
+      
+
+ 
+
+   
+
+ 
+
+Distribution and frequency in the Bilé Karpaty PLA: Scattered throughout the area on
+shores of standing and running water, in ditches along roads, and in wet ruderal sites;
+overwintering specimens were found also at the highest elevations on the top of Mt Velké
+Javoiina. Identification of some females is uncertain. General distribution: West
+Palaearctic. Host plants: Persicaria spp. (P. amphibia, P. hydropiper, P. lapathifolia, P.
+maculosa, and P. tomentosa). Red List status:
+
+ 
+
+Aphalara maculipennis Low, 1886
+
+Published records. MALENOVSKY (2001): Kné2dub, Certoryje NNR (74, 75) ..
+
+Additional material examined. Valaiské Klobouky, U Rybnikii (4), 10.ix.1999, 1 3, IM. Mala Vrbka, Research
+hill (76), 2 May 2001, 1 2; 20.ix.2001, 1 3; all IM & PK. Velké nad Velitkou, village (83), 28 iv.2000, 1 3.299,
+IM. Javornik, Jazevéi NNR (92), 6.v.2000, 1 9, IM. Strini, Javorina NNR (102), 29.x.2011, 4 32 99, IM. Distribution and frequency in the White Carpathians PLA: Probably widespread
+throughout the area but uncommon. On shores of standing and running water, in ditches
+along roads, and in wet fields; overwintering specimens were found also at the highest
+elevations on the top of Mt Velka Javorina. General distribution: Palaearctic. Guest
+plants: Persicaria amphibia, P. lapathifolia, and P. tomentosa. Red List status: -
+
+Aphalara polygoni Foerster, 1848
+= Aphalara rumicicola Klimaszewski, 1966
+
+Material examined, Valaiské Klobouky, Javoriivky NR (5), 11.ix.1999, 22
+NM (30), 28.vii.2005, 1, IM. Limestone, Trstnd brook valley (50), 6.vii.2001,
+Lopenik, Mikuléin vrch hill (60), 24.vii.2005, 1 4 2 99, IM. @, IM. NedaSov, Pod Ciginem
+3 11 29, IM & PK. Distribution and frequency in the Bilé Karpaty PLA: Recorded only for the central
+and north-eastern parts of the area, rare. In forest glades and wet meadows, usually on
+
+114 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+acidic substrates. Identification of some females is uncertain. General distribution:
+European. Host plants: Rumex acetosa, R. acetosella, and R. scutatus. Red List
+status:
+
+Comments. Partly because of its critical taxonomy (see OSSIANNILSSON & JANNSON 1981,
+OsSIANNILSSON 1992, BURCKHARDT & LAUTERER 1997a), Aphalara polygoni has been a
+poorly documented species in the Czech Republic. The only previously published and
+confirmed finding for the country is from the Hruby Jesenik Mts. (LAUTERER 1993). Based on an unpublished material from the collections of the Moravian Museum, Brno,
+the species is, however, quite widespread in the country, although it probably occurs only
+locally in regions with acidic bedrock. Aphalara purpurascens (Hartig, 1841)
+
+ 
+
+Aphalara crispicola Ossiannilsson, 1987
+
+Material examined. Valaiské Klobouky, DobSend NM (6), 2.vii.1999, 3 3d 1 Q, IM. Valasské Klobouky, Bilé
+streams NR (11), 16.vi.2006, 2 32 4 92, IM. NedaSoy, Kahtr hill and Hrugova dolina valley (17), 20.v.1999,
+2d312, IM. Distribution and frequency in the Bilé Karpaty PLA: Recorded only for the north-
+eastern part of the area, rare. Associated with Rumex obtusifolius on forest roads and in
+wet pastures. General distribution: European. Host plants: Rumex aquaticus, R.
+conglomeratus, R. crispus, R. longifolius, and R. obtusifolius. Red List status:
+
+ 
+
+Bacopelma foersteri (Flor, 1861)
+
+Published records. LAUTERER (1998): Luhaéovice, Luhatovické dolina valley (18); Popov, Havrankiiv stream
+brook valley (22); Bylnice, ByIniéky (26); Komita, Novy Dvir (48); Rad & jov, Kuitky NR (82). MALENOVSKY
+(2001): Knézdub, Certoryje NNR (74, 75). jonal material examined. Valasské Klobouky, Brumovka brook valley (7), 30.vi.1999, 1 9, MH. ValaSské Klobouky, Bilé potoky NR (11), 16.vi.2006, 4 331 9; 11.vii.2006, 1 1 9; all IM. Bylnice, railway
+ns (27), 1.vii.1999, 1 ¢ 1 9, MH & PK, Blatniéka, Milejovské louky meadows (35), 11.vii.2009,
+8 3 8 29; 16.viii.2009, 1; all PB. Horni Néméi, Drahy NR (43), 30.vi.2001, 4 34-7 92, IM; 21.ix.2001,
+1, PK; May 23, 2002, 1 3 IM. Korytna, Lubna pond environs (52), 5.vii.2001, 2 92, IM. Brezova, Kalibova
+NM (53), 4.vii.2001, 2 ¢ o 3 99, IM. Strini, Hm @ irky NM and Zabka reservoir surroundings (54),
+10.vii.1998, 4 34 2 99, IM. Vapenice, Kratkovsky potok brook valley (62), 6.vii.2001, 1, IM & PK. Old
+Hrozenkov, Hrozenkov Terraces (64), 2.vii.2007, 2 3 2 29, IM. Radgjoy, Lugina (73), 14.vii.1998, 2321
+2; 17.vi.2000, 1 Q; all IM. Hruba Vrbka, football ground (78), 19.vi.2000, 2 22, IM & PK. Velka nad
+Veliékou, Zahrady pod Hjem NNR (84), 13.vii.1998, 2 29, IM. Nova Lhota, Vapenky, Velika brook valley
+Javorina (96), 12.vii, 1998, 7 3S IM, Javornik, Machova NR (97), 9.vii.1998, 2 3 ¢
+3 29, IM. Strini, Zéhumenice NM (99), 2.vii.2001, 1 °, IM. Distribution and frequency in the White Carpathians PLA: Widespread and common
+throughout the area in the vicinity of running or standing water and in wet grassland and
+spring fens. General distribution: Palaearctic. Host plants: Alnus glutinosa and A.
+incana. Red List status:
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 115
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Cacopsylla abdominalis (Meyer-Diir, 1871) (EN) (Fig. 3)
+Material examined. Bylnice, railway station environs (27), 11.ix.1999, 1 9, IM. Distribution and frequency in the Bilé Karpaty PLA: Collected only from the
+streamside vegetation of the Vlara river in the north-eastern part of the area. General
+distribution: Europe (except Scandinavia), Caucasus, Central Asia, Mongolia. Guest
+plants: Salix spp. (S. alba, S. aurita, S. caprea, S. elaeagnos, S. purpurea, and S.
+criminal). Red List status: Endangered. Comments. Cacopsylla abdominalis is a sporadic species in the Czech Republic that was
+collected only at three sites in central and south-eastern Moravia in the past 50 years
+(LAUTERER 1999). Usually, it is associated with Salix purpurea and S. viminalis but some
+other willow species have also been reported as hosts in literature (LAUTERER &
+BURCKHARDT 1997, LAUTERER 1999). Cacopsylla affinis (Low, 1880)
+
+Published records. LAUTERER (1982): Strani, Débrava hill (57); Kné # dub, Certoryje NNR (74, 75); Javornik,
+SW slopes of Haj hill (89). LaUTERER (1999): Hori Néméi, Hornonéméansky haj forest (40); Velka nad
+Veliékou, towards Javornik (87); Javornik, Research Hill (98). MALENovskY (2001): Kné2dub, Certoryje NNR
+(74, 75). Additional material exat ed, NedaSov, Kaioury NM (16), 17.vi.2006, 2 34 ’, IM. Brumov, Kloboucka street
+(24), 30.vi.2004, 1 3, IM. Bylnice, Na Strazi (25), May 16, 2006, $ 2, IM. Louka, HloZi NR (38), 24.iv.1999, 1
+31 2, MH. Homi Néméi, Drahy NR (43), 23.v.2002, 12 3G, IM. Lopenik, U Zvonice NM (58), 25.ix.2004,
+1 3, IM. Knézdub, Certoryje NNR, irkovec brook valley (74), 2.vi.2008, 1 <; 7.vi.2010, 1 1 9; all IM. Velké nad Veliékou, village (83), 28.iv.2000, 3 3, IM. Velké nad Veliékou, Zahrady pod Hajem NNR (84),
+18.iv.2000, 3 26.v.2005, 11 33 10 29, IM. Javornik, Petruchovy
+Mlyny (93), 24, all IM, Strani, Zahumenice NM (99), 23.v.2002, 1 4,
+IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and quite common
+on solitary hawthorn shrubs scattered in grassland and at sunny margins of scrub and
+small woods throughout the area. General distribution: European. Host plants:
+Crataegus spp. Red List status:
+
+ 
+
+Cacopsylla albipes (Flor, 1861) (Fig. 4)
+Material examined. Valasské Klobouky, Bilé potoky NR (11), I1.vii.2006, 1 4 99, IM. Distribution and frequency in the Bilé Karpaty PLA: Known only from one site in the
+north-eastern part of the area; collected at a sunny forest margin. General distribution:
+Europe (Austria, France, Germany, Great Britain, Italian mainland, Poland, Slovakia,
+Switzerland, and Ukraine), Caucasus. Host plants: Sorbus spp. (e.g. S. aria and S.
+torminal). Red List status: Not evaluated. Comments. Cacopsylla albipes is recorded here for the Czech Republic for the first time. In central Europe, it is generally a rare species confined to open woodland, often in hilly
+
+ 
+
+116 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+situations or mountains (LAUTERER 1965, Conci et al. 1993). In western Slovakia, C.
+albipes was recorded on Sorbus torminalis (LAUTERER 1965) which is a probable host
+plant also in the White Carpathians PLA. Cacopsylla ambigua (Foerster, 1848)
+
+Published records. LAUTERER (1999): Strini, Dibrava hill (57). MALENovskY (2001): KnéZdub, Certoryje
+NNR (74, 75). Additional material examined, Valasské Klobouky, Brumovska street (3), 19.v.1999, 4 3d 6 29,
+Valaiské Klobouky, U Rybnikii (4), 22.v.1999, 2 22, IM. Valasské Klobouky, Javortivky NR (5), May 22, 1999, 2
+38 3 29, IM. Valasské Klobouky, Brumovka brook valley (7), 19.v.1999, 1 3 1 Q, IM. Nedasoy, Jaloveova
+strait NR (15), 20.v.1999, 3 SG; 17.vi.2006, 1 41 9; all IM. Nedagov, Kafr hill and HruSova dolina valley
+(17), 20-.1999, 3 337 99, IM. Bylnice, railway station environs (27), 1.vii.1999, 1 9, MH & PK. Bylnice,
+Lazy NR and surrounding meadows on N slopes of Plaiiava hill (28), 21.v.1999, 2 33 7 99, IM. Korytné,
+Biezi (41), S.vii.2001, 1 3 2 99, IM. Horni Néméi, Drahy NR (43), 30.vi.2001, 4 2, IM. Horni Néméi, Lesné
+hill (46), 15.v.1998, 2 33 5 @Q, IM. Komita, Lom Rasova NM (49), 5.vii.2001, 1 2, IM. Vapenice, Trstna
+brook valley (50), 6.vii.2001, 1 2, IM & PK. Strini, Hrnvarky NM and Zabka reservoir surroundings (54),
+May 16, 1998, 2 33 2 29; 10.vii.1998, 5 34 5 2Q; all IM. Stary Hrozenkov, Skalka quarry (63), 2.vii.2007, 1 3
+1 9, IM. Vy8kovec, Ve VI & i NR (67), 22.v.2005, 5 Sat 1 2, IM. Rad & jov, Lugina (73), May 22, 2001, 2. 99, IM
+& PK. Suchov, Suchovské Mlyny (85), 6.v.2000, 1 J; 29.vi.2001, 2.4 IL IM. Javornik, loampit W of
+village (91), 24.v.2002, 3 3 1 2, IM. Javornik, Jazevéi NNR (92), 6.V.2000, 6 33 3 29; 19.vi.2000, 1 31
+9; all IM. Javornik, Machova NR (97), 14.v.1998, mana 33 99; 9.vii.1998, 1 Q; all IM. Stréni, Zéhumenice
+NM (99), 2.vii.2001, 2 Sat 12 99, IM; 23.v.2002, 1d 5 QQ, PK. Strini, Nova hora NR (100), 16.v.1998, 1 ¢
+19, IM. Distribution and frequency in the White Carpathians PLA: Widespread and common
+throughout the area. Usually associated with Salix caprea and S. cinerea in wet meadows
+and spring fens, in the vicinity of pools and ponds and in pioneer stands such as forest
+glades and abandoned quarries. General distribution: Palaearctic. Host plants: Salix
+spp. (S. aurita, S. caprea, S. cinerea, S. elaeagnos, S. glauca, S. lapponum, S.
+myrsinifolia, S. phylicifolia, and S. viminalis). Red List status:
+
+ 
+
+Cacopsylla brunneipennis (Edwards, 1896)
+
+Published records. MALENOVSKY (2001): Knézdub, Certoryje NNR (74, 75). examined, Valaiské Klobouky, Brumovska street (3), 19.v.1999, 2 34 10 99, IM. Valasské Klobouky, U Rybnikii (4), May 22, 1999, 1 3 2 29; 10.ix.1999, § 3d 1 Q; all IM. Valaéské Klobouky,
+Javoriwky NR (5), May 22, 1999, 3 3. 1Lix.1999, 4 22 4 2; all IM. Wallachian
+Hats, Dobsend NM (6), 22.v.1999, 2 327 99; 2.vii.1999, 2 3d; all IM. Valasske Klobouky, Brumovka
+brook valley (7), 19.v.1999, 5 22, IM; 30.vi.1999, 19, MH. Valasské Klobouky, Na Nivach (8), 9.ix.1999, 1
+Q, IM. Poteé, Ploséiny NR (10), 4.vii.1999, 2 99, IM; 13.ix.1999, 39 9 19, IM; 17.viii.2006, 2 29, PK. Valasské Klobouky, Bilé potoky NR (11), 19.v.1999, 1 3 6 22; 9.ix.1999, 5 22: 16.vi.2006, 2 29;
+11.vii.2006, 4 29; all IM. NedaSov, Jalovcova strait NR (15), 20.v.1999, 8 29; 3.vii.1999, 1 9; 5.x.2004, 1 3;
+17.vi.2006, 1 2; 12.vii.2006, 1 9; all IM. NedaSov, Kaitar hill and HruSova dolina valley (17), 20.v.1999, 1
+. IM. Bylnice, railway station environs (27), 21.v.1999, 2 22, IM. Bylnice, Lazy NR and surrounding
+meadows on N slopes of Plaitava hill (28), 21.v.1999, 2 33 6 99, IM. NedaSov, Pod Ciginem NM (30),
+28 May 2005, 3 SB 3 22, IM. Suchov, Kazivee brook valley (42), 15.v.1998, 6 92, IM. Horni Néméi, Drahy NR
+(43), 15.v.1998, several 3 & 29, IM. Homi Néméi, Lesné hill (46), 15.v.1998, 13 10 99, IM. Koma, Lom
+Rasova NM (49), 5.vii.2001, 1 9, IM. Strini, Hméirky NM and Zabka reservoir surroundings (54), 16.v.1998,
+
+     
+
+ 
+
+  
+      
+
+   
+
+ 
+
+     
+
+   
+
+  
+
+ 
+
+ 
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 117
+
+1. MALENovSKY & P. ​​LAUTERER
+
+238-2 29; 10.vii.1998, 1 3 3 QQ; all IM. Strani, Obecnice hill (55), 23.v.2002, 1 3 1 2, IM & PK. Lopenik,
+U Zvonice NM (58), 25.ix.2004, 1 <6 99, IM. Lopenik, Lopenické sedlo (59), 21.v.2005, 2 29, IM. Old
+Hrozenkov, Skalka quarry (63), 2.vii.2007, 3 9; 8.viii.2007, 13 99; all IM. VySkovec, VySkovecké Bosatky
+(65), 21v.2005, 19, IM. Vyskovee, Pod Hriboviiou NM (66), 21.v.2005, 2 22, IM. VySkovec, Ve Vidi NR
+(67), May 22, 2005, 19, IM. Velka nad Veliékou, Zahrady pod Hajem NNR (84), 14.v.1998, 1c, IM; 19.vi.2000,
+1 2, PK. Suchov, Suchovské Mlyny (85), 6.v.2000, 2 33 many 29, IM. Javornik, loampit W of village (91),
+24, v.2002, 1 9, IM. Javornik, Jazevéi NNR (92), 6 May 2000, 2. 3a 23 29, IM. Nova Lhota, Vapenky, Porizky
+NNR (95), 15.vii.1998, 5 3S 1 Q; 9.ix.1998, 1 Bs 28.x.2011, 1; all IM. Javornik, Machova NR (97),
+14.v.1998, many 3 ¢ 29; 8.v.2000, 3 3S 11 29; all IM. Strani, Zdhumenice NM (99), May 24, 2001, 1
+May 23, 2002, 1 3 2 99, PK. Strani, Nova hora NR (100), 16.v.1998, 1 1
+29.x.2011, 4.33.4 22, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and common on
+willows (mostly Salix caprea and S. cinerea) in various kinds of habitats throughout the
+area, from low to the highest elevations. General distribution: Eurosiberian. Guest
+plants: Salix spp. (S. aurita, S. caprea, S. cinerea, S. glauca, S. lanata, S. lapponum, S.
+myrsinifolia, S. pentandra, S. phylicifolia, 8. viminalis, and S. triandra * viminalis). Red
+List status:
+
+ 
+
+ 
+
+Cacopsylla crataegi (Schrank, 1801)
+
+Published records. LAUTERER (1999): Bylnice, Bylnice (26); Radgjoy, village (70); KnéZdub, Certoryje NNR
+(74, 75); Javornik, SW slopes of Haj hill (89). MALENovskY (2001): KnéZdub, Certoryje NNR (74, 75). Additional material examined. Valaiské Klobouky, Bilé potoky NR (11), 30.vi.1999, 1 3, PK. NedaSov,
+Kaiir hill and HruSova dolina valley (17), 20.v.1999, 1 2, IM. Bylnice, Na Strazi (25), 11.vii.2006, 2 33 3
+99, IM. Bylnice, Lazy NR and surrounding meadows on N slopes of Pléiava hill (28), 21.v.1999, 1 9, IM. Noise, Kobyli head NM (33), 24.viii.2002, 1 2, IM. Louka, Hlozi NR (38), 24.iv.1999, 1 2, MH. Horni Néméi,
+village (39), 15.v.1998, 1 3, IM. y .v.1998, 1 2, IM; 30.vi.1998, 13 2 29, IM
+& PK. Strani, Obecnice hill (55), 2.vii.2001, 2 3d, IM & PK. Lopenik, Mikul & in vreh hill (60), 25.ix.2004, 1
+3; 24.vii.2005, 1 3; both IM. Stary Hrozenkov, Skalka quarry (63), 2.vii.2007, 1, IM. Stary Hrozenkov,
+Hrozenkovské terasy (64), 2.vii.2007, 2 9, IM. Knéadub, Knézdubsky haj forest (72), 28.vii.2000, 1 9, IM
+& PK. Radgjov, Mésigni tidoli valley (80), 8.ix.1998, 1 3, IM. Velka nad Veliékou, Zahrady pod Hajem NNR
+(84), 14.v.1998, 3 SS 2 22; 13.vii.1998, 2 3d 7 29; 18.iv.2000, 8 34 4 29; all IM; 19.vi.2000, 3 22, PK;
+27.vii.2000, 1 3 2 29, IM. Suchov, Suchovské Mlyny (85), 23.vi.2004, 2 331 9, IM. Suchov, Trovsky Mlyn
+(86), April 23, 2004, $ 2; 27.vii.2005, 1 Q; all IM. Javornik, Nad Vépenkou NM (90), 9.vii.1998, 1d 12, IM. Javornik, Jazevéi NNR (92), 6 May 2000, 1 ¢ 2 29; 19.vi.2000, 2 99; all IM. Javornik, Petruchovy Mlyny (93)
+24.v.2002, 1 2; 23.vi.2004, 1 2; May 26, 2005, 1 3; all IM. Strini, Zahumenice NM (99), 2.vii.2001, 1 42 9
+IM & PK, Strani, Javorina NNR (102), 29.x.2011, 1 3 4 22, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and common on
+solitary hawthorn shrubs scattered in grassland, along hedgerows and forest margins
+throughout the area, Overwintering specimens were found also at the highest elevations
+on the top of Mt Velka Javorina (ca. 950 m). General distribution: Palaearctic. Guest
+plants: Crataegus spp. Red List status: -
+
+Cacopsylla elegantula (Zetterstedt, 1840)
+
+Material examined. Valasské Klobouky, U Rybnikii (4), 10.ix.1999, 2 Sat 2 29, IM. Valaiské Klobouky,
+Javoriivky NR (5), 11.ix.1999, | @ 3 29, IM. 118 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Distribution and frequency in the Bilé Karpaty PLA: Found only at two small
+adjacent sites in the north-eastern part of the area: on Salix caprea in a spring fen and as
+overwintering specimens on Picea abies at a forest margin: rare. General distribution:
+Palaearctic. Host plants: Salix spp. (S. aurita, S. cinerea, S. caprea, S, myrsinifolia, and
+S. phylicifolia). Red List status: -
+
+Comments. Cacopsylla elegantula is a psychrophilous species, absent from relatively
+warm areas of the Czech Republic (LAUTERER 1999). Cacopsylla hippophaes (Foerster, 1848)
+
+Published records. MALENOVSKY & LAUTERER (2005b): Velké nad Veli¢kou, village (83). ional material examined, Nedagov, village (14), 17.viii.2006, 1 2 99, PK. Mala Vrbka, village (77),
+000, 7 33 6 QO, IM & PK; 20.ix.2001, 2 99, IM. Distribution and frequency in the Bilé Karpaty PLA: An introduced species,
+restricted to ornamental vegetation and gardens in villages: rare (locally abundant). General distribution: Palaearctic. Host plant: Hippophaé rhamnoides. Red List
+status: -
+
+ 
+
+Cacopsylla mali (Schmidberger, 1836)
+
+Published records. LaureRer (1999): Luhavovice, Luhatovicka dolina valley (18); Stitna nad Vldti (23);
+Bylnice, Bylnitky (26); BorSice u Blatnice, Borsicky potok brook valley (37); Horni Néméi, Hornonéméansky
+haj forest (40); Komita, Novy Dviir (48); Strani, Dabrava hill (57); Rad & joy, village (70); Radgyov, Holy Hill
+hill (71); KnéZdub, NNR Certoria (74, 75); Radejov, Kiitky NR (82); Velka nad Velika, towards Javornik
+(87); Javornik, SW slopes of Haj hill (89); Nova Lhota, Fojtické Mlyny (94). MALENovsk ¥ (2001): Knézdub,
+NNR chambers (74, 75). Additional material examined. Petriivka, U Petrivky NM (2), 6.viii.1999, 5 PK. Valais
+Hats, Brumovska street (3), 9.ix.1999, 1 3; 13.ix.1999, LT, 1G; all IM. ValaSské Klobouky, Brumovka
+brook valley (7), 19'.1999, 3 3''1 @, IM; 30.vi.1999, man 3S 2 @, MH; 9ix.1999, many 3 29, IM. Pote ’, Plostiny NR (10), 13.ix.1999, 1 3 2 99, IM. Vala’ské Klobouky, Bilé potoky NR (11), 19.v.1999, 3 ¢
+4 29, IM; 9.ix.1999, many 3d 22, IM; 16.vi.2006, many Sat 92, IM; 11.vii.2006, many 33 22, IM;
+PK. NedaSov, village (14), 3.vii.1999, b IM; 17.viii.2006, 2 22, PK. Nedaov, Jaloveova strait NR (15), 20.v.1999, 1 9; 3.vii.1999,3 9 10.ix.1999, 5 32 11 92; May 12, 2006
+2 29; all IM. Nedaiov, Kaiioury NM (16), 17.vi.2006, mana 33 99, IM; 12.vii.2006, 5 Gd 3 29, IM;
+16.viii.2006, 5 33 8 22, PK. Brumov, Kloboucka street (24), 5.x.2004, 1 9; 28v.2005, 4 1d; all IM. Bylnice,
+Na Strazi (25), 16.vi.2006, mana 33 29, IM; 1.vii.2006, 1 3 5 99, IM; 18.viii.2006, 2 22, PK. Bylnice,
+railway station environs (27), 21.v.1999, 1 32 QQ, IM; 1.vii.1999, 2 3 6 99, MH & PK; 11.ix.1999, 5 32
+5 9, IM. Byinice, Lazy NR and surrounding meadows on N slopes of Platiava hill (28), 21.v.1999, 4
+2, IM; L.vii.1999, 1 G1, PK; 12.ix.1999, 4 3g 7 29, IM. Noise, Kobyli head NM (33), 24.viii.2002,
+3 19 29, IM. Horni Néméi, village (39), 13.viii.2001, 1 1 Q, PK. Korytné, Biezi (41), May 5, 2001, mana
+5 22, IM. Homi Némei, Drahy NR (43), 30vi.2001, 1 6 IM. Limestone, Trstn brook valley (50), 6vi.2001,
+IM & PK. Strani, Hr surroundings (54), 10.vii.1998, 4 335 Q
+IM. Strani, Obecnice hill (55), 2.vii.2001, 2 $ 3 3 99, IM. Lopenik, U Zvonice NM (58), 25.ix.2004, 3
+IM. Stary Hrozenkov, Skalka quarry (63), 2.vii.2007, mana 33 QQ; 8.viii.2007, 3 3d 5 QQ; all IM. Old
+Hrozenkov, Hrozenkov Terraces (64), 2.vii.2007, mana 33 22; 8.viii.2007, 5 SS 8 QO; 22.ix.2007, 2 3
+4 29; all IM. VySkovec, VySkovecké BoSatky (65), 21.v.2005, 1 3 3 99, IM. VySkovec, Pod Hriboviiou NM
+(66), 21v.2005, 19, IM. Kn &% dub, KnéZdubsky haj forest (72), 17.vi.2000, 1 ¢ 3 99, IM. Rad & jov, Lugina
+
+ 
+
+     
+
+ 
+
+ 
+
+   
+ 
+
+ 
+
+ 
+
+   
+
+  
+
+     
+ 
+
+   
+
+ 
+
+  
+  
+
+ 
+
+   
+
+    
+
+    
+
+  
+
+   
+
+  
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 119
+
+1. MALENovSKY & P. ​​LAUTERER
+
+(73), 14.vii.1998, mana 33 92; 20.ix.2001, 1 3; all IM. KnéZdub, Certoryje NNR (74, 75), May 22, 2000, 1 2,
+PK. KnézZdub, Certoryje NNR, Radéjovka brook valley (75), 12.viii.2008, 1 2, KD & KF. Mala Vrbka, Research
+hill (76), 18.vi.2000, 1 3, IM & PK. Mala Vrbka, village (77), 28.vii.2001, 1 3 5 29, IM. Radjov, Veselka
+hill (81), 11.vii.1998, 1 3, IM. Rad & jov, Kiitky NR (82), 11.vii.1998, 1 3, IM. Velka nad Velika, village (83),
+19.vi, 2000, 4; 29.vi.2001, 3 9d 1 9, IM. Velka nad Veliékou, Zahrady pod Hajem NNR (84),
+14.1998, 1; 13.vii1998, many 3 25 all IM; 19.vi.2000, mana 33 29, PK. Suchov, Suchovské Mlyny
+(85), 29.vi.2001, 532 6 2: 1.x.2004, 1 all IM. Javornik, Jazevéi NNR (92), 19.v.2000, mana 3S 2 °,
+IM; 18.viii.2000, mana Jd 99, PK; 10.ix.2000, 49 °, IM. Nova Lhota, Vapenky, Porizky NNR (95),
+9.ix.1998, 1 3, IM. Javornik, Machova NR (97), 14.v.1998, 1 3}; 9.vii.1998, 2 34; 8/8/2000, 4 33 7 29; all
+IM. Strani, Zahumenice NM (99), 2.vii.2001, mana ¢¢ 99, IM
+
+   
+
+   
+
+ 
+
+       
+
+ 
+
+Distribution and frequency in the White Carpathians PLA: Widespread and common
+throughout the area in orchards, on solitary apple trees in villages, meadows and pastures,
+and at forest margins, often dispersed more or less far from the hosts. General
+distribution: Palaearctic, introduced to North America, Australia and South Africa. Guest
+plants: Malus spp. Red List status:
+Comments. Cacopsylla mali is an occasional pest on cultivated apples, particularly in the
+organic and old deserted orchards (BLATTNY et al. 1943; LAUTERER 1999; LUDVIKOVA et
+al. 2010, 2011). Cacopsylla melanoneura (Foerster, 1848)
+
+Published records. LauTERER (1999): Knézdub, Certoryje NNR (74, 75); Radejov, Kiitky NR (82); Velka nad
+Veliékou, towards Javornik (87); Javornik, SW slopes of Hj hill (89); Javornik, Research Hill (98). Matenovsky (2001): Kné% dub, Certoryje NNR (74, 75),
+
+Additional material examined. Valaiské Klobouky, Brumovska street (3), 19.v.1999, 2. 3a 4 29, IM. Valaiské Klobouky, U Rybnikti (4), 10.ix.1999, 2 33 5 29, IM, Valaiské Klobouky, Javoriivky NR (3),
+22.v.1999, 2 33 1 Q; 2.vii.1999, 19 195 11.ix.1999, 5 3g 3 29: all IM. Valais Hats, Dobsend NM
+(6), 2.vii.1999, 3 32-2 YQ; 10.ix.1999, 3 Fa; all IM. Vala’ské Klobouky, Brumovka brook valley (7),
+19.v.1999, 7 33 2 99, IM; 30.vi.1999, 1, MH. Vala’ské Klobouky, Na Nivach (8), 9.ix.1999, mana 33 22,
+IM, Poteé, Ploséiny NR (10), 4.vii.1999, 2 29; 13.ix.1999, 3 Sat 4 99: 1.vi.2002, 1G; all IM, Wallachian
+Hats, White Streams NR (11), 9.ix.1999, 1 J 1 Q; 16.vi.2006, 1 1 9, IM; 11.vii.2006, 4 3é 2 99; all IM. Brumoy, Unhlitky (13), 28.v.2005, 1 9, IM. Nedagov, Jaloveova strait NR (15), 20.v.1999, 1 3 1 9, IM;
+16.viii.2006, 1 3, PK. NedaSov, Kaiioury NM (16), 17.vi.2006, 8 33 10 29, IM. NedaSov, Kafr hill and
+HruSova dolina valley (17), 20.v.1999, 1 2, IM. Bylnice, Na Strizi (25), May 16, 2006, 6 23, IM. Saint St & pan,
+Nadiidi (31), 21.v.1999, 1 3, IM. Blatni ¢ ka, Milejovské louky meadows (35), May 24, 2009, 1 ¢ 1 Q, PB. Upper
+Germany, Drahy NR (43), 15.v.1998, several 3 ° 22, IM; 30.vi.2001, 1 3, IM & PK; 23v.2002, 38 dd 6 29,
+IM & PK. Horni Néméi, Vinohradky (44), 23.v.2002, 1 2 29, IM. Strani, Obecnice hill (55), 2.vii.2001, 1
+2; 23.v.2002, 14 Ag 18 QQ; all IM & PK. Lopenik, U Zvonice NM (58), 25.ix.2004, 1 3, IM. Lopenil
+Lopenické sedlo (59), 27.vi.2004, 1 9; 25.ix.2004, 1 9; both IM. Lopenik, Mikuléin vreh hill (60), 25.ix.2004,
+$ 4 3 99, IM. WySkovec, Pod Hriboviiou NM (66), 21..2005, 2 99, IM. VySkovee, Ve VI & i NR (67),
+May 22, 2005, 1 @, IM. Radgjov, Ludina (73), 13.v.1998, several $ 3 29, IM. Kné2dub, Certoryje NNR (74, 75),
+22.v.2000, 1 33 29, PK. Mali Vrbka, Vyzkum hill (76), 25.v.2000, | @ 3 99; 17.iv.2000, 1; all IM. iéni tidoli valley (80), 8.ix.1998, 3 3a 5 QQ, IM. Velké nad Veli ¢ kou, village (83), 28.iv.2000,
++ IM. Velké nad Veli¢kou, Zahrady pod Hjem NNR (84), 14.x: 1998, mana 2; 18.iv.2000,
+all IM. Suchow, Suchovaké Mijny (85), 2 vi.2004, 1 3, IM, Javornik, loampit
+
+    
+
+   
+
+ 
+
+ 
+
+      
+
+   
+
+    
+
+ 
+
+        
+  
+
+ 
+
+     
+  
+
+ 
+
+ 
+
+Javornik, Petruchovy Mivny (93), oe 20023 531 2: 26..2005, |
+NNR (95), 15.vii.1998, If 1 9; 28.x.2011, 2 295 all IM. Maple
+
+QQ; 9.vii.1998, 1 2; 8.v.2000, 4 ogo 9 9. Zahumenice NM (99), 24.v.2001, 1 3 1 Q;
+20.vii.2002, 1 3; all IM. Strani, Javorina NNR (102), 29.x.2011, 17 33 10 22, IM. to IM. Nova Lhota, Vapenky, Porky
+k, Machova NR (97), 9.vii.1998, mana 3
+
+ 
+
+    
+
+120 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Distribution and frequency in the Bilé Karpaty PLA: Widespread and common on
+hawthorns in various kinds of habitats throughout the area. General distribution:
+Palaearctic. Host plants: Crataegus spp. and Malus spp. Red List status:
+
+ 
+
+Comments. Cacopsylla melanoneura is a potential vector of the apple proliferation
+phytoplasma on apple trees (TEDESCHI ef al. 2002). However, it seems to have a minor
+economic importance in central Europe (JARAUSCH ef al. 2009; MAYER et al. 2009;
+Lupvikova et al. 2010, 2011). Cacopsylla moscovita (Andrianova, 1948)
+Published records. LAUTERER (1999): Knézdub, Certoryje NNR (74, 75). Distribution and frequency in the Bilé Karpaty PLA: Known from a single female
+specimen collected in 1980 in the south-western part of the area. More material is needed
+to confirm the presence of C. moscovita in the Bilé Karpaty. General distribution:
+Palaearctic. Host plants: Salix spp. (S. caprea, S. cinerea, S. aurita, S. lapponum, and S.
+repens). Red List status: -. Cacopsylla peregrina (Foerster, 1848)
+
+Published records. LAUTERER (1999): Rokytnice, Bukovina hill (21); Bylnice, Bylnice (26); Borsice u
+Blatnice, Borsicky brook brook valley (37); Horni Néméi, Hornonéméansky haj forest (40); Banov, Skalky hill
+(47); Komia, Novy Dvir (48); Rad & jov, village (70); Radejov, Holy Vreh Hill (71); Knézdub, Certoryje NNR
+(74, 75); Rad & jov, Kiitky NR (82); Velka nad Velika, towards Javornik (87); Javornik, SW slopes of Haj hill
+(89); Nova Lhota, Fojtické Mlyny (94); Javornik, Research Hill (98). MALENovsk ¥ (2001): Knézdub, Certoryje
+NNR (74, 75). Additional material examined. Valaiské Klobouky, Brumovska street (3), 9.ix.1999, 10 9.9, IM. Valaéské
+Hats, U Rybnikii (4), 10.ix.1999, 1 2 29, IM. Vala8ské Klobouky, Javortivky NR (5), 2.vii.1999, 3 33
+1 Q; 11.ix.1999, 1 J 1 9; all IM. Vala’ské Klobouky, Dobsend NM (6), 10.ix.1999, 4 3, IM. Valaéské
+Hats, Brumovka brook valley (7), 30.vi.1999, 1 2, MH; 9.ix.1999, 4 99, IM. Valasske Klobouky, Na
+Nivach (8), 9.ix.1999, 5 3d 3 29, IM. Potet, Plostiny NR (10), 4.vii.1999, 16 3a 14 22, IM; 13.ix.1999, 3
+3S 3 22, IM; 1.vi.2002, 8 33.7 QQ, IM; 17.viii.2006, 1 3 7 22, PK. ValaSské Klobouky, Bilé potoky NR. (1), 30.3.1999, 6 33 1 28, PK; 9.ix.1999, 1 2, IM; 11.vii.2006, 1 2, IM. NedaSov, Jaloveova strait NR
+(15), 16.viii.2006, 1 3, PK. Nedagov, Kaiioury NM (16), 17.vi.2006, 16 32.9 9, IM; .2006, 22. 23
+2, PK. Bylnice, Na Strazi (25), May 16, 2006, man IM; 11.vii.2006, 2 IM; 18.viii.2006, 1
+GPK. Bylnice, railway station environs (27), 11.ix.1999, 1 2, IM. Svaty Stépan, Nadfiéi (31), May 21, 1999, 1 3,
+IM. Noise, Kobyli head NM (33), 24.viii.2002, 5 33 2 99, IM. Hluk, Babi hora NM (34), 24.viii.2002, many
+38 QQ, IM. Blatnigka, Milejovské louky meadows (35), 24.2009, 1 3, PB. Homi Néméi, village (39),
+15.v.1998, 2 33, IM. Korytna, Biezi (41), 5.vii.2001, mana $ 3 QQ, IM. Hori Néméi, Drahy NR (43). 15.v.1998, several 3 ¢ 99, IM; 10.ix.1998, many 3 ¢ 2 9; 30.vi.2001, 15 99; all IM; 21.ix.2001,2 33.6 29,
+PK; 23.v.2002, 8 $ d 10 29, IM & PK, Horni Néméi, Vinohradky (44), 21.ix.2001, 1 3, IM. Korytnd, Lubna
+pond environs (52), 5.vii.2001, 1 2, IM. Strini, Hrnéarky NM and Zabka reservoir surroundings (54),
+10.vii.1998, 1 3; 10.ix.1998, man 33 29; all IM. Strini, Obecnice hill (55), 24.v.2001, 1 2, IM; 2.vii.2001,
+1.3, IM; 23.v.2002, 70 33 69 92, IM & PK. Lopenik, Lopenické sedlo (59), April 27, 2004, 1 J; 25.ix.2004, 1
+25 24.vii, 2005, 1 9; all IM, Lopenik, Mikuléin vreh hill (60), 24.vii.2005, 2 32 1 9, IM. Stary Hrozenkov,
+Skalka quarry (63), 2.vii.2007, 3 3G 2 22; 8.viii.2007, 5 Qs 22.ix.2007, 2 Sd 2 QQ; all IM. Old
+Hrozenkov, Hrozenkov Terraces (64), 2.vii.2007, 2 99; 22.ix.2007, 1 Q; all IM. Rad & jov, Zerotin NM (68),
+I1.vii.1998, many 33 ’29, IM. Radgjov, Holy vreh hill (71), 8.ix.1998, 1 2, IM. KnéZdub, Kné2dubsky hij
+forest (72), 17.vi.2000, 5 29, IM; 28.vii.2000, 3 99, IM & PK. Radjov, Lugina (73), 13.v.1998, many oo
+
+ 
+
+ 
+
+ 
+
+ 
+      
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+   
+
+       
+
+ 
+
+ 
+
+     
+
+       
+
+   
+
+  
+
+   
+
+ 
+
+   
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 121
+
+1. MALENovSKY & P. ​​LAUTERER
+
+22; 14.vii.1998, 3 29; all IM. Knézdub, Certoryje NNR (74, 75), 22.v.2000, 1 3 4 9, PK. Knézdub,
+Certoryje NNR, Firkovec brook valley (74), 22vi.2008, 1 @ 1 @; 12.viii.2008, 13 3 26 99; all KD & KF,
+7.vi.2010, 1 2, IM. Mali Vrbka, Vyzkum hill (76), 25.v.2000, 1 3, IM; 18, vi.2000, 4 32 18 29, IM & PK;
+16.viii.2000, 1 9, PK. Rad & jov, Mésiéni tidoli valley (80), 8.ix.1998, man: IM; 20.viii.2002, 1 9, PK. Radgjov, Veselka hill (81), 11.vii.1998, 1 9, IM, Radjov, Kiitky NR (82), 11.vii.1998, 3 3d 3 9 1998,
+many id) QQ; all IM. Velké nad Veliékou, Zahrady pod Hajem NNR (84), 14.v.1998, mana 3d 29;
+13.vii.1998, many 33 all IM; 19.vi.2000, mana 3g 29, PK; 27.vii.2000, mana 33 99, 1
+1S.vil.2000, 1 3 2 2, PKG 9.-10.x.2000, § 3.3 22; IM. Suchov, Suchovské Mlfny (85), 23.vi.2004, 1
+1 ix.2004, 1 9; both IM. Suchov, Trnovsky Mlyn (86), 23.vi.2004, 1 ¢ '; 1.ix.2005, 1 9; both IM. Javornik, Ni
+Vapenkou NM (90), 9.vi.1998, 2 99, IM. Javornik, loampit W of village (91), 7.x.1998, many c
+24.v.2002, 2 3 6 99; all IM, Javomik, Jazevéi NNR (92), 15.vii.1998, | 31, IM; 19.vi.2000, many
+29, IM; 18.vi 2000, ee 29K: 10.ix.2000, many oo 29.vi.2001, ASS 4S 2. IM. Javornik,
+
+ 
+
+ 
+
+   
+
+       
+   
+ 
+
+     
+
+   
+
+       
+ 
+ 
+ 
+
+ 
+
+   
+ 
+   
+ 
+
+ 
+
++ 9.ix.1998, many 33 29;
+all IM. Nova Lhota, Vapenky, "Velika brook ve towards Mt Velké lavotina (96),
+3 22, IM. Javornik, Machova NR (97), 14.v.1998, mana 33 2.2; 9.vii.1998, mana 3
+
+9, IM & PK; 21.ix 2001, 2 3 ¢ 19, IM,
+
+     
+
+  
+
+4.vii.2001,2 33 10 29, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and common on
+hawthorns in various kinds of habitats throughout the area. Often dispersed more or less
+far from the hosts. General distribution: Palaearctic, introduced into North America. Host plants: Crataegus spp. Red List status: -. Cacopsylla picta (Foerster, 1848)
+
+= Cacopsylla costalis (Flor, 1861)
+
+Material examined. Valaiské Klobouky, Brumovka brook valley (7), 19.v.1999, 2 33, IM. Bylnice, Lazy NR
+and surrounding meadows on N slopes of Plaitava hill (28), 21.v.1999, 1 2, IM. Distribution and frequency in the Bilé Karpaty PLA: Recorded only for the north-
+eastern part of the area; on neglected apple trees around isolated cottages and haylofts,
+rare. General distribution: European. Host plants: Malus spp. Red List status:
+Comments. Cacopsylla picta is the main vector of the Candidatus Phytoplasma mali, the
+causal agent of the apple proliferation disease, in central Europe, including the Czech
+Republic (JARAUSCH et al. 2009; LuDviKOVA et al. 2010, 2011). Cacopsylla pruni (Scopoli, 1763)
+
+Published records. LAUTERER (1999): Radgjov, Kiitky NR (82). MALENovSkY (2001): Knézdub, Certoryje
+NNR (74, 75). Additional material examined. Valaiské Klobouky, Brumovska street (3), 19.v.1999, 3. 3 3. 29, IM. Vala’ské Klobouky, Javortivky NR (5), 11.ix.1999, 1d, IM. Vala8ské Klobouky, DobSena NM (6), May 22, 1999,
+1; 2.vii.1999, 1; 10.ix.1999, 1. 2 29; all IM. Vala’ské Klobouky, Na Nivach (8), 9.ix.1999, 3 34 12,
+IM, Poteé, PloStiny NR (10), 13.ix.1999, 1; 1.vi.2002, 3 all IM, Vala8ské Klobouky, Bilé potoky
+NR (11), 9.ix.1999, 3 SS 1 2; 16.vi.2006, 1 J 3 92; 11.vii.2006, 1 3; all IM, NedaSoy, Jaloveova strait NR
+(15), 20.v.1999, 1 2, IM; 16.viii.2006, 1 3, PK. Nedagov, Kaitir hill and HruSova dolina valley (17), 20.v.1999,
+1 9, IM. Bylnice, Na Strizi (25), 16.vi.2006, 2 33 5 9, IM. Bylnice, Lazy NR and surrounding meadows on
+N slopes of Platava hill (28), 21.v.1999, 1 @, IM. Louka, Hlozi NR (38), 24.iv.1999, 1 9, MH. Hori Néméi,
+
+ 
+
+ 
+
+   
+
+ 
+     
+
+ 
+
+ 
+
+122 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Drahy NR (43), 15.v.1998, several 33 22; 30.vi.2001, 19; 23.v, 2002, 1 Q; all IM. Lopenik, U Zvonice NM
+(58), 25.ix.2004, 1 G, IM. Lopenik, Mikuldin vreh hill (60), 25.ix.2004, 1 3, IM. Zitkova, Hute NR (61),
+11 iv.9.v.2007, 3 33, MT, PC, J & JM. Stary Hrozenkov, Hrozenkov Terraces (64), 2.vii.2007, 1 Q, IM. ‘Vy8kovec, Wyskovecké BoSatky (65), 27.vi.2004, 1, IM. Radgjov, Zerotin NM (68), 11.vii.1998, 1 3, IM. Knézdub, Knézdubsky héj forest (72), 17.vi.2000, 1 2, IM; 22.vi.2001, 1 3, IM & PK, Mali Vrbka, Research
+hill (76), 18.vi.2000, 3 29, IM & PK, Velka nad Velika, Zahrady pod Hjem NNR (84), 14.v.1998, 1 9;
+13.vii.1998, 1 9; 18.iv.2000, 3 Go 2 9; all IM; 19.vi.2000, 1 3, PK. Suchov, Suchovské Mlyny (85),
+29.vi.2001, 1 2; 23.vi.2004, 1 3; both IM. Javornik, Nad Vépenkou NM (90), 6.v.2000, 1 9, IM. Strani
+Zihumenice NM (99), 8.vi.2001, 3 29, PL; 2.vii.2001, 1 @, IM. Strani, Nova hora NR (100), 16.v.1998, 1
+IM, Strani, Javorina NNR (102), 4.vii.2001, 1 9; 29.x.2011, 1 4 99; all IM
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+  
+
+    
+
+Distribution and frequency in the Bilé Karpaty PLA: Widespread and common on
+Prunus spinosa in scrub and along forest margins throughout the area, including the
+highest elevations. General distribution: Eurosiberian. Host plants: Prunus spp. Red
+List status: -
+
+Comments. Cacopsylla pruni is a major vector of the Candidatus Phytoplasma
+prunorum, the causal agent of the European stone fruit yellow disease that causes
+significant economic loss, particularly on apricots and peaches in central Europe
+(NAVvRATIL et al. 2004, JARAUSCH et al. 2009). Cacopsylla pulchra (Zetterstedt, 1838)
+
+Published records. MALENovskY (2001): Kn & 2dub, Certoryje NNR, Radéjovka brook valley (75). Additional material examined. ValaSské Klobouky, Bilé potoky NR (11), 9.ix.1999,? 1 9, IM. Radgjov,
+Lugina (73), 13.v.1998, several 32 92, IM. Velka nad Velikou, village (83), 28.iv.2000, 2 @ 3, IM. Strini,
+Javorina NNR (102), 29.x.2011, 1 3, IM. Distribution and frequency in the White Carpathians PLA: Probably widespread
+throughout the area but quite rare; collected at forest margins and in the vicinity of
+brooks, ponds and spring fens; overwintering specimens were found on ornamental
+conifers in a village as well as at the highest point of the Bilé Karpaty Mts., Mt Velka
+Javorina. General distribution: Palaearctic. Host plants: Salix spp. (S. alba, S. caprea,
+S. cinerea, 8. myrsinifolia, S. pentandra, S. purpurea, S. repens, S. viminalis, and S.
+triandra * viminalis). Red List status: -
+
+Cacopsylla pyri (Linnaeus, 1758)
+
+ 
+
+Published records. BAuDyS (1966a): Valasské Klobouky (3; precise location of collecting site unknown). LAUTERER (1999): Bylnice, Bylnice (26); Radgjoy, village (70); Rad & jov, Kiitky NR (82); Velka nad Velkou,
+towards Javornik (87); Javornik, SW slopes of H4j hill (89); Javornik, Research Hill (98),
+
+Additional material examined. Blatnitka, Milejovské louky meadows (35), 24.v.2009, 3 29; 11.vii.2009, 1
+1 Q; all PB. Hori Ni Drahy NR (43), 15.v.1998, several 29, IM. Radejov, Veselka hill (81),
+11.vii.1998, 1 3, IM. Velka nad Veliékou, village (83), 29.vi.2001, 1d, IM. Velké nad Veliékou, Zahrady pod
+Home NNR (84), 14.v.1998, 1 2, IM. Distribution and frequency in the White Carpathians PLA: Probably widespread
+throughout the area, but quite common only at warm sites in its south-western part; he
+pear trees in orchards, villages, along roads etc. General distribution: Europe and
+Turkey. Host plants: Pyrus spp. Red List status:
+
+ 
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 123
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Comments. In the Czech Republic, Cacopsylla pyri is a serious pest in pear plantations
+(LAUTERER 1999, KocoureEK & STARA 2007, LupvikovA et al. 2010) and a potential
+vector of the Candidatus Phytoplasma pyri, the causal agent of the pear decline disease
+(LupvikovA et al. 2011). Cacopsylla pyricola (Foerster, 1848)
+
+Published records. MALENovskY (2001): Knézdub, Certoryje NNR (74, 75). Additional material examined. ValaSské Klobouky, DobSend NM (6), 2.vii.1999, 1 Q, IM. Vala ’
+Hats, Bilé potoky NR (11), 9.ix.1999, 1 9, IM; 11.vii.2006, 8 ¢¢ 14 22, IM; 14.viii.2006, 2 9d 5
+PK. Nedasov, Jalovcova strait NR (15), 12.vii.2006, 1 9, IM. NedaSov, Kaitoury NM (16), 3vii.1999, 1
+17.vi.2006, 1 3 2 99, IM; 12.vii.2006, 1 3 1 2, IM; 16.viii.2006, 2 33 1 2, PK. Bylnice, Na Strazi (25)
+16.vi.2006, 3 33 7 22; 11.vii.2006, 2 29; all IM. Korytnd, Biezi (41), 5.vii.2001, 1 2, IM. Radéjov, Zerotin
+NM (68), 19iv.2012, 1 3, IM. Velka nad Veligkou, village (83), 29.vi.2001, 3 33, IM. Velka nad Velkou,
+Zahrady pod Hajem NNR (84), 13.vii.1998, 6 3 8 99; 18.iv.2000, 1 Q; all IM. Javornik, Jazevéi NNR (92),
+15.vii.1998, 1 3; 19.vi.2000, 2 3d 3 29; all IM. Javornik, Machova NR (97), 9.vii.1998, 13, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and quite common
+throughout the area in scrub and along sunny forest margins, as well as in orchards and
+villages. General distribution: European, introduced into North America. Host plants:
+Pyrus communis and P. pyraster. Red List status: -. Comments. Cacopsylla pyricola is a potential vector of the Candidatus Phytoplasma
+pyri, the causal agent of the pear decline disease (LUDVIKOVA et al. 2011). However, it
+has only a minor economic importance in the Czech Republic (LAUTERER 1999,
+KocoureK & STARA 2007). Cacopsylla pyrisuga (Foerster, 1848)
+
+Published records. Laurerer (1999): Bylnice, Bylnitky (26); Velké nad Veli¢kou, towards Javornik (87);
+Javornik, Research Hill (98). MALENovskY (2001): Kné% dub, Certoryje NNR (74, 75). Additional material examined. Valaské Klobouky, Javoriivky NR (5), 11.ix.1999, 2 3d, IM. Valais
+Hats, Na Nivach (8), 9.ix.1999, 1 3, IM. NedaSoy, Jaloveova strait NR (15), 20.v.1999, 1 3.1 Q, IM. NedaSov, Kaitir hill and HruSova dolina valley (17), 20.v.1999, 1 2, IM, Horni Néméi, Drahy NR (43),
+10.ix.1998, 1, IM. Lopenik, U Zvonice NM (58), 25.ix.2004, 1 9, IM. Lopenik, Mikulgin hill hill (60),
+ix.2004, 1d, IM. Vy8kovec, Vy8kovecké Bosatky (65), 21.v.2005, 1 9, IM. Radgjov, Hol ¥ vreh hill (71),
+8.ix.1998, 1 3, IM, Mala Vrbka, Vyzkum hill (76), 22.vi.2001, 2 22, IM & PK. Velka nad Velkou, Zahrady
+pod Hajem NNR (84), 14.v.1998, 2 29; 18.iv.2000, 8 Gd 4 29; all IM. Javornik, Machové NR (97),
+14v.1998, 1 3 IM
+
+     
+
+  
+
+   
+ 
+
+   
+
+ 
+
+    
+
+Distribution and frequency in the Bilé Karpaty PLA: Widespread and quite common
+on pear trees in various kinds of habitats throughout the area. General distribution:
+Europe, Turkey, and Caucasus. Host plants: Pyrus spp. Red List status: -. Comments. In the Czech Republic, C. pyrisuga is an occasional pest of cultivated pears
+(LAUTERER 1999, NAVRATIL & STARA 2007, LuDvikOVA et al. 2010) and a potential vector
+of the Candidatus Phytoplasma pyri, the causal agent of the pear decline disease
+(Lupvikova et al. 2011). 124 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Cacopsylla rhamnicola (Scott, 1876)
+
+Material examined. Valaiské Klobouky, U Rybnikti (4), 10.ix.1999, 1 @, IM. Poteg, Plostiny NR (10),
+1.vi.2002, 1 3, IM. Bylnice, Na Strizi (25), May 16, 2006, mana 3S 92, IM. Horni Néméi, Drahy NR (43),
+May 23, 2002, Q9 11 larvae, IM. Lopenik, Mikuléin vrch hill (60), 25.ix.2004, 1, IM. Suchov, Tmovsky
+Mlyn (86), 23.vi.2004, 1 3}, IM. Javornik, loampit W of village (91), 24.v.2002, 6 3 ¢ 4 99, IM. Nova Lhota,
+Vapenky, Porizky NNR (95), 28.x.2011, | 2, IM. Strani, Javorina NNR (102), 29.x.2011, 6 3 ¢ 7 99, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and quite common
+in scrub and along forest margins throughout the area; overwintering specimens were
+found also at the highest point, the top of Mt Velké Javorina (ca. 950 m). General
+distribution: Eurosiberian. Host plant: Rhamnus cathartica. Red List status:
+
+ 
+
+Cacopsylla saliceti (Foerster, 1848)
+
+Material examined. Lopenik, U Zvonice NM (58), 25.ix.2004, 1 1 2, IM. Lopenik, Lopenicke sedlo (59),
+2004, 3 Sat 2 92, IM. Raddjov, Lugina (73), 22.vi.2001, 10 33 4 29, IM & PK. Suchov, Suchovské
+y (85), 29.vi.2001, 1 3 2 9, IM. Javornik, village (88), 24.v.2002, 1, IM. Strani, Zihumenice NM
+(99), 8.vi.2001, 5 22.2 29, PL. Strani, Javorina NNR (102), 29.x.2011, 2 3 IM, IM. Distribution and frequency in the Bilé Karpaty PLA: Collected in the central and
+south-western parts of the area on willows in various habitats (banks of streams, shores
+of a pond, along roads) but quite uncommon. Overwintering specimens were found also
+at the highest point, the top of Mt Velka Javoiina (ca. 950 m). General distribution:
+Palaearctic. Host plants: Salix spp. (S. alba, S. aurita, S. caprea, S. cinerea, S. elaeagnos,
+S. fragrans, S. fragilis, and S. purpurea). Red List status:
+
+ 
+
+Cacopsylla sorbi (Linnaeus, 1758)
+
+   
+
+Material examined, Vala’ské Klobouky, DobSend NM (6), 2.vii.1999, 2 @ ¢ 3 99, IM. Poteé, Plostiny NR
+(10), 4.vii.1999, 1 35 1.vi.2002, 8 3 ¢ 4 29; all IM. Bylnice, Na Strazi (25), 16, vi.2006, 2 S21 9, IM. Strani,
+Hméarky NM and Zabka reservoir surroundings (54), 10.vii.1998, 9 33 2 29, IM. Lopenik, Mikuléin vreh
+hill (60), 24.vii.2005, 1 4 6 99, IM. Knézdub, Knézdubsky haj forest (72), 28.vii.2000, 1c}, IM & PK. New
+Lhota, Vapenky, Velitka brook valley towards Mt Velka Javofina (96), 12.vii.1998, 3 33 1 9, IM
+
+  
+
+ 
+
+Distribution and frequency in the White Carpathians PLA: Widespread but quite
+uncommon; mostly along forest margins and forest roads, and in forest glades. General
+distribution: Palaearctic, introduced into North America. Host plant: Sorbus aucuparia. Red List status:
+
+ 
+
+Cacopsylla ulmi (Foerster, 1848)
+
+Published records. LAuTERER (1999): BorSice u Blatnice, BorSicky potok brook valley (37); Horni Néméi,
+Upper German hj forest (40); Kn & 2dub, NNR Certory (74, 75). MALENovskY (2001): KnéZdub, Certoryje
+NNR, Jarkovee brook valley (74). Additional material examined. ValaSské Klobouky, Brumovska street (3), 9.ix.1999, 1 Q, IM. Poteé, Plo ’
+NR (10), 17.viii.2006, 2 $ 3 3 99, PK. NedaSov, village (14), 17.viii.2006, | 2, PK. Nedasoy, Jalovcova stra
+NR (15), 16.viii.2006, 1 2, PK. Svaty Stépan, Nadfigi (31), May 21, 1999, many 3 @ 99, IM. Horni Néméi, Drahy
+NR (43), 23.3.2002, 2 3c 1 9, IM. Horni Néméi, Horni kopec hill (45), May 23, 2002, 3 3 @ 1 9, IM. Lopentk,
+
+  
+
+   
+
+ 
+
+   
+
+ 
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 125
+
+1. MALENovSKY & P. ​​LAUTERER
+
+U Zvonice NM (58), 25.ix.2004, 4 3 1 2, IM. Lopenik, Lopenické sedlo (59), 25.ix.2004, 2 33, 24.vii.2005,
+2.99; all IM. Lopenik, Mikuldin vreh hill (60), 24.vii.2005, 1 1 9; 25.ix.2004, 4 3 4 99; all IM. Radgjov,
+Zerotin NM (68), 11.vii.1998, 1 1 9, IM. Radgjov, Holy vreh hill (71), 8.ix.1998, 2 3 2 29, IM. Radgjov,
+Ludina (73), 14.vii.1998, 1 9; 17.vi.2000, 3 99; 28.vii.2000, 1. ’4 99; 22.vi.2001, 3 29; all IM & PK. Mala
+Vrbka, Vzkum hill (76), 18.vi.2000, 3 33, IM & PK. Hruba Vrbka, football ground (78), 20.ix.2001, 1 9, IM. Radéjov, Mésiéni tidoli valley (80), 20.viii.2002, 1 2, PK. Radgjov, Veselka hill (81), 11.vii.1998, 9 99, IM. Velka nad Veligkou, village (83), 18.viii.2000, 1 4 1 2, PK. Velka nad Veliékou, Zahrady pod Hajem NNR (84),
+27.vii.2000, 39; 9. ~ 10.ix.2000, 1 @ 2 99; all IM. Suchov, Tmovsky MlYn (86), 16.viii.2004, 1 3, PK;
+1.x.2004, 4 20 1 Q, IM. Javornik, village (88), 8.viii.2001, 1 J 2 92, PK. Javornik, Jazevéi NNR (92),
+15.vii.1998, 1 Q, IM. Javomnik, Petruchovy Mlyny (93), May 24, 2002, 1 2, PK. Nova Lhota, Vapenky, Velika
+brook valley towards Mt Velka Javofina (96), 12.vii.1998, many 3) 9, IM. Strini, Javorina NNR (102),
+4.vii.2001, 9 33 16 29; 29.x.2011, 7 3 2 29; all IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and common in
+various kinds of habitats throughout the area, from low to the highest elevations;
+associated with elm trees but often dispersed more or less far from the hosts. General
+distribution: Palaearctic. Host plants: U / mus spp. Red List status: -. Cacopsylla viburni (Liw, 1876) (VU) (Fig. 5)
+
+Published records, LAUTERER (1999): Hoi Néméi, Hornonéméansky haj forest (40); Knézdub, Certoryje
+NNR (74, 75); Velka nad Velika, towards Javornik (87). MALENovskY (2001): Knézdub, Certoryje NNR,
+Jirkovee Brook Valley (74),
+
+Additional material examined. Horni Néméi, Drahy NR (43), 15.v.1998, 1 4; 23.v.2002, 1 both IM. Upper
+Néméi, Lesna hill (46), 15.v.1998, 5 So 3 92, IM. Radgjov, Zerotin NM (68), 11.vii.1998, 3 G31 Q, IM. Radgjov, Lugina (73), 13.v.1998, 2 3, IM. Velka nad Velkou, Zahrady pod Hajem NNR (84), 13.vii.1998,
+5 Se 13 29, IM; 19.vi.2000, 2 99, PK; 27.vii.2000, 2 32, IM; 9. ~ 10.ix.2000, 1 ', IM. Javornik, Jazevéi
+NNR (92), 6 May 2000, 10 34 99; 19.vi.2000, 5 P ¢ 6 22; 10.ix.2000, 2 3a 3 29; alll IM
+
+ 
+
+  
+
+ 
+
+ 
+
+      
+
+Distribution and frequency in the Bilé Karpaty PLA: Restricted to the warm south-
+western part of the area; quite common on Viburnum lantana at sunny forest margins and
+scrub (e.g. along roads and scattered in meadows). General distribution: Palaearctic. Host plants: Viburnum spp. (in Central Europe V. lantana). Red List status: Vulnerable. Comments. Cacopsylla viburni is a thermophilous species; the White Carpathians Mts. probably form the northern limit of its natural distributional range in central Europe
+(LAUTERER 1999, LASTUVKA et al. 2008). Cacopsylla visci (Curtis, 1835)
+
+Published records. LAUTERER (1999), MALENOVSKY (2001): Knézdub, Certoryje NNR (74, 75). Additional material examined. Javornik, Jazevéi NNR (92), 19.vi.2000, 2 92, IM. Strani, Zahumenice NM
+(99), 2.vii.2001, 5 99, IM. Distribution and frequency in the Bilé Karpaty PLA: Recorded only for the south-
+western part of the area; associated with Loranthus europaeus on solitary oaks scattered
+in meadows. General distribution: Western Palaearctic. Host plants: Loranthus
+europaeus and Viscum spp. Red List status: -
+
+126 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Camarotoscena speciosa (Flor, 1861)
+Material examined. Hruba Vrbka, football ground (78), 28.vii.2001, | 9; 20.ix.2001, 1 @; both IM. Distribution and frequency in the Bilé Karpaty PLA: Collected on Populus x
+canadensis or Populus nigra at a single, anthropogenic site (a windbreak) at foothills of
+the Bilé Karpaty in the south-western part of the area. General distribution: Western
+Palaearctic. Host plants: Populus spp. Red List statu
+
+ 
+
+Chamaepsylla hartigii (Flor, 1861)
+
+Published records. Lauerer (1998): Bylnice, Bylnicky (26)
+Additional material examined. ValaSské Klobouky, Brumovska street (3), 19.v.1999, 2 3a 4 99, IM. ValaSské Klobouky, U Rybnikii (4), 22.v.1999, 1 1 2, IM. Valasské Klobouky, Javoriivky NR (5), 2.vii.1999,
+1 9, IM. Poteé, Plosciny NR (10), 4.vii.1999, 1 ¢ 1 9; 1.vi.2002, 6 29; all IM. NedaSov, Jalovcova stra NR
+(15), 20.v.1999, 1 3; 3.vii.1999, 1 Q; both IM. Bylnice, railway station environs (27), 21.v.1999, 1 3, IM. Bylnice, Lazy NR and surrounding meadows on N slopes of Plaiiava hill (28), 21.v.1999, 1 3, IM. NedaSov,
+Pod Ciginem NM (30), 30vi.2004, 1; May 28, 2005, 1; both IM. Korytnd, Biezi (41), 5.vii.2001, 1 2, IM. Homi Néméi, Drahy NR (43), 23.v.2002, 2 3a 6 99, IM. Strini, village (56), 16.v.1998, 2 $ 3 1 9, IM
+Radgjov, Lugina (73), 7 May 2000, 1 3; 17.vi.2000, 1 @; both IM. Velka nad Veliékou, village (83), 19.vi.2000, 1
+Q, PK. Javornik, village (88), 6.v.2000, 9 6 29; 24.v.2002, 2 3d 3 2Q; all IM. Javornik, loampit W of
+village (91), 24.v.2002, 1 2, IM. Strani, Zahumenice NM (99), 2.vii.2001, 1 2, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and quite common
+on Betula pendula throughout the area; mostly in small woods and on solitary trees
+scattered in meadows and pastures, frequently also in villages. General distribution:
+Holarctic. Host plants: Betula spp. Red List status:
+
+ 
+
+Craspedolepta flavipennis (Foerster, 1848)
+
+Published records. MALENOVSKY (2001): Knézdub, Certoryje NNR, Jarkovec brook valley (74). Additional material examined. Valaiské Klobouky, Javortivky NR (5), 22.v.1999, 1 2, IM. Valaéské
+Hats, Dobsend NM (6), May 22, 1999, 4 3c, IM. ValaSské Klobouky, Brumovka brook valley (7),
+19.v.1999, 6 S33 99, IM; 30.vi.1999, 19, MH. Poteé, Plostiny NR (10), I.vi.2002, 11 3)
+Valaiské Klobouky, Bilé potoky NR (11), 16.vi.2006, 7 33 6 2 °, IM. NedaSov, Jalovcova straii NR (15),
+20.v.1999, | 3; 28v.2005, 3 29; 17.vi.2006, 1 J 4 2; all IM, Nedagov, Kahoury NM (16), 17.vi.2006, 3 33
+7 29, IM. Nedadov, Kaiti hill and HruSova dolina valley (17), 20.v.1999, 3 $ 3 2 29, IM. Bylnice, Na Strézi
+(25), 16.vi.2006, 5 Sat 5 29, IM. Bylnice, Bylnitky (26), 24.vi.1982, 4 32.9 99, PL. NedaSov, Pod Ciginem
+NM (30), 30.vi.2004, 28.v.2005, 9 3a 10 & i, Drahy NR (43), 23.v.2002, 1 3, PK. Lopenik, U Zvonice NM (58), 27.vi.2004, 1 9, IM. Wy8kovec, VySkovecké Bosaéky (65), 27.vi.2004, 4 33 4
+QQ; May 21, 2005, 1 G; all IM. Knézdub, Certoryje NNR, Jarkovec brook valley (74), 2.vi.2008, 9 3S 27 92,
+IM; 22.vi.2008, 2 29, KD & KF; 7.vi.2010, 9 Sat 19 29, IM. Knézdub, Certoryje NNR, Radéjovka brook
+valley (75), 2.vi.2008, 1 1 2, IM. Knézdub, Certoryje NNR (74, 75), 19.vi.1980, 7 33, PL. Radjoy, Kiitky
+NR (82), 2.vi.1979, 2 345 99, PL. Velka nad Velitkou, Zahrady pod Hajem NNR (84), 14.v, 1998, 1 ¢, IM. Javornik, SW slopes of Haj hill (89), 19.vi.1980, 1 9, PL. Suchov, Suchovské Mlyny (85), May 26, 2005, 7
+2, IM. Nova Lhota, Fojtické Mlyny (94), 7.vii.1980, 2 99, PL. Javornik, Research Hill (98), 10.vi.1982, 1 2,
+PL. Strini, Zahumenice NM (99), 24.v.2001, 22 63 16 99, IM; 8.vi.2001, 9 33 16 29, PL; May 23, 2002, 105
+3 103 99, IM & PK. Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 127
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Distribution and frequency in the Bilé Karpaty PLA: Widespread and common in
+species-rich meadows throughout the area. General distribution: Central Europe
+(LAUTERER & BURCKHARDT 2004). Host plant: Leontodon hispidus. Red List status: -. Craspedolepta nebulosa (Zetterstedt, 1828)
+Material examined. Strini, Javorina NNR (102), 4.vii.2001, 10 3.3 6 29, IM. Distribution and frequency in the Bilé Karpaty PLA: Found only at the top of Mt
+Velka Javofina. General distribution: Holarctic. Host plant: Epilobium angustifolium. Red List status: -
+
+Craspedolepta nervosa (Foerster, 1848)
+
+ 
+
+Material examined. NedaSov, Jalovcova strait NR (15), 20.v.1999, 3 3d 5 29; 3.vii.1999, 18 SS 1 99;
+May 28, 2005, $ 11 3.17 29; 28.vii.2005, 1 35 29; 17.vi.2006, 4 34 7 99; all IM. Nedakov, Kaiioury NM (16),
+17.vi.2006, 1 2, IM; 12.vii.2006, 3 3a 6 2, IM. Bylnice, Na Strazi (25), 16.vi.2006, 1 24 29; 11.vii.2006,
+1 2; all IM. Bylnice, Bylnitky (26), 24.vi.1982, 1 @ 1, PL. Hori Néméi, Upper German Forest Forest (40),
+7.vii.1980, 2 33 1 Q, PL. Korytnd, Brezi (41), 5.vii.2001, 1 3 1 2, IM. Homi Néméi, Drahy NR (43),
+30.vi.2001, 1 2, IM & PK. Horni Néméi, Vinohradky (44), 30.vi.2001, 1 3, IM. Strani, Diibrava hill (57),
+7.vii.1980, 1 1 Q, PL. Stary Hrozenkov, Skalka quarry (63), 2.vii.2007, 2 99, IM. Stary Hrozenkov,
+Hrozenkovské terasy (64), 2.vii.2007, 1 2, IM. WySkovec, VySkovecké BoSatky (65), April 27, 2004, 1 3;
+May 21, 2005, 1 3; both IM. Radgjoy, Z NM (68), 11.vii.1998, 10 33 8 QQ, IM. KnéZdub, Knézdubsky haj
+forest (72), 17.vi.2000, 1 2, IM. KnéZdub, Certoryje NNR (74, 75), 19.vi.1980, 3 29, PL. KnéZdub, Certoryje
+NNR, Fitkovee brook valley (74), 2.vi.2008, 1 2, IM. Mala Vrbka, Vyzkum hill (76), 28.vii.2001, 1d 1 9, IM
+& PK. Hruba Vrbka, football ground (78), 19.vi.2000, 1 2, IM & PK. Radgjov, Kuitky NR (82), 2.vi.1979, 1g
+1 2, PL. Velké nad Veli¢kou, Zahrady pod Hajem NNR (84), 13.vii.1998, 11 339 99, IM. Suchoy, Suchovské
+Mlfny (85), 29.vi.2001, 1 3 1 Q, IM. Suchov, Tmovsky Mlfn (86), 26.v.2005, 1 9, IM. Velka nad Veligkou,
+towards Javornik (87), 10.vi.1982, 1 2, PL. Javornik, SW slopes of Haj hill (89), 19.vi.1980, 1 3, PL. Javornik,
+loampit W of village (91), 24.v.2002, 13 1 2, IM. Javornik, Jazevéi NNR (92), 19.vi.2000, 2 3; 29.vi.200! 1 @; all IM. Javornik, Petruchovy Mlyny (93), 29vi.2001, 1 3 1 Q; April 23, 2004, 4 94 4 29; May 26, 2005, 1 3;
+all IM. Nova Lhota, Fojtické Mlyny (94), 7.vii.1980, 1 ¢ 1 2, PL. Nova Lhota, Vapenky, Porazky NNR (95),
+15.vii.1998, 2 99, IM. Javornik, Machova NR (97), 9.vii.1998, 3 dd 4 8.v.2000, 1 9; all IM. Javornik,
+Research Hill (98), 10.vi.1982, 3 22, PL. Strani, Zahumenice NM (99), 24.v.2001, 1 3, IM; 8.vi.2001, 3
+PL; 2.vii.2001, 25 3d 29 29, IM; 23.v.2002, 5 AS 3 PY, 20.vii.2002, 1 D2 OY; all IM & PK. Strani,
+Javorina NNR (102), 4.vii.2001, 1 9, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and common in dry
+to mesic meadows and pastures throughout the area. General distribution: Eurosiberian. Host plants: Achillea millefolium agg. and A. ptarmica. Red List status: -
+
+Craspedolepta omissa Wagner, 1944
+
+Material examined. Poteé, Plosciny NR (10), 4.vii.1999, 4 3d 6 22, IM. NedaSovy, village (14), 3.vii.1999,
+
+ 
+
+5 dQ, IM. Radgjov, Zerotin NM (68), 11.vii.1998, 2 IM. Radéjov, Luéina (73), 28.vii.2000, 3 32
+2 29, IM & PK, Knézdub, Certoryje NNR (74, 75), 22.v.2000, 1 3, PK. Mala Vrbka, Research Hill (76),
+18.vi.2000, 3 92; 27.vii.2000, 1 2; 28.vii.2001, 4 Go 5 QQ; all IM & PK. Javornik, Machova NR (97),
+9.vii.1998, 1 3, IM
+
+ 
+
+  
+
+ 
+
+128 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Distribution and frequency in the White Carpathians PLA: Probably widespread and
+locally common in ruderal sites throughout the area. General distribution: Eurosiberian. Host plant: Artemisia vulgaris. Red List status:
+
+ 
+
+Craspedolepta sonchi (Foerster, 1848) (VU)
+Material examined. NedaSov, Jalovcova strafi NR (15), 1.ix.2004, 3 29, IM. Distribution and frequency in the Bilé Karpaty PLA: Recorded at only one site
+(Piedni louky - mesic meadows adjacent to the Jaloveova strait NR), sporadic. General
+
+distribution: European (LAUTERER & BURCKHARDT 2004). Host plants: Leontodon
+autumnale and L. hispidus. Red List status: Vulnerable. Comments. Craspedolepta sonchi is an uncommon species in the Czech Republic which
+occurs mostly in meadows and pastures in the highlands (LAUTERER 1963, 1965, 2001;
+LAUTERER & BURCKHARDT 2004). Craspedolepta subpunctata (Foerster, 1848)
+
+Material examined, Strani, Dbrava hill (57), 7.vii.1980, 1 3 PL. Strani, Javorina NNR (102), 12.vii.1998,
+galls; 4, vii.2001, 2 3d 1 9; all IM. Distribution and frequency in the Bilé Karpaty PLA: Found only at two sites; the top
+of Mt Velka Javofina and a forest glade near Strini. General distribution: Holarctic. Host plant: Epilobium angustifolium. Red List status: -. Livia junci (Schrank, 1789)
+
+Published records, LANG (1945): Biezové, Kalibova NM (53). MALENOVSKY (2001): Knézdub, Certoryje
+NNR (74, 75). Additional material examined. ValaSské Klobouky, U Rybnikii (4), May 22, 1999,
+Javoriivky NR (5), May 22, 1999, 19; 1Lix.1999, 3 Sat 499; all IM, Valaiské Klobouky, Dobgend NM (6),
+2.vii.1999, 1B; 10.ix.1999, 1 3 4 29; all IM, Vala’ské Klobouky, Brumovka brook valley (7), 9.ix.1999, 2
+22, IM. Valasské Klobouky, Na Nivich (8), 9.ix.1999, 13, IM. Bylnice, Lazy NR and surrounding meadows
+on N slopes of Plaiiava hill (28), 12.ix.1999, 4 3 1 &, IM, Hori Néméi, Drahy NR (43), 30.vi.2001, 2 3o
+1 9, IM. Biezova, Kalibova NM (53), 4.vii.2001, 1 <}, IM. Lopentk, Lopenicke sedlo (59), 25.ix.2004, 1 3,
+IM. Radgjov, Mésiéni tdoli valley (80), 8.ix.1998, 1 °, IM. Raddjoy, Kiitky NR (82), 11.vii.1998, 1. 23 995
+8.ix.1998, 19; all IM. Javornik, Jazevéi NNR (92), 6. ¥ 2000, Ic; 19.vi.2000, 29; all IM, Strani, Javorina
+NNR (102), 4.vii.2001, 1 3 IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and quite common
+in spring fens throughout the area. General distribution: Palaearctic. Host plants:
+Juncus spp. Red List status: -
+
+Livilla radiata (Foerster, 1848) (EN) (Fig. 6)
+IM, Knézdub, Knézdubsky haj
+
+   
+
+Material examined. Stary Hrozenkov, Skalka quarry (63), 2.vii.2007, 1
+forest (72), 17.vi.2000, 1 3, IM; 22.vi.2001, 1 3, IM & PK. Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 129
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Distribution and frequency in the Bilé Karpaty PLA: Recorded only at two sites in
+the central and south-western parts of the area; sporadic on Cytisus nigricans at sunny
+forest margins. General distribution: Europe (except Scandinavia). Host plants:
+Chamaecytisus spp. and Cytisus spp. Red List status: Endangered. Comments. Livilla radiata is a xerothermophilous species occurring locally in warm
+areas of the Czech Republic in dry grassland and at forest margins (VONDRACEK 1957,
+LAUTERER 1963, MALENOVSKY et al. 2011). Livilla variegata (Low, 1881)
+
+Published records. LAUTERER & MALENOVSKY (2002), MALENOVSKY & LAUTERER (200Sc): Korytna, village
+(51); Velka nad Velika, village (83). MALENovSKY & LAUTERER (2005): Strini, Kvétnd, village (101). Distribution and frequency in the White Carpathians PLA: Restricted to ornamental
+vegetation (gardens, parks, etc.) in villages: uncommon. General distribution: Native to
+south-western Europe and the Alps, introduced to central Europe, Great Britain and North
+America. Host plants: Laburnum anagyroides and L. alpinum. Red List status: -
+
+Psylla alni (Linnaeus, 1758)
+
+Published records. LaureRer (1998): Luhaéovice, Luhatovické dolina valley (18); Popov, Havrankiiv stream
+brook valley (22); Bylnice, Bylnice (26); BorSice u Blatnice, Borsicky potok brook valley (37); Komiia, Novy
+Dvir (48); Lopenik, Mikuléin vrch hill (60); KnéZdub, NNR Certoria (74, 75); Rad & jov, Kiitky NR (82); New
+Lhota, Fojtické Mlyny (94). MALENOVSKY (2001): KnéZdub, Certoryje NNR (74, 75). Additional material examined. Valaiské Klobouky, Brumovska street (3), 9.ix.1999, 2. dd 4 29, IM. Vala’ské Klobouky, U Rybnikit (4), 10.ix.1999, 1d 1 @, IM. Vala’ské Klobouky, Javortivky NR (5),
+24.viii.2002, 1 3, PK. Valaiské Klobouky, Brumovka brook valley (7), 30.vi.1999, 19 33 10 29, MH. Poteé,
+Plo & tiny NR (10), 17.viii.2006, 1 3, PK. Vala’ské Klobouky, Bilé potoky NR (11), 30.vi.1999, 1 @, PK;
+9.ix.1999, 3 99, IM; 23.viii.2002, 1 3, PK; 16.vi.2006, many 33 29, IM; 11.vii.2006, 1 3 4 92, IM. Brumov, Ublitky (13), 28.vii.2005, 1 G; 4.ix.2005; 1 G; both PK. NedaSov, Jaloveova strait NR (15),
+3.vii.1999, 1 3, IM. Bylnice, railway station environs (27), 1.vii.1999, 1 4 2, MH & PK; 11.ix.1999,7 34
+8 22, IM. Bylnice, Lazy NR and surrounding meadows on N slopes of Plitiava hill (28), 12.ix.1999, 1 3, IM. NedaSov, Na Salasi (29), 10.ix.1999, 2. 3 3 22, IM. NedaSov, Pod Ciganem NM (30), 28.vii.2005, 1 9, IM. , Biezi (41), 5.vii.2001, 2 @ ¢ 1 9, IM. Horni Néméi, Drahy NR (43), 15.v.1998, 1 9; 10.ix.1998, many
+all IM; 30.vi.2001, 6 3d 3 29, IM & PK; 13.viii.2001, 1 3, PK; 21.ix.2001, 3 33, PK; May 23, 2002
+8 29, IM. Vapenice, Trstnd brook valley (50), 6.vii.2001, 1 3, IM & PK. Korytnd, Lubna pond environs
+(52), 5vii.2001, 1 2, IM. Brezova, Kalabové NM (53), 4.vii.2001, 4 33, IM. Strani, Hrnéarky NM and Zabka
+reservoir surroundings (54), 10.vii.1998, 1 3 2 92; 10.ix.1998, 2 So 1 Q; all IM. Lopenik, U Zvonice NM
+(58), 25.ix.2004, 2 ¢¢ 1 9, IM. Lopenik, Mikuléin vreh hill (60), 24.vii.2005, 1 ¢ 1 9, IM. Limestone,
+Kritkovsky potok brook valley (62), 6.vii.2001, 1 3, IM & PK. Stary Hrozenkov, Skalka quarry (63),
+2.vii.2007, 1 @, IM. Stary Hrozenkov, Hrozenkov Terraces (64), 2.vii.2007, 8 @ ¢ 1 Q, IM. VySkovec,
+Vyskovecké BoSatky (65), 25.ix.2004, 1 2, PK. Radgjov, Lugina (73), 14.vii.1998, 3 33 3 99; 17.vi.2000, 2
+22, IM; 28.vii.2000, 1 3; 5 QQ, all IM & PK. Knézdub, Certoryje NNR (74, 75), May 22, 2000,
+2 dd 2 29, PK. Radéjov, Mésiéni udoli valley (80), 8.ix.1998, many ¢, IM; 20.viii.2002, 2 ¢¢ 1
+PK. Radéjov, Veselka hill (81), I1.vii.1998, 2 3d, IM. Radgjov, Kiitky NR (82), 8.ix.1998, 13, IM. Big over
+Veliékou, Zahrady pod Hjem NNR (84), 14.v.1998, 1 2, IM. Suchov, Suchovské MlYny (85), Jan. 1, 2005, 1 2,
+IM. Javornik, village (88), 8.viii.2001, 1 2, PK. Javornik, Jazevei NNR (92), 29.vi.2001, 1 2, IM. Nova Lhota,
+Vapenky, Defeat NNR (95), 9.ix.1998, 1 9, IM. Nova Lhota, Vapenky, Velitka brook valley towards Mt Velka
+Javotina (96), 12.vii.1998, 3 32 2 99, IM. Javornik, Machova NR (97), 9.vii.1998, 2 29, IM. Strani,
+Zéhumenice NM (99), 2.vii.2001, 5 33 5 22; 9.viii.2001, 1 2 QQ; 21.ix.2001, 2 29; all IM; 23v.2002, 1
+2, PK. 130 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Distribution and frequency in the White Carpathians PLA: Widespread and common
+throughout the area; on Alnus glutinosa and A. incana in the vicinity of standing and
+running water, in wet meadows, floodplains, etc. General distribution: Holarctic. Guest
+plants: Alnus spp. Red List status: -
+
+Psylla buxi (Linnaeus, 1758)
+
+Material examined. Strani, village (56), 10.vii.1998, IM, Knézdub, village (69), 22.vi.2001, 1 31 9,
+IM & PK. Radgjoy, village (70), 11.vii.1998, 1 3 2 29, IM; 9.viii.2002, 2 99, PK. Hruba Vrbka, village (79),
+28.vii.2001, 2 3a 8 PQ, IM. Velké nad Veli ¢ kou, village (83), 19.vi.2000, 3 34 6 2, PK. Javornik, village
+(88), 8.viii.2001, 6 92, PK. Distribution and frequency in the White Carpathians PLA: Restricted to ornamental
+vegetation in villages (gardens, hedges, cemeteries, etc. ), quite common at least in the
+south-western part of the area. General distribution: Native to western and southern
+Europe and Caucasus, introduced into central and northern Europe, North America and
+Pacific. Host plant: Buxus sempervirens. Red List status: -. Psylla fusca (Zetterstedt, 1828)
+
+examined, Bylnice, railway station environs (27), 1.vii.1999, 1 ¢ 3 9, MH & PK. Bylnice, Lazy
+NR and surrounding meadows on N slopes of Platiava hill (28), 1.vii.1999, 1 3, PK. Nedasov, Na Salasi (29),
+5.vii.1999, 4 3, IM. Horni Néméi, Drahy NR (43), 30.vi.2001, 7 3 4 99, IM. Suchov, Suchovské Mlyny
+(85), 29.vi.2001, 13 32 7 2, IM. Nova Lhota, Vapenky, Velika brook valley towards Mt Velké Javorina
+(96), 12.vii.1998, 3 S39 QQ, IM. Material
+
+ 
+
+     
+
+Distribution and frequency in the White Carpathians PLA: Probably widespread
+throughout the area but somewhat local and uncommon; in the vicinity of running water
+and locally (Drahy NR) also on shrubs growing on landslides. General distribution:
+Europe and Caucasus. Host plant: Alnus incana. Red List status:
+
+ 
+
+Psyllopsis discrepans (Flor, 1861)
+
+  
+
+Material examined. Radgjov, Luéina (73), May 22, 2001, 2 33 1 9, IM & PK. Velka nad Velitkou, Zahrady pod
+Hajem NNR (84), 9.-10.ix.2000, 1 2, IM. Velka nad Velika, towards Javornik (87), 10.vi.1982, 1 31 9, PL. Distribution and frequency in the Bilé Karpaty PLA: Found only at low elevations in
+the warm, south-western part of the area; on Fraxinus excelsior in floodplain woodland
+along a brook and at forest margins, rare. General distribution: Western Palaearctic,
+introduced into North America. Host plants: Fraxinus spp. Red List status: -. Psyllopsis fraxini (Linnaeus, 1758)
+
+Published records. Bayer (1909, 1914): Luhagovice (1). HuBACEK (1979): Blatnička, Jasenova hill (36). Matenovsky (2001): Kné% dub, Certoryje NNR, Jarkovec brook valley (74). jonal material examined, Valasské Klobouky, Brumovska street (3), 9.ix.1999, 2. 34 2 29, IM. Valaiské Klobouky, Bilé potoky NR (11), 9.ix.1999, 2. 3, IM. Nedasoy, village (14), 3.vii.1999, 1 2, IM. Nedagov, Jaloveova strait NR (15), 10.ix.1999, 1 9, IM. NedaSov, Kaioury NM (16), 12.vii.2006, I 1 2, IM. Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 131
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Bylnice, Bylnitky (26), 24.vi.1982, many 3d 22, PL. Neda ¥ ov, Na Salasi (29), 10.ix.1999, 2 33 2 99, IM. Vapenice, Trstna brook valley (50), 6.vii.2001, 1 2, IM & PK. Komita, Novy Dviir (48), 21.viii.1984, 1 9, PL. Korytna, Lubné pond environs (52), 5.vii.2001, 1 ¢ 3 29, IM. Biezova, Kalabova NM (53), 4.vii.2001, 1 3,
+IM. Lopenik, U Zvonice NM (58), 25.ix.2004, 1 2, IM. VySkovec, VySkovecké BoSatky (65), 25.ix.2004, 1
+1 9, PK. Radejov, Ludina (73), 14. 1 2, IM; 17.vi.2000, 4 32 4 2 22.vi.2001,2 333. & PK. Mala Vrbka, Vyzkum hill (76), 25.v.2000, 1 2, IM; 18.vi.2000, 3 33 4 29, IM & PK. Radejov, Veselka
+hill (81), 11.vii.1998, 1 31 9, IM. Velké nad Velitkou, village (83), 19.vi.2000, 1 3 4 99, PK. Velka nad
+Veliékou, Zahrady pod Hajem NNR (84), 13.vii.1998, 1d 1 9, IM; 19.vi.2000, 3 92, PK; 9-10.ix.2000, 1d
+6 29, IM. Suchov, Suchovské Mlyny (85), 29 November 2001, 7 32 IM. Nova Lhota, Vapenky, Velitka brook
+valley towards Mt Velké Javorina (96), 12.vii.1998, 2 33 4 99, IM. Strani, Javorina NNR (102), 4.vii.2001,
+13, IM. Distribution and frequency in the White Carpathians PLA: Widespread and common
+throughout the area; on Fraxinus excelsior in various habitats (floodplain woodland,
+ravine forests, forest margins, solitary trees, etc.). General distribution: Western
+Palaearctic, introduced into North America, Australia and New Zealand. Host plants:
+Fraxinus spp. Red List status:
+
+ 
+
+Psyllopsis fraxinicola (Foerster, 1848)
+
+Published records. MALENOVSKY (2001): Kné2dub, Certoryje NNR, Jarkovec brook valley (74). Additional material examined. NedaSov, Kahoury NM (16), 12.vii.2006, 1 ¢ 2 29, IM. Bylnice, Bylnicky
+(26), 24.vi.1982, 4 3 1 9, PL. Bylnice, railway station environs (27), L.vii.1999, 1 3 1 2, MH & PK,
+Korytnd, Lubna pond environs (52), 5.vii.2001, 1 2, IM. Lopenik, U Zvonice NM (58), 25.ix.2004, 1 3, IM
+Radgjov, Lugina (73), 14.vii.1998, 1 9; 17.vi.2000, 1. ¢ 1 Q; all IM. Mala Vrbka, V'zkum hill (76), May 18, 2000,
+4.33 6 29, IM & PK. Velka nad Veliékou, village (83), 19.vi.2000, 7 33 10 29, PK. Velka nad Veliékou,
+Zahrady pod Hajem NNR (84), 13.vii.1998, 2 4d; 9-10.ix.2000, 2 29; all IM. Javornik, village (88),
+8xiii.2001, 1 3 4 2, Petruchovy Mlyny (93), 24.v: 2002, 1 °, PK. Nova Lhota, Vapenky,
+Porizky NNR (95), 15.vii.1998, 1 1 9, IM. Javornik, Machova NR (97), 9.vii.1998, 3 33 1-2, IM. Distribution and frequency in the White Carpathians PLA: Widespread and common
+throughout the area; on Fraxinus excelsior in various habitats (e.g. at forest margins and
+along streams). General distribution: Western Palaearctic, introduced into North and
+South America, Australia and New Zealand. Host plants: Fraxinus spp. Red List
+status:
+
+ 
+
+Rhinocola aceris (Linnaeus, 1758)
+
+Published records. MALENovskY (2001): Kn & 2dub, Certoryje NNR, Jarkovee brook valley (74). Additional material examined. ValaSské Klobouky, Brumovska street (3), 19.v.1999, 19, IM. Valais
+Hats, Javoriivky NR (5), May 22, 1999, 3 3a 5 QQ; 2.vii.1999, 1 9; all IM, Vala’ské Klobouky, Dobsend
+NM (6), May 22, 1999, 19; 2.vii. ; all IM. Valaiské Klobouky, Brumovka brook valley (7), 19.v.1999, 1
+33 29, IM, Poteé, Plostiny NR (10), 4.vii.1999, 3 3S 1 Q, IM; 1.vi.2002, 1 2, IM; 17.viii.2006, 1 9, PK. Valasské Klobouky, Bilé potoky NR (11), 94.1999, 1 95 16.vi.2006, 1 2; 11.vi.2006, 3 3 1 95 all IM. Nedasov, Kanoury NM (16), December 12, 2006, 2. 33, IM. Nedasov, Kaitér hill and Hrusova dolina valley (17),
+20.v.1999, | 9, IM. Petrivka, Kladenka brook valley (19), 25.vi.-15.vii.2008, 1 9, MT, PC, JJ & IM. Bylnice,
+Na Strazi (25), 16.vi.2006, 5 33 8 29; 11.vii.2006, 2 3 ¢ 4 29; all IM. Bylnice, railway station environs (27),
+21.1999, 1 3, IM. Bylnice, Lazy NR and surrounding meadows on N slopes of Plaiava hill (28), 21.v.1999,
+1.31 9, IM, Hori Néméi, village (39), 15.v.1998, 1 J, IM. Upper Néméi, Upper German Forest (40),
+7.vii.1980, 2 99, PL. Korytnd, Biezi (41), 5.vii.2001, 1 2, IM. Hori Néméi, Drahy NR (43), 23.v.2002, 1
+, IM. Strain, Himéarky NM and Zabka reservoir surroundings (54), 10.vii.1998, 1, IM. Lopenik, U
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+132 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Belfry NM (58), 27.vi.2004, 2 3d 2 99; 24.vii.2005, 4 33 14 QQ; all IM. Lopenik, St. Nicholas Hill (60),
+24.vii.2005, 2 3 ¢ 1 Q, IM. Stary Hrozenkov, Hrozenkov Terraces (64), 2.vii.2007, 1 3, IM. Radgjoy, village
+(70), 14.viii.1977, 1 3, RJ. Radgjov, Holy hill hill (71), 8.ix.1998, 1 3, IM. Kn & Zdub, Knézdubsky forest
+(72), 17.vi.2000, 1 Q, IM. Rad8jov, Ludina (73), 13.v.1998, 1 3; 14.vii.1998, 2 to 1 Q; all IM. Knézdub,
+Certoryje NNR (74, 75), 19.vi.1980, 1 9, PL. Mala Vrbka, Vyzkum hill (76), 25.v.2000, 2 4c
+18.vi, 2000, 2 $ o 8 29; 27.vii.2000, 1 9; all IM & PK. Radgjov, Veselka hill (81), 11.vii.1998, 3 3d 4 99,
+IM. Velka nad Velkou, Zahrady pod Hajem NNR (84), 19.vi.2000, 1 ¢ 2 9, PK. Suchov, Suchovské Mlyny
+(85), 6 May 2000, 19; 29. 5 23.vi.2004, 1 9; all IM. Javornik, village (88), 24.v.2002, 1 3, IM;
+. »PK. Javornik, Jazevéi NNR (92), 6 May 2000, 10 J 2 29; 19, vi.2000, 1.4 5 99; all IM. New
+Lhota, Vapenky, Veliéka brook valley towards Mt Velké Javofina (96), 12.vii.1998, 1 3, IM
+
+  
+
+ 
+
+ 
+
+   
+
+ 
+
+   
+ 
+
+Distribution and frequency in the Bilé Karpaty PLA: Widespread and common in
+various kinds of habitats (e.g. at forest margins) throughout the area. General
+distribution: Western Palaearctic. Host plants: Acer spp. Red List status:
+
+ 
+
+Strophingia ericae (Curtis, 1835)
+
+Material examined. Nedasoy, Jalovcova strait NR (15), 3.vii.1999, 4 33 1 9, IM
+
+ 
+
+Distribution and frequency in the Bilé Karpaty PLA: Found in only one, extremely
+small heathland site in the north-eastern part of the area: sporadic and local. General
+distribution: European. Host plant: Calluna vulgaris. Red List status: -. Family TRIOZIDAE
+Bactericera albiventris (Foerster, 1848)
+
+Published records. MALENOVSKY (2001): Kné2dub, Certoryje NNR, Jarkovec brook valley (74). Additional material examined. Valaiské Klobouky, Brumovska street (3), 19.v.1999, 1c, IM. Valaéské
+Hats, U_Rybnikit (4), 22.v.1999, 1 2, IM. Bylnice, railway station environs (27), 21.v.1999, 1 2;
+11.ix.1999, 1.2 1 Q; all IM. Borsice u Blatnice, Borsicky potok brook valley (37), 16.viii.1984, 1 9, PL. Homi
+Néméi, village (39), 15.v.1998, 1 9; 10.ix.1998, 2 9; all IM. Suchov, Kazivee brook valley (42), 15.v.1998,
+1 9, IM, Stary Hrozenkov, Skalka quarry (63), 2.vii.2007, 1 9; 8.viii.2007, 1 Q; both IM. Stary Hrozenkov,
+Hrozenkovské terasy (64), 8.viii.2007, 2 29, IM. Radgjoy, village (70), 14.viii.1977, 1 °, RI. Radéjov, Luéina
+(73), 13v.1998, 1; 14.vii, 1998, 429; 28.vii.2000, 2 99; 22.vi.2001, 1 5 29; alll IM & PK. Knézdub,
+Certoryje NNR (74, 75), 19.vi.1980, 1 @, PL. Mali Vrbka, Vyzkum hill (76), 2.v.2001, 1 3, IM & PK. Mali
+Vibka, village (77), 28.vii.2001, 1 3 3 Q9, IM. Velké nad Veliékou, village (83), 19.vi.2000, 1 9, PK;
+9.ix.2000, 1 3, IM. Suchoy, Suchovské Mlyny (85), November 29, 2001, 1 4 2 99, IM. Strni, Zéhumenice NM (99),
+8.vi.2001, 1 d, PL. Distribution and frequency in the Bilé Karpaty PLA: Widespread and quite common
+throughout the area: along streams, around ponds and springs, as well as on ornamental
+weeping willows in villages. General distribution: Palaearctic. Host plants: Salix spp. (S. alba, S. fragilis, S. triandra, S. pentandra, and S. purpurea). Red List status: -. Bactericera curvatinervis (Foerster, 1848)
+
+Material examined. Homi Néméi, Drahy NR (43), 10.ix.1998, 1 3, IM. Lopenik, U Zvonice NM (58),
+25.ix.2004, 1 J 1 Q, IM. Stary Hrozenkov, Skalka quarry (63), 22.ix.2007, 1 2, IM. Strani, Zéhumenice NM
+(99), 24.v.2001, 1 3, IM. Strini, Nova hora NR (100), 16.v.1998, 1 9, IM. Strini, Javorina NNR (102),
+29.x.2011, 13, IM. Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 133
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Distribution and frequency in the Bilé Karpaty PLA: Recorded from the central and
+south-western parts of the area; quite uncommon at road margins, in wet meadows and
+pastures, as well as in an abandoned quarry. An overwintering specimen was also found
+at the highest elevation, the top of Mt Velka Javoyina (ca. 950 m). General distribution:
+Palaearctic. Host plants: Salix spp. (S. alba, S. aurita, S. caprea, S. cinerea, S. purpurea,
+S. repens, and S. viminalis). Red List status: -. Bactericera femoralis (Foerster, 1848)
+
+Material examined. Valaiské Klobouky, Javoriivky NR (5), 2.vii.1999, 1 ds 11.ix.1999, 1 31 9: all IM. Sské Klobouky, Brumovka brook valley (7), 30.vi.1999, 1 é
+NR (10), Lvi.2002, 292, IM. ValaSské Klobouky, Bilé potoky NR (11), 16.2006, 2.3 3
+3. 3 5 29; all IM. Brumov, Unliży (13), 30.vi.2004, 1 J 2 22, IM; 28.vii.2005, 1 2; 4.ix.2005, 1 2; both
+PK. NedaSov, Jaloveova strait NR (15), 16.viii.2006, 1 3, PK. NedaSov, Kaiioury NM (16), May 17, 2006, 1 3,
+IM; 12.vii.2006, 3 33 12 29, IM. Brumov, Kloboucka street (24), 4.ix.2005, 1 3, PK. NedaSov, Pod Ciginem
+NM (30), 30.vi.2004, 3 So 1 Q; 5.x.2004, 1 F; 28.vii.2005, 3 Sd 5 2Q; 6.ix.2005, 6 24 2 29; all IM. Upper
+Néméi, Drahy NR (43), 30vi.2001, IM. Horni Néméi, Vinohradky (44), 30.vi.2001, 2 ¢¢; 20.vii.2002, 1
+3, IM. Lopenik, U Zvonice NM (58), 27.vi.2004, 4 Sat 6 29; 25.ix.2004, 1; all IM. Lopenik, Lopenicke
+saddle (59), 27.vi.2004, 4 3d 4 92; 25.ix.2004, 11 Jo 16 92; 21v.2005, 1 9; 24.vii.2005, 3.33 2 29: all
+IM; 3.ix.2005, 1 2, PK. VySkovec, VySkovecké BoSatky (65), 27.vi.2004, 1 J 1 9, IM; 19.viii.2004, 1 3), PK;
+3.ix.2005, 1 3, PK. Vyskovec, Pod Hribovitou NM (66), 28.vi.2004, 4 id) 3 2, IM. Suchov, Tmovsky Mlyn
+(86), 23.vi.2004, 1 ¢ 2 99, IM; 16.viii.2004, 1 2, PK; 27.vii.2005, 1 3, IM; 1.ix.2005, 2 3 ¢ 1 2, IM. New
+Lhota, Vapenky, Porizky NNR (95), 15.vii.1998, 1 3; 9.ix.1998, 2 $ ¢ 1 Q; all IM. Strani, Zahumenice NM
+(99), 2vii.2001, 41 3S 33 92, IM & PK; 9.viii.2001, 2 34 2 99, PK; 21.ix.2001, 9 3a 15 29, IM;
+20.vii.2002, 3 33 4 2, IM; 12.ix.2002, 1 P 2 29, IM. Strani, Javorina NNR (102), 4.vii.2001, 1 3 2 29,
+IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and common in
+mesic to wet meadows and pastures throughout most of the area but apparently absent
+from the warmest, extreme south-western part. General distribution: Eurosiberian. Host plants: Alchemilla spp. Red List status: -
+
+Bactericera kratochvili Vondraéek, 1957
+Material examined. Komita, Novy Dvir (48), 21.viii.1984, 1 9, PL. Distribution and frequency in the Bilé Karpaty PLA: Recorded as a single specimen
+in the central part of the area. As the main host plant of the species, Allium senescens
+subsp. montanum, is extremely rare in the Czech part of the Bilé Karpaty Mts. (JONGEPIER
+& JONGEPIEROVA 2006, JONGEPIER & PECHANEC 2006) and B. kratochvili has not been
+collected again in the area in recent years, the finding may be due to a migrating
+specimen collected on a dispersion flight. Suitable habitats for Bactericera kratochvili
+are, however, present in the limestone cliff zone of the Slovak part of the Bilé Karpaty
+Mts. (ca. 60 km away from the collecting site in Komiia) and the species may naturally
+occur there. General distribution: Central and eastern Europe, Central Asia and
+Mongolia. Host plant: Allium senescens subsp. montanum. Red List status:
+Endangered. 134 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Comments. In the Czech Republic, Bactericera kratochvili occurs only locally, being
+largely restricted to dry grassland sites on rocks. It has been recorded for southern
+Bohemia (the Vysenské kopce hills near Cesky Krumlov) and southern Moravia (e.g. the
+environs of Brno, Miroslav, and the Pavlovské vrchy hills) (LAUTERER 1965, 1991, 1995;
+LAUTERER & MALENOVSKY 2002). Bactericera lyrata Seljak, Malenovsky et Lauterer, 2008 (Fig. 7)
+Material examined. Hruba Vrbka, football ground (78), 20.ix.2001, 2 29, IM. Distribution and frequency in the Bilé Karpaty PLA: Known from only one site at the
+foothills of the White Carpathians Mts. in the south-western part of the area; the specimens
+were collected in a mesic, quite eutrophicated grassland on a margin of a football ground
+and fields. General distribution: So far known only from Slovenia (type series) and
+Hungary (unpublished data based on a material from the Hungarian Natural History
+Museum, Budapest, P. Lauterer & I. Malenovsky det.). Host plant: Unknown, perhaps
+Potentilla reptans or Sanguisorba officinalis (SELIAK et al. 2008). Red List status: Not
+evaluated. Comments. Bactericera lyrata is a recently described species, quite similar in
+morphology to the related B. modesta and B. reuteri (Sulc, 1913) and perhaps partly
+overlooked or misidentified so far. It is reported here for the Czech Republic for the first
+time. Bactericera maura (Foerster, 1848) (NT)
+
+Material examined. Homi Néméi, Drahy NR (43), 30.vi.2001, 3 Gd 8 2, IM. Radejov, Lugina (73),
+13.v.1998, 1 9, IM. Velka nad Velitkou, village (83), 18.iv.2000, 1 3, IM; 19.vi.2000, 1 2, PK. Suchov,
+Suchovské Mlyny (85), 6.v.2000, 1 2, IM. Strani, Zéhumenice NM (99), 8.vi.2001, 1, PL. Distribution and frequency in the Bilé Karpaty PLA: Found at several sites in the
+south-western part of the area, mostly on Salix purpurea along streams and around
+springs and ponds: uncommon, General distribution: Europe, Caucasus, Kazakhstan. Host plants: Salix spp. (S. alba, S. fragilis, S. triandra, S. purpurea; VONDRACEK 1957). Red List status: Near-threatened. Comments. In the Czech Republic, Bactericera maura is a quite rare species found at a
+few sites in the lowlands of central and southern Moravia (LAUTERER 1963, 1994). Bactericera modesta (Foerster, 1848)
+
+ 
+
+ied records, MALENOVSKY (2001): Knézdub, Certoryje NNR, Jarkovec brook valley (74). Additional material examined. Brumov, Uhlitky (13), 30.vi.2004, 3 29, IM; 4.ix.2005, 1 2, PK. NedaSov,
+
+Kaiioury NM (16), 12.vii.2006, 1 2, IM. NedaSov, Pod Ciginem NM (30), 30.vi.2004, 1; 1.ix.2004, 1 3 3
+2; $ .x.2004, 3 32; 28.vii.2005, 1 9; 6.ix.2005, 7 99; all IM. Horni Néméi, Drahy NR (43), 10.ix.2002, 1
+
+, IM. Komiia, Lom Rasova NM (49), 5.vii.2001, 1 3 1 9, IM. Knézdub, Certoryje NNR, Jarkovec brook
+
+valley (74), 12.viii.2008, 2 99, KD & KF. Knézdub, Certoryje NNR, Radéjovka brook valley (75), Nov. 22, 2008,
+
+1.31.2, KD & KF. Nova Lhota, Vapenky, Defeats of the NNR (95), 28.x.2011, | 3 IM. Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 135
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Distribution and frequency in the Bilé Karpaty PLA: Widespread throughout the area
+but quite rare; mostly associated with Sanguisorba officinalis in non-intensively used
+mesic to wet meadows but also found on S. minor in a fragment of dry grassland in an
+abandoned quarry (Komita, Lom Rasova NM). General distribution: Europe, Central
+Asia, Mongolia. Host plants: Sanguisorba minor and S. officinalis, Red List status:
+Endangered. Comments. In the Czech Republic, B. modesta is probably a widespread but local and
+rare species confined to habitats valuable from a general nature-conservationist
+viewpoint. It has been documented from the Pavlovské vrchy Hills and the environs of
+Hustopeée in southern Moravia, the Bohemian-Moravian Highlands, the Bohemian Karst
+in central Bohemia, the environs of Dvir Kralové in north-eastern Bohemia, the environs
+of Plzei in western Bohemia, as well as from the eastern part of the Sumava Mts. in
+southern Bohemia (SuLC 1912; VONDRACEK 1957; DosKociL & HURKA 1962; LAUTERER
+1963, 1991, 1994, 1995; MALENOvskyY et al. 2011; and unpublished material from the
+collections of the Moravian Museum, Brno). Bactericera nigricornis (Foerster, 1848)
+
+Published records. MALENOVSKY (2001): Knézdub, Certoryje NNR, Jarkovec brook valley (74). Additional material examined. Potet, Plostiny NR (10), 1.vi.2002, 1 @ 1 9, IM. Brumov, Coal (13),
+30.vi.2004, 2 ¢ 1.ix.2004, 1 3; 5.x.2004, 3 SE 1 9; all IM; 28.vii.2005, 4 4.ix.2005, 1 3
+1 Q; all PK. Bojkovice, town (20), 5.viii.1962, | , PL. NedaSov, Pod Cigénem NM (30), 5.x.2004, 2 331 9;
+28.vii.2005, 1 2; 6.ix.2005, 1d 1 Q; all IM. Horni Néméi, Drahy NR (43), 10.ix.2002, 1 d 1 IM. Fire
+Néméi, Vinohridky (44), 30.vi.2001, 1 2, IM. Vapenice, Trstna brook valley (50), 6.vii.2001, 1 2, IM & PK. Strani, Obecnice hill (55), 20.vii.2002, 1 9, IM & PK; 12.ix.2002, 1 2, IM. Lopenik, Lopenicke sedlo (59),
+3.ix.2005, 13, PK. IN
+dy all PK. You:
+18, vi.2000, 1 Q; 28.vii.2001, 4 33 6 99; 20.ix.2001, 1
+Suchov, Suchovské Mlyny (85), 29vi.2001, 1 2, IM; 16.viii.2004, 2 33 1 @, PK; 1.x.2004, 4
+Javornik, Petruchovy Mlyny (93), 23.ix.2001, 1 3; 17.vii.2002, 1 2 2 9; 7.ix.2002, 1
+IM. Strani, Zahumenice NM (99), 9.viii.2001, 3 99, PK; 21.ix.2001, 9 3) 1-2, IM; 20.vii.2002,
+
+   
+
+        
+
+ 
+
+  
+ 
+     
+
+ 
+
+ 
+   
+ 
+ 
+
+  
+
+   
+
+   
+   
+
+Distribution and frequency in the Bilé Karpaty PLA: Widespread and quite common
+in meadows, pastures and ruderal sites throughout the area, although usually collected in
+low numbers of specimens. General distribution: Western Palaearctic, Central Asia,
+Siberia, Mongolia. Host plants: Polyphagous on a variety of dicotyledonous herbs. Red
+List status:. Bactericera striola (Flor, 1861)
+
+Material examined. Valaiské Klobouky, Bilé potoky NR (11), 9.ix.1999, 1 3, IM. Bylnice, Bylniky (26),
+24.vi.1982, 1 2, PL. Bylnice, railway station environs (27), 21.v.1999, 1 Q, IM. Stary Hrozenkov, Skalka
+quarry (63), 22.ix.2007, 1 9, IM
+
+Distribution and frequency in the Bilé Karpaty PLA: Found in the north-eastern and
+central parts of the area; quite rare in willow shrubs along streams, around springs, as
+well as in an abandoned quarry. General distribution: Palaearctic. Host plants: Salix
+
+136 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+spp. (S. aurita, S. caprea, S. cinerea, S. myrsinifolia, S. phylicifolia, S. fragilis, S.
+purpurea, and S. lapponum). Red List status: -. Bactericera substriola Ossiannilsson, 1992 (Fig. 8)
+
+Material examined. Bylnice, railway station environs (27), 11.ix.1999, 1 9, IM. Suchov, Suchovské Mlyny
+(85), 29.vi.2001, 1 2, IM. Distribution and frequency in the Bilé Karpaty PLA: Known from two isolated
+collections in the valleys of the Vlara and Veliéka rivers in the north-eastern and south-
+western parts of the area, respectively; sporadic on streamside vegetation at relatively low
+elevations. General distribution: European (Austria, Germany, Great Britain, Sweden,
+and Switzerland). Host plants: Reported from Salix lapponum and S. elaeagnos
+(OSSIANNILSSON 1992, BURCKHARDT & LAUTERER 1997b). Both willow species currently
+do not occur in the White Carpathians PLA (JoNGEPIER & JONGEPIEROVA 2006, JONGEPIER &
+PECHANEC 2006). Bactericera substriola is thus probably more oligophagous and
+associated with some additional Salix sp. in the region. Red List status: Not evaluated. Comments. Bactericera substriola is a member of a taxonomically critical group of
+species (OSSIANNILSSON 1992, BURCKHARDT & LAUTERER 1997b). Here we report it for
+the first time for the Czech fauna. Based on an unpublished material from the Moravian
+Museum, Brno, it is more widespread in the country but has been partly misidentified in
+the pas
+
+  
+
+Bactericera trigonica Hodkinson, 1981 (VU)
+
+Material examined. Bylnice, railway station environs (27), 11.ix.1999, 1 3, IM. Velka nad Veliékou, Gardens
+pod Hajem NNR (84), 13.vii.1998, I 3; 18.iv.2000, 1 9; both IM. Distribution and frequency in the Bilé Karpaty PLA: Known from only two sites in
+the north-eastern and south-western parts of the area: an abandoned field and a dry
+grassland, General distribution: Southern parts of the western Palaearctic region. Guest
+plant: Daucus carota. Red List status: Vulnerable. Comments. Bactericera trigonica is a quite rare thermophilous species associated with
+dry ruderal sites in the Czech Republic. Its distribution in the country is, as far as known,
+restricted to southern Moravia where it perhaps reaches the northern limit of its
+distribution (LAUTERER 1991, 1993; MALENOVSKYY et al. 2011). Eryngiofaga lautereri Loginova, 1977
+
+ 
+
+Published records. HuBACEK (1979): Hluk, Kobyli hlava NM (33) [as Trioza bupleuri]
+Material examined. KnéZdub, Certoryje NNR (74, 75), 19.vi.1980, 1 3, PL. Distribution and frequency in the Bilé Karpaty PLA: Known from two sites in the
+south-western part of the area (the identification of Hubaéek’s record of galls is
+hypothetical), not confirmed in recent years. General distribution: Central European
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 137
+
+1. MALENovSKY & P. ​​LAUTERER
+
+(Czech Republic, Germany, Slovakia). Host plant: Bupleurum falcatum. Red List
+status: Endangered. Comments. Eryngiofaga lautereri is a generally rare species associated with dry
+grasslands and sunny forest margins. In the Czech Republic, it is known only from
+southern Moravia: the Pavlovské vrehy and Dunajovické kopce Hills, the environs of
+Hustopeée, Brno, and Tisnov, the Moravian Karst, and the valleys of the Jihlava and
+Celebrating the rivers (LAUTERER 1965, 1979, 1991, 1995; MALENovskyY et al. 2011). Despite a
+common occurrence of its host plant in the south-western part of the Bilé Karpaty PLA
+(JONGEPIER & JONGEPIEROVA 2006, JONGEPIER & PECHANEC 2006), £. lautereri has not
+been collected there in the course of the recent intensive field surveys and may have
+become extremely rare or extinct in the area. Trichochermes watkeri (Foerster, 1848)
+
+Published records. MALENOVSKY (2001): Knéadub, Certoryje NNR, Jarkovec brook valley (74). Additional material examined. ValaSské Klobouky, Na Nivich (8), 9.ix.1999, many 3 9, IM. Bylnice, Na
+(25), 18.viii.2006, 7 3 2 29, PK. Borvice u Blatnice, BorSicky potok brook valley (37), 16.viii.1984,
+21 9, PL. Louka, Hlozi NR (38), 7.ix.1998, | 3, IM. Horni Néméi, Drahy NR (43), 10.ix.1998, mana 3
+, IM. Banoy, Skalky hill (47), 21.viii.1984, 2 63) PL, Strani, Hméarky NM and Zabka reservoir
+surroundings (54), 10.ix.1998, many 33 2 @, IM. Rad & joy, village (70), 14.viii1977, 2 3d, RJ. Mala Vrbka,
+Research Hill (76), 16. 1c, PK, Velki nad Veli & kou, Zahrady pod Hajem NNR (84), 27.vii.2000, 2
+9. ~ 10.ix.2000, 6 all IM. Javornik, Jazevéi NNR (92), 10.ix.2000, 5 3 ¢ 9, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and quite common
+throughout the area; in scrub and along forest margins. General distribution: Europe,
+Caucasus, Central Asia. Host plant: Rhamnus cathartica. Red List status: -. Trioza abdominalis Flor, 1861 (VU)
+
+Material examined. Poted, Ploséiny NR (10), 4.vii.1999, 2 29; 1.vi.2002, 1 all IM. NedaSov, Kaiéir hill
+and HruSova dolina valley (17), 3.vii.1999, 1 9, IM. Bylnice, Na Strazi (25), 16.vi.2006, 1 9, IM. Bylnice,
+Lazy NR and surrounding meadows on N slopes of Pliiiava hill (28), 21.v.1999, 1 3, IM
+
+ 
+
+Distribution and frequency in the Bilé Karpaty PLA: Restricted to pastures and
+meadows in the north-eastern part of the area, quite rare. General distribution: Europe,
+Siberia, Central Asia. Host plants: Achillea spp. Red List status: Vulnerable. Comments. In the Czech Republic, 7 abdominalis is a rare psychrophilous species
+occurring locally in some submontane regions and mountains. Published records come
+from the Bohemian-Moravian Highlands, the Nizky Jesenik Hills, the Doupovské Mountains
+Mts., And the Jizera Mountains Mts. (VONDRACEK 1957; LAUTERER 1963, 2001). Trioza agrophila Liw, 1888 (EX)
+
+Published records. HuAcek (1979): Noise, Kobyli head NM (33). 138 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Distribution and frequency in the Bilé Karpaty PLA: Cited here based on a record of
+galls collected in 1966-1976 at a single site situated outside but close to the
+administrative borders of the area; not confirmed in recent years. General distribution:
+Northern, central and eastern Europe, Caucasus. Host plant: Cirsium arvense. Red List
+status: Regionally extinct in the Czech Republic. Comments. Based on information published in literature (concerning particularly
+records of galls), T; agrophila used to be a widespread and common species throughout
+the Czech Republic (BAYER 1909, 1914; BAupyS 1916, 1926a, b, c, 1944, 1954, 1960,
+1962, 1964, 1965, 1966c, 1967a, 1969; VONDRACEK 1957; LAUTERER 1991) but
+disappeared after a period of massive applications of pesticides in the Czech agriculture
+in the second half of the 20th century (LAUTERER 1998). The last specimens documented
+in the collections were collected in 1968 (unpublished data from the Moravian Museum,
+Brno) and the species is currently considered as extinct in the country (LAUTERER &
+MALENOVSKY 2005). Trioza anthrisci Burckhardt, 1986
+
+Published records. MALENovSkY (2001): Kné2dub, Certoryje NNR, Radéjovka brook valley (75). Additional material examined. ValaSské Klobouky, Brumovska street (3), 19.v.1999, 1c}, IM. Valaéské
+Hats, U Rybniki (4), 22, v.1999, 1. 1 Q, IM. Valaske Klobouky, Brumovka brook valley (7), 19.v.1999,
+1 2, IM. Valasské Klobouky, Bilé potoky NR (11), 19.v.1999, 10 29, IM. Homi Némeéi, village (39),
+15.v.1998, 1 2, IM, Stary Hrozenkov, Hrozenkov Terraces (64), 2.vii.2007, 1 @, IM. VySkovec, VySkovecké
+BoSatky (65), 21.v.2005, 1 3, IM, Javornik, Machova NR (97), 9.vii.1998, 1 3 3 QQ, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread throughout the area
+but quite uncommon; usually in quite eutrophicated grassland along roads and paths, in
+floodplains along brooks or at pasture margins; in most places probably associated with
+Anthriscus silvestris but once collected also on Chaerophyllum hirsutum (Valasské
+Hats, White Streams NR). General distribution: Eurosiberian. Host plants:
+Anthriscus silvestris and some other Apiaceae (Angelica silvestris, Heracleum
+sphondylium, Peucedanum ostruthium, and Pastinaca sativa). Red List status: -. Trioza apicalis Foerster, 1848
+
+ 
+
+Material examined, Nedasoy, Jaloveova strait NR (15), 10.ix.1999, 1 9; 5.x.2004, 1 Q; both IM. Bylnice,
+railway station environs (27), 1.ix.1999, 2 29, IM. Lopenik, Lopenické sedlo (59), 25.ix.2004, 1, IM. Suchov, Suchovské Mlyny (85), May 23, 2004, 1 @, IM,
+
+Distribution and frequency in the White Carpathians PLA: Probably widespread in the area
+but quite rare in pastures and abandoned fields. General distribution: Eurosiberian. Host plants: Daucus carota and some other Apiaceae (e.g. Petroselinum crispum and
+Carum carvi). Red List status: -
+
+ 
+
+Comments. Trioza apicalis is a serious pest of cultivated carrots in northern and
+occasionally also in central Europe (LASKA 1974, 2011)
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 139
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Trioza cerastii (Linnaeus, 1758) (VU)
+
+ 
+
+Published records. BAubyS (1966b): common on Cerastium holosteoides subsp. triviale in the environs of
+Bojkovice (20), Nivnice (34a) and Banov (47; precise locations of all collecting sites unknown) [as Trioza
+ceraszini, misspelled]
+
+Material examined, Valasské Klobouky, DobSend NM (6), 2.vii.1999, 1 2, IM. Poteé, Ploséiny NR (10),
+4.vii.1999, 2 29; 13.ix.1999, 1 4; 1.vi.2002, 1 Q; all IM. Neda ¥ ov, Jaloveova strait NR (15), 12.vii.2006, 1 3,
+IM. NedaSov, Kaiiir hill and HruSov dolina valley (17), 3.vii.1999, 1 J 1 2, IM. Brumov, Kloboucké street
+(24), 30.vi.2004, 1 3, IM. Lopenik, U Zvonice NM (58), 27.vi.2004, 1 2, IM. Lopenik, Lopenicke sedlo (59),
+27.vi.2004, 7 Fo 12 99; 25.ix.2004, 1 2; all IM. Vy8kovec, Vy8kovecké BoSaéky (65), April 27, 2004, 1
+Vyskovec, Pod Hribovitou NM (66), 28.vi.2004, 1 2, IM. Distribution and frequency in the Bilé Karpaty PLA: Restricted to pastures and
+meadows in the cooler north-eastern and central parts of the area, uncommon. General
+distribution: Eurosiberian. Host plants: Cerastium spp. Red List status: Vulnerable. Comments. Trioza cerastii is probably a widespread species in the Czech Republic, at
+least in the highlands, submontane regions and mountains; most previously published
+records are based on galls (e.g. BAYER 1909, 1914; BAUDYS 1926a, b, 1954, 1966b;
+‘VONDRACEK 1957; MALENOVSKY & LAUTERER 1997). Trioza chenopodii Reuter, 1876
+
+Published records. LAvTERER (1982): Bojkovice, town (20). Additional material examined. NedaSov, Pod Ciganem NM (30), 28.vii.2005, 1 IM. Borfice u Blatnice,
+Borsicky potok brook valley (37), 16.viii.1984, 1 3 4 92, PL. Homi Néméi, Drahy NR (43), 21.vii.2002, 1 2,
+IM, Banov, Skalky hill (47), 21 viii.1984, 4 33 2 29, PL. Komita, Novy Dviir (48), 21.viii.1984, 3 33 1,
+PL. Strini, Diibrava hill (57), 7.vii.1980, 1 J 2 29, PL. Mala Vrbka, Research Hill (76), 16.xi.1999-4.iii, 2000,
+1 9; 4.iii8.iv.2000, 4 29; all pitfall traps, PBz; 17.iv.2000, 2 3; 27.vii.2000, 1 9; May 2, 2001, 1 9; 22.vi.2001,
+1 9; 28.vii.2001, 1 all IM & PK
+
+ 
+
+ 
+
+    
+
+   
+
+Distribution and frequency in the White Carpathians PLA: Probably widespread in ruderal
+vegetation throughout the area. General distribution: Palaearctic, introduced into North
+and South America. Host plants: Chenopodium spp., Atriplex spp. and some other
+Chenopodioideae. Red List status: -
+
+Trioza chrysanthemi Low, 1878 (EN) (Fig. 9)
+
+Material examined. Valasské Klobouky, Javoriivky NR (5), 22.v.1999, 1 2, IM. NedaSov, Jaloveova strait NR
+(15), 20.v.1999, 1 2, IM. NedaSov, Kahar hill and Hrugova dolina valley (17), 20.v.1999, 1 9, IM. Upper
+Néméi, Hornonéméansky haj forest (40), 10.ix.2002, 1 3, IM. Lopenik, Lopenické sedlo (59), 25.ix.2004, 1 2,
+IM. Stary Hrozenkov, Skalka quarry (63), 22.ix.2007, 1 Q, IM. VySkovec, VySkovecké BoSatky (65),
+27.vi.2004, 1 2, IM. Distribution and frequency in the Bilé Karpaty PLA: Restricted to the cooler north-
+eastern and central parts of the area with one isolated finding near Horni Néméi in the
+south-west; quite rare in pastures and meadows. General distribution: Central, northern,
+and eastern Europe. Host plants: Leucanthemum spp. Red List status: Endangered. Comments. Trioza chrysanthemi is a rare species in the Czech Republic that seems to be
+restricted to species-rich grasslands in submontane and mountain regions (including
+
+140 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+subalpine grassland). It has been recorded so far only from a few sites in the Jeseniky and
+Javorniky Mts. in northern and eastern Moravia and perhaps (based on a record of galls)
+also in the Krkonoše Mts. in north-eastern Bohemia (BAUDYS 1954, 1967b; LAUTERER
+1963; MALENOVSKY & LAUTERER 1997). Trioza cirsii Low, 1881
+
+Published records. MaLeNovsk ¥ (2001): Knézdub, Certoryje NNR (74, 75). Additional material examined. Valaiské Klobouky, Javortivky NR (5), 22.v.1999, 26 3d 32 29, IM;
+2.vii.1999, 4 23 3 22, IM; 11.ix.1999, 1 2, IM; 24.viii, 2002, 1 9, PK. Valaske Klobouky, Dobsend NM (6),
+22v.1999, 1 d 3 29, IM. Valaiské Klobouky, Brumovka brook valley (7), 19.v.1999, 1 J, IM. Valaéské
+Hats, Bilé potoky NR (11), 19.v.1999, 1 35 29; 16.vi.2006, 2 3 1 Q; 1.vii.2006, many 33 29; all
+IM. Bylnice, Lazy NR and surrounding meadows on N slopes of Plafiava hill (28), 1.vii.1999, 1 ¢ 1 2, PK. Suchoy, Kazivec brook valley (42), 15.v.1998, 1 @ 2 29, IM. Homi Néméi, Drahy NR (43), 10.ix.2002, 1 2,
+IM. Vapenice, Trstna brook valley (50), 6.vii.2001, 1d, IM & PK. Lopenik, U Zvonice NM (58), 25.ix.2004,
+1 Q, IM. Lopenik, Lopenické sedlo (59), 8.v.2004, 1 4 1 9, IM. VySkovec, Pod Hriboviiou NM (66),
+25.ix.2004, 1 9, PK. Radgjov, village (70), 14.viii.1977, 1 3 4 29, RJ. Mala Vrbka, Research Hill (76),
+2.2001, 2 34 2 QQ; 28.vii.2001, 1 J 1 Q; all IM & PK. Nova Lhota, Vapenky, Porizky NNR (95),
+15.vii.1998, mana 28.x.2011, 2 39 3 29; all IM. Javornik, Machova NR (97), May 14, 1998, many °°
+293 9.vii.1998, 2 3S 4 9; 8/8/2000, 1d 4 29; all IM
+
+ 
+
+   
+
+      
+ 
+
+ 
+
+    
+
+ 
+
+ 
+
+  
+ 
+
+    
+
+Distribution and frequency in the Bilé Karpaty PLA: Widespread throughout the area;
+quite common in wet meadows, rarely also at ruderal sites. General distribution:
+European. Host plants: Cirsium spp. (C. oleraceum, C. palustre, C. heterophyllum, C.
+arvense, and C. erisithales). Red List status: -. Scott's Trioza dichroa, 1879
+
+xamined. Komiia, Novy Dvir (48), 21 .viii.1984, 11 Oo 1
+
+ 
+
+Material
+
+ 
+
+Distribution and frequency in the Bilé Karpaty PLA: Known from only one finding
+on ruderal vegetation in the central part of the area. General distribution: Western
+Palaearctic. Host plant: Atriplex tatarica. Red List status: -. Trioza dispar Liw, 1878 (VU) (Fig. 10)
+
+Material examined. Pote P, Plostiny NR (10), 13.ix.1999, 2 92, IM. Valaiské Klobouky, Bilé potoky NR (11),
+14.viii.2006, 1 9, PK. NedaSov, Jaloveova strah NR (15), 3. 39 29; 10.ix.1999, 9 3A 16 29;
+5.x.2004, 1 3; 28.vii.2005, 1 2, 12.vii.2006, 3 99; all IM; 16.viii.2006, 3 22, PK. NedaSov, Kahioury NM
+(16), 12.vii.2006, 1 3, IM. Nedasov, Pod Ciganem NM (30), 30.vi.2004, 3 S33 29; 5.x.2004, 1 3 all IM. Stary Hrozenkov, Skalka quarry (63), 8.viii.2007, 4 QQ, IM. Stary Hrozenkov, Hrozenkov Terraces (64),
+2.vii.2007, 1 3, IM
+
+ 
+
+       
+
+ 
+
+   
+
+Distribution and frequency in the White Carpathians PLA: Restricted to the relatively cool
+north-eastern and central parts of the area, locally common there, particularly in pastures. General distribution: Eurosiberian. Host plants: Taraxacum spp., Perhaps also
+Leontodon hispidus. Red List status: Vulnerable. Comments. In the Czech Republic, Trioza dispar has been mostly found associated with
+Taraxacum sect. Ruderalia as locally common in a few submontane and mountain
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 141
+
+1. MALENovSKY & P. ​​LAUTERER
+
+regions (the Javorniky Mts., Kralicky Sneznik Mts., Rychlebske hory Mts., Jeseniky Mts. and Drahanska vrchovina Highlands in eastern, central and nothern Moravia, and the
+Sumava Mts. in southern Bohemia; BAuDys 1954, MALENovskY & LAUTERER 1997,
+LAUTERER & MALENOVSKY 2002, MALENOVSKY et al. 2008, and unpublished material
+from the Moravian Museum, Brno). Trioza flavipennis Foerster, 1848
+
+Published records. MALENovskY (2001): Kn & 2dub, Certoryje NNR, Jarkovee brook valley (74). Additional material examined. ValaSské Klobouky, U Rybnikti (4), May 22, 1999, 1 Q; 10.ix.1999, 2 4c; all IM. Valaiské Klobouky, Javorivky NR (5), 11.ix.1999, 1, IM. Valaske Klobouky, Brumovka brook valley (7),
+19.v.1999, 1 2, IM. Valasské Klobouky, Na Nivach (8), 9.ix.1999, I 2, IM. Valasské Klobouky, Bilé potoky
+NR (11), 19.v.1999, 1 3, IM. NedaSov, Kaiir hill and Hruové dolina valley (17), 20.v.1999, 1 31 @, IM. Bylnice, Lazy NR and surrounding meadows on N slopes of Plaiava hill (28), 21.v.1999, 1 9, IM. Holy
+Stépan, 31), 21.v.1999, 1 3 2 29, IM. Horni Néméi, Horni kopec hill (45), 23.v.2002, 1 9 and galls,
+IM. Radgjov, Lugina (73), 7.v.2000, 1 ¢ and galls, IM. Suchov, Suchovské Mlyny (85), 6 May 2000, 2 33 3 2
+IM. Strani, Javorina NNR (102), 29.x.2011, IS, IM. Distribution and frequency in the White Carpathians PLA: Probably widespread and
+common throughout the area; usually in quite eutrophicated sites, e.g. along brooks and
+roads. General distribution: European. Host plant: Aegopodium podagraria. Red List
+status:
+
+ 
+
+Trioza foersteri Meyer-Diir, 1871
+
+Material examined. Navojnd, Vrehy hill (12), 12.vii.2006, larvae and galls, IM. Lopenik, Mikuléin vrch hill
+(60), 24.vii.2005, 1 9, IM. Distribution and frequency in the Bilé Karpaty PLA: Recorded only from two sites in
+the north-eastern and central parts of the area; in beech and spruce forest undergrowth. General distribution: Central and southern Europe, North Africa. Host plant: Mycelis
+muralis. Red List status: -
+
+Trioza galii Foerster, 1848
+
+Material examined. Valaiské Klobouky, U Rybnikii (4), May 22, 1999, 1 2; 10.ix.1999, 1 3; both IM. Bylnice,
+Bylnitky (26), 24.vi.1982, 1 3, PL. Byinice, Lazy NR and surrounding meadows on N slopes of Plaiava hill
+(28), 12.ix.1999, 1 2, IM. Horni Néméi, Drahy NR (43), 30.vi.2001, 1 Q, IM. Banov, Skalky hill (47),
+21.viii, 1984, 2 G41 Q, PL. Komita, Novy Dviir (48), 21 viii.1984, 2 3 1 Q, PL
+
+Distribution and frequency in the White Carpathians PLA: Perhaps widespread throughout
+the area, although not documented from its extreme south-western part; uncommon in
+various, wet to dry, open grassland sites (meadows and pastures, a shore of a pond, etc.). General distribution: Western Palaearctic and Central Asia (BURCKHARDT & LAUTERER
+2006). Host plants: Galium spp. (G. album, G. aparine, and G. palustre) and Asperula
+cynanchica. Red List status:
+
+ 
+
+Comments. A revision of previously published data on T. galii from the Czech Republic
+is needed because of the involvement of closely-related T. velutina (see BURCKHARDT &
+
+142 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+LAUTERER 2006). Based on recently published data, 7. galii is known from both Bohemia
+and Moravia (LAUTERER 2001, MALENOVSKY 2006, MALENOVSKY et al. 2011). The record
+from Certoryje NNR (MALENOVSKY 2001) belongs to 7. velutina. Trioza proxima Flor, 1861 (VU)
+
+Published records, Bayer (1909, 1914): Pozlovice, towards Homi Lhota (1a). LAuTERER & MALENOVSKY
+(2002): Nedasov, Jaloveova strdit NR (15); NedaSov, Kaitir hill and HruSova dolina valley (17),
+
+Additional material examined. NedaSov, Jalovcova strai NR (15), 25.vi.2002, 1 9, PK; 12.vii.2006, 1 4 3
+22, IM; 16.viii.2006, 1 3, PK. Distribution and frequency in the Bilé Karpaty PLA: Recently recorded only from the
+north-easternmost part of the area; found there on Hieracium pilosella and as
+overwintering specimens on Juniperus communis at two small sites with sunny grassland
+on acidic soils. General distribution: Europe (except Scandinavia), Caucasus. Guest
+plants: Hieracium spp. Red List status: Vulnerable. Comments. Trioza proxima is currently probably quite rare in the Czech Republic and
+occurs only locally at sunny dry sites in highlands. Besides the White Carpathians Mts., There
+have been recent records from the Bohemian-Moravian Highlands and several historical
+records based on galls (reviewed in LAUTERER & MALENOVSKY 2002). Foerster trioza, 1848
+
+Published records. MaLeNovsk (2001): Kn & 2dub, Certoryje NNR (74, 75). Additional material examined. NedaSov, Jalovcova strait NR (15), 5.x.2004, 1 ¢, IM. Lopenik, U Zvonice
+NM (58), 25.ix.2004, 2. 33, IM. Zitkova, .v.2007, 1 9, MT, PC, J & JM, Velka nad
+Veligkou, village (83), 22.x.2000, 1 «IM. Javornik, Jazevéi NNR (92), 6.v.2000, 2 99, IM. Strani,
+Javorina NNR (102), 29.x.2011, 16 3d 25 99, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread throughout the area
+but quite rarely documented; associated with various habitats. Overwintering specimens
+were also found at the highest elevations: on the top of Mt Velka Javotina (ca. 950 m). General distribution: Palacarctic. Host plants: Quercus spp. (Q. petraea, Q. robur, and
+O. pubescens). Red List status: -
+
+Trioza rhamni (Schrank, 1801)
+
+Published records. MaLENovsky (2001): Kn82dub, Certoryje NNR, Jarkovee brook valley (74). ional material examined, Vala’ské Klobouky, DobSend NM (6), 2.vii.1999, 1 2, IM. Bylnice, Na Strazi
+(25), 16.vi.2006, 1 9; 11.vii.2006, 1; both IM. Horni Néméi, Drahy NR (43), 15.v.1998, several $ c 29, IM. Strini, Hméarky NM and Zabka reservoir surroundings (54), 10.ix.1998, 1 2, IM. Mala Vrbka, Research hill
+(76), May 2, 2001, 19, IM & PK. Velka nad Veliékou, Zahrady pod Hajem NNR (84), 14.v.1998, 1 2, IM. Suchov,
+Suchovské Mlyny (85), 29.vi.2001, 1 2, IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread throughout the area,
+even if quite rarely documented; associated with forest margins and scrub scattered in
+meadows and pastures. General distribution: Europe, Caucasus, and Central Asia. Guest
+plant: Rhamnus cathartica. Red List status: -. Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 143
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Trioza rotundata Flor, 1861
+
+Material examined, Valaiské Klobouky, Javorivky NR (5), 22.v.1999, 1 9; 11Lix.1999, | @; both IM. Nedaoy, Kaitiir hill and HruSova dolina valley (17), 20.v.1999, 2 3g 2 22, IM. Distribution and frequency in the Bilé Karpaty PLA: Found only in shaded spring
+fens with Cardamine amara in the relatively cooler, north-easternmost part of the area:
+rare. General distribution: Europe and possibly also Caucasus (BURCKHARDT &
+LAUTERER 2002). Host plants: Cardamine amara and perhaps other Cardamine spp. Red
+List status:
+
+ 
+
+Trioza schrankii Flor, 1861 (EN) (Fig. 11)
+
+Published records. Laurerer & MALENOvsKY (2002); Vala’ské Klobouky, Brumovka brook valley (7);
+hats Hats, Javorivky NR (5); NedaSov, Kaftoury NM (16); Bylnice, Lazy NR and surrounding
+meadows on N slopes of Plaiiava hill (28). Additional material examined. Valasské Klobouky, U Rybnikii (4), 10.ix.1999, 1 2, IM, NedaSov, Kaitoury
+NM (16), 17.vi.2006, 2 99; 12.vii.2006, 2 29; all IM. Lopenik, U Zvonice NM (58), 8.v.2004, 1 7 99, IM;
+27.vi.2004, 1 9, IM; 18.viii.2004, 2 29, PK; 21.v.2005, 5 Sat 18 99, IM; 24.vii.2005, 7 33 10 99, IM;
+3.ix.2005, 1 ¢ 3 29, PK. Vyskovec, Pod Hriboviiou NM (66), May 8, 2004. May 21, 2005, 1 3 1 9; alll
+IM. VySkovec, Ve VIéi NR (67), 22.v.2005, 2 2, IM. Nova Lhota, Vapenky, Defeats of NNR (95), 28.x.2011, 1
+33.99, 1M
+
+ 
+   
+
+   
+
+   
+
+ 
+
+   
+
+Distribution and frequency in the Bilé Karpaty PLA: Locally common in mesic,
+species-rich meadows and along forest margins in the north-eastern and central parts of
+the area but apparently absent from the warmest south-western part despite the
+occurrence of its host plant. General distribution: Mountains of central, south-western
+and eastern Europe (LAUTERER & MALENOVSKY 2002). Host plant: Astrantia major. Red
+List status: Endangered. Comments. In the Czech Republic, 7: schrankii has been recorded so far only locally in
+a few submontane areas: the White Carpathians Mts. and Hostynské vrchy Hills in eastern
+Moravia and the Blansky les Mts. in southern Bohemia (LAUTERER & MALENOVSKY
+2002). Trioza senecionis (Scopoli, 1763)
+
+Material examined. ValaSské Klobouky, Javortivky NR (5), 2 387 99, IM. Valasské Klobouky,
+Brumovka brook valley (7), 19.v.1999, 2 34 4 94, IM. Valaiské Klobouky, Bilé potoky NR (11), 19.v.1999,
+8 32.5 29, IM. Nedasov, Kahr hill and Hrusova dolina valley (17), 20.v.1999, 6 82 7 99, IM. Svaty Stépan,
+Nadiiéi (31), 21.v.1999, 1 9, IM. Strani, Javorina NNR (102), 29.x.2011, 2. 29, IM. Distribution and frequency in the Bilé Karpaty PLA: Recorded only from the cool,
+north-eastern part of the area and Mt Velka Javofina in the south-west; locally common
+in beech and spruce forest undergrowth. General distribution: Central and eastern
+Europe, Caucasus. Host plant: Senecio ovatus. Red List status: -. 144 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+Trioza urticae (Linnaeus, 1758)
+
+Published records. Buys (1966b): Bojkovice, town (20). MALENovsKY (2001): KnéZdub, Certoryje NNR
+5). ional material examined. Valaiské Klobouky, Brumovska street (3), 19.v.1999, 4 99, IM. Valaéské
+Hats, U Rybnikii (4), May 22, 1999, 2 3 2 29; 10.ix.1999, 1 Q; all IM. Vala’ské Klobouky, Javortivky NR
+1999, 1 2; 2.vii.1999, 2 3; all IM. Vala’ské Klobouky, Dobsend NM (6), May 22, 1999, 1 3; 2.vii.1999,
+3 3 29: all IM. Valasské Klobouky, Brumovka brook valley (7), 19.v.1999, 1 3 1 9, IM. Potet, Plostiny
+NR (10), 4.vii.1999, 6 S25 99, IM; 1.vi.2002, 3 29, IM; 17.viii.2006, 1 3 1 Q, PK. ValaSské Klobouky, Bilé
+streams NR (11), 19.v.1999, | @, IM; 30.vi.1999, 1 3 14 29, PK; 16.vi.2006, 1 Q, IM; 11.vii.2006, 3 29, IM. Nedaioy, village (14), 3.vii.1999, 1 3, IM. NedaSoy, Jaloveova strait NR (15), 20.v.1999, 1 45 29; 3.vii.1999,
+5 $ 3 1 9; all IM. Nedagov, Kaiiir hill and Hrusova dolina valley (17), 20.v.1999, 2 33 1 9, IM. Bylnice,
+Bylnitky (26), 24.vi.1982, 1d 1 2, PL. Bylnice, railway station environs (27), 1.vii.1999, 2
+PK; 11.ix.1999, 5 99, IM. Bylnice, Lazy NR and surrounding meadows on N slopes of PI
+21.v.1999, 1 Q, IM. Svaty Stépan, Nadfiéi (31), 21.v.1999, 2 99, IM. Sidonie, Vkirsky prismyk pass (32),
+12.ix.1999, 1 2, IM. Borsice u Blatnice, Borsicky potok brook valley (37), 16.viii.1984, 2 33, PL. Korytna,
+Biezi (41), 5.vii.2001, 27 33 20 29, IM. Suchov, Kazivee brook valley (42), 15.v.1998, 6 29, IM. Upper
+Germany, Drahy NR (43), 30.vi.2001, 1 J 1 2, IM. Horni Néméi, Vinohradky (44), 10.ix.2002, 1 2, IM. Homi
+Néméi, Lesnd hill (46), 15.v.1998, 2 92, IM. Komiia, Lom Rasové NM (49), 5.vii.2001, 1 3, IM. Limestone,
+Trstna brook valley (50), 6.vii.2001, 2 3a 1 9, IM & PK. Korytna, Lubna pond environs (52), 5.vii.2001, 11
+383 29, IM. Strani, Hméarky NM and Zabka reservoir surroundings (54), 10.vii.1998, 1 2; May 16, 1998, 2 3d
+2 29; all IM. Strani, Obecnice hill (55), 2.vii.2001, 278 33 275 29; May 23, 2002, 2 29; all IM & PK. Strini,
+Ditbrava hill (57), 7.vii.1980, 1 2, PL. Lopenik, U Zvonice NM (58), 27.vi.2004, 1 9, IM. Lopenik, Lopenicke
+saddle (59), 25.ix.2004, 1 2, IM. Lopentk, Mikuléin vrch hill (60), 25.ix.2004, 4 2, IM. Stary Hrozenkov,
+Skalka quarry (63), 2.vii.2007, 1 Q, IM. Stary Hrozenkov, Hrozenkov Terraces (64), 2.vii.2007, 12 34 7
+8.viii.2007, 2 33 2 QQ; all IM. VySkovec, Wyskovecké BoSatky (65), 27.vi.2004, 2 dd 2 2 °, IM. Radgjov,
+Zerotin NM (68), 11.vii.1998, 1 3 3 99, IM. Radgjov, Luina (73), 14, vii.1998, 1 3; 17.vi.2000, 3 33.5 29;
+28.vii.2000, 1 ¢ 2 29; 22.vi.2001, 3 4 8 QQ; all IM & PK. KnéZdub, Certoryje NNR, Jarkovec brook valley
+(74), 22vi.2008, 1 ¢, KD & KF. Mala Vrbka, Research Hill (76), 17.iv.2000, 1 3; 18.vi.2000, 2 3 ¢ 1 9;
+2.2001, 19; April 22, 2001, 1 Q; all IM & PK. Radgjov, Veselka hill (81), I1.vii.1998, 1 3 3 99, IM. Radgjov,
+Mésiéni tidoli valley (80), 8.ix.1998, 1 4 29, IM. Radgjov, Kutky NR (82), 2.vi.1979, 1 2, PL. Velka nad
+Veliékou, village (83), 22.x.2000, 4 313, IM. Velké nad Velitkou, Zahrady pod Hajem NNR (84), 18.iv.2000, 3
+SE 1 Q; 27.vii.2000, 1 2; all IM. Suchov, Suchovské Mlyny (85), 6.v.2000, 1 2; 29.vi.2001, 8 S38 99; all
+IM. Javornik, loampit W of village (91), 24.v.2002, 9 29, IM. Javornik, Jazevéi NNR (92), 15.vii.1998, 2 oo
+6v.2000, 5 SI -13 22; 19.vi.2000, 9 34 6 OY: 10.ix.2000, 1 31 Q; all IM. Javornik, Petruchovy
+Mills (93), 23.ix.2001, 19, IM. Nova Lhota, Vapenky, Defeats NNR (95), 28.x.2011, 1 ¢ 2 99, IM. New
+Lhota, Vpenky, Velika brook valley towards Mt Velka Javofina (96), 12.vii.1998, 8 Sd 2 29, IM. Javornik,
+Machova NR (97), 14.v.1998, mana 33 29; 9.vii.1998, 8 Sd 3 8.v.2000, 2 33 9 2; all IM. Strini,
+Zéhumenice NM (99), 2.vii.2001, 3 SP 3 29, IM & PK; May 23, 2002, 1 3, PK. Strani, Javorina NNR (102),
+1979, 13, RJ; 4.vii.2001, 22 Fo 18 9Y; 29.x.2011, 9 FS 18 PQ; all IM. Distribution and frequency in the Bilé Karpaty PLA: Widespread and common in
+various habitats (e.g. pastures, ruderal sites, forests, in the vicinity of standing and
+running water, etc.) throughout the area, from the lowest to the highest elevations. General distribution: Palaearctic. Host plants: Urtica dioica and U. urens. Red List
+status: -
+
+Trioza velutina Foerster, 1848
+
+Published records. Matenovsky (2001): Kn & 2dub, Certoryje NNR (74, 75) [as Trioza galii, misidentified]
+Material examined. ValaSské Klobouky, Brumovka brook valley (7), 19.v.1999, 1, IM. NedaSov, Jaloveova
+strait NR (15), 20.v.1999, 6 3d 7 QQ; 28.v.2005, 3 3S 8 2; 28.vii.2005, 2 34 1 Q; 6.ix.2005, 1 J; all IM. Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 145
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Nedaiov, Kaitoury NM (16), 17.vi.2006, 1 2, IM; 16.viii.2006, | 1 2, PK. Brumov, Kloboucka street (24),
+32
+
+28v.2005, 2 99, IM. Bylnice, Na Strazi (25), 16.vi.2006, 1 9, IM. Bylnice, Bylnitky (26), 24.vi.1982,
+g, Milejovské louky meadows (35), 24.v.2009, 5 6.viii.2009, 1 9; all PB. Horni N
+Drahy NR (43), 15.v.1998, 1 9, IM; 23.v.2002, 2 99, IM & PK. Stary Hrozenkov, Skalka quarry (63),
+22.ix.2007, 1, IM. KnéZdub, NNR Certory, Jarkovec brook valley (74), 6.v.2000, 1 4 1 9, IM; 2.vi.2008,
+1 9, IM; 12.viii.2008, 1 9, KD & KF; 10.ix.2008, 1 9, IM. Knéadub, Certoryje NNR (74, 75), 19.vi.1980, 1
+2, PL. Mala Vrbka, Vzkum hill (76), May 2, 2001, 1.4 1; 28.vii.2001, 1; all IM & PK, Radgjoy, village (70),
+14.viii.1977, 2 32, RJ. Raddjov, Mésiéni tdoli valley (80), 8.ix.1998, 1 9, IM. Velka nad Velika, Zahrady
+NNR (84), 27.vii.2000, 1 2, IM. Suchoy, Suchovské Mlfny (85), 16.viii.2004, 1 2, PK; May 26, 2005
+IM; 27.vii.2005, 5 32, IM. Suchov, Tmovsky Mlyn (86), 26.v, 2005, 1 3, IM. Javornik, Jazevéi
+NNR (92), 6 May 2000, 3 @ 9, IM. Javornik, Petruchovy Mlyny (93), May 3, 2001, 1 Q; 17.vii.2002, 1 9; both IM. Javornik, Machova NR (97), 14.v.1998, several 33 29; 8.v.2000, 2 9 9; all IM. Strdni, Zéhumenice NM (99),
+24.v.2001, 5 99, IM. Distribution and frequency in the White Carpathians PLA: Widespread and common
+throughout the area; in sunny, dry to mesic grassland (meadows, pastures, waysides, field
+balks, etc.). General distribution: Probably Palaearctic but this has to be checked
+(BURCKHARDT & LAUTERER 2006). Host plants: Galium spp. Red List status: -
+Comments. Trioza velutina was partly confused with T. galii in the past, so previous
+Czech records should be revised after BURCKHARDT & LAUTERER (2006). The species is,
+however, apparently widespread and fairly common in the Czech Republic (LAUTERER
+2001, MALENOVSKY 2006, MALENOVSKY ef al. 2011). Discussion and conclusions
+
+A total of 85 species of jumping plant-lice has been recorded to date from the Bilé
+Karpaty PLA and a few closely adjacent localities. The fauna of this region may be
+characterized as species-rich as it comprises 65% of all Psylloidea species known to
+occur in the Czech Republic. The number of species recorded in the Bilé Karpaty PLA
+also appears relatively high in comparison with three other areas in the Czech Republic
+where the fauna of Psylloidea has been the subject of detailed faunistic surveys: the
+Palava Biosphere Reserve in its extended concept (65 species of Psylloidea, listed by
+LAUTERER 1995), the Jizera Mountains Mts. (40 species; LAUTERER 2001), and the
+Kokofinsko Protected Landscape Area (41 species; MALENOVSKY 2006). As well as many widely distributed and generally common species, the jumping
+plant-louse fauna of the Bilé Karpaty PLA includes several species noteworthy from
+biogeographical and conservationist viewpoints. Three of them, Bactericera lyrata, B.
+substriola and Cacopsylla albipes, are recorded here for the Czech Republic for the first
+time. Bactericera lyrata has been known so far only from the type series recently
+described from Slovenia (SELIAK et al. 2008) and a few additional specimens from
+Hungary (P. Lauterer, unpublished). Due to its close resemblance to related species, it
+may have been overlooked or misidentified also in other countries. Based on the few data
+available so far, B. / yrata occurs sporadically in mesic to slightly wet ruderal habitats
+(e.g. along ditches, drainage channels, and field margins) at low elevations in relatively
+warm regions. Bactericera substriola is a member of a taxonomically critical group of
+
+146 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+similar species as well (OSSIANNILSSON 1992, BURCKHARDT & LAUTERER 1997b). It is a
+willow-feeder that is probably more widespread than currently known from published
+data. In central Europe, Cacopsylla albipes is a rare species confined to sunny forest
+margins or open forests, often in hilly situations or mountains (LAUTERER 1965, CONCI et
+al. 1993). Sunny forest margins in the Bilé Karpaty PLA, particularly its south-western
+part, are also inhabited by Cacopsylla viburni, Eryngiofaga lautereri and Livilla radiata,
+remarkable thermophilous elements in the local fauna, that extend into the Bilé Karpaty
+from neighboring outskirts of the Pannonian lowland (LAUTERER 1963, 1979, 1999;
+MALENovskY et al. 2011). In contrast, several orophilous and / or psychrophilous species
+occur in the central and north-eastern parts of the Bilé Karpaty Mts., where they are
+restricted to floristically rich pastures (Craspedolepta sonchi, Trioza abdominalis, T.
+cerastii, T. chrysanthemi, T. dispar, and T. proxima), meadow margins (Trioza schrankii),
+spring fens (Aphalara calthae, Cacopsylla elegantula, and Trioza rotundata), and forests
+(Trioza foersteri and T. senecionis). Some of these species are widely distributed in
+northern Europe and / or Asia and restricted mountain areas in central Europe (perhaps
+presenting a boreomontane distribution: e.g. Cacopsylla elegantula, Trioza abdominalis,
+T. cerastii, T. chrysanthemi, and T. dispar), or they occur in the mountain complexes of
+central and southern Europe (the Alps, Carpathians, Pyrenees, Balkans, etc. ), without
+being reported from Scandinavia and northern Siberia (Trioza schrankii and T.
+senecionis) (GEGECHKORI & LOGINOVA 1990, OSSIANNILSSON 1992, Concl et al. 1996,
+LAUTERER 1999, LAUTERER & MALENOVSKY 2002, LASTUVKA ef al. 2008, BURCKHARDT
+2011). Other local species also include the acidophilous Strophingia ericae, found on a
+fragment of heathland (Calluna vulgaris) only in the environs of NedaSov at the north-
+easternmost tip of the White Carpathians and Craspedolepta nebulosa and C. subpunctata,
+both of which were recorded on Epilobium angustifolium on the top of Mt Velka
+Javorina, the highest point in the Bilé Karpaty Mts. Climatic and / or historical factors
+rather than the indigenous flora may provide possible explanations for differences in the
+fauna of Psylloidea between the south-western and north-eastern parts of the Bilé
+Karpaty, as the host plants of most of the above-mentioned species are generally common
+and widely distributed in the area. However, at least for Cacopsylla viburni, Strophingia
+ericae and Trioza rotundata, restricted distributions of their respective host plants,
+Viburnum lantana, Calluna vulgaris and Cardamine amara, must be the main cause for
+the local occurrence of these psyllid species in the Bilé Karpaty (HAJEK 1998, JONGEPIER
+& JONGEPIEROVA 2006, JONGEPIER & PECHANEC 2006). Three species, Cacopsylla
+hippophaes, Livilla variegata and Psylla buxi (all allochthonous in the fauna of the Czech
+Republic: MALENovsky & LAUTERER 2005a, b, c), occur in the Bilé Karpaty PLA only in
+villages, on ornamental woody plants in gardens, parks, cemeteries, around churches, etc. and do not spread into natural habitats. Altogether 17 species recorded in the Bilé Karpaty PLA appear in the Red List of
+threatened invertebrates of the Czech Republic (LAUTERER & MALENOVSKY 2005),
+categorized as: extinct - Tiioza agrophila, endangered - Bactericera kratochvili, B.
+modesta, Cacopsylla abdominalis, Eryngiofaga lautereri, Livilla radiata, T.
+chrysanthemi, T. schrankii, vulnerable - Aphalara calthae, Bactericera trigonica,
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 147
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Cacopsylla viburni, Craspedolepta sonchi, Trioza abdominalis, T. cerastii, T. dispar, and
+T. proxima; and near-threatened - Bactericera maura. In addition to the species already
+mentioned in the preceding paragraph, Bactericera modesta is particularly noteworthy
+from a conservationist viewpoint as the Bile Karpaty PLA probably represents one of the
+few remaining regions in the Czech Republic where it can still find relatively large areas
+of suitable habitats: non-intensively managed humid meadows with abundant
+populations of one of its host plants, Sanguisorba officinalis. Trioza agrophila, known
+from the close vicinity of the current Bilé Karpaty PLA (Kobyli hlava Hill near Hluk)
+based on past findings of galls (HUBACEK 1979) has not been confirmed in the area in
+recent years, Trioza agrophila also disappeared from other places in the Czech Republic
+after 1970 and has been assumed to be extinct in the whole country (LAUTERER 1998,
+LAUTERER & MALENOVSKY 2005). The high diversity and the considerable number of threatened species of Psylloidea
+present in the area make the Bilé Karpaty PLA probably one of the most important
+regions for the conservation of this phytophagous insect group in the Czech Republic. As
+many species are dependent on the existence of species-rich grasslands, spring fens and
+forest margins, which need to be maintained by grazing, mowing and / or (selective) scrub
+removal, an active but sensible approach to the management of these habitats on the part
+of farmers and nature conservation authorities is essential to sustaining the rich regional
+jumping-plant louse fauna in the long term. Acknowledgments
+
+Igor Malenovsky would like to thank Pavel Bezdétka (currently Museum of
+Highlands, Jihlava), Miroslav Janik (Czech Union for Nature Conservation, Local
+Section White Carpathians), Ivana Jongepierova (Czech Union for Nature Conservation, Local
+Section Kosenka, and the Bilé Karpaty PLA Management, Veseli nad Moravou) and
+Ondiej Konvitka (the Bilé Karpaty PLA Management, Luhatovice) for their
+encouragement and logistical support of field work in the Bilé Karpaty PLA since 1998. Great help in the field and collection of the material was faithfully provided by Petr
+Kment (Department of Entomology, National Museum, Prague). Thanks are extended to
+Hana Malenovska, Jana Nerudova, Marie Zhai, Michal Horsak, Jiti Hiebieek, Petr
+Smarda, and Toma ’Vymyslicky and the late Jitka Krej ¢ i, for their wonderful
+companionship during many unforgettable field excursions. Katarina Devanova and
+Karel Fajmon (both of the Czech Union for Nature Conservation, Local Section Bilé
+Karpaty) kindly assisted in taking samples from the Certoryje NNR in 2008, Michal Tkoé
+(currently Department of Entomology, National Museum, Praha) in material sorting, and
+Karel Ovesny (Bilé Karpaty PLA Management, Luhatovice) in preparing the map of
+collecting sites (Fig. 1). The preparation of the paper was supported by grant No. MK00009486201 from the Ministry of Culture of the Czech Republic to the Moravian
+Museum, Brno and consequent institutional support (MK000094862). 148 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+ 
+
+Figs 2-9. Some noteworthy jumping plant-louse species recorded in the Bilé Karpaty PLA. 2 - Aphalara
+calthae (Linnaeus); 3 - Cacopsylla abdominalis (Meyer-Diir); 4 - Cacopsylla albipes (Flor); 5 -
+Cacopsylla viburni (Léw); 6 - Livilla radiata (Foerster); 7 - Bactericera lyrata Seljak, Malenovsky et
+Lauterer; 8 - Bactericera substriola Ossiannilsson; 9 - Trioza chrysanthemi Low; 10 - T. dispar Low; 11
+~ T. schrankii Flor. Scale bar 0.5 mm. Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 149
+
+1. MALENovSKY & P. ​​LAUTERER
+
+Summary
+
+ 
+
+joidea) Chriingné landscape areas and biosphere reserves of the White Carpathians. On the basis of a faunistic survey in the years 1998-2011, dfivgjSich collections stored in the collections of the Moravian
+of the Provincial Museum in Brno and tidajia published in the literature was in the Chrinena landscape area and biosphere
+reservation White Carpathians and at several nearby localities so far found a total of 85 species of mer
+(Hemiptera: Sternorrhyncha: Psylloidea). Three species, Bactericera lyrata Seljak, Malenovsky et Lauterer, 2008,
+Bactericera substriola Ossiannilsson, 1992 and Cacopsylla albipes (Flor, 1861), are listed here for the first time
+Of the Czech Republic, the fauna of the Moravian side of the White Carpathians Ize can be characterized as
+as it includes 65% of all types of contemporaneous species from the Czech Republic. Except many wide
+In the White Carpathians, 17 species were found in the Red Carpathians.
+list of endangered invertebrates of the Czech Republic. They are peculiar from the point of view of nature protection and biogeography
+important thermophilic species associated with sunlit forest edges (Cacopsylla albipes and C. viburni (Low, 1876)),
+possible dry grasslands (Eryngiofaga lautereri Loginova, 1977, Livilla radiata (Foerster, 1848)), vihkomilné
+spring species, wet meadows and creeps (Aphalara calthae (Linnaeus, 1761), Bactericera
+maura (Foerster, 1848), B. modesta (Foerster, 1848), B. substriola, Cacopsylla abdominalis (Meyer-Diir, 1871),
+C. elegantula (Zetterstedt, 1840)), ruderalni habitat '(Bactericera lyrata and B. trigonica Hodkinson, 1981)
+and also several mountainous and cold-loving species, which are here binding to floristically rich
+pastures and meadows in the central and north-eastern part of the White Carpathians (Craspedolepta sonchi (Foerster, 1848)),
+Trioza abdominalis Flor, 1861, T. cerastii (Linnaeus, 1758), T. chrysanthemi Low, 1878, T. dispar Low, 1878,
+T. proxima Flor, 1861, T. schrankii Flor, 1861). The species Trioza agrophila Low, 1878 was introduced from the area to
+The finding of halls in the 60s and 70s of the 20th century and its occurrence has not
+considered to have disappeared throughout the CR). Non-aquatic species, introduced species, Cacopsylla hippophaes (Foerster, 1848),
+Livilla variegata (Léw, 1881) and Psylla buxi (Linnaeus, 1758), occur in the White Carpathians only in
+ornamental devines in villages (parks, gardens, hibiscus, etc.). References
+
+Bavpys E, 1916: A contribution to the creation of the galleries in Bohmen, dealings of the Imperial-Kenya
+Zoological Botanical Society in Vienna 1916: 49-136. Baupys E. 1926a: Quarters of Contributions to the Zoocecidological Exploration of Moravia and Silesia. (Research on the
+zoocecides of Moravia and Silesia. Quatrigme communication.) Shornik of the Natural Science Club in Brno
+8 (1925): 1-87 (in Czech, French title). Bavpys E. 1926b: Species of contributors to the spread of zoocecidia in Bohemia. (Second contribution to the extension of
+zoocecides in Bohemia.) Proceedings of the University of Agriculture in Brno, CSR, Faculty of Economics C7:
+1-105 (in Czech, French title). Baupys E. 1926c: Heels contribute to the zoocecidiological exploration of Moravia and Silesia. (Research on the
+Zoocecides of Moravia and Silesia. Fifty contribution.) Proceedings of the Agricultural School in Brno,
+CSR, Fakulta Hospoddi'ské C 8: 1-48 (in Czech, French title). Baupys E. 1944: Contribution to the spread of zoocecidia in the vicinity of Velichovky. (A contribution to the processing of
+Zoocecidien in the surroundings of Welichowky.) Proceedings of the Entomological Department at the Zoological
+Sbirkéich Zemského Musea v Praze 21-22: 127-138 (in Czech, German summary),
+
+Baupys E. 1954: Zoocecidia from the region of Silesia and the adjacent part of Moravia. (The galleries from the area
+Silesia and the following parts of Mahrens.) Stitni pedagogické nakladatelstvi, Praha, 288 pp (in
+Czech, German and Russian summary). Baupy $ E. 1960: Zoocecidia Kotouge and surroundings ~ II. [Zoocecidia of the Kotout Hill and its environs ~ I1.] Prirodovédnys Casopis Slezsky 21: 566-581 (in Czech). Baupy E. 1962: Contribution to the knowledge of the spread of halo (zoocecidif) in the Olomouc area. [A contribution to the
+knowledge of the distribution of galls (zoocecidia) in the Olomouc Region.) Shornik of the Museum of National History
+in Olomouc 5: 81-191 (in Czech). Baupys E. 1964: Types of contributions to the spread of zoocecidia in the East Bohemian region. [A second contribution to the
+distribution of zoocecidia in eastern Bohemia.] Acta Musei Reginachradecensis, Series A: Scientiae
+Nature 6: 163-220 (in Czech). 150 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+BAupyS E. 1965: Zoocecidia Osoblazska - II. (Contribution to the Cecidia in the surroundings of
+Osoblaha ~ IL.) Acta Musei Silesiae, Series A (Opava) 14: 141-152 (in Czech, German summary),
+
+Sifeni hdlek on fruit crops in Moravia. (Contribution to the existence of
+
+civies on fruit crops in Moravia.) Shornik University of Agriculture in Brno, Series A
+
+Spisy Fakulty Agronomické 538: 365-378 (in Czech, with French, German and Russian summaries). Baupys E, 1966b: Halky na silenkovitych, rdesnovitych etc. (Gallen an Knéterichgewaichsen,
+Unknowingly, etc.) Zprdvy Regional Museum of Southeast Moravia in Gottwaldová 1-2: 19-24 (in
+Czech, German summary),
+
+Baupys E. 1966c: Contribution to the spread of meadows in the Jihlava region. [A contribution to the distribution of galls in
+the Jihlava Region.] Studies from Visocina, Natural Sciences (Jihlava) 1966: 3-21 (in Czech),
+
+BaupyS E. 1967a: Zoocecidia of Opava and surroundings III. (The galleries of Opava and surroundings - III.) Acta Musei
+Silesiae, Series A (Opava) 16: 7-12 (in Czech, German summary). Bauys E. 1967b: These contributions to the spread of zoocecidia in the East Bohemian region, (Dritter Beitrag zur
+Breeding of zoocecidia in the local circle.) Acta Musei Reginaehradecensis, Series A
+Natural Sciences 8: 71-86 (in Czech, German summary). Baupy $ E, 1969: This supplement to the expansion of the Rychlebské Mountains zoocecidia. (Third accrual for the processing of
+Zoocecidien in dem Reichensteinergebirge (Rychlebské Mountains).) Acta Musei Silesiae, Series A (Opava) 18:
+163-174 (in Czech, German summary). Bayer E. 1909: Hemipterocecidia Seskych. [Galls caused by Hemiptera in the Czech lands.] Vyroeni
+Friendly II. Ceského Statniho Gymndzia v Brné 8: 1-57 (in Czech). Baye E. 1914: Moravian Halky (Zoocecidia). [Moravian galls (Zoocecidia).] Kommisse News for
+Prirodovédecké Prozkouméni Moravy, Oddéleni Zoologické 15: 1-181 (in Czech). BLartyy C., STaRY B., Herverr V., SkocpoPoLe K., KozAx J. & Macek J. 1943: Svil
+jablofiova. [The European red mite and the apple psyllid.] Shirka Lepsi Hospodareni (Prague) 37:
+Czech),
+
+BURCKHARDT D, 2002: Provisional version of the leaflet Central European with the plant plant
+(Insecta, Hemiptera, Psylloidea). Beefrdige zur Zikadenkunde (Halle an der Saale) 5: 1-9. Burcknarpr D. 2008: The psyllid collection of Theodor Hartig in the Bavarian State Collection of Zoology,
+Munich (ZSM) (Insecta, Hemiptera, Psylloidea). Spixiana 31: 207-213. BurckHarpt D, 2011: Fauna Europaea: Psylloidea, Fauna Europaea version 2.4. Available online at
+http://www.faunaeur.org (last accessed on 20 July 2012). BurckHarpr D, & LAUTERER P. 1997a: Systematics and biology of the Aphalara exilis (Weber & Mohr) species
+assembly (Hemiptera: Psyllidae). Entomologica Scandinavica 28: 271-305. Burcknaror D, & LAvTERER P. 1997b: A taxonomic reassessment of the triozid genus Bactericera (Hemiptera
+Psylloidea). Journal of Natural History 31: 99-153
+
+BURCKHARDT D, & LAUTERER P. 2002: Revision of the central European Trioza rotundata Flor complex
+(Hemiptera, Psylloidea): taxonomy and bionomy. Swiss Entomological reports
+Gesellschaft 715: 21-34. Burcxnarpt D. & LAuTERER P. 2006: The Palaearctic triozids associated with Rubiaceae (Hemiptera,
+Psylloidea): a taxonomic re-evaluation of the Trioza galii Foerster complex. Revue Suisse de Zoologie 113:
+269-286. BuRcKHARDT D, & LAUTERER P. 2009: Taxonomy of psyllids (Hemiptera, Psylloidea) associated with apple and
+stone fruits in Central and Southern Europe. Swiss Entomological reports
+Society 82: 253-257. Conct C., RAPISARDA C. & TAMANINI L. 1993: Annotated catalog of the Italian Psylloidea. First part (Insecta
+Homoptera). Acts of the Academy of Agers, Serie 7 B, Class of Mathematical Sciences,
+Physics and Natural 2B: 33-135. Conct C ,, Ravisarpa C. & TAMANint L, 1996: Annotated catalog of the Italian Psylloidea. Second part
+(Insecta Homoptera). Aiti della Accademia Roveretana degli Agiati, Serie 7 B, Classe di Scienze
+Physical and Natural Mathematics 3B: 5-207. Doskocit J. & HURKA K. 1962: Entomofauna of the meadow (Union Arrhenatherion elatioris) and its development (Entomofauna
+der Wiese (Verband Arhenatherion elatioris) and its development.) Debates of the Czechoslovak Academy
+Vedas, Rada Matematické a PFirodnich Vedas 72 (7): 1-99 (in Czech, German summary)
+
+  
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 151
+
+1. MALENovSKY & P. ​​LAUTERER
+
+EHRENDORFER F, & HAMANN U. 1965: Prerequisites for a floristic mapping of Central Europe. Reports
+of the German Botanical Society 78: 35-50. Grcecukort A. M. & LoaiNova M. M. 1990: Psillidy (Homoptera, Psylloidea) USSR (annotirovannyi spisok)
+(The psyllids (Homoptera, Psylloidea) of the USSR: an annotated check list.) Metsniereba, Tbilisi, 162 pp
+(in Russian, English summary). HAJEK M. 1998: Wetland vegetation of the White Carpathians. (The wetland vegetation in the White Carpathians.) Proceedings
+Of the Natural History Club in Uherský Hradist Suppl. 4: 1-157 (in Czech, English summary). HusAcex J. 1979: Contribution to zoocecidological research in Hungary-Hradiste. [A contribution to the
+zoocecidological research in the environs of Uherské Hradi8té.] Zprdvy Vlastivédného Uststav in Olomouc
+197: 1-19 (in Czech, German abstract). JARAUSCH B., BURCKHARDT D., LAUTERER P. & JARAUSCH W. 2009: Psyllids (Hemiptera, Psylloidea) captured
+in commercial apple and stone fruit orchards in southwest Germany, eastern France and northwest
+Switzerland. Reports of the Swiss Entomological Society 82: 205-215. JonGerirr J. W. & JONGEPIEROVA I. 2006: Annotated list of vascular plants Bilich Karpat. (Annotated
+checklist of vascular plants of the White Carpathians Mts.) ZO CSOP White Carpathians, Veseli nad Moravou,
+108 pp (in Czech, English title). Joncepirr J. W. & PECHANEC V. 2006: Atlas of vascular plant distribution in the White Carpathians Protected Landscape Area. (Distribution atlas
+of vascular plants of the White Carpathians Protected Landscape Area.) ZO CSOP dating in White Carpathians, Veseli
+nad Moravou, 202 + 4 pp (in Czech, English title). JoNGEPIEROVA I. (ed.) 2008: Meadows Bilich Carpathians. (Grasslands of the White Carpathian Mountains.) ZO CSOP
+White Carpathians, Veseli nad Moravou, 461 pp (in Czech, English summary). Kaent P. & MALENovskY I. 2008: Plostice (Heteroptera), kfisi (Auchenorthyncha), mery (Sternorrhyncha:
+Psylloidea). (True bugs, leafhoppers, planthoppers, and jumping plant-lice.) Pp. 247-253. In:
+JoncePierova I (ed. ): Meadows Bibich Carpathians. (Grasslands of the White Carpathian Mountains.) ZO CSOP
+White Carpathians, Veseli nad Moravou, 461 pp (in Czech, English summary). Kocourek F. & StarA J. 2007: Harmfulness of measurement measures and protection options. [Damage caused by psyllids
+on pears and possibilities of protection.] Ovocndi Union Newsletter CR 2007 (1): 15-19. Konvicka O., MALENovsKY I, Kent P. & ZMoLik M. 2012: The natural history of the Bilé Karpaty Protected
+Landscape Area and Biosphere Reserve (Czech Republic). In: MALENovskY I., Kent P. & KonviCka O
+(eds. ): Species inventories of selected insect groups in the Bilé Karpaty Protected Landscape Area and
+Biosphere Reserve (Czech Republic). Acta Musei Moraviae, Scientiae Biologicae 96 (2) (2011): 7-35. Kus K., HRoupa L., CHRTEK J. JUN., KAPLAN Z., KIRSCHNER J. & SrEPANEK J. 2002: Klié ke kvvetene Ceske
+of the Republic. (Key to the Flora of the Czech Republic.] Academia, Prague, 928 pp (in Czech),
+
+Kuea P., Maisky J., Korcex F. & JoncrPiErovA I. (eds.) 1992: Chrénend landscape area ’White / White Carpathians. [White / White Carpathians Protected Landscape Area.] Ekologia, Bratislava, 380 pp (in Slovak and Czech,
+English summary). LANG V. 1945: Cikids of the White Carpathians. Seventh Piers & Age to Know Your Cicadas (Cicadas of the White
+Carpathians. Seventh contribution to the knowledge of our cicadas.) Piroda 37: 371-276 (in Czech). Laska P. 1974: Study of Tiber den Méhrenblattfloh (Trioza apicalis Férst.) (Triozidae, Homoptera). Acta
+
+Scientiarum Naturalium Academiae Scientiarum Bohemoslovacae (Bro) 8: 1-44. LAskA P. 2011: Biology of Trioza apicalis - a review. Plant Protection Science 47: 68–77. LaSTOVKA Z., HorsAK M., KMENt P. & MALENOVSKY I. 2008: Zoogeography. (Zoogeography.) Pp. 189-198. In:
+JoncePierova I, (ed. ): Meadows Bibich Carpathians. (Grasslands of the White Carpathian Mountains.) ZO CSOP
+White Carpathians, Veseli nad Moravou, 461 pp. LauTERER P. 1963: Contributions to the late sea (Homoptera, Psylloidea) of Czechoslovakia. (A contribution to the
+knowledge of the psyllid fauna of Czechoslovakia.) Acta Musei Moraviae, Scientiae Naturales 48:
+145-156 (in Czech, English summary). Laurerer P. 1965: A contribution to the knowledge of the psyllid fauna of Czechoslovakia II. Acta Musei
+Moraviae, Scientiae Naturales 50: 171-190. LAUTERER P. 1979: New and interesting records of psyllids from Czechoslovakia (Homoptera, Psylloidea). Acta
+Museums Moraviae, Scientiae Naturales 64: 93-102. LaurereR P. 1981: Leathoppers and psyllids in the food of young house martins (Delichon urbica) in the
+KrkonoSe Mountains (Homoptera: Auchenorrhyncha & Psyllidea). Acta Musei Reginaehradecensis, Series
+A: Natural Sciences 16: 183-193. 152 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012
+
+Jumping plant (Hemiptera: Psylloidea)
+
+LAuTERER P, 1982: New data on the occurrence, bionomics and taxonomy of some Czechoslovakian Psylloidea
+(Homoptera). Acta Musei Moraviae, Scientiae Naturales 67: 133-162. Lauerer P, 1984: Research on Homoptera (Psylloidea) in Czechoslovakia, [Research on jumping plant-lice
+(Homoptera, Psylloidea) in Czechoslovakia.] Price of the Slovak Entomological Society at SAS 4:
+101-121 (in Czech). LAUTERER P. 1991: Psyllids (Homoptera, Psylloidea) of the limestone cliff zone of the Pavlovske vrehy Hills
+(Czechoslovakia). Acta Musei Moraviae, Scientiae Naturales 76: 241-263. LauTerer P, 1993: Notes on the bionomics and occurrence of some psyllids (Homoptera, Psylloidea) in
+Czechoslovakia and the Balkan Peninsula, Acta Musei Moraviae, Scientiae Naturales 77 (1992): 147-156. LaurEreR P, 1994: Psyllids (Homoptera, Psylloidea) from the area flooded by the Nové Mlyny reservoir system
+and its environs in southern Moravia. Acta Musei Moraviae, Scientiae Naturales 78 (1993): 165-200. Laurerer P, 1995: Sternorrhyncha: Psyllinea, In: ROZKOSNY R. & VaNHARA J. (eds. ): Terrestrial invertebrates
+of the Palava Biosphere Reserve of UNESCO, 1. Folia Facultatis Scientiarum Naturalium Universitatis
+Masarykianae Brunensis, Biologia 92: 177-183. LAuTERER P. 1998: Results of the investigations on Hemiptera in Moravia, made by the Moravian Museum
+(Introduction, Psylloidea 1). Acta Musei Moraviae, Scientiae Biologicae 83: 99-126. LaurERER P. 1999: Results of the investigations on Hemiptera in Moravia, made by the Moravian museum
+(Psylloidea 2). Acta Musei Moraviae, Scientiae Biologicae 84: 71-151. Laurerer P. 2001: Mery (Sternorrhyncha, Psylloidea) Jizera Mountains. (The jumping plant-lice (Sternorthyncha,
+Psylloidea) of the Jizera Mountains Mountains.) Shornik of the North Bohemian Museum, Natural Sciences 22: 85-99 (in
+Czech),
+
+Laurerer P. & BURCKHARDT D. 1997: Central and West European willow-feeding jumping plant-lice of the
+genus Cacopsylla (Hemiptera: Psylloidea). Entomological Problems 28: 81-94. LavTerer P. & BURCKHARDT D. 2004: The West Palaearctic species of the Craspedolepta flavipennis (Foerster)
+complex (Hemiptera, Psylloidea). Reports of the Swiss Entomological Society 77:
+251-275. LaurereR P. & MALENovskY I. 2002: New distributional and biological data on European Psylloidea
+(Hemiptera, Sternorthyncha), with special reference to the fauna of the Czech Republic and Slovakia. Entomologica Basiliensia 24: 161-177. LauTERER P, & MALENOVSKY I. 2005: Psylloidea (mery). Pp. 156-159. In: FARKAC J., KRAL D. & Skorpik M. (eds. ): Red list of endangered species of the Czech Republic. Invertebrates, (Red list of threatened species in the
+Czech Republic. Invertebrates.) Nature and Landscape Protection Agency CR, Prague, 758 pp (in Czech and
+English). LupvikovA H., Laurerer P., SuciA J. & FRANOVA J. 2011: Monitoring of psyllid species (Hemiptera,
+Psylloidea) in apple and pear orchards in East Bohemia, Bulletin of Insectology 64 (Suppl): 121-122. LUuDVIKOVA H., SUCHA J. & LAUTERER P. 2010: Monitoring of Cacopsylla mites in apple orchards
+a hrusni ve vychodnich Cechach, (Monitoring of psyllid species in apple and pear plantations in the East
+Bohemia.) Zahradnictvi 2010 (10): 12-15 (in Czech, English abstract). Mackovew P, & JaTIovA M, 2002 (eds. ): Zlinsko. [Zlin Region.] In: Mackovew P. & SEDLACEK M. (eds.) Chrénénd tizemi CR, volume Il. (Protected Areas of the Czech Republic, volume IL] Agentura ochrany
+piirody a krajiny CR and EkoCentrum Bro, Prague, 376 pp (in Czech). MALENovsKY I. 2001: Kfisi (Hemiptera, Auchenorrhyncha) and mery (Hemiptera, Psylloidea) NPR Certoryje v
+PLA Bilé Karpaty, (Hemiptera Auchenorthyncha and Psylloidea of ​​the Certoryje National Nature
+Reserve in the White Carpathians Protected Landscape Area.) Proceedings of the Natural History Club in Hungary
+Hradisti 6: 118-133 (in Czech, English summary). MALENOVSKY I 2006: Mery (Psylloidea, Hemiptera) PLA Kokofinsko. (Jumping plant-lice (Psylloidea,
+Hemiptera) of Kokofinsko Protected Landscape Area.) Bohemia Centralis 27: 323-332 (in Czech, English
+abs
+
+MAteNovSKY I, BANA P. & Kent P. 2011: A contribution to the faunistics of the Hemiptera (Cicadomorpha,
+Fulgoromorpha, Heteroptera, and Psylloidea) associated with dry grassland sites in southern Moravia
+(Czech Republic). Acta Musei Moraviae, Scientiae Biologicae 96: 41-187. MALENOVSKY I, HoRsAK M, & LaSTOVKA Z. 2008: Invertebrates. [Invertebrates.] Pp. 84-93. In: SkoREPA H. (ed. ):
+Boskovicka's natural conditions. Viastivéda Boskovicka. Volume I. [The natural history of the Boskovicko
+region. Volume 1.] Boskovice Museum in Albert Publishing House, Boskovice, 185 pp (in Czech),
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012 153
+
+1. MALENovSKY & P. ​​LAUTERER
+
+MALENOVSKY I. & LAUTERER P. 1997: A new psyllid for the fauna of the Czech Republic, with faunistic notes
+(Homoptera, Psylloidea). Acta Musei Moraviae Scientiae Naturales 81 (1996): 403-404. MAteNovskY I. & LAUTERER P. 200Sa: Psylloidea - Mery. Pp. 274. In: Muikovsky J. & Stvato P. (eds. ):
+Non-native species of fauna and flora of the Czech Republic. [Alien species in the flora and fauna of the Czech
+Republic.] Czech Union. protection of ptirody, Prague, 496 pp (in Czech). MALENOVSKY I. & LAUTERER P. 2005b: Cacopsylla hippophaes (Férster, 1848) - Sea Buckthorn. Pp. 278-279. In: MLikovsky J. & St ¥ BLo P. (eds. Non - aquatic species of fauna and flora of the Czech Republic,
+species in the flora and fauna of the Czech Republic. | Czech Association for Nature Protection, Prague, 496 pp (in
+Czech),
+
+MaLeNovsky I. & LAUTERER P. 2005c: Livilla variegata (Low, 1881) - mera Stédfencova. Pp. 285-286
+Psylloidea - Mery. P. 274, In: MLIKovskY J. & STYBLO P. (eds. ): Non - native species of fauna and flounder
+of the Republic. [Alien species in the flora and fauna of the Czech Republic. Czech Union for the Protection of Nature, Prague,
+496 pp (in Czech),
+
+Mayer C. J., Jarauscn B., Jarauscn W., JELKMANN W., Vitciyskas A, & Gross J. 2009: Cacopsylla
+melanoneura has no relevance as vector of apple proliferation in Germany. Phytopathology 99: 729–738. NAVRATIL M., FIALOVA R., KOCOUREK F., LAUTERER P., VALOVA P., SAFAROVA D. & PONCAROVA-VORACKOVA,
+OF. 2004: Problems of European stone fruit yellows phytoplasma in the Czech Republic. In: Proceedings of
+the XVI. Slovak and Czech Plant Protection Conference organized at Slovak Agricultural University in
+Nitra, Slovakia. Acta Phytotechnica et Zootechnica (Nitra) 7: 217-219. OssIANNILSSON F, 1992: The Psylloidea (Homoptera) of Fennoscandia and Denmark. Entomological fauna
+Scandinavica 26: 1-346. OSSIANNILSSON F. & JANSSON M. 1981: Designation of a lectotype and description of Aphalara rumicicola
+avicularis n. ssp. (Homoptera, Psylloidea). Entomologica Scandinavica 12: 22-26. Pruner L. & Mika P. 1996: List of both and their parts in the Czech Republic with map field numbers for sieves
+mapovani fauny, (List of settlements in the Czech Republic with associated map field codes for faunistic
+grid mapping system.) Klapalekiana 32 (Suppl. ): 1-115 (in Czech, English summary). SELIAK G., MALENOVSKY I. & LAUTERER P. 2008: New records of jumping plant-lice from Slovenia with
+description of Bactericera lyrata sp. n. (Hemiptera: Psylloidea). Revue Suisse de Zoologie 115: 527-540. Sure K. 1912: Monographia generis Trioza Foerster. Species regionis palaearcticae. Part III, no. 21-35. Sessions of the Royal Bohemian Society of Sciences (Prague) 1912: 1-63, Tab. 21-35
+
+Tevescu! R., Bosco D. & ALMA A. 2002: Population dynamics of Cacopsylla melanoneura (Homoptera:
+Psyllidae), a vector of apple proliferation phytoplasma in northwestern Italy. Journal of Economic
+Entomology 95: 544–351
+
+Tepescut R., LAUTERER P., BRUSETT! L., Tota F. & ALMA A. 2009: Composition, abundance and phytoplasma
+infection in the hawthorn psyllid fauna of northwestem Italy. European Journal of Plant Pathology 123:
+301-310. Vonpracex K. 1957: Mery - Psylloidea. Fauna CSR, volume 9. (Jumping plant-lice ~ Psylloidea. Fauna of
+Czechoslovakia, vol. 9.] Nakladatelstvi Ceskoslovenské akademie véd, Praha, 431 pp (in Czech, German
+and Russian summaries). 154 Acta Mus. Moraviae, Sci. biol. (Brno), 96 (2) (2011), 2012

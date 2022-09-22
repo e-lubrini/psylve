@@ -1,0 +1,1117 @@
+Blackwell Publishing Ltd
+
+Identiﬁcation of fruit tree phytoplasmas and their vectors in Bosnia and 
+Herzegovina
+
+1,2
+
+, M. Martini
+
+, P. Ermacora
+3
+
+D. Delic
+University of Banja Luka, Faculty of Agriculture, 78000 Banja Luka (Bosnia and Herzegovina)
+1
+Istituto Agronomico Mediterraneo, via Ceglie 9, 70010 Valenzano (Italy)
+2
+University of Udine, DiPi, via Scienze 208, 33100 Udine (Italy); e-mail: luigi.carraro@uniud.it
+3
+Certis Europe, Via A. Guaragna 3–1047 Saronno (VA) (Italy); e-mail: myrta@certiseurope.it 
+4
+Corresponding author
+*
+
+, A. Myrta
+3
+
+ and L. Carraro
+
+2,4
+
+*
+3
+
+Surveys were carried out in autumn 2004 and spring 2005 in the traditional areas dedicated to
+pome and stone fruit cultivation in Bosnia and Herzegovina to assess the presence, distribution
+and incidence of phytoplasma diseases in fruit trees. The occurrence of psyllid vectors was also
+considered. The detection of phytoplasmas in plant and insect samples and their identiﬁcation
+were carried out by symptom observations in the ﬁeld, double antibody sandwich-enzyme linked
+immunosorbent assay (DAS-ELISA), nested polymerase chain reaction (nested-PCR) and restriction
+fragment length polymorphism (RFLP) analyses. Laboratory analyses showed the presence of
+ Phytoplasma mali’) in 23
+phytoplasmas belonging to: (i) 16SrX group, subgroup A (‘
+Cacopsylla costalis
+out of 25 apple samples, in 4 groups out of 18 of 
+)
+Candidatus
+and in 2 groups out of 9 of 
+; (iii)
+Phytoplasma pyri’) in 11 out of 30 pears samples and in 2 groups out of 9 of 
+ Phytoplasma prunorum’) in 4 apricots, 2 peaches out of
+16SrX group, subgroup B (‘
+42 stone fruit samples and in 1 group out of 14 of 
+. The presence of different
+subtypes of 
+
+ Phytoplasma mali, both in apple trees and in insects, was proven.
+
+; (ii) 16SrX group, subgroup C (‘
+
+Cacopsylla melanoneura
+
+Cacopsylla pruni
+
+Cacopsylla picta
+
+Cacopsylla pyri
+
+Candidatus
+
+Candidatus
+
+Candidatus
+
+ (synonym 
+
+Introduction
+
+Materials and methods
+
+Phytoplasma  diseases  cause  serious  damage  to  fruit  trees  in
+areas  with  a  temperate  climate.  Phytoplasma-like  symptoms
+have been observed on fruit trees in Bosnia and Herzegovina
+during  recent  years.  No  phytoplasma  expertise  and  detection
+facilities  were  available  locally,  thus  other  biotic  or  abiotic
+factors  were  usually  held  responsible  for  the  diseases.  Only
+recently  has  the  presence  of  pear  decline  been  conﬁrmed  by
+PCR and RFLP analyses (Duduk 
+., 2005a) in Bosnia and
+Herzegovina.
+
+et al
+
+Phytoplasma diseases – apple proliferation associated with
+Candidatus
+ Phytoplasma mali’, pear decline associated with
+‘
+Candidatus
+‘
+  Phytoplasma  pyri’  and  European  stone  fruit
+Candidatus
+ Phytoplasma prunorum’
+yellows associated with ‘
+–  have  been  detected  in  neighbouring  countries  (Saric  &
+et al
+Cvjetkovic, 1985; Tanaskovic & Carraro, 2003; Duduk 
+.,
+2005b)  with  which  plant  material  is  frequently  exchanged.
+Taking this into account, the main objective of the present paper was
+to detect the presence and quantify the incidence of phytoplasma
+diseases in fruit trees in Bosnia and Herzegovina.
+
+A further objective was to assess the presence of the known
+psyllid vectors of fruit tree phytoplasmas, because phytoplasma
+diseases  are  particularly  dangerous  in  areas  where  both
+infected  plants  (sources  of  inoculum)  and  insect  vectors  are
+present.
+
+Field surveys
+
+Surveys were carried out during autumn (October 2004) and
+spring  (April  2005).  Stone  fruit,  apple  and  pear  trees  were
+checked for symptoms of phytoplasma infection. The symptoms
+considered were: leaf roll, yellowing and phloem necrosis for
+European  stone  fruit  yellows;  witches’  broom,  small  leaves,
+enlarged  stipules  and  reddening  for  apple  proliferation;  leaf
+roll,  small  leaves,  yellowing/reddening  and  decline  for  pear
+decline.  Several  hectares  of  orchards  in  the  north-western
+(Gradiska-Banjaluka), 
+central
+southern 
+(Sarajevo-Maglaj)  areas  of  Bosnia  and  Herzegovina  were
+Malus
+inspected. Samples were collected from cultivated apple (
+Prunus  persica
+pumila
+),
+Prunus domestica
+apricot (
+)
+and from wild myrobalan (
+) and blackthorn
+Prunus spinosa
+). Apple and pear samples were only collected
+(
+from  symptomatic  trees.  Different  cultivars  on  different
+rootstocks from private or commercial orchards were chosen;
+some bordering trees were also considered.
+
+),  peach  (
+), European plum (
+
+Prunus cerasifera
+
+Prunus armeniaca
+
+Pyrus  communis
+
+),  pear  (
+
+(Mostar) 
+
+and 
+
+To  better  understand  the  epidemiology  of  fruit  tree  phyto-
+plasmas in Bosnia and Herzegovina, surveys were also carried
+out during April 2005 in the same areas to detect the presence
+Cacopsylla
+of  known  psyllid  vectors. 
+
+Cacopsylla  picta
+, 
+
+444
+
+© 2007 The Authors. Journal compilation © 2007 OEPP/EPPO, 
+
+Bulletin OEPP/EPPO Bulletin
+
+37
+
+, 444–448
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Identiﬁcation of fruit tree phytoplasmas in Bosnia and Herzegovina
+
+445
+
+  and
+
+C. picta
+C. pyri
+. 
+
+  Cacopsylla  pruni
+
+melanoneura,  Cacopsylla  pyri
+  were
+collected using the beating tray method. One old pear orchard
+C. melanoneura
+was chosen for collecting 
+C. pruni
+were  captured  in  abandoned  apple  orchards,  and 
+  in
+abandoned  plum  and  apricot  orchards. After  identiﬁcation  of
+the collected insects under a binocular microscope, they were
+split into groups of 10 and 20 individuals and kept at 
+C
+(in 70% ethanol) for successive laboratory analyses.
+
+ and 
+
+20 
+
+−
+
+°
+
+Serological and PCR/RFLP analyses
+
+Ca
+
+DAS-ELISA was carried out to detect ‘
+samples, using the 1F4/1E2 monoclonal antibody (Loi 
+
+. P. mali’ in the apple
+et al
+., 2001).
+Two  procedures  were  used  for  DNA  extraction.  The
+et al
+.
+phytoplasma enrichment procedure modiﬁed by Malisano 
+(1996) was adopted for DNA extraction from leaves collected
+from  different  trees. The  DNA  extraction  from  insects  was
+carried out according to Doyle & Doyle (1990). Nested PCR
+was employed for the detection of phytoplasmas both in plants
+and psyllids using the universal primers P1/P7 (Deng & Hiruki,
+1991) followed by R16F2n/R16R2 (Gundersen & Lee, 1996).
+Mse
+The  R16F2n/R2  amplicons  were  then  digested  with 
+I
+restriction  enzyme.  Another  nested  PCR  procedure  using
+16SrX phytoplasma group speciﬁc primer pair f01/r01 (Lorenz
+et al
+., 1995) was performed, in which the PCR products were
+Bsa
+digested with the endonucleases 
+
+AI and
+
+ Ssp
+
+I.
+
+Candidatus
+‘
+
+ Phytoplasma mali’ subtypes
+
+et al
+
+ and 
+
+C. picta
+Ca.
+
+C. melanoneura
+Both apple trees and psyllid vectors 
+were analysed for the presence of ‘
+ P. mali’ subtypes. Two
+PCR/RFLP procedures were adopted: the method described by
+. (2000) based on nonribosomal DNA fragments
+Jarausch 
+that  distinguish  the  subtypes AP, AT-1  and AT-2;  the  method
+. (2005), based on ribosomal protein
+developed by Martini 
+. The rp genes-based method
+(rp) gene sequences 
+ and 
+. P. mali’ subtypes, indicated as
+distinguishes four different ‘
+rpX-A, rpX-B, rpX-C and rpX-D, by RFLP analysis using the
+Alu
+
+et al
+rpl22
+
+I enzyme.
+
+rps3
+
+Ca
+
+Results
+
+Field surveys
+
+Phytoplasma  symptoms  were  observed  on  fruit  trees  in  all
+orchards  surveyed,  with  the  exception  of  apricot  and  peach
+orchards  in  Banjaluka  where  symptomatic  plants  were  not
+found. The percentage of symptomatic trees was: 20 –90% in
+apple orchards; 6 –70% in pear orchards; 0 –50% in stone fruit
+orchards (Tables 1, 2 and 3). The wild 
+ species as well
+as the European plum trees were symptomless. Altogether, 97
+samples were collected: 25 symptomatic apples, 30 symptomatic
+pears and 42 stone fruits.
+
+Prunus
+
+Table 1 The presence of ‘Ca. Phytoplasma mali’ in apple trees in different locations in Bosnia and Herzegovina and samples analysed using two nested PCR/
+RFLP procedures and ELISA. The percentage of symptomatic plants in the surveyed orchards is also reported
+
+Symptomatic 
+plants (%)
+
+N° of samples positive/ 
+tested using phytoplasma 
+universal primers
+
+N° of samples positive/ 
+tested using phytoplasma 
+group speciﬁc primers
+
+N° of samples positive/ 
+tested using ELISA
+
+20
+n.p.
+n.p.
+90
+90
+
+/
+
+7/7
+2/2
+2/2
+7/8
+5/6
+
+7/7
+2/2
+2/2
+7/8
+5/6
+
+6/7
+2/2
+1/2
+4/8
+4/6
+
+23/25 (92%)
+
+23/25 (92%)
+
+17/25 (68%)
+
+Location
+
+Gradiska
+Srbac
+Laktasi
+Sarajevo
+Maglaj
+
+Total
+
+n.p., not performed.
+
+Table 2 ‘Ca. Phytoplasma pyri’ found in pear 
+trees in different locations in Bosnia and 
+Herzegovina and analysed using two nested 
+PCR/RFLP procedures. The percentage of 
+symptomatic plants in the surveyed orchards is 
+also reported
+
+Symptomatic 
+plants (%)
+
+N° of samples positive/ 
+tested using phytoplasma 
+universal primers
+
+N° of samples positive/ 
+tested using phytoplasma 
+group speciﬁc primers
+
+60
+6
+70
+30
+n.p.
+30
+
+/
+
+6/12
+0/3
+2/3
+2/3
+0/1
+1/8
+
+6/12
+0/3
+2/3
+2/3
+0/1
+1/8
+
+11/30 (37%)
+
+11/30 (37%)
+
+Location
+
+Gradiska
+Srbac
+Banjaluka
+Sarajevo
+Zenica
+Maglaj
+
+Total
+
+n.p., not performed.
+
+© 2007 The Authors. Journal compilation © 2007 OEPP/EPPO, 
+
+Bulletin OEPP/EPPO Bulletin
+
+37
+
+, 444–448
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+446
+
+D. Delic 
+
+et al.
+
+Table 3 ‘Ca. Phytoplasma prunorum’ present in Prunus species in different locations in Bosnia and Herzegovina and analysed using two nested PCR/RFLP 
+procedures. The percentage of symptomatic plants in the surveyed orchards is also reported
+
+Location
+
+Banjaluka
+
+Mostar
+
+Sarajevo
+Mostar, Doboj
+Sarajevo, Doboj
+
+Total
+
+Prunus spp.
+
+apricot
+peach
+apricot
+peach
+myrobalan
+European plum
+blackthorn
+
+Symptomatic 
+plants (%)
+
+N° of samples positive/ 
+tested using phytoplasma 
+universal primers
+
+N° of samples positive/ 
+tested using phytoplasma 
+group speciﬁc primers
+
+0
+0
+50
+20
+0
+0
+0
+
+/
+
+1/5
+1/5
+2/7
+2/4
+0/12
+0/3
+0/6
+
+1/5
+1/5
+2/7
+2/4
+0/12
+0/3
+0/6
+
+6/42 (14%)
+
+6/42 (14%)
+
+Table 4 Presence of ‘Ca. Phytoplasma mali’ in C. picta and C. melanoeura, 
+‘Ca. Phytoplasma pyri’ in C. pyri and ‘Ca. Phytoplasma prunorum’ in 
+C. pruni. All the psyllids were collected in orchards of Bosnia and 
+Herzegovina and grouped in batches of 10–20 individuals
+
+Psyllida
+
+C. picta
+
+C. melanoneura
+
+C. pyri
+
+C. pruni
+
+N° insects/
+group
+
+N° tested 
+groups
+
+N° of phytoplasma 
+positive/tested groups
+
+10
+20
+
+10
+20
+
+10
+20
+
+10
+20
+
+8
+10
+
+6
+3
+
+4
+5
+
+13
+1
+
+3/8
+1/10
+
+1/6
+1/3
+
+0/4
+2/5
+
+1/13
+0/1
+
+aA total of 280 C. picta, 120 C. melanoneura, 140 C. pyri and 150 C. pruni 
+were collected.
+
+  and 
+
+C. pyri
+
+In April 2005, a total of 690 individuals of 
+
+C. picta
+C. pruni
+,
+, 
+C. melanoneura
+C. pyri
+  were  captured  (Table 4). 
+had  reached  the  end  of  its  annual  life  cycle  (overwintering
+generation) and therefore was not very abundant. In stone fruit
+orchards,  psyllids  were  mostly  captured  from  suckers
+P. cerasifera
+P. domestica
+(
+. In some of
+, 
+the orchards where psyllids were collected, pear decline, apple
+proliferation and European stone fruit yellows were present.
+
+) or from wild 
+
+P. spinosa
+
+Detection and identiﬁcation of phytoplasmas in fruit trees 
+and psyllids
+
+Ca.
+
+Using ELISA (Table 1), 17 out of 25 (68%) of the tested apple
+ P. mali’. Tables 1, 2, 3
+trees were positive for the presence of ‘
+and 4 show the results obtained using two PCR procedures (with
+universal and group speciﬁc primer pairs) for the detection of
+the three phytoplasmas in both plants and insects. The two PCR
+procedures adopted were equally sensitive. All the R16F2n/R2
+Mse
+amplicons, when digested with 
+ I restriction enzyme, showed
+
+the typical restriction proﬁle of the 16Sr-X phytoplasma group,
+both  in  plants  and  insects.  RFLP  analyses  of  f01/r01  PCR
+I enzymes conﬁrmed the presence
+products using 
+C. melanoneura
+Ca.
+ P. mali’ in apple samples, 
+;
+ and 
+of: ‘
+C. pyri
+Ca.
+Ca.
+‘
+; ‘
+ P. prunorum’
+ P. pyri’ in pear samples and in 
+C. pruni
+.
+in apricot and peach samples and in 
+
+C. picta
+
+AI and 
+
+Bsa
+
+Ssp
+
+Candidatus
+‘
+
+ Phytoplasma mali’ subtypes
+
+et al
+
+et al
+The subtypes AP, AT-1 and AT-2, as deﬁned by Jarausch 
+.
+(2000), were identiﬁed in the apple samples which had tested
+positive for apple proliferation. Following the method proposed
+. (2005), two subtypes (rpX-A and rpX-B) were
+by Martini 
+identiﬁed  in  the  same  apple  proliferation  infected  trees.
+Combining the results obtained using the two procedures, we
+identiﬁed  in  the  23  trees  infected  by  apple  proliferation  the
+following subtypes: 14 (61%) AP/rpX-A; 6 (26%) AT-2/rpX-A;
+2 (9%) AT-1/rpX-A, 1 (4%) AT-1/rpX-B. Regarding the positive
+,  positive
+batches  of  vectors, 
+results were only obtained with the method based on ribosomal
+protein  gene  sequences  while  it  was  not  possible  to  amplify
+. (2000).
+phytoplasma DNA with the procedure by Jarausch 
+In both vectors, the subtype rpX-A was found.
+
+C. melanoneura
+
+C. picta
+
+  and 
+
+et al
+
+Discussion
+
+Ca.
+
+Regarding ‘
+ P. mali’, PCR was found to be more sensitive
+than ELISA. However, serological tests can be used for large-
+scale  diagnosis,  and  PCR  as  a  conﬁrmation  in  the  case  of
+ELISA-negative  or  doubtful  results.  The  high  correlation
+between the presence of symptoms on collected plant material
+and the presence of the disease agent (more than 90% of the
+tested samples were found infected) as well as the presence of
+C. melanoneura
+apple proliferation-infected vectors (
+),
+strongly indicate that the disease is epidemic in the country.
+The  absence  of  strict  phytosanitary  controls  in  nurseries  and
+fruit orchards and a widespread occurrence of psyllid vectors
+are facilitating the spread of apple proliferation in Bosnia and
+  Phytoplasma
+Herzegovina.  The  distribution  pattern  of  ‘
+
+C. picta
+
+ and 
+
+Ca.
+
+© 2007 The Authors. Journal compilation © 2007 OEPP/EPPO, 
+
+Bulletin OEPP/EPPO Bulletin
+
+37
+
+, 444–448
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Identiﬁcation of fruit tree phytoplasmas in Bosnia and Herzegovina
+
+447
+
+vectors in Bosnia and Herzegovina which represent a serious
+threat to the local fruit tree industry.
+
+Identiﬁcation de phytoplasmes pathogènes 
+des arbres fruitiers et de leurs vecteurs en 
+Bosnie-Herzégovine
+
+Des  prospections  ont  été  menées  à  l’automne  2004  et  au
+printemps 2005 dans les zones traditionnellement dédiées à la
+culture des fruits à pépins et à noyaux en Bosnie-Herzégovine
+pour  évaluer  la  présence,  la  distribution  et  l’incidence  des
+maladies à phytoplasme dans les arbres fruitiers. La présence
+de  psylles  vecteurs  a  également  été  étudiée.  La  détection  de
+phytoplasmes dans les échantillons de végétaux et d’insectes et
+leur identiﬁcation ont été menées par l’observation de symptômes
+au  champ,  et  des  analyses  DAS-ELISA  (double  antibody
+sandwich-enzyme  linked  immunosorbent  assay),  nested-PCR
+(nested  polymerase  chain  reaction)  et  RFLP  (restriction
+fragment  length  polymorphism).  Les  analyses  de  laboratoire
+ont  montré  la  présence  de  phytoplasmes  appartenant  au :  i)
+groupe  16SrX,  sous-groupe  A  (‘Candidatus  Phytoplasma
+mali’) dans 23 des 25 échantillons de pommiers, dans 4 groupes
+sur 18 de Cacopsylla picta (synonyme Cacopsylla costalis) et
+dans 2 groupes sur 9 de Cacopsylla melanoneura ; ii) groupe
+16SrX, sous-groupe C (‘Candidatus Phytoplasma pyri’) dans
+11 des 30 échantillons de poiriers et dans 2 groupes sur 9 de
+Cacopsylla pyri ; iii) groupe 16SrX, sous-groupe B (‘Candidatus
+Phytoplasma prunorum’) dans 4 échantillons d’abricotiers, 2 de
+pêchers  sur  les  42  échantillons  d’arbres  fruitiers  à  noyaux  et
+dans  1  groupe  sur  14  de  Cacopsylla  pruni.  La  présence  de
+différents  sous-groupes  de  Candidatus  Phytoplasma  mali  a
+ainsi été prouvée à la fois dans les pommiers et les insectes.
+
+mali’  subtypes  was  found  to  be  similar  to  that  described  in
+Germany  (Jarausch  et al.,  2004)  where  AP  subtype  was
+predominant,  followed  by  AT-2  and  AT-1  but  completely
+different from the situation in the Trentino Alto Adige region
+(Italy), where the AP subtype was sporadically found (Cainelli
+et al.,  2004).  Results  obtained  by  using  the  typing  method
+proposed by Martini et al. (2005) which showed rpX-A was
+the predominant subtype, should be considered as preliminary
+and  need  to  be  conﬁrmed  by  extended  surveys  in  different
+apple-growing areas.
+
+Although  all  30  pear  samples  were  collected  from  trees
+showing pear decline symptoms, only 11 (37%) were positive
+for the presence of ‘Ca. P. pyri’. This conﬁrms that symptoms
+of pear decline are not highly speciﬁc and can be confused with
+other disorders such as graft-incompatibility, chlorosis, fungal,
+viral or bacterial diseases. Although only 37% of the symptomatic
+samples were positive in laboratory analyses, pear decline was
+detected  in  almost  all  locations  inspected.  In  north-western
+Bosnia and Herzegovina, C. pyri was found to be infected by
+the disease agent. In terms of single insects, the minimum rate
+of  psyllids  carrying  phytoplasmas  was  1.4%.  Vector  control
+appears  to  be  of  fundamental  importance  for  reducing  the
+spread of pear decline.
+
+The  infection  rate  of  ‘Ca.  P.  prunorum’  in  symptomatic
+samples was 25%, and in symptomless samples 10%. In routine
+diagnosis and in order to obtain reliable results on the presence
+of the causal agent in Prunus species, the optimal time for
+sampling  leaves  is  from  July  to  September  (Jarausch  et al.,
+1999). The rather late period chosen for our survey probably
+inﬂuenced  the  low-rate  detection  of  the  phytoplasma  in
+symptomatic apricot samples. Symptom severity of European
+stone  fruit  yellows  is  inﬂuenced  by  the  rootstock.  The  main
+apricot  rootstocks  in  Bosnia  and  Herzegovina  are  European
+plum  and  myrobolan  which  show  intermediate  susceptibility
+and sensitivity (Carraro et al., 2004). This could be the cause of
+the  occurrence  of  ‘Ca.  P.  prunorum’  in  some  symptomless
+trees. European stone fruit yellows is a serious problem in the
+Mediterranean area (France, Italy, Spain), where the cultivation
+of  susceptible  and  sensitive  Prunus  species  (apricot  and
+Japanese plum) is widespread. Consequently, the low incidence
+of  ‘Ca.  P.  prunorum’  in  Prunus  species  in  Bosnia  and
+Herzegovina  can  be  correlated  to  the  limited  cultivation  of
+these highly susceptible species. Despite its low incidence, ‘Ca.
+P. prunorum’ was recorded in northern and southern parts of
+Bosnia and Herzegovina.
+
+Infected C. pruni were collected in an apricot orchard where
+European stone fruit yellows was diagnosed. Adults were more
+numerous  on  wild  Prunus  species  and  rootstocks  than on
+apricots. This is in agreement with the hypothesis that wild
+Prunus  species,  especially  Prunus  spinosa,  are  the  preferred
+host  plants  of  the  vector  (Carraro et al.,  2002).  Our  results
+desmonstrate that both the disease and the vector are present in
+Bosnia and Herzegovina even if the disease incidence and the
+level of infectivity of C. pruni seem to be low.
+
+In conclusion, we determined the presence and the incidence
+of three dangerous phytoplasma diseases and their respective
+
+© 2007 The Authors. Journal compilation © 2007 OEPP/EPPO, Bulletin OEPP/EPPO Bulletin 37, 444–448
+
+448
+
+D. Delic et al.
+
+by nested PCR assays using two universal primer pairs. Phytopathologia
+Mediterranea 35, 144–151.
+
+Jarausch W, Lansac M & Dosba F (1999) Seasonal colonization pattern of
+European  stone  fruit  yellows  phytoplasma  in  different  Prunus  species
+detected by speciﬁc PCR. Journal of Phytopathology 147, 47–56.
+
+Jarausch W, Saillard B, Helliot B, Garnier M & Dosba F (2000) Genetic
+variability  of  apple  proliferation  phytoplasmas  as  determined  by  PCR-
+RFLP  and  sequencing  of  a  non-ribosomal  fragment. Molecular and
+Cellular Probes 14, 17–24.
+
+Jarausch W, Schwind N, Jarausch B & Krczal G (2004) Analysis of the
+distribution of apple proliferation phytoplasma subtypes in a local fruit grow-
+ing region in southwest Germany. Acta Horticulturae no. 657, 421–424.
+Loi N, Ermacora P, Carraro L, Osler R & Chen TA (2001) Production of
+monoclonal antibodies against apple proliferation phytoplasma and their
+use in serological detection. European Journal of Plant Pathology 108,
+81–86.
+
+Lorenz KH, Schneider B, Ahrens U & Seemüller E (1995) Detection of the
+apple proliferation and pear decline phytoplasmas by PCR ampliﬁcation
+of ribosomal and nonribosomal DNA. Phytopathology 85, 771–776.
+Malisano G, Firrao G & Locci R (1996) 16S rDNA-derived oligonucleotide
+probes  for  the  differential  diagnoses  of  plum  leptonecrosis  and
+apple  proliferation  phytoplasmas.  Bulletin  OEPP/EPPO  Bulletin  26,
+421–428.
+
+Martini M, Ermacora P, Delic D, Moruzzi S, Loi N & Carraro L (2005)
+Spreading  and  characterisation  of  ‘Candidatus  Phytoplasma  mali’
+subtypes in different apple growing areas. Petria 15, 105–107.
+
+Saric A & Cvjetkovic B (1985) Mycoplasma-like organism associated with
+apple proliferation and pear decline-like disease of pears. Poljoprivredna
+Znanstvena Smotra 68, 61–65.
+
+Tanaskovic S & Carraro L (2003) The appearance of European stone fruit
+yellows phytoplasma of apricot and plum in Serbia. Proceedings of the
+6th National Symposium of Plant Protection, p. 89. Zlatibor (RS).
+
+References
+
+Cainelli C, Bisognin C, Vindimian ME & Grando MS (2004) Genetic
+variability  of AP  phytoplasma  detected  in  the  apple  growing  area  of
+Trentino (north Italy). Acta Horticulturae no. 657, 425–430.
+
+Carraro L, Ferrini F, Ermacora P & Loi N (2002) Role of wild Prunus
+species  in  the  epidemiology  of  European  stone  fruit  yellows.  Plant
+Pathology 51, 513–517.
+
+Carraro L, Ferrini F, Ermacora P & Loi N (2004) Transmission of European
+stone fruit yellows phytoplasma to Prunus species by using vector and
+graft transmission. Acta Horticulturae no. 657, 449–453.
+
+Deng S & Hiruki D (1991) Ampliﬁcation of 16S rRNA genes from culturable
+and nonculturable mollicute. Journal of Microbiological Methods 14, 53–
+61.
+
+Doyle JJ & Doyle JL (1990) Isolation of plant DNA from fresh tissue. Focus
+
+12, 13–15.
+
+Duduk B, Botti S, Trkulja V, Ivanovic M, Stojcic J & Bertaccini A (2005a)
+Occurrence of pear decline in Bosnia and Herzegovina. Journal of Plant
+Pathology 87, 75.
+
+Duduk B, Ivanoviæ M, ObradoviÇ A, Paltrinieri S & Bertaccini A (2005b)
+First report of pear decline phytoplasma on pear in Serbia. Plant Disease
+89, 774.
+
+Gundersen DE & Lee IM (1996) Ultrasensitive detection of phytoplasmas
+
+© 2007 The Authors. Journal compilation © 2007 OEPP/EPPO, Bulletin OEPP/EPPO Bulletin 37, 444–448
+
+
