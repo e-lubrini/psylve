@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/e-lubrini/psylve/blob/main/img/logos/logo_g.png" width="250" />
+  <img src="https://github.com/e-lubrini/psylve/blob/main/data/imgs/logos/logo_g.png" width="250" />
 </p>
 
 <h2 align="center">A Text-to-Ontology Information
