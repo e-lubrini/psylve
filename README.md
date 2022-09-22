@@ -10,11 +10,11 @@ Distribution of Plant Pathogen Vectors</h2>
 Ontology and Text Mining project @ INRAE optimised on data concerning the taxonomic superfamily Psylloidea with a focus on its role as vecor of phythoplasma.
 
 ## Pipeline Modules
-- Dataset Overview [README](https://github.com/e-lubrini/psylve/tree/internship/src/dataset_overview#dataset-overview)
-- Text Extraction [README](https://github.com/e-lubrini/psylve/tree/internship/src/text_extraction#text-extraction)
-- Ontology [README](https://github.com/e-lubrini/psylve/tree/internship/src/ontology#ontology)
-- NER [README](https://github.com/e-lubrini/psylve/tree/internship/ner#named-entity-recognition-ner-extraction)
-- Evaluation [README](https://github.com/e-lubrini/psylve/tree/internship/dataset_overview#dataset-overview)
+- Dataset Overview [README](https://github.com/e-lubrini/psylve/tree/main/src/data_overview)
+- Text Extraction [README](https://github.com/e-lubrini/psylve/tree/main/src/text-extraction)
+- Ontology [README](https://github.com/e-lubrini/psylve/tree/main/src/ontology)
+- NER [README](https://github.com/e-lubrini/psylve/tree/main/src/ner)
+- Evaluation [README](https://github.com/e-lubrini/psylve/tree/main/src/evaluation)
 
 ## Code Structure Overview
 Main files in the pipeline. To see the directory tree in more detail, check the README of the modules above.
